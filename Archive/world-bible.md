@@ -509,3 +509,134 @@ Nebo: Cloud Storage.
 Peklo: /dev/null alebo Recyklácia dát (bitová entropia).
 
 Upíri (Archanjeli): Memory Leaks (procesy, ktoré odmietajú zomrieť a žerú RAM/zdroje).
+
+
+
+ZMENA HLAVNÉHO HRDINU: Nie "Supervojak", ale "Zastaralý Hardvér"
+Súčasné klišé (Kapitán Amerika): Max sa zobudí a má "military grade" výbavu, ktorá je lepšia ako všetko ostatné. Je to ultimátna zbraň zo starej doby.
+
+Navrhovaná zmena: Maxov hardvér je prekliatie.
+
+Koncept: Maxove "Military Grade" nanodrony nie sú len silnejšie. Sú agresívnejšie a sú navrhnuté na krátku vojnu, nie na 2000 rokov života.
+
+Dôsledok:
+
+Zakaždým, keď Max použije svoje schopnosti (super silu, hackovanie, liečenie), jeho vlastné nanodrony ho začnú "požierať". Spaľujú jeho biologické tkanivo ako palivo.
+
+Nie je to nezraniteľný hrdina. Je to chodiaca časovaná bomba. Každý boj ho fyzicky devastuje. Musí si vyberať, kedy "zapne maXpowa mód", pretože vie, že si tým skracuje život o roky.
+
+Jeho "Palica" (Aegis Spike) nie je len zbraň, ale aj externá batéria/regulátor, ktorý ho drží nažive. Ak mu ju Elenia vezme, nezoberie mu len moc, ale pomaly ho zabíja.
+
+Prečo je to lepšie: Vytvára to okamžité napätie. Max nie je OP (overpowered). Je zúfalý a jeho moc má obrovskú cenu.
+
+2. ZMENA "MÁGIE": Nie "Kúzla", ale "Body Horror a Závislosť"
+Súčasné klišé (Techno-mágia): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
+
+Navrhovaná zmena: Používanie nanodronov je hnusné a bolestivé.
+
+Koncept: Nanodrony ("Prach") nie sú neviditeľná mana. Je to fyzická látka v ich telách.
+
+Dôsledok:
+
+Keď chce Archanjel alebo mág vrhnúť blesk, musí tie nanodrony fyzicky dostať zo svojho tela von. To znamená, že im praská koža, tečie im "strieborná krv" z očí alebo z rán na rukách, aby vytvorili efekt.
+
+Byť "mágom" znamená byť zjazvený, chudý a neustále na pokraji fyzického kolapsu.
+
+Závislosť: Títo ľudia sú závislí na dopĺňaní "Prachu". Archanjeli nelovia ľudí pre "energiu", ale doslova im vysávajú krv (nanodrony), aby nahradili tie, ktoré minuli na udržanie svojej moci. Sú to techno-upíri.
+
+Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Mágia" je tu choroba a závislosť, nie dar.
+
+3. ZMENA KONFLIKTU: Elenia má pravdu (Čiastočne)
+Súčasné klišé (Zlý zloduch): Elenia je zlá dcéra, ktorá chce zničiť svet a nahrať ľudí do VR, pretože je šialená/traumatizovaná. Max bojuje za "správnu vec".
+
+Navrhovaná zmena: Planéta reálne umiera a Elenin plán je jediná (hrozná) šanca.
+
+Koncept: Čo ak "Protokol Ticha" AI nebol len o kontrole ľudí? Čo ak AI udržiavala pri živote aj samotnú planétu?
+
+Zvrat: Planéta Achilles je nestabilná (napr. umierajúce jadro, toxická atmosféra). Terraformácia zlyháva. Inetis to vedela.
+
+Elenina motivácia: Elenia zistila pravdu. Vie, že o 50-100 rokov bude planéta neobývateľná. Fyzický život tu končí. Bodka.
+
+Konflikt:
+
+Elenin "Veľký Upload" nie je šialený sen. Je to Noemova Archa. Je to jediný spôsob, ako zachrániť vedomie ľudstva pred vyhynutím – preniesť ho do Jadra lode, ktoré vydrží aj zničenie planéty. Áno, je to nútené a hrozné, ale je to prežitie.
+
+Max bojuje za "život v realite", ale bojuje za niečo, čo je odsúdené na zánik. Bojuje zo sentimentu.
+
+Prečo je to lepšie: Toto je "game changer". Zrazu Max nie je jednoznačne "dobrý". Možno je to starý blázon, ktorý odsudzuje ľudstvo na smrť, pretože sa nevie vzdať svojho tela. Morálka sa stáva brutálne šedou.
+
+Zhrnutie nového "Feelingu"
+Ak aplikujeme tieto zmeny:
+
+Max je chodiaca mŕtvola, ktorú zabíja vlastná moc.
+
+Svet je miesto, kde "mágia" znamená rezať si žily a kradnúť krv iným.
+
+Zloduch sa snaží zachrániť ľudstvo pred istým vyhynutím tým najhorším možným spôsobom, zatiaľ čo hrdina bojuje za sentimentálnu ilúziu.
+
+To už neznie ako klišé young adult sci-fi. To znie ako temný, dospelý a zúfalý príbeh o prežití za každú cenu.
+
+
+1. ZMENA HLAVNÉHO HRDINU: Nie "Supervojak", ale "Zastaralý Hardvér"
+Súčasné klišé (Kapitán Amerika): Max sa zobudí a má "military grade" výbavu, ktorá je lepšia ako všetko ostatné. Je to ultimátna zbraň zo starej doby.
+
+Navrhovaná zmena: Maxov hardvér je prekliatie.
+
+Koncept: Maxove "Military Grade" nanodrony nie sú len silnejšie. Sú agresívnejšie a sú navrhnuté na krátku vojnu, nie na 2000 rokov života.
+
+Dôsledok:
+
+Zakaždým, keď Max použije svoje schopnosti (super silu, hackovanie, liečenie), jeho vlastné nanodrony ho začnú "požierať". Spaľujú jeho biologické tkanivo ako palivo.
+
+Nie je to nezraniteľný hrdina. Je to chodiaca časovaná bomba. Každý boj ho fyzicky devastuje. Musí si vyberať, kedy "zapne maXpowa mód", pretože vie, že si tým skracuje život o roky.
+
+Jeho "Palica" (Aegis Spike) nie je len zbraň, ale aj externá batéria/regulátor, ktorý ho drží nažive. Ak mu ju Elenia vezme, nezoberie mu len moc, ale pomaly ho zabíja.
+
+Prečo je to lepšie: Vytvára to okamžité napätie. Max nie je OP (overpowered). Je zúfalý a jeho moc má obrovskú cenu.
+
+2. ZMENA "MÁGIE": Nie "Kúzla", ale "Body Horror a Závislosť"
+Súčasné klišé (Techno-mágia): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
+
+Navrhovaná zmena: Používanie nanodronov je hnusné a bolestivé.
+
+Koncept: Nanodrony ("Prach") nie sú neviditeľná mana. Je to fyzická látka v ich telách.
+
+Dôsledok:
+
+Keď chce Archanjel alebo mág vrhnúť blesk, musí tie nanodrony fyzicky dostať zo svojho tela von. To znamená, že im praská koža, tečie im "strieborná krv" z očí alebo z rán na rukách, aby vytvorili efekt.
+
+Byť "mágom" znamená byť zjazvený, chudý a neustále na pokraji fyzického kolapsu.
+
+Závislosť: Títo ľudia sú závislí na dopĺňaní "Prachu". Archanjeli nelovia ľudí pre "energiu", ale doslova im vysávajú krv (nanodrony), aby nahradili tie, ktoré minuli na udržanie svojej moci. Sú to techno-upíri.
+
+Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Mágia" je tu choroba a závislosť, nie dar.
+
+3. ZMENA KONFLIKTU: Elenia má pravdu (Čiastočne)
+Súčasné klišé (Zlý zloduch): Elenia je zlá dcéra, ktorá chce zničiť svet a nahrať ľudí do VR, pretože je šialená/traumatizovaná. Max bojuje za "správnu vec".
+
+Navrhovaná zmena: Planéta reálne umiera a Elenin plán je jediná (hrozná) šanca.
+
+Koncept: Čo ak "Protokol Ticha" AI nebol len o kontrole ľudí? Čo ak AI udržiavala pri živote aj samotnú planétu?
+
+Zvrat: Planéta Achilles je nestabilná (napr. umierajúce jadro, toxická atmosféra). Terraformácia zlyháva. Inetis to vedela.
+
+Elenina motivácia: Elenia zistila pravdu. Vie, že o 50-100 rokov bude planéta neobývateľná. Fyzický život tu končí. Bodka.
+
+Konflikt:
+
+Elenin "Veľký Upload" nie je šialený sen. Je to Noemova Archa. Je to jediný spôsob, ako zachrániť vedomie ľudstva pred vyhynutím – preniesť ho do Jadra lode, ktoré vydrží aj zničenie planéty. Áno, je to nútené a hrozné, ale je to prežitie.
+
+Max bojuje za "život v realite", ale bojuje za niečo, čo je odsúdené na zánik. Bojuje zo sentimentu.
+
+Prečo je to lepšie: Toto je "game changer". Zrazu Max nie je jednoznačne "dobrý". Možno je to starý blázon, ktorý odsudzuje ľudstvo na smrť, pretože sa nevie vzdať svojho tela. Morálka sa stáva brutálne šedou.
+
+Zhrnutie nového "Feelingu"
+Ak aplikujeme tieto zmeny:
+
+Max je chodiaca mŕtvola, ktorú zabíja vlastná moc.
+
+Svet je miesto, kde "mágia" znamená rezať si žily a kradnúť krv iným.
+
+Zloduch sa snaží zachrániť ľudstvo pred istým vyhynutím tým najhorším možným spôsobom, zatiaľ čo hrdina bojuje za sentimentálnu ilúziu.
+
+To už neznie ako klišé young adult sci-fi. To znie ako temný, dospelý a zúfalý príbeh o prežití za každú cenu.

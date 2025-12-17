@@ -5,7 +5,7 @@
 ```mermaid
 graph TD
     %% Definicia uzlov
-    B1(Kniha 1: ZEM<br>Prach Achilla)
+    B1(Kniha 1: ZEM<br>Prach)
     B2(Kniha 2: OHEŇ<br>Plamene Impéria)
     B3(Kniha 3: VODA<br>Slzy Matky)
     B4(Kniha 4: VZDUCH<br>Búrka Strojov)
