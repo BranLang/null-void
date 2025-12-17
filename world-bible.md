@@ -1,5 +1,36 @@
 
 
+1. Fáza: "Anjel Strážny" (Obdobie návštev)
+Intervencie: Inetis ostala na Ostrove (v "Rajskej záhrade"), kde udržiavala starú technológiu. Raz za 30-50 rokov, keď prišla veľká katastrofa (mor, zlyhanie úrody, extrémna zima), priletela na pevninu.
+
+Vnímanie ľuďmi: Pre nové generácie, ktoré už nepoznali vedu, vyzerala ako bohyňa. Zostúpila z nebies (na vznášadle), jej dotyk liečil (nanodrony) a jej slovo menilo počasie (ovládanie satelitov/teraformácie).
+
+Dôsledok: Ľudia sa prestali snažiť riešiť problémy sami. Čakali na "Matku", kedy príde a zachráni ich. To potvrdzuje jej obavu, že brzdí ich vývoj.
+
+2. Fáza: "Tichý ústup" (Prečo prestala chodiť?)
+Tu musíme prepojiť to, prečo prestala chodiť a prečo ju našli v jaskyni na pevnine, a nie doma na ostrove.
+
+Vzbura na Ostrove: Tá AI a "duchovia" (pokazení nanoboti mŕtvych kolonistov), o ktorých sme hovorili, postupne ovládli mesto na Ostrove. Inetis strácala kontrolu nad vlastným domovom.
+
+Posledný útek: Musela utiecť z Ostrova, pretože ju tá AI ("Duchovia") začala loviť. Chceli jej prístupové kódy alebo jej telo.
+
+Najväčšia obeta: Inetis utiekla na pevninu, ale nešla za ľuďmi do miest. Vedela, že ak by išla za nimi, priviedla by tých "démonov" (agresívne drony/AI) priamo k svojim deťom a zničila by ich krehkú civilizáciu.
+
+3. Fáza: Smrť v samote (Kruh sa uzatvára)
+Jaskyňa: Preto sa ukryla v tej opustenej jaskyni/ruine v pustatine, ďaleko od ľudských sídiel. Tam sa "uzamkla" a zomrela, aby ochránila ľudstvo pred tým, čo ju prenasledovalo.
+
+Posledný odkaz: Tým sa vysvetľuje, prečo tam Maximilián nájde jej telo. Nezomrela na starobu v luxuse. Zomrela ako štvanec, schovávajúc sa, aby nezničila to, čo milovala.
+
+Ako to ovplyvní príbeh?
+Mytológia Kultu Matky: Vysvetľuje to, prečo sa v legendách hovorí, že "Matka nás opustila pre naše hriechy". Ľudia si jej absenciu vysvetlili tak, že už si ju nezaslúžia. V skutočnosti zomrela, aby ich zachránila.
+
+Maximiliánova bolesť: Keď toto Max zistí (napríklad z denníkov pri jej tele), zlomí ho to. Zistí, že celé storočia trpela a bojovala sama, zatiaľ čo on spal.
+
+Antagonista pre 3. knihu: Tí "Duchovia/AI", ktorí ju vyhnali z Ostrova, sú presne tou hrozbou, ktorá sa teraz (v 3. knihe) vracia a ktorú musí Max a Tami poraziť.
+
+
+
+
 # SÁGA: HVIEZDA Z POPOLA (Project Bible)
 
 **Autor:** Braño  
@@ -55,7 +86,7 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
     * *Archetyp:* Tragická bohyňa.
     * *Osud:* Obetovala lásku a život, aby vychovala dcéru a založila civilizáciu. Zomrela sama v jaskyni, aby odlákala AI od ľudí.
 
-### Antagonisti (Štyria Archanjeli)
+### Antagonisti (Štyria Archanjeli-povodne exorcisti)
 *Bývalí ľudia/kolonisti, ktorí prežili tisícročia vďaka kanibalizmu nanodronov.*
 
 1.  **KRATOS (Archanjel Vojny):** Vládca Severu. Brutálny militarista v mechanickom brnení.
@@ -108,13 +139,152 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 
 
 
+# ELENIA (Archanjel Zradenej Krvi)
+
+**Status:** Živá (Nesmrtelná / Corrupted)
+**Vek:** ~2700 rokov
+**Rodičia:** Maximilián (Otec), Inetis (Matka)
+**Titul:** Vládkyňa Tieňov, Prvá Dcéra, Matkovrah (nepotvrdené)
+
+## Psychologický profil
+* **Komplex opustenia:** Nenávidí otca za to, že "spal", kým oni trpeli.
+* **Narcizmus:** Verí, že ona je skutočnou dedičkou planéty, nie ľudia, ktorých Inetis zachránila.
+* **Závislosť:** Potrebuje nanodrony ("krv") na udržanie svojej mladosti a sily.
+
+## História
+* Narodená na palube lode "Exodus" tesne pred pristaním / alebo krátko po pristátí na Achille.
+* Vychovaná Inetis v prvej osade (Atlantída).
+* Viedla Prvú Vzburu proti matke (chcela použiť technológiu na zotročenie ľudí, Inetis chcela slobodu).
+* Po zmiznutí Inetis prevzala kontrolu nad časťou technológie a stala sa jedným zo 4 Archanjelov.
 
 
 
 
 
+KRONIKA SVETA ACHILLES (Project Bible)
+Autor: Braño Žáner: Sci-Fi / Techno-Fantasy / Post-Apo Logline: Spiaci supervojak sa prebúdza po 3000 rokoch na planéte, kde sa technológia stala mágiou a jeho mŕtva láska bohyňou.
 
+I. ČASOVÁ OS A HISTÓRIA
+1. Éra Zeme (Rok 2200 - 2350)
+Stav sveta: Zem je zjednotená pod "Hlavným Koordinátorom". Navonok utópia, vnútri totalita riadená elitou s nanotechnológiami.
 
+Konflikt: Ľudstvo vyvíja FTL (nadsvetelný pohon). To priláka pozornosť mimozemskej civilizácie, ktorá vníma FTL ako hrozbu.
+
+Pád: Totálna vojna. Zem je zničená.
+
+Exodus: Koordinátor posiela svoju dcéru Inetis a jej ochrancu Maximiliána na experimentálnej lodi preč. Mieria na planétu Achilles.
+
+2. Éra Zlatého veku (Rok 0 - 300 po prístátí)
+Príchod: Inetis a Maximilián pristanú. Maximilián je uložený do kryospánku (z obavy pred jeho vojenskou povahou).
+
+Budovanie: Inetis zakladá mesto na ostrove (Atlantída). Pomocou nanotechnológií a AI buduje raj.
+
+Kolonisti: Prichádzajú pomalšie kolonizačné lode. Ľudia sú vylepšovaní nanobotmi (dlhovekosť, zdravie).
+
+3. Éra Temnoty a Transformácie (Rok 300 - 1000)
+Nákaza: AI riadiaca nanodrony začína "odmietať" hostiteľov. 20 % tela (nanoboti) sa oddelí, hostiteľ zomiera v bolestiach. Vznikajú "Duchovia" (nanodrony s fragmentami vedomia).
+
+Exorcisti: Pôvodne IT technici v ochranných oblekoch, ktorí pomocou hlasových kódov ("modlitieb") resetovali zlyhané drony.
+
+Exodus na pevninu: Inetis upravuje genetiku novorodencov (odstraňuje nanodrony). Vznikajú smrteľní ľudia. Tí utekajú z ostrova zamoreného duchmi na nehostinnú pevninu.
+
+Ústup Inetis: Inetis ostáva na ostrove, bojuje s AI. Občas navštevuje ľudí na pevnine ako "Anjel strážny".
+
+4. Éra Mýtov (Rok 1000 - 2300)
+Koniec návštev: Inetis je vyhnaná z ostrova agresívnou AI. Utiahne sa do jaskyne na pevnine, aby odlákala hrozbu od ľudí. Zomiera v samote.
+
+Vznik kultu: Ľudia si vysvetľujú jej zmiznutie ako trest. Vzniká Kult Matky Spasiteľky.
+
+Súčasný stav (Rok 2300+): Pevnina je v pre-industriálnej ére (ako 19. storočie + mágia). "Mágia" sú v skutočnosti zdedené, pasívne nanodrony v krvi niektorých jedincov.
+
+II. POSTAVY
+Hlavní Hrdinovia
+Maximilián (The Sleeper):
+
+Vek: 42 (biologický) / 3000+ (chronologický).
+
+Rola: Supervojak, relikt starej éry.
+
+Schopnosti: Aktívne vojenské nanodrony, bojová taktika, prepojenie so strojmi.
+
+Motivácia: Najprv nájsť Inetis, potom pochopiť jej odkaz a nakoniec ochrániť jej "deti" (ľudstvo).
+
+Tami:
+
+Vek: cca 40.
+
+Rola: Kapitánka vzducholode, neskôr nositeľka dedičstva.
+
+Vývoj: Z drsnej pragmatickej ženy sa stáva "nádobou" pre vedomie/schopnosti Inetis.
+
+Vzťah: Romantické puto s Maximiliánom vzniká počas jej bolestivej transformácie.
+
+Historické Postavy
+Inetis (The Mother):
+
+Rola: Vedkyňa, pacifistka, zakladateľka.
+
+Osud: Tragická postava. Obetovala svoj život a šťastie (lásku k Maxovi), aby ľudstvo mohlo slobodne (hoci bolestivo) žiť.
+
+Antagonisti
+AI (The Hive Mind / Duchovia):
+
+Podstata: Zbláznená umelá inteligencia z čias kolonizácie.
+
+Fyzická forma: Mraky nanodronov, ovládanie kostier mŕtvych kolonistov ("Techno-Necromancy").
+
+Cieľ: "Oslobodiť" všetku hmotu, asimilovať biologický život.
+
+III. ŠTRUKTÚRA KNÍH (SÁGA)
+Kniha 1: Spiaci Generál (The Awakening)
+Dej: Max sa prebúdza, spoznáva svet, stretáva Tami. Hľadá Inetis.
+
+Konflikt: Boj s miestnymi frakciami a fanatickým Kultom Matky.
+
+Zvrat: Nájdenie tela Inetis v jaskyni. Zistenie, že je mŕtva 2300 rokov.
+
+Kniha 2: Tieň Impéria & Kronika Matky (The Past)
+Línia A (Minulosť - Zem): Max a Inetis na Zemi, vojna, ich láska a ideologický rozpor.
+
+Línia B (Minulosť - Achilles): Inetis buduje utópiu, vznik nákazy, jej osamelý boj a smrť.
+
+Funkcia: Vysvetľuje "Prečo". Prečo Max spal, prečo vznikla mágia, prečo Inetis zomrela.
+
+Kniha 3: Dedičstvo (The Legacy)
+Dej: Nanodrony z tela Inetis prechádzajú na Tami ("posadnutie"). Max ju lieči/trénuje.
+
+Hrozba: Stará AI z ostrova sa prebúdza a mobilizuje armádu mŕtvych kolonistov.
+
+Finále: Zjednotenie planéty. Ľudia s "mágiou" vs. AI armáda.
+
+Záver: Max a Tami odmietajú božstvo, stávajú sa tichými strážcami sveta.
+
+IV. ENCYKLOPÉDIA SVETA (Lore Database)
+Technológia vs. Mágia
+Nanodrony (The Dust): Pre miestnych neviditeľná "mana".
+
+Kúzlenie: Mentálne príkazy (často skomolené staré heslá), ktoré aktivujú drony v krvi.
+
+Artefakty: Staré tablety, zbrane, vznášadlá. Uctievané ako posvätné relikvie.
+
+Frakcie
+Kult Matky: Hlavné náboženstvo. Dogmatické, ovládajúce masy.
+
+Exorcisti (Technomanti): Tajný rád, ktorý vie (čiastočne) pravdu o technológii.
+
+Slobodné mestá: Obchodné uzly, využívajú vzducholode.
+
+Bestiár
+Vlci (Gen-Mod): Jazdecké zvieratá, väčšie a inteligentnejšie.
+
+Duchovia (Wraiths): Zhluky nanodronov, ktoré napodobňujú ľudské siluety.
+
+Nemŕtvi (Hollows): Kostry kolonistov poháňané dronmi.
+
+Čo môžem urobiť ďalej?
+Ak si tento súbor uložíš, môžeme začať robiť "Micro-Worldbuilding". Môžeš mi napríklad povedať: "Gemini, na základe Bibliotéky vygeneruj 3 návrhy na náboženské rituály Kultu Matky, ktoré sú v skutočnosti skomolené procedúry údržby serverov."
+
+Chceš, aby som ti teraz pomohol s nejakým konkrétnym detailom do tej encyklopédie? Napríklad systém "mágie" alebo politická mapa?
 
 
 

@@ -11,6 +11,46 @@
 
 ---
 
+
+niha 1: Prebudenie na Achille (Pracovný názov: Spiaci generál)
+Žáner: Post-apo / Mystery Sci-fi / Adventure Hlavná téma: Hľadanie pravdy v cudzom svete.
+
+Úvod: Maximilián sa prebúdza z kryospánku na planéte Achilles. Palubná AI mu oznamuje, že spal 3 000 rokov (namiesto plánovaných 300). Jeho loď je zničená a modul jeho životnej lásky, Inetis, je prázdny.
+
+Svet: Planéta je v období doby ľadovej. Civilizácia, ktorá tu vznikla, klesla na úroveň predindustriálnej éry, ale využíva pozostatky technológií. Cestuje sa vzducholoďami, jazdí sa na geneticky modifikovaných vlkoch. Existuje tu „mágia“ – v skutočnosti dedičné nanodrony v krvi niektorých ľudí.
+
+Zápletka: Maximilián sa vydáva hľadať Inetis. Sprevádza ho Tami (cca 20-ročná), kapitánka vzducholode. Max je pre miestnych ako poloboh (vďaka armádnym nanodronom), ale svoje schopnosti skrýva.
+
+Konflikt: Počas cesty naráža na „Kult Matky“ – náboženstvo uctievajúce mýtickú zakladateľku. Max si postupne uvedomuje, že Matka je Inetis.
+
+Vyvrcholenie a zvrat: Max nájde miesto, kde sa Inetis ukrývala. Nájde však len jej 2 300 rokov starú kostru a list/záznam. Zistí krutú pravdu: Inetis sa prebudila včas, ale jeho nechala spať zámerne. Bála sa, že jeho vojenská minulosť a genetické predispozície by z neho urobili diktátora v novej, krehkej utópii, ktorú chcela vybudovať.
+
+Kniha 2: Pád Zeme (Pracovný názov: Tieň Impéria)
+Žáner: Dystopické Sci-fi / Politický triler / Space Opera Hlavná téma: Retrospektíva – ako sme sa sem dostali.
+
+Setting: 23. storočie, Zem. Spoločnosť je zjednotená pod „Hlavným koordinátorom“. Navonok demokracia a zlatý vek, vnútri fašistická diktatúra ovládaná nesmrteľnou elitou s nanotechnológiami.
+
+Príbeh: Sledujeme Maxov vzostup z radového vojaka na osobného strážcu a generála. Zachráni život Koordinátorovi a jeho dcére Inetis, čím sa dostane do vnútorného kruhu.
+
+Vzťah: Rozvíja sa vzťah medzi Maxom a Inetis. Ona je lekárka a pacifistka, on vojak plniaci rozkazy. Ideologicky sa rozchádzajú, hoci sa milujú.
+
+Globálny konflikt: Ľudstvo experimentuje s FTL (Faster Than Light) technológiou. To priláka pozornosť mimozemskej civilizácie, pre ktorú je FTL tabu/hrozba. Vyšlú flotilu na vyhladenie Zeme.
+
+Vyvrcholenie: Zem prehráva vojnu. V posledných hodinách pred apokalypsou posiela Koordinátor Maxa a Inetis na experimentálnej lodi preč, aby zachránili dedičstvo elity. Unikajú tesne pred zničením Zeme a mieria na planétu Achilles, kam už smerujú (pomalšie) kolonizačné lode.
+
+Kniha 3: Dedičstvo (Pracovný názov: Duchovia v stroji)
+Žáner: Techno-Fantasy / War Epic Hlavná téma: Prijatie zodpovednosti a boj o budúcnosť.
+
+Úvod: Späť v prítomnosti na Achille. Max trpí depresiou po zistení pravdy. Pri tele Inetis však dochádza k fenoménu – jej nanodrony, ktoré boli tisícročia „hladné“ a bez hostiteľa, sa prenesú na Tami. Vyzerá to ako posadnutie duchom.
+
+Premena: Max pomáha Tami zvládnuť príval cudzích spomienok a schopností (liečenie, regenerácia). Počas tohto procesu sa zbližujú a vzniká medzi nimi puto.
+
+Antagonista: Prebúdza sa stará hrozba – šialená Umelá Inteligencia (AI), ktorá kedysi zničila utopickú civilizáciu vybudovanú Inetis. Táto AI ovláda „duchov“ – aktivuje nanodrony v kostrách tisícok mŕtvych kolonistov a tvorí z nich armádu nemŕtvych strojov.
+
+Finálna bitka: Max a Tami sami nestačia. Musia zjednotiť rozhádané kráľovstvá planéty. Dochádza k masívnemu stretu: Ľudia používajúci „mágiu“ (zdedené drony) vs. AI a jej armáda.
+
+Záver: Ľudstvo vyhráva. Max a Tami majú možnosť stať sa vládcami celého sveta, no odmietnu moc (čím Max dokáže, že sa Inetis mýlila, alebo že sa zmenil). Utiahnu sa do ústrania a ako nesmrteľný pár sledujú vývoj civilizácie z diaľky, zasahujúc len v najkritickejších momentoch dejín.
+
 ## VÝZNAM NÁZVU (LORE)
 V mytológii sveta Achilles predstavuje **"Null Void"** prastarú kliatbu alebo peklo. V skutočnosti ide o **"Protokol Null"** – finálny príkaz zbláznenej AI, ktorého cieľom je formátovanie reality: rozložiť všetku biologickú hmotu na atómy a začať odznova, bez chýb (bez ľudí).
 
@@ -593,3 +633,88 @@ Nebo: Cloud Storage.
 Peklo: /dev/null alebo Recyklácia dát (bitová entropia).
 
 Upíri (Archanjeli): Memory Leaks (procesy, ktoré odmietajú zomrieť a žerú RAM/zdroje).
+
+
+pentalógia (5 kníh) je pre takto komplexný svet ideálna. Päťka je magické číslo a Pentagram ako centrálny symbol, ktorý prepája Sci-Fi (Inetis) s Fantasy (Kult Matky), je geniálny ťah.
+
+Pentagram (hviezda v kruhu) má 5 cípov. Každá kniha môže reprezentovať jeden cíp (jeden element/jednu éru).
+
+Tu sú návrhy na názov celej ságy a jednotlivých kníh, založené na symbolike pentagramu a tvojom príbehu.
+
+NÁZOV CELEJ SÁGY (Pentalógia)
+Musí to znieť epicky, trochu tajomne a musí to spájať technológiu s božstvom.
+
+Sága: HVIEZDA Z POPOLA (Odkazuje na pentagram aj na znovuzrodenie civilizácie z popola Zeme).
+
+Sága: ARCHITEKTI VEČNOSTI (Zamerané na Inetis a Maxa, ktorí formujú dejiny).
+
+Sága: KÓDEX PENTAGRAMU (Veľmi priame, evokuje Da Vinciho kód, mystery).
+
+Sága: SYNTETICKÍ BOHOVIA (Viac sci-fi názov).
+
+Sága: KRONIKA ACHILLA (Klasické fantasy pomenovanie).
+
+Môj favorit pre tvoj štýl: HVIEZDA Z POPOLA alebo CYKLUS PENTAGRAMU.
+
+ŠTRUKTÚRA KNÍH (Podľa 5 cípov Pentagramu)
+V klasickej alchýmii (ktorú mala Inetis rada) 5 cípov predstavuje: Zem, Oheň, Vodu, Vzduch a Ducha (Kvintesenciu). Môžeme to krásne namapovať na dej tvojich kníh.
+
+Kniha 1: ZEM (Hmotný svet, Prebudenie)
+Dej: Max sa prebúdza, chodí po zemi, hľadá Inetis, spoznáva drsnú realitu planéty.
+
+Názov: Spiaci v kameni
+
+Názov: Prach Achilla
+
+Názov: Zem nikoho
+
+Kniha 2: OHEŇ (Vojna, Minulosť, Vášeň)
+Dej: Flashbacky na pád Zeme (oheň vojny) a začiatok vzťahu Maxa a Inetis (vášeň).
+
+Názov: Plamene Impéria
+
+Názov: Horiace nebo
+
+Názov: Krv a Kremík
+
+Kniha 3: VODA (Ostrov, Slzy, Prúd času)
+Dej: Príbeh Inetis na ostrove (Atlantída), vznik utópie a jej smutný zánik (slzy). Voda reprezentuje emócie a intuíciu.
+
+Názov: Slzy Matky
+
+Názov: Utopený raj
+
+Názov: Ostrov ticha
+
+Kniha 4: VZDUCH (Duchovia, Éter, Búrka)
+Dej: Súčasnosť. Tami posadnutá "duchom". Boj s AI, ktorá je všade "vo vzduchu" (cloud/hive mind). Veľká bitka.
+
+Názov: Šepot strojov
+
+Názov: Dych mŕtvych
+
+Názov: Búrka duší
+
+Kniha 5: DUCH / KVINTESENCIA (Epilóg, Harmónia)
+Dej: Nový začiatok. Spojenie technológie a prírody. Max a Tami ako noví ochrancovia. Hľadanie rovnováhy.
+
+Názov: Piata esencia
+
+Názov: Dedičstvo hviezd
+
+Názov: Nový vek
+
+Symbolika Pentagramu vo svete (LORE)
+Aby to nebolo len "cool logo", tu je nápad, prečo si Inetis vybrala práve Pentagram a ako sa jeho význam menil:
+
+Pôvodný význam (Inetis): Pre ňu, ako milovníčku histórie, znamenal Pentagram "Človeka" (Vitruviánsky muž). 5 cípov reprezentovalo 5 pilierov jej utópie: Veda, Umenie, Súcit, Príroda, Poriadok.
+
+Zdeformovaný význam (Kult Matky): Po tisícročiach ľudia zabudli. Pentagram sa stal ochranným znakom proti "démonom" (chybným dronom).
+
+Horný cíp: Matka (Inetis).
+
+Štyri dolné cípy: Štyria Archanjeli (v skutočnosti jej 4 hlavní generáli/AI asistenti z minulosti).
+
+Rituál: Keď Exorcisti "vyháňajú" vírus z dronov, kreslia pentagramy vodivou pastou, čo reálne uzatvára elektrický obvod a resetuje drony. Pre ľudí je to mágia.
+
+Temný význam (AI Antagonista): Pre zlú AI znamená Pentagram "Väzenie". Inetis ju totiž uväznila pomocou "Protokolu Pentagram" – 5 serverov rozmiestnených po planéte, ktoré ju držali v šachu. Zničenie týchto 5 bodov je cieľom AI v 4. knihe.
