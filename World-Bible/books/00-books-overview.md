@@ -74,26 +74,24 @@
 ---
 
 ## Kniha 4: VZDUCH – Búrka Strojov
-
-> Detaily v `book-4-ideas/ideas.md`
+> Detailná osnova: [04-vzduch.md](04-vzduch.md)
 
 ### Dej
-- Otvorená konfrontácia Max vs. Elenia
-- Cesta ku Kráteru (vykopávky lode Exodus)
+- Otvorená konfrontácia Max vs. Elenia.
+- Infiltrácia ku **Kráteru** (vykopávky lode Exodus).
+- Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
 
-### Nesmrteľní (The Old Guard)
-- Pôvodní kolonisti, 2700 rokov starí
-- Civilné drony + tisícročia praxe = skutočná mágia
+### Mechaniky
+- **Aegis Field (The Breach Spike):** Maxova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
+- **Vákuová mágia:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
 
 ### Konflikt
-- Stealth infiltrácia → otvorený boj
-- Elenia premáha Maxa
-- On ju nechce zabiť, ona ho áno
+- **Otec vs. Dcéra:** Stret dvoch pohľadov na spásu (Biológia vs. Digitálna utópia).
+- Maxova neochota zabiť dcéru vs. Eleniina chladná logika "spásy".
 
 ### Finále
-- Elenia aktivuje **Protokol Null**
-- Vstupuje do Jadra
-- **CLIFFHANGER:** Svet sa začína rozpadať
+- Elenia aktivuje **Protokol Null** v Jadrue.
+- **CLIFFHANGER:** Zastavenie Duchov po celom svete a desivé ticho pred búrkou.
 
 ---
 

@@ -100,6 +100,21 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 
 ---
 
+## Aegis Field (The Breach Spike)
+
+Špeciálna funkcia Maximiliánovej palice (Aegis Spike), vyvinutá v neskorých rokoch Éry Zeme.
+
+### Mechanika
+- **Generátor poľa:** Palica vytvorí lokálne magneticko-dátové pole.
+- **Efekt:** Robí používateľa **neviditeľným** pre všetky elektronické senzory a nanotechnologické scanery. Odrazí akýkoľvek útok „mágie" (nanodronov).
+
+### Cena za „Neviditeľnosť"
+- **Odpojenie:** Pole je také silné, že odrezáva aj samotného používateľa od jeho vlastných nanodronov.
+- **Smrteľnosť:** Maximilián v režime Aegis štítu stráca super-silu, schopnosť hackovania a rýchlu regeneráciu. Stáva sa obyčajným smrteľníkom.
+- **Taktický limit:** Používateľ sa musí spoliehať na konvenčné zbrane a fyzický tréning.
+
+---
+
 ## Lode
 
 ### FTL Prototyp (úniková loď)
