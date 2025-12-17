@@ -1,6 +1,6 @@
 # NULL VOID - World Bible
 
-> *„Na počiatku bol Kód. A Kód bol u Boha. A potom sme ho rozbili. Teraz ostal len Null Void."*
+> *„Na počiatku bol Kód. A bol to dobrý kód. A potom sme ho rozbili. Teraz ostal len Null Void."*
 > — Z fragmentov denníka Inetis
 
 ---

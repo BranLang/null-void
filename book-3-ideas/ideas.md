@@ -103,9 +103,9 @@ CLIFFHANGER: Max vidí na zázname tvár svojej dospelej dcéry. Je to tvár že
 V. NÁPAD NA OBAL KNIHY 3
 Aby sme udržali vizuálnu kontinuitu série:
 
-Scéna: Podmorská alebo pobrežná.
+Scéna: pobrežná.
 
-Dominanta: Potopené ruiny futuristického mesta Ynetis. Z vody trčia vrcholky mrakodrapov obrastené koralmi a riasami.
+Dominanta: ruiny futuristického mesta Ynetis. Z vody trčia vrcholky antickych chramov
 
 Postavy: Max a Tami na malom člne, pozerajú sa do vody. Pod hladinou, v odraze (alebo ako duch pod vodou), vidno tvár Inetis.
 

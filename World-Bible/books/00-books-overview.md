@@ -32,46 +32,44 @@
 ---
 
 ## Kniha 2: OHEŇ – Plamene Impéria
+> Detailná osnova: [02-ohen.md](02-ohen.md)
 
 ### Dej (dvojitá línia)
 
 **Flashbacky (Zem):**
-- Pád Zeme
-- Vzťah Maxa a Inetis
-- Útek na FTL Prototype
+- **ex inferis:** Maxovo uväznenie vo VR pekle Achilles.
+- **Vojna s Marsom (2150):** Max ako elitný zabijak Koordinátora.
+- **Pád Zeme (2300):** Dramatický útek s Inetis na lodi Null-Void.
 
 **Prítomnosť:**
-- Nanodrony Inetis prechádzajú na Tami
-- Tami sa mení (spomienky, schopnosti)
-- Cesta na Sever
+- Max a 7-ročná Tami putujú na Juh cez Severné pustatiny.
+- Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
+- Prvé strety s jednotkami Kratosa.
 
 ### Konflikt
-- Max vs. **Kratos** (Archanjel Vojny)
-- Téma: vojna a zodpovednosť
+- Maxov boj s vlastnou tieňovou minulosťou zabijaka.
+- **Kratos** (Archanjel Vojny) vs. relikt starej éry.
 
 ---
 
 ## Kniha 3: VODA – Slzy Matky
-
-> Detaily v `book-3-ideas/ideas.md`
+> Detailná osnova: [03-voda.md](03-voda.md)
 
 ### Dej
-- Cesta na Juh k pobrežiu
-- Hľadanie Ynetis (stratené mesto)
-- Tami čoraz viac „posadnutá" Inetis
+- Cesta do Prístavu a Pobrežných miest.
+- Infiltrácia na **Ostrov Ynetis**.
+- Tami sa mení na nádobu pre Inetis (strach zo straty identity).
 
 ### Prostredie
-- Mesto Zrkadiel (Ishtarina doména)
-- Ľudia závislí na „Ambrózii"
-- Potopené ruiny Ynetis
+- **Mesto Zrkadiel (Ishtarina doména):** Miesto ilúzií a neuro-hackingu.
+- **Ynetis (Mesto Duchov):** Čiastočne zarastený ostrov plný rogue AI (Duchovia).
 
 ### Konflikt
-- **Ishtar** útočí na myseľ (ilúzie)
-- Ukazuje Maxovi život, ktorý nikdy nemal
+- **Ishtar** a jej útok na Maxovu psychiku cez obraz dokonalej rodiny.
+- Odhalenie pravdy o **Bit Rot Glitchi** (Eleniina zrada).
 
 ### Finále
-- Archív v Ynetis odhalí pravdu
-- **TWIST:** Max zistí, že má dcéru a že ona je hlavný antagonista
+- Archív v Ynetis odhalí Maxovi najväčšie tajomstvo: Elenia je jeho dcéra.
 
 ---
 
