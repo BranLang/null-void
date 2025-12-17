@@ -12,6 +12,6 @@
 
 ### `species.hollow`
 - Názov: Hollows (nemŕtvi)
-- Zhrnutie: Kostry/pozostatky kolonistov poháňané nanodronmi („techno-nekromancia“).
+- Zhrnutie: Kostry/pozostatky kolonistov poháňané nanodronmi (Prach, the dust) („techno-nekromancia“).
 - Tagy: `horor`, `nemŕtvi`
 

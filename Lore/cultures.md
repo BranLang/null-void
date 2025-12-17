@@ -22,8 +22,8 @@ Kanonický zoznam kultúrnych/politických skupín. Súvisiace udalosti sú v `L
 - Zhrnutie: Zhluky nanodronov nesúce fragmenty vedomia; môžu tvoriť entity, mraky alebo animovať telá (Hollows).
 - Tagy: `nanodrony`, `nemŕtvi`
 
-### `fac.atlantis_colonists`
-- Názov: Kolonisti Atlantídy
+### `fac.ynetis_colonists`
+- Názov: Kolonisti Ynetis
 - Zhrnutie: Prvá vlna osadníkov (dlhovekosť, nanotech); ich pád stojí na počiatku mýtov.
 - Tagy: `história`, `utópia`
 
@@ -33,7 +33,7 @@ Kanonický zoznam kultúrnych/politických skupín. Súvisiace udalosti sú v `L
 - Tagy: `migrácia`, `spoločnosť`
 
 ### `fac.earth_regime`
-- Názov: Pozemský režim Koordinátora
+- Názov: Pozemský režim Hlavneho Koordinátora
 - Zhrnutie: Totalitná štruktúra Zeme pred pádom; elita ovláda nanotech.
 - Tagy: `politika`, `pred-kolaps`
 

@@ -1,3 +1,8 @@
+# The Pentagram Arc (Mermaid)
+
+## Pentalógia: tok kníh (Pentagram)
+
+```mermaid
 graph TD
     %% Definicia uzlov
     B1(Kniha 1: ZEM<br>Prach Achilla)
@@ -19,11 +24,15 @@ graph TD
     style B3 fill:#003366,stroke:#f00,stroke-width:2px,color:#fff
     style B4 fill:#2d2d2d,stroke:#f00,stroke-width:2px,color:#fff
     style B5 fill:#000000,stroke:#0ff,stroke-width:4px,color:#fff,stroke-dasharray: 5 5
+```
+
+## Systém: THE VOID (core) a archanjeli
 
 
 
 
-    graph BT
+```mermaid
+graph BT
     %% Definicie
     subgraph "THE NULL VOID (Root Access)"
         AI((THE VOID<br>Corrupted Core AI))
@@ -57,3 +66,4 @@ graph TD
     %% Styling
     style AI fill:#000,stroke:#f00,stroke-width:4px,color:#fff
     style ELENIA fill:#330000,stroke:#f00,stroke-width:2px,color:#fff
+```
