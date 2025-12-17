@@ -1,7 +1,7 @@
 # Worldbuilding plan (Null Void / Hviezda z Popola)
 
 ## Ciele
-- Vyťažiť a normalizovať lore z existujúcich zdrojov (`world-bible.md`, `null-void-saga.md`, `the-pentagram-arc.md`) + z Gemini chatu.
+- Vyťažiť a normalizovať lore z existujúcich zdrojov (`world-bible.md`, `null-void-saga.md`, `the-pentagram-arc.md`) 
 - Vytvoriť „jediný zdroj pravdy“ pre: postavy, udalosti, časovú os, miesta, frakcie/kultúry, predmety/technológie, zvieratá, zvyky/rituály.
 - Odstrániť duplicity tým, že nový obsah v priečinkoch `Lore/` a `Characters/` bude kanonický; staré súbory môžu ostať ako archívne poznámky.
 

@@ -6,7 +6,7 @@
 
 ### 1. Archanjeli (The Executors)
 Vládnuca kasta nesmrteľných. Každý ovláda svoj región a aspekt spoločnosti.
-- **Azrael:** Tieň, tajomstvo, staré technológie.
+- **samaell:** Tieň, tajomstvo, staré technológie.
 - **Kratos:** Vojna, priemysel, hrubá sila.
 - **Ishtar:** Pôžitok, drogy, propaganda/ilúzie.
 - **Elenia:** Najvyššia autorita (často skrytá), "Gatekeeper".
@@ -35,23 +35,52 @@ Väčšina populácie.
 
 ---
 
-## Ekonomika a Život (TODO)
+## Ekonomika a Život
 
 ### Mena
-- Čím sa platí? (Kredity? Nanodrony? Voda? Staré súčiastky?)
+- **Barter (výmenný obchod):** Prevláda na Pevnine a u nomádov.
+- **Lokálne meny:** Každé kráľovstvo (Archanjelova doména) má vlastnú menu (čipy, známky, kredity).
 
 ### Jedlo
-- Hydroponické farmy (kontrolované Archanjelmi)?
-- Lov zmutovanej zveri?
-- Syntetické pasty?
+- Pôvod: Geneticky modifikované plodiny dovezené zo Zeme.
+- Prispôsobené chladnej klíme a vyššej gravitácii.
+- Domáce zvieratá: Kravy, sliepky (existujú a chovajú sa).
 
-### Náboženstvo: Kult Matky
-- Uctievajú Inetis ako bohyňu, ktorá "odišla".
-- Symbol: Pentagram (ochrana).
-- Veria, že technológia je "dar" aj "kliatba".
+### Doprava
+Vzdialenosti sú obrovské a cesty neexistujú (okrem ruín).
+
+1. **Vzducholode:**
+   - Najrýchlejšia doprava.
+   - Využívajú hustejšiu atmosféru na vztlak.
+   - Tami je kapitánka jednej z nich.
+
+2. **Geneticky modifikované Zvieratá:**
+   - **Psy (Veľké):** Náhrada koní. Odolné voči zime, silné (zvládajú gravitáciu). **Vedia rozprávať!**
+   - **Mačky (Veľké):** Používajú sa v rovníkových/teplejších oblastiach. Tiež inteligentné.
+
+3. **Vlaky:**
+   - Existujú *iba* v **Južnom kráľovstve** (Ishtar).
+   - Staré, ale funkčné koľajové trate.
 
 ---
 
-## (TODO) Otázky pre autora
-- Existuje nejaký organizovaný odboj (okrem Maxa)?
-- Ako funguje doprava? (Vzducholode, kráčajúce stroje, kone?)
+## Fauna (Geneticky Modifikovaná)
+
+Zvieratá boli dovezené kolonistami a upravené (alebo zmutovali vplyvom nanodronov).
+
+### Inteligentné druhy
+- **Psy a Mačky:** Spoločníci, dopravné prostriedky. Majú ľudskú inteligenciu a reč.
+- **Ľadové Medvede:** Samotárske, obrovské, **rozprávajúce**. Nenávidia ľudí a civilizáciu. Žijú ďaleko na severe.
+
+### Divoká zver
+- Vtáky: Lietajú ťažkopádne, ale silno (hustá atmosféra).
+- Džungľové mackovite predátory: V rovníkovom páse (Ynetis).
+
+---
+
+## Mimozemská hrozba
+
+Tí, čo zničili Zem v roku 2300, sú **stále hrozbou**.
+- Kolonisti udržiavajú prísne **"Radio Silence"**.
+- Nevedia o osude iných kolonizačných lodí (Program Exodus zahŕňal 25 lodí).
+- Cieľom Exodu bolo roztrúsiť ľudstvo po Galaxii a zvýšiť šance na prežitie.

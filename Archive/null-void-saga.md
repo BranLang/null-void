@@ -12,10 +12,10 @@
 ---
 
 
-niha 1: Prebudenie na Achille (Pracovný názov: Spiaci generál)
+niha 1: Prebudenie na Achille 
 Žáner: Post-apo / Mystery Sci-fi / Adventure Hlavná téma: Hľadanie pravdy v cudzom svete.
 
-Úvod: Maximilián sa prebúdza z kryospánku na planéte Achilles. Palubná AI mu oznamuje, že spal 3 000 rokov (namiesto plánovaných 300). Jeho loď je zničená a modul jeho životnej lásky, Inetis, je prázdny.
+Úvod: Maximilián sa prebúdza z kryospánku na planéte Achilles.  AI mu oznamuje, že spal 3 000 rokov (namiesto plánovaných 300). Jeho loď je zničená a modul jeho životnej lásky, Inetis, je prázdny.
 
 Svet: Planéta je v období doby ľadovej. Civilizácia, ktorá tu vznikla, klesla na úroveň predindustriálnej éry, ale využíva pozostatky technológií. Cestuje sa vzducholoďami, jazdí sa na geneticky modifikovaných vlkoch. Existuje tu „mágia“ – v skutočnosti dedičné nanodrony v krvi niektorých ľudí.
 
@@ -97,7 +97,7 @@ V mytológii sveta Achilles predstavuje **"Null Void"** prastarú kliatbu alebo 
     end
 
     subgraph "THE EXECUTORS (Services)"
-        AZ[AZRAEL<br>Archanjel Tieňov<br>Lokácia: Labs]
+        AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
         KR[KRATOS<br>Archanjel Vojny<br>Lokácia: Sever]
         IS[ISHTAR<br>Archanjel Pôžitku<br>Lokácia: Juh]
     end
@@ -215,7 +215,7 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 
 1.  **KRATOS (Archanjel Vojny):** Vládca Severu. Brutálny militarista v mechanickom brnení.
 2.  **ISHTAR (Archanjel Pôžitku):** Vládkyňa Juhu. Manipulátorka využívajúca ilúzie a závislosť ľudí.
-3.  **AZRAEL (Archanjel Tieňov):** Šialený pustovník v ruinách laboratórií. Odhalí Maxovi prvé stopy.
+3.  **samaell (Archanjel Tieňov):** Šialený pustovník v ruinách laboratórií. Odhalí Maxovi prvé stopy.
 4.  **ELENIA (Archanjel Zradenej Krvi - Hlavný Antagonista):**
     * *Identita:* Maximiliánova dcéra.
     * *Motivácia:* Nenávisť voči otcovi. "Ty si spal v bezpečí, zatiaľ čo ja a mama sme krvácali."
@@ -229,7 +229,7 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 * **Dej:** Maxovo prebudenie. Zoznámenie s Tami a svetom. Cesta za Inetis.
 * **Konflikt:** Boj s divochmi a Kultom Matky.
 * **Zvrat:** Nájdenie tela Inetis. Je mŕtva 2300 rokov. Max zisťuje, že svet je v troskách.
-* **Boss:** Azrael (Archanjel Tieňov).
+* **Boss:** samaell (Archanjel Tieňov).
 
 ### Kniha 2: OHEŇ (Plamene Impéria)
 * **Dej:** Paralelné línie.
@@ -514,7 +514,7 @@ Symptómy: Max si myslí, že umiera na chorobu z ožiarenia. V skutočnosti ju 
 2. Antagonisti (THE ARCH-ANGELS)
 Štyria pôvodní generáli/správcovia, ktorí zradili Inetis alebo podľahli šialenstvu. Prežívajú vďaka "Techno-Vampirizmu" – požierajú ľudí s mágiou, aby si doplnili degradujúce nanodrony.
 
-I. AZRAEL (Archanjel Tieňov)
+I. samaell (Archanjel Tieňov)
 
 Doména: Ruiny laboratórií, pustatina.
 
@@ -573,7 +573,7 @@ Midpoint: Max ukazuje svoju silu (vojenské tech). Ľudia ho považujú za posla
 
 Finále: Nájdenie jaskyne. Telo Inetis (kostra). Denník.
 
-Boss: Súboj s Azraelom v ruinách pri jaskyni. Azrael pred smrťou naznačí: "Ona ťa nenávidí, spachtoš." (Myslí Eleniu).
+Boss: Súboj s samaellom v ruinách pri jaskyni. samaell pred smrťou naznačí: "Ona ťa nenávidí, spachtoš." (Myslí Eleniu).
 
 Kniha 2: OHEŇ (Krv Impéria)
 Flashback línia: Detailný pohľad na pád Zeme. Vzťah Maxa a Inetis. Moment "Tichého Zbohom" (zistenie tehotenstva).

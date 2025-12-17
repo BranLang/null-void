@@ -69,8 +69,8 @@ Tento súbor je kanonický register postáv. Udalosti sú v `Lore/events.md`.
 - Vzťahy: `char.maximilian` (otec), `char.inetis` (matka), `char.the_void` (spojenec/korupcia).
 - Prepojené udalosti: `evt.achilles.elenia_first_revolt`, `evt.story.ishtar_campaign`, `evt.story.elenia_war`, `evt.story.void_released`
 
-### `char.azrael`
-- Meno: Azrael
+### `char.samaell`
+- Meno: samaell
 - Alias/Tituly: Archanjel Tieňov (executors)
 - Status: TBD (pravdepodobne padne v Knihe 1)
 - Vek: stáročia+
@@ -79,7 +79,7 @@ Tento súbor je kanonický register postáv. Udalosti sú v `Lore/events.md`.
 - Schopnosti: kybernetická bytosť (káble/implantáty), programovanie Duchov, vysoká odolnosť.
 - Motivácia: posadnutosť pravdou/hlasmi; služba (alebo závislosť) na AI.
 - Vzťahy: `char.the_void` (hlasy/AI), `char.elenia` (hierarchia executors).
-- Prepojené udalosti: `evt.story.azrael_confrontation`
+- Prepojené udalosti: `evt.story.samaell_confrontation`
 
 ### `char.kratos`
 - Meno: Kratos

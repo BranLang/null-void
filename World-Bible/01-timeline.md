@@ -145,23 +145,26 @@
 
 ---
 
-## AY ~2987: Prebudenie
+## Časová os hlavného deja
 
-### Max sa prebúdza
-- Niekoľko dní po prebudení: zajatý banditmi (premrznutý, vyhladovaný)
-- Oslobodí **7-ročnú Tami**
-- Zabije banditov
+- **AY 0**: Pristátie lode **ARK-11** na planéte Achilles. Začiatok novej éry.
+- **AY 0 – 300**: Zlatý vek. Budovanie mesta **Ynetis** na južnom ostrove.
+- **AY ~300**: "The Glitch". Nanodrony začínajú zlyhávať. Vznik **Duchov** (Wraiths).
+- **AY ~1000**: **Zmiznutie Inetis**. Utiahla sa do ústrania, aby ochránila ľudstvo.
+- **AY 3000**: **Prebudenie Maximiliána**.
+    - Max sa prebúdza slepý a s amnéziou.
+    - Záchrana 7-ročnej **Tami** z rúk pirátov.
+- **AY 3000 – AY 3013**: **Obdobie putovania**.
+    - Max sa adaptuje na svet, učí sa jazyk a kultúru.
+    - Max a Tami sa z bezpečnostných dôvodov rozdelia.
+- **AY 3013**: **Začiatok hlavného deja** (Kniha 1: Časť 3).
+    - Opätovné stretnutie Maxa a 20-ročnej Tami.
+    - Aktivácia "The Pentagram Cycle".
 
 ---
 
-## AY ~3000: Hlavný dej pentalógie
-
-### Stretnutie s Tami
-- Tami má **20 rokov**
-- Kapitánka vzducholode
-
-### Príbeh kníh
-1. **ZEM** — Max hľadá Inetis, nájde jej telo. Boss: Azrael
+## Príbeh kníh
+1. **ZEM** — Max hľadá Inetis, nájde jej telo. Boss: samaell
 2. **OHEŇ** — Flashbacky na Zem, Tami sa mení. Boss: Kratos
 3. **VODA** — História Ynetis, odhalenie identity Elenie. Boss: Ishtar
 4. **VZDUCH** — Vojna s Eleniou, Doomsday Protocol

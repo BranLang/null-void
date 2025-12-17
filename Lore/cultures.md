@@ -14,7 +14,7 @@ Kanonický zoznam kultúrnych/politických skupín. Súvisiace udalosti sú v `L
 
 ### `fac.archangels`
 - Názov: Archanjeli (executors)
-- Zhrnutie: Štyria nesmrteľní vládcovia/domény (Azrael, Kratos, Ishtar, Elenia), ktorí prežívajú cez „Techno-Vampirizmus“.
+- Zhrnutie: Štyria nesmrteľní vládcovia/domény (samaell, Kratos, Ishtar, Elenia), ktorí prežívajú cez „Techno-Vampirizmus“.
 - Tagy: `moc`, `antagonisti`
 
 ### `fac.wraiths`

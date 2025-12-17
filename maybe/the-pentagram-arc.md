@@ -43,7 +43,7 @@ graph BT
     end
 
     subgraph "THE EXECUTORS (Services)"
-        AZ[AZRAEL<br>Archanjel Tieňov<br>Lokácia: Labs]
+        AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
         KR[KRATOS<br>Archanjel Vojny<br>Lokácia: Sever]
         IS[ISHTAR<br>Archanjel Pôžitku<br>Lokácia: Juh]
     end

@@ -51,6 +51,12 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 - [Postavy](02-characters.md) — Protagonisti, antagonisti
 - [Technológia](03-technology.md) — Nanodrony, mágia, protokoly
 
+### Svet
+- [Geografia](05-geography.md) — Planéta Achilles (Kepler-452b)
+- [Spoločnosť](06-society.md) — Frakcie, ekonomika, doprava
+- [Bestiár](07-bestiary.md) — Inteligentné zvieratá, fauna
+- [Mimozemšťania](08-aliens.md) — Program Exodus, hrozba
+
 ### História
 - [Éra Hráčov](04-prehistory-players.md) — VR hra Achilles, maXpowa & i_net_is
 

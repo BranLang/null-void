@@ -37,7 +37,7 @@
 
 ### `place.labs_ruins`
 - Názov: Ruiny laboratórií
-- Zhrnutie: Pustatina a staré labáky, doména Azraela.
+- Zhrnutie: Pustatina a staré labáky, doména samaella.
 - Tagy: `ruiny`, `antagonista`
 
 ### `place.north`

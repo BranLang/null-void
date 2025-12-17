@@ -4,7 +4,7 @@
 
 | # | Element | Názov | Boss | Téma |
 |---|---------|-------|------|------|
-| 1 | 🜃 ZEM | Prach Achilla | Azrael | Prebudenie, hľadanie |
+| 1 | 🜃 ZEM | Prach Achilla | samaell | Prebudenie, hľadanie |
 | 2 | 🜂 OHEŇ | Plamene Impéria | Kratos | Minulosť, vojna |
 | 3 | 🜄 VODA | Slzy Matky | Ishtar | Pamäť, ilúzie, odhalenie |
 | 4 | 🜁 VZDUCH | Búrka Strojov | Elenia | Vojna otec vs. dcéra |
@@ -27,7 +27,7 @@
 ### Finále
 - Nájdenie jaskyne a **tela Inetis** (kostra + denníky)
 - Šok: je mŕtva ~2300 rokov
-- Boss: **Azrael** naznačí existenciu Elenie
+- Boss: **samaell** naznačí existenciu Elenie
 
 ---
 

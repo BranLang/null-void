@@ -248,11 +248,11 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Tagy: `transformácia`, `mágia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
-### `evt.story.azrael_confrontation`
-- Názov: Konfrontácia s Azraelom
+### `evt.story.samaell_confrontation`
+- Názov: Konfrontácia s samaellom
 - Čas: Kniha 1 (pracovne)
-- Zhrnutie: Boj s Azraelom v ruinách; pred smrťou naznačí existenciu Elenie.
-- Účastníci: `char.maximilian`, `char.azrael`
+- Zhrnutie: Boj s samaellom v ruinách; pred smrťou naznačí existenciu Elenie.
+- Účastníci: `char.maximilian`, `char.samaell`
 - Lokácie: `place.labs_ruins`
 - Tagy: `boss_fight`, `odhalenie`
 - Zdroj: `world-bible.md`

@@ -47,7 +47,7 @@ Poznámka: zdroje používajú rôzne absolútne čísla (napr. `2300` vs `2200�
 - `evt.story.meets_tami` — Stretnutie s Tami (vzducholoď, sprievod).
 - `evt.story.inetis_body_found` — Nájdenie tela/kostry Inetis a denníkov (šok: je mŕtva ~2300 rokov).
 - `evt.story.tami_inherits_dust` — „Hladné“ nanodrony Inetis prechádzajú na Tami.
-- `evt.story.azrael_confrontation` — Súboj s Azraelom; prvé náznaky Elenie.
+- `evt.story.samaell_confrontation` — Súboj s samaellom; prvé náznaky Elenie.
 - `evt.story.kratos_campaign` — Konflikt na severe (Kratos).
 - `evt.story.ishtar_campaign` — Konflikt na juhu (Ishtar); odhalenie identity Elenie.
 - `evt.story.elenia_war` — Otvorená vojna s Eleniou; aktivácia armády Duchov.

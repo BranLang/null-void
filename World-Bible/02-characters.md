@@ -9,20 +9,26 @@
 | | |
 |---|---|
 | **Status** | Živý → Duch v Stroji (po Knihe 5) |
-| **Vek** | ~42 (biologický) / ~3000+ (chronologický) |
-| **Narodenie** | EY 2050, stredná Európa |
-| **Herný nick** | **maXpowa** |
-| **Rola** | Supervojak, otec, pôvodný Hráč |
+#### Maximilián (The Sleeper / maXpowa)
+| | |
+|---|---|
+| **Vek** | **250+ biologických rokov** (vďaka nanotech nestarne) |
+| **Identita** | *ex inferis* (Prežil VR peklo Achilles) |
+| **Pôvod** | Zem (nar. 2050), veliteľ operácií, nástupca Koordinátora |
+| **Status** | Živý (s amnéziou a slepotou po prebudení) |
 
-#### Zhrnutie
-Syn mechanika zo strednej Európy. Ako teenager hral VR MMORPG Achilles, kde strávil subjektívne stovky rokov. Tam sa zamiloval do i_net_is (Inetis). Po revolúcii Hráčov sa stal osobným strážcom jej otca a neskôr Inetisiným partnerom.
+#### Schopnosti a Vybavenie
+- **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
+- **Dronár Zabijak**: Talentovaný veliteľ a exekútor, veterán z vojny s Marsom (2150).
+- **maXpowa**: Jeho herná prezývka, ktorú používal v Projekte Achilles.
+- **Vybavenie**: **Aegis Spike** (palica/regulátor), **Black Nano Suit**.
 
-#### Schopnosti
-- **Vojenské nanodrony** — staršia, silnejšia generácia ako civilné
-- Nadľudská sila a odolnosť
-- „Hackovanie" strojov dotykom
-- **Palica (Aegis Spike)** — pôvodne herný predmet navrhnutý Inetis
-
+#### Backstory
+Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
+- **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny.
+- **Vzťah s Inetis**: Miloval ju, ale ich cesty sa rozdelili kvôli jeho brutalite a jej pacifizmu.
+- **Pád Zeme**: Posledné hodiny strávil prebíjaním sa cez horiacu civilizáciu, aby zachránil Inetis na príkaz umierajúceho Koordinátora.
+- **Hibernácia**: Po príchode na Achilles (AY 0) bol uložený do kryospánku na 3000 rokov. Prebudil sa bez pamäti na svoje činy zabijaka.
 #### Herná minulosť
 > „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá."
 
@@ -46,11 +52,15 @@ Syn mechanika zo strednej Európy. Ako teenager hral VR MMORPG Achilles, kde str
 | | |
 |---|---|
 | **Status** | Živá |
-| **Vek** | 7 (prvé stretnutie) → 20 (hlavný dej) |
-| **Rola** | Kapitánka vzducholode, nositeľka dedičstva |
+| **Vek** | **~7 rokov** (začiatok knihy 1), neskôr **~20** |
+| **Rola** | Otrokyňa / Nosička dedičstva |
+| **Status** | Živá |
 
-#### Zhrnutie
-Drsná, pragmatická žena z post-apo sveta. Ako 7-ročná bola zachránená Maxom pred banditmi. O 13 rokov neskôr sa ich cesty znovu skrížia.
+### Charakteristika
+- Na začiatku: Vystrašené dieťa v klietke pirátov, určené na predaj.
+- Neskôr: Drsná kapitánka vzducholode (po časovom skoku).
+- Má vzácnu kompatibilitu s nanodronmi Inetis (preto ju chcela Elenia/Samaell?).
+- Stane sa Maxovým "svedomím" a dôvodom bojovať.
 
 #### Backstory
 - **AY ~2987**: Banditi zajmú premrznutého, vyhladovaného Maxa (pár dní po prebudení)
@@ -140,14 +150,23 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 Štyria nesmrteľní vládcovia, **pôvodne exorcisti zo Zeme**. Prežívajú cez „Techno-Vampirizmus" — požierajú ľudí s mágiou.
 
-#### Azrael (Archanjel Tieňov)
+#### Samaell (Archanjel Tieňov / Vyhnanec)
 | | |
 |---|---|
-| **Doména** | Ruiny laboratórií, pustatina |
-| **Vzhľad** | Kybernetická bytosť, viac káblov ako mäsa |
-| **Boss** | Kniha 1 |
+| **Vek** | **250+ biologických rokov** (nar. ~2050 na Zemi) |
+| **Identita** | **OG *ex inferis*** (Veterán VR pekla Achilles) |
+| **Doména** | Ruiny laboratórií, Severná Pustatina |
+| **Status** | Živý (Techno-Upír / Glitching) |
+| **Rola** | Šialený antagonista 1. knihy |
 
-Šialený pustovník počujúci „Hlasy" AI. Odhalí Maxovi existenciu organizovanej hrozby.
+#### Charakteristika
+Samaell bol jedným z elitnej skupiny, ktorá prežila 50 rokov v Simulácii. Na Zemi bol Maxovým spolubojovníkom/rivalom v radoch ex inferis.
+- **Rivalita**: Samaell si pamätá Maxa ako nemilosrdného zabijaka a Koordinátorovho nástupcu. Pohŕda Maxovou súčasnou slepotou a amnéziou.
+- **Glitche**: Na rozdiel od Maxa, Samaellove nanodrony sú v stave entropie. Jeho kód sa rozpadá, čo spôsobuje halucinácie („Hlasy AI“) a fyzickú bolesť.
+- **Slepý Lov**: Samaell cíti Maxovu **"Hmlu"** (nanotechnologickú auru). Je ním fascinovaný – po 3000 rokoch našiel niekoho seberovného.
+- **Motivácia**: Verí, že ak pohltí Maximiliánovu krv (čistý, neglitchujúci vojenský Prach), opraví tým svoj rozpadajúci sa kód, dosiahne nesmrteľnosť a definitívne porazí Eleniu.
+
+> *"Spoznal by som ťa aj po tisícročiach, maXpowa. Voniaš krvou Koordinátora a dymom Marsu. Tvoja krv je kľúčom k môjmu reštartu. Podaj mi ruku... a nechaj ma piť."*
 
 #### Kratos (Archanjel Vojny)
 | | |

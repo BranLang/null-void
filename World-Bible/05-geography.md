@@ -1,40 +1,72 @@
-# Geografia Planéty Achilles
+# Geografia Planéty Achilles (Kepler-452b)
 
-> *"Tento svet nie je mŕtvy. Len... čaká na reštart."*
+> *"Zima, ťažká gravitácia a tiene dávnych bohov."*
 
 ---
 
-## Prehľad
-Planéta Achilles je prevažne pustá, zdevastovaná neúspešnou teraformáciou a vojnami nanodronov. Obyvateľné zóny sú udržiavané len vďaka zvyškovým technológiám.
+## Planetárne údaje
+
+| | |
+|---|---|
+| **Pôvodný názov** | Kepler-452b ("Zem 2.0") |
+| **Vzdialenosť** | 1400 svetelných rokov (Súhvezdie Labute) |
+| **Veľkosť** | Super-Zem (1.6x polomer Zeme) |
+| **Gravitácia** | **vysoká** (cca 2x zemská) |
+| **Orbit** | 385 dní (podobný rok) |
+| **Slnko** | G2 (podobné nášmu, trochu staršie) |
+
+### Vplyv gravitácie na ľudí
+Keďže gravitácia je dvojnásobná, ľudia sa museli adaptovať (biologicky aj pomocou nanodronov):
+- **Postavy:** Sú nižší, zbití, ale **extrémne svalnatí**.
+- **Pohyb:** Pôsobia ťažkopádne, ale majú obrovskú silu.
+- **Vtáky:** Lietanie je náročné, ale vďaka hustejšej atmosfére možné.
+
+---
+
+## Klíma a Prostredie
+
+Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
+
+### Všeobecná klíma
+- **Veľmi chladná** (priemerná teplota nižšia ako na Zemi).
+- Väčšina povrchu je pokrytá **boreálnymi lesmi** a tundrou.
+- Džungle existujú len v rovníkovom páse (zvyškové teplo + terraforming).
+
+### Rovníkový pás (Obyvateľná zóna)
+- **Klíma:** Tropická, vlhká džungľa.
+- **Fauna:** Plné geneticky modifikovaných zvierat (nebezpečné).
+- **Ynetis:** Stratené ostrovné mesto vzniklo práve tu (najlepšie podmienky).
+
+### Mimo rovníka
+- Nekonečné zasnežené lesy, ľadové pustatiny.
+- Domov "divých" kmeňov a samotárov.
 
 ---
 
 ## Kľúčové Regióny
 
 ### 1. Kráter (The Crash Site)
-- **Lokácia:** Stred kontinentu?
-- **Popis:** Miesto dopadu lode EXODUS (Ark-11). Svätá zem Kultu Matky, ale v skutočnosti rádioaktívna (nanotech radiácia) zóna.
-- **Význam:** Tu sa nachádza vstup do **Jadra (The Core)** a podzemných komplexov lode.
+- **Lokácia:** Stred kontinentu.
+- **Popis:** Miesto dopadu lode EXODUS (Ark-11). Svätá zem Kultu Matky.
+- **Rádioaktivita:** Nanotech radiácia ("The Dust" je tu najhustejší).
 
 ### 2. Severná Pustatina (Doména Kratosa)
-- **Klíma:** Studená, priemyselná zima, popol v ovzduší.
-- **Vzhľad:** Ruiny starých tovární, ťažobné veže, "hrdzavé peklo".
-- **Obyvateľstvo:** Otroci pracujúci v baniach na staré kovy.
-- **Atmosféra:** Brutalita, oheň, oceľ.
+- **Vzhľad:** Priemyselná zima, ťažobné veže, "hrdzavé peklo".
+- **Ruiny:** Pozostatky "hernej architektúry" - **grécke stĺpy z 3D tlace** vedľa bunkrov. Pôsobia surrealisticky v snehu.
 
-### 3. Južné Pobrežie (Doména Ishtar)
-- **Klíma:** Tropická, ale umelá/iluzórna. Vlhká, hmlistá.
-- **Mesto Zrkadiel:** Hlavné sídlo Ishtar. Plné neónov (bioluminiscencia?), drog (Ambrózia) a ilúzií.
-- **Ynetis (Stratené Mesto):** Nachádza sa niekde tu, pravdepodobne pod hladinou alebo v nedostupnej zátoke?
+### 3. Južné Kráľovstvo (Doména Ishtar)
+- **Lokácia:** Bližšie k rovníku.
+- **Vzhľad:** Mesto Zrkadiel.
+- **Doprava:** Majú funkčné **koľajnice a vlaky** (jediné na planéte).
 
 ### 4. Pevnina (The Wasteland)
-- Územie nikoho medzi doménami Archanjelov.
-- Žijú tu nomádi, banditi a divoká zver (zmutovaná).
-- **Jaskyňa Inetis:** Nachádza sa v skrytých horách na okraji Pustatiny.
+- Územie nikoho.
+- Neexistujú kvalitné cesty → cestovanie je náročné.
 
 ---
 
-## (TODO) Otázky pre autora
-- Má planéta oceány? (Kniha 3 je Voda, takže asi áno)
-- Sú tu nejaké pozostatky "hernej architektúry" (grécke stĺpy vytlačené nanodronmi)?
-- Ako vyzerá obloha? (Sú tam prstence? Mesiace? Alebo len "Prach"?)
+## Architektúra "3D tlače"
+Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**.
+- Nie sú to kamenné kvádre, ale **monolitické štruktúry** vytlačené nanodronmi.
+- Dokonalá geometria, biele povrchy (teraz špinavé a zarastené).
+- Kontrast: Grécky chrám vs. hrdzavá ťažná veža vs. zasnežený les.
