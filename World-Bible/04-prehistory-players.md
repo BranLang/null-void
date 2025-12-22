@@ -5,11 +5,27 @@
 
 ---
 
-## Kontext: Svet v roku 2050
+## Kontext: Svet v roku 2045-2100
 
-- AI **zautomatizovala všetku prácu** na svete
-- Ľudia žili na základnom príjme s nekonečnou nudou
-- Útočisko: virtuálna realita
+- **Svet Prebytku**: AI **zautomatizovala všetku prácu**. Ľudia žili na základnom príjme, zbavení starostí o prežitie.
+- **Dekadencia**: Útočiskom sa stala buď virtuálna realita (Achilles), alebo drastické modifikácie vlastnej biológie.
+
+---
+
+## Vznik Homo Sapiens Varietas (Neo-Morfovia)
+
+### Genetická móda (2050 - 2070)
+Keďže každý mohol vďaka technológiám vyzerať ako fotomodel, elita začala hľadať extrémne spôsoby, ako sa odlíšiť.
+- **Neo-Morfovia**: Zrodila sa móda preberania zvieracích čŕt (mačacie oči, srsť, upravené končatiny).
+- **Subkultúry**: Pôvodne okrajové hnutia (v minulosti známe ako *furries*) prenikli do mainstreamu a v 2060-tych rokoch sa stali symbolom statusu a dekadencie.
+
+### Tragické experimenty (EY ~2075)
+Ľudská arogancia zašla ešte ďalej pri experimentoch na zvieratách a hybridoch:
+- **"Doge" (Sub-sapiens)**: Humanoidné psy vytvorené podľa starých internetových meme. Mali obmedzené IQ (80-90) a často trpeli neurodivergentnými poruchami (autizmus) v dôsledku nekompatibility psieho mozgu s humanoidnou rečou.
+- **Super-Primáty**: Gorily a šimpanzy s IQ cez 140, ktoré si uvedomovali svoje uväznenie.
+
+### Zákaz a Ilegalita
+Vláda Koordinátora nakoniec tieto experimenty zastavila, no genetické modifikácie na ľuďoch už boli hlboko zakorenené. Bohatí miliardári v nich pokračovali v tajnosti ako v "zakázanom ovocí".
 
 ---
 

@@ -36,9 +36,9 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony.
 | **Ilúzie** | Hackovanie optických nervov (Ishtar) |
 
 ### Kto môže „čarovať"?
-- Potomkovia kolonistov s vysokou koncentráciou dronov
-- Archanjeli (tisícročia praxe)
-- Tami (po prevzatí dronov Inetis)
+- **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
+- **Homo Sapiens Varietas (Chiméry):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
+- **Tami:** Špeciálny prípad, po prevzatí dronov Inetis (Echo) získava prístup k architektúre sveta.
 
 ---
 
@@ -127,9 +127,16 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 ### ARK-11 (kolonizačná loď)
 | | |
 |---|---|
-| **Pasažieri** | Elita zo Zeme |
+| **Pasažieri** | Elita zo Zeme, Hráči Achilles |
 | **Cesta** | 300 rokov (podsveteľná) |
 | **Osud** | Pristátie = AY 0 |
+
+### ARK-12 (Zabudnutá loď)
+| | |
+|---|---|
+| **Pasažieri** | 50% Chiméry (Neo-Morfovia), exoti, vyvrheli |
+| **Cesta** | 300 rokov (podsveteľná) |
+| **Osud** | Pristátie = AY 0. Ich potomkovia tvoria 99% populácie Pevniny. |
 
 ---
 

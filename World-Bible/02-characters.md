@@ -37,8 +37,9 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 2. Chrániť „deti" (ľudstvo)
 3. Zachrániť dcéru Eleniu pred ňou samou
 
-#### Vnútorný konflikt
-> „Spal som, zatiaľ čo oni trpeli."
+#### Vnútorný konflikt & Postoj
+- **Xenofóbia**: Keď sa prebudí a vidí Chiméry, cíti odpor. Pre neho nie sa to "nová rasa", ale chodiace pamätníky dekadencie ("zvrhlé hračky miliardárov"). Správa sa k nim povýšenecky a nedôverčivo.
+- **Vina**: „Spal som, zatiaľ čo oni trpeli."
 
 #### Kľúčové vzťahy
 - `char.inetis` — partnerka, spoluhráčka z VR
@@ -49,11 +50,9 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 
 ### Tami
 
-| | |
-|---|---|
-| **Status** | Živá |
 | **Vek** | **~7 rokov** (začiatok knihy 1), neskôr **~20** |
-| **Rola** | Otrokyňa / Nosička dedičstva |
+| **Rasa** | **Homo Sapiens Varietas (Chiméra)** |
+| **Rola** | Otrokyňa / Nosička dedičstva / Kapitánka |
 | **Status** | Živá |
 
 ### Charakteristika
@@ -63,18 +62,18 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - Stane sa Maxovým "svedomím" a dôvodom bojovať.
 
 #### Backstory
+- **Pôvod**: Potomok kolonistov z lode **ARK-12** (loď Chimér).
 - **AY ~2987**: Banditi zajmú premrznutého, vyhladovaného Maxa (pár dní po prebudení)
 - Max ich zabije a oslobodí 7-ročnú Tami
 - **AY ~3000**: Stretávajú sa znova, Tami je kapitánka vzducholode
 
-#### Premena
-Po kontakte s telom Inetis na ňu prejdú „hladné" nanodrony:
-- Získava spomienky Inetis (nočné mory, vedecká terminológia)
-- Schopnosti: liečenie, regenerácia
-- Bojí sa, že „umiera" a uvoľňuje miesto Inetis
-
-#### Tragédia
-> Tami vie, že sa mení. Bojí sa, že Maxa to teší — že v nej vidí mŕtvu Inetis, nie ju.
+#### Premena & Zvrat
+- **Odhalenie (Kniha 1)**: Max zistí, že Tami je Chiméra. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
+- **Dôsledok**: Max zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
+- **Kontakt s Inetis**: Po kontakte s telom Inetis na ňu prejdú „hladné" nanodrony:
+    - Získava spomienky Inetis (nočné mory, vedecká terminológia).
+    - Schopnosti: liečenie, regenerácia.
+- **Tragédia**: Tami vie, že sa mení. Bojí sa, že Maxa to teší — že v nej vidí mŕtvu Inetis, nie ju.
 
 ---
 
@@ -148,13 +147,14 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 ### Archanjeli (Executors)
 
-Štyria nesmrteľní vládcovia, **pôvodne exorcisti zo Zeme**. Prežívajú cez „Techno-Vampirizmus" — požierajú ľudí s mágiou.
+Štyria nesmrteľní vládcovia, **pôvodne ex inferis zo Zeme**. Po páde Zeme odišli na Alpha Centauri, odkiaľ sa vrátili na lodi **ARK-13** okolo roku **700 AY**. Našli Achilles v rozklade, zachránili Eleniu pred Wraithami v ruinách Ynetis a pomohli stabilizovať Glitch.
+
+Prežívajú cez „Techno-Vampirizmus" — požierajú ľudí (najmä Chiméry) s „mágiou" (nanodronmi).
 
 #### Samaell (Archanjel Tieňov / Vyhnanec)
-| | |
-|---|---|
 | **Vek** | **250+ biologických rokov** (nar. ~2050 na Zemi) |
 | **Identita** | **OG *ex inferis*** (Veterán VR pekla Achilles) |
+| **Pôvod** | Zem → Alpha Centauri → Achilles (ARK-13) |
 | **Doména** | Ruiny laboratórií, Severná Pustatina |
 | **Status** | Živý (Techno-Upír / Glitching) |
 | **Rola** | Šialený antagonista 1. knihy |

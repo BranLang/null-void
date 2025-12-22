@@ -7,11 +7,14 @@ Zvieratá na Achille sú kombináciou:
 
 ---
 
-## Inteligentné Zvieratá
+## Inteligentné Bytosti a Zvieratá
 
-Vďaka genetickým úpravám (alebo vedľajšiemu produktu nanodronov?) získali niektoré druhy ľudskú inteligenciu a schopnosť reči.
+Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie inteligentného života okrem "Čistých" ľudí:
 
-### Geneticky Modifikované Psy (Neo-Canis)
+1. **Homo Sapiens Varietas (Chiméry):** Hybridy s ľudským základom a zvieracími črtami. Sú to plnohodnotné sociálne bytosti (viď [Societa](file:///c:/Users/brani/Documents/GitHub/null-void/World-Bible/06-society.md)).
+2. **Uplifted Animals (Inteligentné Zvieratá):** Zvieratá s ľudskou inteligenciou, ktoré si zachovali zvieraciu anatómiu.
+
+### Uplifted Animals (Inteligentné Zvieratá)
 - **Vzhľad:** Výrazne väčšie ako pozemské psy (veľkosť malého koňa). Hustá srsť, prispôsobené zime.
 - **Rola:** Náhrada koní. Používajú sa na dopravu, ťahanie saní a lov.
 - **Inteligencia:** Plne vedomé, lojálne, hovoria ľudskou rečou (hrubší, jednoduchší prejav).
@@ -58,3 +61,16 @@ Vďaka genetickým úpravám (alebo vedľajšiemu produktu nanodronov?) získali
 
 ### Hollows (Dutí)
 - Oživené kostry zvierat alebo ľudí (techno-nekromancia).
+
+---
+
+## Pozostatky Éry Hráčov (Tragické experimenty)
+
+### "Doge" (Sub-sapiens)
+- **Pôvod**: Geneticky modifikovaní humanoidní psy vytvorení pre zábavu miliardárov v 21. storočí. 
+- **Charakteristika**: Majú obmedzenú inteligenciu (IQ 80-90) a často vykazujú autistické rysy. Ich telá sú dysfunkčné a bolestivé (zlá stavba kostry).
+- **Status**: Často na okraji spoločnosti Chimér, vnímaní ako "nepodarky" minulosti.
+
+### Super-Primáty (Gorily a Šimpanzy)
+- **Pôvod**: Výsledok experimentov na zvýšenie inteligencie zvierat (IQ 140+).
+- **Status**: Takmer vyhynutí alebo vysoko izolovane žijúci v ruinách. Sú si vedomí svojej histórie a často cynickí voči ľuďom.

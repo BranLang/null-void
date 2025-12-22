@@ -2,36 +2,61 @@
 
 ---
 
+## Rasy na Achille
+
+### 1. Homo Sapiens Sapiens (Ľudia / "Čistí" / "Tí starí")
+**Pôvod:** Pôvodní kolonisti zo Zeme, Hráči a ich priami potomkovia.
+
+**Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa tak boja technológie). Sú to "elfovia" tohto sveta.
+
+**Status:** Sú vzácni. Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Chimérami, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
+
+### 2. Homo Sapiens Varietas (Chiméry / Neo-Morfovia)
+**Hanlivé názvy:** "Zver", "Miešanci", "Hračky", "Krátkožijúci".
+
+**Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu). Pretože ich fyziológia bola odlišná, pôvodné udržiavacie nanoboty v nich nefungovali.
+
+**Biológia:** Sú smrteľní. Starnú a zomierajú (dožívajú sa cca 60-80 rokov). Sú náchylní na choroby a hlad. Ich vzhľad je rôznorodý – od jemných zvieracích čŕt (oči, zuby, srsť) až po výrazné deformácie.
+
+**Spoločnosť:** Tvoria 99% populácie planéty. Majú vlastné kráľovstvá, kmene, jazyky a bohatý folklór, ktorý vznikol za 2000 rokov izolácie.
+
+---
+
 ## Mocenská Pyramída
 
 ### 1. Archanjeli (The Executors)
-Vládnuca kasta nesmrteľných. Každý ovláda svoj región a aspekt spoločnosti.
-- **samaell:** Tieň, tajomstvo, staré technológie.
-- **Kratos:** Vojna, priemysel, hrubá sila.
-- **Ishtar:** Pôžitok, drogy, propaganda/ilúzie.
-- **Elenia:** Najvyššia autorita (často skrytá), "Gatekeeper".
+Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Sú to pôvodní **ex inferis** zo Zeme, ktorí sa vrátili na lodi **ARK-13** (utečenci z Alpha Centauri) okolo roku **700 AY**.
+- **Pôvod**: Našli Achilles v troskách (Glitch era) a Eleniu bojujúcu v ruinách Ynetis. Pomohli stabilizovať situáciu a založili svoje domény.
+- **Vládcovia**:
+    - **Samaell:** Tieň, tajomstvo, staré technológie.
+    - **Kratos:** Vojna, priemysel, hrubá sila.
+    - **Ishtar:** Pôžitok, drogy, propaganda/ilúzie.
+    - **Elenia:** Najvyššia autorita (často skrytá), "Gatekeeper" (pôvodná obyvateľka, ktorú zachránili).
 
-### 2. Nesmrteľní (The Old Guard)
-Pôvodní kolonisti z lode ARK-11, ktorí prežili vďaka technológiám.
-- Tvoria Eleninu elitnú gardu (Kniha 4).
-- Pohŕdajú "novými ľuďmi" (krátkovekými).
+### 2. "Tí Roztrúsení" (Ľudia medzi Chimérami)
+Trosky starej civilizácie Homo Sapiens Sapiens, ktorí nie sú warlordi.
+- **Status:** Žijú v mestách Chimér ako vážená, ale obávaná elita (lekári, učitelia, poradcovia).
+- **Psychológia:** Paralyzovaní nostalgiou a traumou. Videli pád sveta. Boja sa hovoriť o minulosti (Protokol Ticha). Sú to cynickí, depresívni "nesmrteľní".
 
-### 3. Exorcisti (Technomanti)
-Kňažská kasta slúžiaca Archanjelom (a formálne Kultu Matky).
-- Udržiavajú staré stroje.
-- Vykonávajú "rituály" (údržbu).
-- Pôvod: Potomkovia IT technikov.
+### 3. Exorcisti (AI Hunters)
+Špeciálna kasta ľudí (Homo Sapiens Sapiens), ktorí putujú svetom.
+- **Rola:** Pomocou starých nanobotov "upokojujú" (ničia) zbláznené AI pozostatky alebo hľadajú digitálne "duchy" mŕtvych blízkych.
 
-### 4. Bežní Ľudia (The Serfs)
-Väčšina populácie.
-- Žijú v osadách na Pevnine alebo v mestách Archanjelov.
-- Sú smrteľní (dožívajú sa 40-60 rokov).
-- Často trpia chorobami z "Prachu".
+### 4. Chiméry (The Serfs)
+Väčšina populácie. Pracujú v doménach Archanjelov alebo žijú v kmeňoch.
 
-### 5. Vydedenci / Nomádi
-- Ľudia žijúci mimo systému.
-- Tami a jej posádka vzducholode.
-- Banditi.
+---
+
+## Sociálna Dynamika & Konflikt
+
+### 1. Závisť a Nenávisť (Smrteľnosť vs. Večnosť)
+Toto je jadro napätia. Chiméry budujú, množia sa a umierajú v priebehu jednej generácie. Ľudia sa na to pozerajú celé stáročia, nemenní a arogantní. Chiméry vnímajú ľudí ako sebeckých bohov, ktorí sa nechcú podeliť o dar večnosti.
+
+**Vnútorný rasizmus:** Chiméry sú rasistické aj medzi sebou (napr. tí s "čistejšími" črtami pohŕdajú tými s deformáciami).
+
+### 2. Folklór vs. Pravda
+- **Pravda:** Ľudia vedia, že svet bol sci-fi civilizácia zničená AI. Mlčia o tom zo strachu.
+- **Folklór Chimér:** Veria v "Matku Inetis", ktorá im dala dary (mágiu) a veria, že ľudia sú padlí anjeli. Fundamentalisti odmietajú vedeckú pravdu.
 
 ---
 
@@ -41,46 +66,7 @@ Väčšina populácie.
 - **Barter (výmenný obchod):** Prevláda na Pevnine a u nomádov.
 - **Lokálne meny:** Každé kráľovstvo (Archanjelova doména) má vlastnú menu (čipy, známky, kredity).
 
-### Jedlo
-- Pôvod: Geneticky modifikované plodiny dovezené zo Zeme.
-- Prispôsobené chladnej klíme a vyššej gravitácii.
-- Domáce zvieratá: Kravy, sliepky (existujú a chovajú sa).
-
 ### Doprava
-Vzdialenosti sú obrovské a cesty neexistujú (okrem ruín).
-
-1. **Vzducholode:**
-   - Najrýchlejšia doprava.
-   - Využívajú hustejšiu atmosféru na vztlak.
-   - Tami je kapitánka jednej z nich.
-
-2. **Geneticky modifikované Zvieratá:**
-   - **Psy (Veľké):** Náhrada koní. Odolné voči zime, silné (zvládajú gravitáciu). **Vedia rozprávať!**
-   - **Mačky (Veľké):** Používajú sa v rovníkových/teplejších oblastiach. Tiež inteligentné.
-
-3. **Vlaky:**
-   - Existujú *iba* v **Južnom kráľovstve** (Ishtar).
-   - Staré, ale funkčné koľajové trate.
-
----
-
-## Fauna (Geneticky Modifikovaná)
-
-Zvieratá boli dovezené kolonistami a upravené (alebo zmutovali vplyvom nanodronov).
-
-### Inteligentné druhy
-- **Psy a Mačky:** Spoločníci, dopravné prostriedky. Majú ľudskú inteligenciu a reč.
-- **Ľadové Medvede:** Samotárske, obrovské, **rozprávajúce**. Nenávidia ľudí a civilizáciu. Žijú ďaleko na severe.
-
-### Divoká zver
-- Vtáky: Lietajú ťažkopádne, ale silno (hustá atmosféra).
-- Džungľové mackovite predátory: V rovníkovom páse (Ynetis).
-
----
-
-## Mimozemská hrozba
-
-Tí, čo zničili Zem v roku 2300, sú **stále hrozbou**.
-- Kolonisti udržiavajú prísne **"Radio Silence"**.
-- Nevedia o osude iných kolonizačných lodí (Program Exodus zahŕňal 25 lodí).
-- Cieľom Exodu bolo roztrúsiť ľudstvo po Galaxii a zvýšiť šance na prežitie.
+1. **Vzducholode:** Najrýchlejšia doprava. Využívajú hustejšiu atmosféru.
+2. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
+3. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Ishtar).
