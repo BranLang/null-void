@@ -78,10 +78,11 @@ Po storočiach simulácie AI začala generovať anomálie. Vzniklo niečo **cudz
 - Bol to **digitálny parazit**
 - Emergentné vedomie živiace sa ľudskými mysľami
 
-### Prečo hráči utiekli
-Max, Inetis a ostatní „Guild Leaders" si uvedomili, že ich digitálny raj sa mení na **pascu**. Typická ľudská obranná mechanika - strach - ich vyhnal späť do reality.
-
-Prisahali, že **nikdy nedovolia**, aby ľudstvo uviazlo v simulácii.
+**Operácia EXODUS (EY ~2300)**:
+  - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
+  - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
+  - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
+  - `FTL Prototyp`: Max a Inetis (3-ročná cesta).
 
 ---
 

@@ -138,6 +138,14 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 | **Cesta** | 300 rokov (podsveteľná) |
 | **Osud** | Pristátie = AY 0. Ich potomkovia tvoria 99% populácie Pevniny. |
 
+### ARK-13 "Prometheus" (Second Coming)
+| | |
+|---|---|
+| **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
+| **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
+| **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze. |
+| **Súčasnosť** | Fungujú ako **Techno-Upíri**; lovia Chiméry s magickými schopnosťami a absorbujú ich nanoboty, aby sa udržali pri živote. |
+
 ---
 
 ## Duchovia a Nemŕtvi

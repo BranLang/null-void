@@ -25,13 +25,15 @@
 ## Mocenská Pyramída
 
 ### 1. Archanjeli (The Executors)
-Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Sú to pôvodní **ex inferis** zo Zeme, ktorí sa vrátili na lodi **ARK-13** (utečenci z Alpha Centauri) okolo roku **700 AY**.
-- **Pôvod**: Našli Achilles v troskách (Glitch era) a Eleniu bojujúcu v ruinách Ynetis. Pomohli stabilizovať situáciu a založili svoje domény.
+Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
+- **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Ynetis. Ich intervencia zvrátila priebeh boja.
+- **Ideológia**: Považujú sa za spasiteľov a nadradené bytosti (arogancia elity). V skutočnosti sú to **Techno-Upíri**, ktorí prežívajú vďaka **lovu a kanibalizácii Chimér** s magickými schopnosťami.
+- **Odber**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“, ktorých následne odvedú do Citadely. Tam z nich Archanjeli doslova vysajú nanoboty (často fatálny proces), aby udržali svoje vlastné rozpadajúce sa systémy.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie.
     - **Kratos:** Vojna, priemysel, hrubá sila.
     - **Ishtar:** Pôžitok, drogy, propaganda/ilúzie.
-    - **Elenia:** Najvyššia autorita (často skrytá), "Gatekeeper" (pôvodná obyvateľka, ktorú zachránili).
+    - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper".
 
 ### 2. "Tí Roztrúsení" (Ľudia medzi Chimérami)
 Trosky starej civilizácie Homo Sapiens Sapiens, ktorí nie sú warlordi.

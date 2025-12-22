@@ -135,11 +135,14 @@
 ### Úpadok do Temnoty
 - Chiméry na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
 
-### AY ~700: Druhý Príchod (ARK-13)
-- **Prílet ARK-13**: Na Achilles dorazí loď **ARK-13** s utečencami z kolonizovanej sústavy **Alpha Centauri**.
-- **Archanjeli**: Medzi pasažiermi sú 4 pôvodní **ex inferis** (Hráči Achilles), dnes známi ako Archanjeli (Samaell, Kratos, Ishtar, a štvrtý).
-- **Stabilizácia**: Archanjeli nachádzajú Achilles v troskách. Nájdu Eleniu bojovať proti Wraithom v ruinách Ynetis.
-- **Intervencia**: Pomôžu stabilizovať situáciu, spomaliť Glitch Rot svojimi znalosťami a založia nové kolónie/domény.
+### AY ~700: Druhý Príchod (ARK-13 "Prometheus")
+- **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze zostávajú nažive len štyria elitní **Ex Inferis** (Archanjeli). **Prežili len vďaka tomu, že kanibalizovali spiace telá ostatných 1000+ kolonistov**, využívajúc ich biomasu a nanoboty na vlastnú údržbu.
+- **Prílet na Achilles**: ARK-13 zachytáva signály z Achilla a mení kurz. Nachádzajú planétu v troskách a chaose.
+- **Záchrana Elenie**: Archanjeli (Samaell, Grom, Ishtar a štvrtý) nachádzajú Eleniu v ruinách centra **Ynetis**. Elania vedie zúfalý boj proti drvivej presile Wraithov. Jej sily dochádzali, kým nezasiahli novoprišlí "bohovia".
+- **Stabilizácia a Dohoda**: 
+    - Archanjeli svojou pokročilou bojovou technológiou zničia Wraithov v jadre mesta.
+    - Použijú znalosti z ARK-13 na stabilizáciu energetických polí, čím spomalia Glitch Rot.
+    - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadelu** (najbezpečnejšia časť Ynetis).
 
 ---
 
@@ -171,21 +174,22 @@
 
 ## Časová os hlavného deja
 
-- **AY 3000**: **Prebudenie Maximiliána**. Zachraňuje Tami (malú Chiméru).
-  - Max sa prebúdza slepý a s amnéziou.
+- **AY 3000**: **Prebudenie Maximiliána**.
+    - Max sa prebúdza slepý a s amnéziou. 
+    - Zachraňuje Tami (malú Chiméru).
     - Záchrana 7-ročnej **Tami** z rúk pirátov.
-    : **Obdobie putovania**.
+- **AY 3000 – AY 3013**: **Obdobie putovania**.
     - Max sa adaptuje na svet, učí sa jazyk a kultúru.
     - Max a Tami sa z bezpečnostných dôvodov rozdelia.
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1: Časť 3).
     - Opätovné stretnutie Maxa a 20-ročnej Tami.
     - Aktivácia "The Pentagram Cycle".
-- **AY 3013**: Začiatok deja. Max (xenofób z minulosti) musí spolupracovať s Tami (Chimérou-mágom).
+    - Max (xenofób z minulosti) musí spolupracovať s Tami (Chimérou-mágom).
 
 ---
 
 ## Príbeh kníh
-1. **ZEM** — Max hľadá Inetis, nájde jej telo. Boss: samaell
+1. **ZEM** — Max hľadá Inetis, nájde jej telo. Boss: Samaell
 2. **OHEŇ** — Flashbacky na Zem, Tami sa mení. Boss: Kratos
 3. **VODA** — História Ynetis, odhalenie identity Elenie. Boss: Ishtar
 4. **VZDUCH** — Vojna s Eleniou, Doomsday Protocol
@@ -197,5 +201,3 @@
 
 - [ ] Presný rok smrti Inetis (AY ~700?)
 - [ ] Kedy presne vznikol Kult Matky?
-- [ ] Ako sa Archanjeli dostali na Achilles? (Boli na ARK-11?)
-    -archanieli - second comming ark 13 prisli na Achilles cca v roku 700 AY alpha centauri ako uprchlíci. Nasli achiless v upadku. 

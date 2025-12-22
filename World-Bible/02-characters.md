@@ -130,9 +130,15 @@ Jej otec bol vdovec a spoločne hrávali Achilles.
 Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu. Po tisícročiach dospela k záveru, že biológia je kliatba.
 
 #### Psychologický profil
-- **Komplex opustenia** — nenávisť voči otcovi
-- **Nihilizmus** — „Mäso je slabé"
-- **Narcizmus** — verí, že ona je skutočná dedička planéty
+- **Komplex opustenia** — nenávisť voči otcovi.
+- **Nihilizmus** — „Mäso je slabé".
+- **Narcizmus** — verí, že ona je skutočná dedička planéty.
+
+#### Backstory
+- **Detstvo**: Vyrastala v jaskyni sledujúc matku budovať svet, no neskôr ju videla strácať kontrolu pod váhou Glitchu.
+- **Pád Ynetis (AY ~300-700)**: Zostala v meste bojovať, kým ostatní utekali. Viedla zúfalú obranu proti Wraithom.
+- **Záchrana (700 AY)**: Bola zachránená Archanjelmi (ARK-13 "Prometheus") práve vo chvíli, keď jej sily v ruinách Citadely dochádzali. Uznala ich nadvládu výmenou za stabilitu a prežitie svojho ľudu.
+- **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload.
 
 #### Motivácia: Veľký Upload
 Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
@@ -147,9 +153,10 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 ### Archanjeli (Executors)
 
-Štyria nesmrteľní vládcovia, **pôvodne ex inferis zo Zeme**. Po páde Zeme odišli na Alpha Centauri, odkiaľ sa vrátili na lodi **ARK-13** okolo roku **700 AY**. Našli Achilles v rozklade, zachránili Eleniu pred Wraithami v ruinách Ynetis a pomohli stabilizovať Glitch.
-
-Prežívajú cez „Techno-Vampirizmus" — požierajú ľudí (najmä Chiméry) s „mágiou" (nanodronmi).
+Štyria nesmrteľní vládcovia, **pôvodní ex inferis zo Zeme**. 
+- **Pôvod**: Po stáročiach putovania z neobývateľnej Alpha Centauri dorazili na lodi **ARK-13 "Prometheus"**. **Prežili len vďaka tomu, že v kryostáze kanibalizovali vlastných kolonistov**, požierajúc ich telá a nanoboty.
+- **Intervencia**: Zachránili Eleniu pred vyhladením Wraithami a stabilizovali energetické jadro Ynetis.
+- **Súčasnosť**: Vládnu z Citadely ako polobohovia. Fungujú ako **Techno-Upíri** — lovia heretikov a Chiméry s „Darom Matky“, z ktorých vysávajú nanoboty, aby potlačili vlastné zlyhávanie (Glitch).
 
 #### Samaell (Archanjel Tieňov / Vyhnanec)
 | **Vek** | **250+ biologických rokov** (nar. ~2050 na Zemi) |
