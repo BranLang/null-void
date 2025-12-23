@@ -15,11 +15,11 @@ Zem nebola zničená vojnou medzi ľuďmi, ale vonkajšou silou.
 ### Status Hrozby
 Mimozemšťania sú **stále hrozbou**.
 - Neodišli definitívne. Monitorujú systém?
-- Ľudstvo na Achille prežíva len vďaka tomu, že je "ticho" a bez FTL.
+- Ľudstvo na Achille prežíva len vďaka tomu, že je "ticho" a bez FTL a bez elektrických zariadení a rádia.
 
 ---
 
-## Program EXODUS
+## Program Respawn
 
 Zúfalý plán na záchranu ľudského druhu.
 

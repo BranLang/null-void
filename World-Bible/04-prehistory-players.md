@@ -39,7 +39,7 @@ Vláda Koordinátora nakoniec tieto experimenty zastavila, no genetické modifik
 | **Unikát** | Prvá skutočná simulácia reality |
 
 ### Časová dilatácia
-**1 hodina reality = mesiace/roky v hre**
+**1 hodina reality = 24 hodiny v hre**
 
 Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
 

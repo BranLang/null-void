@@ -90,11 +90,14 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 
 ---
 
-## Pentagram: Používateľské Rozhranie (UI)
+Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svoju dcéru Elaniu tradičným spôsobom. Vytvorila **Pentagram ako mnemotechnickú pomôcku** — zjednodušené „užívateľské rozhranie“ (UI) pre ovládanie reality.
 
-Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svoju dcéru Elaniu tradičným spôsobom. Vytvorila **Pentagram ako mnemotechnickú pomôcku** — zjednodušené „užívateľské rozhranie“ pre ovládanie reality.
+### Analógia Operatívneho Systému
+Predstavte si realitu ako počítač:
+- **Pod povrchom**: Milióny riadkov kódu (nanoboty) a fyzikálne zákony.
+- **Na povrchu**: Ikony 5 elementov, na ktoré „mág“ kliká svojou vôľou a podmienenými reflexami.
 
-Pod povrchom bežia milióny riadkov kódu (nanoboty), ale užívateľ vidí len 5 elementov, ktoré definujú základné parametre manipulácie.
+Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elementov, ktoré definujú základné parametre manipulácie. Toto rozhranie umožnilo Inetis odovzdať vedomosti Elenii bez potreby hĺbkového štúdia kvantovej mechaniky.
 
 ### Mapovanie elementov
 

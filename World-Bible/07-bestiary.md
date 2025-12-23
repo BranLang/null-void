@@ -11,7 +11,7 @@ Zvieratá na Achille sú kombináciou:
 
 Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie inteligentného života okrem "Čistých" ľudí:
 
-1. **Homo Sapiens Varietas (Chiméry):** Hybridy s ľudským základom a zvieracími črtami. Sú to plnohodnotné sociálne bytosti (viď [Societa](file:///c:/Users/brani/Documents/GitHub/null-void/World-Bible/06-society.md)).
+1. **Homo Sapiens Varietas (Chiméry):** Hybridy s ľudským základom a zvieracími črtami. Sú to plnohodnotné sociálne bytosti (viď [Societa](06-society.md)).
 2. **Uplifted Animals (Inteligentné Zvieratá):** Zvieratá s ľudskou inteligenciou, ktoré si zachovali zvieraciu anatómiu.
 
 ### Uplifted Animals (Inteligentné Zvieratá)

@@ -28,7 +28,44 @@
 
 ---
 
-## Mocenská Pyramída
+## Mocenská Pyramída (Hierarchia)
+
+```mermaid
+graph BT
+    %% Definicie
+    subgraph "THE NULL VOID (Root Access)"
+        AI((THE VOID<br>Corrupted Core AI))
+    end
+
+    subgraph "THE GATEKEEPER (Admin)"
+        ELENIA[ELENIA<br>Archanjel Zradenej Krvi<br>Dcéra Maxa & Inetis]
+    end
+
+    subgraph "THE EXECUTORS (Services)"
+        AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
+        KR[KRATOS<br>Archanjel Vojny<br>Lokácia: Sever]
+        IS[ISHTAR<br>Archanjel Pôžitku<br>Lokácia: Juh]
+    end
+
+    subgraph "THE HOSTS (Hardware)"
+        GHOSTS(Armáda Duchov<br>Nanodrone Wraiths)
+        CULT(Kult Matky<br>Ľudskí prisluhovači)
+    end
+
+    %% Prepojenia
+    AI -->|Ovláda| ELENIA
+    ELENIA -->|Rozkazuje| AZ
+    ELENIA -->|Rozkazuje| KR
+    ELENIA -->|Rozkazuje| IS
+    
+    AZ -->|Programuje| GHOSTS
+    KR -->|Velí| GHOSTS
+    IS -->|Manipuluje| CULT
+
+    %% Styling
+    style AI fill:#000,stroke:#f00,stroke-width:4px,color:#fff
+    style ELENIA fill:#330000,stroke:#f00,stroke-width:2px,color:#fff
+```
 
 ### 1. Archanjeli (The Executors)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.

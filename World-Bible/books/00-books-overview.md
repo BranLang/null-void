@@ -10,6 +10,32 @@
 | 4 | 🜁 VZDUCH | Búrka Strojov | Elenia | Vojna otec vs. dcéra |
 | 5 | ✧ KVINTESENCIA | Null Void | THE VOID | Finále, obeta |
 
+### Vizuálny plán (Pentagram Cycle)
+
+```mermaid
+graph TD
+    %% Definicia uzlov
+    B1(Kniha 1: ZEM<br>Prach)
+    B2(Kniha 2: OHEŇ<br>Plamene Impéria)
+    B3(Kniha 3: VODA<br>Slzy Matky)
+    B4(Kniha 4: VZDUCH<br>Búrka Strojov)
+    B5(Kniha 5: KVINTESENCIA<br>Null Void)
+
+    %% Vztahy a tok pribehu
+    B1 -->|Hľadanie pravdy| B2
+    B2 -->|Odhalenie minulosti| B3
+    B3 -->|Konfrontácia s rodinou| B4
+    B4 -->|Apokalypsa| B5
+    B5 -->|Nový Začiatok| B1
+
+    %% Styling (Cyberpunk farby)
+    style B1 fill:#4a3b3b,stroke:#f00,stroke-width:2px,color:#fff
+    style B2 fill:#802b00,stroke:#f00,stroke-width:2px,color:#fff
+    style B3 fill:#003366,stroke:#f00,stroke-width:2px,color:#fff
+    style B4 fill:#2d2d2d,stroke:#f00,stroke-width:2px,color:#fff
+    style B5 fill:#000000,stroke:#0ff,stroke-width:4px,color:#fff,stroke-dasharray: 5 5
+```
+
 ---
 
 ## Kniha 1: ZEM – Prach Achilla
@@ -97,7 +123,7 @@
 
 ## Kniha 5: KVINTESENCIA – Null Void
 
-> Detaily v [books/05-kvintesencia.md](books/05-kvintesencia.md)
+> Detaily v [05-kvintesencia.md](05-kvintesencia.md)
 
 ### Dej
 - Protokol Null aktívny, svet sa rozpadá
