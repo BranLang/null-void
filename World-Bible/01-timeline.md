@@ -6,11 +6,18 @@
 ```mermaid
 timeline
     title Éra Hráčov a Pád Zeme (EY)
-    2045 : Nástup Superinteligencie : Projekt Achilles (VR) začína
+    2035 : Nástup Superinteligencie
+    2045 : Projekt Achilles (VR) začína
     2050 : Maxovo narodenie
-    2070 : Boom genetiky : Neo-Morfovia : "Doge" experimenty
-    2100 : Revolúcia Hráčov : Koniec vlád korporácií
-    2300 : Operácia EXODUS : Pád Zeme : Odlet ARK lodí
+    2060 : The Glitch Event (Time Dilation Trauma)
+    2065 : Útek z Pekla (Zrodenie Ex Inferis)
+    2070 : Boom genetiky : Neo-Morfovia
+    2075 : "Doge" experimenty
+    2098 : Expedícia Hephaestus (Synths)
+    2100 : Revolúcia Hráčov : Koniec korporácií
+    2150 : Marťanská vojna : Iniciatíva Achilles
+    2200 : FTL prielom
+    2300 : Mimozemská invázia : Pád Zeme : Operácia EXODUS
 ```
 
 ### Éra Achilles (Pevnina)
