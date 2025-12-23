@@ -2,31 +2,31 @@
 
 ## Štruktúra
 
-| # | Element | Názov | Boss | Téma |
-|---|---------|-------|------|------|
-| 1 | 🜃 ZEM | Prach Achilla | samaell | Prebudenie, hľadanie |
-| 2 | 🜂 OHEŇ | Plamene Impéria | Kratos | Minulosť, vojna |
-| 3 | 🜄 VODA | Slzy Matky | Ishtar | Pamäť, ilúzie, odhalenie |
-| 4 | 🜁 VZDUCH | Búrka Strojov | Elenia | Vojna otec vs. dcéra |
-| 5 | ✧ KVINTESENCIA | Null Void | THE VOID | Finále, obeta |
+| Kniha | Element | Názov | Téma |
+|-------|---------|-------|------|
+| 1 | 🜃 ZEM-hmota | Prach Achilla | Prebudenie, hľadanie pravdy |
+| 2 | 🜂 OHEŇ-energia | Plamene Impéria | Minulosť, pád Zeme |
+| 3 | 🜄 VODA-cas | Slzy Matky | Pamäť, ilúzie, odhalenie |
+| 4 | 🜁 Vietor-priestor | Búrka Strojov | Vojna, otec vs. dcéra |
+| 5 | ✧ KVINTESENCIA- Vedomie | Null Void | Finále, obeta, nový začiatok |
 
 ### Vizuálny plán (Pentagram Cycle)
 
 ```mermaid
 graph TD
     %% Definicia uzlov
-    B1(Kniha 1: ZEM<br>Prach)
-    B2(Kniha 2: OHEŇ<br>Plamene Impéria)
-    B3(Kniha 3: VODA<br>Slzy Matky)
-    B4(Kniha 4: VZDUCH<br>Búrka Strojov)
-    B5(Kniha 5: KVINTESENCIA<br>Null Void)
+    B1(Kniha 1: ZEM-hmota<br>Prach)
+    B2(Kniha 2: OHEŇ-energia<br>Plamene Impéria)
+    B3(Kniha 3: VODA-cas<br>Slzy Matky)
+    B4(Kniha 4: Vietor-priestor<br>Búrka Strojov)
+    B5(Kniha 5: KVINTESENCIA- Vedomie<br>Null Void)
 
     %% Vztahy a tok pribehu
-    B1 -->|Hľadanie pravdy| B2
-    B2 -->|Odhalenie minulosti| B3
-    B3 -->|Konfrontácia s rodinou| B4
-    B4 -->|Apokalypsa| B5
-    B5 -->|Nový Začiatok| B1
+    B1 -->|Prebudenie, hľadanie pravdy| B2
+    B2 -->|Minulosť, pád Zeme| B3
+    B3 -->|Pamäť, ilúzie, odhalenie| B4
+    B4 -->|Vojna, otec vs. dcéra| B5
+    B5 -->|Finále, obeta, nový začiatok| B1
 
     %% Styling (Cyberpunk farby)
     style B1 fill:#4a3b3b,stroke:#f00,stroke-width:2px,color:#fff
@@ -38,7 +38,7 @@ graph TD
 
 ---
 
-## Kniha 1: ZEM – Prach Achilla
+## Kniha 1: ZEM-hmota – Prach Achilla
 
 ### Dej
 - Max sa prebúdza z 3000-ročného kryospánku
@@ -57,7 +57,7 @@ graph TD
 
 ---
 
-## Kniha 2: OHEŇ – Plamene Impéria
+## Kniha 2: OHEŇ-energia – Plamene Impéria
 > Detailná osnova: [02-ohen.md](02-ohen.md)
 
 ### Dej (dvojitá línia)
@@ -78,7 +78,7 @@ graph TD
 
 ---
 
-## Kniha 3: VODA – Slzy Matky
+## Kniha 3: VODA-cas – Slzy Matky
 > Detailná osnova: [03-voda.md](03-voda.md)
 
 ### Dej
@@ -91,7 +91,7 @@ graph TD
 - **Ynetis (Mesto Duchov):** Čiastočne zarastený ostrov plný rogue AI (Duchovia).
 
 ### Konflikt
-- **Ishtar** a jej útok na Maxovu psychiku cez obraz dokonalej rodiny.
+- **Ishtar** a her útok na Maxovu psychiku cez obraz dokonalej rodiny.
 - Odhalenie pravdy o **Bit Rot Glitchi** (Eleniina zrada).
 
 ### Finále
@@ -99,7 +99,7 @@ graph TD
 
 ---
 
-## Kniha 4: VZDUCH – Búrka Strojov
+## Kniha 4: Vietor-priestor – Búrka Strojov
 > Detailná osnova: [04-vzduch.md](04-vzduch.md)
 
 ### Dej
@@ -121,7 +121,7 @@ graph TD
 
 ---
 
-## Kniha 5: KVINTESENCIA – Null Void
+## Kniha 5: KVINTESENCIA- Vedomie – Null Void
 
 > Detaily v [05-kvintesencia.md](05-kvintesencia.md)
 
