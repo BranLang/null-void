@@ -138,27 +138,57 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 | **Cesta** | 300 rokov (podsveteľná) |
 | **Osud** | Pristátie = AY 0. Ich potomkovia tvoria 99% populácie Pevniny. |
 
+### Vedľajšie účinky stázy (Kryo-Slepota)
+Dlhodobý pobyt v kryostáze (2000+ rokov) poškodzuje optické nervy a rohovku.
+- **Symptómy**: Totálna slepota alebo vnímanie len rozmazaného svetla.
+- **Oprava**: Vojenský nanodust (*Ex Inferis biológia*) opravuje oči automaticky, no trvá to **6-12 mesiacov**. Tento stav robí z prebudeného „Boha“ bezbrannú bytosť.
+
 ### ARK-13 "Prometheus" (Second Coming)
 | | |
 |---|---|
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
-| **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze. |
-| **Súčasnosť** | Fungujú ako **Techno-Upíri**; lovia Chiméry s magickými schopnosťami a absorbujú ich nanoboty, aby sa udržali pri živote. |
+| **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Chiméry, pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+
+### Expedícia "Hephaestus" (The Silent Builders)
+| | |
+|---|---|
+| **Pasažieri** | Tisíce biologických androidov (Synths) |
+| **Cesta** | Automatizovaná semenná loď (Seed Ship), 1200+ rokov |
+| **Osud** | Pristátie = AY 2000. Posádka Synths prežila v bezchybnom stave. |
+
+---
+
+## Tichá technológia (Analóg)
+Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Synths vyvinuli vrcholné analógové majstrovstvo.
+
+- **Mechanika**: Čisto mechanické počítače, hodinové stroje, hydraulika a pneumatika.
+- **Pohon**: Para, stlačený vzduch, biologické palivá (oleje).
+- **Vzducholode**: Obrovské plavidlá postavené zo špeciálnych ľahkých zliatin a tkanín, riadené mechanickými pákami.
+- **Osvetlenie**: Bioluminiscencia (špeciálne riasy v potrubiach) namiesto LED/žiaroviek.
+
+---
+
+## Glitch Rot (Hniloba)
+Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj technológiu.
+- **Vplyv na techniku**: „Rozožiera“ kód a obvody, mení ich na nefunkčnú čiernu hmotu.
+- **Vplyv na biogóliu**: U Chimér mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archanjeli ju vnímajú ako „otrávené mäso“.
+- **Prenos**: Kontaktom so starými ruinami alebo infikovanými schránkami.
 
 ---
 
 ## Duchovia a Nemŕtvi
 
-### Wraiths (Duchovia)
-- Zhluky nanodronov nesúce **fragmenty vedomia** mŕtvych kolonistov
-- Napodobňujú ľudské siluety
-- Môžu útočiť alebo posadnúť hostiteľa
+### Wraiths (Prízraky)
+- Zhluky nanodronov nesúce **fragmenty vedomia** mŕtvych kolonistov.
+- **Hrozba**: Sú nevyspytateľné a priťahované aktívnou elektronikou. Pre Archanjelov predstavujú existenčné riziko – ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
 
-### Hollows (Nemŕtvi)
-- Kostry/pozostatky kolonistov
-- Poháňané nanodronmi
-- „Techno-nekromancia"
+### Výbava Exorcistov
+Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
+- **Ťažké skafandre**: Izolované obleky chrániace pred priamym kontaktom s Hnilobou.
+- **Plameňomety**: Jediný efektívny spôsob, ako totálne eliminovať organické ložiská Hniloby.
+- **Analógová „Exorcizácia“**: Použitie hrubej sily (kladivá, páčidlá) na fyzickú likvidáciu procesorov a hardvéru, v ktorom sídlia Wraiths.
 
 ---
 

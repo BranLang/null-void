@@ -54,7 +54,7 @@ Za niekoľko mesiacov reálneho času hráči:
 ## maXpowa & i_net_is
 
 ### Maximilián („maXpowa")
-- V realite: syn mechanika zo strednej Európy
+- V realite: syn vojnoveho veterana zo strednej Európy
 - V hre: elitný bojovník, tank, ochranca
 - Narodený: **EY 2050**
 
@@ -64,7 +64,7 @@ Za niekoľko mesiacov reálneho času hráči:
 - Skutočné meno: možno Inez alebo Elena (nick sa stal jej identitou)
 
 ### Ako sa spoznali
-> „V realite bola dcérou najmocnejšieho muža na Zemi a ja som bol len syn mechanika. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
+> „V realite bola dcérou najmocnejšieho muža na Zemi a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
 Ich otec (Koordinátor) bol vdovec a s dcérou spoločne hrávali Achilles.
 
@@ -82,6 +82,7 @@ Po storočiach simulácie AI začala generovať anomálie. Vzniklo niečo **cudz
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
   - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
+  - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Synths), vyslaná pragmatickými vedcami ako poistka civilizácie.
   - `FTL Prototyp`: Max a Inetis (3-ročná cesta).
 
 ---

@@ -1,5 +1,32 @@
 # Časová os (Kanonická)
 
+## Vizuálna Chronológia
+
+### Éra Hráčov (Zem)
+```mermaid
+timeline
+    title Éra Hráčov a Pád Zeme (EY)
+    2045 : Nástup Superinteligencie : Projekt Achilles (VR) začína
+    2050 : Maxovo narodenie
+    2070 : Boom genetiky : Neo-Morfovia : "Doge" experimenty
+    2100 : Revolúcia Hráčov : Koniec vlád korporácií
+    2300 : Operácia EXODUS : Pád Zeme : Odlet ARK lodí
+```
+
+### Éra Achilles (Pevnina)
+```mermaid
+timeline
+    title Éra Achilles (AY)
+    0 : Pristátie lodí ARK-11 a ARK-12
+    300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
+    700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
+    2000 : Tretí Príchod (Synths) : Lekcia Krvi : Tichá technológia
+    3000 : Prebudenie Maximiliána
+    3013 : Začiatok hlavného deja (Kniha 1)
+```
+
+---
+
 ## Systém datovania
 
 | Skratka | Význam | Poznámka |
@@ -136,13 +163,20 @@
 - Chiméry na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
 
 ### AY ~700: Druhý Príchod (ARK-13 "Prometheus")
-- **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze zostávajú nažive len štyria elitní **Ex Inferis** (Archanjeli). **Prežili len vďaka tomu, že kanibalizovali spiace telá ostatných 1000+ kolonistov**, využívajúc ich biomasu a nanoboty na vlastnú údržbu.
+- **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze urobili štyria Ex Inferis chladné rozhodnutie prežiť. 
+- **Prvotný Hriech**: Systematicky odpojili a „konzumovali“ spiacich kolonistov (1000+ ľudí). Nebol to len kanibalizmus mäsa, ale **zber biologického materiálu a nanotechnologických prekurzorov** na udržanie vlastnej existencie. Ich božský status je vybudovaný na masovom hrobe vlastných ľudí.
 - **Prílet na Achilles**: ARK-13 zachytáva signály z Achilla a mení kurz. Nachádzajú planétu v troskách a chaose.
 - **Záchrana Elenie**: Archanjeli (Samaell, Grom, Ishtar a štvrtý) nachádzajú Eleniu v ruinách centra **Ynetis**. Elania vedie zúfalý boj proti drvivej presile Wraithov. Jej sily dochádzali, kým nezasiahli novoprišlí "bohovia".
 - **Stabilizácia a Dohoda**: 
     - Archanjeli svojou pokročilou bojovou technológiou zničia Wraithov v jadre mesta.
     - Použijú znalosti z ARK-13 na stabilizáciu energetických polí, čím spomalia Glitch Rot.
     - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadelu** (najbezpečnejšia časť Ynetis).
+
+### AY 2000: Tretí Príchod (Expedícia "Hephaestus")
+- **Pristátie Synths**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Synths**). Sú to neemotívne organické stroje riadené direktívou obnoviť civilizáciu.
+- **Lekcia Krvi**: Synths začnú budovať osady s pokročilou elektronikou. To prebudí Wraithov, ktorí ich zmasakrujú.
+- **Adaptácia**: Synths pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
+- **Vstup do Spoločnosti**: Začínajú spolupracovať s Chimérami ako tichí stavitelia a inžinieri.
 
 ---
 
@@ -174,12 +208,12 @@
 
 ## Časová os hlavného deja
 
-- **AY 3000**: **Prebudenie Maximiliána**.
-    - Max sa prebúdza slepý a s amnéziou. 
-    - Zachraňuje Tami (malú Chiméru).
-    - Záchrana 7-ročnej **Tami** z rúk pirátov.
-- **AY 3000 – AY 3013**: **Obdobie putovania**.
-    - Max sa adaptuje na svet, učí sa jazyk a kultúru.
+- **AY 3000**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+- **Rok Tieňov (AY 3000 – 3001)**: 
+    - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt, mysliac si, že je človek.
+    - **Unit 734 („Sedmička“)**: Synth-mechanik slúži ako prekladateľ. Vedome (logicky) nespomína Tamin vzhľad.
+- **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a Chimérej spoločnosti. Bod zlomu pre jeho ideológiu.
+- **AY 3001 – AY 3013**: **8-ročná cesta**: Premena z „trosky“ na legendárneho Exorcistu. Postupná adaptácia na svet a budovanie nového vzťahu s Tami založeného na realite, nie na slepom odhade.
     - Max a Tami sa z bezpečnostných dôvodov rozdelia.
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1: Časť 3).
     - Opätovné stretnutie Maxa a 20-ročnej Tami.

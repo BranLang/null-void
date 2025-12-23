@@ -12,10 +12,13 @@
 #### Maximilián (The Sleeper / maXpowa)
 | | |
 |---|---|
-| **Vek** | **250+ biologických rokov** (vďaka nanotech nestarne) |
-| **Identita** | *ex inferis* (Prežil VR peklo Achilles) |
-| **Pôvod** | Zem (nar. 2050), veliteľ operácií, nástupca Koordinátora |
-| **Status** | Živý (s amnéziou a slepotou po prebudení) |
+| **Status** | Živý (s amnéziou a **kryo-slepotou** po prebudení) |
+
+#### Fáza „Zlomený Boh“ (Rok 0-1)
+Max sa prebúdza ako „troska“. 
+- **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
+- **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z toho, že Tami je Chiméra (uši, chvost) a že svet ovládli „monštrá“, spôsobí jeho psychický kolaps a pocit zrady.
+- **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Syntha.
 
 #### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
@@ -25,8 +28,8 @@
 
 #### Backstory
 Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
-- **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny.
-- **Vzťah s Inetis**: Miloval ju, ale ich cesty sa rozdelili kvôli jeho brutalite a jej pacifizmu.
+- **V realite**: Max bol synom **vojnového veterána** zo strednej Európy. Od otca sa naučil disciplínu a základy boja, no v ére Hráčov uprednostnil virtuálny svet pred drsnou realitou.
+- **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny veterán z vojny (2150).
 - **Pád Zeme**: Posledné hodiny strávil prebíjaním sa cez horiacu civilizáciu, aby zachránil Inetis na príkaz umierajúceho Koordinátora.
 - **Hibernácia**: Po príchode na Achilles (AY 0) bol uložený do kryospánku na 3000 rokov. Prebudil sa bez pamäti na svoje činy zabijaka.
 #### Herná minulosť
@@ -59,7 +62,8 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - Na začiatku: Vystrašené dieťa v klietke pirátov, určené na predaj.
 - Neskôr: Drsná kapitánka vzducholode (po časovom skoku).
 - Má vzácnu kompatibilitu s nanodronmi Inetis (preto ju chcela Elenia/Samaell?).
-- Stane sa Maxovým "svedomím" a dôvodom bojovať.
+- **Vodič Boha (Rok Tieňov)**: Vedie slepého Maxa cez nebezpečné ruiny. Netuší, že on nevie o jej Chimérom pôvode; pre ňu je to norma.
+- **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
 #### Backstory
 - **Pôvod**: Potomok kolonistov z lode **ARK-12** (loď Chimér).
@@ -113,6 +117,27 @@ Jej otec bol vdovec a spoločne hrávali Achilles.
 
 ---
 
+### Unit 734 („Sedmička") / Synth-Mechanik
+
+| | |
+|---|---|
+| **Rasa** | Android (Synth) |
+| **Rola** | Hlavný inžinier vzducholode / Prekladateľ |
+| **Status** | Aktívny |
+
+#### Funkcia a Vzťah
+- **Most medzi érami**: Ako jediný rozumie Maxovej **Staroreči**.
+- **Logické Mlčanie**: Synth nikdy Maxovi nespomenie Tamine fyzické rysy (uši, chvost), pretože sú to pre stroj irelevantné vizuálne informácie. Toto „mlčanie stroja“ umožňuje Maxovi žiť rok v omyle.
+- **RP English**: Hovorí chladnou, archaickou britskou angličtinou.
+- **Rosetta Stone Protocol**: Pomáha Maxovi učiť sa moderný jazyk Achilla.
+
+Drsní žoldnieri a veteráni špecializovaní na boj v zamorených zónach. 
+- **Povaha**: Nie sú to duchovní, ale „likvidátori“. Ich cieľom je fyzicky zničiť hardvér obývaný Wraithami alebo vypáliť ložiská **Hniloby** (Glitch Rot).
+- **Ekonomika**: Pracujú pre Archanjelov za astronomické sumy v zlate. Sú to najlepšie platení smrteľníci, ale ich priemerná dĺžka dožitia po vstupe do služby je menej ako 5 rokov.
+- **Rola v príbehu**: Sú to „vyvrheli s peniazmi“, na ktorých sa spoločnosť pozerá s rešpektom aj hnusom.
+
+---
+
 ## Antagonisti
 
 ---
@@ -153,10 +178,10 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 ### Archanjeli (Executors)
 
-Štyria nesmrteľní vládcovia, **pôvodní ex inferis zo Zeme**. 
-- **Pôvod**: Po stáročiach putovania z neobývateľnej Alpha Centauri dorazili na lodi **ARK-13 "Prometheus"**. **Prežili len vďaka tomu, že v kryostáze kanibalizovali vlastných kolonistov**, požierajúc ich telá a nanoboty.
-- **Intervencia**: Zachránili Eleniu pred vyhladením Wraithami a stabilizovali energetické jadro Ynetis.
-- **Súčasnosť**: Vládnu z Citadely ako polobohovia. Fungujú ako **Techno-Upíri** — lovia heretikov a Chiméry s „Darom Matky“, z ktorých vysávajú nanoboty, aby potlačili vlastné zlyhávanie (Glitch).
+Štyria nesmrteľní vládcovia, **pôvodní ex inferis zo Zeme**.
+- **Prvotný Hriech (Pôvod)**: Prežili 700-ročnú cestu blúdenia prázdnotou len vďaka chladnému rozhodnutiu systematicky **konzumovať spiacich kolonistov** na ARK-13. Ich existencia je vybudovaná na masovom hrobe ich vlastných ľudí – zber biomasy a nanotechnologických prekurzorov bol jedinou cestou vpred.
+- **Súčasnosť (The Harvest)**: Sú to paraziti na pokraji vyhynutia. Ich 2700 rokov stará technológia zlyháva (Glitch) a jediným spôsobom, ako ju udržať v chode, sú „záplaty“ z aktívnych nanobotov („Dar Matky“), ktoré vysávajú z Chimér. Tento proces („Zber“) zanecháva z obetí len „vysušené schránky“.
+- **Rola v príbehu**: Nie sú to len mocní tyrani, sú to tragické, monštruózne biologické relikvie bojujúce o každú sekundu existencie.
 
 #### Samaell (Archanjel Tieňov / Vyhnanec)
 | **Vek** | **250+ biologických rokov** (nar. ~2050 na Zemi) |
