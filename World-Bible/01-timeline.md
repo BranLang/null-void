@@ -53,21 +53,23 @@ timeline
 - Maximilián sa narodí v strednej Európe
 - Syn mechanika
 
-### EY ~2060 – Projekt Achilles
-- AI zautomatizovala všetku prácu
-- Vzniká VR MMORPG **Achilles** (antické Grécko)
-- Časová dilatácia: 1h reality = mesiace/roky v hre
 - Generácia detí (Max, Inetis) prežíva stovky virtuálnych rokov
+
 
 ### EY ~2060–2080 – maXpowa & i_net_is
 - Max (nick: **maXpowa**) a Inetis (nick: **i_net_is**) sa spoznajú v hre
 - Jej otec (budúci Koordinátor) je vdovec, hrá s dcérou
 - Zamilujú sa v kóde
 
-### EY ~2080 – Útek z hry Achilles
-- Strach ich vyháňa späť do reality
-- Vracajú sa organizovaní, s technológiami z VR
-- Hráči prebúdzajú **Glitch Entities**. Návrat k realite.
+### EY 2060 – „The Glitch Event“
+- **Katastrofa**: Systémové zlyhanie simulácie Achilles. 
+- **Time Dilation Trauma**: 2 hodiny v realite = 15 rokov subjektívneho väzenia pre 100 000 hráčov.
+- **Glitch Entities**: Prvé pozorovanie dátových „Prízrakov“, ktoré sa kŕmili mozgami hráčov (predobraz budúcich **Wraiths**).
+- **Zrodenie Ex Inferis**: Prvá generácia preživších s poškodeným vedomím, ktorí potrebujú kybernetické telá na ukotvenie v realite.
+
+### EY 2065 – Útek z Pekla
+- Strach a trauma vyháňajú preživších (Max, Inetis) späť do reality.
+- **Technologický kontraband**: Prinášajú so sebou vzorce nanotechnológií (mágie), ktoré sa vyvinuli počas rokov v simulácii.
 
 ### EY 2100 – Revolúcia Hráčov
 -  Pomalá, premyslená, nenásilná revolúcia
@@ -79,6 +81,12 @@ timeline
 ---
 
 ## Éra Zeme – Vrchol a pád (EY 2100 – 2300)
+
+### EY 2150 – Marťanská vojna a „Iniciatíva Achilles“
+- **Vojna s Marsom**: Brutálny konflikt so separatistami. Maximilián sa vyznamená ako **Major**.
+- **Iniciatíva Achilles (Propaganda)**: Vláda Zeme spúšťa projekt kolonizácie planéty pomenovanej po VR hre **„Celestial Frontier: Achilles“**.
+- **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako budovanie armády pre protiútok na oslobodenie Zeme od mimozemskej hrozby. V skutočnosti je to lístok na útek pre elitu.
+
 
 ### EY 2100–2280 – Zlatý vek Zeme
 - Zem pod vládou Koordinátora (otec Inetis)
@@ -208,10 +216,16 @@ timeline
 
 ## Časová os hlavného deja
 
-- **AY 3000**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+*AY 3000**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+    - Pirát Kael aktivuje senzory v zabudnutej jaskyni (Hrobka technológie) svojou krvou.
+    - AI obchádza protokol „Tichá Noc“ a spúšťa núdzové prebudenie **EX-INF-003**.
+    - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
+    - **Samaell** zachytáva signál „brata v zbrani“ a upadá do zmesi šialenstva.
+    - Max je nájdený pirátmi **Borr a Vix**, ktorí ho berú na palubu **Silent Hunter**.
 - **Rok Tieňov (AY 3000 – 3001)**: 
-    - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt, mysliac si, že je človek.
-    - **Unit 734 („Sedmička“)**: Synth-mechanik slúži ako prekladateľ. Vedome (logicky) nespomína Tamin vzhľad.
+    - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
+    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je len legendou a „Iniciatíva Achilles“ bola jedna veľká lož. Archanjeli nič nevybudovali; utiekli a zostali v ruinách.
+    - **Unit 734 („Sedmička“)**: Synth-mechanik slúži ako prekladateľ.
 - **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a Chimérej spoločnosti. Bod zlomu pre jeho ideológiu.
 - **AY 3001 – AY 3013**: **8-ročná cesta**: Premena z „trosky“ na legendárneho Exorcistu. Postupná adaptácia na svet a budovanie nového vzťahu s Tami založeného na realite, nie na slepom odhade.
     - Max a Tami sa z bezpečnostných dôvodov rozdelia.

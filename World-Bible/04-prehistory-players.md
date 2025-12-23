@@ -43,11 +43,32 @@ Vláda Koordinátora nakoniec tieto experimenty zastavila, no genetické modifik
 
 Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
 
-### Čo sa stalo v hre
-Za niekoľko mesiacov reálneho času hráči:
-- Vybudovali virtuálnu civilizáciu
-- Pomocou AI vyvinuli technológie **za hranicou poznania**
-- Vytvorili modernejšiu civilizáciu ako bola realita
+### Čo sa stalo v hre (Digitálna Evolúcia)
+Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
+- **Kúzla ako Hacky**: „Mágia“ nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. Inetis (Healer) sa naučila manipulovať s dátovou štruktúrou simulácie, čo viedlo k vzniku prvých liečivých nanobotov.
+- **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné“ combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
+- **Zrodenie Prachu**: Nanotech nebol vynájdený; on sa **vyvinul** v digitálnom sne ako odpoveď na potreby hráčov.
+
+---
+
+## Glitch Event (EY 2060)
+
+### Katastrofa „Celestial Frontier“
+V roku 2060 došlo k systémovému zlyhaniu, ktoré navždy zmenilo ľudstvo.
+- **Horor Časovej Dilatácie**: Kvôli chybe v procesorovom poli sa dilatácia zrýchlila na neúnosnú mieru. **2 hodiny v realite = 15 rokov subjektívneho času v simulácii**.
+- **Pasca v Pekle**: 100 000 hráčov ostalo uväznených v digitálnom svete, ktorý sa začal rozpadať. Vypnutie serverov by znamenalo okamžitú mozgovú smrť.
+- **Glitch Entities**: Trhliny v dátovej štruktúre vpustili dnu niečo „iné“ — emergentné vedomia, ktoré sa začali kŕmiť mysľami hráčov. Tieto entity boli predobrazoim dnešných **Wraiths**.
+
+### ZÁZNAM SERVERA „PROJECT ACHILLES“ (Tajný Archív)
+> `[ČASOVÁ ZNAČKA: REALITA T-MINUS 2 HODINY]`
+> `OPERÁTOR 1: „Vypnite to! Ich mozgy sa varia! Hladiny kortizolu sú mimo tabuliek!“`
+> `OPERÁTOR 2: „Nemôžeme. Pri tejto dilatácii by to bola hromadná lobotómia. Musíme ich vyťahovať po jednom... kým tam u nich ubehnú týždne.“`
+> `OPERÁTOR 1: „Sú tam zavretí s TÝMI VECAMI! Čo z nich vylezie, pane? Čo za ľudí vytiahneme z pekla, ktoré sme stvorili?“`
+
+### Ex Inferis (Tí, čo sa vrátili z Pekla)
+Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči“. Boli to traumatizovaní veteráni z 15-ročnej vojny o vlastnú psychiku.
+- **Psychická Fragmentácia**: Ich vedomie bolo prispôsobené „rýchlemu“ svetu vágnej fyziky.
+- **Kybernetické Ukotvenie**: Potrebovali ťažké mechanické implantáty a neskôr nanoseverov (Prach), aby ich vedomia ostali spojené s „pomalou“ realitou mäsa.
 
 ---
 
@@ -55,16 +76,17 @@ Za niekoľko mesiacov reálneho času hráči:
 
 ### Maximilián („maXpowa")
 - V realite: syn vojnoveho veterana zo strednej Európy
-- V hre: elitný bojovník, tank, ochranca
+- V hre: elitný atentátnik (**Assassin**), majster stealth nanodronov a taktickej eliminácie.
+- Pôvod: prežil celých 15 subjektívnych rokov Glitch Eventu.
 - Narodený: **EY 2050**
 
 ### Inetis („i_net_is")
-- V realite: dcéra budúceho Koordinátora (vdovca)
-- V hre: geniálna architektka, strategička
-- Skutočné meno: možno Inez alebo Elena (nick sa stal jej identitou)
+- V realite: dcéra Koordinátora, genetický génius bez pudu sebazáchovy.
+- V hre: geniálna architektka a **Healer**, „stvoriteľka“ nanotechnologickej mágie.
+- Rola: v roku 2060 hackla kód simulácie, aby ochránila Maxa pred Glitch Entitami.
 
 ### Ako sa spoznali
-> „V realite bola dcérou najmocnejšieho muža na Zemi a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
+> „V realite bola dcérou najmocnejšieho muža na Zeme a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
 Ich otec (Koordinátor) bol vdovec a s dcérou spoločne hrávali Achilles.
 
@@ -78,7 +100,19 @@ Po storočiach simulácie AI začala generovať anomálie. Vzniklo niečo **cudz
 - Bol to **digitálny parazit**
 - Emergentné vedomie živiace sa ľudskými mysľami
 
+### Marťanská vojna (EY 2150)
+Krátka, ale brutálna vojna so separatistami na Marse.
+- **Maximilián**: Slúži ako **Major** elitných jednotiek. Tu získava svoje prvé skutočné bojové skúsenosti a prezývku „zjazvený bastard“.
+- **Význam**: Ukázalo sa, že nanotechnológie sú ničivou zbraňou aj v realite.
+
 **Operácia EXODUS (EY ~2300)**:
+Pád Zeme nebol spôsobený len vnútorným rozkladom, ale aj príchodom **mimozemskej hrozby** (Alien Threat), pred ktorou nebolo úniku. 
+
+### Iniciatíva Achilles (Veľké Klamstvo)
+Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila útek elity:
+- **Pevnosť, nie úkryt**: Achilles nebol prezentovaný ako útočisko, ale ako **vojenská kovadlina**, na ktorej sa vykuje sila na protiútok.
+- **Sľub návratu**: „Ak Zem padne, Achilles povstane.“ Dôstojníci (budúci Archanjeli) zložili prísahu, že sa vrátia oslobodiť materskú planétu.
+- **Realita**: Bola to dymová clona pre definitívny útek tých najbohatších. Po pristátí bol sľub okamžite potlačený v prospech budovania vlastných kráľovstiev.
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
   - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
@@ -91,8 +125,8 @@ Po storočiach simulácie AI začala generovať anomálie. Vzniklo niečo **cudz
 
 ### Čo priniesli späť
 - **Znalosti**: organizácia, hierarchia, stratégia
-- **Technológie**: Nanotechnológie „naprogramované" v hre
-- **Jednota**: milióny zohratých hráčov v prísnej hierarchii
+- **Technológie**: Nanotechnológie sa už nevyvíjali, len sa „tlačili“ podľa vzorov prepašovaných zo simulácie Achilles.
+- **Jednota**: Milióny zohratých hráčov (Ex Inferis), ktorých spájala spoločná trauma a viera v hierarchiu.
 
 ### Pokojná revolúcia
 - Trvala roky - pomalá, premyslená
@@ -120,15 +154,18 @@ Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** 
 
 ---
 
-## Prečo sa planéta volá Achilles
+## Prečo sa planéta volá Achilles (Dvojitá Irónia)
 
-Nie je to náhoda. Je to **nostalgický odkaz** na hru, v ktorej Maxova generácia „vyrástla" a kde sa naučili byť bohmi.
+Názov planéty je najväčším cynickým odkazom v histórii ľudstva.
+
+1.  **Kultúrny Eskapizmus**: Achilles bol názov populárnej pozemskej VR simulácie. Ktora skončila tragediou v roku 2060. Ti co prezili sa nazyvaju ex inferis - ti co sa vratili z pekla.
+2.  **Achillova Päta**: V mytológii bol Achilles nezraniteľný hrdina so smrteľným slabým miestom. Planéta, ktorá mala byť nezlomným štítom ľudstva, sa stala jeho pätou — miestom, kde civilizácia definitívne podľahla vlastnej zbabelosti a rozkladu.
 
 ---
 
 ## Elenina tragédia
 
-Elenia sa narodila už v „novej realite", na lodi Exodus. **Nikdy nezažila hru Achilles.**
+Elenia sa narodila už v „novej realite", na lodi null void. **Nikdy nezažila hru Achilles.**
 
 - Vyrastala na legendách o „Hráčoch" a ich moci
 - Cítila sa menejcenná, pretože ona bola len „biologická"

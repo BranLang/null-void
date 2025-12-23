@@ -12,10 +12,10 @@ Mikroskopické stroje prítomné:
 - V atmosfére planéty Achilles
 - V krvi niektorých ľudí (dedičné)
 
-### Pôvodný účel
-- Medicína (liečenie, regenerácia)
-- Konštrukcia (stavebné nanoboty)
-- Teraformácia
+### Pôvodný účel (Digitálna Evolúcia)
+Nanodrony neboli vynájdené v laboratóriu. **Evolučne vznikli v simulácii Achilles** ako ilegálne hacky fyzikálneho enginu (Inetis), ktoré hráči následne prepašovali do reality.
+- **Medicína**: Pôvodne „liečivá mágia“ v hre.
+- **Konštrukcia**: Digitálne nástroje na stavbu „nemožných miest“.
 
 ### Súčasné vnímanie
 Pre obyvateľov Achilla je to **neviditeľná „mana"**. Nevedia, že ide o technológiu.
@@ -24,7 +24,7 @@ Pre obyvateľov Achilla je to **neviditeľná „mana"**. Nevedia, že ide o tec
 
 ## „Mágia" (The Cast)
 
-Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony.
+Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomocou **subjektívnych podmienených reflexov** vypestovaných v simulácii Achilles. „Mágia“ je v skutočnosti využívanie ilegálnych hackov reality, ktoré prežili v kóde nanodronov.
 
 ### Typy „kúziel"
 
@@ -48,8 +48,8 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony.
 |---|---------|----------------|
 | **Generácia** | Novšia | Staršia, robustnejšia |
 | **Sila** | Slabšie | Silnejšie |
-| **Schopnosti** | Liečenie, základné efekty | Hackovanie strojov, super sila |
-| **Kontrola** | Komplexnejšia pre skúsených | Priamočiarejšia, „hrubá sila" |
+| **Schopnosti** | Liečenie, základné efekty | Hackovanie strojov, deštrukcia |
+| **Pôvod** | Civilný vývoj na Zemi | Elitné jednotky (Marťanská vojna) |
 
 ### Paradox skúseností
 Archanjeli a Nesmrteľní majú civilné drony, ale **tisícročia praxe**:
@@ -128,6 +128,7 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 | | |
 |---|---|
 | **Pasažieri** | Elita zo Zeme, Hráči Achilles |
+| **Dôvod** | Útek pred mimozemskou hrozbou |
 | **Cesta** | 300 rokov (podsveteľná) |
 | **Osud** | Pristátie = AY 0 |
 
@@ -140,8 +141,14 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 
 ### Vedľajšie účinky stázy (Kryo-Slepota)
 Dlhodobý pobyt v kryostáze (2000+ rokov) poškodzuje optické nervy a rohovku.
-- **Symptómy**: Totálna slepota alebo vnímanie len rozmazaného svetla.
-- **Oprava**: Vojenský nanodust (*Ex Inferis biológia*) opravuje oči automaticky, no trvá to **6-12 mesiacov**. Tento stav robí z prebudeného „Boha“ bezbrannú bytosť.
+- **Symptómy**: Fyzická deštrukcia očí mrazom (explózia očných buliev) v prípade havárie systému (Maximiliánov prípad).
+- **Stav**: Subjekt je nahý, pokrytý modrastou kryo-tekutinou, v hlbokom podchladení a šoku.
+
+## Hrobka technológie (Vault)
+Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
+- **Konštrukcia**: Steny z **biokovu**, porastené svetielkujúcimi symbiontmi (huby a lišajníky), ktoré žijú zo zostatkového tepla strojov.
+- **Senzory**: Aktivované biologickou signatúrou (napr. krvou).
+- **Protokol „Tichá Noc“**: Bezpečnostný režim, ktorý má zabrániť náhodnému prebudeniu subjektov. Bol obídený po detekcii „Vysokej hrozby“ (Kaelova prítomnosť a Samaellov tlak).
 
 ### ARK-13 "Prometheus" (Second Coming)
 | | |
@@ -149,7 +156,7 @@ Dlhodobý pobyt v kryostáze (2000+ rokov) poškodzuje optické nervy a rohovku.
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
 | **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
-| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Chiméry, pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Chiméry (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
 
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |

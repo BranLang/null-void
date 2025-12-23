@@ -9,21 +9,22 @@
 | | |
 |---|---|
 | **Status** | Živý → Duch v Stroji (po Knihe 5) |
-#### Maximilián (The Sleeper / maXpowa)
+#### Maximilián (Subjekt EX-INF-003)
 | | |
 |---|---|
 | **Status** | Živý (s amnéziou a **kryo-slepotou** po prebudení) |
+| **Pôvod** | Zem (nar. 2050), **Major** elitných jednotiek, veterán z Marťanskej vojny |
 
 #### Fáza „Zlomený Boh“ (Rok 0-1)
 Max sa prebúdza ako „troska“. 
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
-- **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z toho, že Tami je Chiméra (uši, chvost) a že svet ovládli „monštrá“, spôsobí jeho psychický kolaps a pocit zrady.
+- **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z odhalenia pravdy o Chimérach a o tom, že **„Iniciatíva Achilles“ bola jedna veľká lož**. Zistenie, že Archanjeli svet nechránili, ale vyprázdnili, a že jeho obeta na Zemi bola zbytočná, spôsobí jeho psychický kolaps a transformáciu na cynického Exorcistu.
 - **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Syntha.
 
 #### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
-- **Dronár Zabijak**: Talentovaný veliteľ a exekútor, veterán z vojny s Marsom (2150).
-- **maXpowa**: Jeho herná prezývka, ktorú používal v Projekte Achilles.
+- **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
+- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Aegis Spike, aby ostal psychicky ukotvený v realite.
 - **Vybavenie**: **Aegis Spike** (palica/regulátor), **Black Nano Suit**.
 
 #### Backstory
@@ -31,7 +32,8 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - **V realite**: Max bol synom **vojnového veterána** zo strednej Európy. Od otca sa naučil disciplínu a základy boja, no v ére Hráčov uprednostnil virtuálny svet pred drsnou realitou.
 - **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny veterán z vojny (2150).
 - **Pád Zeme**: Posledné hodiny strávil prebíjaním sa cez horiacu civilizáciu, aby zachránil Inetis na príkaz umierajúceho Koordinátora.
-- **Hibernácia**: Po príchode na Achilles (AY 0) bol uložený do kryospánku na 3000 rokov. Prebudil sa bez pamäti na svoje činy zabijaka.
+- **Prebudenie (AY 3000)**: Prebudený v „Hrobke technológie“ po 2700 rokoch. Zlyhanie kryostázy mu spôsobilo explóziu očí mrazom. Nájdený pirátmi a predaný ako „čistokrvný tovar“.
+- **Stav**: Nahý, pokrytý modrou kryo-tekutinou, slepý a v šoku.
 #### Herná minulosť
 > „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá."
 
@@ -92,12 +94,12 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Rola** | Zakladateľka, tragická bohyňa, architektka |
 
 #### Zhrnutie
-Dcéra Koordinátora (vdovca), vedkyňa a pacifistka. V hre Achilles bola najlepšia architektka na serveri. Zamilovala sa do maXpowu (Maxa). Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
+Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou“ mágie, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
 
 #### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
-Jej otec bol vdovec a spoločne hrávali Achilles.
+Jej otec bol vdovec a spoločne hrávali Achilles. Bol to on, kto ich v roku 2060 nechal uväznených v simulácii, aby zachránil ich integritu, čím im spôsobil celoživotnú traumu.
 
 #### História
 1. Vyrastala v hre Achilles s otcom
@@ -179,7 +181,8 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 ### Archanjeli (Executors)
 
 Štyria nesmrteľní vládcovia, **pôvodní ex inferis zo Zeme**.
-- **Prvotný Hriech (Pôvod)**: Prežili 700-ročnú cestu blúdenia prázdnotou len vďaka chladnému rozhodnutiu systematicky **konzumovať spiacich kolonistov** na ARK-13. Ich existencia je vybudovaná na masovom hrobe ich vlastných ľudí – zber biomasy a nanotechnologických prekurzorov bol jedinou cestou vpred.
+- **Zrada Prísahy**: Pôvodne boli vyslaní ako predvoj „Iniciatívy Achilles“, aby vybudovali pevnosť pre protiútok na oslobodenie Zeme. Namiesto toho porušili vojenskú prísahu, podľahli strachu a decadencii.
+- **Prvotný Hriech (Pôvod)**: Prežili 700-ročnú cestu blúdenia prázdnotou len vďaka chladnému rozhodnutiu systematicky **konzumovať spiacich kolonistov** na ARK-13.
 - **Súčasnosť (The Harvest)**: Sú to paraziti na pokraji vyhynutia. Ich 2700 rokov stará technológia zlyháva (Glitch) a jediným spôsobom, ako ju udržať v chode, sú „záplaty“ z aktívnych nanobotov („Dar Matky“), ktoré vysávajú z Chimér. Tento proces („Zber“) zanecháva z obetí len „vysušené schránky“.
 - **Rola v príbehu**: Nie sú to len mocní tyrani, sú to tragické, monštruózne biologické relikvie bojujúce o každú sekundu existencie.
 
@@ -188,12 +191,13 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 | **Identita** | **OG *ex inferis*** (Veterán VR pekla Achilles) |
 | **Pôvod** | Zem → Alpha Centauri → Achilles (ARK-13) |
 | **Doména** | Ruiny laboratórií, Severná Pustatina |
-| **Status** | Živý (Techno-Upír / Glitching) |
-| **Rola** | Šialený antagonista 1. knihy |
+| **Rola** | Šialený antagonista 1. knihy / Techno-Predátor |
 
 #### Charakteristika
-Samaell bol jedným z elitnej skupiny, ktorá prežila 50 rokov v Simulácii. Na Zemi bol Maxovým spolubojovníkom/rivalom v radoch ex inferis.
-- **Rivalita**: Samaell si pamätá Maxa ako nemilosrdného zabijaka a Koordinátorovho nástupcu. Pohŕda Maxovou súčasnou slepotou a amnéziou.
+Samaell loví Chiméry pomocou **ihlových injektorov** na prstoch, ktorými vysáva nanoboty priamo z ich tiel (Zber), zatiaľ čo sú živí a plní adrenalínu.
+- **Predátorský inštinkt**: Archanjeli pre neho nie sú spasitelia, ale predátori. Loví Kaela a necháva ho trpieť, aby „nasýtil“ svoje systémy.
+- **Kontakt s Maxom**: Zachytáva signál **EX-INF-003** (Maximilián). Šok z toho, že „starý pozemský pes“ prežil pád Zeme, ktorú Archanjeli opustili kvôli mimozemskej hrozbe. V Samaellovi sa prebúdza stará rivalita a túžba po odpovediach: Ako mohol Major prežiť tam, kde ostatní zhoreli?
+- **Rivalita**: Pamätá si ho ako zjazveného bastarda z červených planín Marsu.
 - **Glitche**: Na rozdiel od Maxa, Samaellove nanodrony sú v stave entropie. Jeho kód sa rozpadá, čo spôsobuje halucinácie („Hlasy AI“) a fyzickú bolesť.
 - **Slepý Lov**: Samaell cíti Maxovu **"Hmlu"** (nanotechnologickú auru). Je ním fascinovaný – po 3000 rokoch našiel niekoho seberovného.
 - **Motivácia**: Verí, že ak pohltí Maximiliánovu krv (čistý, neglitchujúci vojenský Prach), opraví tým svoj rozpadajúci sa kód, dosiahne nesmrteľnosť a definitívne porazí Eleniu.
@@ -247,3 +251,16 @@ Zbláznená AI z čias kolonizácie. Ovláda mraky nanodronov a armádu Duchov (
 | **Rola** | Vládca Zeme, otec Inetis |
 
 Architekt pozemskej „utópie". Poslal dcéru a Maxa na únik pri apokalypse.
+
+---
+
+## Vedľajšie postavy (Chapter 1)
+
+### Borr a Vix
+Dvojica pirátov z gangu Kaela.
+- **Povaha**: Pragmatickí obchodníci s mäsom. Časom sa objavujú ako Maxove opakujúce sa prekážky alebo pochybní spojenci.
+- **Rola**: Nájdu polomŕtveho Maxa v snehu a namiesto pomoci ho hodia do podpalubia k 7-ročnej Tami, aby ho predali v baňiach na juhu za zlato.
+
+### Kael (Zosnulý)
+Bývalý vodca pirátov a majiteľ vzducholode "Silent Hunter".
+- **Osud**: „Vysatý“ Samaellom. Zomiera ako jedna z mnohých „vysušených schránok“ v Archanjelovej honbe za stabilitou.

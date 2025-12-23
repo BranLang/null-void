@@ -86,6 +86,12 @@ Najhlbší psychologický konflikt sveta.
 - **Pravda v tme**: Maxov príklad ukazuje, že rešpekt sa dá vybudovať aj medzi úhlavnými nepriateľmi, ak je potlačený vizuálny vnem.
 - **Dôsledok Zjavenia**: Keď sa predsudok stretne s pozitívnou osobnou skúsenosťou (napr. Max zistí, že jeho záchranca je Chiméra), dochádza k rozbitiu identity. Buď jedinec prijme novú realitu, alebo sa stiahne do ešte agresívnejšej nenávisti, aby ochránil svoje staré vnímanie sveta.
 
+### 5. Achilles: Mýtus o Pevnosti vs. Realita Hrdze
+Názov planéty odráža najväčšiu iróniu sveta.
+- **Ľudský Mýtus**: Pre tých, čo prišli zo Zeme, mal byť Achilles „Nezlomným štítom“ a základňou pre návrat domov.
+- **Chiméria Realita**: Pre domorodcov je to len meno z rozprávok. Planétu vnímajú ako „hrobku hrdze a kostí“. Pre nich Achilles neznamená hrdinu, ale miesto, kde nádej prišla zomrieť.
+- **Achillova Päta**: Svet sa stal zosobnením ľudskej slabosti — zbabelosti elity, ktorá namiesto budovania armády pre návrat na Zem podľahla vlastnému božstvu a dekadencii.
+
 ---
 
 ## Ekonomika a Život
