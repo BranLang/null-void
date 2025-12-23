@@ -1,4 +1,4 @@
-# Kniha 2: PLAMENE IMPÉRIA (Oheň)
+# Kniha 2: OHEŇ-energia – Plamene ImpériaMPÉRIA (Oheň)
 **Status:** Plotting
 **Hlavná téma:** Pôvod / Očista ohňom / Zvrat v pamäti
 
