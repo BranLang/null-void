@@ -120,15 +120,16 @@ timeline
 ## Pred AY 0: Éra Priekopníkov
 
 ### EY 2300 + 3 roky — Príchod FTL Prototypu
-- Max a Inetis pristávajú na **neteraformovanej** planéte Achilles
-- Inetis zistí, že je **tehotná**
-- Rozhodnutie: Max uložený do kryospánku
-- Inetis ostáva bdelá
-- 
-### Nasledujúcich ~250 rokov
-- Inetis a dcéra **Elenia** budujú:
-- Jaskyňu s hydroponickou záhradou
-- Inetis sa bojí prebudiť Maxa (obavy z jeho ambícií vládnuť ako jej otec)
+- Max a Inetis pristávajú na **neteraformovanej** planéte Achilles.
+- **Kritický nedostatok zásob:** Ak by zostali bdelí obaja, zdroje by nestačili a nikto by neprežil.
+- **Šok z tehotenstva:** Inetis zistí, že čaká dcéru Eleniu. Kryospánok by dieťa zabil.
+- **Klamstvo pre záchranu:** Inetis oklamala Maxa (ktorý si myslel, že idú spať spolu). Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele, no experiment zlyhal.
+- **Maxovo uväznenie:** Uložený do kryospánku kvôli zásobám, ale aj zo strachu z jeho vojenských ambícií (poraziť mimozemšťanov) a reakcie na jej činy.
+
+### Nasledujúcich ~300 rokov
+- **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenaučila replikovať biomasu a vybudovať hydroponiku.
+- **300-ročné detstvo:** Elenia vyrastá v izolácii jaskyne. Kvôli neúspešnej genetickej modifikácii rastie extrémne pomaly.
+- **Pentagram UI:** Inetis učí Eleniu ovládať nanity cez elementárne rozhranie (hmota, energia, čas, priestor, vedomie).
 
 ---
 
@@ -244,11 +245,11 @@ timeline
 ---
 
 ## Príbeh kníh
-1. **ZEM** — Max hľadá Inetis, nájde jej telo. Boss: Samaell
-2. **OHEŇ** — Flashbacky na Zem, Tami sa mení. Boss: Kratos
-3. **VODA** — História Ynetis, odhalenie identity Elenie. Boss: Ishtar
-4. **VZDUCH** — Vojna s Eleniou, Doomsday Protocol
-5. **KVINTESENCIA** — Finále, Maxova obeta
+1. **ZEM | hmota** — Max hľadá Inetis, nájde jej telo. Boss: Samaell
+2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Kratos
+3. **VODA | čas** — POV Inetis, História Ynetis, odhalenie identity Elenie. Boss: Ishtar (Zaya)
+4. **VZDUCH | priestor** — Vojna s Eleniou, Doomsday Protocol
+5. **KVINTESENCIA | vedomie** — Veľký upload, návrat do VR Achilles, finálne splynutie so subspace.
 
 ---
 

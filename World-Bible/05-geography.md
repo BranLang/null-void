@@ -54,7 +54,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
 - **Vzhľad:** Priemyselná zima, ťažobné veže, "hrdzavé peklo".
 - **Ruiny:** Pozostatky "hernej architektúry" - **grécke stĺpy z 3D tlace** vedľa bunkrov. Pôsobia surrealisticky v snehu.
 
-### 3. Južné Kráľovstvo (Doména Ishtar)
+### 3. Južné Kráľovstvo (Doména Zayi)
 - **Lokácia:** Bližšie k rovníku.
 - **Vzhľad:** Mesto Zrkadiel.
 - **Doprava:** Majú funkčné **koľajnice a vlaky** (jediné na planéte).
@@ -76,7 +76,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 ## Register významných miest (Lore)
 
 - **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
-- **Ostrov (Atlantída)**: Centrum Zlatého veku; dnes ruiny pohltené „Duchmi“.
+- **Ostrov Ynetis (Centrálny uzol)**: Centrum Zlatého veku; dnes ruiny pohltené „Duchmi“.
 - **Jaskyňa Inetis**: Miesto jej posledného odpočinku a nálezu denníkov.
 - **Ruiny laboratórií**: Doména Samaella; miesto experimentov s nanotechom.
 - **Core (Jadro AI)**: Technické srdce planéty, kde je väznená AI THE VOID.

@@ -65,7 +65,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.exodus.silent_goodbye`
 - Názov: Tiché zbohom (bod zlomu)
 - Čas: bezprostredne pred AY 0
-- Zhrnutie: Inetis zistí tehotenstvo. Kryospánok by zabil plod, preto nechá Maxa spať v nevedomosti a ostáva bdelá.
+- Zhrnutie: Inetis zistí tehotenstvo. Kryospánok by zabil plod, preto oklamala Maxa a nechala ho spať v nevedomosti. Pokúsila sa o genetickú modifikáciu plodu pre kryostázu, no experiment zlyhal.
 - Účastníci: `char.inetis`, `char.maximilian`, `char.elenia`
 - Lokácie: `place.ship_ark_exodus`
 - Tagy: `rodina`, `tragédia`, `spúšťač`
@@ -85,36 +85,36 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.max_cryo`
 - Názov: Uloženie Maxa do kryospánku
 - Čas: AY 0
-- Zhrnutie: Max je uložený do krya (obava z jeho vojenskej povahy a budúcej diktatúry). Plánovaný spánok ~300 rokov sa natiahne na ~3000.
+- Zhrnutie: Max je uložený do krya kvôli kritickému nedostatku zásob (nikto by inak neprežil). Inetis to využila aj zo strachu pred jeho vojenskými ambíciami poraziť mimozemšťanov. Plánovaný spánok ~300 rokov sa natiahne na ~3000.
 - Účastníci: `char.inetis`, `char.maximilian`
-- Lokácie: `place.ship_ark_exodus`
+- Lokácie: `place.ship_ark_exodus`, `place.cave_null_void`
 - Tagy: `kryo`, `tajomstvo`, `rodina`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
-### `evt.achilles.atlantis_founded`
-- Názov: Založenie Atlantídy
+### `evt.achilles.ynetis_founded`
+- Názov: Založenie Ynetis
 - Čas: AY 0–?
-- Zhrnutie: Inetis buduje na ostrove utopické mesto (Atlantída) pomocou nanotechnológií a AI.
+- Zhrnutie: Inetis buduje v Centrálnom uzle utopické mesto (neskôr Ynetis) pomocou nanotechnológií a AI.
 - Účastníci: `char.inetis`
-- Lokácie: `place.atlantis`, `place.island_atlantis`
+- Lokácie: `place.ynetis`, `place.island_ynetis`
 - Tagy: `utópia`, `technológia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.achilles.elenia_birth`
 - Názov: Narodenie Elenie
-- Čas: AY 0–?
-- Zhrnutie: Narodí sa Elenia (dcéra Inetis a Maxa); vyrastá v prvej osade/Atlantíde.
+- Čas: pred AY 0
+- Zhrnutie: Elenia sa narodí v jaskyni Null-Void po neúspešnom genetickom experimente. Kvôli modifikácii rastie extrémne pomaly.
 - Účastníci: `char.elenia`, `char.inetis`, `char.maximilian`
-- Lokácie: `place.atlantis`
+- Lokácie: `place.cave_null_void`
 - Tagy: `rodina`, `dedičstvo`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.achilles.golden_age`
-- Názov: Zlatý vek Atlantídy
+- Názov: Zlatý vek Ynetis
 - Čas: AY 0–300 (pracovne)
-- Zhrnutie: Rozmach nanotechnológií, predlžovanie života, „raj“ na ostrove.
-- Účastníci: `char.inetis`, `fac.atlantis_colonists`
-- Lokácie: `place.atlantis`
+- Zhrnutie: Rozmach nanotechnológií, predlžovanie života, „raj“ v Centrálnom uzle.
+- Účastníci: `char.inetis`, `fac.ynetis_colonists`
+- Lokácie: `place.ynetis`
 - Tagy: `utópia`, `nanotech`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -123,7 +123,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY 0–300 (pracovne)
 - Zhrnutie: Konflikt Matka vs. Dcéra: Inetis chce slobodnú spoločnosť; Elenia smeruje k poriadku a nadvláde.
 - Účastníci: `char.elenia`, `char.inetis`
-- Lokácie: `place.atlantis`
+- Lokácie: `place.ynetis`
 - Tagy: `konflikt`, `rodina`, `politika`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -132,7 +132,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~300+
 - Zhrnutie: Nanodrony začnú zlyhávať a odmietať hostiteľov; dochádza k masovým úmrtiam a dezintegrácii tiel.
 - Účastníci: `fac.atlantis_colonists`, `char.the_void`
-- Lokácie: `place.island_atlantis`
+- Lokácie: `place.island_ynetis`
 - Tagy: `katastrofa`, `nanodrony`, `horor`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -183,10 +183,10 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 
 ### `evt.achilles.inetis_death_cave`
 - Názov: Smrť Inetis v samote
-- Čas: AY ~?
-- Zhrnutie: Inetis sa ukryje v jaskyni/ruine ďaleko od ľudí, „uzamkne“ sa a zomrie; zanechá denníky pre Maxa.
+- Čas: AY ~700
+- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maxovom cryoboxe, s rukou na jeho spiacom väzení. Box Inetis zlyhal (zhrdzavený). Zanecháva denník.
 - Účastníci: `char.inetis`
-- Lokácie: `place.cave_inetis`
+- Lokácie: `place.cave_null_void`
 - Tagy: `tragédia`, `obeta`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 - Poznámky/TODO: v poznámkach sa uvádza, že kostra je ~2300 rokov stará; zosúladiť s `AY` číslami.

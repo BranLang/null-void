@@ -18,6 +18,7 @@
 #### Fáza „Zlomený Boh“ (Rok 0-1)
 Max sa prebúdza ako „troska“. 
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
+- **Maxovo uväznenie:** Uložený do kryospánku primárne kvôli kritickému nedostatku zásob (aby aspoň niekto prežil). Inetis ho však oklamala a uložila do spánku aj zo strachu z jeho vojenských ambíciov poraziť mimozemšťanov za každú cenu a jeho reakcie na zmenený svet.
 - **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z odhalenia pravdy o Chimérach a o tom, že **„Iniciatíva Achilles“ bola jedna veľká lož**. Zistenie, že Archanjeli svet nechránili, ale vyprázdnili, a že jeho obeta na Zemi bola zbytočná, spôsobí jeho psychický kolaps a transformáciu na cynického Exorcistu.
 - **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Syntha.
 
@@ -106,20 +107,20 @@ Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii A
 Jej otec bol vdovec a spoločne hrávali Achilles. Bol to on, kto ich v roku 2060 nechal uväznených v simulácii, aby zachránil ich integritu, čím im spôsobil celoživotnú traumu.
 
 #### História
-1. Vyrastala v hre Achilles s otcom
-2. Spoznala Maxa vo VR
+1. Vyrastala v hre Achilles s otcom (Koordinátorom)
+2. Spoznala Maxa vo VR (@[maXpowa])
 3. Po revolúcii Hráčov sa stala „princeznou" nového režimu
 4. Unikla zo Zeme s Maxom na FTL Prototype
-5. Zistila tehotenstvo, nechala Maxa spať
-6. 250 rokov budovala jaskyňu s dcérou Eleniou
-7. Založila mesto Ynetis
-8. Prežila Glitch, poslala ľudí na pevninu
-9. Vyhnaná z Ynetis AI a Duchmi
-10. Zomrela v samote, aby ochránila ľudstvo
+5. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
+6. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
+7. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
+8. Založila mesto Ynetis
+9. Prežila Glitch, poslala ľudí na pevninu
+10. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
 
 #### Prečo nechala Maxa spať
-- Bála sa, že bude mať ambície vládnuť ako jej otec (Koordinátor)
-- Chcela slobodnú spoločnosť, nie diktatúru
+- **Prežitie:** Nedostatok zásob po pristátí.
+- **Ambície:** Bála sa, že by chcel viesť vojnu proti mimozemšťanom a vládnuť ako jej otec.
 
 ---
 
@@ -220,14 +221,14 @@ Samaell loví Chiméry pomocou **ihlových injektorov** na prstoch, ktorými vys
 
 Armáda primitívnych tankov a exoskeletonov.
 
-#### Ishtar (Archanjel Pôžitku)
+#### Zaya (Archanjel Pôžitku)
 | | |
 |---|---|
-| **Doména** | Juh, bohaté mestá |
-| **Schopnosť** | Ilúzie, mind control |
+| **Doména** | Juh, Mesto zrkadiel |
+| **Schopnosť** | Ilúzie, mind control, Smrtiaca hmla (Gray Goo) |
 | **Boss** | Kniha 3 |
 
-Najnebezpečnejší Archanjel — útočí na myseľ. Udržiava ilúzie aj pre seba (Dorian Gray).
+Najnebezpečnejší Archanjel — útočí na myseľ. Zaya (pôvodne Ishtar) sa pokúsila zmanipulovať Maxa cez ilúziu jeho dcéry. Nakoniec neutralizovaná Maxom a pohltená svojimi otrokmi.
 
 ---
 

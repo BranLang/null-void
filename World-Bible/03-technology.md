@@ -109,13 +109,13 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
    - **Techno-realita**: Napájanie. Nanoboty vyžadujú energiu na pohyb a prácu.
    - **Využitie**: Extrakcia tepla z okolia, kinetické preťaženie, uvoľnenie energie vo forme blesku alebo žiaru.
 
-3. **VIETOR (Priestor / Space)**
-   - **Techno-realita**: Priestorové súradnice a dosah.
-   - **Využitie**: Presné smerovanie mračna dronov, manipulácia s hustotou vzduchu, priestorová orientácia (FPV drony, teleportácia).
-
-4. **VODA (Čas / Time)**
+3. **VODA (Čas / Time)**
    - **Techno-realita**: Časová dilatácia a akcelerácia procesov.
    - **Využitie**: Zrýchlenie prirodzeného liečenia, spomalenie vnímania (reflexy), manipulácia s „vlnením“ reality. Najnebezpečnejší a najnestabilnejší element.
+
+4. **VZDUCH (Priestor / Space)**
+   - **Techno-realita**: Priestorové súradnice a dosah.
+   - **Využitie**: Presné smerovanie mračna dronov, manipulácia s hustotou vzduchu, priestorová orientácia (FPV drony, teleportácia).
 
 5. **KVINTESENCIA (Vedomie / Consciousness)**
    - **Techno-realita**: Príkazový kód a vôľa operátora.

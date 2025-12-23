@@ -44,7 +44,7 @@ graph BT
     subgraph "THE EXECUTORS (Services)"
         AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
         KR[KRATOS<br>Archanjel Vojny<br>Lokácia: Sever]
-        IS[ISHTAR<br>Archanjel Pôžitku<br>Lokácia: Juh]
+        IS[ZAYA<br>Archanjel Pôžitku<br>Lokácia: Juh]
     end
 
     subgraph "THE HOSTS (Hardware)"
@@ -77,7 +77,7 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie.
     - **Kratos:** Vojna, priemysel, hrubá sila.
-    - **Ishtar:** Pôžitok, drogy, propaganda/ilúzie.
+    - **Zaya:** Pôžitok, drogy, propaganda/ilúzie.
     - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper".
 
 ### 2. "Tí Roztrúsení" (Ľudia medzi Chimérami)
@@ -141,7 +141,7 @@ V svete bez digitálnych transakcií (kvôli Wraithom) sa zlato stalo jedinou un
 ### Doprava
 1. **Vzducholode:** Najrýchlejšia doprava. Využívajú hustejšiu atmosféru.
 2. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
-3. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Ishtar).
+3. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Zaya).
 
 ---
 
@@ -171,7 +171,7 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 ## Frakcie (Lore Register)
 
 - **Kult Matky Spasiteľky**: Dominantné náboženstvo; uctieva Inetis ako bohyňu („Matka nás opustila pre naše hriechy“).
-- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell, Kratos, Ishtar, Elenia).
+- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell, Kratos, Zaya, Elenia).
 - **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
 - **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
 - **Pozemský režim**: Totalitná štruktúra Zeme pred pádom.

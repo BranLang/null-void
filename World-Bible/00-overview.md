@@ -36,11 +36,11 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 
 | Kniha | Element | Názov | Téma |
 |-------|---------|-------|------|
-| 1 | 🜃 ZEM | Prach Achilla | Prebudenie, hľadanie pravdy |
-| 2 | 🜂 OHEŇ | Plamene Impéria | Minulosť, pád Zeme |
-| 3 | 🜄 VODA | Slzy Matky | Pamäť, ilúzie, odhalenie |
-| 4 | 🜁 VZDUCH | Búrka Strojov | Vojna, otec vs. dcéra |
-| 5 | ✧ KVINTESENCIA | Null Void | Finále, obeta, nový začiatok |
+| 1 | 🜃 ZEM / hmota | Prach Achilla | Prebudenie, hľadanie pravdy |
+| 2 | 🜂 OHEŇ / energia | Plamene Impéria | Minulosť, pád Zeme |
+| 3 | 🜄 VODA / čas | Slzy Matky | POV Inetis, ilúzie, odhalenie |
+| 4 | 🜁 VZDUCH / priestor | Búrka Strojov | Vojna, otec vs. dcéra |
+| 5 | ✧ KVINTESENCIA / vedomie | Null Void | Finále, Veľký upload, návrat do VR, subspace |
 
 ---
 
