@@ -115,3 +115,26 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 - **RP English (Kráľovská angličtina)**: Štandardný jazyk Synthov. Formálny, neemotívny a chladný. Slúži ako hlavný most pre tých, čo sa vracajú zo stázy.
 - **Neo-Terran**: Zmutovaná angličtina ovplyvnená dialektmi Chimér. Jazyk obchodu a bežných ľudí.
 - **Wildspeak (Bľabot)**: Rôznorodé dialekty a slangy Chimér, často postavené na zvukoch a gestách.
+
+---
+
+## Tradície a Kultúra
+
+### „Modlitby“ Exorcistov (CLI jazyk)
+- Skomolené príkazy z Unix/Linux príkazového riadku, ktoré foneticky fungujú ako hlasové kódy pre reset nanodronov.
+- Príklad: `sudo kill -9` → **„Suudokil“**.
+- Význam: Rituálna ochrana pred nanotechnologickými hrozbami.
+
+### Rituálne obrazce
+- Kreslenie pentagramov alebo obvodov **vodivou pastou**.
+- V skutočnosti ide o uzatváranie obvodov a aktiváciu starých bezpečnostných alebo údržbových postupov.
+
+---
+
+## Frakcie (Lore Register)
+
+- **Kult Matky Spasiteľky**: Dominantné náboženstvo; uctieva Inetis ako bohyňu („Matka nás opustila pre naše hriechy“).
+- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell, Kratos, Ishtar, Elenia).
+- **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
+- **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
+- **Pozemský režim**: Totalitná štruktúra Zeme pred pádom.

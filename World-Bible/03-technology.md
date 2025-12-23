@@ -88,6 +88,37 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 - Väznia THE VOID (Temnú AI)
 - V náboženstve: pentagram ako ochranný symbol
 
+---
+
+## Pentagram: Používateľské Rozhranie (UI)
+
+Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svoju dcéru Elaniu tradičným spôsobom. Vytvorila **Pentagram ako mnemotechnickú pomôcku** — zjednodušené „užívateľské rozhranie“ pre ovládanie reality.
+
+Pod povrchom bežia milióny riadkov kódu (nanoboty), ale užívateľ vidí len 5 elementov, ktoré definujú základné parametre manipulácie.
+
+### Mapovanie elementov
+
+1. **ZEM (Hmota / Matter)**
+   - **Techno-realita**: Zdrojový materiál. Nanoboty potrebujú atómy (uhlík, železo, biomasu).
+   - **Využitie**: Prestavba okolia, liečenie rán (rekonštrukcia buniek), tvorba nástrojov z prachu.
+
+2. **OHEŇ (Energia / Energy)**
+   - **Techno-realita**: Napájanie. Nanoboty vyžadujú energiu na pohyb a prácu.
+   - **Využitie**: Extrakcia tepla z okolia, kinetické preťaženie, uvoľnenie energie vo forme blesku alebo žiaru.
+
+3. **VIETOR (Priestor / Space)**
+   - **Techno-realita**: Priestorové súradnice a dosah.
+   - **Využitie**: Presné smerovanie mračna dronov, manipulácia s hustotou vzduchu, priestorová orientácia (FPV drony, teleportácia).
+
+4. **VODA (Čas / Time)**
+   - **Techno-realita**: Časová dilatácia a akcelerácia procesov.
+   - **Využitie**: Zrýchlenie prirodzeného liečenia, spomalenie vnímania (reflexy), manipulácia s „vlnením“ reality. Najnebezpečnejší a najnestabilnejší element.
+
+5. **KVINTESENCIA (Vedomie / Consciousness)**
+   - **Techno-realita**: Príkazový kód a vôľa operátora.
+   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach. 
+   - **Hniloba (Glitch Rot)**: Vzniká vtedy, keď nanotechnológia stratí prepojenie s Vedomím a začne sa chaoticky, rakovinotvorne replikovať bez riadiaceho kódu.
+
 ### Protocol Null („Null Void")
 - Finálny príkaz zbláznenej AI
 - Cieľ: rozložiť biologickú hmotu na atómy
@@ -210,3 +241,17 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 | Nebo | Cloud Storage |
 | Peklo | `/dev/null` (bitová entropia) |
 | Upíri (Archanjeli) | Memory Leaks |
+
+---
+
+## Register technológií a predmetov (Lore)
+
+### Prototypy a Inovácie
+- **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS“ sa v mýtoch interpretuje ako cesta za slobodou.
+- **Aegis Spike**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Aegis Field).
+- **Power Armor (Kratos)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú“.
+
+### Legendárne Artefakty
+- **Staré relikvie**: Zachované digitálne tabuľky, zbrane a vznášadlá z doby Zlatého veku. Pre Chiméry majú náboženský význam.
+- **Krvné Zlato**: Staroveké zlato z ARK-13, jediná stabilná mena v post-apo svete.
+

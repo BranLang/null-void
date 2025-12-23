@@ -61,6 +61,15 @@ Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie intel
 
 ### Hollows (Dutí)
 - Oživené kostry zvierat alebo ľudí (techno-nekromancia).
+- **Zhrnutie**: Kostry/pozostatky kolonistov poháňané nanodronmi („the dust“).
+
+---
+
+## Dodatočné druhy (Lore)
+
+### Medvede (Gen-Mod)
+- **ID**: `species.genmod_bear`
+- **Zhrnutie**: Jazdecké zvieratá; väčšie a inteligentnejšie než prirodzené medvede. Používajú sa na dopravu v ťažkom teréne.
 
 ---
 

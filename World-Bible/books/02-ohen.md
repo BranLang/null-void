@@ -35,10 +35,13 @@
 ---
 
 ## III. Hlavný Antagonista: KRATOS (Archanjel Vojny)
-*   **Stret:** Max a Tami sa prvýkrát stretnú s jednotkami Kratosa. Sú to mechanizované hordy v troskách starých tovární.
+*   **Stret:** Max and Tami sa prvýkrát stretnú s jednotkami Kratosa. Sú to mechanizované hordy v troskách starých tovární.
 *   **Paralela:** Max v Kratosovi vidí krutosť, ktorou sa sám kedysi vyznačoval. Kratos ho spoznáva a nazýva ho "Zradcom krvi".
 
 ---
 
 ## Kľúčové odhalenie (Midpoint)
-Max si spomenie na vojnu s Marsom a na to, že on sám bol strojcom mnohých zverstiev. Uvedomí si, že on nie je "hrdina", ktorý prišiel svet zachrániť, ale relikt, ktorý ho pomohol zničiť.
+Max si uvedomí, že on nie je "hrdina", ktorý prišiel svet zachrániť, ale relikt, ktorý ho pomohol zničiť.
+
+## Vizuál (Návrh obalu)
+*   **Obrázok**: ![Book 2 Concept](../assets/books/book-2.png)

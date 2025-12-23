@@ -60,6 +60,8 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Rola** | Otrokyňa / Nosička dedičstva / Kapitánka |
 | **Status** | Živá |
 
+![Tami](../assets/tami.png)
+
 ### Charakteristika
 - Na začiatku: Vystrašené dieťa v klietke pirátov, určené na predaj.
 - Neskôr: Drsná kapitánka vzducholode (po časovom skoku).
@@ -92,6 +94,8 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Herný nick** | **i_net_is** |
 | **Skutočné meno** | Možno Inez alebo Elena (nick sa stal identitou) |
 | **Rola** | Zakladateľka, tragická bohyňa, architektka |
+
+![Inetis](../assets/Inetis.png)
 
 #### Zhrnutie
 Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou“ mágie, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
@@ -152,6 +156,8 @@ Drsní žoldnieri a veteráni špecializovaní na boj v zamorených zónach.
 | **Vek** | ~2750 (chronologicky), vyzerá ~30 |
 | **Rola** | Hlavný antagonista, dcéra Maxa a Inetis |
 | **Titul** | Gatekeeper |
+
+![Elenia](../assets/Elenia.png)
 
 #### Zhrnutie
 Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu. Po tisícročiach dospela k záveru, že biológia je kliatba.

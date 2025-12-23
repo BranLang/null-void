@@ -61,6 +61,9 @@
 *   **Maxova slepota:** Postupne ustupuje, ale obraz sveta je pre neho stále cudzí a desivý.
 
 
-## Poznámky pre autora
-*   **Atmosphere:** Horror/Mystery. Kaelov strach z technológie má ukázať, ako veľmi ľudstvo kleslo a ako mystifikuje vedu.
-*   **Lore Reveal:** Kresby naznačujú, že Inetis a malá Elenia tu žili. Elenia si kreslila pentagramy (symbol vedy/človeka) na steny.
+## Vizuál (Návrh obalu)
+*   **Obrázok**: ![Book 1 Concept](../assets/books/book-1.png)
+
+## Referencie
+*   [Pôvodný draft prológu](drafts/prologue-1-draft.md)
+*   [Koncept 1. kapitoly](drafts/chapter-1-concept-draft.md)

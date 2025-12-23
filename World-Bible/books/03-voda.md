@@ -36,3 +36,7 @@ Max si uvedomuje, že Elenia nezačala ako zloduch, ale ako dcéra túžiaca po 
 *   **Dominanta:** Ruiny futuristického mesta Ynetis. Z vody trčia vrcholky antických chrámov.
 *   **Farby:** Hlboká morská modrá, tyrkysová, zelená. Akcentová farba: elektrická kyanová (aura Duchov).
 *   **Názov:** SLZY MATKY (Textúra ako mokrý, oxidovaný kov s kvapkami vody).
+
+## Referencie
+*   ![Book 3 Concept](../assets/books/book-3.png)
+*   [Detailné nápady pre Knihu 3](drafts/book-3-ideas.md)

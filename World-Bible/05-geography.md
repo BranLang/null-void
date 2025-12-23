@@ -70,3 +70,14 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - Nie sú to kamenné kvádre, ale **monolitické štruktúry** vytlačené nanodronmi.
 - Dokonalá geometria, biele povrchy (teraz špinavé a zarastené).
 - Kontrast: Grécky chrám vs. hrdzavá ťažná veža vs. zasnežený les.
+
+---
+
+## Register významných miest (Lore)
+
+- **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
+- **Ostrov (Atlantída)**: Centrum Zlatého veku; dnes ruiny pohltené „Duchmi“.
+- **Jaskyňa Inetis**: Miesto jej posledného odpočinku a nálezu denníkov.
+- **Ruiny laboratórií**: Doména Samaella; miesto experimentov s nanotechom.
+- **Core (Jadro AI)**: Technické srdce planéty, kde je väznená AI THE VOID.
+- **Cyberspace / Cloud**: Virtuálny priestor pre finálny boj.

@@ -49,3 +49,7 @@ Elenia použije Maxovu ruku (kódy Koordinátora) na otvorenie brány Jadra. Dea
 *   **Dominanta:** Obrovská brána Jadra lode Exodus.
 *   **Postavy:** Max v centre, obklopený Starou Gardou. Elenia v pozadí vchádza do brány.
 *   **Element:** Búrkové mraky, prach a technický smog.
+
+## Referencie
+*   ![Book 4 Concept](../assets/books/book-4.png)
+*   [Detailné nápady pre Knihu 4](drafts/book-4-ideas.md)

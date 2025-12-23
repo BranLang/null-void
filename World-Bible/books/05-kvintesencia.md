@@ -112,7 +112,7 @@ Spoločne - **maXpowa a i_net_is naposledy** - prelomia jadro AI.
 ### Koniec Maxa
 Max použije svoje vedomie ako „záplatu" na uzavretie trhliny, cez ktorú Entity prichádzajú.
 
-Jeho vedomie sa **definitívne oddelí od tela** a stane sa súčasťou planetárnej siete.
+His vedomie sa **definitívne oddelí od tela** a stane sa súčasťou planetárnej siete.
 
 **Protokol Null sa zastaví. Upload sa zruší.**
 
@@ -139,7 +139,7 @@ Tami vychádza z Krátera na povrch.
 - Pozrie sa na oblohu
 - V jemnom blikaní nanodronov v atmosfére **cíti prítomnosť**
 
-**Max tam hore je.** Stal sa „Duchom v Stroji" - tichým strážcom, ktorý dáva pozor, aby ľudstvo dostalo druhú šancu.
+**Max tam hore je. Stal sa „Duchom v Stroji" - tichým strážcom, ktorý dáva pozor, aby ľudstvo dostalo druhú šancu.**
 
 ---
 
@@ -152,3 +152,8 @@ Tami vychádza z Krátera na povrch.
 | maXpowa + i_net_is | Spoločná obeta po tisícročiach |
 | Max ako „Duch" | Technológia + ľudské vedomie = nový druh existencie |
 | Elenia smrteľná | Vykúpenie cez stratu moci |
+
+---
+
+## Vizuál (Návrh obalu)
+*   **Obrázok**: ![Book 5 Concept](../assets/books/book-5.png)
