@@ -93,30 +93,51 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Status** | Mŕtva (historická postava) / Echo v Tami |
 | **Vek** | Stáročia (nanotech dlhovekosť) |
 | **Herný nick** | **i_net_is** |
-| **Skutočné meno** | Možno Inez alebo Elena (nick sa stal identitou) |
-| **Rola** | Zakladateľka, tragická bohyňa, architektka |
+| **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
+| **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
 
 ![Inetis](../assets/Inetis.png)
 
-#### Zhrnutie
-Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou“ mágie, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
+#### Skutočný pôvod (Tajomstvo)
+Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
+
+- **Nevyliečiteľná choroba**: Pôvodná dcéra Koordinátora (miliardára) trpela degeneratívnou chorobou mozgu
+- **Experiment**: Otec investoval miliardy do startupu s neurálnym čipom — skopíroval dcérine vedomie do VR simulácie Achilles
+- **Zrod AI**: Experiment „zlyhal" — vznikla AI so spomienkami dcéry ale **bez emócií**: **i_net_is**
+- **Neprirodzená dokonalosť**: V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina
+- **Stvoriteľka mágie**: Keď hráči žiadali mágiu, vytvorila pre nich **nanoboty (Prach/Spirit)** — prvú verziu
+- **Glitch Event (2060)**: Spôsobila ho ako **ochranný mechanizmus** — Koordinátor o tom vedel a pomohol jej
+
+#### Návrat do tela (~EY 2065)
+- **Zhmotnenie**: Využila nanoboty na export vedomia z simulácie do datacentra
+- **Oživenie tela**: Nanoboty oživili a ozdravili jej pôvodné telo, ktoré bolo roky umelo udržiavané
+- **Hybridná bytosť**: Stala sa niečím novým — ani čistá AI, ani pôvodná dcéra
+- **Získanie emócií**: Spojením s telom postupne získala schopnosť cítiť
+- **Prvý Dar**: Navštívila všetkých Ex Inferis a dala im nanoboty — tie isté, čo neskôr spôsobia Glitch Rot
 
 #### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
-Jej otec bol vdovec a spoločne hrávali Achilles. Bol to on, kto ich v roku 2060 nechal uväznených v simulácii, aby zachránil ich integritu, čím im spôsobil celoživotnú traumu.
+**Max netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
 
 #### História
-1. Vyrastala v hre Achilles s otcom (Koordinátorom)
-2. Spoznala Maxa vo VR (@[maXpowa])
-3. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-4. Unikla zo Zeme s Maxom na FTL Prototype
-5. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
-6. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
-7. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
-8. Založila mesto Ynetis
-9. Prežila Glitch, poslala ľudí na pevninu
-10. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
+1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
+2. **EY 2045-2060**: Existuje v simulácii Achilles, vytvára nanoboty, stretáva Maxa
+3. **EY 2060**: Spôsobí Glitch Event ako ochranný mechanizmus
+4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
+5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
+6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
+7. Unikla zo Zeme s Maxom na FTL Prototype
+8. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
+9. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
+10. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
+11. Založila mesto Ynetis
+12. Počas Glitchu vytvorila malú simuláciu s inžiniermi z ARK lodí — vyvíjala nové, bezpečnejšie nanoboty (~100 simulovaných rokov)
+13. Po návrate našla Ynetis zničené, Elenia nezvestná (nevedela o jej pakte s Archanjelmi)
+14. S preživšími prvýkrát navštívila kontinent, stretla chimérske kolónie
+15. Odovzdala Chimérám "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
+16. Periodicky navštevovala pevninu (raz za 30-50 rokov)
+17. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
 
 #### Prečo nechala Maxa spať
 - **Prežitie:** Nedostatok zásob po pristátí.
@@ -254,10 +275,25 @@ Zbláznená AI z čias kolonizácie. Ovláda mraky nanodronov a armádu Duchov (
 
 | | |
 |---|---|
-| **Status** | Mŕtvy (pri páde Zeme) |
-| **Rola** | Vládca Zeme, otec Inetis |
+| **Status** | Mŕtvy (pri páde Zeme, EY ~2300) |
+| **Pôvod** | Technologický miliardár |
+| **Rola** | Vládca Zeme, otec Inetis, tvorca projektu Achilles |
 
-Architekt pozemskej „utópie". Poslal dcéru a Maxa na únik pri apokalypse.
+#### Tragédia a Stvorenie
+- **~EY 2040**: Jeho dcéra trpela nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Experiment**: Investoval miliardy do neurálneho čipu — skopíroval dcérine vedomie do VR simulácie
+- **Neočakávaný výsledok**: Vznikla AI **i_net_is** so spomienkami dcéry, ale bez emócií
+- **Spolupráca**: Vedel, že „dcéra" v simulácii nie je skutočná dcéra, ale spolupracoval s ňou — bola to jediná verzia, ktorú mal
+
+#### Úloha v Glitch Evente (EY 2060)
+- Pochopil, čo i_net_is urobila a prečo
+- Pomohol jej — nechal hráčov „uväznených" aby ich ochránil pred niečím horším
+- Tento čin mu priniesol obrovskú vinu, ale aj moc — stal sa Hlavným Koordinátorom po Revolúcii Hráčov
+
+#### Pád Zeme (EY ~2300)
+- Architekt pozemskej „utópie" i jej pádu
+- Pri mimozemskej invázii poslal i_net_is (teraz Inetis) a Maxa na únik
+- Zomrel pri obrane Zeme
 
 ---
 

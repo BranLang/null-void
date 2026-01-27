@@ -38,6 +38,17 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 ### Kto môže „čarovať"?
 - **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
 - **Homo Sapiens Varietas (Chiméry):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
+
+### Pôvod Daru Matky
+- **Vývoj**: Počas Éry Temnoty (AY ~500-650) Inetis vytvorila malú simuláciu s pomocou inžinierov z ARK lodí
+  - Menšia ako pôvodný Achilles na Zemi (obmedzené zdroje)
+  - ~100 simulovaných rokov vývoja (desaťročia v reálnom čase)
+- **Dizajn**: Špeciálne navrhnuté pre chiméru biológiu (na rozdiel od starých nanobotov elity, ktoré ich odmietali)
+- **Vlastnosti**:
+  - Sofistikovanejšie a bezpečnejšie než pôvodné pozemské nanoboty
+  - **Dedičné** — prenášajú sa na potomkov Chimér
+  - Kompatibilné s Pentagram rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
+  - Nespôsobujú Glitch Rot
 - **Tami:** Špeciálny prípad, po prevzatí dronov Inetis (Echo) získava prístup k architektúre sveta.
 
 ---
