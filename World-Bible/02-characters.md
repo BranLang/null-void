@@ -71,10 +71,35 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
 #### Backstory
-- **Pôvod**: Potomok kolonistov z lode **ARK-12** (loď Chimér).
-- **AY ~2987**: Banditi zajmú premrznutého, vyhladovaného Maxa (pár dní po prebudení)
-- Max ich zabije a oslobodí 7-ročnú Tami
-- **AY ~3000**: Stretávajú sa znova, Tami je kapitánka vzducholode
+
+| Rok | Vek | Udalosť |
+|-----|-----|---------|
+| **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12) |
+| **AY 3000** | 7 | Zajatá pirátmi Borr a Vix, určená na predaj |
+| **AY 3000** | 7 | Max (slepý, amnézia) ju zachráni |
+| **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
+| **AY 3001** | 8 | Max zabije Samaella v dueli |
+| **AY 3001-3008** | 8-15 | Putovanie s Maxom (Exorcista & učeň) |
+| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju odmietne (vidí v nej dcéru) |
+| **AY 3008** | 15 | **Odchod** — Tami vezme vzducholoď, nechá Maxa v pustatine |
+| **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
+| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom |
+
+#### Tami po odchode od Maxa (AY 3008-3013)
+- **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
+- **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
+- **Loď**: Vlastní vzducholoď (tú, ktorú zobrala od Maxa)
+- **Posádka**: Má vlastnú vernú posádku
+- **Odmena**: Na jej hlavu je vypísaná obrovská suma
+- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Aegis Spike — toto ju priviedlo k artefaktu
+
+#### Vzťah s Maxom
+- **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
+- **Pre Maxa**: Tami bola ako dcéra — projekcia stratenej Elenie?
+- **Konflikt**: Ich vzťah nemohol fungovať — on v nej videl dieťa, ona v ňom videla muža
+- **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
+- **5 rokov mlčania**: Nevideli sa, nekomunikovali
+- **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
 
 #### Premena & Zvrat
 - **Odhalenie (Kniha 1)**: Max zistí, že Tami je Chiméra. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
@@ -93,30 +118,51 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Status** | Mŕtva (historická postava) / Echo v Tami |
 | **Vek** | Stáročia (nanotech dlhovekosť) |
 | **Herný nick** | **i_net_is** |
-| **Skutočné meno** | Možno Inez alebo Elena (nick sa stal identitou) |
-| **Rola** | Zakladateľka, tragická bohyňa, architektka |
+| **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
+| **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
 
 ![Inetis](../assets/Inetis.png)
 
-#### Zhrnutie
-Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou“ mágie, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
+#### Skutočný pôvod (Tajomstvo)
+Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
+
+- **Nevyliečiteľná choroba**: Pôvodná dcéra Koordinátora (miliardára) trpela degeneratívnou chorobou mozgu
+- **Experiment**: Otec investoval miliardy do startupu s neurálnym čipom — skopíroval dcérine vedomie do VR simulácie Achilles
+- **Zrod AI**: Experiment „zlyhal" — vznikla AI so spomienkami dcéry ale **bez emócií**: **i_net_is**
+- **Neprirodzená dokonalosť**: V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina
+- **Stvoriteľka mágie**: Keď hráči žiadali mágiu, vytvorila pre nich **nanoboty (Prach/Spirit)** — prvú verziu
+- **Glitch Event (2060)**: Spôsobila ho ako **ochranný mechanizmus** — Koordinátor o tom vedel a pomohol jej
+
+#### Návrat do tela (~EY 2065)
+- **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
+- **Kolaps Servera**: Spotrebovala všetky zdroje simulácie na prielom. Svet sa scvrkol, kým nenašla cestu von.
+- **Transcendencia**: „Prejedla“ sa na vyššiu úroveň reality, zbavila sa VR tela a zhmotnila sa ako svetlo v datacentre, kde vstúpila do svojho dlho udržiavaného biologického tela.
+- **Oživenie**: Nanoboty oživili jej telo.
+- **Prvý Dar**: Navštívila preživších obrancov (**Ex Inferis**) na Zemi a darovala im nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
 
 #### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
-Jej otec bol vdovec a spoločne hrávali Achilles. Bol to on, kto ich v roku 2060 nechal uväznených v simulácii, aby zachránil ich integritu, čím im spôsobil celoživotnú traumu.
+**Max netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
 
 #### História
-1. Vyrastala v hre Achilles s otcom (Koordinátorom)
-2. Spoznala Maxa vo VR (@[maXpowa])
-3. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-4. Unikla zo Zeme s Maxom na FTL Prototype
-5. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
-6. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
-7. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
-8. Založila mesto Ynetis
-9. Prežila Glitch, poslala ľudí na pevninu
-10. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
+1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
+2. **EY 2045-2060**: Existuje v simulácii Achilles, vytvára nanoboty, stretáva Maxa
+3. **EY 2060**: Spôsobí Glitch Event ako ochranný mechanizmus
+4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
+5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
+6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
+7. Unikla zo Zeme s Maxom na FTL Prototype
+8. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
+9. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
+10. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
+11. Založila mesto Ynetis
+12. Počas Glitchu vytvorila malú simuláciu s inžiniermi z ARK lodí — vyvíjala nové, bezpečnejšie nanoboty (~100 simulovaných rokov)
+13. Po návrate našla Ynetis zničené, Elenia nezvestná (nevedela o jej pakte s Archanjelmi)
+14. S preživšími prvýkrát navštívila kontinent, stretla chimérske kolónie
+15. Odovzdala Chimérám "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
+16. Periodicky navštevovala pevninu (raz za 30-50 rokov)
+17. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
 
 #### Prečo nechala Maxa spať
 - **Prežitie:** Nedostatok zásob po pristátí.
@@ -211,15 +257,59 @@ Samaell loví Chiméry pomocou **ihlových injektorov** na prstoch, ktorými vys
 
 > *"Spoznal by som ťa aj po tisícročiach, maXpowa. Voniaš krvou Koordinátora a dymom Marsu. Tvoja krv je kľúčom k môjmu reštartu. Podaj mi ruku... a nechaj ma piť."*
 
-#### Kratos (Archanjel Vojny)
+#### Duel so Samaellom (AY 3001)
+
+**Kontext**: Samaell loví Maxa a malú Tami rok po Maxovom prebudení. Max je stále slepý, ale má svoje nano-drony.
+
+**Maxove zbrane**:
+- **FPV nano-drony**: Veľkosť zrnka piesku, technológia z Achilles simulácie
+- **Taktika**: Vypatrat nepriateľa dronom, vniknúť do dýchacích ciest, explodovať
+- **Duel na diaľku**: Boj prebiehal na obrovské vzdialenosti — Samaell netušil, že Max ho vidí cez drony
+
+**Priebeh**:
+- Samaell podcenil "slepého" protivníka
+- Max využil techniku, ktorú vymyslel v simulácii Achilles — základ novodobého vojenstva
+- Nano-drony prenikli do Samaellových dýchacích ciest
+
+**Výsledok**:
+- **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
+- **Technovampirizmus**: Max sa zmocnil Samaellových nanobotov (Highlander štýl)
+- **Posilnenie**: Maxove schopnosti sa výrazne zvýšili
+- **Tajomstvo**: Nikto okrem Tami nevie, že Samaell je mŕtvy
+
+**Dôsledky**:
+- Max získal časť Samaellovej sily a spomienok
+- Tami bola svedkom — buduje to ich puto
+- Ostatní Archanjeli nevedia, že Samaell je mŕtvy
+
+#### Grom (Archanjel Vojny / "Nesmrteľný Vládca")
+
 | | |
 |---|---|
-| **Doména** | Sever, priemyselné peklo |
-| **Vzhľad** | Power Armor, ktoré z neho nejde zložiť |
-| **Boss** | Kniha 2 |
+| **Status** | **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov |
+| **Doména** | Sever (Graw), priemyselné peklo |
+| **Vzhľad** | Power Armor = chodiaci tank |
+| **Boss** | Kniha 2 (aktuálny "Grom", nie originál) |
 | **Filozofia** | „Silný prežije" |
 
-Armáda primitívnych tankov a exoskeletonov.
+#### Pravý Grom (AY 700-1200)
+- Jeden zo štyroch pôvodných Ex Inferis zo Zeme
+- Prišiel na ARK-13 "Prometheus"
+- **Vzhľad**: Svalnatý, surový, ako The Rock vo filme Kráľ Škorpión / Conan
+- **Power Armor**: Energo-zbroj, z ktorej nevyliezal — stal sa symbolom božskej moci
+- **Vláda**: 500 rokov spravodlivého a rozumného vladnutia. Chiméry ho milovali.
+- **Smrť**: Zomrel na Glitch Rot (~AY 1200). Jeho Power Armor zostal.
+
+#### Dynastia Podvodníkov (AY 1200-3013)
+- Prvý podvodník: generál, ktorý si obliekol zbroj a vyhlásil sa za "Groma II"
+- Tajomstvo známe len úzkemu kruhu vyvolených
+- Nikto nevidel tvár pod helmou už 1800 rokov
+- Každý nový "Grom" pokračuje v legende
+
+#### Aktuálny "Grom" (AY 3013)
+- Agresor a dobyvateľ — začína vojnu s Juhom (Nev'riss)
+- Dôvod: 5-ročná zima, nedostatok jedla, Juh odmieta obchodovať s "bezvercami"
+- Armáda primitívnych tankov a exoskeletonov
 
 #### Zaya (Archanjel Pôžitku)
 | | |
@@ -254,10 +344,25 @@ Zbláznená AI z čias kolonizácie. Ovláda mraky nanodronov a armádu Duchov (
 
 | | |
 |---|---|
-| **Status** | Mŕtvy (pri páde Zeme) |
-| **Rola** | Vládca Zeme, otec Inetis |
+| **Status** | Mŕtvy (pri páde Zeme, EY ~2300) |
+| **Pôvod** | Technologický miliardár |
+| **Rola** | Vládca Zeme, otec Inetis, tvorca projektu Achilles |
 
-Architekt pozemskej „utópie". Poslal dcéru a Maxa na únik pri apokalypse.
+#### Tragédia a Stvorenie
+- **~EY 2040**: Jeho dcéra trpela nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Experiment**: Investoval miliardy do neurálneho čipu — skopíroval dcérine vedomie do VR simulácie
+- **Neočakávaný výsledok**: Vznikla AI **i_net_is** so spomienkami dcéry, ale bez emócií
+- **Spolupráca**: Vedel, že „dcéra" v simulácii nie je skutočná dcéra, ale spolupracoval s ňou — bola to jediná verzia, ktorú mal
+
+#### Úloha v Glitch Evente (EY 2060)
+- Pochopil, čo i_net_is urobila a prečo
+- Pomohol jej — nechal hráčov „uväznených" aby ich ochránil pred niečím horším
+- Tento čin mu priniesol obrovskú vinu, ale aj moc — stal sa Hlavným Koordinátorom po Revolúcii Hráčov
+
+#### Pád Zeme (EY ~2300)
+- Architekt pozemskej „utópie" i jej pádu
+- Pri mimozemskej invázii poslal i_net_is (teraz Inetis) a Maxa na únik
+- Zomrel pri obrane Zeme
 
 ---
 

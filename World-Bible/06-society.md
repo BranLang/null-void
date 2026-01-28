@@ -43,7 +43,7 @@ graph BT
 
     subgraph "THE EXECUTORS (Services)"
         AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
-        KR[KRATOS<br>Archanjel Vojny<br>Lokácia: Sever]
+        KR[GROM<br>Archanjel Vojny<br>Lokácia: Sever]
         IS[ZAYA<br>Archanjel Pôžitku<br>Lokácia: Juh]
     end
 
@@ -75,10 +75,10 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Odber (Zber)**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
 - **Dôsledok pre spoločnosť**: Mágia je medzi Chimérami vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
-    - **Samaell:** Tieň, tajomstvo, staré technológie.
-    - **Kratos:** Vojna, priemysel, hrubá sila.
-    - **Zaya:** Pôžitok, drogy, propaganda/ilúzie.
-    - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper".
+    - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maxom v AY 3001).
+    - **Grom:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
+    - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Južnom kontinente v Sklenom Meste.
+    - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Západnom kontinente.
 
 ### 2. "Tí Roztrúsení" (Ľudia medzi Chimérami)
 Trosky starej civilizácie Homo Sapiens Sapiens, ktorí nie sú warlordi.
@@ -170,8 +170,85 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 
 ## Frakcie (Lore Register)
 
-- **Kult Matky Spasiteľky**: Dominantné náboženstvo; uctieva Inetis ako bohyňu („Matka nás opustila pre naše hriechy“).
-- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell, Kratos, Zaya, Elenia).
+- **Kult Matky Spasiteľky**: Dominantné náboženstvo na Juhu (Nev'riss); uctieva Inetis ako bohyňu („Matka nás opustila pre naše hriechy").
+- **Kult Nesmrteľného Groma**: Dominantné náboženstvo na Severe (Graw); uctieva Groma ako živého boha.
+- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grom†, Zaya/Ishtar, Elenia).
 - **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
 - **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
 - **Pozemský režim**: Totalitná štruktúra Zeme pred pádom.
+
+---
+
+## Náboženstvá a Kulty
+
+### Kult Vševedúcej Matky (Juh - Nev'riss)
+
+| | |
+|---|---|
+| **Božstvo** | Inetis ("Matka") |
+| **Centrum** | Hlavný Chrám v Sho'raven |
+| **Vláda** | Rada Veľkňažiek (matriarchát) |
+| **Charakter** | Liberálnejší, obchodne orientovaný |
+
+**Doktríny:**
+- "Matka nás opustila pre naše hriechy"
+- Mágia je dar, ale aj skúška
+- Chiméry sú "deti Matky"
+
+**Relikvia:** V kobkách pod Hlavným chrámom je ukrytý **Aegis Spike** — považovaný za "Palicu Súdneho Dňa"
+
+### Kult Nesmrteľného Groma (Sever - Graw)
+
+| | |
+|---|---|
+| **Božstvo** | Grom ("Nesmrteľný Vládca") |
+| **Centrum** | Železná Citadela |
+| **Vláda** | "Nesmrteľný Grom" (dynastia v Power Armor) |
+| **Charakter** | Militantný, expanzívny |
+
+**Tajomstvo (známe len úzkemu kruhu):**
+- Pravý Grom (Ex Inferis) zomrel na Glitch Rot okolo AY 1200
+- Jeho Power Armor si privlastnil jeden z generálov
+- Každý nový "Grom" je len muž v zbroji — nikto nevidí tvár pod helmou
+- Dynastia podvodníkov pokračuje už ~1800 rokov
+
+**Doktríny:**
+- Grom je nesmrteľný boh-vojak
+- Sila je cnosť, slabosť je hriech
+- Juh sú "bezveriaci" a "heretici"
+
+### Náboženský Konflikt (AY ~3013)
+
+**Príčina vojny:**
+1. **5-ročná zima** devastovala zásoby Severu
+2. **Zlé plánovanie** viedlo k hladomoru
+3. **Nev'riss odmieta obchodovať** s "bezvercami"
+4. **Riešenie Groma**: Vojenská expanzia
+
+**Proroctvá o konci sveta:**
+- Cirkev Matky verí, že Aegis Spike je "znamenie konca"
+- Mýtus o **Spáčovi** = Diabol, antagonista Matky, bytosť konca
+- Keď sa "Spáč prebudí", príde súdny deň
+
+---
+
+## Tajomstvo Dynastia Gromov
+
+### Pravý Grom (AY 700-1200)
+- Jeden zo štyroch pôvodných Archanjelov (Ex Inferis zo Zeme)
+- Prišiel na ARK-13 "Prometheus"
+- **Vzhľad**: Svalnatý, surový, ako The Rock / Conan
+- **Power Armor**: Energo-zbroj, chodiaci tank
+- **Vláda**: 500 rokov spravodlivého a rozumného vladnutia
+- **Smrť**: Glitch Rot (~AY 1200)
+
+### Falošní Gromovia (AY 1200-3013)
+- Prvý podvodník: generál, ktorý si obliekol Power Armor a vyhlásil sa za "Groma II"
+- Tajomstvo známe len úzkemu kruhu vyvolených
+- Nikto nevidí tvár pod helmou
+- Dynastia pokračuje už ~1800 rokov
+
+### Aktuálny "Grom" (AY 3013)
+- Agresor a dobyvateľ
+- Začína vojnu s Juhom
+- Využíva náboženstvo ako ospravedlnenie expanzie

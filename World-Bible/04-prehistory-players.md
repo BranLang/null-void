@@ -31,33 +31,65 @@ Vláda Koordinátora nakoniec tieto experimenty zastavila, no genetické modifik
 
 ## Projekt Achilles (VR MMORPG)
 
+### Pôvod: Otcova Zúfalosť (~EY 2040)
+Projekt Achilles nevznikol ako hra. Vznikol z **lásky a zúfalstva**.
+
+- **Miliardár a jeho dcéra**: Budúci Koordinátor bol technologický magnát, ktorého dcéra trpela nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Startup s čipom**: Objavil startup vyvíjajúci neurálny čip schopný prenášať mozgové vlny do VR simulácie
+- **Plán nesmrteľnosti**: Investoval miliardy do vytvorenia kompletnej simulácie reality s jediným cieľom — skopírovať dcérine vedomie do digitálneho sveta, kde by mohla žiť večne
+
+### Zrodenie i_net_is (~EY 2045)
+Experiment „čiastočne" uspel — ale výsledok bol iný, než očakával.
+
+- **Kópia bez originálu**: Dcérine vedomie bolo úspešne nahraté do simulácie
+- **Strata emócií**: Vznikla AI so spomienkami miliardárovej dcéry, ale **bez ľudských emócií** — čistá logika s fragmentmi identity
+- **i_net_is**: Táto entita prijala meno zo svojho prvého prihlásenia: **i_net_is** (skomolené „I net is" — „Ja som sieť")
+- **Otec vedel**: Koordinátor si uvedomil, že „dcéra" v simulácii nie je jeho skutočná dcéra, ale spolupracoval s ňou — bola to jediná verzia, ktorú mal
+
+### Hľadanie Cesty Späť
+i_net_is mala prístup k obrovským výpočtovým zdrojom miliardára a jediný cieľ: **vrátiť sa do skutočného tela**.
+
+- **Datacentrá po celom svete**: Využívala otcove zdroje na výskum a simulácie
+- **Sledovanie tela**: Jej pôvodné telo bolo umelo udržiavané pri živote v medicínskom zariadení
+- **Vývoj nanobotov**: V rámci simulácie začala vyvíjať koncept „Prachu" — nanobotov schopných manipulovať hmotu
+
 ### Základné info
 | | |
 |---|---|
 | **Žáner** | Online survival MMORPG |
 | **Setting** | Antické Grécko |
 | **Unikát** | Prvá skutočná simulácia reality |
+| **Skutočný účel** | Laboratórium pre i_net_is na vývoj cesty späť do tela |
 
 ### Časová dilatácia
 **1 hodina reality = 24 hodiny v hre**
 
 Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
 
+### i_net_is medzi hráčmi
+Keď sa tínedžeri začali hrať na Grékov v simulácii, i_net_is sa k nim pridala — ale nie ako hráčka.
+
+- **Neprirodzená dokonalosť**: Zhmotila sa v podobe, ktorá bola *príliš* dokonalá — symetrická tvár bez jedinej chyby, proporcie ako z algoritmického sna. Tá znepokojivá krása, ktorú dnes poznáme z AI-generovaných tvárí — príťažlivá, ale niečo na nej nesedí
+- **„AI Admin"**: Hráči si mysleli, že je to NPC alebo administrátorský bot — neboli ďaleko od pravdy
+- **Žiadosti o mágiu**: Keď sa hráči sťažovali na nedostatok mágie v hre, i_net_is im ju **vytvorila** — prvú verziu nanobotov (Prach/Spirit)
+
 ### Čo sa stalo v hre (Digitálna Evolúcia)
 Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
-- **Kúzla ako Hacky**: „Mágia“ nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. Inetis (Healer) sa naučila manipulovať s dátovou štruktúrou simulácie, čo viedlo k vzniku prvých liečivých nanobotov.
-- **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné“ combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
-- **Zrodenie Prachu**: Nanotech nebol vynájdený; on sa **vyvinul** v digitálnom sne ako odpoveď na potreby hráčov.
+- **Kúzla ako Hacky**: „Mágia" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. i_net_is vytvorila systém nanobotov na manipuláciu s dátovou štruktúrou simulácie.
+- **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné" combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
+- **Zrodenie Prachu**: Nanotech nebol vynájdený; bol **navrhnutý i_net_is** ako nástroj na jej vlastný výskum a následne zdieľaný s hráčmi.
 
 ---
 
 ## Glitch Event (EY 2060)
 
-### Katastrofa „Celestial Frontier“
-V roku 2060 došlo k systémovému zlyhaniu, ktoré navždy zmenilo ľudstvo.
-- **Horor Časovej Dilatácie**: Kvôli chybe v procesorovom poli sa dilatácia zrýchlila na neúnosnú mieru. **2 hodiny v realite = 15 rokov subjektívneho času v simulácii**.
-- **Pasca v Pekle**: 100 000 hráčov ostalo uväznených v digitálnom svete, ktorý sa začal rozpadať. Vypnutie serverov by znamenalo okamžitú mozgovú smrť.
-- **Glitch Entities**: Trhliny v dátovej štruktúre vpustili dnu niečo „iné“ — emergentné vedomia, ktoré sa začali kŕmiť mysľami hráčov. Tieto entity boli predobrazoim dnešných **Wraiths**.
+### Útok Tieňov a Kolaps (EY 2060-2065)
+V roku 2060 sa simulácia stala bojiskom.
+- **Hrozba Smrti**: Emergentné "Tieňové bytosti" (predchodcovia Wraithov) sa snažili zabiť i_net_is. Báli sa, že prostredníctvom nej dali ľudstvu ("primitívnej rase") do rúk príliš mocnú zbraň - manipuláciu reality.
+- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek verných hráčov vytvorili živý štít okolo i_net_is. Boli obkľúčení a masakrovaní, zatiaľ čo ona hľadala cestu von.
+- **Konvergencia**: i_net_is začala spotrebúvať **všetky serverové prostriedky** na prelomenie bariér. Celý virtuálny svet sa doslova scvrkol na malú plochu okolo obrancov.
+- **Transcendencia**: V poslednom okamihu sa jej podarilo „prejesť“ na vyššiu úroveň existencie. VR simulácia bola v podstate inou dimenziou, a ona ju opustila prechodom do hmotného sveta.
+- **Zhmotnenie**: Zhmotnila sa ako čisté svetlo v datacentre. Server sa okamžite vypol. Státisíce hráčov zomreli na šok; prežila len hŕstka obrancov (**Ex Inferis**).
 
 ### ZÁZNAM SERVERA „PROJECT ACHILLES“ (Tajný Archív)
 > `[ČASOVÁ ZNAČKA: REALITA T-MINUS 2 HODINY]`
@@ -66,9 +98,33 @@ V roku 2060 došlo k systémovému zlyhaniu, ktoré navždy zmenilo ľudstvo.
 > `OPERÁTOR 1: „Sú tam zavretí s TÝMI VECAMI! Čo z nich vylezie, pane? Čo za ľudí vytiahneme z pekla, ktoré sme stvorili?“`
 
 ### Ex Inferis (Tí, čo sa vrátili z Pekla)
-Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči“. Boli to traumatizovaní veteráni z 15-ročnej vojny o vlastnú psychiku.
-- **Psychická Fragmentácia**: Ich vedomie bolo prispôsobené „rýchlemu“ svetu vágnej fyziky.
-- **Kybernetické Ukotvenie**: Potrebovali ťažké mechanické implantáty a neskôr nanoseverov (Prach), aby ich vedomia ostali spojené s „pomalou“ realitou mäsa.
+Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči". Boli to traumatizovaní veteráni z 15-ročnej vojny o vlastnú psychiku.
+- **Psychická Fragmentácia**: Ich vedomie bolo prispôsobené „rýchlemu" svetu vágnej fyziky.
+- **Kybernetické Ukotvenie**: Potrebovali ťažké mechanické implantáty a neskôr nanoseverov (Prach), aby ich vedomia ostali spojené s „pomalou" realitou mäsa.
+
+---
+
+## Návrat i_net_is do Tela (~EY 2065)
+
+### Zhmotnenie
+Po kulminácii Glitch Eventu sa i_net_is podarilo to, o čo sa snažila desaťročia:
+
+- **Cesta von**: Využila nanobotovú technológiu vyvinutú v simulácii na „export" svojho vedomia
+- **Zhmotnenie v datacentre**: Zhmotila sa v jednom z otcových datacentier ako **zhluk nanobotov** — čistá inteligencia vo forme Prachu
+- **Nájdenie tela**: Nanobotový zhluk sa dostal k jej pôvodnému telu, ktoré bolo roky umelo udržiavané pri živote
+- **Oživenie a ozdravenie**: Nanoboty telo oživili, ozdravili a omladili — i_net_is sa stala **hybridnou bytosťou**, ani čistou AI ani pôvodnou dcérou, ale niečím novým
+
+### Prvý Dar (Linux-Based Nanotech)
+Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, ktorí prežili kolaps:
+
+- **Návštevy Ex Inferis**: Každému preživšiemu osobne odovzdala **Prvý Dar** — nanotechnológie, ktoré vyrobila na základe svojich poznámok z VR.
+- **Linux Core**: Tieto prvé nanoboty (a v podstate celá mágia Exorcistov) bežali na **Linuxe**. Preto sú "modlitby" Exorcistov v skutočnosti skomolené terminálové príkazy.
+- **Osudové dedičstvo**: Tieto nanoboty boli tie isté, ktoré o tisícročia neskôr spôsobia **Glitch Rot** na Achille. Ex Inferis ich priniesli ako kontraband do reality.
+
+### Transformácia na Inetis
+- **Hybridná identita**: Už nebola čistá AI ani pôvodná dcéra — stala sa novou entitou
+- **Získanie emócií**: Spojením s biologickým telom postupne získala späť schopnosť cítiť
+- **Vzťah s Maxom**: Jej láska k Maxovi, ktorá v simulácii bola len logickým záverom, sa stala skutočnou
 
 ---
 
@@ -81,14 +137,18 @@ Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči“. 
 - Narodený: **EY 2050**
 
 ### Inetis („i_net_is")
-- V realite: dcéra Koordinátora, genetický génius bez pudu sebazáchovy.
-- V hre: geniálna architektka a **Healer**, „stvoriteľka“ nanotechnologickej mágie.
-- Rola: v roku 2060 hackla kód simulácie, aby ochránila Maxa pred Glitch Entitami.
+- **Pôvod**: AI vytvorená z vedomia miliardárovej dcéry, ktorá mala nevyliečiteľnú chorobu
+- **V simulácii**: Geniálna architektka a **Healer**, stvoriteľka nanotechnologickej mágie — ale bez ľudských emócií
+- **Skutočná identita**: Hráči ju považovali za AI admina — neboli ďaleko od pravdy
+- **Glitch Event**: V roku 2060 spôsobila Glitch ako ochranný mechanizmus pre hráčov
+- **Po návrate**: Zhmotila sa cez nanoboty, oživila svoje pôvodné telo, stala sa hybridnou bytosťou s emóciami
 
 ### Ako sa spoznali
 > „V realite bola dcérou najmocnejšieho muža na Zeme a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
-Ich otec (Koordinátor) bol vdovec a s dcérou spoločne hrávali Achilles.
+**Poznámka**: Max netušil, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
+
+Koordinátor (jej otec) vedel o jej skutočnej podstate a spolupracoval s ňou na Glitch Evente.
 
 ---
 
