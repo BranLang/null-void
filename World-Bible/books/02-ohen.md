@@ -35,8 +35,8 @@
 ---
 
 ## III. Hlavný Antagonista: KRATOS (Archanjel Vojny)
-*   **Stret:** Max and Tami sa prvýkrát stretnú s jednotkami Kratosa. Sú to mechanizované hordy v troskách starých tovární.
-*   **Paralela:** Max v Kratosovi vidí krutosť, ktorou sa sám kedysi vyznačoval. Kratos ho spoznáva a nazýva ho "Zradcom krvi".
+*   **Stret:** Max and Tami sa prvýkrát stretnú s jednotkami Groma. Sú to mechanizované hordy v troskách starých tovární.
+*   **Paralela:** Max v Gromovi vidí krutosť, ktorou sa sám kedysi vyznačoval. Grom ho spoznáva a nazýva ho "Zradcom krvi".
 
 ---
 

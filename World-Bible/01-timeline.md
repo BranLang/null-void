@@ -28,9 +28,12 @@ timeline
     0 : Pristátie lodí ARK-11 a ARK-12
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
+    1200 : Smrť pravého Groma : Dynastia podvodníkov začína
     2000 : Tretí Príchod (Synths) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maximiliána
-    3013 : Začiatok hlavného deja (Kniha 1)
+    3001 : Duel Samaell vs Max : Smrť Samaella
+    3008 : Tami odchádza od Maxa
+    3013 : Začiatok hlavného deja : Vojna Graw vs Nev'riss
 ```
 
 ---
@@ -224,6 +227,14 @@ timeline
 ---
 
 ## AY ~700 – 2987: Éra Mýtov
+
+### Smrť Groma (~AY 1200)
+- **Pravý Grom**: Ex Inferis zo Zeme, spravodlivý vládca Severu 500 rokov
+- **Glitch Rot**: Zomiera na rozpad nanotechnológie
+- **Power Armor**: Jeho zbroj zostáva — symbol božskej moci
+- **Dynastia podvodníkov**: Prvý generál si oblieka zbroj, vyhlási sa za "Groma II"
+- **Tajomstvo**: Od tejto chvíle je Grom len muž v zbroji — nikto nevidí tvár pod helmou
+
 ### Obdobie „Anjela strážneho"
 - Inetis občas navštevuje pevninu (raz za 30–50 rokov)
 - Ľudia ju vnímajú ako bohyňu
@@ -263,24 +274,41 @@ timeline
     - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
     - **Samaell** zachytáva signál „brata v zbrani“ a upadá do zmesi šialenstva.
     - Max je nájdený pirátmi **Borr a Vix**, ktorí ho berú na palubu **Silent Hunter**.
-- **Rok Tieňov (AY 3000 – 3001)**: 
+- **Rok Tieňov (AY 3000 – 3001)**:
     - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
-    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je len legendou a „Iniciatíva Achilles“ bola jedna veľká lož. Archanjeli nič nevybudovali; utiekli a zostali v ruinách.
-    - **Unit 734 („Sedmička“)**: Synth-mechanik slúži ako prekladateľ.
+    - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maxa a Tami celý rok.
+    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je len legendou a „Iniciatíva Achilles" bola jedna veľká lož. Archanjeli nič nevybudovali; utiekli a zostali v ruinách.
+    - **Unit 734 („Sedmička")**: Synth-mechanik slúži ako prekladateľ.
+- **Duel so Samaellom (AY 3001)**:
+    - Max (stále slepý) využíva nano-drony veľkosti zrnka piesku
+    - Technika z Achilles simulácie: FPV drony vniknú do dýchacích ciest a explodujú
+    - Duel na obrovské vzdialenosti — Samaell podcenil "slepého" protivníka
+    - **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
+    - **Technovampirizmus**: Max sa zmocní Samaellových nanobotov (Highlander štýl)
 - **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a Chimérej spoločnosti. Bod zlomu pre jeho ideológiu.
-- **AY 3001 – AY 3013**: **8-ročná cesta**: Premena z „trosky“ na legendárneho Exorcistu. Postupná adaptácia na svet a budovanie nového vzťahu s Tami založeného na realite, nie na slepom odhade.
-    - Max a Tami sa z bezpečnostných dôvodov rozdelia.
-- **AY 3013**: **Začiatok hlavného deja** (Kniha 1: Časť 3).
-    - Opätovné stretnutie Maxa a 20-ročnej Tami.
+- **AY 3001 – AY 3008**: **7-ročná cesta**: Premena z „trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň.
+- **Tami vyznanie a odchod (AY 3008)**:
+    - Tami (15 rokov) sa vyzná Maxovi
+    - Max ju odmietne — vidí v nej dcéru, nie ženu
+    - Tami vezme vzducholoď a nechá Maxa v pustatine
+- **AY 3008 – AY 3013**: **5 rokov odlúčenia**:
+    - Max pokračuje ako Exorcista sám
+    - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
+    - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma
+    - Vidí upálenie priateľov kvôli nálezu Aegis Spike
+- **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
+    - **Opening**: Vzducholoď pristáva v nočnom meste Sho'raven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
+    - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Sho'raven
+    - **Vojna**: Graw (Sever) útočí na Nev'riss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
     - Max (xenofób z minulosti) musí spolupracovať s Tami (Chimérou-mágom).
 
 ---
 
 ## Príbeh kníh
-1. **ZEM | hmota** — Max hľadá Inetis, nájde jej telo. Boss: Samaell
-2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Kratos
-3. **VODA | čas** — POV Inetis, História Ynetis, odhalenie identity Elenie. Boss: Ishtar (Zaya)
+1. **ZEM | hmota** — Max hľadá Inetis, nájde jej telo. Boss: Samaell (zabitý v AY 3001)
+2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Grom (aktuálny podvodník v Power Armor)
+3. **VODA | čas** — POV Inetis, História Ynetis, odhalenie identity Elenie. Boss: Ishtar/Zaya
 4. **VZDUCH | priestor** — Vojna s Eleniou, Doomsday Protocol
 5. **KVINTESENCIA | vedomie** — Veľký upload, návrat do VR Achilles, finálne splynutie so subspace.
 

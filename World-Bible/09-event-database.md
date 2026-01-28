@@ -258,10 +258,10 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Zdroj: `world-bible.md`
 
 ### `evt.story.kratos_campaign`
-- Názov: Severná kampaň (Kratos)
+- Názov: Severná kampaň (Grom)
 - Čas: Kniha 2 (pracovne)
-- Zhrnutie: Cesta na sever a konflikt s Kratosom; vojna a zodpovednosť ako téma.
-- Účastníci: `char.maximilian`, `char.tami`, `char.kratos`
+- Zhrnutie: Cesta na sever a konflikt s Gromom; vojna a zodpovednosť ako téma.
+- Účastníci: `char.maximilian`, `char.tami`, `char.grom`
 - Lokácie: `place.north`
 - Tagy: `vojna`
 - Zdroj: `world-bible.md`

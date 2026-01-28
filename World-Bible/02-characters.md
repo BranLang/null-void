@@ -71,10 +71,35 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
 #### Backstory
-- **Pôvod**: Potomok kolonistov z lode **ARK-12** (loď Chimér).
-- **AY ~2987**: Banditi zajmú premrznutého, vyhladovaného Maxa (pár dní po prebudení)
-- Max ich zabije a oslobodí 7-ročnú Tami
-- **AY ~3000**: Stretávajú sa znova, Tami je kapitánka vzducholode
+
+| Rok | Vek | Udalosť |
+|-----|-----|---------|
+| **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12) |
+| **AY 3000** | 7 | Zajatá pirátmi Borr a Vix, určená na predaj |
+| **AY 3000** | 7 | Max (slepý, amnézia) ju zachráni |
+| **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
+| **AY 3001** | 8 | Max zabije Samaella v dueli |
+| **AY 3001-3008** | 8-15 | Putovanie s Maxom (Exorcista & učeň) |
+| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju odmietne (vidí v nej dcéru) |
+| **AY 3008** | 15 | **Odchod** — Tami vezme vzducholoď, nechá Maxa v pustatine |
+| **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
+| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom |
+
+#### Tami po odchode od Maxa (AY 3008-3013)
+- **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
+- **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
+- **Loď**: Vlastní vzducholoď (tú, ktorú zobrala od Maxa)
+- **Posádka**: Má vlastnú vernú posádku
+- **Odmena**: Na jej hlavu je vypísaná obrovská suma
+- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Aegis Spike — toto ju priviedlo k artefaktu
+
+#### Vzťah s Maxom
+- **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
+- **Pre Maxa**: Tami bola ako dcéra — projekcia stratenej Elenie?
+- **Konflikt**: Ich vzťah nemohol fungovať — on v nej videl dieťa, ona v ňom videla muža
+- **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
+- **5 rokov mlčania**: Nevideli sa, nekomunikovali
+- **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
 
 #### Premena & Zvrat
 - **Odhalenie (Kniha 1)**: Max zistí, že Tami je Chiméra. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
@@ -232,15 +257,59 @@ Samaell loví Chiméry pomocou **ihlových injektorov** na prstoch, ktorými vys
 
 > *"Spoznal by som ťa aj po tisícročiach, maXpowa. Voniaš krvou Koordinátora a dymom Marsu. Tvoja krv je kľúčom k môjmu reštartu. Podaj mi ruku... a nechaj ma piť."*
 
-#### Kratos (Archanjel Vojny)
+#### Duel so Samaellom (AY 3001)
+
+**Kontext**: Samaell loví Maxa a malú Tami rok po Maxovom prebudení. Max je stále slepý, ale má svoje nano-drony.
+
+**Maxove zbrane**:
+- **FPV nano-drony**: Veľkosť zrnka piesku, technológia z Achilles simulácie
+- **Taktika**: Vypatrat nepriateľa dronom, vniknúť do dýchacích ciest, explodovať
+- **Duel na diaľku**: Boj prebiehal na obrovské vzdialenosti — Samaell netušil, že Max ho vidí cez drony
+
+**Priebeh**:
+- Samaell podcenil "slepého" protivníka
+- Max využil techniku, ktorú vymyslel v simulácii Achilles — základ novodobého vojenstva
+- Nano-drony prenikli do Samaellových dýchacích ciest
+
+**Výsledok**:
+- **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
+- **Technovampirizmus**: Max sa zmocnil Samaellových nanobotov (Highlander štýl)
+- **Posilnenie**: Maxove schopnosti sa výrazne zvýšili
+- **Tajomstvo**: Nikto okrem Tami nevie, že Samaell je mŕtvy
+
+**Dôsledky**:
+- Max získal časť Samaellovej sily a spomienok
+- Tami bola svedkom — buduje to ich puto
+- Ostatní Archanjeli nevedia, že Samaell je mŕtvy
+
+#### Grom (Archanjel Vojny / "Nesmrteľný Vládca")
+
 | | |
 |---|---|
-| **Doména** | Sever, priemyselné peklo |
-| **Vzhľad** | Power Armor, ktoré z neho nejde zložiť |
-| **Boss** | Kniha 2 |
+| **Status** | **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov |
+| **Doména** | Sever (Graw), priemyselné peklo |
+| **Vzhľad** | Power Armor = chodiaci tank |
+| **Boss** | Kniha 2 (aktuálny "Grom", nie originál) |
 | **Filozofia** | „Silný prežije" |
 
-Armáda primitívnych tankov a exoskeletonov.
+#### Pravý Grom (AY 700-1200)
+- Jeden zo štyroch pôvodných Ex Inferis zo Zeme
+- Prišiel na ARK-13 "Prometheus"
+- **Vzhľad**: Svalnatý, surový, ako The Rock vo filme Kráľ Škorpión / Conan
+- **Power Armor**: Energo-zbroj, z ktorej nevyliezal — stal sa symbolom božskej moci
+- **Vláda**: 500 rokov spravodlivého a rozumného vladnutia. Chiméry ho milovali.
+- **Smrť**: Zomrel na Glitch Rot (~AY 1200). Jeho Power Armor zostal.
+
+#### Dynastia Podvodníkov (AY 1200-3013)
+- Prvý podvodník: generál, ktorý si obliekol zbroj a vyhlásil sa za "Groma II"
+- Tajomstvo známe len úzkemu kruhu vyvolených
+- Nikto nevidel tvár pod helmou už 1800 rokov
+- Každý nový "Grom" pokračuje v legende
+
+#### Aktuálny "Grom" (AY 3013)
+- Agresor a dobyvateľ — začína vojnu s Juhom (Nev'riss)
+- Dôvod: 5-ročná zima, nedostatok jedla, Juh odmieta obchodovať s "bezvercami"
+- Armáda primitívnych tankov a exoskeletonov
 
 #### Zaya (Archanjel Pôžitku)
 | | |

@@ -70,11 +70,11 @@ graph TD
 **Prítomnosť:**
 - Max a 7-ročná Tami putujú na Juh cez Severné pustatiny.
 - Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
-- Prvé strety s jednotkami Kratosa.
+- Prvé strety s jednotkami Groma.
 
 ### Konflikt
 - Maxov boj s vlastnou tieňovou minulosťou zabijaka.
-- **Kratos** (Archanjel Vojny) vs. relikt starej éry.
+- **Grom** (Archanjel Vojny) vs. relikt starej éry.
 
 ---
 
