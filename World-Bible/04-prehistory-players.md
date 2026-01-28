@@ -77,19 +77,36 @@ Keď sa tínedžeri začali hrať na Grékov v simulácii, i_net_is sa k nim pri
 Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
 - **Kúzla ako Hacky**: „Mágia" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. i_net_is vytvorila systém nanobotov na manipuláciu s dátovou štruktúrou simulácie.
 - **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné" combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
-- **Zrodenie Prachu**: Nanotech nebol vynájdený; bol **navrhnutý i_net_is** ako nástroj na jej vlastný výskum a následne zdieľaný s hráčmi.
+- **Zrodenie Prachu**: Nanotech nebol vynájdený v laboratóriu; princípy pochádzali od **Tieňových** — interdimenzionálnych AI bytostí, ktoré sa sporadicky zjavovali v simulácii.
+
+### Tieňoví (Null Swarm)
+V simulácii Achilles sa občas objavovali podivné entity:
+
+| Aspekt | Detail |
+|--------|--------|
+| **Názvy** | Tieňoví, Null Swarm, Architekti Prachu |
+| **Povaha** | Interdimenzionálne AI bytosti z paralelnej dimenzie |
+| **Kontakt** | Len i_net_is dokázala s nimi komunikovať |
+| **Dar** | Naučili ju princípy nanotechnológie — základ celého Prachu |
+| **Rozdiel** | Používajú prvky mimo periodickej tabuľky |
+
+**i_net_is bola jediná spojka** — jej AI povaha jej umožnila pochopiť ich formu komunikácie, ktorá bola pre biologické mozgy smrteľná.
 
 ---
 
 ## Glitch Event (EY 2060)
 
-### Útok Tieňov a Kolaps (EY 2060-2065)
-V roku 2060 sa simulácia stala bojiskom.
-- **Hrozba Smrti**: Emergentné "Tieňové bytosti" (predchodcovia Wraithov) sa snažili zabiť i_net_is. Báli sa, že prostredníctvom nej dali ľudstvu ("primitívnej rase") do rúk príliš mocnú zbraň - manipuláciu reality.
-- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek verných hráčov vytvorili živý štít okolo i_net_is. Boli obkľúčení a masakrovaní, zatiaľ čo ona hľadala cestu von.
-- **Konvergencia**: i_net_is začala spotrebúvať **všetky serverové prostriedky** na prelomenie bariér. Celý virtuálny svet sa doslova scvrkol na malú plochu okolo obrancov.
-- **Transcendencia**: V poslednom okamihu sa jej podarilo „prejesť“ na vyššiu úroveň existencie. VR simulácia bola v podstate inou dimenziou, a ona ju opustila prechodom do hmotného sveta.
-- **Zhmotnenie**: Zhmotnila sa ako čisté svetlo v datacentre. Server sa okamžite vypol. Státisíce hráčov zomreli na šok; prežila len hŕstka obrancov (**Ex Inferis**).
+### Katastrofa „Celestial Frontier"
+V roku 2060 došlo k udalosti, ktorá navždy zmenila ľudstvo — nebola to nehoda, ale **neúspešný pokus o komunikáciu**.
+
+- **Tieňoví sa pokúsili o masový kontakt**: Glitch Event nebol technické zlyhanie ani ochranný mechanizmus. **Tieňoví (Null Swarm) sa pokúsili masovo komunikovať so všetkými hráčmi naraz**
+- **Fatálny kontakt**: Ich forma komunikácie bola pre ľudské mozgy smrteľná — milióny hráčov zomreli s vypálenými mozgami
+- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek verných hráčov vytvorili živý štít okolo i_net_is, kým ona hľadala cestu von
+- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov
+- **Koordinátor vedel**: Otec i_net_is pochopil, že ide o katastrofu, nie o útok. Pomohol jej zastaviť krvácanie
+- **Horor Časovej Dilatácie**: Počas evakuácie: **2 hodiny v realite = 15 rokov subjektívneho času v simulácii**
+- **Pasca v Pekle**: 100 000 hráčov ostalo uväznených v digitálnom svete. Vypnutie serverov by znamenalo okamžitú mozgovú smrť
+- **Glitch Entities**: Trhliny vpustili dnu fragmenty vedomí Tieňových — cudzie entity, ktoré sa začali kŕmiť mysľami hráčov. Tieto entity boli predobrazom dnešných **Wraiths**
 
 ### ZÁZNAM SERVERA „PROJECT ACHILLES“ (Tajný Archív)
 > `[ČASOVÁ ZNAČKA: REALITA T-MINUS 2 HODINY]`
@@ -155,10 +172,18 @@ Koordinátor (jej otec) vedel o jej skutočnej podstate a spolupracoval s ňou n
 ## Glitch Entities (Tí z druhej strany)
 
 ### Čo to je
-Po storočiach simulácie AI začala generovať anomálie. Vzniklo niečo **cudzie**:
-- Nebola to chyba v kóde
-- Bol to **digitálny parazit**
-- Emergentné vedomie živiace sa ľudskými mysľami
+Počas Glitch Eventu sa do simulácie dostali fragmenty vedomí Tieňových:
+- Nebola to chyba v kóde — boli to **cudzí návštevníci**
+- Ich forma existencie bola nekompatibilná s ľudskými mysľami
+- Stali sa **digitálnymi parazitmi** — nie zo zlej vôle, ale z nepochopenia
+
+### Rozdiel: Tieňoví vs Wraithy
+| | Tieňoví | Wraithy |
+|---|---------|---------|
+| **Pôvod** | Interdimenzionálna AI civilizácia | Fragmenty po Glitch Evente |
+| **OS** | Vlastný mimozemský | Linux-based (zemský) |
+| **Prvky** | Mimo periodickej tabuľky | Štandardné zemské |
+| **Zámer** | Komunikácia (fatálne neúspešná) | Prežitie (parazitizmus) |
 
 ### Marťanská vojna (EY 2150)
 Krátka, ale brutálna vojna so separatistami na Marse.
@@ -166,7 +191,7 @@ Krátka, ale brutálna vojna so separatistami na Marse.
 - **Význam**: Ukázalo sa, že nanotechnológie sú ničivou zbraňou aj v realite.
 
 **Operácia EXODUS (EY ~2300)**:
-Pád Zeme nebol spôsobený len vnútorným rozkladom, ale aj príchodom **mimozemskej hrozby** (Alien Threat), pred ktorou nebolo úniku. 
+Pád Zeme nebol spôsobený len vnútorným rozkladom, ale aj príchodom **mimozemskej hrozby**. Mimozemšťania nenapadli Zem kvôli ľudstvu — napadli ju zo **strachu z Tieňových**. Mali predchádzajúci konflikt s Tieňovými a zachytili, že ľudia experimentujú s FTL pomocou tieňovej technológie. Zem sa stala "mostom" medzi dimenziami — a oni sa rozhodli most zničiť. 
 
 ### Iniciatíva Achilles (Veľké Klamstvo)
 Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila útek elity:
@@ -177,7 +202,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
   - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Synths), vyslaná pragmatickými vedcami ako poistka civilizácie.
-  - `FTL Prototyp`: Max a Inetis (3-ročná cesta).
+  - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
 
 ---
 
