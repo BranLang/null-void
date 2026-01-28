@@ -94,7 +94,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
 - **Dynastia podvodníkov (AY 1200-3013)**: Generáli si obliekli zbroj a vyhlásili sa za "Groma II, III..." Nikto nevidí tvár pod helmou.
 - **Aktuálny "Grom"**: Agresor a dobyvateľ. Začína vojnu s Juhom.
 
-### Vzhľad Groma (legendárny)
+### Vzhľad Groma - povodny legendárny
 - Ako The Rock vo filme Kráľ Škorpión / Conan
 - Svalnatý, surový, dobrodruh "starej krvi"
 - Power Armor = chodiaci tank, symbol božskej moci
@@ -154,7 +154,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu (podobné Alpám).
 
 ### 1. Kráter (The Crash Site)
 - **Lokácia:** Stred kontinentu.
-- **Popis:** Miesto dopadu lode EXODUS (Ark-11). Svätá zem Kultu Matky.
+- **Popis:** Miesto pristátia lode EXODUS (Ark-11). Svätá zem Kultu Matky.
 - **Rádioaktivita:** Nanotech radiácia ("The Dust" je tu najhustejší).
 
 ### 2. Severná Pustatina (Graw)
