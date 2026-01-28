@@ -49,16 +49,37 @@
 * Samaell je presvedčený, že ak pohltí **Maximiliánovu krv** (pôvodnú, čistú nanotechnológiu elity ex inferis), opraví tým svoj fatálny "glitch".
 * Verí, že získa nesmrteľnosť a moc, ktorá mu umožní postaviť sa Elenii.
 
-### Vyvrcholenie
+### Finále (Flashback/Prequel Arc)
 * **Kruhy sa uzatvárajú:** Stretnutie v ruinách na hranici Juhu.
 * **Odhalenie:** Samaell pri súboji Maxovi prezrádza útržky z Marsu a o Koordinátorovi.
-* **Finále:** Max musí chrániť Tami. Prvýkrát vedome aktivuje **maXpowa** mód, hoci ho to skoro zabije. Samaell je dočasne porazený/zahnaný, ale Max zistí, že jeho najväčším nepriateľom je jeho vlastná minulosť.
+* **Finále:** Max musí chrániť Tami. Prvýkrát vedome aktivuje **maXpowa** mód. Samaell je porazený (zdanlivo), ale Max získava jeho nanoboty (Technovampirizmus).
 
 ---
 
-## Poznámky pre autora
-*   **Atmosféra:** Neustály strach. Čitateľ vidí deštrukciu, ktorú Samaell zanecháva, kým Max a Tami sa snažia prežiť "bežné" nebezpečenstvá Achilla.
-*   **Maxova slepota:** Postupne ustupuje, ale obraz sveta je pre neho stále cudzí a desivý.
+## Časť 4: Prístav Sho'raven (AY 3013) – Súčasnosť
+
+### Scéna 1: Pristátie v Daždi
+*   **Časový skok:** 5 rokov neskôr. Max (krycie meno "Starec") a Tami (teraz 20-ročná "Kapitánka") prilietajú do **Sho'raven**.
+*   **Vizuál:** Nočné mesto v daždi. Prístav je vertikálny labyrint drevených mól a neónových lampionov (bioluminiscencia). Obrovské sochy "Matky" strážia vjazd.
+*   **Atmosféra:** Cyberpunk zmiešaný s feudálnym Japonskom a pirátskou zátokou.
+*   **Vzducholoď:** Tami majstrovsky naviguje loď *Silent Hunter* cez búrku do dokov. Posádka (Chiméry) ju rešpektuje. Max sedí v tieni.
+
+### Scéna 2: Colnica a Identita
+*   **Konflikt:** Colná kontrola Nev'riss. Chiméry nenávidia ľudí. Max musí nosiť masku/helmu alebo sa hrať na nemého sluhu.
+*   **Jazyk:** Tami hovorí plynulo "pouličnou zmesou" (Wildspeak), Max rozumie len útržky.
+*   **Dynamika:** Tami je tá, ktorá vybavuje biznis. Max je "sval". Role sa obrátili.
+
+### Scéna 3: Krčma "U Utopeného Boha"
+*   **Stretnutie:** Majú dohodnutú schôdzku s informátorom (stará ropucha-chiméra), ktorý potvrdí polohu **Aegis Spike**.
+*   **Legenda o "Kľúči":** Informátor hovorí o "Kľúči k Podsvetiu". Max opraví, že je to len *kľúč k jeho pamäti*.
+*   **Tamin Motív (Flashback/Monológ):**
+    *   Tami vysvetľuje, prečo vie, kde to je. Jej rivali – skupina "Hľadači Svitu" – to našli pred rokom vo Východnej Divočine v "Jaskyni Počiatku".
+    *   **Zrada Cirkvi:** Mysleli si, že dostanú odmenu. Priniesli to do Chrámu. Veľkňažky to označili za "prekliaty predmet", "diabolský artefakt", ktorý musí byť bezpečne uschovaný.
+    *   **Upálenie:** Aby sa "nerozšírila nákaza", Hľadačov verejne upálili na námestí pred chrámom. Tami sa dívala z davu.
+    *   "Nejde o prachy, Starec. Ide o to, že tej čarodejnici ukradnem ich najsvätejšiu relikviu priamo spod zadku."
+*   **Heist Setup:** Plán využíva chaos z blížiacej sa vojny. Armáda zo Severu (Graw) je už na hraniciach a mesto je v panike. Väčšina stráží je odvelená na hradby. Chrám je menej strážený, než kedykoľvek predtým.
+*   **Pozadie:** V meste cítiť napätie. Armáda zo Severu (Graw) sa blíži. Vojna je na spadnutie.
+*   **Záverečná scéna:** Max a Tami sa pripravujú na útok na chrám. Max si nasadí svoju helmu a Tami si zapáli cigaretu. Obaja vedia, že toto bude ich posledná práca, ak sa im to nepodarí.
 
 
 ## Vizuál (Návrh obalu)
