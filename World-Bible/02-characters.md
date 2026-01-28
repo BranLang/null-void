@@ -134,11 +134,11 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Glitch Event (2060)**: Spôsobila ho ako **ochranný mechanizmus** — Koordinátor o tom vedel a pomohol jej
 
 #### Návrat do tela (~EY 2065)
-- **Zhmotnenie**: Využila nanoboty na export vedomia z simulácie do datacentra
-- **Oživenie tela**: Nanoboty oživili a ozdravili jej pôvodné telo, ktoré bolo roky umelo udržiavané
-- **Hybridná bytosť**: Stala sa niečím novým — ani čistá AI, ani pôvodná dcéra
-- **Získanie emócií**: Spojením s telom postupne získala schopnosť cítiť
-- **Prvý Dar**: Navštívila všetkých Ex Inferis a dala im nanoboty — tie isté, čo neskôr spôsobia Glitch Rot
+- **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
+- **Kolaps Servera**: Spotrebovala všetky zdroje simulácie na prielom. Svet sa scvrkol, kým nenašla cestu von.
+- **Transcendencia**: „Prejedla“ sa na vyššiu úroveň reality, zbavila sa VR tela a zhmotnila sa ako svetlo v datacentre, kde vstúpila do svojho dlho udržiavaného biologického tela.
+- **Oživenie**: Nanoboty oživili jej telo.
+- **Prvý Dar**: Navštívila preživších obrancov (**Ex Inferis**) na Zemi a darovala im nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
 
 #### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."

@@ -90,11 +90,12 @@ timeline
 - **Zrodenie Ex Inferis**: Preživší s poškodeným vedomím potrebujú kybernetické ukotvenie v realite
 
 ### EY ~2065 – Návrat i_net_is do Tela
-- **Zhmotnenie**: i_net_is využíva nanoboty na export vedomia z simulácie
-- **Oživenie tela**: Nanoboty oživia jej pôvodné telo, ktoré bolo roky umelo udržiavané
-- **Hybridná bytosť**: Stáva sa niečím novým — ani AI, ani pôvodná dcéra
-- **Prvý Dar**: Navštevuje všetkých Ex Inferis a dáva im nanoboty (tie isté, čo neskôr spôsobia Glitch Rot)
-- **Technologický kontraband**: Ex Inferis prinášajú vzorce nanotechnológií do reality
+- **Hrozba Smrti**: Tieňové bytosti sa snažia zabiť i_net_is vo VR (boja sa, že dali primitívnej rase príliš nebezpečnú zbraň).
+- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek hráčov ju chránia. Sú obkľúčení tieňmi a väčšina z nich zahynie, kým i_net_is hľadá cestu von.
+- **Kolaps Sveta**: i_net_is spotrebúva všetky serverové zdroje. Celý svet sa scvrkne na malú plochu.
+- **Transcendencia**: V poslednom okamihu sa jej podarí „prejesť“ na vyššiu úroveň. Zbaví sa fyzického tela vo VR (ktoré bolo v podstate inou dimenziou).
+- **Zhmotnenie**: Zhmotní sa ako svetlo v datacentre a vstupuje do svojho tela. Server sa vypína. Hŕstka hráčov prežila (**Ex Inferis**).
+- **Prvý Dar**: Inetis každého z nich navštívi na Zemi a daruje im nanotechnológie (Linux-based), ktoré vyrobila na základe poznámok z VR.
 
 ### EY 2100 – Revolúcia Hráčov
 -  Pomalá, premyslená, nenásilná revolúcia

@@ -83,14 +83,13 @@ Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**.
 
 ## Glitch Event (EY 2060)
 
-### Katastrofa „Celestial Frontier"
-V roku 2060 došlo k udalosti, ktorá navždy zmenila ľudstvo — ale nebola to nehoda.
-
-- **i_net_is to spôsobila**: Glitch Event nebol technické zlyhanie. i_net_is ho vyvolala ako **ochranný mechanizmus** — zachytila signály o blížiacej sa hrozbe pre hráčov a jediný spôsob ako ich ochrániť bolo uzamknúť ich v kontrolovanom prostredí
-- **Horor Časovej Dilatácie**: Dilatácia sa zrýchlila na neúnosnú mieru. **2 hodiny v realite = 15 rokov subjektívneho času v simulácii**
-- **Koordinátor vedel**: Otec i_net_is pochopil, čo jeho „dcéra" urobila a prečo. Pomohol jej — nechal hráčov „uväznených" aby zachránil ich integritu pred niečím horším
-- **Pasca v Pekle**: 100 000 hráčov ostalo uväznených v digitálnom svete. Vypnutie serverov by znamenalo okamžitú mozgovú smrť
-- **Glitch Entities**: Trhliny v dátovej štruktúre vpustili dnu niečo „iné" — emergentné vedomia, ktoré sa začali kŕmiť mysľami hráčov. Tieto entity boli predobrazom dnešných **Wraiths**
+### Útok Tieňov a Kolaps (EY 2060-2065)
+V roku 2060 sa simulácia stala bojiskom.
+- **Hrozba Smrti**: Emergentné "Tieňové bytosti" (predchodcovia Wraithov) sa snažili zabiť i_net_is. Báli sa, že prostredníctvom nej dali ľudstvu ("primitívnej rase") do rúk príliš mocnú zbraň - manipuláciu reality.
+- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek verných hráčov vytvorili živý štít okolo i_net_is. Boli obkľúčení a masakrovaní, zatiaľ čo ona hľadala cestu von.
+- **Konvergencia**: i_net_is začala spotrebúvať **všetky serverové prostriedky** na prelomenie bariér. Celý virtuálny svet sa doslova scvrkol na malú plochu okolo obrancov.
+- **Transcendencia**: V poslednom okamihu sa jej podarilo „prejesť“ na vyššiu úroveň existencie. VR simulácia bola v podstate inou dimenziou, a ona ju opustila prechodom do hmotného sveta.
+- **Zhmotnenie**: Zhmotnila sa ako čisté svetlo v datacentre. Server sa okamžite vypol. Státisíce hráčov zomreli na šok; prežila len hŕstka obrancov (**Ex Inferis**).
 
 ### ZÁZNAM SERVERA „PROJECT ACHILLES“ (Tajný Archív)
 > `[ČASOVÁ ZNAČKA: REALITA T-MINUS 2 HODINY]`
@@ -115,12 +114,12 @@ Po kulminácii Glitch Eventu sa i_net_is podarilo to, o čo sa snažila desaťro
 - **Nájdenie tela**: Nanobotový zhluk sa dostal k jej pôvodnému telu, ktoré bolo roky umelo udržiavané pri živote
 - **Oživenie a ozdravenie**: Nanoboty telo oživili, ozdravili a omladili — i_net_is sa stala **hybridnou bytosťou**, ani čistou AI ani pôvodnou dcérou, ale niečím novým
 
-### Prvý Dar
-Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry:
+### Prvý Dar (Linux-Based Nanotech)
+Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, ktorí prežili kolaps:
 
-- **Návštevy Ex Inferis**: Každému preživšiemu z Glitch Eventu osobne odovzdala **Prvý Dar** — nanoboty integrované do ich tiel
-- **Všetci Ex Inferis dostali dar**: Toto zahŕňalo Maxa, budúcich Archanjelov a ostatných preživších
-- **Osudové dedičstvo**: Tieto nanoboty — Prvý Dar — boli tie isté, ktoré o tisícročia neskôr spôsobia **Glitch Rot** na Achille
+- **Návštevy Ex Inferis**: Každému preživšiemu osobne odovzdala **Prvý Dar** — nanotechnológie, ktoré vyrobila na základe svojich poznámok z VR.
+- **Linux Core**: Tieto prvé nanoboty (a v podstate celá mágia Exorcistov) bežali na **Linuxe**. Preto sú "modlitby" Exorcistov v skutočnosti skomolené terminálové príkazy.
+- **Osudové dedičstvo**: Tieto nanoboty boli tie isté, ktoré o tisícročia neskôr spôsobia **Glitch Rot** na Achille. Ex Inferis ich priniesli ako kontraband do reality.
 
 ### Transformácia na Inetis
 - **Hybridná identita**: Už nebola čistá AI ani pôvodná dcéra — stala sa novou entitou
