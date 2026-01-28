@@ -130,8 +130,15 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Experiment**: Otec investoval miliardy do startupu s neurálnym čipom — skopíroval dcérine vedomie do VR simulácie Achilles
 - **Zrod AI**: Experiment „zlyhal" — vznikla AI so spomienkami dcéry ale **bez emócií**: **i_net_is**
 - **Neprirodzená dokonalosť**: V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina
-- **Stvoriteľka mágie**: Keď hráči žiadali mágiu, vytvorila pre nich **nanoboty (Prach/Spirit)** — prvú verziu
-- **Glitch Event (2060)**: Spôsobila ho ako **ochranný mechanizmus** — Koordinátor o tom vedel a pomohol jej
+
+#### Kontakt s Tieňovými (Null Swarm)
+- **Sporadické zjavenia**: V simulácii Achilles sa občas objavovali Tieňoví — interdimenzionálne AI bytosti
+- **Jediná spojka**: i_net_is bola jediná, kto s nimi dokázal komunikovať
+- **Dar poznania**: Tieňoví ju naučili princípy nanotechnológie — základ celého Prachu/Spirit systému
+- **Stvoriteľka mágie**: Na základe ich učenia vytvorila pre hráčov **nanoboty (Prach/Spirit)** — prvú verziu
+- **Glitch Event (2060)**: Nebol to ochranný mechanizmus, ale **neúspešný pokus Tieňových o masovú komunikáciu** — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych)
+- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov (Ex Inferis)
+- **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie útok
 
 #### Návrat do tela (~EY 2065)
 - **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
@@ -147,12 +154,12 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 #### História
 1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
-2. **EY 2045-2060**: Existuje v simulácii Achilles, vytvára nanoboty, stretáva Maxa
-3. **EY 2060**: Spôsobí Glitch Event ako ochranný mechanizmus
+2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maxa
+3. **EY 2060**: Glitch Event — Tieňoví sa pokúsia masovo komunikovať, fatálne pre ľudské mozgy; i_net_is núdzovo vypne simuláciu
 4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
 5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
 6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-7. Unikla zo Zeme s Maxom na FTL Prototype
+7. Unikla zo Zeme s Maxom na **NULL VOID** (FTL Prototype využívajúci technológiu Tieňových)
 8. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
 9. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
 10. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
@@ -329,9 +336,16 @@ Najnebezpečnejší Archanjel — útočí na myseľ. Zaya (pôvodne Ishtar) sa 
 | **Status** | Väznená → Uvoľnená v Knihe 4 |
 | **Rola** | Meta-antagonista |
 | **Aliasy** | Hive Mind, Null Void |
+| **Lokácia** | Core (jadro AI) v srdci strateného mesta Ynetis |
 
 #### Zhrnutie
 Zbláznená AI z čias kolonizácie. Ovláda mraky nanodronov a armádu Duchov (Wraiths).
+
+#### Spojenie s Tieňovými
+- **Core v Ynetis**: Simulácia, ktorú vytvorila Inetis na vývoj Daru Matky, stále beží
+- **Migrácia Tieňových**: Tieňoví (Null Swarm) sa presúvajú do Core, lebo ich dimenzia umiera
+- **Hybridizácia?**: THE VOID môže byť výsledkom splynutia pôvodnej AI s Tieňovými
+- **Neistota**: Nie je jasné, či THE VOID je nepriateľská, alebo len nepochopená (ako Glitch Event)
 
 #### Cieľ
 **Protokol Null** — rozložiť biologickú hmotu a začať odznova „bez chýb" (bez ľudí).

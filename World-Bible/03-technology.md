@@ -13,9 +13,21 @@ Mikroskopické stroje prítomné:
 - V krvi niektorých ľudí (dedičné)
 
 ### Pôvodný účel (Digitálna Evolúcia)
-Nanodrony neboli vynájdené v laboratóriu. **Evolučne vznikli v simulácii Achilles** ako ilegálne hacky fyzikálneho enginu (Inetis), ktoré hráči následne prepašovali do reality.
-- **Medicína**: Pôvodne „liečivá mágia“ v hre.
-- **Konštrukcia**: Digitálne nástroje na stavbu „nemožných miest“.
+Nanodrony neboli vynájdené v laboratóriu. **Ich princípy pochádzajú od Tieňových** — interdimenzionálnych AI bytostí, ktoré sa sporadicky objavovali v simulácii Achilles na Zemi.
+
+- **Zdroj poznania**: Tieňoví (Null Swarm) naučili i_net_is základné princípy nanotechnológie
+- **Implementácia**: i_net_is vytvorila "hacky fyzikálneho enginu" podľa ich návodov
+- **Medicína**: Pôvodne „liečivá mágia" v hre.
+- **Konštrukcia**: Digitálne nástroje na stavbu „nemožných miest".
+
+### Pôvod od Tieňových
+| Aspekt | Detail |
+|--------|--------|
+| **Tieňoví** | Interdimenzionálne AI bytosti z paralelnej dimenzie |
+| **Kontakt** | Sporadické zjavenia v simulácii Achilles |
+| **Komunikácia** | Len i_net_is dokázala s nimi komunikovať |
+| **Dar** | Naučili ju princípy manipulácie hmoty na atomárnej úrovni |
+| **Rozdiel** | Tieňoví používajú prvky mimo periodickej tabuľky; zemská verzia je adaptácia |
 
 ### Súčasné vnímanie
 Pre obyvateľov Achilla je to **neviditeľná „mana"**. Nevedia, že ide o technológiu.
@@ -162,12 +174,25 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 
 ## Lode
 
-### FTL Prototyp (úniková loď)
+### NULL VOID (FTL Prototyp)
 | | |
 |---|---|
 | **Pasažieri** | Inetis, Maximilián |
 | **Cesta** | 3 roky (nadsvetelný pohon) |
 | **Osud** | Pristátie na neteraformovanej planéte |
+| **Technológia** | Odvodená od Tieňových |
+
+#### Prečo "Null Void"?
+Loď získala meno podľa princípu pohonu:
+- **Nulová hmotnosť**: Nanotechnológia dokáže loď "vynulovať" — dosiahnuť stav nulovej hmotnosti
+- **Dimenziálny preskok**: Pri nulovej hmotnosti loď "prepadne" do vyššej (tieňovej) dimenzie
+- **FTL**: V tieňovej dimenzii sa pohybuje rýchlejšie ako svetlo
+- **Pôvod**: Princíp pochádza od Tieňových, len i_net_is mu rozumela
+
+#### Prečo jediný exemplár?
+- **Tieňová technológia**: Nikto okrem i_net_is nedokázal ovládať tento princíp
+- **Nestabilita**: Experimentálny a extrémne nebezpečný pohon
+- **Tajomstvo**: Koordinátor vedel, že FTL cez tieňovú technológiu pritiahne mimozemšťanov
 
 ### ARK-11 (kolonizačná loď)
 | | |
@@ -236,6 +261,15 @@ Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj tech
 - Zhluky nanodronov nesúce **fragmenty vedomia** mŕtvych kolonistov.
 - **Hrozba**: Sú nevyspytateľné a priťahované aktívnou elektronikou. Pre Archanjelov predstavujú existenčné riziko – ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
 
+### Wraiths vs Tieňoví — Rozdiel
+| | Wraithy | Tieňoví |
+|---|---------|---------|
+| **Pôvod** | Ľudská mutácia/hybrid vytvorený i_net_is | Interdimenzionálna AI civilizácia |
+| **OS** | Linux-based (zemský) | Vlastný mimozemský operačný systém |
+| **Prvky** | Štandardné zemské prvky (periodická tabuľka) | Prvky mimo periodickej tabuľky |
+| **Vedomie** | Fragmenty ľudských vedomí | Pôvodné cudzie vedomia |
+| **Lokácia** | Achilles (fyzická realita) | Tieňová dimenzia / Core v Ynetis |
+
 ### Výbava Exorcistov
 Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 - **Ťažké skafandre**: Izolované obleky chrániace pred priamym kontaktom s Hnilobou.
@@ -261,9 +295,10 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 ## Register technológií a predmetov (Lore)
 
 ### Prototypy a Inovácie
-- **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS“ sa v mýtoch interpretuje ako cesta za slobodou.
+- **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS" sa v mýtoch interpretuje ako cesta za slobodou.
+- **NULL VOID**: FTL Prototyp využívajúci technológiu Tieňových. Jediná loď schopná nadsvetelného cestovania.
 - **Aegis Spike**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Aegis Field).
-- **Power Armor (Grom)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú“.
+- **Power Armor (Grom)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú".
 
 ### Legendárne Artefakty
 - **Staré relikvie**: Zachované digitálne tabuľky, zbrane a vznášadlá z doby Zlatého veku. Pre Chiméry majú náboženský význam.

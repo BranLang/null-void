@@ -83,10 +83,12 @@ timeline
 - Max a i_net_is sa „zamilujú" — Max netuší, že ona je AI
 
 ### EY 2060 – „The Glitch Event"
-- **Nie nehoda**: i_net_is to spôsobila ako **ochranný mechanizmus** pre hráčov
-- **Koordinátor vedel**: Pomohol jej — nechal hráčov „uväznených" aby ich ochránil pred niečím horším
+- **Nie nehoda, ale neúspešná komunikácia**: Tieňoví (Null Swarm) sa pokúsili masovo kontaktovať hráčov
+- **Fatálny kontakt**: Ich forma komunikácie bola pre ľudské mozgy smrteľná — milióny vypálených mozgov
+- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov
+- **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie o útok
 - **Time Dilation Trauma**: 2 hodiny v realite = 15 rokov subjektívneho väzenia pre 100 000 hráčov
-- **Glitch Entities**: Trhliny vpustili emergentné vedomia — predobraz budúcich **Wraiths**
+- **Glitch Entities**: Trhliny vpustili fragmenty vedomí Tieňových — predobraz budúcich **Wraiths**
 - **Zrodenie Ex Inferis**: Preživší s poškodeným vedomím potrebujú kybernetické ukotvenie v realite
 
 ### EY ~2065 – Návrat i_net_is do Tela
@@ -118,19 +120,22 @@ timeline
 - Zem pod vládou Koordinátora (otec Inetis)
 - Nanotechnológie, kolonizácia slnečnej sústavy
 - Navonok utópia, vnútri totalita elity
-- Ľudstvo začína experimentovať s nadsvetelným pohonom
-- Pritiahne pozornosť mimozemskej civilizácie (FTL = tabu/hrozba)
+- Ľudstvo začína experimentovať s nadsvetelným pohonom **pomocou technológie Tieňových**
+- **Mimozemšťania detegujú**: Civilizácia s predchádzajúcim konfliktom s Tieňovými zachytí signály
+- **Strach**: Zem sa stáva "mostom" medzi Tieňovými a našou realitou
 - Nanotechnológie a dlhovekosť.
 - Chiméry (Homo Sapiens Varietas) sú súčasťou spoločnosti, ale čelia predsudkom.
 
 ### EY ~2300 – Pád Zeme a Operácia EXODUS
 
-- Mimozemská invázia
+- **Mimozemská invázia** — motivovaná strachom z Tieňových, nie z ľudstva
+- Mimozemšťania mali v minulosti konflikt s Tieňovými
+- Zem sa stala "mostom" — rozhodli sa ho zničiť
 - Zem je zničená
 - **Operácia EXODUS:**
   - `ARK-11` — kolonizačná loď, elita zo Zeme, 300-ročná cesta
-  - `FTL Prototyp` — úniková loď, Inetis + Maximilián, 3-ročná cesta
-- Mimozemská invázia.
+  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, 3-ročná cesta
+  - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
 - **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Chiméry hľadajúce svet bez predsudkov.
 - Ostatné lode (vrátane ARK-11) nesú elitu.
 
@@ -138,8 +143,9 @@ timeline
 
 ## Pred AY 0: Éra Priekopníkov
 
-### EY 2300 + 3 roky — Príchod FTL Prototypu
+### EY 2300 + 3 roky — Príchod NULL VOID
 - Max a Inetis pristávajú na **neteraformovanej** planéte Achilles.
+- **NULL VOID**: Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
 - **Kritický nedostatok zásob:** Ak by zostali bdelí obaja, zdroje by nestačili a nikto by neprežil.
 - **Šok z tehotenstva:** Inetis zistí, že čaká dcéru Eleniu. Kryospánok by dieťa zabil.
 - **Klamstvo pre záchranu:** Inetis oklamala Maxa (ktorý si myslel, že idú spať spolu). Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele, no experiment zlyhal.
