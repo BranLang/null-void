@@ -33,7 +33,7 @@ timeline
     3000 : Prebudenie Maximiliána
     3001 : Duel Samaell vs Max : Smrť Samaella
     3008 : Tami odchádza od Maxa
-    3013 : Začiatok hlavného deja : Vojna Graw vs Nev'riss
+    3013 : Začiatok hlavného deja : Vojna Graw vs Nevriss
 ```
 
 ---
@@ -304,9 +304,9 @@ timeline
     - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma
     - Vidí upálenie priateľov kvôli nálezu Aegis Spike
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
-    - **Opening**: Vzducholoď pristáva v nočnom meste Sho'raven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
-    - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Sho'raven
-    - **Vojna**: Graw (Sever) útočí na Nev'riss (Juh) — chaos, ktorý plánujú využiť
+    - **Opening**: Vzducholoď pristáva v nočnom meste Shoraven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
+    - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Shoraven
+    - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
     - Max (xenofób z minulosti) musí spolupracovať s Tami (Chimérou-mágom).
 

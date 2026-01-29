@@ -44,7 +44,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - **Klíma:** Mierne až chladné. Teplejšie údolia pri geotermálnych prameňoch. V lete pripomína stredoeurópsky podnebíe; v zime arktické.
 - **Fauna:** Geneticky modifikované zvieratá (nebezpečné), prispôsobené chladu.
 - **Ynetis:** Stratené ostrovné mesto vzniklo v najteplejšej časti rovníkového pásu.
-- **Všetky kráľovstvá** (Graw, Nev'riss) sa nachádzajú v tomto páse.
+- **Všetky kráľovstvá** (Graw, Nevriss) sa nachádzajú v tomto páse.
 
 ### Mimo rovníka — Mŕtva zóna
 - **Nekonečný ľad.** Žiadny život, žiadna civilizácia.
@@ -71,10 +71,10 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
                     ║      (Pohorie - hranica)              ║
                     ╠═══════════════════════════════════════╣
                     ║           JUŽNÁ KRAJINA               ║
-                    ║           N E V ' R I S S             ║
+                    ║           N E V R I S S             ║
                     ║     (Kult Vševedúcej Matky)           ║
                     ║   🕊️ Obchodná, teokratická            ║
-                    ║      ⚓ SHO'RAVEN (prístav)           ║
+                    ║      ⚓ SHORAVEN (prístav)           ║
                     ╚═══════════════════════════════════════╝
                               ~ ~ ~ MORE ~ ~ ~
     ─ ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─ ─
@@ -84,7 +84,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 ```
 
 > **Poznámka:** Celý kontinent sa nachádza v úzkom obyvateľnom páse okolo rovníka.
-> Graw je bližšie k hranici ľadu (chladnejší, drsnejší). Nev'riss je bližšie k rovníku (miernejší, úrodnejší).
+> Graw je bližšie k hranici ľadu (chladnejší, drsnejší). Nevriss je bližšie k rovníku (miernejší, úrodnejší).
 
 ---
 
@@ -113,7 +113,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 ### Príčina vojny (AY ~3013)
 - **5-ročná zima**: Devastovala zásoby Severu
 - **Zlé plánovanie**: Nedostatok jedla
-- **Odmietnutie obchodu**: Nev'riss odmieta obchodovať s "bezvercami"
+- **Odmietnutie obchodu**: Nevriss odmieta obchodovať s "bezvercami"
 - **Riešenie**: Vojenská expanzia na Juh
 
 ---
@@ -123,25 +123,25 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 | | |
 |---|---|
 | **Starý názov** | **Neverice** (Never-Ice = "nikdy ľad") |
-| **Chimérsky názov** | **Nev'riss** (so syčaním na konci) |
+| **Chimérsky názov** | **Nevriss** (so syčaním na konci) |
 | **Veľkosť** | Približne ako Taliansko |
 | **Vláda** | Rada Veľkňažiek (matriarchát) |
 | **Náboženstvo** | Kult Vševedúcej Matky |
 | **Charakter** | Obchodný, liberálnejší, teokratický |
 
-### Hlavné Mesto: SHO'RAVEN
+### Hlavné Mesto: SHORAVEN
 
 | | |
 |---|---|
 | **Starý názov** | **Shorehaven** (Shore-Haven = "Prístavné útočisko") |
-| **Chimérsky názov** | **Sho'raven** |
+| **Chimérsky názov** | **Shoraven** |
 | **Lokácia** | Pobrežie, najväčší prístav na kontinente |
 | **Charakter** | Multikultúrny hub, obchodné a náboženské centrum |
 | **Dominanta** | Hlavný Chrám Vševedúcej Matky |
-| **Ekonomika** | Gildový systém, slobodný obchod, burza (Sho'bors) |
+| **Ekonomika** | Gildový systém, slobodný obchod, burza (Shobo) |
 
 #### Obchod a Gildy
-- **Sho'bors (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Sp'ira kryštály
+- **Shobo (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Sp'ira kryštály
 - **Gildové haly**: Každá gilda (Kováčov, Kupcov, Aeronautov, Hodinárov...) má vlastnú halu a radu
 - **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát), tu obchoduje každý
 - **Dvojmocenstvo**: Cirkev vládne duchom, gildy peňaziam — obidve strany sa navzájom potrebujú
@@ -243,7 +243,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Ostrov Ynetis (Centrálny uzol)**: Centrum Zlatého veku; dnes ruiny pohltené „Duchmi".
 - **Jaskyňa Inetis**: Miesto jej posledného odpočinku a nálezu denníkov.
 - **Jaskyňa Počiatku**: Východná divočina; miesto narodenia Elenie a nálezu Aegis Spike.
-- **Sho'raven**: Hlavné prístavné mesto Nev'riss; Hlavný Chrám s Aegis Spike v kobkách.
+- **Shoraven**: Hlavné prístavné mesto Nevriss; Hlavný Chrám s Aegis Spike v kobkách.
 - **Železná Citadela**: Hlavné mesto Graw pod pohorím.
 - **Ruiny laboratórií**: Bývalá doména Samaella; miesto experimentov s nanotechom.
 - **Core (Jadro AI)**: V srdci strateného mesta Ynetis. Tu Inetis vytvorila malú simuláciu pre vývoj Daru Matky. Teraz väzenie AI THE VOID.
