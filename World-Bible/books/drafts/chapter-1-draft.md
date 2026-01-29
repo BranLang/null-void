@@ -1,4 +1,4 @@
-# Draft: Prologue
+# Prológ
 
 Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň. Okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
 
@@ -97,11 +97,9 @@ Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval kra
 
 Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi, trojhranný klobúk pod pazuchou. Vyzeral vyčerpaný — kruhy pod očami, neoholená brada. Človek, čo nespal niekoľko nocí. Za ním sa tiesnil tucet vojakov po zuby vyzbrojených predovkami a rapiermi. Jeden z nich mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niektorý z nich obzrel smerom na oblohu.
 
-„Dobré ráno, vitajte v Ynetis." Prihovoril sa oficier a Tami stuhla.
+„Dobré ráno, vitajte v Sho." Prihovoril sa oficier a Tami stuhla.
 
-*Ynetis?*
-
-Tak *tomuto* hovoria Ynetis? Stratené mesto bohov, kolíska civilizácie — *toto* je ono? Smogom zahalená priemyselná diera plná uhlia, fanatikov a predoviek?
+*Sho?*
 
 Potlačila nutkanie sa nahlas zasmiať. *Otec by plakal.*
 
@@ -125,9 +123,9 @@ Dostojník zostal zaskočený. „Pane, pri všetkej úcte, nepoznám význam sl
 
 Oficier sa narovnal. „Pýtam sa teda naposledy. Odkiaľ prichádzate?"
 
-„Z východu," zopakoval Max bez mihnutia oka. Krátka odmlka. „Zo zeme na druhej strane veľkého oceánu, ktorej komplikovaný názov vám aj tak nič nepovie."
+„Z východu," zopakoval Max bez mihnutia oka. Krátka odmlka. „Zo slobodného mesta Kito"
 
-„Na druhej strane oceánu nič nie je!" protestoval dostojník.
+„Kito je legenda!" protestoval dostojník.
 
 „V tom prípade som asi spadol z neba." Usmial sa Maximilián.
 
@@ -139,9 +137,9 @@ Podišla k Maxovi a rafinovane sa naklonila cez zábradlie. Nechala si čas, aby
 
 Vojaci pri pohľade na ňu skameneli.
 
-Tami si nikdy nerobila ilúzie o svojom vzhľade, ale vedela, že pre miestnych bola... *nezvyčajná.* Štíhla postava v priliehavom leteckom kabáte, korzet zvýrazňujúci krivky, zafírové oči pod leteckými okuliarmi na čele a — samozrejme — to, čo nemohla skryť. Uši. Dve líščie uši trčiace z havraních vlasov. A keby sa otočila, pušistý chvost.
+Tami si nikdy nezakladala na svojom vzhľade, ale vedela, že pre miestnych bola... *nezvyčajná.* Štíhla postava, korzet zvýrazňujúci krivky, zafírové oči pod leteckými okuliarmi na čele a — samozrejme — to, čo nemohla skryť. Uši. Dve líščie uši trčiace z gaštanových vlasov. A keby sa otočila, pušistý chvost.
 
-V krčmách na východe si už na ňu zvykli. Tu, v srdci Nev'riss, kde Kult Vševedúcej Matky učil, že Chiméry sú *požehnané deti*, bola pravdepodobne vítaná. Ale vojaci boli vojaci. A krásna žena bola krásna žena.
+V krčmách na východe si už na ňu zvykli. Tu, v srdci Nevriss, kde Kult Vševedúcej Matky učil, že Chiméry sú *požehnané deti*, bola pravdepodobne vítaná. Ale vojaci boli vojaci. A krásna žena bola krásna žena.
 
 *Aj keď má líščie uši.*
 
