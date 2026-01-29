@@ -5,7 +5,7 @@
 
 ---
 
-## Nanodrony („The Dust" / Mana)
+## Nanodrony („The Dust" / Sp'ira)
 
 ### Podstata
 Mikroskopické stroje prítomné:
@@ -29,8 +29,8 @@ Nanodrony neboli vynájdené v laboratóriu. **Ich princípy pochádzajú od Tie
 | **Dar** | Naučili ju princípy manipulácie hmoty na atomárnej úrovni |
 | **Rozdiel** | Tieňoví používajú prvky mimo periodickej tabuľky; zemská verzia je adaptácia |
 
-### Súčasné vnímanie
-Pre obyvateľov Achilla je to **neviditeľná „mana"**. Nevedia, že ide o technológiu.
+### Súčasné vnímanie — Sp'ira
+Pre obyvateľov Achilla je to **Sp'ira** (z pôvodného *Spirit*, skomolené cez 3000 rokov). Neviditeľná magická sila, dar Matky. Nevedia, že ide o technológiu. Koncentrácia Sp'iry v krvi určuje kastu a spoločenské postavenie (viď `06-society.md`).
 
 ---
 
