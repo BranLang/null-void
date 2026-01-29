@@ -1,8 +1,37 @@
-# Kapitola 1: Šedý Prístav
+# Draft: Prologue
+
+Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň. Okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
+
+Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
+
+Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Jej štíhlu postavu zvýrazňoval šnurovací korzet zakrývajúci bielu košieľku. Na hrubom opasku obnosených nohavíc visel pár automatických pištolí. Dlhé havranie vlasy jej čiastočne zakrývala kapucňa, spod ktorej sa magicky, ako drahokamy, trblietali šibalské zafírové oči.
+
+Jej zrak spočinul v kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
+
+“Tami,” ozval sa hlas spoza stola.
+
+"Max, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky,” poznamenala s úctihodnou dávkou irónie. “Sme na mieste. Daj sa dokopy,” dodala pre zmenu so súcitom v hlase.
+
+Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?“
+
+Otázka ju zaskočila. Dvere sa hlasito zabuchli.
 
 ---
 
-Krvavo červené lúče slnka sa predierali cez temný opar zahaľujúci mesto.
+Tami sa presunula na provu lode. Pokojná nočná obloha posiata hviezdami beznádejne zanikala v žiare prichádzajúcej zdola. Nekonečná metropola sa rozprestierala až za horizont. Tami s úžasom hľadela na milióny farebných bodiek mihotajúcich sa v diaľke dolu na zemi. Rozpoznala paláce, katedrály, mosty, železnice, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom.
+
+Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že palubný kanón je dostatočne zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na zahájenie pristávacieho manévru.
+
+Vzducholoď naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
+
+***
+
+# Kapitola 1
+## Šedý Prístav
+
+> *Krvavo červené lúče slnka sa predierali cez temný opar zahaľujúci mesto.*
+
+---
 
 Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Márne. Vzduch bol hustý, mastný, presiaknutý uhoľným prachom a železitou chuťou, ktorá sa usádzala na jazyku. Miestni obyvatelia každý deň spálili tisíce ton uhlia v kotloch a peciach. Celé mesto dýchalo čiernym dymom ako obrovské chorľavé zviera.
 
