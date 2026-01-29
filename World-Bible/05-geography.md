@@ -174,6 +174,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu (podobné Alpám).
 ### 1. Kráter (The Crash Site)
 - **Lokácia:** Stred kontinentu.
 - **Popis:** Miesto pristátia lode EXODUS (Ark-11). Svätá zem Kultu Matky.
+- **Popis:** Miesto pristátia lode EXODUS (Ark-11). Svätá zem Kultu Matky.
 - **Rádioaktivita:** Nanotech radiácia ("The Dust" je tu najhustejší).
 
 ### 2. Severná Pustatina (Graw)
