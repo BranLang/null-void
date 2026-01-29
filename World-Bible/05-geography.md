@@ -25,40 +25,46 @@ Keďže gravitácia je dvojnásobná, ľudia sa museli adaptovať (biologicky aj
 
 ## Klíma a Prostredie
 
-Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
+Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšina povrchu zostala nehostinná.
 
-### Všeobecná klíma
-- **Veľmi chladná** (priemerná teplota nižšia ako na Zemi).
-- Väčšina povrchu je pokrytá **boreálnymi lesmi** a tundrou.
-- Džungle existujú len v rovníkovom páse (zvyškové teplo + terraforming).
+### Všeobecná klíma — Zamrznutý svet
+- **Celá planéta je zamrznutá.** Achilles je ľadový svet — povrch je takmer úplne pokrytý ľadom, snehom a permafrostom.
+- **Jediná obyvateľná zóna** je úzky pás okolo **rovníka**, kde kombinácia slnečného žiarenia, geotermálnej aktivity a zvyškovej teraformácie udržiava teploty nad bodom mrazu.
+- Tento rovníkový pás je **všetko, čo civilizácia Chimér pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta".
+- Pás nie je tropický raj — je to drsná, chladná krajina s boreálnymi lesmi, tundrou a občasnými teplejšími údoliami. Džungle existujú len v najchránenejších oblastiach (geotermálne pramene + zvyšky terraformingu).
 
 ### Sezónny cyklus
-- **Zimy trvajú 5 rokov** — devastujúce pre poľnohospodárstvo
+- **Zimy trvajú 5 rokov** — devastujúce pre poľnohospodárstvo. Aj v rovníkovom páse teploty klesajú k bodu mrazu, ľadovce sa posúvajú bližšie.
 - **Meranie veku Chimér**: V počte prežitých zím (napr. "Má 12 zím" = ~60 rokov)
-- **Dlhé letá**: Obdobia hojnosti, kedy sa krajiny zásobujú na ďalšiu zimu
-- **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám
+- **Dlhé letá**: Obdobia hojnosti, kedy sa krajiny zásobujú na ďalšiu zimu. Rovníkový pás sa rozšíri, niektoré oblasti sú dočasne obývateľné.
+- **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám. Počas zím sa obyvateľný pás zúži a krajiny bojujú o priestor.
 
-### Rovníkový pás (Obyvateľná zóna)
-- **Klíma:** Tropická, vlhká džungľa.
-- **Fauna:** Plné geneticky modifikovaných zvierat (nebezpečné).
-- **Ynetis:** Stratené ostrovné mesto vzniklo práve tu (najlepšie podmienky).
+### Rovníkový pás (Jediná obyvateľná zóna)
+- **Šírka:** Úzky pás nad a pod rovníkom — všetko ostatné je ľad.
+- **Klíma:** Mierne až chladné. Teplejšie údolia pri geotermálnych prameňoch. V lete pripomína stredoeurópsky podnebíe; v zime arktické.
+- **Fauna:** Geneticky modifikované zvieratá (nebezpečné), prispôsobené chladu.
+- **Ynetis:** Stratené ostrovné mesto vzniklo v najteplejšej časti rovníkového pásu.
+- **Všetky kráľovstvá** (Graw, Nev'riss) sa nachádzajú v tomto páse.
 
-### Mimo rovníka
-- Nekonečné zasnežené lesy, ľadové pustatiny.
-- Domov "divých" kmeňov a samotárov.
+### Mimo rovníka — Mŕtva zóna
+- **Nekonečný ľad.** Žiadny život, žiadna civilizácia.
+- Teploty hlboko pod nulou po celý rok.
+- Občasné expedície sa vydávajú do ľadových pustatín za vzácnymi minerálmi, ale väčšina sa nevráti.
+- Legendy hovoria o "mestách pod ľadom" — pozostatkoch neúspešných kolónií z Éry Zlatého veku.
 
 ---
 
 ## Politická Geografia Hlavného Kontinentu
 
-### Mapa Hlavného Kontinentu
+### Mapa Hlavného Kontinentu (Rovníkový pás)
 
 ```
+    ❄️❄️❄️❄️❄️❄️❄️ ZAMRZNUTÁ ZÓNA (neobývateľná) ❄️❄️❄️❄️❄️❄️❄️
+    ┄┄┄┄┄┄┄┄┄┄┄┄┄ hranica ľadu ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
                     ╔═══════════════════════════════════════╗
                     ║           SEVERNÉ KRÁĽOVSTVO          ║
                     ║              G R A W                  ║
                     ║     (Kult Nesmrteľného Groma)         ║
-                    ║                                       ║
                     ║   ⚔️ Militantné, expanzívne           ║
                     ╠═══════════════════════════════════════╣
                     ║ ▲▲▲ GRIM'SPAJN / KEL'MORAH ▲▲▲       ║
@@ -67,13 +73,18 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
                     ║           JUŽNÁ KRAJINA               ║
                     ║           N E V ' R I S S             ║
                     ║     (Kult Vševedúcej Matky)           ║
-                    ║                                       ║
                     ║   🕊️ Obchodná, teokratická            ║
-                    ║                                       ║
                     ║      ⚓ SHO'RAVEN (prístav)           ║
                     ╚═══════════════════════════════════════╝
                               ~ ~ ~ MORE ~ ~ ~
+    ─ ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                              ~ ~ ~ MORE ~ ~ ~
+    ┄┄┄┄┄┄┄┄┄┄┄┄┄ hranica ľadu ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+    ❄️❄️❄️❄️❄️❄️❄️ ZAMRZNUTÁ ZÓNA (neobývateľná) ❄️❄️❄️❄️❄️❄️❄️
 ```
+
+> **Poznámka:** Celý kontinent sa nachádza v úzkom obyvateľnom páse okolo rovníka.
+> Graw je bližšie k hranici ľadu (chladnejší, drsnejší). Nev'riss je bližšie k rovníku (miernejší, úrodnejší).
 
 ---
 
@@ -127,6 +138,14 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony).
 | **Lokácia** | Pobrežie, najväčší prístav na kontinente |
 | **Charakter** | Multikultúrny hub, obchodné a náboženské centrum |
 | **Dominanta** | Hlavný Chrám Vševedúcej Matky |
+| **Ekonomika** | Gildový systém, slobodný obchod, burza (Sho'bors) |
+
+#### Obchod a Gildy
+- **Sho'bors (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Sp'ira kryštály
+- **Gildové haly**: Každá gilda (Kováčov, Kupcov, Aeronautov, Hodinárov...) má vlastnú halu a radu
+- **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát), tu obchoduje každý
+- **Dvojmocenstvo**: Cirkev vládne duchom, gildy peňaziam — obidve strany sa navzájom potrebujú
+- **Čierny trh**: Podzemný obchod s relíkviami, zakázanými zbraňami a mapami tunelov
 
 #### Rola v príbehu
 - **Opening scéna**: Vzducholoď pristáva v nočnom meste
@@ -158,18 +177,22 @@ Mohutné pohorie oddeľujúce Sever od Juhu (podobné Alpám).
 - **Rádioaktivita:** Nanotech radiácia ("The Dust" je tu najhustejší).
 
 ### 2. Severná Pustatina (Graw)
-- **Vzhľad:** Priemyselná zima, ťažobné veže, "hrdzavé peklo".
+- **Vzhľad:** Priemyselná zima pri severnom okraji obyvateľného pásu. Ťažobné veže, "hrdzavé peklo".
 - **Ruiny:** Pozostatky "hernej architektúry" - **grécke stĺpy z 3D tlače** vedľa bunkrov. Pôsobia surrealisticky v snehu.
 - **Vládca**: "Nesmrteľný Grom" (dynastia v Power Armor)
+- **Klíma:** Najchladnejšia obývaná oblasť — na hranici ľadovej zóny. Počas 5-ročných zím je takmer neobývateľná.
 
 ### 3. Pevnina (The Wasteland)
-- Územie nikoho medzi kráľovstvami.
+- Územie nikoho medzi kráľovstvami, v rámci rovníkového pásu.
 - Neexistujú kvalitné cesty → cestovanie je náročné.
 - Domov bandítov, exorcistov a samotárov.
+- Na okrajoch pásu prechádza do zamrznutej pustatiny.
 
 ---
 
 ## Ostatné Kontinenty
+
+> Všetky obývané kontinenty sa nachádzajú v rovníkovom páse. Mimo tohto pásu je len ľad.
 
 ### Južný Kontinent (Doména Ishtar/Zayi)
 
