@@ -8,11 +8,11 @@ Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabá
 
 Jej zrak spočinul v kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
 
-“Tami,” ozval sa hlas spoza stola.
+"Tami," ozval sa hlas spoza stola.
 
-"Max, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky,” poznamenala s úctihodnou dávkou irónie. “Sme na mieste. Daj sa dokopy,” dodala pre zmenu so súcitom v hlase.
+"Max, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky," poznamenala s úctihodnou dávkou irónie. "Sme na mieste. Daj sa dokopy," dodala pre zmenu so súcitom v hlase.
 
-Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?“
+Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?"
 
 Otázka ju zaskočila. Dvere sa hlasito zabuchli.
 
@@ -33,33 +33,35 @@ Vzducholoď naberala rýchlosť. Mladá kapitánka si rituálne nasadila leteck�
 
 ---
 
-Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Márne. Vzduch bol hustý, mastný, presiaknutý uhoľným prachom a železitou chuťou, ktorá sa usádzala na jazyku. Miestni obyvatelia každý deň spálili tisíce ton uhlia v kotloch a peciach. Celé mesto dýchalo čiernym dymom ako obrovské chorľavé zviera.
+Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Márne. Vzduch bol hustý, mastný, presiaknutý uhoľným prachom a železitou chuťou, ktorá sa usádzala na jazyku. Miestni každý deň spálili tisíce ton uhlia v peciach a kotloch. Celé mesto dýchalo čiernym dymom ako obrovské chorľavé zviera.
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou. V tme bolo Shoraven krásne. Za dňa bolo peklo.
 
-Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov — mužík v budke na konci móla kričal do lievikovej trúby napojenej na pneumatickú rúrkovú sieť, a jeho hlas sa ozýval z každého rohu prístavu. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. Ich hlasy zosilňovali obrovské mosadzné zvony a dutiny vytesané priamo do kamenných veží — akustická architektúra, nie elektrika. Na tomto svete bola elektrika tabu. *„Sp'ira Matky prúdi v nás. Sp'ira Matky nás ochráni."* Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Shoraven sa chystalo na vojnu.
+Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov — mužík v budke na konci móla kričal do lievikovej trúby napojenej na pneumatickú rúrkovú sieť a jeho hlas sa ozýval z každého rohu prístavu. Medzi tým sa z chrámových veží niesol monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. Ich hlasy zosilňovali obrovské mosadzné zvony a dutiny vytesané priamo do kamenných veží — akustická architektúra, nie elektrika. Na tomto svete bola elektrika tabu. *„Sp'ira Matky prúdi v nás. Sp'ira Matky nás ochráni."* Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Shoraven sa chystalo na vojnu.
 
-Grawská armáda pochodovala z hôr. Zvedy už boli za priesmykmi — to vedela Tami z vlastnej skúsenosti, pretože šrapnel, čo im pred dvoma dňami roztrhol kondenzátor, nebol od bandítov. Boli to Grawské prieskumné vzducholode. Ťažké, pomalé, obrňané koráby s veľkými delami. Presne ten typ, čo letí vpredu a čistí oblohu pred hlavným vojskom.
+Grawská armáda pochodovala z hôr. Zvedy už boli za priesmykmi — to vedela Tami z vlastnej skúsenosti, pretože šrapnel, čo im pred dvoma dňami roztrhol kondenzátor, nebol od bandítov. Boli to grawské prieskumné vzducholode. Ťažké, pomalé, obrňané koráby s veľkými delami. Presne ten typ, čo letí vpredu a čistí oblohu pred hlavným vojskom.
 
 Mesto to vedelo. A mesto sa pripravovalo.
 
 Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žeriavy vyťahovali z jej útrob hrozivo vyzerajúce drevené debny — desiatky, stovky — a nosiči ich na vozíkoch odvážali do skladov. Zbrane. Muškety, delové gule, sudy s pušným prachom, rapiere zabalené v olejovom papieri. Tami cítila ten ostrý pach kovu a konzervačného oleja až sem hore.
 
-Medzi nosičmi sa pohybovali aj automaty — *Tichá Technológia* Synthov. Masívne parné stroje na hrubých hydraulických nohách, s kovovými ramenami zakončenými kliešťami. Žiadna elektrika — len para, stlačený vzduch a presná mechanika. Primitívne na pohľad, hlučné, ale neúnavné. Jeden práve zdvíhal debnu, ktorá by zlomila chrbticu trom mužom, a s mechanikou syčania a kĺbového škrípania ju ukladal na voz. Na hrudi mal vyrazený symbol Matky — päťcípy pentagram — a pod ním sériové číslo vyleptané v mosadzi. Ďalší automat, menší a rýchlejší, sa pohyboval medzi skupinami robotníkov a na otočnom mechanickom valci na hrudi ukazoval vytlačené inštrukcie — kam niesť náklad, kde zložiť debny. Hodinársky strojček vnútri automaticky otáčal správny panel podľa zóny, v ktorej sa nachádzal. Synthy ich navrhli, ale Cirkev ich vlastnila. A to bol v Nevriss rozdiel medzi „existovať" a „existovať legálne".
+Medzi nosičmi sa pohybovali aj automaty — *Tichá Technológia* Synthov. Masívne parné stroje na hrubých hydraulických nohách, s kovovými ramenami zakončenými kliešťami. Žiadna elektrika — len para, stlačený vzduch a presná mechanika. Primitívne na pohľad, hlučné, ale neúnavné. Jeden práve zdvíhal debnu, ktorá by zlomila chrbticu trom chlapom, a s mechanikou syčania a kĺbového škrípania ju ukladal na voz. Na hrudi mal vyrazený symbol Matky — päťcípy pentagram — a pod ním sériové číslo vyleptané v mosadzi. Ďalší automat, menší a rýchlejší, sa pohyboval medzi skupinami robotníkov a na otočnom mechanickom valci na hrudi ukazoval vytlačené inštrukcie — kam niesť náklad, kde zložiť debny. Hodinársky strojček vnútri automaticky otáčal správny panel podľa zóny, v ktorej sa nachádzal. Synthy ich navrhli, ale Cirkev ich vlastnila. A to bol v Nevriss rozdiel medzi „existovať" a „existovať legálne".
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto pekle.
 
 Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane. Jedna z nich — stará Chiméra s jastrabími očami a perím namiesto vlasov — držala nad debnou s mušketami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Sp'ira.* Stará kňažka požehnávala každú zbraň dotykom nanotechnológie, o ktorej verila, že je dych Matky.
 
-Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Sp'ira je s vami!"*
+Za ňou stáli agitátori s parnými trúbami zosilňujúcimi hlas a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Sp'ira je s vami!"*
 
-A medzi tým všetkým — žoldnieri. Tami ich spoznala na prvý pohľad. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina Chimér-lukostrelcov s koženými panciermi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
+A medzi tým všetkým — žoldnieri. Tami ich spoznala na prvý pohľad. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina chimérskych lukostrelcov s koženými panciermi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
 
 Niektorí z nich mali okolo zápästí svietiace tetovanie — značku Sp'iry, dôkaz magických schopností. Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Sp'ira bola v čase vojny mena drahšia než zlato.
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
-Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Spoj pri hlavnom ventile bol roztrhnutý — šrapnel z Grawského prieskumného korába, ktorý ich pred dvoma dňami prepadol nad priesmykom Kel'morah, narobil viac škody, než si pôvodne myslela. Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé lode. Mali väčšie starosti.
+---
+
+Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Spoj pri hlavnom ventile bol roztrhnutý — šrapnel z grawského prieskumného korába, ktorý ich pred dvoma dňami prepadol nad priesmykom Kel'morah, narobil viac škody, než si pôvodne myslela. Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé lode. Mali väčšie starosti.
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
@@ -93,17 +95,11 @@ Vytreštila oči, keď počula hlasy zhora.
 
 Rýchlo si utrela ruky do handry a vyšplhala sa na palubu. Oslnilo ju slnko — alebo to, čo z neho prenikalo cez dymovú clonu. Prižmúrila oči.
 
-Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke a nie dystopické priemyselné peklo pod sebou. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzerá ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
+Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke a nie priemyselné peklo pod sebou. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
 
-Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi, trojhranný klobúk pod pazuchou. Vyzeral vyčerpaný — kruhy pod očami, neoholená brada. Človek, čo nespal niekoľko nocí. Za ním sa tiesnil tucet vojakov po zuby vyzbrojených predovkami a rapiermi. Jeden z nich mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niektorý z nich obzrel smerom na oblohu.
+Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi, trojhranný klobúk pod pazuchou. Vyzeral vyčerpaný — kruhy pod očami, neoholená brada. Človek, čo nespal niekoľko nocí. Za ním sa tiesnil tucet vojakov po zuby vyzbrojených predovkami a rapiermi. Jeden z nich mal na ramene bubienok. A hlavne vyzerali nervózne. Každých pár sekúnd sa niektorý z nich obzrel smerom na oblohu.
 
-„Dobré ráno, vitajte v Ynetis." Prihovoril sa oficier a Tami stuhla.
-
-*Ynetis?*
-
-Tak *tomuto* hovoria Ynetis? Stratené mesto bohov, kolíska civilizácie — *toto* je ono? Smogom zahalená priemyselná diera plná uhlia, fanatikov a predoviek?
-
-Potlačila nutkanie sa nahlas zasmiať. *Otec by plakal.*
+„Dobré ráno. Vitajte v Shoraven," prihovoril sa oficier a Tami si oddýchla. Bežná kontrola.
 
 „S kým mám tú česť? Odkiaľ vedie vaša cesta a aký je dôvod vašej návštevy?" vyzvedal dostojník autoritatívnym tónom.
 
@@ -111,7 +107,7 @@ Tami pozorovala Maxa. Poznala ten jeho výraz — tú drobnú vrásku medzi obo�
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Max sa rozhliadal naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy.
+Max sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy.
 
 „Moje meno je James Tiberius Kirk," povedal nakoniec s ťažko skrývanou otrávenosťou. „Prichádzam z východu a som turista."
 
@@ -121,7 +117,7 @@ Tami si zakryla ústa rukou, aby si oficier nevšimol jej úsmev. Poznala ten t�
 
 Dostojník zostal zaskočený. „Pane, pri všetkej úcte, nepoznám význam slova *turista*. A musím priznať, že váš prízvuk mi vôbec nie je povedomý. Slúžil som dlhé roky na východnej hranici a prepáčte mi moju aroganciu, ale vy nie ste východniar."
 
-*No samozrejme, že nie*, pomyslela si Tami. *Hovorí Starorečou. Angličtinou spred troch tisíc rokov. A aj po trinástich rokoch na tomto svete znie, ako keby si práve objednal jedlo v reštaurácii, ktorá zanikla pred érou Temnoty.*
+*No samozrejme, že nie*, pomyslela si Tami. *Hovorí Starorečou. Jazykom, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril.*
 
 Oficier sa narovnal. „Pýtam sa teda naposledy. Odkiaľ prichádzate?"
 
@@ -133,7 +129,7 @@ Oficier sa narovnal. „Pýtam sa teda naposledy. Odkiaľ prichádzate?"
 
 *A to je presne ten okamih, kedy normálna osoba dostane strach*, pomyslela si Tami. *A presne ten okamih, kedy treba zasiahnuť.*
 
-Vytreštila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadiť s olejovými fľakmi na tvári. „Skontrolovala som kondenzátory, ale netesnia. Strácame veľa kvapaliny," konštatovala vecne, ignorujúc delegáciu červenokabátnikov.
+Vynorila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadiť s olejovými fľakmi na tvári. „Skontrolovala som kondenzátory, ale netesnia. Strácame veľa kvapaliny," konštatovala vecne, ignorujúc delegáciu červenokabátnikov.
 
 Podišla k Maxovi a rafinovane sa naklonila cez zábradlie. Nechala si čas, aby si z kapsy vytiahla handru a pomaly si utrela ruky. Vedela, čo robí. Vedela to veľmi dobre.
 
@@ -151,7 +147,7 @@ Oficier sa hlboko uklonil podľa miestnej etikety a neodpustil si pritom komick�
 
 Tami sledovala, ako červenokabátnici zaujímajú pozície pri doku. Dvaja pri rampe, dvaja na konci móla, ostatní roztrúsení s predovkami na pleciach. *Ochrana*. Pekné slovo pre *stráženie*.
 
-Počkala, kým sa oficier vzdiali. Potom sa otočila k Maxovi.
+Počkala, kým sa oficier vzdialil. Potom sa otočila k Maxovi.
 
 „James Tiberius Kirk," zopakovala pomaly. „To vážne?"
 
@@ -173,7 +169,7 @@ Ticho. Parné motory v doku pod nimi syčali. Niekto niekde kričal mená. Žeri
 
 „Tami—"
 
-„Kondenzátory," prerušila ho. „Ten Grawský šrapnel nás nepekne trafil a spôsobil väčšie škody, ako som odhadovala. Tretí ventil je na výmenu, ale nemáme náhradný. Budem musieť nájsť miestneho kováča, ktorý zvládne tú presnosť." Odvrátila sa od neho a namierila si to k rebríku. „A nepredstavuj sa ako turista. Príde ti stráž. Povedz im, že si obchodník. Obchodníci sem chodia. Turisti nie. Zvlášť teraz, keď sa celé mesto opevňuje."
+„Kondenzátory," prerušila ho. „Ten grawský šrapnel nás nepekne trafil a spôsobil väčšie škody, ako som odhadovala. Tretí ventil je na výmenu, ale nemáme náhradný. Budem musieť nájsť miestneho kováča, ktorý zvládne tú presnosť." Odvrátila sa od neho a namierila si to k rebríku. „A nepredstavuj sa ako turista. Príde ti stráž. Povedz im, že si obchodník. Obchodníci sem chodia. Turisti nie. Zvlášť teraz, keď sa celé mesto opevňuje."
 
 Max prikývol. „Obchodník s čím?"
 
@@ -203,27 +199,27 @@ Zahnala spomienku a vyšla na palubu. Max tam už nebol. Vojaci áno. Dvaja pri 
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastil kov a potom mokré drevo. Vzduch na zemi bol ešte horší než na palube — tu sa uhoľný smog miešal so zápachom ryšavej vody, stojatých kanálov a tisícov potiacich sa tiel.
 
-Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami v vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Sp'iry, Chiméry s výraznými zvieracími črtami, tí, čo nikdy neokúsili mágiu. Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky.
+Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Sp'iry, Chiméry s výraznými zvieracími črtami, tí, čo nikdy neokúsili mágiu. Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky.
 
-*Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s myšacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej parný automat robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
+*Rovné*, pomyslela si Tami s trpkosťou, keď videla ghorskú ženu s myšacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej parný automat robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
-Dnes medzi robotníkmi pochodovali aj vojenskí inžinieri v zelených kabátoch, čo rozkazovali, kde stavať barikády. Na nábreží pribúdali valy z vriec s pieskom. Delostrelectvo. Ťažké kanóny na drevených lafetách, vytiahnuté z lodných podpalubí a namierené smerom k oblohe. Jeden z vojakov — dôstojník Mezra kasty, podľa zelenkastého žiarenia, čo mu občas prebehlo po prstoch — gestikuloval nad mapou a prskal rozkazy. Tami videla, ako ľahkým pohybom ruky nadzdvihol ťažkú debnu a posunul ju o meter. Telekinéza. Remeselná Sp'ira. Pre neho to bolo ako nadýchnuť sa.
+Dnes medzi robotníkmi pochodovali aj vojenskí inžinieri v zelených kabátoch, čo rozkazovali, kde stavať barikády. Na nábreží pribúdali valy z vriec s pieskom. Delostrelectvo. Ťažké kanóny na drevených lafetách, vytiahnuté z lodných podpalubí a namierené smerom k oblohe. Jeden z vojakov — dôstojník kasty Mezra, podľa zelenkastého žiarenia, čo mu občas prebehlo po prstoch — gestikuloval nad mapou a prskal rozkazy. Tami videla, ako ľahkým pohybom ruky nadzdvihol ťažkú debnu a posunul ju o meter. Telekinéza. Remeselná Sp'ira. Pre neho to bolo ako nadýchnuť sa.
 
-Na každom treťom stĺpe visel čerstvý plagát. Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s rapierom, obklopená žiariacimi pentagramami — a pod ním text v miestnom písme: *„BOJOVNÍCI MATKY! SP'IRA MATKY ŤAŽÍ V TVOJICH ŽILÁCH! BRÁŇ SVOJ DOMOV! ZLATO A ČESŤ PRE KAŽDÚ ŠABĽU!"*
+Na každom treťom stĺpe visel čerstvý plagát. Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s rapierom, obklopená žiariacimi pentagramami — a pod ním text v miestnom písme: *„BOJOVNÍCI MATKY! SP'IRA MATKY PRÚDI V TVOJICH ŽILÁCH! BRÁŇ SVOJ DOMOV! ZLATO A ČESŤ PRE KAŽDÚ ŠABĽU!"*
 
 Verbovací plagát. Mesto platilo za mečov. A ešte viac za mečov v rukách niekoho so Sp'irou.
 
 Na rohu stál agitátor Kultu — vychudnutá Chiméra s kozími rohmi a očami plnými fanatického ohňa. Kričal do parnej trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grom je falošný boh! Grom je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* Okolo neho sa zhŕkol malý dav — väčšinou Ghorki, ktorí nemali Sp'iru, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
 
-Okolo nej prúdili prúdy ľudí — slobodní nosiči, vozkári s volskými záprahmi, skupiny námorníkov v rôznych štádiách opitosti a medzi nimi čoraz viac žoldnierov. Skupinka rozložitých mužov v seversky strihnutých kožušinách — dezertéri z Graw? — sa tlačila okolo stánku so zbraňami. Dve Chiméry s havranie čiernymi perami namiesto vlasov preťažili voz s mušketami a teraz nadávali na vola, ktorý odmietal tiahnuť. Jeden z parných automatov im pomohol — zdvihol celý voz na jednej ruke a presunul ho na stranu. Vôl zarehal vďačne.
+Okolo nej prúdili davy — slobodní nosiči, vozkári s volskými záprahmi, skupiny námorníkov v rôznych štádiách opitosti a medzi nimi čoraz viac žoldnierov. Skupinka rozložitých mužov v seversky strihnutých kožušinách — dezertéri z Graw? — sa tlačila okolo stánku so zbraňami. Dve Chiméry s havranie čiernymi perami namiesto vlasov preťažili voz s mušketami a teraz nadávali na vola, ktorý odmietal tiahnuť. Jeden z parných automatov im pomohol — zdvihol celý voz jedným ramenom a presunul ho na stranu. Vôl zarehal vďačne.
 
 Otcov hlas jej zaznel v hlave. Starý kapitán Borr — nie ten pirát Borr, čo ju kedysi predával, ale iný Borr, jej adoptívny otec, čo ju vychoval po tom, čo opustila Maxa — hovorieval: *„Dieťa, mesto sa pozná podľa toho, ako zaobchádza s tými, čo sa nemôžu brániť."*
 
-*Ak to bola pravda, Shoraven bolo mesto, ktoré aspoň predstieralo, že mu na tom záleží. Čo bolo viac, než mohol povedať Sever.*
+*Ak to bola pravda, Shoraven bolo mesto, ktoré aspoň predstieralo, že mu na tom záleží. Čo bolo viac, než sa dalo povedať o Severe.*
 
 ---
 
-Prístav prechádzal do Dolného mesta plynulo — nebola tu žiadna brána, len postupný prechod z dokov na dláždenú ulicu lemovanú skladmi, krčmami a obchodmi. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry Zlatého veku* — stáli vedľa drevených prístavkov, tehlových nadstavieb a hrdzavých plechových prístreškov. Vyzeralo to, akoby niekto postavil grécky chrám a potom naň nalepil pirátsku krčmu.
+Prístav prechádzal do Dolného mesta plynulo — nebola tu žiadna brána, len postupný prechod z dokov na dláždenú ulicu lemovanú skladmi, krčmami a obchodmi. Architektúra bola chaotická. Prastaré budovy z hladkého bieleho materiálu — pozostatky dávnych staviteľov, tak staré, že si na ne nik nepamätal — stáli vedľa drevených prístavkov, tehlových nadstavieb a hrdzavých plechových prístreškov. Vyzeralo to, akoby niekto postavil chrám a potom naň nalepil pirátsku krčmu.
 
 Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Shobo*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Tami videla cez otvorené dvere davový chaos vnútri: trhový sál plný kričiacich postáv s papiermi v rukách, kriedové tabule s cenami komodít, ktoré niekto horúčkovito prepisoval. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Sp'ira kryštály — sústredený nanotech v minerálnej forme, vzácnejší než zlato — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu.
 
@@ -233,19 +229,21 @@ Ale aj tu bolo vidieť vojnu. Pred jedným skladom stál rad mužov a žien — 
 
 Medzi nimi stála kňažka Kultu a pomazávala ich čelá olejom. Pri každom dotyku zašepkala modlitbu. Niektorí dobrovoľníci jej bozkali ruky. Iní len stáli so sklopenými hlavami a čakali na mušketu, ktorá ich pravdepodobne nezachráni.
 
-Tami kráčala pomedzi stánky tržnice. Vzduch tu vonia korením, smažením a niečím sladkým, čo nevedela identifikovať. Chiméry všade. Mačacie uši, psie čumáky, jašteričie šupiny, perie namiesto vlasov. Tu, na juhu, boli väčšinou — na severe by ju za ten chvost obesili na najbližšom strome.
+Tami kráčala pomedzi stánky tržnice. Vzduch tu voňal korením, smažením a niečím sladkým, čo nevedela pomenovať. Chiméry všade. Mačacie uši, psie čumáky, jašteričie šupiny, perie namiesto vlasov. Tu, na juhu, boli doma — na severe by ju za ten chvost obesili na najbližšom strome.
 
-Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Pouličný mág — Mezra kováč, podľa zástery a popálenín na rukách — predvádzal skupinke detí ukážku Sp'iry. Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedna malá Chiméra s mačacími ušami — Ghorki, podľa toho, ako nechápavo zírala — natiahla ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Sp'iru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
+Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Pouličný mág — kováč kasty Mezra, podľa zástery a popálenín na rukách — predvádzal skupinke detí ukážku Sp'iry. Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedna malá Chiméra s mačacími ušami — Ghorki, podľa toho, ako nechápavo zírala — natiahla ruku k ohnivej myške. Kováč ju jemne zachytil: *„Len sa pozeraj, maličká. Matka ti dá Sp'iru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
 
 *Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Sp'iry a umierajú bez nej. Žiadna modlitba to nezmení.*
 
 *Nevriss. Nikdy-Ľad. Zem, kde sa Chiméry nemusia schovávať.*
 
-Aspoň teoreticky. A aspoň kým Grawská armáda nepríde cez hory.
+Aspoň teoreticky. A aspoň kým grawská armáda nepríde cez hory.
 
 V praxi bola rovnosť Kultu Matky krásna lož. Žiadne otroctvo — to áno, na tom Cirkev trvala. Ale kastový systém fungoval aj bez reťazí. Čistokrvní Pursang s najsilnejšou Sp'irou — tí sedeli v Rade Veľkňažiek, velili armádam, vlastnili gildy. Pod nimi Mezra — remeselníci, vojaci, obchodníci, tí so strednou Sp'irou, ktorí držali krajinu v chode. A na dne Ghorki — bez mágie, bez hlasu, bez vyhliadok. Slobodní. Ale sloboda bez Sp'iry bola v tomto svete len iné slovo pre bezmocnosť.
 
 *Požehnané deti. Jasné.*
+
+---
 
 Pri Tretej Bráne sa zastavila. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak tu bol Synth, bol tu.
 
@@ -267,9 +265,9 @@ Dielňa bola prekvapivo čistá. Nástroje viseli na stenách v perfektnom poria
 
 Za vyhňou stál tvor, ktorý vyzeral ako muž stredného veku. Hnedé vlasy, nenápadná tvár, kožená zástera. Nič výnimočné. Až na oči. Oči Synthov boli vždy *príliš pokojné*. Žiadne mikrovýrazy, žiadne nevedomé pohyby zreníc. Dokonalá, nepohnutá nehybnosť.
 
-„Dobrý deň," povedala Tami v miestnom dialekte. „Potrebujem kompresný ventil. Mosadzný odliatok, priemer 14 palcov, tolerancia na desatinu."
+„Dobrý deň," povedala Tami v miestnom dialekte. „Potrebujem kompresný ventil. Mosadzný odliatok, priemer štrnásť palcov, tolerancia na desatinu."
 
-Synth prestal klepať. Pomaly položil kladivo presne na miesto, kde ležalo pred tým. Otočil sa k nej.
+Synth prestal klepať. Pomaly položil kladivo presne na miesto, kde ležalo predtým. Otočil sa k nej.
 
 „Na desatinu," zopakoval. Hlas bol plochý, ale nie nepríjemný. „To je neštandardná požiadavka pre civilné plavidlo."
 
@@ -277,7 +275,7 @@ Synth prestal klepať. Pomaly položil kladivo presne na miesto, kde ležalo pre
 
 Synth ju pozoroval. Tami vedela, že v tej chvíli spracúva desiatky dátových bodov — jej postoj, oblečenie, zbrane, chemické zloženie oleja na jej rukách, pravdepodobný typ motora, z ktorého ventil pochádza.
 
-„Kompresný ventil s takou toleranciou sa používa v vysoko-výkonných parostrojoch triedy Jastrab," povedal nakoniec. „Tá trieda sa nevyrába. Existujú len tri exempláre. Dva sú v múzeu Kováčskeho cechu. Tretí bol ukradnutý pred ôsmimi rokmi."
+„Kompresný ventil s takou toleranciou sa používa vo vysokovýkonných parostrojoch triedy Jastrab," povedal nakoniec. „Tá trieda sa nevyrába. Existujú len tri exempláre. Dva sú v múzeu Kováčskeho cechu. Tretí bol ukradnutý pred ôsmimi rokmi."
 
 Tami sa usmiala. „Štyri."
 
@@ -297,7 +295,7 @@ Krátke ticho. „Na takýto odliatok potrebujem dva dni."
 
 „V tom prípade urobte nemožné. Zaplatím trojnásobok."
 
-Synth sa na chvíľu odmlčal. Potom prikývol. „Prineste mi poškodený ventil. Potebujem presné merania."
+Synth sa na chvíľu odmlčal. Potom prikývol. „Prineste mi poškodený ventil. Potrebujem presné merania."
 
 Tami položila na stôl malé vrecko mincí. „Záloha. Prídem večer s dielom." Otočila sa k odchodu, ale pri dverách sa zastavila.
 
@@ -319,7 +317,7 @@ Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vš
 
 *Šesť kilometrov*, pomyslela si. *Šesť kilometrov, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vziať Spike a zmiznúť skôr, než nás chytia.*
 
-Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky mal teraz iné starosti než strážiť kobky. Stráže sa presúvali na hradby, kňažky organizovali evakuáciu cenností na juh, a v uliciach vládol chaos, v ktorom sa dva tiene mohli stratiť.
+Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky mal teraz iné starosti než strážiť kobky. Stráže sa presúvali na hradby, kňažky organizovali evakuáciu cenností na juh a v uliciach vládol chaos, v ktorom sa dva tiene mohli stratiť.
 
 *Jednoduché.*
 
