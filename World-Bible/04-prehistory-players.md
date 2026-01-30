@@ -201,7 +201,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
   - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
-  - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Synths), vyslaná pragmatickými vedcami ako poistka civilizácie.
+  - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná pragmatickými vedcami ako poistka civilizácie.
   - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
 
 ---

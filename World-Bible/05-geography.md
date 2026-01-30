@@ -275,6 +275,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Na mape viditeľné ako masívny ho
 ### 1. Kráter (The Crash Site)
 - **Lokácia:** Stred kontinentu.
 - **Popis:** Miesto pristátia lode EXODUS (Ark-11). Svätá zem Kultu Matky.
+- **Popis:** Miesto pristátia lode EXODUS (Ark-11). Svätá zem Kultu Matky.
 - **Rádioaktivita:** Nanotech radiácia ("The Dust" je tu najhustejší).
 
 ### 2. Územie Graw (Sever)
@@ -466,6 +467,10 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
 - Max sa tu prebudil (slepý, amnézia)
+- **Mesto Kito (Stratené)**: Legendárne mesto na východe.
+    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, AY 2000).
+    - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
+    - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Borrom, ktorý ruiny objavil a urobil z nich domov.
 
 ---
 
@@ -512,4 +517,4 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 ### Staroreč (Angličtina)
 - **Status**: Mŕtvy jazyk — ako latinčina v stredoveku
 - **Použitie**: Občas spoznáš slovo, ale nedorozumieš sa
-- **Kto hovorí**: Len Ex Inferis a Synths (RP English)
+- **Kto hovorí**: Len Ex Inferis a Maki (RP English)

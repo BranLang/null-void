@@ -14,7 +14,7 @@ timeline
     2065 : Útek z Pekla (Zrodenie Ex Inferis)
     2070 : Boom genetiky : Neo-Morfovia
     2075 : "Doge" experimenty
-    2098 : Expedícia Hephaestus (Synths)
+    2098 : Expedícia Hephaestus (Maki)
     2100 : Revolúcia Hráčov : Koniec korporácií
     2150 : Marťanská vojna : Iniciatíva Achilles
     2200 : FTL prielom
@@ -29,7 +29,7 @@ timeline
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
     1200 : Smrť pravého Groma : Dynastia podvodníkov začína
-    2000 : Tretí Príchod (Synths) : Lekcia Krvi : Tichá technológia
+    2000 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maximiliána
     3001 : Duel Samaell vs Max : Smrť Samaella
     3008 : Tami odchádza od Maxa
@@ -226,9 +226,9 @@ timeline
     - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadelu** (najbezpečnejšia časť Ynetis).
 
 ### AY 2000: Tretí Príchod (Expedícia "Hephaestus")
-- **Pristátie Synths**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Synths**). Sú to neemotívne organické stroje riadené direktívou obnoviť civilizáciu.
-- **Lekcia Krvi**: Synths začnú budovať osady s pokročilou elektronikou. To prebudí Wraithov, ktorí ich zmasakrujú.
-- **Adaptácia**: Synths pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
+- **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
+- **Lekcia Krvi**: Maki začnú budovať osady s elektrinou. Wraithovia ich zmasakrujú. Prežije len **Séria-J (Japonská)** — vďaka disciplíne a lepšiemu 'stealth' dizajnu.
+- **Adaptácia**: Maki pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
 - **Vstup do Spoločnosti**: Začínajú spolupracovať s Chimérami ako tichí stavitelia a inžinieri.
 
 ---
@@ -285,7 +285,7 @@ timeline
     - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
     - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maxa a Tami celý rok.
     - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je len legendou a „Iniciatíva Achilles" bola jedna veľká lož. Archanjeli nič nevybudovali; utiekli a zostali v ruinách.
-    - **Unit 734 („Sedmička")**: Synth-mechanik slúži ako prekladateľ.
+    - **Unit 734 („Sedmička")**: Mako-mechanik slúži ako prekladateľ.
 - **Duel so Samaellom (AY 3001)**:
     - Max (stále slepý) využíva nano-drony veľkosti zrnka piesku
     - Technika z Achilles simulácie: FPV drony vniknú do dýchacích ciest a explodujú
