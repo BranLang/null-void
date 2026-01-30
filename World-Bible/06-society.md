@@ -17,10 +17,17 @@
 **Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu). Pretože ich fyziológia bola odlišná, pôvodné udržiavacie nanoboty v nich nefungovali.
 
 **Biológia:** Sú smrteľní. Starnú a zomierajú (dožívajú sa cca 60-80 rokov). Sú náchylní na choroby a hlad. Ich vzhľad je rôznorodý – od jemných zvieracích čŕt (oči, zuby, srsť) až po výrazné deformácie.
-**Spoločnosť:** Tvoria 99% populácie planéty. Majú vlastné kráľovstvá, kmene, jazyky a bohatý folklór, ktorý vznikol za 2000 rokov izolácie.
+**Spoločnosť:** Tvoria 99% populácie planéty. Majú vlastné kráľovstvá, kmene, jazyky a bohatý folklór.
+    - **Mačky/Psy/Medvede/Vlci**: Najbežnejšie rasy.
+    - **Líšky (Vulpini)**: Extrémne vzácne, považované za vymreté alebo mýtické. Hovorí sa, že majú skrytú domovinu mimo máp.
 
-### 3. Androidi (Synths)
-**Pôvod:** Expedícia "Hephaestus" (semenná loď z roku 2098 AD). Prišli v roku 2000 AY.
+### 3. Androidi (Maki)
+**Pôvod:** Expedícia "Hephaestus" (semenná loď z roku 2098 AD). Pôvodne išlo o **medzinárodnú kooperáciu** (Európa, Čína, Japonsko).
+- **Survival of the Fittest**: Po "Lekcii Krvi" (masaker Wraithmi) prežili do dnešného dňa takmer výlučne **japonské modely** (Séria J). Ostatné modelové rady (Európska, Čínska) boli zničené.
+    - **Výnimka**: Existuje jediný potvrdený preživší z **Európskej série** — Mako menom **Felix**. Túla sa svetom ako potulný zbrojár a vyrába legendárne "88-čky" (ťažké delá).
+- **Kultúra**: Kvôli dominancii Série-J dnešní Maki preferujú tradičnú japonskú estetikou (katanové čepele, minimalizmus, úklon ako pozdrav).
+
+**Etymológia:** Z latinského *machina* -> *makina* -> **Maki**. Jednotné číslo: **Mako**.
 
 **Biológia:** Biologické stroje (organické telá, bio-počítačové mozgy). Nemajú emócie, strach ani ambície. Sú riadení Direktívou: "Prežiť. Stavať. Pomáhať ludstvu."
 
@@ -70,7 +77,7 @@ graph BT
 ### 1. Archanjeli (The Executors)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
 - **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Ynetis. Ich intervencia zvrátila priebeh boja.
-- **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Chiméry sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Synths vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Chimér. Viac zdravých Chimér = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
+- **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Chiméry sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Chimér. Viac zdravých Chimér = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
 - **Skutočný Strach**: Boja sa len dvoch vecí: **Wraithov** (ktorí môžu poškodiť systémy Citadely) a **Hniloby (Glitch Rot)**, ktorá korumpuje nanoboty a robí ich nepoužiteľnými.
 - **Odber (Zber)**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
 - **Dôsledok pre spoločnosť**: Mágia je medzi Chimérami vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
@@ -91,8 +98,8 @@ Drsní žoldnieri a veteráni špecializovaní na boj v zamorených zónach. Nie
 - **Zloženie**: Zúfalí ľudia (odolnejší voči Hnilobe) alebo Chiméry. Práca s najvyššou úmrtnosťou.
 - **Status**: Sú nesmierne bohatí, no žijú krátko. Platení sú v čistom zlate.
 
-### 4. Androidi (Synths)
-Neemotívni inžinieri a stavitelia. 
+### 4. Androidi (Maki)
+Neemotívni inžinieri a stavitelia. Volaní aj "Tichí" alebo slangovo "Tikači". 
 - **Rola:** Poskytujú technické znalosti a stavajú analógovú infraštruktúru (vzducholode, zavlažovanie).
 - **Status:** Sú neutrálni, ale rešpektovaní. Pre Archanjelov sú hrozbou, pre Chiméry spasiteľmi.
 
@@ -137,8 +144,8 @@ Jedinci s vysokou koncentráciou nanobotov v krvi dokážu:
 | Kasta | Popis | Sp'ira | Dlhovekosť |
 |-------|-------|--------|------------|
 | **Čistokrvní** *(Pur'sang)* | Elitné rodiny, generácie dohodnutých zväzkov | Extrémna | Až 50 zím (~250 rokov) |
-| **Stredná kasta** *(Mez'ra)* | Remeselníci, obchodníci, vojaci | Stredná | 15-25 zím (~75-125 rokov) |
-| **Nízka kasta** *(Ghor'ki)* | Chiméry bez mágie, iná genetika | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
+| **Stredná kasta** *(Mez'ra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Ľudský s jemnými zvieracími črtami (uši, oči, zuby). | Stredná | 15-25 zím (~75-125 rokov) |
+| **Nízka kasta** *(Ghor'ki)* | Chiméry bez mágie. **Vzhľad:** Silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
 
 ### Čistokrvní *(Pur'sang)*
 Vrchol pyramídy. Rodiny, ktoré sa po generácie pomocou dohodnutých zväzkov šplhali na vrchol.
@@ -161,6 +168,7 @@ Chrbtica spoločnosti. Remeselníci, obchodníci, vojaci s remeselnou mágiou.
   - **Vojaci**: Základná telekinéza, posilnenie tela
 - **Dlhovekosť**: 15-25 zím (~75-125 rokov)
 - **Pozícia**: Stredná trieda — majú práva, majetok, ale nie moc
+- **Vzhľad**: Dominantne ľudský. Zvieracie znaky sú subtílne — mačacie oči, špicaté uši, pazúry namiesto nechtov. Nikdy nemajú srsť na tvári ani zvieraciu hlavu.
 
 ### Nízka kasta *(Ghor'ki)*
 Chiméry bez mágie. Geneticky vzdialené od ľudského pôvodu.
@@ -198,9 +206,9 @@ Toto je jadro napätia. Chiméry budujú, množia sa a umierajú v priebehu jedn
 
 ### 3. Logika vs. Emócie vs. Stagnácia
 Synths priniesli tretiu stranu konfliktu.
-- **Archanjeli (Stagnácia):** Chcú udržať status quo a svoje chátrajúce telá. Synths sú pre nich nekontrolovateľní paraziti (nedajú sa vysiať).
-- **Chiméry (Emócie):** Túžia po pokroku a slobode. Synths sú ich pohonným motorom.
-- **Synths (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Chiméram technológiu, ktorá im umožňuje obchádzať nadvládu Archanjelov (napr. Vzducholode).
+- **Archanjeli (Stagnácia):** Chcú udržať status quo a svoje chátrajúce telá. Maki sú pre nich nekontrolovateľní paraziti (nedajú sa vysiať).
+- **Chiméry (Emócie):** Túžia po pokroku a slobode. Maki sú ich pohonným motorom.
+- **Maki (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Chiméram technológiu, ktorá im umožňuje obchádzať nadvládu Archanjelov (napr. Vzducholode).
 
 ### 4. Predsudky vs. Skúsenosť (Kríza identity)
 Najhlbší psychologický konflikt sveta.
@@ -235,7 +243,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 | **Gilda Staviteľov** | Architektúra, fortifikácie | Mez'ra (zemná Sp'ira) |
 | **Gilda Kupcov** | Obchod, doprava, zásobovanie | Všetky kasty |
 | **Gilda Aeronautov** | Vzducholode, navigácia | Mez'ra |
-| **Gilda Hodinárov** | Presná mechanika, Tichá Technológia | Mez'ra + Synthy |
+| **Gilda Hodinárov** | Presná mechanika, Tichá Technológia | Mez'ra + Maki |
 
 - **Členstvo**: Vyžaduje skúšku, učňovské obdobie a poplatok. Ghor'ki sa môžu stať členmi Gildy Kupcov (nevyžaduje Sp'iru), ale v ostatných gildách sú zriedkavosťou.
 - **Politická moc**: Gildmajstri zasadajú v Obchodnej rade mesta — paralelná moc vedľa Cirkvi. Cirkev vládne duchom, gildy peňaziam.
@@ -258,7 +266,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 
 - **Staroreč (Ancient / Stará angličtina)**: Jazyk Ex Inferis a pôvodných ľudí zo Zeme. Pre moderných obyvateľov znie archaicky a nezrozumiteľne.
-- **RP English (Kráľovská angličtina)**: Štandardný jazyk Synthov. Formálny, neemotívny a chladný. Slúži ako hlavný most pre tých, čo sa vracajú zo stázy.
+- **RP English (Kráľovská angličtina)**: Štandardný jazyk Makov (Maki). Formálny, neemotívny a chladný. Slúži ako hlavný most pre tých, čo sa vracajú zo stázy.
 - **Neo-Terran**: Zmutovaná angličtina ovplyvnená dialektmi Chimér. Jazyk obchodu a bežných ľudí.
 - **Wildspeak (Bľabot)**: Rôznorodé dialekty a slangy Chimér, často postavené na zvukoch a gestách.
 

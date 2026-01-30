@@ -20,7 +20,7 @@ Max sa prebúdza ako „troska“.
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
 - **Maxovo uväznenie:** Uložený do kryospánku primárne kvôli kritickému nedostatku zásob (aby aspoň niekto prežil). Inetis ho však oklamala a uložila do spánku aj zo strachu z jeho vojenských ambíciov poraziť mimozemšťanov za každú cenu a jeho reakcie na zmenený svet.
 - **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z odhalenia pravdy o Chimérach a o tom, že **„Iniciatíva Achilles“ bola jedna veľká lož**. Zistenie, že Archanjeli svet nechránili, ale vyprázdnili, a že jeho obeta na Zemi bola zbytočná, spôsobí jeho psychický kolaps a transformáciu na cynického Exorcistu.
-- **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Syntha.
+- **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Maka.
 
 #### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
@@ -57,17 +57,18 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 ### Tami
 
 | **Vek** | **~7 rokov** (začiatok knihy 1), neskôr **~20** |
-| **Rasa** | **Homo Sapiens Varietas (Chiméra)** |
-| **Rola** | Otrokyňa / Nosička dedičstva / Kapitánka |
-| **Status** | Živá |
-
-![Tami](../assets/tami.png)
-
-### Charakteristika
-- Na začiatku: Vystrašené dieťa v klietke pirátov, určené na predaj.
-- Neskôr: Drsná kapitánka vzducholode (po časovom skoku).
-- Má vzácnu kompatibilitu s nanodronmi Inetis (preto ju chcela Elenia/Samaell?).
-- **Vodič Boha (Rok Tieňov)**: Vedie slepého Maxa cez nebezpečné ruiny. Netuší, že on nevie o jej Chimérom pôvode; pre ňu je to norma.
+| **Rasa** | **Homo Sapiens Varietas (Chiméra - Líška)**. *Poznámka: Líšky sú považované za vymreté/skryté.* |
+### Tami (Líška / Vulpini)
+- **Vek**: 20 rokov
+- **Status**: Kapitánka vzducholode *Makita*, Pur'sang (ale utajená)
+- **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
+    - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
+    - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
+- **Pôvod**: Vyrastala na východe, v **ruinách mesta Kito**.
+    - Jej otec (Borr) bol hľadač pokladov, ktorý objavil stratené mesto Kito.
+    - Spravili si tam domov. Žili tam s jej matkou a s **Felixom** (Mako, ktorý tam prežil).
+    - Felix bol pre ňu ako strýko. Učil ju o strojoch, Max ju učil bojovať.
+- **Rasa**: Vulpini (Líška). Líšky sú takmer vyhynutou vetvou Chimér, známe pre extrémnu inteligenciu. Tami má ako jedna z mála modré "ľudské" oči a schopnosť ovládať Spiru (hoci to tají).
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
 #### Backstory
@@ -88,15 +89,27 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 #### Tami po odchode od Maxa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
 - **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
-- **Loď**: Vlastní vzducholoď (tú, ktorú zobrala od Maxa)
+- **Loď**: Vlastní vzducholoď **Makita** (trieda Jastrab, 4. kus).
+    - **Pôvod**: Postavená Makmi pre jej otca. Meno je pocta staviteľom (Makita = Malý stroj).
+    - **Výzbroj**: Hlavný kanón je **"Felix 88"** — vzácny 88mm kanón od legendárneho európskeho Maka Felixa.
+- **Zbrane**:
+    - Pár automatických pištolí.
+    - **Felixov Rapier ("Ihla")**: Unikátna zbraň od Felixa. Na rozdiel od mainstreamových katán (sekanie/elegancia), táto zbraň je čistá nemecká efektivita — určená na penetráciu zbroje a energetických štítov ("Spira piercing").
 - **Posádka**: Má vlastnú vernú posádku
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
 - **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Aegis Spike — toto ju priviedlo k artefaktu
 
 #### Vzťah s Maxom
 - **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
-- **Pre Maxa**: Tami bola ako dcéra — projekcia stratenej Elenie?
-- **Konflikt**: Ich vzťah nemohol fungovať — on v nej videl dieťa, ona v ňom videla muža
+- **Internal Nanotech (Passive)**: Max má v krvi "pasívne" nanoboty.
+    - **Funkcia**: Regenerácia, zvýšená sila/rýchlosť, a hlavne **Osobný Asistent (AI)**. Beží mu v hlave, vedie s ním monológ, prehráva spomienky ako video súbory. Nedokážu však zregenerovať zničené oči (príliš komplexný orgán).
+- **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
+    - **Pôvod**: Vyrobila ich Inetis pre Maxa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
+    - **Funkcia**: Nahrádzajú mu zrak (kamery). Max ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
+- **Aegis Spike (Húľ)**: Jeho primárna zbraň.
+    - **Zásobník**: Obsahuje cca **10 000 štandardných nanodronov**.
+    - **Funkcia**: Generátor Aegis poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
+    - **Obmedzenie**: Palica sa musí "dobíjať" alebo kŕmiť materiálom. ňom videla muža
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
@@ -120,6 +133,30 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 | **Herný nick** | **i_net_is** |
 | **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
 | **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
+
+---
+
+## Kito (Archeológ)
+- **Rasa**: Pur'sang (Čistokrvný, mačacie črty - uši, oči, chvost).
+- **Status**: Vydedený a chudobný. Žije v chudobnej štvrti Mezra.
+- **Povolanie**: Archeológ, archivár a zamestnanec Múzea. Odborník na artefakty.
+- **Rodina**:
+    - Vydedený rodinou, pretože sa oženil s **Mezrou** (nižšia kasta).
+    - **Manželka**: Ťažko chorá, zomiera. Žiadny liečiteľ (Spira user) jej nedokázal pomôcť.
+- **Schopnosti**:
+    - **Telekinéza**: Veľmi silný talent (typický pre Pur'sangov), ale nevie liečiť.
+- **Motivácia**: Chce zachrániť svoju zomierajúcu manželku. Vie, že bežná mágia ani artefakty zo "Strateného mesta Kito" nepomôžu. Je posadnutý nájdením **Ynetis** (skutočného zdroja "Daru Matky").
+    - **Problém**: Je chudobný a vydedený. Nemá financie ani prostriedky na expedíciu do rovnikoveho pasma aj keby zistil presnú polohu Ynetis.
+    - **Spojenectvo**: Max a Tami majú loď (*Makita*) a schopnosti. Kito má vedomosti. To z nich robí prirodzených spojencov.
+- **Rola v príbehu**: Investigoval Aegis Spike.
+    - **Heist**: Kito pozná plány kobiek a systém obrany.
+    - **Prečo on?**: Max by teoreticky mohol použiť svoje "Oči" (Drony) na prieskum, ale je to príliš riskantné (strata zraku/energie). Preto potrebujú Kita ako "Kľúč", ktorý ich bezpečne prevedie pascami.
+- **Meno a Pôvod**: "Mesto Kito" je legendárne mesto na východe (miesto pristátia Makov). Kito nesie toto meno, pretože jeho rodina (starý Pur'sang rod) tvrdí, že z tohto mesta pochádza.
+    - *Irónia*: Keď Max v Prológu povie, že je z "Kito", nevedomky povie pravdu o mieste, kde Tami vyrastala (City of Kito), a zároveň použije meno, ktoré nosí archeológ, ktorého potrebujú nájsť.
+- **Odhalenie**:
+    - Archeológ Kito je potomkom ľudí, ktorí ušli z mesta Kito predtým, než bolo zničené.
+    - Tami vyrastala v *ruinách* mesta Kito.
+    - Max si vymyslel "Kito" náhodou (Kito = jap. "Plán/Projekt"?), ale trafil do čierneho dvakrát.
 
 ![Inetis](../assets/Inetis.png)
 
@@ -177,17 +214,17 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 ---
 
-### Unit 734 („Sedmička") / Synth-Mechanik
+### Unit 734 („Sedmička") / Mako-Mechanik
 
 | | |
 |---|---|
-| **Rasa** | Android (Synth) |
+| **Rasa** | Android (Mako) |
 | **Rola** | Hlavný inžinier vzducholode / Prekladateľ |
 | **Status** | Aktívny |
 
 #### Funkcia a Vzťah
 - **Most medzi érami**: Ako jediný rozumie Maxovej **Staroreči**.
-- **Logické Mlčanie**: Synth nikdy Maxovi nespomenie Tamine fyzické rysy (uši, chvost), pretože sú to pre stroj irelevantné vizuálne informácie. Toto „mlčanie stroja“ umožňuje Maxovi žiť rok v omyle.
+- **Logické Mlčanie**: Mako nikdy Maxovi nespomenie Tamine fyzické rysy (uši, chvost), pretože sú to pre stroj irelevantné vizuálne informácie. Toto „mlčanie stroja“ umožňuje Maxovi žiť rok v omyle.
 - **RP English**: Hovorí chladnou, archaickou britskou angličtinou.
 - **Rosetta Stone Protocol**: Pomáha Maxovi učiť sa moderný jazyk Achilla.
 
@@ -388,5 +425,5 @@ Dvojica pirátov z gangu Kaela.
 - **Rola**: Nájdu polomŕtveho Maxa v snehu a namiesto pomoci ho hodia do podpalubia k 7-ročnej Tami, aby ho predali v baňiach na juhu za zlato.
 
 ### Kael (Zosnulý)
-Bývalý vodca pirátov a majiteľ vzducholode "Silent Hunter".
+Bývalý vodca pirátov a majiteľ vzducholode.
 - **Osud**: „Vysatý“ Samaellom. Zomiera ako jedna z mnohých „vysušených schránok“ v Archanjelovej honbe za stabilitou.

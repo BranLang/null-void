@@ -227,6 +227,10 @@ Mohutné pohorie oddeľujúce Sever od Juhu (podobné Alpám).
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
 - Max sa tu prebudil (slepý, amnézia)
+- **Mesto Kito (Stratené)**: Legendárne mesto na východe.
+    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, AY 2000).
+    - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
+    - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Borrom, ktorý ruiny objavil a urobil z nich domov.
 
 ---
 
@@ -267,4 +271,4 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 ### Staroreč (Angličtina)
 - **Status**: Mŕtvy jazyk — ako latinčina v stredoveku
 - **Použitie**: Občas spoznáš slovo, ale nedorozumieš sa
-- **Kto hovorí**: Len Ex Inferis a Synths (RP English)
+- **Kto hovorí**: Len Ex Inferis a Maki (RP English)

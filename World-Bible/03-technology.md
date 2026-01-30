@@ -231,19 +231,43 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |
 |---|---|
-| **Pasažieri** | Tisíce biologických androidov (Synths) |
+| **Pasažieri** | Tisíce biologických androidov (Maki) |
 | **Cesta** | Automatizovaná semenná loď (Seed Ship), 1200+ rokov |
-| **Osud** | Pristátie = AY 2000. Posádka Synths prežila v bezchybnom stave. |
+| **Osud** | Pristátie = AY 2000. Posádka Maki prežila v bezchybnom stave. |
 
 ---
 
 ## Tichá technológia (Analóg)
-Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Synths vyvinuli vrcholné analógové majstrovstvo.
 
-- **Mechanika**: Čisto mechanické počítače, hodinové stroje, hydraulika a pneumatika.
-- **Pohon**: Para, stlačený vzduch, biologické palivá (oleje).
-- **Vzducholode**: Obrovské plavidlá postavené zo špeciálnych ľahkých zliatin a tkanín, riadené mechanickými pákami.
-- **Osvetlenie**: Bioluminiscencia (špeciálne riasy v potrubiach) namiesto LED/žiaroviek.
+### Úroveň: Analógové 20. storočie
+Technologická úroveň sveta sa drží na štandarde **ranného 20. storočia (cca 1900-1940)**, ale striktne bez elektroniky.
+- **Pohon**: Primárnym palivom je **Etanol** (z kukurice). Uhlie sa masívne ťaží a spaľuje v rafinériách na proces destilácie liehu. Je to "špinavá energia pre čistý výkon".
+- **Zbrane**: Trh je zaplavený zbraňami ako opakovacie pušky, karabíny a revolvery na kordit.
+- **Osvetlenie**: Bioluminiscencia (riasy) alebo liehové lampy.
+
+### Maki Tech (High-End)
+Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Maki vyvinuli vrcholné analógové majstrovstvo.
+- **Materiály**: Titánové zliatiny, keramické kompozity, polyméry.
+- **Zbrane**: Vyrábajú sofistikované pneumatické pušky, **titánové katany** a čepele (extrémne ľahké, pružné a nekorodujúce) a gyro-stabilizované mechanizmy. Sú to drahé umelecké diela.
+- **Mechanika**: Čisto mechanické počítače, hydraulika a pneumatika s mikrometrovou presnosťou.
+- **Mechanika**: Čisto mechanické počítače, hydraulika a pneumatika s mikrometrovou presnosťou.
+- **Vzducholode**: Obrovské plavidlá z ľahkých zliatin, riadené jemnou mechanikou.
+
+---
+
+## Doktrína Meča a Pušky
+
+Prečo sa v ére karabín a guľometov stále používajú meče?
+
+### 1. Vzdušný boj: "Pakt Vodíka"
+Vzducholode sú plnené **vodíkom** (hélium je vzácne a uniká). Výstrel z pušky na palube alebo v podpalubí znamená takmer istú explóziu a smrť celej posádky (útočníkov aj obrancov).
+- **Tichá dohoda**: Aj tí najhorší piráti dodržiavajú nepísaný zákon — pri boardingu sa strieľa len v krajnej núdzi. Bojuje sa nožmi, mačetami, obuškami a kušami.
+- **Palubné zbrane**: Kanóny (ako *Felix 88*) sa používajú len na diaľku proti trupu inej lode, nikdy nie v interiéri.
+
+### 2. Pozemný boj: "Faktor Sp'ira" (Kinetická obrana)
+Palné zbrane sú devastujúce proti bežným cieľom (Ghor'ki, zvieratá), ale strácajú účinnosť proti silným užívateľom mágie.
+- **Vychýlenie**: Chiméra so silnou Spirou (napr. čistokrvný Pur'sang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
+- **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného mága.
 
 ---
 
