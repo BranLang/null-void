@@ -351,7 +351,7 @@ Samaell loví Chiméry pomocou **ihlových injektorov** na prstoch, ktorými vys
 - Každý nový "Grom" pokračuje v legende
 
 #### Aktuálny "Grom" (AY 3013)
-- Agresor a dobyvateľ — začína vojnu s Juhom (Nev'riss)
+- Agresor a dobyvateľ — začína vojnu s Juhom (Nevriss)
 - Dôvod: 5-ročná zima, nedostatok jedla, Juh odmieta obchodovať s "bezvercami"
 - Armáda primitívnych tankov a exoskeletonov
 
