@@ -240,17 +240,64 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 ## Tichá technológia (Analóg)
 
 ### Úroveň: Analógové 20. storočie
-Technologická úroveň sveta sa drží na štandarde **ranného 20. storočia (cca 1900-1940)**, ale striktne bez elektroniky.
-- **Pohon**: Primárnym palivom je **Etanol** (z kukurice). Uhlie sa masívne ťaží a spaľuje v rafinériách na proces destilácie liehu. Je to "špinavá energia pre čistý výkon".
+Technologická úroveň sveta sa drží na štandarde **ranného 20. storočia (cca 1900-1940)**, ale striktne bez elektroniky a bez uhlia.
+
+#### Energetický systém
+
+Svet nepoužíva uhlie ani elektrinu. Primárnymi zdrojmi energie sú:
+
+| Zdroj | Použitie | Poznámka |
+|-------|----------|----------|
+| **Etanol** (z kukurice) | Hlavné palivo — pohon motorov, lampy, rafinérie | Kukurica je strategická plodina. Kto kontroluje kukuricu, kontroluje energiu. |
+| **Biodiesel** | Pohon lietadiel (dvojplošníkov), ťažkých strojov | Vyrábaný z rastlinných olejov a živočíšnych tukov |
+| **Biobenzín** | Ľahké motory, menšie stroje | Rafinovaný etanol s prímesami |
+| **Geotermálna energia** | Para, vykurovanie, priemysel | Jadro planéty je veľmi aktívne — geotermálne pramene sú všade |
+
+- **Prečo nie uhlie?** Achilles nemá rozsiahle uhoľné ložiská — teraformácia nevytvorila podmienky pre vznik fosílnych palív (planéta nemala milióny rokov organického usadzovania). Civilizácia sa od začiatku prispôsobila tomu, čo mala: kukuricu, biomasu a teplo zeme.
+- **Prečo para?** Geotermálna aktivita planéty je extrémna. Horúce pramene, gejzíry a magmové komory sú bežné v celom rovníkovom páse. Para je najdostupnejší a najlacnejší zdroj mechanickej energie — stačí vyvŕtať studňu na správnom mieste.
+- **Rafinérie**: Destilujú kukuricu a biomasu na etanol. Zápach sladkastého kvasenia a fermentácie je typický pre priemyselné mestá.
 - **Zbrane**: Trh je zaplavený zbraňami ako opakovacie pušky, karabíny a revolvery na kordit.
-- **Osvetlenie**: Bioluminiscencia (riasy) alebo liehové lampy.
+- **Osvetlenie**: Bioluminiscencia (riasy) alebo liehové/etanolové lampy.
+
+#### Doprava
+
+| Typ | Pohon | Poznámka |
+|-----|-------|----------|
+| **Vzducholode** | Biodiesel / etanol | Preferovaná doprava — bezpečnejšia než lode (tsunami) |
+| **Dvojplošníky** | Biodiesel / etanol | Menšie, rýchle, prieskumné a bojové |
+| **Riečne parníky** | Biodiesel / etanol | Nákladná doprava po riekach |
+| **Námorné bárky** | Para / plachty | Riskantné — tsunami a zemetrasenia |
+| **Vlaky** | Para (geotermálna) | Len v Nevriss a okolí — koľajnice trpia zemetraseniami |
+
+**Prečo sú vzducholode preferované pred loďami:**
+Jadro planéty Achilles je extrémne aktívne. Zemetrasenia sú pomerne časté a tsunami devastujú pobrežné oblasti niekoľkokrát za dekádu. Námorná doprava je riskantná — lode sa potápajú, prístavy sa ničia, pobrežné mestá sa pravidelne zaplavujú. Vzducholode sú nad tým všetkým. Preto sa väčšina diaľkového obchodu a cestovania presunula do vzduchu. Námornícky obchod stále existuje (je lacnejší), ale je považovaný za nebezpečný a nespoľahlivý.
+
+**Dvojplošníky:**
+Existujú aj lietadlá — dvojplošníky poháňané biodieselom alebo etanolovým biobenzínom. Sú rýchlejšie než vzducholode, ale menšie a s obmedzeným doletom. Používajú sa na prieskum, rýchle správy a ako ľahké bojové stroje. Graw ich využíva na prieskumné nálety (malé, rýchle, s dlhým dostrelom).
+
+**Lietadiel je však málo.** Spaľovacie motory vyžadujú vysokú presnosť výroby — piesty, valce, kľukové hriadele — a v svete bez elektriny a výrobných liniek je každý motor ručná práca špecialistu (zvyčajne Maka alebo jeho učňa). Neexistuje masová výroba. Každé lietadlo je unikát, drahý a ťažko nahraditeľný. Väčšina krajín má len hŕstku funkčných strojov. Preto sú vzducholode dominantnou formou leteckej dopravy — ich konštrukcia je jednoduchšia (balón, rám, jednoduchý parný pohon).
+
+#### Makita — Prelomová Technológia
+
+Vzducholoď *Makita* (Tami) je technologická anomália — jej pohon je radikálne odlišný od bežných vzducholodí:
+
+| Aspekt | Detail |
+|--------|--------|
+| **Pohon** | **Sp'ira kryštály** — para poháňa vrtule |
+| **Princíp** | Sp'ira kryštály po chemickej aktivácii (špeciálna priemyselná kyselina) vylučujú enormné teplo. Voda sa mení na paru okamžite. |
+| **Výhoda 1 — Tichosť** | Makita je *tichá*. Žiadne spaľovacie motory, žiadne hučanie. Len jemné syčanie pary cez vrtule. V noci je takmer nepočuteľná. |
+| **Výhoda 2 — Maskovanie** | Para sa dá vypustiť okolo vzducholode a vytvoriť **umelý oblak** — dokonalé maskovanie. Loď zmizne v bielej hmle za sekundy. |
+| **Výhoda 3 — Palivo zadarmo** | Makita nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Sp'ira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Makita si doplní nádrže z najbližšieho potoka. |
+| **Nevýhoda** | Závisí na Sp'ira kryštáloch — vzácnych a drahých. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
+| **Pôvod** | Postavená v Kitó z pozostatkov lode Hephaestus. Technológia Maki. |
+
+> **Prečo je Makita výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Makita je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
 
 ### Maki Tech (High-End)
 Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Maki vyvinuli vrcholné analógové majstrovstvo.
 - **Materiály**: Titánové zliatiny, keramické kompozity, polyméry.
 - **Zbrane**: Vyrábajú sofistikované pneumatické pušky, **titánové katany** a čepele (extrémne ľahké, pružné a nekorodujúce) a gyro-stabilizované mechanizmy. Sú to drahé umelecké diela.
-- **Mechanika**: Čisto mechanické počítače, hydraulika a pneumatika s mikrometrovou presnosťou.
-- **Mechanika**: Čisto mechanické počítače, hydraulika a pneumatika s mikrometrovou presnosťou.
+- **Mechanika**: Čisto mechanické počítače, hydraulika a pneumatika s mikrometrovou presnosťou. Každý kus je ručná práca — žiadne výrobné linky, žiadna masová produkcia.
 - **Vzducholode**: Obrovské plavidlá z ľahkých zliatin, riadené jemnou mechanikou.
 
 ---
