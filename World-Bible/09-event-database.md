@@ -130,6 +130,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.bit_rot_glitch`
 - Názov: Glitch / Bit Rot
 - Čas: AY ~300+
+- Vstup do Spoločnosti: Začínajú spolupracovať s Varietas ako tichí stavitelia a inžinieri.
 - Zhrnutie: Nanodrony začnú zlyhávať a odmietať hostiteľov; dochádza k masovým úmrtiam a dezintegrácii tiel.
 - Účastníci: `fac.atlantis_colonists`, `char.the_void`
 - Lokácie: `place.island_ynetis`

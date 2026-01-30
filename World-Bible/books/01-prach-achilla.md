@@ -1,90 +1,40 @@
-# Kniha 1: ZEM-hmota – Prach Achilla
-**Status:** Plotting
-**Hlavná téma:** Hra mačky s myšou / Cesta do bezpečia / Návrat spomienok
+# Kniha 1: Prach Achilla (Heist Arc)
+**Status:** Drafting
+**Téma:** Heist počas vojny / Identita "Spáča"
 
 ---
 
-## Prológ: Kael a Tieň
-*   **Akcia:** Samaell loví Kaela. Počas súboja Samaell náhle stuhne. Cíti niečo, čo necítil 3000 rokov – **Hmlu**.
-*   **Fascinácia:** Je to signatúra nanotechnológie z čias Zeme. Samaell vie, že na svete je ďalší *ex inferis*. Tento objav ho fascinuje natoľko, že dovolí Kaelovi uniknúť do jaskyne (kde Kael nechtiac otvorí Maxov box).
+## Aktuálna Štruktúra Knihy
+
+### Kapitola 1: Prach a Spomienky (Hotovo)
+**Súbor:** `drafts/chapter-1-draft.md`
+*   **Dej:** Max a Tami prilietajú do Sho'raven na lodi *Makita*.
+*   **Kľúčové momenty:**
+    *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
+    *   Max hrá "Turistu" na colnici - používa humor ako masku.
+    *   Tami vybavuje opravu u miestneho Maka
+  
+
+### Kapitola 2: Ulica Mŕtvych zvonov (Hotovo)
+**Súbor:** `drafts/chapter-2-draft.md`
+*   **Dej:** Pátranie po Kitovi, odhalenie Maxovej identity a začiatok vojny.
+*   **Kľúčové momenty:**
+    *   Kito spoznáva Maxa ako "Spáča".
+    *   Graw spúšťa ostreľovanie mesta.
+    *   Útek do kanalizácie ("Črevá").
+    *   **Flashback 1:** Maxovo prebudenie v kryo-tekutine (iniciované pádom do splaškov).
+
+### Kapitola 3: Odpad (TBD)
+**Súbor:** `drafts/chapter-3-draft.md`
+*   **Plán:** Cesta starou kanalizáciou k Chrámu.
+*   **Prostredie:** "The Waste" – toxický odpad a nepodarené biologické experimenty Cirkvi.
+*   **Akcia:** Boj v stiesnených priestoroch. Max musí použiť svoju silu (alebo technológiu), ale tak, aby nezrútil tunel.
 
 ---
 
-## Časť 1: Záchrana v Snehu (AY 3000)
+## Backstory Flashbacky (Na doplnenie)
+*Tieto časti starej osnovy budú integrované do deja postupne ako spomienky.*
 
-### Scéna 2: Chrám v Jaskyni (Bývalý domov Inetis)
-*   **Jaskyňa:** Kael sa plazí do útrob systému, ktorý bol kedysi technologickou oázou.
-*   **Objav:** Steny sú pokryté kresbami (Eleniina práca) a **pozostatkami hydroponických fariem**.
-    *   Staré trubice, nádrže na živiny (teraz prázdne a zarastené svietiacim machom).
-    *   *Galaktické špirály* a *Pentagramy* nakreslené kriedou.
-*   **Ruiny v jaskyni:** Jaskyňa je pretkaná "vnútornosťami" lode Null-Void.
-    *   Inetis sem premiestnila jadro lode, kým vrak na mieste pristátia nechala ako prázdnu plechovú schránku.
-    *   Kael vidí bizarnú zmes skaly a terminálov, ktoré kedysi riadili život Inetis a jej dcéry.
-
-### Scéna 3: Prebudenie Spiaceho
-*   **Kryobox Modul 1:** V centre jaskynného domu nájde Kael neporušený box. Je tu jediný.
-*   **Aktivácia:** Kael sa ho dotkne, aktivujú sa núdzové okruhy. Ženský hlas AI (Starý jazyk) spúšťa rozmrazovanie.
-*   **Koniec:** Kael uteká, prebudený Maximilián ostáva v jaskyni sám, obklopený ruinami svojej rodiny, ktorú nikdy nezažil.
-
-### Scéna 1: Prebudenie a Útek
-*   Max sa prebúdza slepý. Z jaskyne ho zachraňujú piráti (skôr mrchožrúti), ktorí ho chcú predať.
-*   Na palube vzducholode sa stretáva so 7-ročnou **Tami**.
-*   **Samaell prichádza:** Samaell dorazí k vraku lode Null-Void krátko po Maxovi. Vidí prázdny kryobbox a stopu v snehu. Cíti Maxovu "hmlu" jasnejšie. Vie, že je to zabijak z minulosti. Púšťa sa do lovu.
-
----
-
-## Časť 2: Lov Tieňov (Cesta na Juh)
-
-### Útek a Putovanie
-*   Max uniká z pirátskej lode (pád/pristátie v divočine). Berie Tami so sebou.
-*   **Cieľ:** Max sa rozhodne zobrať Tami domov do **Prístavu (nemenované kráľovstvo na Juhu)**.
-*   **Samaell v pätách:** Samaell ich stopuje. Nie je to tichý lov. Všade, kde Samaell prejde (dediny, obchodné stanice, nomádske tábory), ostáva len **smrť**. Samaell potrebuje energiu na udržanie sa pri živote a požiera dedičný Prach obyvateľov.
-*   **Tieňová hrozba:** Max počas cesty cíti, že ho niečo sleduje. Jeho amnézia mu bráni Samaella identifikovať, ale jeho inštinkty (vojenské AI v obleku) sú v neustálom "red alert" móde.
-
----
-
-## Časť 3: Stretnutie a Krvavá Cena
-
-### Motivácia Samaella
-* Samaell je presvedčený, že ak pohltí **Maximiliánovu krv** (pôvodnú, čistú nanotechnológiu elity ex inferis), opraví tým svoj fatálny "glitch".
-* Verí, že získa nesmrteľnosť a moc, ktorá mu umožní postaviť sa Elenii.
-
-### Finále (Flashback/Prequel Arc)
-* **Kruhy sa uzatvárajú:** Stretnutie v ruinách na hranici Juhu.
-* **Odhalenie:** Samaell pri súboji Maxovi prezrádza útržky z Marsu a o Koordinátorovi.
-* **Finále:** Max musí chrániť Tami. Prvýkrát vedome aktivuje **maXpowa** mód. Samaell je porazený (zdanlivo), ale Max získava jeho nanoboty (Technovampirizmus).
-
----
-
-## Časť 4: Prístav Sho'raven (AY 3013) – Súčasnosť
-
-### Scéna 1: Pristátie v Daždi
-*   **Časový skok:** 5 rokov neskôr. Max (krycie meno "Starec") a Tami (teraz 20-ročná "Kapitánka") prilietajú do **Sho'raven**.
-*   **Vizuál:** Nočné mesto v daždi. Prístav je vertikálny labyrint drevených mól a neónových lampionov (bioluminiscencia). Obrovské sochy "Matky" strážia vjazd.
-*   **Atmosféra:** Cyberpunk zmiešaný s feudálnym Japonskom a pirátskou zátokou.
-*   **Vzducholoď:** Tami majstrovsky naviguje loď *Silent Hunter* cez búrku do dokov. Posádka (Chiméry) ju rešpektuje. Max sedí v tieni.
-
-### Scéna 2: Colnica a Identita
-*   **Konflikt:** Colná kontrola Nev'riss. Chiméry nenávidia ľudí. Max musí nosiť masku/helmu alebo sa hrať na nemého sluhu.
-*   **Jazyk:** Tami hovorí plynulo "pouličnou zmesou" (Wildspeak), Max rozumie len útržky.
-*   **Dynamika:** Tami je tá, ktorá vybavuje biznis. Max je "sval". Role sa obrátili.
-
-### Scéna 3: Krčma "U Utopeného Boha"
-*   **Stretnutie:** Majú dohodnutú schôdzku s informátorom (stará ropucha-chiméra), ktorý potvrdí polohu **Aegis Spike**.
-*   **Legenda o "Kľúči":** Informátor hovorí o "Kľúči k Podsvetiu". Max opraví, že je to len *kľúč k jeho pamäti*.
-*   **Tamin Motív (Flashback/Monológ):**
-    *   Tami vysvetľuje, prečo vie, kde to je. Jej rivali – skupina "Hľadači Svitu" – to našli pred rokom vo Východnej Divočine v "Jaskyni Počiatku".
-    *   **Zrada Cirkvi:** Mysleli si, že dostanú odmenu. Priniesli to do Chrámu. Veľkňažky to označili za "prekliaty predmet", "diabolský artefakt", ktorý musí byť bezpečne uschovaný.
-    *   **Upálenie:** Aby sa "nerozšírila nákaza", Hľadačov verejne upálili na námestí pred chrámom. Tami sa dívala z davu.
-    *   "Nejde o prachy, Starec. Ide o to, že tej čarodejnici ukradnem ich najsvätejšiu relikviu priamo spod zadku."
-*   **Heist Setup:** Plán využíva chaos z blížiacej sa vojny. Armáda zo Severu (Graw) je už na hraniciach a mesto je v panike. Väčšina stráží je odvelená na hradby. Chrám je menej strážený, než kedykoľvek predtým.
-*   **Pozadie:** V meste cítiť napätie. Armáda zo Severu (Graw) sa blíži. Vojna je na spadnutie.
-*   **Záverečná scéna:** Max a Tami sa pripravujú na útok na chrám. Max si nasadí svoju helmu a Tami si zapáli cigaretu. Obaja vedia, že toto bude ich posledná práca, ak sa im to nepodarí.
-
-
-## Vizuál (Návrh obalu)
-*   **Obrázok**: ![Book 1 Concept](../assets/books/book-1.png)
-
-## Referencie
-*   [Pôvodný draft prológu](drafts/prologue-1-draft.md)
-*   [Koncept 1. kapitoly](drafts/chapter-1-concept-draft.md)
+*   **Lov Samaella:** Duel s Archanjelom Tieňov, kde Max získal nanoboty. (Možno flashback počas boja v Chráme?)
+*   **Cesta s Tami:** Ako sa z nedôvery stalo puto. (Dialógy počas pokojnejších momentov).
+*   **Pôvod:** Kael a otvorenie boxu.

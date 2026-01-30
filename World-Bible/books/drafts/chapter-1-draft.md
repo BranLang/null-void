@@ -1,10 +1,10 @@
 # Prológ
 
-Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň. Okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
+Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň, aby o okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
 
 Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
 
-Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Jej štíhlu postavu zvýrazňoval šnurovací korzet zakrývajúci bielu košieľku. Na hrubom opasku obnosených nohavíc visel pár automatických pištolí a tenký, nevýrazný rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč. Dlhé gaštanové vlasy jej čiastočne zakrývala kapucňa, spod ktorej sa magicky, ako drahokamy, trblietali šibalské zafírové oči.
+Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Jej štíhlu postavu zvýrazňoval šnurovací korzet zakrývajúci bielu košieľku. Na hrubom opasku obnosených nohavíc visel pár automatických pištolí a tenký rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč. Dlhé gaštanové vlasy jej čiastočne zakrývala kapucňa, spod ktorej sa magicky, ako drahokamy, trblietali šibalské zafírové oči.
 
 Jej zrak spočinul v kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
 
@@ -18,7 +18,7 @@ Otázka ju zaskočila. Dvere sa hlasito zabuchli.
 
 ---
 
-Tami sa presunula na provu lode. Pokojná nočná obloha posiata hviezdami beznádejne zanikala v žiare prichádzajúcej zdola. Nekonečná metropola sa rozprestierala až za horizont. Tami s úžasom hľadela na milióny farebných bodiek mihotajúcich sa v diaľke dolu na zemi. Rozpoznala paláce, katedrály, mosty, železnice, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom.
+Tami sa presunula na provu lode. Pokojná nočná obloha posiata hviezdami beznádejne zanikala v žiare prichádzajúcej zdola. Nekonečná metropola sa rozprestierala až za horizont. Tami s úžasom hľadela na milióny farebných bodiek mihotajúcich sa v diaľke dolu na zemi. Rozpoznala paláce, katedrály, mosty, železnice, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom. A nad tým všetkým, na najvyššom kopci uprostred mesta, žiarila Ona. Kolosálna socha Matky, vytesaná z bieleho kameňa, s rukami roztiahnutými v ochranom geste nad prístavom. Jej tvár bola v tieni, ale svätožiara z reflektorov okolo jej hlavy pretínala smog ako maják.
 
 Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že **Felix** — jej pýcha, je zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na zahájenie pristávacieho manévru.
 
@@ -49,7 +49,7 @@ Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žer
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto pekle.
 
-Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Sp'ira.* Stará kňažka požehnávala každú zbraň dotykom nanotechnológie, o ktorej verila, že je dych Matky.
+Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Kňažky — jedna z nich stará Mezra s mačacími očami, no inak ľudskou tvárou — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Sp'ira.* Stará kňažka požehnávala každú zbraň dotykom nanotechnológie, o ktorej verila, že je dych Matky.
 
 Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Sp'ira je s vami!"*
 
@@ -76,7 +76,7 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Našli niečo — niečo, čo nemali nájsť.
 
 
-A za to ich upálili na námestí v Shoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď sa niekto dotkne svätých relikvií Vševedúcej Matky.
+A za to ich upálili na námestí v Shoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky.
 
 Tami bola v tom čase na východe. Počula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno "Spáč" šepkané v krčmách ako kliatba.
 
@@ -138,8 +138,6 @@ Podišla k Maxovi a rafinovane sa naklonila cez zábradlie. Nechala si čas, aby
 
 Vojaci pri pohľade na ňu skameneli.
 
-Tami si nikdy nezakladala na svojom vzhľade, ale vedela, že pre miestnych bola... *exotická.* Atletická postava, košielka s výstrihom, zafírové oči pod leteckými okuliarmi na čele a — samozrejme — to, čo nemohla skryť. Jej pôvod. Dve líščie uši trčiace z gaštanových vlasov. A keby sa otočila, pušistý chvost.
-
 V krčmách na východe si už na ňu zvykli. Tu, v srdci Nevriss, kde Kult Vševedúcej Matky učil, že všetky deti Matky sú si rovné, bola pravdepodobne vítaná. Ale Líšky boli vzácne. Väčšina starých rodov vymrela počas prvej vojny o Sp'iru a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha.
 
 *Niet divu, že tak zízajú.*
@@ -190,7 +188,7 @@ Vnútorný mechanizmus bol rozbitý na kusy. Nie len prasknutý kryt — *doska 
 
 Maki vedeli. Tí záhadní, tichý mechanici, ktorí boli najlepšími technológmi na kontinente. Ak v Shoraven existoval jediný mechanik schopný takej presnosti, bol to jeden z nich.
 
-Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss boli Chiméry vítané, ale nepotrebovala zbytočnú pozornosť. Nie dnes.
+Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss boli Varietas vítané, ale nepotrebovala zbytočnú pozornosť. Nie dnes.
 
 Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maxov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí.
 
@@ -239,7 +237,7 @@ Tami kráčala pomedzi stánky tržnice. Vzduch tu vonia korením, smažením a 
 
 *Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Sp'iry a umierajú bez nej. Žiadna modlitba to nezmení.*
 
-*Nevriss. Nikdy-Ľad. Zem, kde sa Chiméry nemusia schovávať.*
+*Nevriss. Nikdy-Ľad. Zem, kde sa Varietas nemusia schovávať.*
 
 Aspoň teoreticky. A aspoň kým grawská armáda nepríde cez hory.
 
@@ -247,7 +245,7 @@ V praxi bola rovnosť Kultu Matky krásna lož. Žiadne otroctvo — to áno, na
 
 *Požehnané deti. Jasné.*
 
-Pri Tretej Bráne sa zastavila. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
+Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
 Schádzala po schodoch z mokrého kameňa. Ulička sa zužovala. Domy sa k sebe nakláňali, akoby sa šeptali. Bielenie padalo zo stien ako lupiny z chorej kože. Prádlo viselo medzi oknami na lanách a kvapkalo na chodcov.
 
@@ -350,7 +348,7 @@ Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky
 
 *Jednoduché.*
 
-Usmievala sa. Ale nie očami.
+Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako kov pištole pod jej kabátom.
 
 ---
 

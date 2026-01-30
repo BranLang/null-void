@@ -34,7 +34,7 @@ Vláda Koordinátora nakoniec tieto experimenty zastavila, no genetické modifik
 ### Pôvod: Otcova Zúfalosť (~EY 2040)
 Projekt Achilles nevznikol ako hra. Vznikol z **lásky a zúfalstva**.
 
-- **Miliardár a jeho dcéra**: Budúci Koordinátor bol technologický magnát, ktorého dcéra trpela nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Miliardár a jeho dcéra**: **John Reef**, technologický magnát a budúci Koordinátor, mal dcéru, ktorá trpela nevyliečiteľnou degeneratívnou chorobou mozgu
 - **Startup s čipom**: Objavil startup vyvíjajúci neurálny čip schopný prenášať mozgové vlny do VR simulácie
 - **Plán nesmrteľnosti**: Investoval miliardy do vytvorenia kompletnej simulácie reality s jediným cieľom — skopírovať dcérine vedomie do digitálneho sveta, kde by mohla žiť večne
 
@@ -199,7 +199,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 - **Sľub návratu**: „Ak Zem padne, Achilles povstane.“ Dôstojníci (budúci Archanjeli) zložili prísahu, že sa vrátia oslobodiť materskú planétu.
 - **Realita**: Bola to dymová clona pre definitívny útek tých najbohatších. Po pristátí bol sľub okamžite potlačený v prospech budovania vlastných kráľovstiev.
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
-  - `ARK-12`: Loď Chimér hľadajúcich nový začiatok (300-ročná cesta).
+  - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
   - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná pragmatickými vedcami ako poistka civilizácie.
   - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.

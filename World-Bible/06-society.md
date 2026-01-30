@@ -9,9 +9,9 @@
 
 **Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa tak boja technológie). Sú to "elfovia" tohto sveta.
 
-**Status:** Sú vzácni. Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Chimérami, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
+**Status:** Sú vzácni. Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
 
-### 2. Homo Sapiens Varietas (Chiméry / Neo-Morfovia)
+### 1. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
 **Hanlivé názvy:** "Zver", "Miešanci", "Hračky", "Krátkožijúci".
 
 **Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu). Pretože ich fyziológia bola odlišná, pôvodné udržiavacie nanoboty v nich nefungovali.
@@ -77,46 +77,46 @@ graph BT
 ### 1. Archanjeli (The Executors)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
 - **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Ynetis. Ich intervencia zvrátila priebeh boja.
-- **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Chiméry sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Chimér. Viac zdravých Chimér = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
+- **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
 - **Skutočný Strach**: Boja sa len dvoch vecí: **Wraithov** (ktorí môžu poškodiť systémy Citadely) a **Hniloby (Glitch Rot)**, ktorá korumpuje nanoboty a robí ich nepoužiteľnými.
 - **Odber (Zber)**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
-- **Dôsledok pre spoločnosť**: Mágia je medzi Chimérami vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
+- **Dôsledok pre spoločnosť**: Mágia je medzi Varietas vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maxom v AY 3001).
     - **Grom:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
     - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Južnom kontinente v Sklenom Meste.
     - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Západnom kontinente.
 
-### 2. "Tí Roztrúsení" (Ľudia medzi Chimérami)
+### 2. "Tí Roztrúsení" (Ľudia medzi Varietas)
 Trosky starej civilizácie Homo Sapiens Sapiens, ktorí nie sú warlordi.
-- **Status:** Žijú v mestách Chimér ako vážená, ale obávaná elita (lekári, učitelia, poradcovia).
+- **Status:** Žijú v mestách Varietas ako vážená, ale obávaná elita (lekári, učitelia, poradcovia).
 - **Psychológia:** Paralyzovaní nostalgiou a traumou. Videli pád sveta. Boja sa hovoriť o minulosti (Protokol Ticha). Sú to cynickí, depresívni "nesmrteľní".
 
 ### 3. Potulní Exorcisti (The Wandering Exorcists)
 Drsní žoldnieri a veteráni špecializovaní na boj v zamorených zónach. Nie sú to kňazi, ale „likvidátori“.
 - **Rola**: Čistia ložiská **Hniloby** a „vyháňajú“ **Wraithov** (fyzickým ničením hardvéru). Používajú ťažké skafandre, plameňomety a analógové zbrane.
-- **Zloženie**: Zúfalí ľudia (odolnejší voči Hnilobe) alebo Chiméry. Práca s najvyššou úmrtnosťou.
+- **Zloženie**: Zúfalí ľudia (odolnejší voči Hnilobe) alebo Varietas. Práca s najvyššou úmrtnosťou.
 - **Status**: Sú nesmierne bohatí, no žijú krátko. Platení sú v čistom zlate.
 
 ### 4. Androidi (Maki)
 Neemotívni inžinieri a stavitelia. Volaní aj "Tichí" alebo slangovo "Tikači". 
 - **Rola:** Poskytujú technické znalosti a stavajú analógovú infraštruktúru (vzducholode, zavlažovanie).
-- **Status:** Sú neutrálni, ale rešpektovaní. Pre Archanjelov sú hrozbou, pre Chiméry spasiteľmi.
+- **Status:** Sú neutrálni, ale rešpektovaní. Pre Archanjelov sú hrozbou, pre Varietas spasiteľmi.
 
-### 5. Chiméry (The Serfs)
+### 5. Varietas (The Serfs)
 Väčšina populácie. Pracujú v doménach Archanjelov alebo žijú v kmeňoch.
 
 ---
 
-## Sp'ira — „Mágia" Chimér
+## Sp'ira — „Mágia" Varietas
 
 ### Názov a Pôvod
-**Sp'ira** (z pôvodného anglického *Spirit*, skomolené cez 3000 rokov evolúcie jazyka) je chimérsky názov pre nanotechnológie v krvi. Pre nich je to mágia — neviditeľná sila, dar Matky.
+**Sp'ira** (z pôvodného anglického *Spirit*, skomolené cez 3000 rokov evolúcie jazyka) je názov Varietas pre nanotechnológie v krvi. Pre nich je to mágia — neviditeľná sila, dar Matky.
 
 | | |
 |---|---|
 | **Pôvodné slovo** | Spirit → Sp'rit → Sp'ira |
-| **Význam pre Chiméry** | Magická sila, požehnanie Matky |
+| **Význam pre Varietas** | Magická sila, požehnanie Matky |
 | **Skutočnosť** | Koncentrácia nanobotov v krvi (dedičná) |
 | **Rozdelenie** | Nerovnomerné — závisí od genetiky a kasty |
 
@@ -145,7 +145,7 @@ Jedinci s vysokou koncentráciou nanobotov v krvi dokážu:
 |-------|-------|--------|------------|
 | **Čistokrvní** *(Pursang)* | Elitné rodiny, generácie dohodnutých zväzkov | Extrémna | Až 50 zím (~250 rokov) |
 | **Stredná kasta** *(Mezra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Ľudský s jemnými zvieracími črtami (uši, oči, zuby). | Stredná | 15-25 zím (~75-125 rokov) |
-| **Nízka kasta** *(Ghorki)* | Chiméry bez mágie. **Vzhľad:** Silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
+| **Nízka kasta** *(Ghorki)* | Varietas bez mágie. **Vzhľad:** Silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
 
 ### Čistokrvní *(Pursang)*
 Vrchol pyramídy. Rodiny, ktoré sa po generácie pomocou dohodnutých zväzkov šplhali na vrchol.
@@ -171,7 +171,7 @@ Chrbtica spoločnosti. Remeselníci, obchodníci, vojaci s remeselnou mágiou.
 - **Vzhľad**: Dominantne ľudský. Zvieracie znaky sú subtílne — mačacie oči, špicaté uši, pazúry namiesto nechtov. Nikdy nemajú srsť na tvári ani zvieraciu hlavu.
 
 ### Nízka kasta *(Ghorki)*
-Chiméry bez mágie. Geneticky vzdialené od ľudského pôvodu.
+Varietas bez mágie. Geneticky vzdialené od ľudského pôvodu.
 
 - **Genetika**: Minimálna alebo žiadna ľudská DNA → nanoboty nefungujú
 - **Sp'ira**: Žiadna alebo takmer žiadna
@@ -196,29 +196,29 @@ Chiméry bez mágie. Geneticky vzdialené od ľudského pôvodu.
 ## Sociálna Dynamika & Konflikt
 
 ### 1. Závisť a Nenávisť (Smrteľnosť vs. Večnosť)
-Toto je jadro napätia. Chiméry budujú, množia sa a umierajú v priebehu jednej generácie. Ľudia sa na to pozerajú celé stáročia, nemenní a arogantní. Chiméry vnímajú ľudí ako sebeckých bohov, ktorí sa nechcú podeliť o dar večnosti.
+Toto je jadro napätia. Varietas budujú, množia sa a umierajú v priebehu jednej generácie. Ľudia sa na to pozerajú celé stáročia, nemenní a arogantní. Varietas vnímajú ľudí ako sebeckých bohov, ktorí sa nechcú podeliť o dar večnosti.
 
-**Vnútorný rasizmus:** Chiméry sú rasistické aj medzi sebou. Kastový systém založený na Sp'ire vytvára rigidnú hierarchiu — Čistokrvní (Pursang) s najsilnejšou mágiou pohŕdajú Ghorki bez Sp'iry. Čím viac zvieracích čŕt, tým nižšie v hierarchii. Je to kruté, pretože práve najväčšie odchýlky od ľudského tvaru znamenajú najmenšiu kompatibilitu s nanobotmi.
+**Vnútorný rasizmus:** Varietas sú rasistické aj medzi sebou. Kastový systém založený na Sp'ire vytvára rigidnú hierarchiu — Čistokrvní (Pursang) s najsilnejšou mágiou pohŕdajú Ghorki bez Sp'iry. Čím viac zvieracích čŕt, tým nižšie v hierarchii. Je to kruté, pretože práve najväčšie odchýlky od ľudského tvaru znamenajú najmenšiu kompatibilitu s nanobotmi.
 
 ### 2. Folklór vs. Pravda
 - **Pravda:** Ľudia vedia, že svet bol sci-fi civilizácia zničená AI. Mlčia o tom zo strachu.
-- **Folklór Chimér:** Veria v "Matku Inetis", ktorá im dala dary (mágiu) a veria, že ľudia sú padlí anjeli. Fundamentalisti odmietajú vedeckú pravdu.
+- **Folklór Varietas:** Veria v "Matku Inetis", ktorá im dala dary (mágiu) a veria, že ľudia sú padlí anjeli. Fundamentalisti odmietajú vedeckú pravdu.
 
 ### 3. Logika vs. Emócie vs. Stagnácia
 Synths priniesli tretiu stranu konfliktu.
 - **Archanjeli (Stagnácia):** Chcú udržať status quo a svoje chátrajúce telá. Maki sú pre nich nekontrolovateľní paraziti (nedajú sa vysiať).
-- **Chiméry (Emócie):** Túžia po pokroku a slobode. Maki sú ich pohonným motorom.
-- **Maki (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Chiméram technológiu, ktorá im umožňuje obchádzať nadvládu Archanjelov (napr. Vzducholode).
+- **Varietas (Emócie):** Túžia po pokroku a slobode. Maki sú ich pohonným motorom.
+- **Maki (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Varietas technológiu, ktorá im umožňuje obchádzať nadvládu Archanjelov (napr. Vzducholode).
 
 ### 4. Predsudky vs. Skúsenosť (Kríza identity)
 Najhlbší psychologický konflikt sveta.
 - **Pravda v tme**: Maxov príklad ukazuje, že rešpekt sa dá vybudovať aj medzi úhlavnými nepriateľmi, ak je potlačený vizuálny vnem.
-- **Dôsledok Zjavenia**: Keď sa predsudok stretne s pozitívnou osobnou skúsenosťou (napr. Max zistí, že jeho záchranca je Chiméra), dochádza k rozbitiu identity. Buď jedinec prijme novú realitu, alebo sa stiahne do ešte agresívnejšej nenávisti, aby ochránil svoje staré vnímanie sveta.
+- **Dôsledok Zjavenia**: Keď sa predsudok stretne s pozitívnou osobnou skúsenosťou (napr. Max zistí, že jeho záchranca je Varietas), dochádza k rozbitiu identity. Buď jedinec prijme novú realitu, alebo sa stiahne do ešte agresívnejšej nenávisti, aby ochránil svoje staré vnímanie sveta.
 
 ### 5. Achilles: Mýtus o Pevnosti vs. Realita Hrdze
 Názov planéty odráža najväčšiu iróniu sveta.
 - **Ľudský Mýtus**: Pre tých, čo prišli zo Zeme, mal byť Achilles „Nezlomným štítom“ a základňou pre návrat domov.
-- **Chiméria Realita**: Pre domorodcov je to len meno z rozprávok. Planétu vnímajú ako „hrobku hrdze a kostí“. Pre nich Achilles neznamená hrdinu, ale miesto, kde nádej prišla zomrieť.
+- **Realita Varietas**: Pre domorodcov je to len meno z rozprávok. Planétu vnímajú ako „hrobku hrdze a kostí“. Pre nich Achilles neznamená hrdinu, ale miesto, kde nádej prišla zomrieť.
 - **Achillova Päta**: Svet sa stal zosobnením ľudskej slabosti — zbabelosti elity, ktorá namiesto budovania armády pre návrat na Zem podľahla vlastnému božstvu a dekadencii.
 
 ---
@@ -253,7 +253,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 - **Shoraven Burza** *(Shobo)*: Otvorené tržisko v centre prístavu, kde sa obchoduje s komoditami — kovy, obilie, korenie, Sp'ira kryštály (sústredený nanotech v minerálnej forme), zbrane.
 - **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát/Grom), v Nevriss funguje voľný trh. Ktokoľvek môže obchodovať — od Pursang aristokrata po Ghorki pouličného predavača.
 - **Zmluvy**: Papierové kontrakty overené gildovou pečaťou. Porušenie zmluvy sa trestá vyhnanstvom z gildy — v praxi ekonomická smrť.
-- **Pašovanie**: Kde je voľný obchod, tam je aj čierny trh. Podzemný obchod s kradenými relíkviami, zakázanými zbraňami a — v tajnosti — s informáciami o Sp'ire a podzemných tuneloch.
+- **Pašovanie**: Kde je voľný obchod, tam je aj čierny trh. Podzemný obchod s kradnutými relíkviami, zakázanými zbraňami a — v tajnosti — s informáciami o Sp'ire a podzemných tuneloch.
 
 ### Doprava
 1. **Vzducholode:** Najrýchlejšia doprava. Využívajú hustejšiu atmosféru.
@@ -267,8 +267,8 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 
 - **Staroreč (Ancient / Stará angličtina)**: Jazyk Ex Inferis a pôvodných ľudí zo Zeme. Pre moderných obyvateľov znie archaicky a nezrozumiteľne.
 - **RP English (Kráľovská angličtina)**: Štandardný jazyk Makov (Maki). Formálny, neemotívny a chladný. Slúži ako hlavný most pre tých, čo sa vracajú zo stázy.
-- **Neo-Terran**: Zmutovaná angličtina ovplyvnená dialektmi Chimér. Jazyk obchodu a bežných ľudí.
-- **Wildspeak (Bľabot)**: Rôznorodé dialekty a slangy Chimér, často postavené na zvukoch a gestách.
+- **Neo-Terran**: Zmutovaná angličtina ovplyvnená dialektmi Varietas. Jazyk obchodu a bežných ľudí.
+- **Wildspeak (Bľabot)**: Rôznorodé dialekty a slangy Varietas, často postavené na zvukoch a gestách.
 
 ---
 
@@ -298,21 +298,23 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 
 ## Náboženstvá a Kulty
 
-### Kult Vševedúcej Matky (Juh - Nevriss)
+### Kult Vševedúcej Matky (Decentralizovaná Viera)
+Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie je však centrálne riadený ako Katolícka cirkev. Je to skôr federácia sesterských cirkví, ktoré zdieľajú základné dogmy, ale líšia sa vo výklade "roli mužov" a mytológii.
 
-| | |
-|---|---|
-| **Božstvo** | Inetis ("Matka") |
-| **Centrum** | Hlavný Chrám v Shoraven |
-| **Vláda** | Rada Veľkňažiek (matriarchát) |
-| **Charakter** | Liberálnejší, obchodne orientovaný |
+#### 1. Nevriss (Juh) — Reformovaná Cirkev
+**"Všetky deti sú si rovné."**
+- **Teológia:** Monoteizmus. Uctievajú len Matku. Postava "Otca" alebo "Spáča" je z mytológie zámerne vymazaná alebo marginalizovaná.
+- **Dôvod (Lore):** Pred 100 rokmi v Nevriss vypukli **Krvavé Vzbury Mužov**. Stará dogma (podobná tej v Beladiss) tvrdila, že muži nesú "Hriech Otca". To viedlo k útlaku. Po revolúcii Rada Veľkňažiek reformovala vieru — Spáč bol vyškrtnutý z kázní, aby sa mužom priznala duša a práva. Dnes je Nevriss najliberálnejšia teokracia.
+- **Shoraven:** Hlavný chrám je centrom tejto reformovanej vetvy.
 
-**Doktríny:**
-- "Matka nás opustila pre naše hriechy"
-- Mágia je dar, ale aj skúška
-- Chiméry sú "deti Matky"
+#### 2. Beladiss (Východ) — Ortodoxný Dualizmus
+**"Matka dáva život, Otec prináša smrť."**
+- **Teológia:** Dualizmus. Svet je boj medzi Matkou (Všehomír) a Otcom (Spáč / The Sleeper).
+- **Otec ako Zlo:** Otec je v ich lore stelesnenie zla, ničenia a chladnej logiky, ktorá zničila starý svet.
+- **Postavenie mužov:** Muži sú v Beladiss považovaní za "nádoby hriechu". Majú obmedzené práva, nemôžu vlastniť pôdu ani zastávať úrady. Sú to de facto občania druhej kategórie, ktorí sa musia "vykupovať" tvrdou prácou.
+- **Vzťah s Nevriss:** Beladiss považuje Nevriss za "mäkký" a heretický, pretože dovolil mužom vládnuť v gildách.
 
-**Relikvia:** V kobkách pod Hlavným chrámom je ukrytý **Aegis Spike** — považovaný za "Palicu Súdneho Dňa"
+**Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytý **Aegis Spike** — považovaný za "Palicu Súdneho Dňa". Paradoxne, je to zbraň Otca, ktorú Cirkev stráži, hoci ho verejne popiera.
 
 ### Kult Nesmrteľného Groma (Sever - Graw)
 

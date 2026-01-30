@@ -30,12 +30,12 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 ### Všeobecná klíma — Zamrznutý svet
 - **Celá planéta je zamrznutá.** Achilles je ľadový svet — povrch je takmer úplne pokrytý ľadom, snehom a permafrostom.
 - **Jediná obyvateľná zóna** je úzky pás okolo **rovníka**, kde kombinácia slnečného žiarenia, geotermálnej aktivity a zvyškovej teraformácie udržiava teploty nad bodom mrazu.
-- Tento rovníkový pás je **všetko, čo civilizácia Chimér pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri kontinenty — Terra, Aprika a Neuropa — ležia v tomto páse.
+- Tento rovníkový pás je **všetko, čo civilizácia Varietas pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri kontinenty — Terra, Aprika a Neuropa — ležia v tomto páse.
 - Pás nie je tropický raj — je to drsná, chladná krajina s boreálnymi lesmi, tundrou a občasnými teplejšími údoliami. Džungle existujú len v najchránenejších oblastiach (geotermálne pramene + zvyšky terraformingu).
 
 ### Sezónny cyklus
 - **Zimy trvajú 5 rokov** — devastujúce pre poľnohospodárstvo. Aj v rovníkovom páse teploty klesajú k bodu mrazu, ľadovce sa posúvajú bližšie.
-- **Meranie veku Chimér**: V počte prežitých zím (napr. "Má 12 zím" = ~60 rokov)
+- **Meranie veku Varietas**: V počte prežitých zím (napr. "Má 12 zím" = ~60 rokov)
 - **Dlhé letá**: Obdobia hojnosti, kedy sa krajiny zásobujú na ďalšiu zimu. Rovníkový pás sa rozšíri, niektoré oblasti sú dočasne obývateľné.
 - **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám. Počas zím sa obyvateľný pás zúži a krajiny bojujú o priestor.
 
@@ -54,7 +54,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - Obyvateľný pás sa zúži na úzky pruh okolo rovníka.
 - More čiastočne zamrzne — námornícke trasy sú obmedzené alebo nemožné. Ľadové kryhy blokujú pobrežie.
 - Nevriss prežíva lepšie — bližšie k rovníku, miernejšie podmienky — ale aj tu teploty klesnú, úroda sa zníži.
-- **Ynetis (súostrovie pri rovníku) zostáva zelené** — najteplejšie miesto na planéte, chránené polohou. Paradoxne, najobývateľnejšie miesto sveta je zaplavené Wraithy a nedosiahnuteľné. Väčšina Chimér verí, že sa potopilo.
+- **Ynetis (súostrovie pri rovníku) zostáva zelené** — najteplejšie miesto na planéte, chránené polohou. Paradoxne, najobývateľnejšie miesto sveta je zaplavené Wraithy a nedosiahnuteľné. Väčšina Varietas verí, že sa potopilo.
 - Neuropa (púšť, hory) — púštne oblasti sa zmenšia, horské časti zamrznú.
 
 **Toto je kľúč k vojne:** Graw v zime stráca väčšinu územia. Päťročná zima doslova zmrazí krajinu — magma vyhreje mesto, ale nenakŕmi ho. Grawčania hladujú, kým Nevriss pri rovníku ešte dokáže produkovať obilie. Preto Graw vždy nakoniec zaútočí na juh.
@@ -80,19 +80,19 @@ Tri hlavné kontinenty ležia v rovníkovom páse. Každá rasa ich pozná pod i
 
 | Kontinent | Názov | Pôvodný tvar | Pôvod |
 |-----------|-------|-------------|-------|
-| **Hlavný** | **Terra** | **Terra Nova** | Prví chimérski kolonisti sa nevedeli dohodnúť na názve pre svoj nový domov. Nakoniec zvolili najjednoduchšie riešenie — prastaré slovo z mŕtveho jazyka: *Terra Nova* ("Nová Zem"). Postupne sa skrátilo na **Terra**. Nevriss je len jednou z ~20 krajín na Terre. |
+| **Hlavný** | **Terra** | **Terra Nova** | Prví kolonisti Varietas sa nevedeli dohodnúť na názve pre svoj nový domov. Nakoniec zvolili najjednoduchšie riešenie — prastaré slovo z mŕtveho jazyka: *Terra Nova* ("Nová Zem"). Postupne sa skrátilo na **Terra**. Nevriss je len jednou z ~20 krajín na Terre. |
 | **Južný** | **Aprika** | **Apes + Africa** | Opice hovorili angličtinou a ich prvý vodca — ktorého začali volať **Cézar** podľa kultového filmu — vymyslel meno spojením *Apes* + *Africa*. Pôvodne to bol vtip. Potom sa z toho stal názov. A z "Cézara" sa stal dedičný titul — každý vládca Apes nesie titul **Cézar**. Interný meme, ktorý prežil 3000 rokov. |
-| **Západný** | **Neuropa** | **Neo Europa** | Nostalgický odkaz na starú Európu — kontinent, ktorý ľudskí predkovia opustili. Pôvodne *Neo Europa*, postupne skrátené na **Neuropa**. Ľudia si pamätajú Zem — na rozdiel od Chimér a Apes, niekoľko stoviek pôvodných pozemšťanov ešte žije a hovorí starým jazykom. |
+| **Západný** | **Neuropa** | **Neo Europa** | Nostalgický odkaz na starú Európu — kontinent, ktorý ľudskí predkovia opustili. Pôvodne *Neo Europa*, postupne skrátené na **Neuropa**. Ľudia si pamätajú Zem — na rozdiel od Varietas a Apes, niekoľko stoviek pôvodných pozemšťanov ešte žije a hovorí starým jazykom. |
 
 ### Jazyky podľa kontinentov
 
 | Kontinent | Jazyk | Poznámka |
 |-----------|-------|----------|
-| **Terra** | **Chimérčina** | Evolúcia angličtiny zmiešaná so zvieracími zvukmi. Úplne nezrozumiteľná pre ostatné rasy. Písmo inšpirované Hiraganou. |
+| **Terra** | **Jazyk Varietas** | Evolúcia angličtiny zmiešaná so zvieracími zvukmi. Úplne nezrozumiteľná pre ostatné rasy. Písmo inšpirované Hiraganou. |
 | **Aprika** | **Angličtina (stará)** | Apes si zachovali angličtinu — ich jazyk je bližší originálu než čokoľvek na Terre. Cézar a prví vodcovia hovorili plynulou angličtinou. Po 3000 rokoch sa vyvinula, ale základ zostáva rozpoznateľný. |
 | **Neuropa** | **Angličtina + slangy** | Niekoľko stoviek nesmrteľných pozemšťanov hovorí pôvodnou angličtinou (starý jazyk). Ale za 3000 rokov sa v Neurope vyvinulo **viacero slangov a podjazykov** — každé mesto, kmeň či komunita má vlastnú variáciu. Základ je rozpoznateľný, ale dialekty sa líšia. |
 
-> **Poznámka:** Chiméry z Nevriss poznajú hlavne svoj kontinent — Terru. O Aprike a Neurope vedia len z legiend a námorníckych príbehov. Apes a Ľudia majú vlastné názvy, ktoré Chiméry nepoznajú alebo nepoužívajú.
+> **Poznámka:** Varietas z Nevriss poznajú hlavne svoj kontinent — Terru. O Aprike a Neurope vedia len z legiend a námorníckych príbehov. Apes a Ľudia majú vlastné názvy, ktoré Varietas nepoznajú alebo nepoužívajú.
 
 ---
 
@@ -172,7 +172,7 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 - **Severná hranica**: Za horským masívom začína zamrznutá zóna. Občasné výpravy za vzácnymi minerálmi.
 
 ### Tajomstvo Groma
-- **Pravý Grom (AY 700-1200)**: Skutočný Archanjel, Ex Inferis zo Zeme. Spravodlivý vládca, ktorý nosil Power Armor. Chiméry ho milovali.
+- **Pravý Grom (AY 700-1200)**: Skutočný Archanjel, Ex Inferis zo Zeme. Spravodlivý vládca, ktorý nosil Power Armor. Varietas ho milovali.
 - **Smrť (~AY 1200)**: Zomrel na Glitch Rot. Jeho Power Armor zostal.
 - **Dynastia podvodníkov (AY 1200-3013)**: Generáli si obliekli zbroj a vyhlásili sa za "Groma II, III..." Nikto nevidí tvár pod helmou.
 - **Aktuálny "Grom"**: Agresor a dobyvateľ. Začína vojnu s Juhom.
@@ -195,7 +195,7 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 | | |
 |---|---|
 | **Starý názov** | **Neverice** (Never-Ice = "nikdy ľad") |
-| **Chimérsky názov** | **Nevriss** (so syčaním na konci) |
+| **Názov Varietas** | **Nevriss** (so syčaním na konci) |
 | **Veľkosť** | Približne ako Taliansko |
 | **Vláda** | Rada Veľkňažiek (matriarchát) |
 | **Náboženstvo** | Kult Vševedúcej Matky |
@@ -217,7 +217,7 @@ Nevriss zaberá strednú a južnú časť Terry — od pohoria Kel'morah na seve
 | | |
 |---|---|
 | **Starý názov** | **Shorehaven** (Shore-Haven = "Prístavné útočisko") |
-| **Chimérsky názov** | **Shoraven** |
+| **Názov Varietas** | **Shoraven** |
 | **Lokácia** | Polostrov na južnom pobreží — najväčší prístav na kontinente |
 | **Charakter** | Multikultúrny hub, obchodné a náboženské centrum |
 | **Dominanta** | Hlavný Chrám Vševedúcej Matky |
@@ -250,6 +250,25 @@ Shoraven leží na polostrove na južnom pobreží Nevriss, vybiehajúcom do mor
 - **Opening scéna**: Vzducholoď pristáva v nočnom meste na doku 17 — na samom okraji prístavu
 - **Heist lokácia**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom
 - **Obliehanie**: Počas vojny s Graw bude mesto obliehané (útok cez šíjí a vzduchom)
+
+---
+
+## Východná Krajina: BELADISS
+
+| | |
+|---|---|
+| **Názov** | **Beladiss** (Bella-D'Is = "Krásna Isis") |
+| **Lokácia** | Východne od Nevriss, pozdĺž pobrežia |
+| **Vláda** | Teokratická monarchia (Matriarchát) |
+| **Náboženstvo** | Ortodoxný Kult Matky (Dualizmus) |
+| **Charakter** | Konzervatívny, mystický, utláčajúci mužov |
+
+### Krajina a Spoločnosť
+Beladiss je krajina bielych útesov, veterných plání a starobylých kláštorov. Na rozdiel od priemyselného Graw alebo obchodného Nevriss, Beladiss je krajina "čistej viery".
+
+- **Teológia Nenávisti**: Veria v dualitu. Matka (Inetis) je dobro, Otec (niekedy stotožňovaný so Spáčom) je zlo. Muži sú považovaní za nositeľov "Hriechu Otca". Majú obmedzené práva, nemôžu dediť pôdu a slúžia v armáde ako "kajúcníci" (prvá línia, samovražedné misie).
+- **Vzťah s Nevriss**: Beladiss a Nevriss sú teoreticky spojenci (vyznávajú rovnakú bohyňu), ale prakticky si nedôverujú. Pre Beladiss je Nevriss "hniezdo neresti", kde majú muži príliš veľa slobody.
+- **Lore**: V ich mytológii existuje príbeh o "Dcére, ktorá musela zabiť Otca, aby zachránila svet". Tento príbeh je prekrútenou verziou skutočnej histórie Inetis a Johna Reefa.
 
 ---
 
@@ -314,7 +333,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Na mape viditeľné ako masívny ho
 Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, centrum vedy, mágie a moci. Po páde civilizácie sa stalo niečím iným. Wraithy — temné entity priťahované nanotech energiou a elektrinou — zaplavili celé súostrovie. Koncentrácia Wraiths na Ynetis je najvyššia na planéte, pretože Core (jadro AI) v srdci mesta stále beží a generuje obrovské množstvo nanotech energie.
 
 - **Stratená poloha**: Presná lokácia Ynetis sa stratila. Žiadne mapy ho neukazujú. Námorníci a aeronauti, ktorí sa vydali hľadať legendárne mesto, sa **nikdy nevrátili** — ani lode, ani vzducholode. Len ticho a prázdny oceán.
-- **Všeobecné presvedčenie**: Väčšina Chimér verí, že Ynetis sa **potopilo** — pohltené morom ako trest bohov. Legendy hovoria o meste na dne oceánu, o potopených vežiach a zatopených chrámoch.
+- **Všeobecné presvedčenie**: Väčšina Varietas verí, že Ynetis sa **potopilo** — pohltené morom ako trest bohov. Legendy hovoria o meste na dne oceánu, o potopených vežiach a zatopených chrámoch.
 - **Skutočnosť**: Mesto stále stojí na súostroví pri rovníku. Ale Wraithy vytvárajú okolo neho nepreniknuteľnú bariéru — lode strácajú orientáciu, posádky šalejú, kompasy prestávajú fungovať. Kto sa priblíži, toho Wraithy pohltia.
 - **Prekliate more**: Oblasť oceánu okolo Ynetis je známa ako zakázaná voda. Námorníci sa jej vyhýbajú. Občas prílivové prúdy vynesú na pobrežie Nevriss zvláštne predmety — kusy bieleho materiálu, črepiny s neznámym písmom — ale nikto nevie odkiaľ pochádzajú.
 
@@ -348,14 +367,14 @@ Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnu
 - **Prvá rasa, ktorá opustila Ynetis**: Apes odišli ešte **pred udalosťami Glitch Rotu** — pred pádom civilizácie, pred Wraithy, pred všetkým. Toto rozhodnutie im zachránilo existenciu.
 - **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Sp'iru, nemajú „mágiu". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
 - **Splynutie rás**: Pôvodné rasy — šimpanzy, gorily, orangutany — splynuli počas 3000 rokov do jednej rasy. Jednotná civilizácia, jednotný jazyk, jednotná kultúra.
-- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Sp'iru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Chiméry považujú za mágiu — ale je to len technológia.
+- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Sp'iru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za mágiu — ale je to len technológia.
 
-#### Čo vedia Chiméry o Apes
+#### Čo vedia Varietas o Apes
 
-Takmer nič. Aprika je oddelená morom a Chiméry z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
+Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
 
 - **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **Apes v lesklej zbroji s veľkými oceľovými sekerami** na pobreží. Masívne, tiché, organizované. Väčšina ľudí to považuje za opilecké rozprávky.
-- **Husté močiare a pralesy**: Aprika je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Chiméry zvyknuté na chladné lesy a smog to je cudzí svet.
+- **Husté močiare a pralesy**: Aprika je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Varietas zvyknuté na chladné lesy a smog to je cudzí svet.
 - **Žiadny kontakt**: Apes zjavne nemajú záujem o kontakt s Terrou. Či už preto, že to nepotrebujú, alebo preto, že Terru považujú za primitívnu.
 
 #### Ishtar/Zaya — Sklené Mesto
@@ -375,7 +394,7 @@ Takmer nič. Aprika je oddelená morom a Chiméry z Terry nemajú dôvod ani pro
 
 ### Neuropa — Západný Kontinent (Doména Elarie)
 
-Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — nostalgický odkaz na starú Európu, kontinent, ktorý ich predkovia opustili pred 3000 rokmi. Krajina kontrastov — husté lesy, hory, starobylé mestá a nebezpečné pustatiny. Domov Ľudí (čistokrvných potomkov pozemšťanov), Exorcistov, Medvedích Chimér a Elarie samotnej.
+Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — nostalgický odkaz na starú Európu, kontinent, ktorý ich predkovia opustili pred 3000 rokmi. Krajina kontrastov — husté lesy, hory, starobylé mestá a nebezpečné pustatiny. Domov Ľudí (čistokrvných potomkov pozemšťanov), Exorcistov, Medvedích Varietas a Elarie samotnej.
 
 #### Veža Zatratených — Elaria
 
@@ -405,19 +424,19 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Populačná explózia**: Postupom času sa to zmenilo — dnes je medzi pôvodnými pozemšťanmi **95% smrteľníkov**. Nižšia rasa ľudí žije v tieni nesmrteľných velikánov.
 - **Motivácia smrteľníkov**: Na rozdiel od stagnujúcich nesmrteľných, smrteľná väčšina chce **budovať a pozerať sa dopredu**. Ich cieľ: vyčistiť svet od Wraiths. Sú najaktívnejšou silou na kontinente.
 
-#### Medvedie Lesy — Medvedí Chiméri
+#### Medvedie Lesy — Medvedí Varietas
 
 | | |
 |---|---|
 | **Lokácia** | Severná časť kontinentu — rozsiahle husté lesy |
-| **Obyvatelia** | **Medvedí Chiméri** — hybridná rasa s medvedím DNA |
+| **Obyvatelia** | **Medvedí Varietas** — hybridná rasa s medvedím DNA |
 | **Krajina** | Nepreniknuteľné prastaré lesy, tmavé a husté |
 | **Charakter** | Divoký, kmeňový, teritoriálny |
 
-- **Medvedí Chiméri**: Ďalšia rasa Chimér — hybridy s medvedím genetickým základom. Masívni, silní, prispôsobení životu v divočine. Na rozdiel od Terry (kde dominujú vlčí, mačací a iní Chiméri), tu na Neurope sa medvedí genotyp stal dominantným.
+- **Medvedí Varietas**: Ďalšia rasa Varietas — hybridy s medvedím genetickým základom. Masívni, silní, prispôsobení životu v divočine. Na rozdiel od Terry (kde dominujú vlčí, mačací a iní Varietas), tu na Neurope sa medvedí genotyp stal dominantným.
 - **Husté lesy**: Severná časť Neuropy je pokrytá prastarými, nepreniknuteľnými lesmi. Obrovské stromy, hustý podrost, minimálne svetlo. Cudzinec sa tu stratí za pár hodín.
-- **Kmeňová spoločnosť**: Medvedí Chiméri nežijú v mestách — ich civilizácia je kmeňová, založená na loveckých skupinách a územných celkoch. Sú teritoriálni a cudzincov netolerujú.
-- **Vzťah k ostatným**: Napäté vzťahy s Ludusom aj Vežou Zatratených. Medvedí Chiméri sa považujú za pôvodných obyvateľov kontinentu a ľudské mestá vnímajú ako narušiteľov.
+- **Kmeňová spoločnosť**: Medvedí Varietas nežijú v mestách — ich civilizácia je kmeňová, založená na loveckých skupinách a územných celkoch. Sú teritoriálni a cudzincov netolerujú.
+- **Vzťah k ostatným**: Napäté vzťahy s Ludusom aj Vežou Zatratených. Medvedí Varietas sa považujú za pôvodných obyvateľov kontinentu a ľudské mestá vnímajú ako narušiteľov.
 
 #### Enkláva Exorcistov
 
@@ -492,7 +511,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
 - **Veža Zatratených**: Sídlo Elarie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.
-- **Medvedie Lesy**: Severná časť Neuropy; husté prastaré lesy obývané Medvedími Chimérmi — kmeňová, teritoriálna spoločnosť.
+- **Medvedie Lesy**: Severná časť Neuropy; husté prastaré lesy obývané Medvedími Varietas — kmeňová, teritoriálna spoločnosť.
 - **Enkláva Exorcistov**: Kláštor vysoko v horách; výcvik bojovníkov proti Wraiths; zachované znalosti z čias pred Glitch Rotom.
 - **Južná Pustatina**: Elariine experimenty — tvory podobné drakom a dinosaurom.
 - **Mystické Miesto Prastarých**: Kam chodia umierať Prastarí. Nikto sa nevrátil.
@@ -502,9 +521,9 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 
 ---
 
-## Jazyk a Písmo Chimér
+## Jazyk a Písmo Varietas
 
-### Chimérsky Jazyk
+### Jazyk Varietas
 - **Pôvod**: Angličtina spred 3000 rokov
 - **Evolúcia**: Zmiešaná so zvieracími zvukmi (vrčanie, syčanie, výkriky)
 - **Výsledok**: Úplne nový jazyk, nezrozumiteľný pre Ex Inferis
@@ -512,7 +531,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 ### Písmo
 - **Inšpirácia**: Hiragana (japonské písmo)
 - **Pôvod**: Inetis navrhla UI pre nanotechnologickú mágiu inšpirované japonskou kultúrou (jej matka bola Japonka)
-- **Adopcia**: Chiméry si toto písmo osvojili a rozšírili
+- **Adopcia**: Varietas si toto písmo osvojili a rozšírili
 
 ### Staroreč (Angličtina)
 - **Status**: Mŕtvy jazyk — ako latinčina v stredoveku
