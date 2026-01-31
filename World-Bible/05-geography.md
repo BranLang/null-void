@@ -39,7 +39,15 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - **Dlhé letá**: Obdobia hojnosti, kedy sa krajiny zásobujú na ďalšiu zimu. Rovníkový pás sa rozšíri, niektoré oblasti sú dočasne obývateľné.
 - **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám. Počas zím sa obyvateľný pás zúži a krajiny bojujú o priestor.
 
-#### Sezónne zmeny (viditeľné na planetárnych mapách)
+#### Nebeská Mechanika a Mapy
+- **Infera (ARK-13)**: Na nočnej oblohe (a niekedy aj cez deň) je voľným okom viditeľná jasná, neprirodzená "hviezda". Volajú ju **Infera**.
+    - **Kultúrny Rozkol**: Pohľad na Inferu delí svet.
+        - **Nevriss a Beladiss (Náboženskí)**: Vnímajú ju ako **"Diablovo Oko"**. Poverčiví dedinčania sa pred ňou skrývajú do domov a veria, že sa na ňu nesmie pozerať. V mestách je tento zvyk už považovaný za zastaraný a poverčivý.
+        - **Graw a Kito (Pragmatici)**: Zachovali si staré vedomosti (alebo intuíciu) — vedia, že Infera je **loď**. Pre nich je to pripomienka technológie, nie mágie.
+- **Hrobka Obrov (Oceán)**: ARK-11 a ARK-12 sa po strate Inetis zrútili do oceánu (gravitácia bola príliš silná na stabilnú orbitu bez korekcií). Ich vraky ležia v hlbinách.
+- **Staré Mapy (Zima/Leto)**: Dochované planetárne mapy zobrazujú stav sveta z čias, keď lode ešte krúžili na orbite (krátko po AY 0). Ukazujú svet, ktorý bol vtedy iný (napr. Terra ešte nemala lesy).
+
+#### Sezónne zmeny (viditeľné na starých mapách)
 
 **V lete:**
 - Ľadové čiapky ustúpia — obyvateľný pás je najširší.
@@ -130,6 +138,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
     Ľadovce         ║       JUŽNÁ KRAJINA                ║
     a ostrovy       ║       N E V R I S S                ║
     (západ)         ║  🌲 Husté lesy, rieky, úrodná zem  ║
+                    ║  (Pôvodne bola Terra bez lesov)     ║
                     ║  🏰 Menšie mestá a dediny           ║
                     ║  🐺 Nebezpečná fauna v lesoch       ║
                     ║                                    ║
@@ -140,10 +149,10 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
                          ⛵ ~ ~ ~ MORE ~ ~ ~ ⛵
     ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─
                          ~ ~ ~ MORE ~ ~ ~
-                    ╔════════════════════════════════════╗
-                    ║  ❓ YNETIS — STRATENÉ MESTO          ║
-                    ║  "Potopilo sa." Nikto sa nevrátil.  ║
-                    ╚════════════════════════════════════╝
+   🏰 VEŽA ZATRATENÝCH      ╔════════════════════════════════════╗
+      (Elenia - Zelená)     ║  ❓ YNETIS — STRATENÉ MESTO          ║
+      [Ostrov na Západe]    ║  "Potopilo sa." Nikto sa nevrátil.  ║
+                            ╚════════════════════════════════════╝
     ┄┄┄┄┄┄┄┄┄┄┄┄┄ hranica ľadu ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
     ❄️❄️❄️❄️❄️❄️❄️ ZAMRZNUTÁ ZÓNA (neobývateľná) ❄️❄️❄️❄️❄️❄️❄️
 ```
@@ -311,6 +320,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich d
 - **Tunely**: Staré bane a tunely z éry Zlatého veku, dnes často brlohy pre šelmy alebo pašerácke trasy.
 - **Klíma**: Celoročný sneh, nebezpečné lavíny. Prechod je možný len v lete alebo cez tunely.
 - **Vodopády**: Na mape viditeľný minimálne jeden mohutný vodopád — rieka padá z pohorského útesu do nížiny Nevriss.
+- **Úžina (The Narrows)**: Strategický bod na západe pod horami. Úzky pás zeme medzi divokou riekou (z vodopádu) a morom. Jediná cesta, kadiaľ sa dá prejsť do Nevriss po suchej zemi bez preliezania hôr. Historické miesto "Veľkej Bitky" (Thermopyly tohto sveta).
 
 ---
 
@@ -427,7 +437,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Vládkyňa** | **Elaria** (Archanjel Zradenej Krvi) |
 | **Sídlo** | **Veža Zatratených** — starobylé mesto postavené okolo pradávnej veže |
-| **Lokácia** | Juhozápadná časť kontinentu, blízko mora, neďaleko Ynetis |
+| **Lokácia** | **Ostrov na západe** (Zelený kruh na mape), oddelený od pevniny. Nie je súčasťou Elysia (Fialový kruh). |
 | **Charakter** | Temný, nostalgický, stagnujúci |
 
 - **Pôvod**: Veža Zatratených vznikla ako **druhé mesto po Ynetis** — ešte počas Zlatej éry, ako pokus o expanziu, keď bol Ynetis preľudnený. Starobylá veža v centre mesta je jednou z najstarších stavieb na planéte.
@@ -441,13 +451,15 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Názov** | **Ludus** |
 | **Lokácia** | Stred kontinentu — najväčšie mesto Ľudí na planéte |
+| **Pôvod** | **Odídenci z Eleniinej Légie** |
 | **Obyvatelia** | Čistokrvní ľudia — potomkovia pozemšťanov |
-| **Spira** | **Žiadna.** Nepoužívajú Sp'iru. |
 
-- **Nesmrteľní zakladatelia**: Pôvodní obyvatelia sú geneticky modifikovaní ľudia — nesmrteľní, nie vďaka nanotechnológii, ale vďaka genetickým úpravám ešte zo Zeme.
-- **Tragédia nesmrteľnosti**: Rast populácie bol po stáročia minimálny — ich deti sú **smrteľné**. Žiadny nesmrteľný rodič nechce vidieť umierať svoje dieťa. Preto sa dlho nemnožili.
-- **Populačná explózia**: Postupom času sa to zmenilo — dnes je medzi pôvodnými pozemšťanmi **95% smrteľníkov**. Nižšia rasa ľudí žije v tieni nesmrteľných velikánov.
-- **Motivácia smrteľníkov**: Na rozdiel od stagnujúcich nesmrteľných, smrteľná väčšina chce **budovať a pozerať sa dopredu**. Ich cieľ: vyčistiť svet od Wraiths. Sú najaktívnejšou silou na kontinente.
+- **Pôvod v Légii**: Zakladatelia mesta boli dôstojníci Eleniinej légie, ktorí opustili Vežu Zatratených. Cítili hanbu za to, že nebojovali, ale odmietli žiť v izolácii. Rozhodli sa vybudovať novú civilizáciu v strednej Neurope, ale prisahali, že sa **nikdy nevrátia na Terru**.
+- **Nesmrteľní zakladatelia**: Pôvodní legionári sú geneticky modifikovaní (nesmrteľní).
+- **Tragédia nesmrteľnosti**: Rast populácie bol po stáročia minimálny — ich deti sú **smrteľné**.
+- **Populačná explózia**: Dnes je medzi nimi 95% smrteľníkov.
+- **Motivácia (Prastarí)**: Chcú sa dostať na Inferu (ARK-13), aby zistili **pravdu o Zemi**. Inetis im nikdy nepovedala, že Zem bola zničená (nechcela spôsobiť paniku) — tvrdila len, že stratili signál. Veria, že v archívoch lode nájdu odpoveď na to, prečo sa nikto neozval 3000 rokov.
+- **Motivácia (Smrteľníci)**: Vyčistiť svet od Wraiths a získať technológiu pre dominanciu.
 
 #### Medvedie Lesy — Medvedí Varietas
 
@@ -475,17 +487,18 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Učenie**: Majstri učia tajomstvám minulosti — ako poraziť Wraiths. Exorcisti sú jedni z mála, čo chápu skutočnú podstatu „Spiry" (nanotechnológie) a vedia ju obrátiť proti duchom.
 - **Tajomstvá minulosti**: Tu sa zachovali znalosti z čias pred Glitch Rotom — vrátane fragmentov technológie zo Zeme.
 
-#### Južná Pustatina
+#### Južná Pustatina (Eleniino Dielo)
 
 | | |
 |---|---|
 | **Lokácia** | Južná časť kontinentu — púšte, skalnaté pláne |
-| **Charakter** | Nebezpečná divočina — „zakázaná zóna" |
-| **Obyvatelia** | Elariine experimenty |
+| **Pôvod** | **Pokus o Teraformáciu ("Jurský Park")** |
+| **Obyvatelia** | Elariine experimenty (Jaštery, Hmyz) |
 
-- **Experimenty Elarie**: V tejto pustatine žijú tvory, ktoré Elaria vytvorila — podobné **drakom či dinosaurom**. Nepodarené (alebo až príliš podarené) projekty genetického inžinierstva.
-- **Nebezpečná oblasť**: Nikto sem nechodí dobrovoľne. Tvory sú teritoriálne, agresívne a niektoré obrovské.
-- **Na mape**: Suchá, piesočná krajina s horskými masívmi — úplne odlišná od zelených lesov Severu.
+- **Jurassic Park**: Elenia sa tu pokúsila "opraviť svet". Pomocou genetického inžinierstva a nanotechnológie sa snažila v nehostinnej púšti vytvoriť život.
+- **Výsledok**: Vznikli tu prispôsobené, gigantické organizmy — tvory podobné **drakom a dinosaurom**. Ekosystém je divoký, nebezpečný a vymkol sa kontrole.
+- **Nebezpečná oblasť**: Nikto sem nechodí dobrovoľne. Tvory sú teritoriálne.
+- **Na mape**: Suchá, piesočná krajina (označená červeným obdĺžnikom na mapách).
 
 #### Mystické Miesto Prastarých
 
@@ -511,8 +524,9 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
 - Max sa tu prebudil (slepý, amnézia)
-- **Mesto Kito (Stratené)**: Legendárne mesto na východe.
-    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, AY 2000).
+- **Mesto Kito (Stratené)**: Legendárne mesto na východe, dnes ukryté v hustom, "novom" lese.
+    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, **AY 2212**).
+    - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu.
     - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
     - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Borrom, ktorý ruiny objavil a urobil z nich domov.
 

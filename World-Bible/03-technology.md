@@ -65,17 +65,19 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 
 ---
 
-## Vojenské vs. Civilné nanodrony
+## Generácie Nanotechnológie (Versions)
 
-| | Civilné | Vojenské (Max) |
-|---|---------|----------------|
-| **Generácia** | Novšia | Staršia, robustnejšia |
-| **Sila** | Slabšie | Silnejšie |
-| **Schopnosti** | Liečenie, základné efekty | Hackovanie strojov, deštrukcia |
-| **Pôvod** | Civilný vývoj na Zemi | Elitné jednotky (Marťanská vojna) |
+Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
+
+| Verzia | Užívateľ | Popis |
+|---|---|---|
+| **v1.0 (Legacy)** | **Ex Inferis** (Archanjeli) | Pôvodné civilné nanoboty zo Zeme. Robustné, silné, ale mentálne nestabilné (strata emócií). Nedokážu sa rozmnožovať ani ukladať do kryštálov. Vyžadujú "kanibalizmus" na údržbu. |
+| **v1.5 (Mil-Spec)** | **Maximilián** | Vojenský prototyp. Zameraný na deštrukciu a hackovanie. Silnejší než v1.0, ale stále bez regenerácie a reprodukcie. |
+| **v1.7 (God-Tier)** | **Elenia, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elenia). |
+| **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
 ### Paradox skúseností
-Archanjeli a Nesmrteľní majú civilné drony, ale **tisícročia praxe**:
+Archanjeli (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archanjel dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
 - Vedia drony „tkať" do komplexných štruktúr
 - Manipulácia hustoty vzduchu, vákuové čepele
 - Oproti Maxovej priamočiarej sile pôsobia ako skutočná Spira

@@ -97,26 +97,27 @@ timeline
 timeline
     title Éra Achilles (AY)
     0 : Pristátie lodí ARK-11 a ARK-12
-    300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
-    700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
-    2000 : Tretí Príchod (Synths) : Lekcia Krvi : Tichá technológia
-    3000 : Prebudenie Maximiliána
-    3013 : Začiatok hlavného deja (Kniha 1)
+    asi 300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
+    asi 700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
+    asi 2212 : Tretí Príchod (Synths/Makina) : Lekcia Krvi : Začiatok RP (Roky Poslov)
+    asi 2993 : Prebudenie Maximiliána (RP 781)
+    asi 3006 : Začiatok hlavného deja (Kniha 1)
 ```
 
 ---
 
-## Systém datovania
+## Datovanie
 
 | Skratka | Význam | Poznámka |
 |---------|--------|----------|
 | **EY** | Earth Years | Roky podľa pozemského kalendára |
 | **AY** | Achilles Years | Roky od pristátia ARK-11 na Achille |
+| **RP** | Roky Poslov | Interný kalendár Varietas. Rok 0 = Tretí Príchod (AY 2212). |
 
 **Kľúčové body:**
-- `EY ~2300` = Pád Zeme
+- `EY ~2301` = Pád Zeme
 - `AY 0` = Pristátie ARK-11 (kolonisti)
-- `AY ~3000` = Maxovo prebudenie
+- `AY ~2993` = Maxovo prebudenie
 
 ---
 
