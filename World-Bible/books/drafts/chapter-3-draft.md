@@ -1,6 +1,6 @@
 # Kapitola 3: Odpad
 
-Mesto Sho'raven horelo.
+Mesto Shoraven horelo.
 Nebol to ten pomalý, romantický oheň z krbov. Bol to chemický oheň. Grawská artiléria používala fosfor a šrapnely, ktoré trhali drevené budovy Štvrte Mezra ako papier.
 
 Max bežal ulicou s rýchlosťou, ktorá bola na muža jeho váhy nemožná. Na pleci niesol Kita. Archeológ bol stále v katatonickom šoku, tuhý ako doska, oči vytreštené do prázdna, zvierajúc tubus s mapami ako poslednú kotvu reality.
@@ -70,7 +70,7 @@ Tami sa pozrela na neho. Max držal v ruke tú svoju palicu. Ten kus kovu, o kto
 Teraz to žiarilo.
 Nie svetlom. *Absenciou svetla.* Čierne žilky nanotechnológie sa rozbehli po povrchu kovu, pulzujúc v rytme, ktorý nepatril do tohto sveta.
 
-*<Aktivácia: Aegis Spike. Režim: Chirurgický Rez. Výkon: 5%.>*
+*<Aktivácia: Anténa. Režim: Chirurgický Rez. Výkon: 5%.>*
 *<Varovanie: Štrukturálna integrita tunela je nízka. Explozívna munícia zakázaná.>*
 
 Max vykročil vpred. Monštrum sa naňho vrhlo, tri oči fixované na novú korisť. Otvorilo to, čo slúžilo ako ústa — dieru plnú nepravidelných zubov.
@@ -84,7 +84,7 @@ Monštrum zastalo vo výskoku.
 Sekunda ticha.
 Potom sa horná polovica tela pomaly, takmer komicky zošmykla z dolnej. Žiadna krv. Rez bol taký horúci a čistý, že tkanivo okamžite kauterizoval. Dve polovice dopadli do splaškov. Mŕtve. Definitívne mŕtve.
 
-Tami hľadela s otvorenými ústami. Videla veľa mágie. Videla delostrelectvo. Ale toto... toto bola chirurgia so zbraňou hromadného ničenia.
+Tami hľadela s otvorenými ústami. Videla veľa Spiry. Videla delostrelectvo. Ale toto... toto bola chirurgia so zbraňou hromadného ničenia.
 
 Kito sa triasol. Pozeral na Maxa nie ako na záchrancu, ale ako na boha, ktorý sa práve zjavil v pekle.
 „Bohobijec," zašepkal. „To je Bohobijec."

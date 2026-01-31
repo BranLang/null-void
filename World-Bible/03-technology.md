@@ -1,11 +1,11 @@
-# Svet: Technológia a Mágia
+# Svet: Technológia a Spira
 
 > *„Akákoľvek dostatočne pokročilá technológia je nerozoznateľná od mágie."*
 > — Arthur C. Clarke
 
 ---
 
-## Nanodrony („The Dust" / Sp'ira)
+## Nanodrony („The Dust" / Spira)
 
 ### Podstata
 Mikroskopické stroje prítomné:
@@ -17,7 +17,7 @@ Nanodrony neboli vynájdené v laboratóriu. **Ich princípy pochádzajú od Tie
 
 - **Zdroj poznania**: Tieňoví (Null Swarm) naučili i_net_is základné princípy nanotechnológie
 - **Implementácia**: i_net_is vytvorila "hacky fyzikálneho enginu" podľa ich návodov
-- **Medicína**: Pôvodne „liečivá mágia" v hre.
+- **Medicína**: Pôvodne „liečivá Spira" v hre.
 - **Konštrukcia**: Digitálne nástroje na stavbu „nemožných miest".
 
 ### Pôvod od Tieňových
@@ -29,14 +29,14 @@ Nanodrony neboli vynájdené v laboratóriu. **Ich princípy pochádzajú od Tie
 | **Dar** | Naučili ju princípy manipulácie hmoty na atomárnej úrovni |
 | **Rozdiel** | Tieňoví používajú prvky mimo periodickej tabuľky; zemská verzia je adaptácia |
 
-### Súčasné vnímanie — Sp'ira
-Pre obyvateľov Achilla je to **Sp'ira** (z pôvodného *Spirit*, skomolené cez 3000 rokov). Neviditeľná magická sila, dar Matky. Nevedia, že ide o technológiu. Koncentrácia Sp'iry v krvi určuje kastu a spoločenské postavenie (viď `06-society.md`).
+### Súčasné vnímanie — Spira
+Pre obyvateľov Achilla je to **Spira** (z pôvodného *Spirit*, skomolené cez 3000 rokov). Neviditeľná sila Spiry, dar Matky. Nevedia, že ide o technológiu. Koncentrácia Spiry v krvi určuje kastu a spoločenské postavenie (viď `06-society.md`).
 
 ---
 
-## „Mágia" (The Cast)
+## „Spira" (The Cast)
 
-Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomocou **subjektívnych podmienených reflexov** vypestovaných v simulácii Achilles. „Mágia“ je v skutočnosti využívanie ilegálnych hackov reality, ktoré prežili v kóde nanodronov.
+Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomocou **subjektívnych podmienených reflexov** vypestovaných v simulácii Achilles. „Spira“ je v skutočnosti využívanie ilegálnych hackov reality, ktoré prežili v kóde nanodronov.
 
 ### Typy „kúziel"
 
@@ -49,7 +49,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 
 ### Kto môže „čarovať"?
 - **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
-- **Homo Sapiens Varietas (Varietas):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
+- **Homo Sapiens Varietas (Varietas):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich Spira je intuitívnejšia (liečenie, ovládanie zmyslov).
 
 ### Pôvod Daru Matky
 - **Vývoj**: Počas Éry Temnoty (AY ~500-650) Inetis vytvorila malú simuláciu s pomocou inžinierov z ARK lodí
@@ -78,7 +78,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 Archanjeli a Nesmrteľní majú civilné drony, ale **tisícročia praxe**:
 - Vedia drony „tkať" do komplexných štruktúr
 - Manipulácia hustoty vzduchu, vákuové čepele
-- Oproti Maxovej priamočiarej sile pôsobia ako skutočná mágia
+- Oproti Maxovej priamočiarej sile pôsobia ako skutočná Spira
 
 ---
 
@@ -118,7 +118,7 @@ Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svo
 ### Analógia Operatívneho Systému
 Predstavte si realitu ako počítač:
 - **Pod povrchom**: Milióny riadkov kódu (nanoboty) a fyzikálne zákony.
-- **Na povrchu**: Ikony 5 elementov, na ktoré „mág“ kliká svojou vôľou a podmienenými reflexami.
+- **Na povrchu**: Ikony 5 elementov, na ktoré „Krotiteľ“ kliká svojou vôľou a podmienenými reflexami.
 
 Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elementov, ktoré definujú základné parametre manipulácie. Toto rozhranie umožnilo Inetis odovzdať vedomosti Elenii bez potreby hĺbkového štúdia kvantovej mechaniky.
 
@@ -157,17 +157,17 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 
 ---
 
-## Aegis Field (The Breach Spike)
+## Signálové pole (The Breach Spike)
 
-Špeciálna funkcia Maximiliánovej palice (Aegis Spike), vyvinutá v neskorých rokoch Éry Zeme.
+Špeciálna funkcia Maximiliánovej palice (Anténa), vyvinutá v neskorých rokoch Éry Zeme.
 
 ### Mechanika
 - **Generátor poľa:** Palica vytvorí lokálne magneticko-dátové pole.
-- **Efekt:** Robí používateľa **neviditeľným** pre všetky elektronické senzory a nanotechnologické scanery. Odrazí akýkoľvek útok „mágie" (nanodronov).
+- **Efekt:** Robí používateľa **neviditeľným** pre všetky elektronické senzory a nanotechnologické scanery. Odrazí akýkoľvek útok „Spiry" (nanodronov).
 
 ### Cena za „Neviditeľnosť"
 - **Odpojenie:** Pole je také silné, že odrezáva aj samotného používateľa od jeho vlastných nanodronov.
-- **Smrteľnosť:** Maximilián v režime Aegis štítu stráca super-silu, schopnosť hackovania a rýchlu regeneráciu. Stáva sa obyčajným smrteľníkom.
+- **Smrteľnosť:** Maximilián v režime Anténa štítu stráca super-silu, schopnosť hackovania a rýchlu regeneráciu. Stáva sa obyčajným smrteľníkom.
 - **Taktický limit:** Používateľ sa musí spoliehať na konvenčné zbrane a fyzický tréning.
 
 ---
@@ -226,7 +226,7 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
 | **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
-| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Varietas (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia mystický Varietas (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
 
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |
@@ -283,12 +283,12 @@ Vzducholoď *Makita* (Tami) je technologická anomália — jej pohon je radiká
 
 | Aspekt | Detail |
 |--------|--------|
-| **Pohon** | **Sp'ira kryštály** — para poháňa vrtule |
-| **Princíp** | Sp'ira kryštály po chemickej aktivácii (špeciálna priemyselná kyselina) vylučujú enormné teplo. Voda sa mení na paru okamžite. |
+| **Pohon** | **Spira kryštály** — para poháňa vrtule |
+| **Princíp** | Spira kryštály po chemickej aktivácii (špeciálna priemyselná kyselina) vylučujú enormné teplo. Voda sa mení na paru okamžite. |
 | **Výhoda 1 — Tichosť** | Makita je *tichá*. Žiadne spaľovacie motory, žiadne hučanie. Len jemné syčanie pary cez vrtule. V noci je takmer nepočuteľná. |
 | **Výhoda 2 — Maskovanie** | Para sa dá vypustiť okolo vzducholode a vytvoriť **umelý oblak** — dokonalé maskovanie. Loď zmizne v bielej hmle za sekundy. |
-| **Výhoda 3 — Palivo zadarmo** | Makita nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Sp'ira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Makita si doplní nádrže z najbližšieho potoka. |
-| **Nevýhoda** | Závisí na Sp'ira kryštáloch — vzácnych a drahých. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
+| **Výhoda 3 — Palivo zadarmo** | Makita nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Spira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Makita si doplní nádrže z najbližšieho potoka. |
+| **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
 | **Pôvod** | Postavená v Kitó z pozostatkov lode Hephaestus. Technológia Maki. |
 
 > **Prečo je Makita výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Makita je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
@@ -311,10 +311,10 @@ Vzducholode sú plnené **vodíkom** (hélium je vzácne a uniká). Výstrel z p
 - **Tichá dohoda**: Aj tí najhorší piráti dodržiavajú nepísaný zákon — pri boardingu sa strieľa len v krajnej núdzi. Bojuje sa nožmi, mačetami, obuškami a kušami.
 - **Palubné zbrane**: Kanóny (ako *Felix 88*) sa používajú len na diaľku proti trupu inej lode, nikdy nie v interiéri.
 
-### 2. Pozemný boj: "Faktor Sp'ira" (Kinetická obrana)
-Palné zbrane sú devastujúce proti bežným cieľom (Ghor'ki, zvieratá), ale strácajú účinnosť proti silným užívateľom mágie.
-- **Vychýlenie**: Varietas so silnou Spirou (napr. čistokrvný Pur'sang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
-- **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného mága.
+### 2. Pozemný boj: "Faktor Spira" (Kinetická obrana)
+Palné zbrane sú devastujúce proti bežným cieľom (Ghorki, zvieratá), ale strácajú účinnosť proti silným užívateľom Spiry.
+- **Vychýlenie**: Varietas so silnou Spirou (napr. čistokrvný Pursang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
+- **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného Krotiteľa.
 
 ---
 
@@ -368,7 +368,7 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 ### Prototypy a Inovácie
 - **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS" sa v mýtoch interpretuje ako cesta za slobodou.
 - **NULL VOID**: FTL Prototyp využívajúci technológiu Tieňových. Jediná loď schopná nadsvetelného cestovania.
-- **Aegis Spike**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Aegis Field).
+- **Anténa**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Signálové pole).
 - **Power Armor (Grom)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú".
 
 ### Legendárne Artefakty

@@ -20,8 +20,8 @@ Max sa prebúdza ako „troska“.
 ### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
 - **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
-- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Aegis Spike, aby ostal psychicky ukotvený v realite.
-- **Vybavenie**: **Aegis Spike** (palica/regulátor), **Black Nano Suit**.
+- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Anténa, aby ostal psychicky ukotvený v realite.
+- **Vybavenie**: **Anténa** (palica/regulátor), **Black Nano Suit**.
 
 ### Backstory
 Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.

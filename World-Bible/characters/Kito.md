@@ -1,20 +1,20 @@
 # Kito (Archeológ)
 
-- **Rasa**: Pur'sang (Čistokrvný, mačacie črty - uši, oči, chvost).
+- **Rasa**: Pursang (Čistokrvný, mačacie črty - uši, oči, chvost).
 - **Status**: Vydedený a chudobný. Žije v chudobnej štvrti Mezra.
 - **Povolanie**: Archeológ, archivár a zamestnanec Múzea. Odborník na artefakty.
 - **Rodina**:
     - Vydedený rodinou, pretože sa oženil s **Mezrou** (nižšia kasta).
     - **Manželka**: Ťažko chorá, zomiera. Žiadny liečiteľ (Spira user) jej nedokázal pomôcť.
 - **Schopnosti**:
-    - **Telekinéza**: Veľmi silný talent (typický pre Pur'sangov), ale nevie liečiť.
-- **Motivácia**: Chce zachrániť svoju zomierajúcu manželku. Vie, že bežná mágia ani artefakty zo "Strateného mesta Kito" nepomôžu. Je posadnutý nájdením **Ynetis** (skutočného zdroja "Daru Matky").
+    - **Telekinéza**: Veľmi silný talent (typický pre Pursangov), ale nevie liečiť.
+- **Motivácia**: Chce zachrániť svoju zomierajúcu manželku. Vie, že bežná Spira ani artefakty zo "Strateného mesta Kito" nepomôžu. Je posadnutý nájdením **Ynetis** (skutočného zdroja "Daru Matky").
     - **Problém**: Je chudobný a vydedený. Nemá financie ani prostriedky na expedíciu do rovnikoveho pasma aj keby zistil presnú polohu Ynetis.
     - **Spojenectvo**: Max a Tami majú loď (*Makita*) a schopnosti. Kito má vedomosti. To z nich robí prirodzených spojencov.
-- **Rola v príbehu**: Investigoval Aegis Spike.
+- **Rola v príbehu**: Investigoval Anténa.
     - **Heist**: Kito pozná plány kobiek a systém obrany.
     - **Prečo on?**: Max by teoreticky mohol použiť svoje "Oči" (Drony) na prieskum, ale je to príliš riskantné (strata zraku/energie). Preto potrebujú Kita ako "Kľúč", ktorý ich bezpečne prevedie pascami.
-- **Meno a Pôvod**: "Mesto Kito" je legendárne mesto na východe (miesto pristátia Makov). Kito nesie toto meno, pretože jeho rodina (starý Pur'sang rod) tvrdí, že z tohto mesta pochádza.
+- **Meno a Pôvod**: "Mesto Kito" je legendárne mesto na východe (miesto pristátia Makov). Kito nesie toto meno, pretože jeho rodina (starý Pursang rod) tvrdí, že z tohto mesta pochádza.
     - *Irónia*: Keď Max v Prológu povie, že je z "Kito", nevedomky povie pravdu o mieste, kde Tami vyrastala (City of Kito), a zároveň použije meno, ktoré nosí archeológ, ktorého potrebujú nájsť.
 - **Odhalenie**:
     - Archeológ Kito je potomkom ľudí, ktorí ušli z mesta Kito predtým, než bolo zničené.

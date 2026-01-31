@@ -10,16 +10,16 @@ Kto sú: Tí, ktorí prežili prvú vzburu a postavili sa na stranu Elenie proti
 
 Vzhľad: Ich telá sú zničené časom a Bit Rotom. Vyzerajú ako vysušené múmie v starých, zaplátaných skafandroch, doplnené o primitívne steampunkové protézy tam, kde biologické časti zlyhali.
 
-Schopnosti (Majstri Mágie): Majú síce len civilné nanodrony (slabšie ako Maxove), ale majú tisícročia praxe.
+Schopnosti (Majstri Spiry): Majú síce len civilné nanodrony (slabšie ako Maxove), ale majú tisícročia praxe.
 
 Vedia drony "tkať" do komplexných štruktúr.
 
 Nevytvárajú len blesky. Vedia manipulovať s hustotou vzduchu, vytvárať vákuové čepele, ohýbať svetlo na ilúzie, meniť skupenstvo hmoty na dotyk.
 
-Oproti Maxovej priamočiarej sile pôsobia ich schopnosti ako skutočná, temná mágia.
+Oproti Maxovej priamočiarej sile pôsobia ich schopnosti ako skutočná, temná Spira.
 
 II. UPDATED MECHANIKA: PALICA (The Breach Spike)
-Aegis Field (Štít/Neviditeľnosť): Keď Max aktivuje magnetické pole, stáva sa neviditeľným pre senzory a imúnnym voči "mágii".
+Signálové pole (Štít/Neviditeľnosť): Keď Max aktivuje magnetické pole, stáva sa neviditeľným pre senzory a imúnnym voči "mágii".
 
 KĽÚČOVÝ LIMIT: Toto pole odrezáva aj Maxa od jeho vlastných nanodronov.
 
@@ -27,13 +27,13 @@ V režime štítu je Max len "obyčajný" človek. Nemá super silu, nemôže ha
 
 Musí spoliehať na fyzický tréning, palicu ako chladnú zbraň a konvenčné strelné zbrane.
 
-Taktická voľba: Max musí neustále balansovať. Zostať skrytý a slabý, alebo odhaliť sa a použiť plnú silu, riskujúc útok mágov?
+Taktická voľba: Max musí neustále balansovať. Zostať skrytý a slabý, alebo odhaliť sa a použiť plnú silu, riskujúc útok Krotiteľov?
 
 III. OS DEJA KNIHY 4 (Finálna verzia)
 1. Dejstvo: Pochopenie Temnoty (The Dark World)
 Max a Tami cestujú k Eleninej základni (Kráteru). Cestou vidia dôkazy o "Protokole Ticha" (AI zabíjajúca vynálezcov).
 
-Prvé stretnutie s Nesmrteľným: Narazia na prieskumníka Starej Gardy. Max si myslí, že ho ľahko zloží. Je v šoku, keď ten starec použije komplexnú "mágiu" (napr. skvapalní pôdu pod Maxovými nohami) a takmer ho zabije. Max prežije len vďaka hrubej sile svojich military dronov. Uvedomuje si, že technická prevaha mu nestačí.
+Prvé stretnutie s Nesmrteľným: Narazia na prieskumníka Starej Gardy. Max si myslí, že ho ľahko zloží. Je v šoku, keď ten starec použije komplexnú "Spiru" (napr. skvapalní pôdu pod Maxovými nohami) a takmer ho zabije. Max prežije len vďaka hrubej sile svojich military dronov. Uvedomuje si, že technická prevaha mu nestačí.
 
 2. Dejstvo: Kráter (Infiltrácia)
 Príchod ku Kráteru. Obrovské vykopávky, kde otroci a parné stroje odkrývajú loď Exodus.

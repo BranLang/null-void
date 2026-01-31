@@ -27,7 +27,7 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 „Hľadáme *Clockwork*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
 
-Pur'sang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
+Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 
 Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maxove senzory okamžite detegovali pokročilé štádium *Glitch Rot*, ale iného druhu. Biologický rozklad.
 
@@ -61,7 +61,7 @@ Kito cúvol a narazil do stola. Knihy popadali na zem.
 
 „Môžeš nám pomôcť," povedala Tami a položila ruku na jeho rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
 
-Pri slove *Stvoriteľka* Pur'sang prestal dýchať.
+Pri slove *Stvoriteľka* Pursang prestal dýchať.
 
 „Nikto nevie, kde sú tie záznamy," zašepkal. „Sú stratené..."
 

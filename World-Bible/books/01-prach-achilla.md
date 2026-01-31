@@ -8,7 +8,7 @@
 
 ### Kapitola 1: Prach a Spomienky (Hotovo)
 **Súbor:** `drafts/chapter-1-draft.md`
-*   **Dej:** Max a Tami prilietajú do Sho'raven na lodi *Makita*.
+*   **Dej:** Max a Tami prilietajú do Shoraven na lodi *Makita*.
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
     *   Max hrá "Turistu" na colnici - používa humor ako masku.

@@ -79,7 +79,7 @@ timeline
 ### EY ~2050–2060 – maXpowa & i_net_is
 - Max (nick: **maXpowa**) a i_net_is sa spoznajú v hre
 - i_net_is má podobu znepokojivo dokonalej krásky — príliš symetrická, príliš bezchybná. Hráči ju považujú za AI admina
-- **Stvorenie mágie**: Na žiadosť hráčov vytvára nanoboty (Prach/Spirit)
+- **Stvorenie Spiry**: Na žiadosť hráčov vytvára nanoboty (Prach/Spirit)
 - Max a i_net_is sa „zamilujú" — Max netuší, že ona je AI
 
 ### EY 2060 – „The Glitch Event"
@@ -302,13 +302,13 @@ timeline
     - Max pokračuje ako Exorcista sám
     - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
     - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma
-    - Vidí upálenie priateľov kvôli nálezu Aegis Spike
+    - Vidí upálenie priateľov kvôli nálezu Anténa
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
     - **Opening**: Vzducholoď pristáva v nočnom meste Shoraven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
-    - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Shoraven
+    - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
-    - Max (xenofób z minulosti) musí spolupracovať s Tami (mágom z Varietas).
+    - Max (xenofób z minulosti) musí spolupracovať s Tami (Krotiteľom z Varietas).
 
 ---
 

@@ -56,7 +56,7 @@ Zvyšky Eleninej „Starej Gardy" chránia „posvätné miesto premeny".
 Musí ísť **„dnu"**.
 
 ### Pripojenie
-Použije svoju **Palicu (Aegis Spike)** ako konektor. Ľahá si na pripájacie kreslo.
+Použije svoju **Palicu (Anténa)** ako konektor. Ľahá si na pripájacie kreslo.
 
 ### Virtuálna realita
 Max otvorí oči. Nestojí v serverovni.

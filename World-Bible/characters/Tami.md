@@ -5,7 +5,7 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Makita*, Pur'sang (ale utajená)
+- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
     - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
@@ -42,7 +42,7 @@
     - **Felixov Rapier ("Ihla")**: Unikátna zbraň od Felixa. Na rozdiel od mainstreamových katán (sekanie/elegancia), táto zbraň je čistá nemecká efektivita — určená na penetráciu zbroje a energetických štítov ("Spira piercing").
 - **Posádka**: Má vlastnú vernú posádku
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Aegis Spike — toto ju priviedlo k artefaktu
+- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Anténa — toto ju priviedlo k artefaktu
 
 ### Vzťah s Maxom
 - **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
@@ -51,9 +51,9 @@
 - **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
     - **Pôvod**: Vyrobila ich Inetis pre Maxa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
     - **Funkcia**: Nahrádzajú mu zrak (kamery). Max ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
-- **Aegis Spike (Húľ)**: Jeho primárna zbraň.
+- **Anténa (Húľ)**: Jeho primárna zbraň.
     - **Zásobník**: Obsahuje cca **10 000 štandardných nanodronov**.
-    - **Funkcia**: Generátor Aegis poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
+    - **Funkcia**: Generátor Anténa poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
     - **Obmedzenie**: Palica sa musí "dobíjať" alebo kŕmiť materiálom. ňom videla muža
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali

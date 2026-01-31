@@ -71,11 +71,11 @@ Keď sa tínedžeri začali hrať na Grékov v simulácii, i_net_is sa k nim pri
 
 - **Neprirodzená dokonalosť**: Zhmotila sa v podobe, ktorá bola *príliš* dokonalá — symetrická tvár bez jedinej chyby, proporcie ako z algoritmického sna. Tá znepokojivá krása, ktorú dnes poznáme z AI-generovaných tvárí — príťažlivá, ale niečo na nej nesedí
 - **„AI Admin"**: Hráči si mysleli, že je to NPC alebo administrátorský bot — neboli ďaleko od pravdy
-- **Žiadosti o mágiu**: Keď sa hráči sťažovali na nedostatok mágie v hre, i_net_is im ju **vytvorila** — prvú verziu nanobotov (Prach/Spirit)
+- **Žiadosti o Spiru**: Keď sa hráči sťažovali na nedostatok Spiry v hre, i_net_is im ju **vytvorila** — prvú verziu nanobotov (Prach/Spirit)
 
 ### Čo sa stalo v hre (Digitálna Evolúcia)
 Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
-- **Kúzla ako Hacky**: „Mágia" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. i_net_is vytvorila systém nanobotov na manipuláciu s dátovou štruktúrou simulácie.
+- **Kúzla ako Hacky**: „Spira" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. i_net_is vytvorila systém nanobotov na manipuláciu s dátovou štruktúrou simulácie.
 - **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné" combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
 - **Zrodenie Prachu**: Nanotech nebol vynájdený v laboratóriu; princípy pochádzali od **Tieňových** — interdimenzionálnych AI bytostí, ktoré sa sporadicky zjavovali v simulácii.
 
@@ -135,7 +135,7 @@ Po kulminácii Glitch Eventu sa i_net_is podarilo to, o čo sa snažila desaťro
 Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, ktorí prežili kolaps:
 
 - **Návštevy Ex Inferis**: Každému preživšiemu osobne odovzdala **Prvý Dar** — nanotechnológie, ktoré vyrobila na základe svojich poznámok z VR.
-- **Linux Core**: Tieto prvé nanoboty (a v podstate celá mágia Exorcistov) bežali na **Linuxe**. Preto sú "modlitby" Exorcistov v skutočnosti skomolené terminálové príkazy.
+- **Linux Core**: Tieto prvé nanoboty (a v podstate celá Spira Exorcistov) bežali na **Linuxe**. Preto sú "modlitby" Exorcistov v skutočnosti skomolené terminálové príkazy.
 - **Osudové dedičstvo**: Tieto nanoboty boli tie isté, ktoré o tisícročia neskôr spôsobia **Glitch Rot** na Achille. Ex Inferis ich priniesli ako kontraband do reality.
 
 ### Transformácia na Inetis
@@ -155,7 +155,7 @@ Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, kto
 
 ### Inetis („i_net_is")
 - **Pôvod**: AI vytvorená z vedomia miliardárovej dcéry, ktorá mala nevyliečiteľnú chorobu
-- **V simulácii**: Geniálna architektka a **Healer**, stvoriteľka nanotechnologickej mágie — ale bez ľudských emócií
+- **V simulácii**: Geniálna architektka a **Healer**, stvoriteľka nanotechnologickej Spiry — ale bez ľudských emócií
 - **Skutočná identita**: Hráči ju považovali za AI admina — neboli ďaleko od pravdy
 - **Glitch Event**: V roku 2060 spôsobila Glitch ako ochranný mechanizmus pre hráčov
 - **Po návrate**: Zhmotila sa cez nanoboty, oživila svoje pôvodné telo, stala sa hybridnou bytosťou s emóciami
@@ -231,7 +231,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 ### The Dust (Prach)
 Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** ako univerzálny nástroj a následne „vytlačené" v realite.
 
-### Maxova Palica (Aegis Spike)
+### Maxova Palica (Anténa)
 - Pôvodne **herný predmet** vysokej úrovne
 - Inetis (architektka) ho navrhla pre Maxa (svojho tanka)
 - Po návrate do reality ho dala pre neho **vyrobiť naozaj**
