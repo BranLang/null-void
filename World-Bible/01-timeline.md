@@ -61,7 +61,7 @@ timeline
 - Ľudia už nemusia pracovať, venujú sa hrám a sebazdokonaľovaniu.
 
 ### EY ~2040 – Zrodenie i_net_is
-- **Tragédia miliardára**: Budúci Koordinátor má dcéru s nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Tragédia miliardára**: **John Reef** (budúci Koordinátor) má dcéru s nevyliečiteľnou degeneratívnou chorobou mozgu
 - **Experiment**: Investuje miliardy do startupu s neurálnym čipom — skopíruje dcérine vedomie do VR
 - **Neočakávaný výsledok**: Vzniká AI **i_net_is** so spomienkami dcéry, ale bez emócií
 - **Otec vedel**: Koordinátor spolupracuje s touto entitou — je to jediná „dcéra" ktorú má
@@ -104,7 +104,7 @@ timeline
 - Hráči preberajú moc nad svetom
 - Maxov a Inetisin „Guild Leader" sa stáva **Hlavným Koordinátorom**
 - Nanotechnológie z hry sa vyrábajú v realite
-- Hráči (vrátane modifikovaných Chimér, ktoré sa stali slávnymi) preberajú moc.
+- Hráči (vrátane modifikovaných Varietas, ktoré sa stali slávnymi) preberajú moc.
 
 ---
 
@@ -124,7 +124,7 @@ timeline
 - **Mimozemšťania detegujú**: Civilizácia s predchádzajúcim konfliktom s Tieňovými zachytí signály
 - **Strach**: Zem sa stáva "mostom" medzi Tieňovými a našou realitou
 - Nanotechnológie a dlhovekosť.
-- Chiméry (Homo Sapiens Varietas) sú súčasťou spoločnosti, ale čelia predsudkom.
+- Varietas (Homo Sapiens Varietas) sú súčasťou spoločnosti, ale čelia predsudkom.
 
 ### EY ~2300 – Pád Zeme a Operácia EXODUS
 
@@ -136,7 +136,7 @@ timeline
   - `ARK-11` — kolonizačná loď, elita zo Zeme, 300-ročná cesta
   - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, 3-ročná cesta
   - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
-- **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Chiméry hľadajúce svet bez predsudkov.
+- **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Varietas hľadajúce svet bez predsudkov.
 - Ostatné lode (vrátane ARK-11) nesú elitu.
 
 ---
@@ -165,7 +165,7 @@ timeline
 - Medzi kolonistami: elita zo Zeme, starí známi
 - Začiatok systematickej kolonizácie
 - Šok: Inetis už na planéte.
-- Začiatok budovania Ynetis. Chiméry pracujú po boku "Čistých".
+- Začiatok budovania Ynetis. Varietas pracujú po boku "Čistých".
 
 ---
 
@@ -180,7 +180,7 @@ timeline
 - Inetis chce slobodnú spoločnosť
 - Elenia smeruje k poriadku a nadvláde
 - **Prvá vzbura** — Elenia vedie odpor
-- Utópia. **Dôležité:** Štandardné nanoboty elity (Hráčov) nefungujú správne v telách Chimér pre ich odlišnú biológiu.
+- Utópia. **Dôležité:** Štandardné nanoboty elity (Hráčov) nefungujú správne v telách Varietas pre ich odlišnú biológiu.
 
 ---
 
@@ -198,22 +198,22 @@ timeline
 ### Exodus na pevninu
 - Nanoboty zlyhávajú. Agónia a smrť elity.
 
-- **Chiméry odchádzajú ako prvé**: Keďže ich telá nanoboty elity odmietali, nie sú zasiahnutí Glichom. Emigrujú z Ynetis do divočiny na Pevnine.
+- **Varietas odchádzajú ako prvé**: Keďže ich telá nanoboty elity odmietali, nie sú zasiahnutí Glichom. Emigrujú z Ynetis do divočiny na Pevnine.
 
 ### Úpadok do Temnoty
-- Chiméry na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
+- Varietas na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
 
 ### Inetisina Simulácia (~AY 500-650)
 - **Kríza**: Glitch Rot decimuje elitu, staré nanoboty zo Zeme sú nebezpečné a agresívne
 - **Elenia vedie obranu**: Kým Inetis hľadá riešenie, Elenia vedie zúfalú obranu Ynetis proti Wraithom
 - **Riešenie**: Inetis s pomocou inžinierov z ARK lodí vytvára malú simuláciu
   - Menšia ako Achilles na Zemi (obmedzené zdroje, ale stačí malé laboratórium)
-  - Účel: vývoj nových, bezpečnejších nanobotov kompatibilných s chimérou biológiou
+  - Účel: vývoj nových, bezpečnejších nanobotov kompatibilných s biológiou Varietas
   - Čas v simulácii beží rýchlejšie (~100 simulovaných rokov = desaťročia v realite)
 - **Návrat**: Inetis sa vracia a nachádza:
   - Ynetis v ruinách (mesto duchov)
   - Elenia nezvestná (v skutočnosti už s Archanjelmi po ich príchode v AY 700, ale Inetis to nevie)
-- **Nové nanotechnológie**: Prináša sofistikovanejšie nanoboty - bezpečnejšie, dedičné, prispôsobené pre Chiméry
+- **Nové nanotechnológie**: Prináša sofistikovanejšie nanoboty - bezpečnejšie, dedičné, prispôsobené pre biológiu Varietas
 
 ### AY ~700: Druhý Príchod (ARK-13 "Prometheus")
 - **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze urobili štyria Ex Inferis chladné rozhodnutie prežiť. 
@@ -229,7 +229,7 @@ timeline
 - **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
 - **Lekcia Krvi**: Maki začnú budovať osady s elektrinou. Wraithovia ich zmasakrujú. Prežije len **Séria-J (Japonská)** — vďaka disciplíne a lepšiemu 'stealth' dizajnu.
 - **Adaptácia**: Maki pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
-- **Vstup do Spoločnosti**: Začínajú spolupracovať s Chimérami ako tichí stavitelia a inžinieri.
+- **Vstup do Spoločnosti**: Začínajú spolupracovať s Varietas ako tichí stavitelia a inžinieri.
 
 ---
 
@@ -259,7 +259,7 @@ timeline
 ### Prvá Návšteva Kontinentu a Dar Matky (~AY 700+)
 - **Po návrate zo simulácie**: Inetis stretá skupinu preživších v ruinách Ynetis
 - **Spoločná výprava**: Prvýkrát navštevuje kontinent (pevninu)
-- **Stretnutie s Chimérami**: Nachádza chimérske kolónie, ktoré prežili exodus a založili vlastné osady
+- **Stretnutie s Varietas**: Nachádza kolónie Varietas, ktoré prežili exodus a založili vlastné osady
 - **Dar Matky**: Odovzdáva im nové nanotechnológie vyvinuté v simulácii:
   - **Dedičné** — prenášajú sa na potomkov
   - **Liečivé** — liečia choroby a zranenia
@@ -268,7 +268,7 @@ timeline
 - **Periodické návštevy**: Po prvej návšteve sa Inetis vracia na kontinent raz za 30-50 rokov
 
 ### Vznik Kultu Matky a Folklóru
-- Chiméry si vytvárajú legendy o milostivej Matke.
+- Varietas si vytvárajú legendy o milostivej Matke.
 - Fundamentalisti odmietajú sci-fi pôvod sveta.
 
 ---
@@ -280,7 +280,7 @@ timeline
     - AI obchádza protokol „Tichá Noc“ a spúšťa núdzové prebudenie **EX-INF-003**.
     - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
     - **Samaell** zachytáva signál „brata v zbrani“ a upadá do zmesi šialenstva.
-    - Max je nájdený pirátmi **Borr a Vix**, ktorí ho berú na palubu **Silent Hunter**.
+    - Max je nájdený pirátmi **Borr a Vix**, ktorí ho berú na palubu **Makita**.
 - **Rok Tieňov (AY 3000 – 3001)**:
     - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
     - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maxa a Tami celý rok.
@@ -292,7 +292,7 @@ timeline
     - Duel na obrovské vzdialenosti — Samaell podcenil "slepého" protivníka
     - **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
     - **Technovampirizmus**: Max sa zmocní Samaellových nanobotov (Highlander štýl)
-- **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a Chimérej spoločnosti. Bod zlomu pre jeho ideológiu.
+- **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a spoločnosti Varietas. Bod zlomu pre jeho ideológiu.
 - **AY 3001 – AY 3008**: **7-ročná cesta**: Premena z „trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň.
 - **Tami vyznanie a odchod (AY 3008)**:
     - Tami (15 rokov) sa vyzná Maxovi
@@ -308,7 +308,7 @@ timeline
     - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
-    - Max (xenofób z minulosti) musí spolupracovať s Tami (Chimérou-mágom).
+    - Max (xenofób z minulosti) musí spolupracovať s Tami (mágom z Varietas).
 
 ---
 

@@ -2,7 +2,7 @@
 
 Ulice Štvrte Mezra páchli inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
 
-Tami kráčala o pol kroka pred ním. Už to nebolo to vystrašené dievča z klietky, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných Pur'sangov a robotníckych Mezrov s plynulosťou, ktorá Maxovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
+Tami kráčala o pol kroka pred ním. Už to nebolo to vystrašené dievča z klietky, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníckych Mezrov s plynulosťou, ktorá Maxovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
 
 „Dva bloky," zamrmlala bez toho, aby sa otočila. „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku."
 
@@ -132,3 +132,101 @@ O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťa
 „Pohyb!" vykríkla Tami, keď sa ozvala siréna civilnej obrany. „Máme asi desať minút, kým uzavrú sektory!"
 
 Vybehli z bytu do noci, ktorá sa práve menila na peklo.
+
+---
+
+Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili kočíky cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
+
+Max kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho váha, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
+
+„Doľava!" zakričala Tami a skočila do úzkej uličky, kam sa dav nezmestil.
+
+Max ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
+*Trajektória projektilu: Balistická krivka. Kaliber: 400mm. Dopad: 3... 2... 1...*
+
+Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Max necítil strach. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia, bol to len chemický kofaktor pre rýchlejšie procesory.
+
+„Moja žena..." zaskuwičal Kito, visiaci dolu hlavou. „Nemôžem ju tam nechať!"
+
+„Zomrie, ak tam ostaneš," povedal Max a preskočil prevrhnutý voz s kapustou. „Zomrie, ak pôjde s nami. Tvoja jediná šanca je, že prežiješ ty a nájdeš liek. Prestaň fňukať a začni navigovať. Kde je ten vstup?"
+
+Kito vzlykol, ale jeho pud sebazáchovy prevážil. „Kanál... pri starom bitúnku. Na konci ulice."
+
+Bežali ďalej. Tami bola rýchla, mrštná, využívala svoju chvost na udržiavanie rovnováhy pri prudkých zákrutách. Max bol pomalší, ale nezastaviteľný. Keď im cestu zahatala spadnutá markíza, Tami ju podliezla. Max ju prerazil ramenom.
+
+Dorazili k bitúnku. Budova páchla starou krvou a hnilobou, pach, ktorý sa miešal s korditom z výbuchov.
+
+„Tam!" ukázal Kito roztrasenou rukou na masívny kovový poklop v zemi, polozakrytý hromadami kostí.
+
+Tami k nemu pribehla a skúsila ním pohnúť. Ani sa nepohol.
+„Je to zaseknuté! Alebo zamknuté!"
+
+Max zložil Kita na zem. „Kód. Hneď."
+
+„To nie je na kód," zajachtal Kito, pozerajúc sa na horiacu oblohu. „Je to hydraulika. Stará Maki technológia. Musí sa to otvoriť zvnútra, alebo..."
+
+*VŽUUUUM.*
+
+Zvuk padajúceho granátu bol iný. Bližší. Ostrejší.
+Maxov Asistent vykreslil červenú zónu dopadu priamo na ich pozíciu.
+*Čas do dopadu: 4 sekundy.*
+
+„Uhni," povedal Max.
+
+Nečakal, kým Tami odskočí. Chytil okraj poklopu. Jeho rukavice — stará, ošúchaná koža skrývajúca servomotory z iného sveta — zavŕzgali.
+Zaprel sa. Nanoboty v jeho krvi sa aktivovali, spevnili svalové vlákna, preťažili kĺby.
+
+*Varovanie: Preťaženie myomérov na 140%.*
+*Ignorovať.*
+
+Max zareval. Nebol to ľudský výkrik. Bol to zvuk kovu drviaceho kameň. Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa s odporným škrípaním vytrhol z pántov.
+
+Max ho odhodil nabok, akoby to bol papierový tanier.
+
+„Dolu!" zavelil a sotil Kita do tmy. Tami skočila za ním. Max skočil posledný.
+
+Dopadli do bahna a splaškov práve v momente, keď granát dopadol na ulicu nad nimi.
+Výbuch zatriasol svetom. Oheň olízol okraj šachty, ale nedostal sa dnu. Tlaková vlna im zaľahla v ušiach. A potom tma.
+
+***
+
+Ticho.
+Bolo to prvé, čo si uvedomili.
+Hore zúrilo peklo, ale tu, päť metrov pod dlažbou, bolo ticho. Len kvapkanie vody a ťažký, zrýchlený dych troch bytostí.
+
+Max sa postavil. Jeho topánky čvachtali v niečom, čo nechcel analyzovať. Zapol nočné videnie.
+Svet sa zmenil na odtiene zelenej a šedej. Stáli v tuneli, ktorý nebol vykopaný lopatami. Bol to *tubus*. Dokonalý kruh, steny pokryté keramickými panelmi, teraz popraskanými a pokrytými slizom.
+
+Pre Maxa to však nebol len sliz.
+
+Teplota. Vlhkosť. Pach ozónu a hniloby.
+Senzory mu na sekundu zlyhali. Flashback ho zasiahol bez varovania.
+
+*...Prebudenie.*
+*Nie v bahne, ale v ľade. Modrá kryo-tekutina ho dusila. Pľúca horeli. Nemohol dýchať, nemohol vidieť. Jeho oči... bolesť bola absolútna. Posledná vec, ktorú videl predtým, než ho zmrazili, bol záblesk jadrového ohňa na horizonte Marsu.*
+*A potom tma. 3000 rokov tmy.*
+*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Borr a Vix. Hádali sa o jeho cene. "Slepý, ale svalnatý. Do baní dobrý."*
+*A potom ten malý hlas. Sedemročné dievča s líščími ušami, ktoré mu podalo vodu, hoci sama bola smädná.*
+*"Neboj sa, ujko. Aj ja som monštrum."*
+
+„Max?"
+Tamin hlas ho vytiahol späť.
+Stála pred ním, modrá žiara chemickej tyčinky sa odrážala v jej očiach. Už to nebolo to sedemročné dievča. Bola to žena, ktorá zabíjala, aby prežila. Ale ten pohľad... ten bol rovnaký.
+
+„Som tu," povedal Max a potlačil chvenie rúk. „Len... starí duchovia."
+
+„Vitajte v Črevách," zašepkal Kito. Hlas sa mu triasol, ale už nie len strachom z Maxa. „Toto je doména Odpadu."
+
+Tami si oprášila kolená a zapálila malú chemickú tyčinku. Modrasté svetlo ožiarilo tunel.
+„Smrdí to tu ako zdochlina," poznamenala vecne. „Takže sme správne."
+
+Max vytiahol z puzdra svoju zbraň — ťažký revolver, ktorý vyzeral ako kanón.
+„Ktorým smerom, Kito?"
+
+Kito, stále sediaci v bahne, ukázal do tmy. „Na juh. Pod Chrám. Ale musíme byť ticho. Oni počujú všetko."
+
+„Kto?" spýtal sa Max.
+
+Z hĺbky tunela sa ozvalo zavrčanie. Nebolo to zviera. Znelo to ako mokrý kašeľ cez zosilňovač.
+
+„Nepodarené experimenty," povedal Kito a prvýkrát sa pozrel Maxovi do očí s niečím, čo pripomínalo solidaritu odsúdencov. „Cirkev sa snaží napodobniť Stvorenie. Ale bez kódov Matky im vychádzajú len monštrá."

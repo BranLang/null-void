@@ -49,16 +49,16 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 
 ### Kto môže „čarovať"?
 - **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
-- **Homo Sapiens Varietas (Chiméry):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
+- **Homo Sapiens Varietas (Varietas):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
 
 ### Pôvod Daru Matky
 - **Vývoj**: Počas Éry Temnoty (AY ~500-650) Inetis vytvorila malú simuláciu s pomocou inžinierov z ARK lodí
   - Menšia ako pôvodný Achilles na Zemi (obmedzené zdroje)
   - ~100 simulovaných rokov vývoja (desaťročia v reálnom čase)
-- **Dizajn**: Špeciálne navrhnuté pre chiméru biológiu (na rozdiel od starých nanobotov elity, ktoré ich odmietali)
+- **Dizajn**: Špeciálne navrhnuté pre biológiu Varietas (na rozdiel od starých nanobotov elity, ktoré ich odmietali)
 - **Vlastnosti**:
   - Sofistikovanejšie a bezpečnejšie než pôvodné pozemské nanoboty
-  - **Dedičné** — prenášajú sa na potomkov Chimér
+  - **Dedičné** — prenášajú sa na potomkov Varietas
   - Kompatibilné s Pentagram rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
   - Nespôsobujú Glitch Rot
 - **Tami:** Špeciálny prípad, po prevzatí dronov Inetis (Echo) získava prístup k architektúre sveta.
@@ -205,7 +205,7 @@ Loď získala meno podľa princípu pohonu:
 ### ARK-12 (Zabudnutá loď)
 | | |
 |---|---|
-| **Pasažieri** | 50% Chiméry (Neo-Morfovia), exoti, vyvrheli |
+| **Pasažieri** | 50% Varietas (Neo-Morfovia), exoti, vyvrheli |
 | **Cesta** | 300 rokov (podsveteľná) |
 | **Osud** | Pristátie = AY 0. Ich potomkovia tvoria 99% populácie Pevniny. |
 
@@ -226,7 +226,7 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
 | **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
-| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Chiméry (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Varietas (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
 
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |
@@ -313,7 +313,7 @@ Vzducholode sú plnené **vodíkom** (hélium je vzácne a uniká). Výstrel z p
 
 ### 2. Pozemný boj: "Faktor Sp'ira" (Kinetická obrana)
 Palné zbrane sú devastujúce proti bežným cieľom (Ghor'ki, zvieratá), ale strácajú účinnosť proti silným užívateľom mágie.
-- **Vychýlenie**: Chiméra so silnou Spirou (napr. čistokrvný Pur'sang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
+- **Vychýlenie**: Varietas so silnou Spirou (napr. čistokrvný Pur'sang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
 - **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného mága.
 
 ---
@@ -321,7 +321,7 @@ Palné zbrane sú devastujúce proti bežným cieľom (Ghor'ki, zvieratá), ale 
 ## Glitch Rot (Hniloba)
 Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj technológiu.
 - **Vplyv na techniku**: „Rozožiera“ kód a obvody, mení ich na nefunkčnú čiernu hmotu.
-- **Vplyv na biogóliu**: U Chimér mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archanjeli ju vnímajú ako „otrávené mäso“.
+- **Vplyv na biogóliu**: U Varietas mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archanjeli ju vnímajú ako „otrávené mäso“.
 - **Prenos**: Kontaktom so starými ruinami alebo infikovanými schránkami.
 
 ---
@@ -372,6 +372,6 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 - **Power Armor (Grom)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú".
 
 ### Legendárne Artefakty
-- **Staré relikvie**: Zachované digitálne tabuľky, zbrane a vznášadlá z doby Zlatého veku. Pre Chiméry majú náboženský význam.
+- **Staré relikvie**: Zachované digitálne tabuľky, zbrane a vznášadlá z doby Zlatého veku. Pre Varietas majú náboženský význam.
 - **Krvné Zlato**: Staroveké zlato z ARK-13, jediná stabilná mena v post-apo svete.
 

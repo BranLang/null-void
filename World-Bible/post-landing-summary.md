@@ -5,7 +5,7 @@ Tento dokument je konsolidovaným prehľadom kľúčových udalostí, postáv a 
 ---
 
 ## 1. Analýza konceptu a tónu
-Svet NULL VOID stojí na **Clarkeovom zákone**, kde sa technologická minulosť (éra Hráčov) stretáva so stredovekou súčasnosťou (éra Chimér).
+Svet NULL VOID stojí na **Clarkeovom zákone**, kde sa technologická minulosť (éra Hráčov) stretáva so stredovekou súčasnosťou (éra Varietas).
 *   **Žánrový mix:** Sci-Fi / Techno-Fantasy / Post-Apo.
 *   **Hlavný motív:** Vina otca a následky rozhodnutí predkov (Elenia ako "chyba v kóde" rodičov).
 *   **Symbolika:** Pentagram ako UI (používateľské rozhranie) pre realitu, ktorý dáva mágii v príbehu logický hard-sci-fi základ.
@@ -33,7 +33,7 @@ Keď ARK-11 v roku AY 0 pristála, Inetis ich už čakala s vybudovaným zázem�
 
 *   **Rozkol matky a dcéry:** Elenia, po 300 rokoch detstva, inklinovala k poriadku, kontrole a nadvláde, kým Inetis presadzovala slobodnú spoločnosť.
 *   **Glitch Rot (Hniloba):** Približne v roku AY 300 začali nanoboty v telách elity zlyhávať a „odmietať“ hostiteľov. Zomierajúci ľudia zanechávali fragmenty vedomia v mrakoch dronov, čím vznikli prví **Wraiths** (Prízraky).
-*   **Exodus na pevninu:** Aby zachránila zvyšky ľudstva, Inetis upravila genetiku budúcich generácií (Chiméry), aby ich nanoboty ignorovali, a poslala ich preč z technologického centra na pevninu.
+*   **Exodus na pevninu:** Aby zachránila zvyšky ľudstva, Inetis upravila genetiku budúcich generácií (Varietas), aby ich nanoboty ignorovali, a poslala ich preč z technologického centra na pevninu.
 
 ---
 
@@ -44,7 +44,7 @@ Keď ARK-11 v roku AY 0 pristála, Inetis ich už čakala s vybudovaným zázem�
 *   **Prítomnosť (AY 3013):** Max (maXpowa) stojí nad kostrou Inetis v jaskyni. Tami, osvetlená kyanovou žiarou **Echa Inetis**, mu odhaľuje pravdu: *"Elenia je tvoja dcéra, Max. Ona je pomsta tejto jaskyne."*
 
 ### Veľké zjavenie v prístave (AY 3001)
-Max sa preberá po roku "absolútnej tmy", kedy jeho oči explodovali mrazom. Celý rok bol závislý na 7-ročnej Tami. Keď sa mu zrak vráti, zažije brutálny kolaps: zistí, že jeho záchrankyňa je **Chiméra** (biologický experiment s ušami a chvostom), ktorou pohrdal. V prístave vidí, že "čistí" ľudia už neexistujú a celá Iniciatíva Achilles bola lož.
+Max sa preberá po roku "absolútnej tmy", kedy jeho oči explodovali mrazom. Celý rok bol závislý na 7-ročnej Tami. Keď sa mu zrak vráti, zažije brutálny kolaps: zistí, že jeho záchrankyňa je **Varietas** (biologický experiment s ušami a chvostom), ktorou pohrdal. V prístave vidí, že "čistí" ľudia už neexistujú a celá Iniciatíva Achilles bola lož.
 
 ### Návrat k menu (Jaskyňa, AY 3013)
 Tami v jaskyni objavuje čiernu, kovovú palicu a očistí nánosy prachu. Číta vyrytý nápis v **Staroreči** (angličtine): **„maXpowa“**.
@@ -63,13 +63,13 @@ Max a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Max je presv
 *   **Bozk zrady:** Zaya (v skutočnosti Archanjel **Ishtar**) Chce Maxove "čisté" nanity na vyliečenie vlastného rozkladu.
 *   **Pád Ružového kráľovstva:** Keď Max odmietne jej lásku a žiada informácie o dcére, Zaya sa mení na monštrum. Púšťa **Smrtiacu hmlu** (Gray Goo), ktorá rozkladá všetko v okolí.
 *   **Aegis Spike Protiútok:** Max aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
-*   **Cesta do Ynetis:** Oslobodené Chiméry odovzdávajú Maxovi mapu do **Ynetis** – mesta, kde Elenia (Gatekeeper) plače prachom.
+*   **Cesta do Ynetis:** Oslobodení Varietas odovzdávajú Maxovi mapu do **Ynetis** – mesta, kde Elenia (Gatekeeper) plače prachom.
 
 ---
 
 ## 6. Kľúčové Postavy
 *   **Maximilián (Max / maXpowa):** Od xenofóbneho veterána k obetavému "Duchu v stroji". Jeho slepota mu umožnila vidieť Tami bez predsudkov.
-*   **Tami:** Archeologička a kapitánka *Silent Hunter*. Rozumie Staroreči (angličtine) – kódu k bohom. Stala sa nádobou pre Echo Inetis.
+*   **Tami:** Archeologička a kapitánka *Makita*. Rozumie Staroreči (angličtine) – kódu k bohom. Stala sa nádobou pre Echo Inetis.
 *   **Elenia:** Tragická antagonistka. Dôsledok Inetisinho strachu a tristoročnej izolácie.
 *   **Samaell:** Cynický pamätník zo Zeme, ktorý pozná Inetis ako "i_net_is" – architektku, nie bohyňu. Potrebuje kráľov krv na opravu vlastného Glitche.
 

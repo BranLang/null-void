@@ -82,7 +82,7 @@ Jeho ruka, ktorá ešte pred chvíľou chcela zabíjať väzniteľov, teraz jemn
 
 Muž chcel niečo povedať. Chcel povedať "Neboj sa" alebo sa spýtať na meno. Ale keď otvoril ústa, vyšlo z neho len suché zachrapčanie v jazyku, ktorému nikto na tejto lodi nerozumel.
 
-Namiesto slov len nechal ruku na jej hlave. Bol to jediný pevný bod v jeho vesmíre bolesti a nevedomosti. Slepý muž bez mena a vydesená Chiméra v klietke.
+Namiesto slov len nechal ruku na jej hlave. Bol to jediný pevný bod v jeho vesmíre bolesti a nevedomosti. Slepý muž bez mena a vydesená Varietas v klietke.
 
 SCÉNA 2: ODHALENIE (Z pohľadu Samaella)
 Medzitým, späť pri jaskyni.
@@ -119,6 +119,6 @@ Zvrátil hlavu a zareval. Nebol to ľudský krik. Bol to zvuk frustrácie bytost
 
 "Maximilián," vydýchol to meno do mrazivého vzduchu.
 
-Nebol mŕtvy. Najväčší generál Zeme, Hrdina od Marsu, muž, ktorý mal zomrieť s domovskou planétou, bol nažive. A bol slepý a v rukách nejakých podradných Chimér.
+Nebol mŕtvy. Najväčší generál Zeme, Hrdina od Marsu, muž, ktorý mal zomrieť s domovskou planétou, bol nažive. A bol slepý a v rukách nejakých podradných Varietas.
 
 Samaell sa otočil a vybehol z jaskyne do búrky. Musí nájsť tú loď. Musí nájsť tých pirátov. A musí nájsť Maxa skôr, než si spomenie, kým vlastne je.

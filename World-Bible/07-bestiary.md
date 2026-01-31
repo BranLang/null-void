@@ -11,7 +11,7 @@ Zvieratá na Achille sú kombináciou:
 
 Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie inteligentného života okrem "Čistých" ľudí:
 
-1. **Homo Sapiens Varietas (Chiméry):** Hybridy s ľudským základom a zvieracími črtami. Sú to plnohodnotné sociálne bytosti (viď [Societa](06-society.md)).
+1. **Homo Sapiens Varietas (Varietas):** Hybridy s ľudským základom a zvieracími črtami. Sú to plnohodnotné sociálne bytosti (viď [Societa](06-society.md)).
 2. **Uplifted Animals (Inteligentné Zvieratá):** Zvieratá s ľudskou inteligenciou, ktoré si zachovali zvieraciu anatómiu.
 
 ### Uplifted Animals (Inteligentné Zvieratá)
@@ -78,7 +78,7 @@ Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie intel
 ### "Doge" (Sub-sapiens)
 - **Pôvod**: Geneticky modifikovaní humanoidní psy vytvorení pre zábavu miliardárov v 21. storočí. 
 - **Charakteristika**: Majú obmedzenú inteligenciu (IQ 80-90) a často vykazujú autistické rysy. Ich telá sú dysfunkčné a bolestivé (zlá stavba kostry).
-- **Status**: Často na okraji spoločnosti Chimér, vnímaní ako "nepodarky" minulosti.
+- **Status**: Často na okraji spoločnosti Varietas, vnímaní ako "nepodarky" minulosti.
 
 ### Super-Primáty (Gorily a Šimpanzy)
 - **Pôvod**: Výsledok experimentov na zvýšenie inteligencie zvierat (IQ 140+).

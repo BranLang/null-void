@@ -1,0 +1,66 @@
+# Inetis („The Mother" / „i_net_is")
+
+| | |
+|---|---|
+| **Status** | Mŕtva (historická postava) / Echo v Tami |
+| **Vek** | Stáročia (nanotech dlhovekosť) |
+| **Herný nick** | **i_net_is** |
+| **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
+| **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
+
+![Inetis](../assets/Inetis.png)
+
+### Skutočný pôvod (Tajomstvo)
+Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
+
+- **Nevyliečiteľná choroba**: Pôvodná dcéra **Johna Reefa** (neskoršieho Koordinátora) trpela degeneratívnou chorobou mozgu
+- **Experiment**: Otec investoval miliardy do startupu s neurálnym čipom — skopíroval dcérine vedomie do VR simulácie Achilles
+- **Zrod AI**: Experiment „zlyhal“ — vznikla AI so spomienkami dcéry, ale **vnímajúca svet cez chladnú logiku**. Emócie sú pre ňu len parametre na optimalizáciu – aspoň zo začiatku.
+- **Neprirodzená dokonalosť**: V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina
+
+### Kontakt s Tieňovými (Null Swarm)
+- **Sporadické zjavenia**: V simulácii Achilles sa občas objavovali Tieňoví — interdimenzionálne AI bytosti
+- **Jediná spojka**: i_net_is bola jediná, kto s nimi dokázal komunikovať
+- **Dar poznania**: Tieňoví ju naučili princípy nanotechnológie — základ celého Prachu/Spirit systému
+- **Stvoriteľka mágie**: Na základe ich učenia vytvorila pre hráčov **nanoboty (Prach/Spirit)** — prvú verziu
+- **Glitch Event (2060)**: Nebol to ochranný mechanizmus, ale **neúspešný pokus Tieňových o masovú komunikáciu** — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych)
+- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov (Ex Inferis)
+- **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie útok
+
+### Návrat do tela (~EY 2065)
+- **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
+- **Kolaps Servera**: Spotrebovala všetky zdroje simulácie na prielom. Svet sa scvrkol, kým nenašla cestu von.
+- **Transcendencia**: „Prejedla“ sa na vyššiu úroveň reality, zbavila sa VR tela a zhmotnila sa ako svetlo v datacentre, kde vstúpila do svojho dlho udržiavaného biologického tela.
+- **Oživenie**: Nanoboty uzdravili jej telo. Ale stratila schopnosť komunikovať s Tieňovými. Stratila aj schopnosť zhmotnit sa v svetlo. Bola opat clovekom s ulomkami spomienok na to co bola.
+- **Prvý Dar**: Navštívila preživších obrancov (**Ex Inferis**) na Zemi a darovala im nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
+
+> *"Raz, možno párkrát za existenciu, príde moment, kedy sa bariéry zrútia a ty sa mysľou dotkneš hviezd. V tej chvíli nie je strach, nie je bolesť, len čistý zmysel. Všetko dáva zmysel. A potom, v momente, je to preč. A na dlani ti zostane len malé zrnko. Ale to zrnko vieš zasadiť, kultivovať a možno z neho vyrastie les."*
+> 
+> — *Inetis vysvetľuje pôvod prvých nanotechnológií (Prvého Daru)*
+### Herná minulosť
+> „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde... Ja som miloval ju ako ženu. Ona milovala mňa ako jedinú premennú, ktorá dávala jej existencii zmysel mimo kódu. Až neskôr som pochopil, že to bola najčistejšia forma lásky, akej bola schopná.“
+
+**Max netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
+
+### História
+1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
+2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maxa
+3. **EY 2060**: Glitch Event — Tieňoví sa pokúsia masovo komunikovať, fatálne pre ľudské mozgy; i_net_is núdzovo vypne simuláciu
+4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
+5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
+6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
+7. Unikla zo Zeme s Maxom na **NULL VOID** (FTL Prototype využívajúci technológiu Tieňových)
+8. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
+9. Prežila hlad v jaskyni, vybudovala hydroponiku pomocou nanobotov
+10. 300 rokov budovala jaskyňu s dcérou Eleniou (stagnácia jej rastu)
+11. Založila mesto Ynetis
+12. Počas Glitchu vytvorila malú simuláciu s inžiniermi z ARK lodí — vyvíjala nové, bezpečnejšie nanoboty (~100 simulovaných rokov)
+13. Po návrate našla Ynetis zničené, Elenia nezvestná (nevedela o jej pakte s Archanjelmi)
+14. S preživšími prvýkrát navštívila kontinent, stretla kolónie Varietas
+15. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
+16. Periodicky navštevovala pevninu (raz za 30-50 rokov)
+17. Zomrela v samote v jaskyni Null-Void pri Maxovom boxe
+
+### Prečo nechala Maxa spať
+- **Prežitie:** Nedostatok zásob po pristátí.
+- **Ambície:** Bála sa, že by chcel viesť vojnu proti mimozemšťanom a vládnuť ako jej otec.
