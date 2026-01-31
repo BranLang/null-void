@@ -1,6 +1,6 @@
 # Kapitola 2: Ulica Mŕtvych zvonov
 
-Ulice Štvrte Mezra páchli inak než prístav. V prístave páchol etanol, spálené uhlie a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
+Ulice Štvrte Mezra páchli inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
 
 Tami kráčala o pol kroka pred ním. Už to nebolo to vystrašené dievča z klietky, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníckych Mezrov s plynulosťou, ktorá Maxovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
 

@@ -256,9 +256,12 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 - **Pašovanie**: Kde je voľný obchod, tam je aj čierny trh. Podzemný obchod s kradnutými relíkviami, zakázanými zbraňami a — v tajnosti — s informáciami o Sp'ire a podzemných tuneloch.
 
 ### Doprava
-1. **Vzducholode:** Najrýchlejšia doprava. Využívajú hustejšiu atmosféru.
-2. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
-3. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Zaya).
+1. **Vzducholode:** Najrýchlejšia a najbezpečnejšia doprava. Preferované pred loďami kvôli častým zemetraseniam a tsunami, ktoré ničia prístavy a potápajú lode. Väčšinou poháňané biodieselom alebo etanolom.
+2. **Dvojplošníky:** Rýchle, ale vzácne — motory vyžadujú vysokú presnosť a neexistuje masová výroba. Poháňané biodieselom alebo biobenzínom. Väčšinou bojové a prieskumné.
+3. **Námorné lode:** Lacnejšie než vzducholode, ale riskantné. Tsunami a podmorské zemetrasenia robia námorný obchod nebezpečným a nespoľahlivým.
+4. **Riečne parníky:** Nákladná doprava po riekach — relatívne bezpečné (rieky nemajú tsunami).
+5. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
+6. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Zaya). Koľajnice trpia zemetraseniami — údržba je neustála.
 
 ---
 

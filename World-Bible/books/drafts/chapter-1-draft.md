@@ -35,7 +35,7 @@ Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hem
 
 ---
 
-Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Márne. Vzduch bol hustý, presiaknutý sladkastým zápachom spáleného etanolu a ťažkým uhoľným dymom z rafinérií. Miestni pálili tisíce ton uhlia, aby destilovali kukuricu na lieh, ktorý potom poháňal motory mesta. Bol to cyklus dymu a pary. Celé mesto dýchalo týmto technickým výparom ako obrovské, opité zviera.
+Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Márne. Vzduch bol hustý, presiaknutý sladkastým zápachom kvasiacej kukurice a ťažkým výparom z etanolových rafinérií. Miestni destilovali tisíce ton kukurice na lieh, ktorý potom poháňal motory mesta. Z geotermálnych prieduchov v dlažbe stúpala sírna para. Bol to cyklus kvasenia a pary. Celé mesto dýchalo týmto technickým výparom ako obrovské, opité zviera.
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou. V tme bolo Shoraven krásne. Za dňa bolo peklo.
 
@@ -198,7 +198,7 @@ Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v či�
 
 Zahnala spomienku a vyšla na palubu. Max tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší, — hanblivo sklopil oči, keď sa naňho pozrela.
 
-Tami prešla cez rampu na mólo. Pod nohami jej zachrastil kov a potom mokré drevo. Vzduch na zemi bol ešte horší než na palube — tu sa uhoľný smog miešal so zápachom ryšavej vody, stojatých kanálov a tisícov potiacich sa tiel.
+Tami prešla cez rampu na mólo. Pod nohami jej zachrastil kov a potom mokré drevo. Vzduch na zemi bol ešte horší než na palube — tu sa etanolový smog a sírna para miešali so zápachom ryšavej vody, stojatých kanálov a tisícov potiacich sa tiel.
 
 Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami v vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Sp'iry. Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili mágiu. Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky.
 
@@ -225,7 +225,7 @@ Prístav prechádzal do Dolného mesta plynulo — nebola tu žiadna brána, len
 Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Shobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Tami videla cez otvorené dvere davový chaos vnútri: trhový sál plný kričiacich postáv s papiermi v rukách, kriedové tabule s cenami komodít, ktoré niekto horúčkovito prepisoval. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore.
 Sp'ira kryštály — sústredená esencia v minerálnej forme, vzácnejšia než zlato — stratili hodnotu, pretože nikto v čase vojny neinvestoval do "luxusu".
 
-*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo magické hračky pre bohatých. Pre Makitu je to život. Parné jadro s katalyzátorom z čistého striebra. Stačí kvapka "aktivátora" — špeciálnej priemyselnej kyseliny — a kryštál začne žeraviť. Voda sa mení na paru okamžite. S plnou nádržou za túto cenu doletíme až na koniec sveta.*
+*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo magické hračky pre bohatých. Pre Makitu je to život. Parné jadro s katalyzátorom z čistého striebra. Stačí kvapka "aktivátora" — špeciálnej priemyselnej kyseliny — a kryštál začne žeraviť. Voda sa mení na paru okamžite. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny. S plnou nádržou za túto cenu doletíme až na koniec sveta.*
 
 *Vojna. Najlepší obchod na svete*, pomyslela si Tami. *Pre tých, čo nie sú na fronte.*
 
@@ -272,7 +272,7 @@ Pre bežného smrteľníka v Nevriss to bolo *Písmo Matky*. Posvätné znaky, k
 Tami však vedela lepšie. Felix ju naučil čítať podstatu. Pre neho a jeho bratov to nebola modlitba, ale *logika*. Jazyk, ktorým sa dal popísať svet s matematickou presnosťou. Bolo to dedičstvo, ktoré Karakuri po páde Kitó rozniesli medzi ľudí nie ako náboženstvo, ale ako vedu – svetlo poznania, ktoré malo ukončiť dlhé zimy Doby Temna.
 
 A to, čo bolo na stenách, boli to Haiku. Nekonečné stĺpce poézie o tichu, oceli a strate, ktorou si tento *Karakuri* krátil tisícročnú samotu.
-Vzduch voňal inak. Nie potom a spáleným uhlím, ale čistým olejom a ozónom. Na pracovnom stole ležali rozložené súčiastky hodinového stroja so symetriou, ktorá bolela oči.
+Vzduch voňal inak. Nie kvasiacou kukuricou a sírou, ale čistým olejom a ozónom. Na pracovnom stole ležali rozložené súčiastky hodinového stroja so symetriou, ktorá bolela oči.
 
 Za vyhňou stála postava pripomínajúca muža stredného veku. Čierne vlasy, zvláštne čierne oči, vyblednutá tvár, kožená zástera. Nič výnimočné. Až na tú absolútnu nehybnosť, keď nepracoval a tie oči. Oči Makov boli vždy *príliš pokojné*.
 

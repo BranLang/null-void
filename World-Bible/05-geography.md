@@ -59,6 +59,18 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 
 **Toto je kľúč k vojne:** Graw v zime stráca väčšinu územia. Päťročná zima doslova zmrazí krajinu — magma vyhreje mesto, ale nenakŕmi ho. Grawčania hladujú, kým Nevriss pri rovníku ešte dokáže produkovať obilie. Preto Graw vždy nakoniec zaútočí na juh.
 
+### Seizmická Aktivita — Živá Planéta
+
+Jadro Achilles je extrémne aktívne. Na rozdiel od Zeme, kde je tektonická aktivita rozložená na veľkých plochách, na Achilles sa energia jadra sústreďuje v rovníkovom páse — presne tam, kde žijú ľudia.
+
+- **Zemetrasenia** sú pomerne časté — menšie otrasy niekoľkokrát mesačne, silnejšie niekoľkokrát ročne. Architektúra sa prispôsobila: nízke budovy, masívne základy, ohybné konštrukcie. Napriek tomu každé silnejšie zemetrasenie zanechá škody.
+- **Tsunami** devastujú pobrežné oblasti niekoľkokrát za dekádu. Obrovské vlny vyvolané podmornými zemetraseniami ničia prístavy, lode a pobrežné osady. Preto sú **vzducholode preferované pred loďami** — sú nad vodou, nad vlnami, nad ničením.
+- **Gejzíry a horúce pramene** sú všadeprítomné. Civilizácia ich využíva ako zdroj energie — para z podzemia poháňa stroje, vykuruje mestá a ohrieva vodu.
+- **Magmové komory** sa nachádzajú blízko povrchu na mnohých miestach — Graw je najvýraznejší príklad (celé mesto vyhrievané magmou), ale aj Nevriss má geotermálne zóny.
+- **Sopečná aktivita**: Občasné erupcie menších sopiek v horských oblastiach. Väčšinou predvídateľné (Maki dokážu čítať vibrácie zeme), ale niekedy katastrofálne.
+
+> **Dôsledok pre civilizáciu:** Námornícky obchod existuje (je lacnejší než vzduchom), ale je považovaný za nebezpečný a nespoľahlivý. Lode sa potápajú, prístavy sa ničia, pobrežné mestá sa pravidelne zaplavujú. Väčšina diaľkového obchodu a cestovania preto prebieha vzducholoďami.
+
 ### Rovníkový pás (Jediná obyvateľná zóna)
 - **Šírka:** Úzky pás nad a pod rovníkom — všetko ostatné je ľad.
 - **Klíma:** Mierne až chladné. Teplejšie údolia pri geotermálnych prameňoch. V lete pripomína stredoeurópsky podnebíe; v zime arktické.
@@ -160,14 +172,14 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 
 - **Magmové vyhrievanie**: Celé mesto je postavené nad aktívnymi magmovými komorami. Kamenné kanály vedú horúcu vodu a paru z podzemia do budov, ulíc a opevnení. Červenooranžová žiara magmy je viditeľná aj z diaľky — mesto svieti v tmavej zimnej krajine ako obrovský žeravý uhlík.
 - **Večná zima**: Okolo mesta zurie neustála zima. Husté ihličnaté lesy pokrývajú krajinu, ale sú zavalené snehom. Bez magmového tepla by mesto padlo počas prvej päťročnej zimy.
-- **Architektonický kontrast**: Hrubé kamenné múry, železné brány a ťažobné veže — industriálna pevnosť. Komíny chrlia paru a dym. Ulice sú teplé od podzemného tepla, ale vzduch zapácha sírou.
+- **Architektonický kontrast**: Hrubé kamenné múry, železné brány a ťažobné veže — industriálna pevnosť. Komíny chrlia paru zo sírnych prameňov. Ulice sú teplé od podzemného tepla, ale vzduch zapácha sírou.
 - **Strategický význam**: Kto kontroluje magmu, kontroluje Graw. Mesto je takmer nedobytné — prístup len cez úzke priesmyky alebo vzduchom.
 - **Na mape viditeľné**: Žeravé červenooranžové svetlo nad mestom, horský masív za ním, ihličnaté lesy po stranách, sneh a ľad všade naokolo.
 
 ### Krajina Graw
 
 - **Lesy**: Husté, tmavé ihličnaté lesy pokrývajú väčšinu územia. Nebezpečná fauna — mutované šelmy, vlčie svorky veľké ako kone.
-- **Ťažba**: Bane v horách — železo, uhlie, vzácne kovy. Industriálna ekonomika.
+- **Ťažba**: Bane v horách — železo, vzácne kovy, síra. Industriálna ekonomika poháňaná geotermálnou parou.
 - **Dediny**: Roztrúsené osady v lesoch, zásobované z hlavného mesta. Počas zím sa mnohé vyprázdnia.
 - **Severná hranica**: Za horským masívom začína zamrznutá zóna. Občasné výpravy za vzácnymi minerálmi.
 
