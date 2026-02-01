@@ -65,6 +65,8 @@ Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a m�
 
 ## Veľká Vojna (The Great War)
 
+![Veľká Vojna - stret mágie a technológie](assets/books/Inetis/Gemini_Generated_Image_mfok24mfok24mfok.png)
+
 Okolo roku **AY 850** došlo k nevyhnutnému. Varietas, posilnení Spirou, začali budovať mestá. Prestali sa báť.
 
 **Ex Inferis zaútočili.**
@@ -74,11 +76,15 @@ Výpravu viedol Triumvirát: **Grom** (Sila), **Samaell** (Smrť) a **Zaiya/Isht
 Vojna bola brutálna. Ľudské légie (v1.0) narazili na Prvých Krotiteľov (v2.0).
 - **Genocída Líšok:** Líščí rod (Vulpes) boli **lídri a inteligencia** Varietas — najprefíkanejší stratégovia a najtalentovanejší programátori Spiry. Preto sa stali primárnym cieľom.
     - **Exodus:** Po bitke, keď bol výsledok nejasný, posledné líščie rodiny ušli na Východ do neprebádaných pustatín.
-    - **Proroctvo (Kito):** Neušli náhodne. Inetis im prezradila tajné súradnice. Povedala im, že na tomto mieste v ďalekej budúcnosti pristanú **Maki (Syntetickí)** — "Tretí Príchod" z nebies.
+    - **Proroctvo (Kito):** Neušli náhodne. Inetis im prezradila tajné súradnice. Povedala im, že na tomto mieste v ďalekej budúcnosti pristanú **Maki (Syntetickí)** — "**Tretí Príchod**" z nebies. Prvý boli Kolonisti, Druhý boli Ex Inferis. Tretí budú Stavitelia.
     - **Pôvod Maki:** Títo syntetickí boli vyslaní zo Zeme ešte **pred Hráčskou Revolúciou** (éra neskorého 21. storočia). Ich technológia je stará, "primitívna" (hardvér, nie nanotech), a ich cesta vesmírom trvá **2000 rokov**.
-    - **Dedičstvo:** Založili mesto **Kitana** (Kito) ako **čakáreň**. Líšky prežívajú, aby privítali týchto pútnikov, ktorí majú priniesť zabudnutú pravdu o ľudstve.
+    - **Dedičstvo:** Založili mesto **Kitana** (Kito) ako **čakáreň**. Líšky prežívajú, aby privítali týchto pútnikov.
+    - **Štvrtý Príchod?**: Inetis mlčala o Štvrtom. Ale Varietas si domysleli, že ak boli traja "Budovatelia", štvrtý musí byť ten, kto to dokončí. **Spáč**.
 
 ### Matka v Blate (Koniec vojny)
+
+![Matka v Blate - Inetis v ruinách vojny](assets/books/Inetis/Gemini_Generated_Image_xzqzsrxzqzsrxzqz.png)
+
 V rozhodujúcej bitke v **Atranskej Úžine (The Atra Narrows)** pod Hangravall (jediný pevninský vstup do Nevriss, zovretý medzi riekou a morom — miestne "Thermopyly") sa Inetis zjavila na bojisku.
 
 Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. Ale Varietas využili terén. V úzkom priestore bola prevaha Archanjelov negovaná. Líšky (Vulpes) a Varietas vytvorili stenu zo Spiry a tiel, ktorú Ex Inferis nedokázali prelomiť.
@@ -92,6 +98,16 @@ Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. 
     - **Rozpad Légie:** Jej légie sa rozdelili. Mnohí odišli do strednej Neuropy, kde založili nové mestá (napr. Ludus). Na Terru sa pre hanbu už nikdy nevrátili. 
 
 Inetis ostala sedieť v blate, zatiaľ čo sa jej svet rozpadol. Nie vojenskou porážkou, ale morálnym kolapsom jej "detí".
+
+### Zlomené Srdce (The Breakdown)
+
+![Inetis Breakdown](assets/books/Inetis/Inetis_breakdown.png)
+
+Toto je moment, ktorý definoval jej koniec. Kým Varietas oslavovali víťazstvo a stavali jej sochy, ona plakala. 
+- **Pravá Tvár (Human Mother)**: Najstaršie sochy v Shoraven ju zobrazujú takto — ako ľudskú ženu, kľačiacu v blate, s očami fialovými od sĺz (symbol vesmíru, ktorý stratila). Bez uší, bez chvosta. Len človek.
+- **Falošný Idol (Cat Mother)**: Cirkev neskôr túto pravdu "upravila". Pridali jej mačacie uši, aby vyzerala ako Varietas (Líška/Mačka). Zmenili jej slzy na "pentagramy moci", aby vyzerala ako bohyňa vojny, nie ako matka v depresii.
+
+Inetis nezomrela v boji. Zomrela vnútorne v ten deň v Atranskej úžine, keď videla, ako jej dar (Spira) slúži na zabíjanie a ako jej vlastní ľudia (Ex Inferis) vraždia pre moc. Pochopila, že zlyhala ako Vedkyňa aj ako Matka.
 
 ---
 

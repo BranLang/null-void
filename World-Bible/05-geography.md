@@ -174,6 +174,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
 | **Náboženstvo** | Kult Nesmrteľného Groma |
 | **Charakter** | Militantný, expanzívny, industriálny |
 | **Hlavné mesto** | Magmové Mesto (pod horským masívom) |
+| **Obyvatelia** | **Ľudia** (Vládnuca kasta / Armáda) + Varietas (Robotníci / Otroci). Na rozdiel od Juhu, v Graw žije významná populácia "Čistých" ľudí, ktorí tvoria jadro armády. |
 
 ### Hlavné Mesto Graw — Magmové Mesto
 
@@ -408,7 +409,7 @@ Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnu
 
 Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
 
-- **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **Apes v lesklej zbroji s veľkými oceľovými sekerami** na pobreží. Masívne, tiché, organizované. Väčšina ľudí to považuje za opilecké rozprávky.
+- **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **"Paladínoch"** — elitnej kaste Apes. Sú to "absolútni profesionáli". **Nerozprávajú.** Komunikujú len rýchlymi, vojenskými gestami. Žiadne revanie, žiadny hnev. Len tichá, brutálna efektivita, energetické štíty a desivá rýchlosť na tak obrovské telá.
 - **Husté močiare a pralesy**: Aprika je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Varietas zvyknuté na chladné lesy a smog to je cudzí svet.
 - **Žiadny kontakt**: Apes zjavne nemajú záujem o kontakt s Terrou. Či už preto, že to nepotrebujú, alebo preto, že Terru považujú za primitívnu.
 

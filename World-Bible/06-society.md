@@ -9,7 +9,11 @@
 
 **Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa tak boja technológie). Sú to "elfovia" tohto sveta.
 
-**Status:** Sú vzácni. Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
+**Status:** Sú vzácni, ale držia si mocenské enklávy.
+- **Neuropa**: Domov "Starých Ľudí", ktorí si pamätajú Zem. Izolacionisti.
+- **Graw (Sever)**: Militantná ľudská kasta pod vládou Groma.
+- **Aprika (Sklene Mesto)**: Dekadentný dvor okolo Ishtar.
+Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
 
 ### 1. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
 **Hanlivé názvy:** "Zver", "Miešanci", "Hračky", "Krátkožijúci".
@@ -303,8 +307,16 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 
 ## Frakcie (Lore Register)
 
-- **Kult Matky Spasiteľky**: Dominantné náboženstvo na Juhu (Nevriss); uctieva Inetis ako bohyňu („Matka nás opustila pre naše hriechy").
-- **Kult Nesmrteľného Groma**: Dominantné náboženstvo na Severe (Graw); uctieva Groma ako živého boha.
+### Kulty Matky a Doktrína Štyroch Príchodov (The Four Comings)
+Základná teológia Varietas v Nevriss verí v **Svätú Trojicu**: Matka (Stvoriteľka), Dcéra (Magia/Spira) a Spáč (Koniec/Súd). Boli tu vždy pred časom.
+
+**História sa delí na Príchody:**
+1.  **Prvý Príchod (The Seed)**: Prví osadníci (Ľudia a Varietas) z hviezd. Zvestovatelia života.
+2.  **Druhý Príchod (The Fire)**: **Ex Inferis (Archanjeli)**. Priniesli moc, ale aj pýchu a vojnu. Skúška viery.
+3.  **Tretí Príchod (The Silence)**: **Maki (Syntetickí Inžinieri)**. Priniesli technológiu a pravdu o "tichu". Učia, že slová sú zbytočné, dôležité sú činy.
+4.  **Štvrtý Príchod (The Void)**: **Spáč (The Sleeper)**. Mýtus o Konci Časov. Príde, keď bude svet príliš skazený, aby ho "vypol" alebo "reštartoval". Nie je to spasiteľ, je to **Koniec**.
+
+Kult Matky učí, že Spáč je len metafora. Ale staré sekty a archeológovia (ako Kito) vedia, že proroctvo je technický manuál.
 - **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grom†, Zaya/Ishtar, Elenia).
 - **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
 - **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
