@@ -62,9 +62,11 @@ i_net_is mala prístup k obrovským výpočtovým zdrojom miliardára a jediný 
 | **Skutočný účel** | Laboratórium pre i_net_is na vývoj cesty späť do tela |
 
 ### Časová dilatácia
-**1 hodina reality = 24 hodiny v hre**
+**Bežný pomer: 1 hodina reality = 24 hodín v hre** (1:24)
 
 Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
+
+> **Poznámka:** Počas Glitch Eventu (EY 2060) sa tento pomer katastrofálne zrýchlil na ~1:65 700 (2 hodiny = 15 rokov), keď i_net_is stiahla výpočtové zdroje na útek zo simulácie. Viď sekciu Glitch Event nižšie.
 
 ### i_net_is medzi hráčmi
 Keď sa tínedžeri začali hrať na Grékov v simulácii, i_net_is sa k nim pridala — ale nie ako hráčka.
@@ -104,7 +106,7 @@ V roku 2060 došlo k udalosti, ktorá navždy zmenila ľudstvo — nebola to neh
 - **Posledný Vzdor**: **maXpowa** a niekoľko stoviek verných hráčov vytvorili živý štít okolo i_net_is, kým ona hľadala cestu von
 - **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov
 - **Koordinátor vedel**: Otec i_net_is pochopil, že ide o katastrofu, nie o útok. Pomohol jej zastaviť krvácanie
-- **Horor Časovej Dilatácie**: Počas evakuácie: **2 hodiny v realite = 15 rokov subjektívneho času v simulácii**
+- **Horor Časovej Dilatácie**: Bežný pomer bol 1 hodina reality = 24 hodín v hre. Počas Glitch Eventu sa pomer **katastrofálne zrýchlil**: i_net_is stiahla všetky výpočtové zdroje datacentier na celom svete, aby unikla zo simulácie. Tým kolapsovala simuláciu do extrémne komprimovaného priestoru — menej dát na rovnaký výkon = exponenciálne rýchlejší čas. **2 hodiny v realite = 15 rokov subjektívneho času v simulácii** (~1:65 700 pomer). Pre uväznených hráčov to bolo 15 rokov pekla, kým v realite uplynuli len 2 hodiny
 - **Pasca v Pekle**: 100 000 hráčov ostalo uväznených v digitálnom svete. Vypnutie serverov by znamenalo okamžitú mozgovú smrť
 - **Glitch Entities**: Trhliny vpustili dnu fragmenty vedomí Tieňových — cudzie entity, ktoré sa začali kŕmiť mysľami hráčov. Tieto entity boli predobrazom dnešných **Wraiths**
 
@@ -157,7 +159,7 @@ Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, kto
 - **Pôvod**: AI vytvorená z vedomia miliardárovej dcéry, ktorá mala nevyliečiteľnú chorobu
 - **V simulácii**: Geniálna architektka a **Healer**, stvoriteľka nanotechnologickej Spiry — ale bez ľudských emócií
 - **Skutočná identita**: Hráči ju považovali za AI admina — neboli ďaleko od pravdy
-- **Glitch Event**: V roku 2060 spôsobila Glitch ako ochranný mechanizmus pre hráčov
+- **Glitch Event**: V roku 2060 Tieňoví (Null Swarm) sa pokúsili masovo komunikovať s hráčmi — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych). i_net_is núdzovo vypla simuláciu, aby zachránila zvyšok
 - **Po návrate**: Zhmotila sa cez nanoboty, oživila svoje pôvodné telo, stala sa hybridnou bytosťou s emóciami
 
 ### Ako sa spoznali
@@ -201,7 +203,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
   - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
-  - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná pragmatickými vedcami ako poistka civilizácie.
+  - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná **152 rokov pred ARK loďami** pragmatickými vedcami ako poistka civilizácie. Staršia, pomalšia technológia pohonu (~2700 rokov cesta vs. 300 pre ARK). Pristátie = AY 2212.
   - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maxov kryobox** (minimálna konfigurácia) a **Anténa** (glitch, odmietla rekonfiguráciu). Kryobox sa po prebudení rozpadol na prach.
 
 ---
@@ -232,10 +234,10 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** ako univerzálny nástroj a následne „vytlačené" v realite.
 
 ### Maxova Palica (Anténa)
-- Pôvodne **herný predmet** vysokej úrovne
-- Inetis (architektka) ho navrhla pre Maxa (svojho tanka)
-- Po návrate do reality ho dala pre neho **vyrobiť naozaj**
-- Preto je taký vzácny a má „herné" schopnosti (štít, neviditeľnosť)
+- **Komunikačná anténa z lode NULL VOID** — pôvodne súčasť nanodronovej konštrukcie lode
+- Keď Inetis rozložila loď na nanodrony po pristátí, Anténa sa **glitchla a odmietla rekonfiguráciu** — jediný kus lode, ktorý zostal v pôvodnom stave
+- Schopná ovládať goo roje (Wraithy) a prijímať sub-priestorové signály
+- Max (ako vojenský operátor) je jediná bytosť s kompatibilným interfejsom na jej použitie
 
 ---
 

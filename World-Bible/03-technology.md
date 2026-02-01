@@ -68,7 +68,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 - **Vývoj**: Počas Éry Temnoty (AY ~500-650) Inetis vytvorila malú simuláciu s pomocou inžinierov z ARK lodí
   - Menšia ako pôvodný Achilles na Zemi (obmedzené zdroje)
   - ~100 simulovaných rokov vývoja (desaťročia v reálnom čase)
-- **Dizajn**: Špeciálne navrhnuté pre biológiu Varietas (na rozdiel od starých nanobotov elity, ktoré ich odmietali)
+- **Dizajn**: Špeciálne navrhnuté pre biológiu **Varietas** (modifikovaných ľudí — ľudský základ genómu + zvieracie črty). Funguje na ľudskom genetickom základe. **Nekompatibilné s Chimérami** (Ghorki — modifikované zvieratá so zvieracím základom genómu). Inetis nemala čas vyriešiť kompatibilitu so zvieracím genómom v Core
 - **Vlastnosti**:
   - Sofistikovanejšie a bezpečnejšie než pôvodné pozemské nanoboty
   - **Dedičné** — prenášajú sa na potomkov Varietas
@@ -272,8 +272,10 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 | | |
 |---|---|
 | **Pasažieri** | Tisíce biologických androidov (Maki) |
-| **Cesta** | Automatizovaná semenná loď (Seed Ship), 1200+ rokov |
-| **Osud** | Pristátie = AY 2000. Posádka Maki prežila v bezchybnom stave. |
+| **Štart** | EY 2098 — vyslaná **152 rokov pred ARK loďami**, ešte pred Revolúciou Hráčov |
+| **Technológia** | Staršia generácia pohonu (pred-hráčska éra) — výrazne pomalšia než ARK lode |
+| **Cesta** | Automatizovaná semenná loď (Seed Ship), **~2700 rokov** (vs. 300 rokov pre ARK) |
+| **Osud** | Pristátie = **AY 2212** (Tretí Príchod). Posádka Maki prežila v bezchybnom stave. |
 
 ---
 
@@ -303,14 +305,14 @@ Svet nepoužíva uhlie ani elektrinu. Primárnymi zdrojmi energie sú:
 
 | Typ | Pohon | Poznámka |
 |-----|-------|----------|
-| **Vzducholode** | Biodiesel / etanol | Preferovaná doprava — bezpečnejšia než lode (tsunami) |
+| **Vzducholode** | Biodiesel / etanol | Bežné od príchodu Makov (~AY 2200+) — bezpečnejšia než lode (tsunami) |
 | **Dvojplošníky** | Biodiesel / etanol | Menšie, rýchle, prieskumné a bojové |
 | **Riečne parníky** | Biodiesel / etanol | Nákladná doprava po riekach |
-| **Námorné bárky** | Para / plachty | Riskantné — tsunami a zemetrasenia |
+| **Námorné bárky** | Para / plachty | Lacná, ale riskantná alternatíva — tsunami a zemetrasenia |
 | **Vlaky** | Para (geotermálna) | Len v Nevriss a okolí — koľajnice trpia zemetraseniami |
 
 **Prečo sú vzducholode preferované pred loďami:**
-Jadro planéty Achilles je extrémne aktívne. Zemetrasenia sú pomerne časté a tsunami devastujú pobrežné oblasti niekoľkokrát za dekádu. Námorná doprava je riskantná — lode sa potápajú, prístavy sa ničia, pobrežné mestá sa pravidelne zaplavujú. Vzducholode sú nad tým všetkým. Preto sa väčšina diaľkového obchodu a cestovania presunula do vzduchu. Námornícky obchod stále existuje (je lacnejší), ale je považovaný za nebezpečný a nespoľahlivý.
+Jadro planéty Achilles je extrémne aktívne. Zemetrasenia sú pomerne časté a tsunami devastujú pobrežné oblasti niekoľkokrát za dekádu. Námorná doprava je riskantná — lode sa potápajú, prístavy sa ničia, pobrežné mestá sa pravidelne zaplavujú. Nevriss bolo kedysi námorným impériom — jeho flotila šírila civilizáciu pozdĺž južných brehov Terry. Ale **Veľká Potopa** (~AY 1500) zničila väčšinu prístavov a flotily. Po príchode **Makov** (AY 2212) sa vzducholode stali hlavnou formou diaľkovej dopravy — sú nad tým všetkým. Námornícky obchod stále existuje (je lacnejší), ale je považovaný za nebezpečný a nespoľahlivý.
 
 **Dvojplošníky:**
 Existujú aj lietadlá — dvojplošníky poháňané biodieselom alebo etanolovým biobenzínom. Sú rýchlejšie než vzducholode, ale menšie a s obmedzeným doletom. Používajú sa na prieskum, rýchle správy a ako ľahké bojové stroje. Graw ich využíva na prieskumné nálety (malé, rýchle, s dlhým dostrelom).

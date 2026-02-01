@@ -147,7 +147,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
                     ║  🐺 Nebezpečná fauna v lesoch       ║
                     ║                                    ║
                     ║  🏰 NEVRISS CITY (hlavné mesto)     ║
-                    ║  🗼 Bezpečné centrum na juhu        ║
+                    ║  🗼 Prístavné mesto na útesoch       ║
                     ╚════════════════════════════════════╝
                          ⛵ ~ ~ ~ MORE ~ ~ ~ ⛵
     ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─
@@ -163,7 +163,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
 > **Poznámka:** Graw leží pri severnom okraji obyvateľného pásu — drsnejší, chladnejší, bližšie k ľadu.
 > Nevriss zaberá strednú a južnú časť Terry — miernejší, úrodnejší, s prístupom k moru.
 > **Shoraven** leží na severnej hranici Nevriss, tesne pod Hangravall — pohraničné mesto, prvá línia obrany.
-> **Nevriss City** (hlavné mesto) leží v bezpečnom vnútrozemí na juhu — politické a náboženské centrum.
+> **Nevriss City** (hlavné mesto) leží na vysokých útesoch nad južným morom — prístavné mesto s masívnym výťahovým systémom a tunelmi v skale.
 > Ynetis leží za morom na juhu — súostrovie pri rovníku.
 > Na Terre existuje ~20 krajín — Graw a Nevriss sú len najväčšie z nich.
 
@@ -224,7 +224,7 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 | **Starý názov** | **Neverice** (Never-Ice = "nikdy ľad") |
 | **Názov Varietas** | **Nevriss** (so syčaním na konci) |
 | **Veľkosť** | Približne ako Taliansko |
-| **Hlavné mesto** | **Nevriss City** (vnútrozemie, juh) |
+| **Hlavné mesto** | **Nevriss City** (južné pobrežie, na útesoch) |
 | **Hraničné mesto** | **Shoraven** (severná hranica, pri Graw) |
 | **Vláda** | Rada Veľkňažiek (matriarchát) |
 | **Náboženstvo** | Kult Vševedúcej Matky |
@@ -239,7 +239,36 @@ Nevriss zaberá strednú a južnú časť Terry — od Hangravall na severe až 
 - **Údolia a pláne**: Medzi lesmi a riekami úrodné polia — pšenica, obilie, ovocné sady. Najdôležitejšie poľnohospodárske oblasti na planéte.
 - **Menšie mestá a dediny**: Roztrúsené pozdĺž riek a obchodných ciest. Na mape viditeľné ako opevnené osady s vežami.
 - **Pobrežie**: Členité, s malými ostrovmi, zálivmi a skaliskami. Majáky na výbežkoch svietia pre lode.
+- **Južné pobrežie**: Nikdy nezamŕza — teplé prúdy z rovníka udržiavajú vodu tekutú celoročne. Toto umožňovalo námornú dopravu aj počas Dlhých Zím a bolo základom nevrisskej námornej expanzie.
 - **Západné pobrežie**: Ľadovce a zamrznuté ostrovy — blízkosť zamrznutej zóny. Obchodné trasy obchádzajú ľadové kryhy.
+
+### História Nevriss — Vzostup a Pád Námorného Impéria
+
+Nevriss nebolo vždy len jedno kráľovstvo na Terre. Kedysi to bolo **impérium** — najväčšia mocnosť, akú planéta Achilles videla.
+
+#### Zlatý Vek Spiry (~AY 800 – ~AY 1500)
+Po tom, čo Inetis odovzdala Varietas **Dar Matky** a veľká bitka s ľuďmi (Archanjeli) skončila, nastal na juhu Terry zlatý vek. Nevriss bolo prvé kráľovstvo, ktoré plne využilo potenciál Spiry — nie na vojnu, ale na **budovanie**.
+
+- **Námorná expanzia**: Nevrisské lode sa šírili pozdĺž južných brehov Terry. Južné pobrežie nikdy nezamŕza — teplé prúdy z rovníka udržiavajú more otvorené celoročne, čo umožňovalo námornú dopravu aj počas Dlhých Zím. Lode plávali od prístavu k prístavu, zakladali kolónie a obchodné stanice.
+- **Kolonizácia**: Nevrisské lode založili desiatky miest a osád pozdĺž pobrežia. Priniesli so sebou **jazyk, kultúru, náboženstvo (Kult Matky)** a spôsob života. Mnoho dnešných krajín na južnej Terre má nevrisské korene.
+- **Teraformácia Spirou**: Kolonisti sadili stromy a **teraformovali krajinu pomocou Spiry** — premenili nehostinné pobrežia na úrodné pôdy. Lesy, ktoré dnes pokrývajú vnútrozemie Nevriss a okolité krajiny, sú z veľkej časti dielom tejto éry.
+- **Obchodná sieť**: Vznikla rozsiahla sieť námorných obchodných trás — korenie, obilie, kovy, Spira kryštály putovali po mori medzi desiatkami prístavov. Nevriss sa stalo centrom obchodu celého južného sveta.
+
+#### Veľká Potopa (~AY 1500 – ~AY 1600)
+Impérium padlo nie pod ťarchou vojny, ale **pod vlnami**.
+
+- **Katastrofálne tsunami**: Séria mohutných podmorských zemetrasení vyvolala ničivé vlny tsunami, ktoré zasiahli celé južné pobrežie Terry. Mnohé prístavné mestá a kolónie boli zničené alebo celkom zaplavené.
+- **Nevriss City prežilo**: Mesto na vysokých útesoch odolalo — tsunami sa rozbíjali o skaly pod ním. Ale **flotila bola zničená** — lode v prístave pod útesmi zmietlo vlnami, doky a lodenice poškodené.
+- **Strata kolónií**: Nižšie položené prístavné mestá a kolónie pozdĺž pobrežia boli zničené alebo celkom zaplavené. Mnohé zmizli navždy.
+- **Fragmentácia impéria**: Kolónie stratili spojenie s centrom. Bez lodí a prístavov sa obchodné trasy prerušili. Vzdialené osady sa osamostatnili alebo zanikli. Z jedného impéria vznikli dnešné samostatné krajiny južnej Terry.
+- **Strata námornej nadvlády**: Nevriss stratilo svoju flotilu a s ňou aj kontrolu nad obchodnými trasami. Samo mesto prežilo, ale impérium bolo preč.
+
+#### Éra Vzducholodí (po AY 2212, príchod Makov)
+Po príchode **Makov** (androidov z lode Hephaestus, AY 2212) sa situácia zmenila.
+
+- **Vzducholode**: Maki priniesli technické znalosti, ktoré umožnili stavbu vzducholodí. Tie sa rýchlo stali **hlavnou formou diaľkovej dopravy** — bezpečnejšou než lode, nad dosahom tsunami a zemetrasení.
+- **Lode stále existujú**: Námornícky obchod nezmizol úplne — lode sú **lacnejšia**, ale **riskantná** alternatíva. Používajú ich tí, čo si nemôžu dovoliť vzducholode, alebo pašeráci, ktorí nechcú byť videní zhora.
+- **Dedičstvo impéria**: Nevrisský jazyk, Kult Matky a kultúra prežili v mnohých krajinách južnej Terry — stopy niekdajšieho impéria sú dodnes všade.
 
 ### Hraničné Mesto: SHORAVEN
 
@@ -289,21 +318,25 @@ Shoraven leží na severnej hranici Nevriss, v strategickej pozícii oddeľujúc
 |---|---|
 | **Starý názov** | **Neverice City** (skrátené z pôvodného osídlenia) |
 | **Názov Varietas** | **Nevriss City** |
-| **Lokácia** | Južná časť Nevriss — vnútrozemie, ďaleko od hraníc |
+| **Lokácia** | Južné pobrežie Nevriss — mesto na vysokých útesoch nad morom |
 | **Charakter** | Politické, náboženské a obchodné centrum krajiny |
-| **Dominanta** | Hlavný Chrám Vševedúcej Matky (centrálny, najväčší na kontinente) |
-| **Ekonomika** | Gildové sídla, centrálna burza, zásobovací uzol |
+| **Dominanta** | **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta) + Hlavný Chrám Vševedúcej Matky |
+| **Ekonomika** | Gildové sídla, centrálna burza, prístav (výťahový systém) |
 
 #### Poloha a Popis
 
-Nevriss City je hlavné mesto a srdce celého Nevriss. Leží v južnej časti krajiny, v úrodnom vnútrozemí medzi riekami — bezpečne ďaleko od severnej hranice s Graw. Mesto vzniklo ako administratívne a náboženské centrum, keď sa Shoraven stal príliš exponovaným pohraničným mestom.
+Nevriss City je hlavné mesto a srdce celého Nevriss. Leží na južnom pobreží krajiny, na **vysokých útesoch** nad morom. Mesto prežilo **Veľkú Potopu** (~AY 1500) práve vďaka svojej polohe — tsunami sa rozbíjali o masívne útesy pod mestom, ale flotila v prístave bola zničená. Zatiaľ čo nižšie položené prístavné mestá a kolónie zmizli pod vlnami, Nevriss City zostalo stáť a stalo sa jediným centrom moci fragmentovaného impéria.
 
-- **Poloha**: Vnútrozemské mesto na sútoku dvoch veľkých riek tečúcich z Hangravall. Riečne prístavy umožňujú dopravu tovaru z celej krajiny. Strategicky bezpečná pozícia — útočník by musel najprv prekonať Shoraven a celý sever Nevriss.
-- **Chrám**: Hlavný Chrám Vševedúcej Matky — najväčší a najokázalejší na celom kontinente. Sídlo Rady Veľkňažiek. Zlaté kupoly viditeľné z veľkej diaľky.
+- **Poloha**: Mesto na vysokých útesoch nad južným morom. K lodiam a prístavu sa zostupuje cez **masívny výťahový systém a tunely vytesané v skale** — impozantná inžinierska stavba, ktorá spája horné mesto s dokami pri hladine mora. Strategicky bezpečná pozícia — útočník by musel najprv prekonať Shoraven a celý sever Nevriss, alebo pristáť pod útesmi.
+- **Prístav**: Pod útesmi sa nachádza prístavný komplex — doky, sklady, lodenice. Prístup len cez výťahy a tunely v skale. Južné pobrežie nikdy nezamŕza, takže prístav je funkčný celoročne.
+- **Veľký Maják**: Obrovský maják na okraji útesov — **symbol Nevriss City po tisíce rokov**. Pôvodne slúžil ako **komunikačná anténa**, vytlačený **3D tlačou** z nanodronov ešte v časoch Zlatého veku. Dnes ho Varietas vnímajú len ako majestátny maják a symbol mesta. Jeho skutočný pôvod (3D tlač, komunikačná technológia) je zabudnutý — pre obyvateľov je to pradávna stavba, stará ako samotné mesto.
+  - **Rola v príbehu (Triangulácia)**: Max tu aktivuje Anténu a využije Maják ako **prvý bod trigonometrickej triangulácie** na nájdenie strateného mesta Ynetis. Na výpočet presnej polohy potrebuje tri vysoké body pri mori — Veľký Maják v Nevriss, **Sklenú Vežu** u Zayi a **Vežu Zatratených** Elenie.
+- **Chrám**: Hlavný Chrám Vševedúcej Matky — najväčší a najokázalejší na celom kontinente. Sídlo Rady Veľkňažiek. Zlaté kupoly viditeľné z mora aj z vnútrozemia.
 - **Gildové sídla**: Všetky hlavné gildy (Kováčov, Kupcov, Aeronautov, Hodinárov...) majú centrálne haly v Nevriss City. Tu sa prijímajú zákony, uzatvárajú zmluvy a rozhoduje o ekonomike krajiny.
-- **Obranná pozícia**: Na rozdiel od Shoravenu nie je Nevriss City frontové mesto. Masívne hradby slúžia skôr pre prípad najhoršieho. Mesto sa spolieha na to, že Shoraven a severné pevnosti zadržia nepriateľa.
+- **Obranná pozícia**: Útesy sú prirodzená pevnosť z juhu — more a skaly sú neprekonateľné. Zo severu mesto chránia hradby a vzdialenosť od frontu. Mesto sa spolieha na to, že Shoraven a severné pevnosti zadržia nepriateľa.
 - **Obyvateľstvo**: Najväčšie mesto na kontinente — obchodníci, kňažky, remeselníci, šľachta, utečenci zo severu. Počas Dlhej Zimy populácia narastá — evakuovaní z pohraničia sa sťahujú sem.
-- **Atmosféra**: Na rozdiel od drsného Shoravenu je Nevriss City civilizovanejšie, teplejšie (vďaka južnej polohe) a bohatšie. Ulice sú dláždené, trhy plné, chrámy osvetlené. Ale pod povrchom rastie napätie — správy z frontu sú čoraz horšie.
+- **Atmosféra**: Na rozdiel od drsného Shoravenu je Nevriss City civilizovanejšie, teplejšie (vďaka južnej polohe) a bohatšie. Ulice sú dláždené, trhy plné, chrámy osvetlené. Z okraja útesov je výhľad na nekonečné more. Ale pod povrchom rastie napätie — správy z frontu sú čoraz horšie.
+- **Požehnaná Matka (Tajomstvo)**: Na tróne v Hlavnom Chráme sedí **Požehnaná Matka** — najvyššia kňažka, hlava Rady Veľkňažiek, uctievaná milostivá vodkyňa. Verejnosť vníma Požehnanú Matku ako **líniu svätých žien** — každých ~100 rokov odchádzajúca Matka vyberie mladú pannu z ľudu a za zatvorenými dverami „odovzdá požehnanie". V skutočnosti je to **Mormiel** — 4. Archanjel z ARK-13, ktorá kandidátku nanotechnológiou rozloží, pohltí a preberie jej podobu. „Nová Matka" potom potvrdí, že stará Matka sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla cez ~23 identít. V noci loví ulicami mesta ako predátorka — mestská legenda o **"Nočnom Tieni"** je v skutočnosti ona. Detaily v [characters/Mormiel.md](characters/Mormiel.md).
 
 ---
 
@@ -426,14 +459,14 @@ Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, cen
 | **Krajina** | Husté močiare, pralesy, džungle. Veľmi vlhko. |
 | **Civilizácia** | Rozvinutá — pravdepodobne najrozvinutejšia na planéte |
 | **Kontakt so Severom** | Minimálny — len námorníci občas hlásia pozorovania |
-| **Wraithy** | **Žiadne.** Apes nemajú nanotechnológie — Wraithy ich neatakujú. |
+| **Wraithy** | **Žiadne.** Ľudia nikdy nekolonizovali Apriku — nie sú tu žiadne ľudské pozostatky ani nanotech zvyšky, z ktorých by Wraithy vznikli. |
 
 #### Pôvod Apes
 
 Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnuté na vyššiu úroveň inteligencie. Boli súčasťou misie Exodus. Pri zakladaní mesta Ynetis sa však rozhodli ísť **vlastnou cestou** — oddelili sa od ostatných rás, teraformovali si vlastný kus zeme — dnešnú Apriku — a vybudovali nezávislú civilizáciu.
 
 - **Prvá rasa, ktorá opustila Ynetis**: Apes odišli ešte **pred udalosťami Glitch Rotu** — pred pádom civilizácie, pred Wraithy, pred všetkým. Toto rozhodnutie im zachránilo existenciu.
-- **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Spiru, nemajú „Spiru". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
+- **Bez nanotechnológie**: Apes nikdy nedostali nanotech — **ľudia ich nepovažovali za Homo Sapiens** a odmietli im ho poskytnúť. Apes si toto poníženie dodnes pamätajú. Nemajú Spiru. A keďže ľudia nikdy nekolonizovali Apriku, nie sú tu ani žiadne ľudské pozostatky či nanotech zvyšky — Wraithy tu jednoducho nemajú z čoho vzniknúť. (Wraithy sú sústredené na Terre, okolo Ynetis a na Neurope, kde ich riešia Exorcisti.)
 - **Splynutie rás**: Pôvodné rasy — šimpanzy, gorily, orangutany — splynuli počas 3000 rokov do jednej rasy. Jednotná civilizácia, jednotný jazyk, jednotná kultúra.
 - **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Spiru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za Spiru — ale je to len technológia.
 
@@ -459,16 +492,17 @@ Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani pro
 - Sklené Mesto leží **pri pobreží Apriky** — nie na ňom, ale v jeho tesnej blízkosti. Na mape viditeľné ako výrazná ružovo-fialová štruktúra — architektonicky úplne odlišná od čohokoľvek iného na planéte.
 - **Tichá dohoda s Apes**: Ishtar a Apes majú neformálnu dohodu o vzájomnom neútočení. Apes tolerujú jej prítomnosť na svojom pobreží výmenou za pokoj. Nikto na severe o tejto dohode nevie.
 - Má vlastnú, uzavretú civilizáciu
+- **Rola v príbehu (Triangulácia)**: Sklená Veža je **druhý bod** Maxovej trigonometrickej triangulácie na nájdenie Ynetis. Max musí získať prístup k najvyššiemu bodu Skleného Mesta — čo znamená konfrontáciu s Ishtar/Zayou (Kniha 3).
 
-### Neuropa — Západný Kontinent (Doména Elarie)
+### Neuropa — Západný Kontinent (Doména Elenie)
 
-Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — nostalgický odkaz na starú Európu, kontinent, ktorý ich predkovia opustili pred 3000 rokmi. Krajina kontrastov — husté lesy, hory, starobylé mestá a nebezpečné pustatiny. Domov Ľudí (čistokrvných potomkov pozemšťanov), Exorcistov, Medvedích Varietas a Elarie samotnej.
+Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — nostalgický odkaz na starú Európu, kontinent, ktorý ich predkovia opustili pred 3000 rokmi. Krajina kontrastov — husté lesy, hory, starobylé mestá a nebezpečné pustatiny. Domov Ľudí (čistokrvných potomkov pozemšťanov), Exorcistov, Medvedích Varietas a Elenie samotnej.
 
-#### Veža Zatratených — Elaria
+#### Veža Zatratených — Elenia
 
 | | |
 |---|---|
-| **Vládkyňa** | **Elaria** (Archanjel Zradenej Krvi) |
+| **Vládkyňa** | **Elenia** (Archanjel Zradenej Krvi) |
 | **Sídlo** | **Veža Zatratených** — starobylé mesto postavené okolo pradávnej veže |
 | **Lokácia** | **Ostrov na západe** (Zelený kruh na mape), oddelený od pevniny. Nie je súčasťou Elysia (Fialový kruh). |
 | **Charakter** | Temný, nostalgický, stagnujúci |
@@ -476,7 +510,8 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Pôvod**: Veža Zatratených vznikla ako **druhé mesto po Ynetis** — ešte počas Zlatej éry, ako pokus o expanziu, keď bol Ynetis preľudnený. Starobylá veža v centre mesta je jednou z najstarších stavieb na planéte.
 - **Obyvatelia**: Ľudia, ktorí prežili Glitch Rot — pretože **obmedzili používanie nanotechnológie na minimum**. Používajú nanotech len na predlžovanie životov. Nič viac.
 - **Mentalita**: Spomínajú na minulosť a neplánujú budúcnosť. Stagnujúca civilizácia — technologicky schopná, ale bez vôle niečo meniť. Žijú v tieni toho, čo bolo.
-- **Tajomstvo**: Elaria nevie o osude ostatných Archanjelov.
+- **Tajomstvo**: Elenia nevie o osude ostatných Archanjelov.
+- **Rola v príbehu (Triangulácia)**: Veža Zatratených je **tretí a posledný bod** Maxovej trigonometrickej triangulácie. Po získaní meraní z Veľkého Majáku (Nevriss) a Sklenej Veže (Zaya) tu Max dokončí výpočet presnej polohy Ynetis — strateného mesta za morom (Kniha 4).
 
 #### Ludus — Mesto Ľudí
 
@@ -526,7 +561,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Lokácia** | Južná časť kontinentu — púšte, skalnaté pláne |
 | **Pôvod** | **Pokus o Teraformáciu ("Jurský Park")** |
-| **Obyvatelia** | Elariine experimenty (Jaštery, Hmyz) |
+| **Obyvatelia** | Eleniine experimenty (Jaštery, Hmyz) |
 
 - **Jurassic Park**: Elenia sa tu pokúsila "opraviť svet". Pomocou genetického inžinierstva a nanotechnológie sa snažila v nehostinnej púšti vytvoriť život.
 - **Výsledok**: Vznikli tu prispôsobené, gigantické organizmy — tvory podobné **drakom a dinosaurom**. Ekosystém je divoký, nebezpečný a vymkol sa kontrole.
@@ -561,7 +596,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
     - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, **AY 2212**).
     - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu.
     - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
-    - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Borrom, ktorý ruiny objavil a urobil z nich domov.
+    - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Rennom, ktorý ruiny objavil a urobil z nich domov.
 
 ---
 
@@ -579,13 +614,13 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
 - **Jaskyňa Inetis / Jaskyňa Počiatku**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maxov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~30 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maxovom kryoboxe. Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
 - **Shoraven**: Strategické hraničné mesto na severe Nevriss; severný prístav na hranici s Graw (nezamŕza vďaka termálnym prúdom); Hlavný Chrám (pobočka) s Anténa v kobkách; 3. rok Dlhej Zimy; prvá línia obrany proti grawskej invázii.
-- **Nevriss City**: Hlavné mesto Nevriss; vnútrozemské mesto na sútoku riek v bezpečnej južnej časti krajiny; sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza.
+- **Nevriss City**: Hlavné mesto Nevriss; prístavné mesto na vysokých útesoch nad južným morom. Prežilo Veľkú Potopu (~AY 1500) — tsunami sa rozbíjali o útesy, ale flotila bola zničená. K prístavu pod útesmi vedie masívny výťahový systém a tunely v skale. Dominanta: **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta po tisíce rokov). Sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza. **Tajomstvo**: Požehnaná Matka je v skutočnosti **Mormiel** — 4. Archanjel z ARK-13. Každých ~100 rokov vykoná Rituál Nástupníctva (pohltí mladú kandidátku a preberie jej podobu). Za ~2300 rokov prešla cez ~23 identít. Nočná lovkyňa („Nočný Tieň").
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
-- **Veža Zatratených**: Sídlo Elarie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
+- **Veža Zatratených**: Sídlo Elenie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.
 - **Medvedie Lesy**: Severná časť Neuropy; husté prastaré lesy obývané Medvedími Varietas — kmeňová, teritoriálna spoločnosť.
 - **Enkláva Exorcistov**: Kláštor vysoko v horách; výcvik bojovníkov proti Wraiths; zachované znalosti z čias pred Glitch Rotom.
-- **Južná Pustatina**: Elariine experimenty — tvory podobné drakom a dinosaurom.
+- **Južná Pustatina**: Eleniine experimenty — tvory podobné drakom a dinosaurom.
 - **Mystické Miesto Prastarých**: Kam chodia umierať Prastarí. Nikto sa nevrátil.
 - **Ruiny laboratórií**: Bývalá doména Samaella; miesto experimentov s nanotechom.
 - **Core (Jadro AI)**: V srdci strateného mesta Ynetis. Tu Inetis vytvorila malú simuláciu pre vývoj Daru Matky. Teraz väzenie AI THE VOID.

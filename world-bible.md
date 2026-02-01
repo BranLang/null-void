@@ -86,14 +86,15 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
     * *Archetyp:* Tragická bohyňa.
     * *Osud:* Obetovala lásku a život, aby vychovala dcéru a založila civilizáciu. Zomrela sama v jaskyni, aby odlákala AI od ľudí.
 
-### Antagonisti (Štyria Archanjeli-povodne exorcisti)
+### Antagonisti (Štyria Archanjeli z ARK-13 + Elenia)
 *Bývalí ľudia/kolonisti, ktorí prežili tisícročia vďaka kanibalizmu nanodronov.*
 
-1.  **KRATOS (Archanjel Vojny):** Vládca Severu. Brutálny militarista v mechanickom brnení.
-2.  **ISHTAR (Archanjel Pôžitku):** Vládkyňa Juhu. Manipulátorka využívajúca ilúzie a závislosť ľudí.
-3.  **samaell (Archanjel Tieňov):** Šialený pustovník v ruinách laboratórií. Odhalí Maxovi prvé stopy.
-4.  **ELENIA (Archanjel Zradenej Krvi - Hlavný Antagonista):**
-    * *Identita:* Maximiliánova dcéra.
+1.  **GROM (Archanjel Vojny):** Vládca Severu. Spravodlivý vládca, zomrel na Glitch Rot (~AY 1200). Nahradený dynastiou podvodníkov v Power Armor.
+2.  **ISHTAR (Archanjel Pôžitku):** Manipulátorka Juhu (v príbehu ako **Zaya**). Ilúzie a závislosť ľudí.
+3.  **samaell (Archanjel Tieňov):** Šialený predátor v ruinách. Zabitý Maxom (AY 3001).
+4.  **MORMIEL (Požehnaná Matka):** Jediná Varietas z ARK-13. Opustila Archanjelov, skryla sa ako hlava Kultu Matky v Nevriss City. Najsilnejšia z Archanjelov (dvojitá technológia: Earth nanotech + Spira). V noci loví ulicami.
+5.  **ELENIA (Archanjel Zradenej Krvi - Hlavný Antagonista):** *Nie je z ARK-13 — bola už na Achille.*
+    * *Identita:* Maximiliánova dcéra (dcéra Maxa a Inetis).
     * *Motivácia:* Nenávisť voči otcovi. "Ty si spal v bezpečí, zatiaľ čo ja a mama sme krvácali."
     * *Cieľ:* Zničiť nedokonalé ľudstvo a vytvoriť svet čistých strojov (spojenectvo s Temnou AI).
 
@@ -398,7 +399,7 @@ Vzhľad: Kybernetická bytosť, viac káblov ako mäsa.
 
 Funkcia v príbehu: Odhalí Maxovi existenciu organizovanej hrozby. Je šialený, počuje "Hlasy" (AI).
 
-II. KRATOS (Archanjel Vojny)
+II. GROM (Archanjel Vojny)
 
 Doména: Severné hory, priemyselné peklo.
 
@@ -407,6 +408,8 @@ Vzhľad: Obrovské mechanické brnenie (Power Armor), ktoré z neho už nejde vy
 Filozofia: "Silný prežije." Darwinizmus.
 
 Armáda: Primitívne tanky a exoskeletony poháňané parou a zvyškami techu.
+
+Poznámka: Pravý Grom zomrel na Glitch Rot (~AY 1200). Od vtedy dynastia podvodníkov v Power Armor.
 
 III. ISHTAR (Archanjel Pôžitku)
 
@@ -418,7 +421,17 @@ Metóda: Ľudia sa jej obetujú dobrovoľne. Je krásna a desivá.
 
 Konflikt: Útočí na Maxovu psychiku obrazmi Inetis.
 
-IV. ELENIA (Archanjel Zradenej Krvi - HLAVNÝ BOSS)
+IV. MORMIEL (Požehnaná Matka)
+
+Doména: Nevriss City — Hlavný Chrám Vševedúcej Matky.
+
+Pôvod: Jediná Varietas z ARK-13. Disponuje Earth nanotechom aj Spirou — najsilnejšia z Archanjelov.
+
+Maska: Hlava Kultu Matky, milostivá vodkyňa. Opustila Archanjelov, nikdy nepriznala svoju minulosť.
+
+Tajomstvo: V noci loví ulicami ako techno-upír. Klérus špekuluje, že je Elenia — dcéra Matky.
+
+V. ELENIA (Archanjel Zradenej Krvi - HLAVNÝ BOSS)
 
 Identita: Dcéra Maxa a Inetis.
 

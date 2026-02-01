@@ -50,7 +50,8 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
 6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
 7. Unikla zo Zeme s Maxom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových)
-8. Zistila tehotenstvo, oklamala Maxa a zostala bdelá (failed genetic experiment on fetus)
+8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie viedlo k počatiu Elenie
+9. Po pristátí zistila tehotenstvo, uspala Maxa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
 9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maxov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
 10. ~30 rokov v jaskyni s malou Eleniou (stagnácia rastu dcéry)
 11. **Prekonfigurovala nanodrony naspäť na loď NULL VOID**, vydala sa s Eleniou na cestu okolo planéty
@@ -65,6 +66,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie) pri Maxovom kryoboxe (jediný kryobox v jaskyni — po Maxovom prebudení sa rozpadol na prach)
 
 ### Prečo nechala Maxa spať
-- **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID (nanodronová rekonfigurácia, hydroponika).
-- **Skutočný dôvod:** Chcela ho držať bokom, kým si premyslí čo ďalej — bála sa jeho vojenských ambícií, nepredvídateľnosti a reakcie na jej rozhodnutia.
+- **Trauma:** Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
+- **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.
+- **Skutočný dôvod:** Bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Nemohla ho zabiť (vedela, že ho svet raz bude potrebovať), ale nedokázala sa prinútiť ho zobudiť.
 - **Nikdy to nedomyslela:** Pôvodných 300 rokov sa natiahlo na 3000. Nemala odvahu ho zobudiť a vysvetliť mu pravdu.

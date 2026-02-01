@@ -10,7 +10,7 @@
     - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
 - **Pôvod**: Vyrastala na východe, v **ruinách mesta Kito**.
-    - Jej otec (Borr) bol hľadač pokladov, ktorý objavil stratené mesto Kito.
+    - Jej otec (Renn) bol hľadač pokladov, ktorý objavil stratené mesto Kito.
     - Spravili si tam domov. Žili tam s jej matkou a s **Felixom** (Mako, ktorý tam prežil).
     - Felix bol pre ňu ako strýko. Učil ju o strojoch, Max ju učil bojovať.
 - **Rasa**: Vulpini (Líška). Líšky sú takmer vyhynutou vetvou Varietas, známe pre extrémnu inteligenciu. Tami má ako jedna z mála modré "ľudské" oči a schopnosť ovládať Spiru (hoci to tají).
@@ -21,9 +21,9 @@
 
 | Rok | Vek | Udalosť |
 |-----|-----|---------|
-| **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12) |
-| **AY 3000** | 7 | Zajatá pirátmi Borr a Vix, určená na predaj |
-| **AY 3000** | 7 | Max (slepý, amnézia) ju zachráni |
+| **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12). Vyrastá v ruinách mesta Kito s otcom Rennom a Felixom (Mako) |
+| **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna. Tami je zajatá a držaná v klietke na palube ich lode |
+| **AY 3000** | 7 | Piráti nájdu Maxa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Max a Tami sa stretnú — on v bezvedomí, ona v klietke |
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
 | **AY 3001** | 8 | Max zabije Samaella v dueli |
 | **AY 3001-3008** | 8-15 | Putovanie s Maxom (Exorcista & učeň) |
@@ -46,13 +46,13 @@
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Anténa — toto ju priviedlo k artefaktu
+- **Priatelia**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov, ktorí objavili Jaskyňu Počiatku. Našli miesto posledného odpočinku Inetis a stopy po Anténe. Za tento objav boli **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Toto Tami nevie — vie len, že Cirkev ich zabila za „znesvätenie svätých relikvií"
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 
 ![Tami vs Paladins - Ochrana Antény](characters/Tami/dungeon_battle.jpeg)
 
-*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili Anténu. Ich štíty neboli z nanotech, ale z neznámej pulzujúcej energie, ktorú Max nedokázal hacknúť. Prvýkrát po tisícročiach pocítil strach z neznámeho a kričal na Tami, aby utiekla.*
+*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Max ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Max pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Apriku, k Cézarovi.*
 
 ### Vzťah s Maxom
 - **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa

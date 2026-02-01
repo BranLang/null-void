@@ -280,7 +280,7 @@ Senzory mu na sekundu zlyhali. Flashback ho zasiahol bez varovania.
 *...Prebudenie.*
 *Nie v bahne, ale v ľade. Modrá kryo-tekutina ho dusila. Pľúca horeli. Nemohol dýchať, nemohol vidieť. Jeho oči... bolesť bola absolútna. Posledná vec, ktorú videl predtým, než ho zmrazili, bol záblesk jadrového ohňa na horizonte Marsu.*
 *A potom tma. 3000 rokov tmy.*
-*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Borr a Vix. Hádali sa o jeho cene. "Slepý, ale svalnatý. Do baní dobrý."*
+*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Vix. Ten si ho ohmatával ako dobytok. "Slepý, ale svalnatý. Do baní dobrý."*
 *A potom ten malý hlas. Sedemročné dievča s líščími ušami, ktoré mu podalo vodu, hoci sama bola smädná.*
 *"Neboj sa, ujko. Aj ja som monštrum."*
 
