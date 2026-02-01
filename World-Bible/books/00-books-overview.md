@@ -108,8 +108,8 @@ graph TD
 - Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
 
 ### Mechaniky
-- **Aegis Field (The Breach Spike):** Maxova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
-- **Vákuová mágia:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
+- **Signálové pole (The Breach Spike):** Maxova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
+- **Vákuová Spira:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
 
 ### Konflikt
 - **Otec vs. Dcéra:** Stret dvoch pohľadov na spásu (Biológia vs. Digitálna utópia).

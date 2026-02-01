@@ -1,10 +1,16 @@
-### Felix ("The Gunsmith" / "Der Glückliche")
-- **Séria**: Európska (posledný kus)
-- **Špecializácia**: Ťažké kinetické zbrane, delostrelectvo
+### Felix (Unit 734 / "The Gunsmith" / "Der Glückliche")
+- **Séria**: Európska (Designation: **Unit 734**) - posledný funkčný kus.
+- **Špecializácia**: Ťažké kinetické zbrane, delostrelectvo, lingvistika.
 - **Signature Weapon**:
     - **88mm "Felix 88"**: Anti-Air/Tank Cannon (jeden kus na lodi *Makita*).
     - **"Die Nadel" (Ihla)**: Prísne utilitárny rapier z volfrámovej zliatiny. Žiadne ozdoby, len penetračná sila. Vlastní ho Tami.
-- **Status**: Legendárny, žije v **ruinách mesta Kito** na Východe.
-- **Vzťah k Tami**: Bol pre ňu ako strýko. Žil s jej rodinou v ruinách Kito. Pomohol jej (alebo jej otcovi) postaviť loď *Makita*.
-- **Povaha**: Na rozdiel od tichých "Zen" Japoncov je Felix hlučný, presný, cynický a posadnutý "Wunderwaffen".
+- **Status**: Legendárny Mako, žije v **ruinách mesta Kito** na Východe.
+- **Vzťah k Párty**:
+    - **Tami**: "Strýko". Vychoval ju spolu s Borrom. Naučil ju všetko o strojoch a etikete Makov.
+    - **Max**: "Starý priateľ". Počas rokov v Kito (AY 3001-3008) slúžil ako Maxov prekladateľ (Rosetta Stone Protocol) a učil ho moderný jazyk.
+- **Povaha**:
+    - **Advanced AI Core (LLM)**: Felix nie je len stroj s predprogramovanými frázami. Je to pokročilá syntetická inteligencia (v podstate "LLM v tele robota").
+        - **Jazyková Fluidita**: Prepína jazyky a osobnosti podľa kontextu alebo nálady. Plynule prechádza z archaickej **RP English** (keď chce znieť dôležito/edukatívne) do drsnej **Nemčiny** (keď je v boji alebo nadáva na nekvalitnú oceľ) či **Japončiny** (keď komunikuje s inými Makmi).
+        - *Poznámka*: Jeho "osobnosť" je sofistikovaná simulácia, ktorú si sám vyvinul počas storočí samoty.
+    - **Logické Mlčanie**: Nikdy Maxovi nepovedal, že Tami je líška (Varietas). Považoval to za irelevantný vizuálny údaj.
 - **Meno**: Dal si meno Felix (Šťastný), pretože prežil vyhladenie svojej série. Irónia.

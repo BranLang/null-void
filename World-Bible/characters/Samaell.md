@@ -17,6 +17,9 @@ Samaell loví Varietas pomocou **ihlových injektorov** na prstoch, ktorými vys
 
 > *"Spoznal by som ťa aj po tisícročiach, maXpowa. Voniaš krvou Koordinátora a dymom Marsu. Tvoja krv je kľúčom k môjmu reštartu. Podaj mi ruku... a nechaj ma piť."*
 
+![Samaell vs Kael - Flashback](<../assets/books/manga/samael&kael.png>)
+*Flashback: Samaellov "Krvavý Rituál" v boji proti Kaelovi. Ukážka toho, čo sa stane, keď Archanjel preťaží svoje systémy cudzou krvou.*
+
 ### Duel so Samaellom (AY 3001)
 
 **Kontext**: Samaell loví Maxa a malú Tami rok po Maxovom prebudení. Max je stále slepý, ale má svoje nano-drony.

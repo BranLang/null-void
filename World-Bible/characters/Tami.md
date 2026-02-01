@@ -5,7 +5,7 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Makita*, Pur'sang (ale utajená)
+- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
     - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
@@ -40,9 +40,18 @@
 - **Zbrane**:
     - Pár automatických pištolí.
     - **Felixov Rapier ("Ihla")**: Unikátna zbraň od Felixa. Na rozdiel od mainstreamových katán (sekanie/elegancia), táto zbraň je čistá nemecká efektivita — určená na penetráciu zbroje a energetických štítov ("Spira piercing").
-- **Posádka**: Má vlastnú vernú posádku
+- **Posádka (The Crew)**:
+    -   **Borg (Ghorki - Medveď)**: Hlavný strelec (Gunner) ovládajúci "Felix 88". Obrovský, málomravný, slepo lojálny Tami.
+    -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
+    -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Aegis Spike — toto ju priviedlo k artefaktu
+- **Priatelia**: Videla upálenie svojich priateľov/konkurentov kvôli nálezu Anténa — toto ju priviedlo k artefaktu
+
+### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
+
+![Tami vs Paladins - Ochrana Antény](characters/Tami/dungeon_battle.jpeg)
+
+*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili Anténu. Ich štíty neboli z nanotech, ale z neznámej pulzujúcej energie, ktorú Max nedokázal hacknúť. Prvýkrát po tisícročiach pocítil strach z neznámeho a kričal na Tami, aby utiekla.*
 
 ### Vzťah s Maxom
 - **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
@@ -51,9 +60,9 @@
 - **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
     - **Pôvod**: Vyrobila ich Inetis pre Maxa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
     - **Funkcia**: Nahrádzajú mu zrak (kamery). Max ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
-- **Aegis Spike (Húľ)**: Jeho primárna zbraň.
+- **Anténa (Húľ)**: Jeho primárna zbraň.
     - **Zásobník**: Obsahuje cca **10 000 štandardných nanodronov**.
-    - **Funkcia**: Generátor Aegis poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
+    - **Funkcia**: Generátor Anténa poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
     - **Obmedzenie**: Palica sa musí "dobíjať" alebo kŕmiť materiálom. ňom videla muža
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali

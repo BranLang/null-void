@@ -246,7 +246,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Zhrnutie: Nanodrony z Inetisiných pozostatkov prejdú na Tami; získava schopnosti a spomienky.
 - Účastníci: `char.tami`, `char.inetis`, `char.maximilian`
 - Lokácie: `place.cave_inetis`
-- Tagy: `transformácia`, `mágia`
+- Tagy: `transformácia`, `Spira`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.story.samaell_confrontation`

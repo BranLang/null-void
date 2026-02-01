@@ -1,8 +1,9 @@
-# Maximilián („The Sleeper" / „maXpowa")
+# Maximilián ("maXpowa")
 
-| | |
-|---|---|
-| **Status** | Živý → Duch v Stroji (po Knihe 5) |
+![Maxov Strach - Stret s Paladínmi](<characters/Max/Generated Image February 01, 2026 - 12_02AM.jpeg>)
+*Veterán z Pekla kričí na Tami, aby utiekla. Pred ním stoja Paladíni — Opice s technológiou, ktorej nerozumie.*
+
+| **Vek** | **~3000+** (Chronologicky), **~30** (Biologicky, vďaka kryu a 15 rokom v VR) |
 
 ### Maximilián (Subjekt EX-INF-003)
 | | |
@@ -20,8 +21,8 @@ Max sa prebúdza ako „troska“.
 ### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
 - **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
-- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Aegis Spike, aby ostal psychicky ukotvený v realite.
-- **Vybavenie**: **Aegis Spike** (palica/regulátor), **Black Nano Suit**.
+- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Anténa, aby ostal psychicky ukotvený v realite.
+- **Vybavenie**: **Anténa** (palica/regulátor), **Black Nano Suit**.
 
 ### Backstory
 Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
@@ -35,9 +36,10 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 > „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá."
 
 ### Motivácia
-1. Nájsť Inetis → Pochopiť jej odkaz
-2. Chrániť „deti" (ľudstvo)
-3. Zachrániť dcéru Eleniu pred ňou samou
+1.  **Revenge (Tami)**: Pomôcť Tami pomstiť smrť jej prvej posádky (Arkot, Yera, Flint), ktorí zomreli kvôli Artefaktu. Cíti vinu, že tam nebol.
+2.  **Exodus (Null Void)**: Získať Artefakt (Anténu) nie pre Cirkev, ale pre seba. Potrebuje ho na lokalizáciu svojej lode *Null Void*. Vie, že je niekde na Západe od Kito, ale v tej pustatine ju bez senzoru nenájde.
+3.  **Inetis**: Dúfa, že Anténa mu prezradí osud Inetis. Jeho tajná, iracionálna nádej je, že *stále žije* v kryostáze na palube lode.
+4.  **Zachrániť dcéru Eleniu**: (Dlhodobý cieľ).
 
 ### Vnútorný konflikt & Postoj
 - **Xenofóbia**: Keď sa prebudí a vidí Varietas, cíti odpor. Pre neho nie sa to "nová rasa", ale chodiace pamätníky dekadencie ("zvrhlé hračky miliardárov"). Správa sa k nim povýšenecky a nedôverčivo.

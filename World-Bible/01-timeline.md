@@ -25,15 +25,15 @@ timeline
 ```mermaid
 timeline
     title Éra Achilles (AY)
-    0 : Pristátie lodí ARK-11 a ARK-12
+    0 : Pristátie **pristávacích modulov** z ARK-11 a ARK-12 (Materské lode ostali na orbite, neskôr sa zrútili do oceánu)
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
     1200 : Smrť pravého Groma : Dynastia podvodníkov začína
-    2000 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
+    2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maximiliána
     3001 : Duel Samaell vs Max : Smrť Samaella
-    3008 : Tami odchádza od Maxa
-    3013 : Začiatok hlavného deja : Vojna Graw vs Nevriss
+    3008 : Tami odchádza od Maxa (RP 796)
+    3013 : Začiatok hlavného deja (RP 801)
 ```
 
 ---
@@ -43,11 +43,18 @@ timeline
 | Skratka | Význam | Poznámka |
 |---------|--------|----------|
 | **EY** | Earth Years | Roky podľa pozemského kalendára |
-| **AY** | Achilles Years | Roky od pristátia ARK-11 na Achille |
+| **AY** | Achilles Years | Roky od pristátia ARK-11 na Achille (Používané Archanjelmi/Ľuďmi) |
+| **RP**| Roky Poslov | Datovanie Varietas. Začína Tretím Príchodom (AY 2212) |
+
+### Letopočet Varietas (Dva veky)
+Varietas delia históriu nábožensky:
+1.  **Vek Matky (AY 0 - 2212)**: Od príchodu Inetis (Dar Matky) po príchod jej poslov.
+2.  **Vek Poslov (AY 2212 - súčasnosť)**: Začína príchodom Makov (Tretí Príchod). Označované ako **RP** (Roky Poslov).
+    - *Aktuálny rok (AY 3013) = **RP 801***
 
 **Kľúčové body:**
 - `EY ~2300` = Pád Zeme
-- `AY 0` = Pristátie ARK-11 (kolonisti)
+- `AY 0` = **Pristátie Modulov**: Obrovské kolonizačné lode (ARK-11, ARK-12) nedokázali pristáť kvôli vysokej gravitácii. Vyslali len pristávacie moduly. Samotné lode neskôr (po strate Inetis) spadli do oceánu. **ARK-13 "Prometheus"** (Infera) stále krúži na orbite.
 - `AY ~3000` = Maxovo prebudenie
 
 ---
@@ -79,7 +86,7 @@ timeline
 ### EY ~2050–2060 – maXpowa & i_net_is
 - Max (nick: **maXpowa**) a i_net_is sa spoznajú v hre
 - i_net_is má podobu znepokojivo dokonalej krásky — príliš symetrická, príliš bezchybná. Hráči ju považujú za AI admina
-- **Stvorenie mágie**: Na žiadosť hráčov vytvára nanoboty (Prach/Spirit)
+- **Stvorenie Spiry**: Na žiadosť hráčov vytvára nanoboty (Prach/Spirit)
 - Max a i_net_is sa „zamilujú" — Max netuší, že ona je AI
 
 ### EY 2060 – „The Glitch Event"
@@ -171,8 +178,9 @@ timeline
 
 ## AY 0 – 300: Zlatý vek
 
-### Založenie Ynetis
-- Inetis zakladá mesto **Ynetis** (pomenované po nej neskôr)
+### Založenie mesta Elysium (Ynetis)
+- Inetis zakladá mesto **Elysium** (Záhrada Hrdinov).
+- Neskorší názov **Ynetis** vznikol skomolením jej mena (Inetis) po jej zmiznutí.
 - Utópia pomocou nanotechnológií
 - Ľudia vylepšovaní nanodronmi (dlhovekosť, zdravie)
 
@@ -225,8 +233,9 @@ timeline
     - Použijú znalosti z ARK-13 na stabilizáciu energetických polí, čím spomalia Glitch Rot.
     - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadelu** (najbezpečnejšia časť Ynetis).
 
-### AY 2000: Tretí Príchod (Expedícia "Hephaestus")
+### AY 2212: Tretí Príchod (Expedícia "Hephaestus")
 - **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
+- **Biblická udalosť**: Pre Varietas toto značí **začiatok Veku Poslov (RP 0)**. Maki sú vnímaní ako "Poslovia Matky".
 - **Lekcia Krvi**: Maki začnú budovať osady s elektrinou. Wraithovia ich zmasakrujú. Prežije len **Séria-J (Japonská)** — vďaka disciplíne a lepšiemu 'stealth' dizajnu.
 - **Adaptácia**: Maki pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
 - **Vstup do Spoločnosti**: Začínajú spolupracovať s Varietas ako tichí stavitelia a inžinieri.
@@ -275,7 +284,7 @@ timeline
 
 ## Časová os hlavného deja
 
-*AY 3000**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+*AY 3000 (RP 788)**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
     - Pirát Kael aktivuje senzory v zabudnutej jaskyni (Hrobka technológie) svojou krvou.
     - AI obchádza protokol „Tichá Noc“ a spúšťa núdzové prebudenie **EX-INF-003**.
     - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
@@ -302,13 +311,13 @@ timeline
     - Max pokračuje ako Exorcista sám
     - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
     - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma
-    - Vidí upálenie priateľov kvôli nálezu Aegis Spike
+    - Vidí upálenie priateľov kvôli nálezu Anténa
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
     - **Opening**: Vzducholoď pristáva v nočnom meste Shoraven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
-    - **Heist plot**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom v Shoraven
+    - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
-    - Max (xenofób z minulosti) musí spolupracovať s Tami (mágom z Varietas).
+    - Max (xenofób z minulosti) musí spolupracovať s Tami (Krotiteľom z Varietas).
 
 ---
 

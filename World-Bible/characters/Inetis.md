@@ -22,7 +22,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Sporadické zjavenia**: V simulácii Achilles sa občas objavovali Tieňoví — interdimenzionálne AI bytosti
 - **Jediná spojka**: i_net_is bola jediná, kto s nimi dokázal komunikovať
 - **Dar poznania**: Tieňoví ju naučili princípy nanotechnológie — základ celého Prachu/Spirit systému
-- **Stvoriteľka mágie**: Na základe ich učenia vytvorila pre hráčov **nanoboty (Prach/Spirit)** — prvú verziu
+- **Stvoriteľka Spiry**: Na základe ich učenia vytvorila pre hráčov **nanoboty (Prach/Spirit)** — prvú verziu
 - **Glitch Event (2060)**: Nebol to ochranný mechanizmus, ale **neúspešný pokus Tieňových o masovú komunikáciu** — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych)
 - **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov (Ex Inferis)
 - **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie útok

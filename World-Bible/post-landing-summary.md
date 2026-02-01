@@ -50,7 +50,7 @@ Max sa preberá po roku "absolútnej tmy", kedy jeho oči explodovali mrazom. Ce
 Tami v jaskyni objavuje čiernu, kovovú palicu a očistí nánosy prachu. Číta vyrytý nápis v **Staroreči** (angličtine): **„maXpowa“**.
 *   **Max:** „Mám v hlave len útržky... Moje meno je len prázdne miesto v kóde.“
 *   **Tami:** „Tvoje meno je Maximilián. Ale pre túto zbraň si bol vždy **maXpowa**.“
-Aegis Spike ožije v jeho rukách po 3000 rokoch.
+Anténa ožije v jeho rukách po 3000 rokoch.
 
 ### Posledné zbohom v Hrobke technológie
 Max kľačí pri kostre Inetis, ktorá zomrela v agónii, opretá o jeho kryobox. Tami, v ktorej prebúdza **Echo Inetis**, hovorí matkiným hlasom: *"I'm sorry, Max. Chcela som sa zobudiť vedľa teba... System failure."* Nález Inetisinho denníka potvrdzuje jej obetu: *"Budem tvojou strážkyňou v tme."*
@@ -62,7 +62,7 @@ Max a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Max je presv
 
 *   **Bozk zrady:** Zaya (v skutočnosti Archanjel **Ishtar**) Chce Maxove "čisté" nanity na vyliečenie vlastného rozkladu.
 *   **Pád Ružového kráľovstva:** Keď Max odmietne jej lásku a žiada informácie o dcére, Zaya sa mení na monštrum. Púšťa **Smrtiacu hmlu** (Gray Goo), ktorá rozkladá všetko v okolí.
-*   **Aegis Spike Protiútok:** Max aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
+*   **Anténa Protiútok:** Max aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
 *   **Cesta do Ynetis:** Oslobodení Varietas odovzdávajú Maxovi mapu do **Ynetis** – mesta, kde Elenia (Gatekeeper) plače prachom.
 
 ---

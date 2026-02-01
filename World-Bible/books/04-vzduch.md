@@ -7,27 +7,27 @@
 ## I. Nová Frakcia: NESMRTEĽNÍ (The Old Guard)
 *   **Podstata:** Pôvodní kolonisti (starí ~2700 rokov). Tí, ktorí zostali verní Elenii.
 *   **Vzhľad:** "Múmie" v starých skafandroch, steampunkové protézy, Bit Rotom zničené telá.
-*   **Schopnosti:** Majstri "tkáčskej mágie" nanodronov. Namiesto hrubej sily manipulujú s hustotou vzduchu, vákuovými čepeľami a ilúziami.
+*   **Schopnosti:** Majstri "tkáčskej Spiry" nanodronov. Namiesto hrubej sily manipulujú s hustotou vzduchu, vákuovými čepeľami a ilúziami.
 
 ---
 
-## II. Mechanika: Aegis Field (The Breach Spike)
+## II. Mechanika: Signálové pole (The Breach Spike)
 *   **Funkcia:** Maxova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči mágii.
 *   **Cena:** Pole odrezáva Maxa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
-*   **Taktika:** Max musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný mágiou).
+*   **Taktika:** Max musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný Spirou).
 
 ---
 
 ## III. Dejstvo: Cesta ku Kráteru
 *   **Kráter:** Miesto vykopávok lode Exodus. Elenia tu odkrýva Jadro.
 *   **Priebeh:** Max a Tami sledujú stopy "Protokolu Ticha" (AI vraždy vedcov). 
-*   **Infiltrácia:** Max sa zakráda tieňmi (Aegis zapnutý), zatiaľ čo ho Tami naviguje.
+*   **Infiltrácia:** Max sa zakráda tieňmi (Anténa zapnutý), zatiaľ čo ho Tami naviguje.
 
 ---
 
 ## IV. Dejstvo: Boj v Bahnách
 *   **Odhalenie:** V hĺbke vykopávok ich Nesmrteľní odhalia. 
-*   **Súboj:** Maxova hrubá military sila vs. tisícročné skúsenosti mágov. Max vyhráva s ťažkými zraneniami, ktoré sa mu bez aktívnych dronov (kvôli štítu pre Tami) nehoja.
+*   **Súboj:** Maxova hrubá military sila vs. tisícročné skúsenosti Krotiteľov. Max vyhráva s ťažkými zraneniami, ktoré sa mu bez aktívnych dronov (kvôli štítu pre Tami) nehoja.
 
 ---
 

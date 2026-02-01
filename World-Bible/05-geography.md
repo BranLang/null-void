@@ -39,7 +39,15 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - **Dlhé letá**: Obdobia hojnosti, kedy sa krajiny zásobujú na ďalšiu zimu. Rovníkový pás sa rozšíri, niektoré oblasti sú dočasne obývateľné.
 - **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám. Počas zím sa obyvateľný pás zúži a krajiny bojujú o priestor.
 
-#### Sezónne zmeny (viditeľné na planetárnych mapách)
+#### Nebeská Mechanika a Mapy
+- **Infera (ARK-13)**: Na nočnej oblohe (a niekedy aj cez deň) je voľným okom viditeľná jasná, neprirodzená "hviezda". Volajú ju **Infera**.
+    - **Kultúrny Rozkol**: Pohľad na Inferu delí svet.
+        - **Nevriss a Beladiss (Náboženskí)**: Vnímajú ju ako **"Diablovo Oko"**. Poverčiví dedinčania sa pred ňou skrývajú do domov a veria, že sa na ňu nesmie pozerať. V mestách je tento zvyk už považovaný za zastaraný a poverčivý.
+        - **Graw a Kito (Pragmatici)**: Zachovali si staré vedomosti (alebo intuíciu) — vedia, že Infera je **loď**. Pre nich je to pripomienka technológie, nie mágie.
+- **Hrobka Obrov (Oceán)**: ARK-11 a ARK-12 sa po strate Inetis zrútili do oceánu (gravitácia bola príliš silná na stabilnú orbitu bez korekcií). Ich vraky ležia v hlbinách.
+- **Staré Mapy (Zima/Leto)**: Dochované planetárne mapy zobrazujú stav sveta z čias, keď lode ešte krúžili na orbite (krátko po AY 0). Ukazujú svet, ktorý bol vtedy iný (napr. Terra ešte nemala lesy).
+
+#### Sezónne zmeny (viditeľné na starých mapách)
 
 **V lete:**
 - Ľadové čiapky ustúpia — obyvateľný pás je najširší.
@@ -124,12 +132,13 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
                     ║    🔥 Hlavné mesto (magma)          ║
                     ║    ❄️ Večná zima, lesy, sneh        ║
                     ╠════════════════════════════════════╣
-                    ║ ▲▲▲ GRIM'SPAJN / KEL'MORAH ▲▲▲    ║
+                    ║ ▲▲▲ HANGRAVALL / ATRA ▲▲▲        ║
                     ║   (Pohorie — hranica Sever/Juh)    ║
        🧊           ╠════════════════════════════════════╣
     Ľadovce         ║       JUŽNÁ KRAJINA                ║
     a ostrovy       ║       N E V R I S S                ║
     (západ)         ║  🌲 Husté lesy, rieky, úrodná zem  ║
+                    ║  (Pôvodne bola Terra bez lesov)     ║
                     ║  🏰 Menšie mestá a dediny           ║
                     ║  🐺 Nebezpečná fauna v lesoch       ║
                     ║                                    ║
@@ -140,10 +149,10 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
                          ⛵ ~ ~ ~ MORE ~ ~ ~ ⛵
     ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─
                          ~ ~ ~ MORE ~ ~ ~
-                    ╔════════════════════════════════════╗
-                    ║  ❓ YNETIS — STRATENÉ MESTO          ║
-                    ║  "Potopilo sa." Nikto sa nevrátil.  ║
-                    ╚════════════════════════════════════╝
+   🏰 VEŽA ZATRATENÝCH      ╔════════════════════════════════════╗
+      (Elenia - Zelená)     ║  ❓ YNETIS — STRATENÉ MESTO          ║
+      [Ostrov na Západe]    ║  "Potopilo sa." Nikto sa nevrátil.  ║
+                            ╚════════════════════════════════════╝
     ┄┄┄┄┄┄┄┄┄┄┄┄┄ hranica ľadu ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
     ❄️❄️❄️❄️❄️❄️❄️ ZAMRZNUTÁ ZÓNA (neobývateľná) ❄️❄️❄️❄️❄️❄️❄️
 ```
@@ -165,6 +174,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
 | **Náboženstvo** | Kult Nesmrteľného Groma |
 | **Charakter** | Militantný, expanzívny, industriálny |
 | **Hlavné mesto** | Magmové Mesto (pod horským masívom) |
+| **Obyvatelia** | **Ľudia** (Vládnuca kasta / Armáda) + Varietas (Robotníci / Otroci). Na rozdiel od Juhu, v Graw žije významná populácia "Čistých" ľudí, ktorí tvoria jadro armády. |
 
 ### Hlavné Mesto Graw — Magmové Mesto
 
@@ -198,7 +208,7 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 - **5-ročná zima**: Devastovala zásoby Severu — magma vyhreje mesto, ale nenakŕmi ho
 - **Zlé plánovanie**: Nedostatok jedla, krajina príliš chladná na poľnohospodárstvo
 - **Odmietnutie obchodu**: Nevriss odmieta obchodovať s "bezvercami"
-- **Riešenie**: Vojenská expanzia na Juh — cez priesmyky Kel'morah po zemi aj vzduchom
+- **Riešenie**: Vojenská expanzia na Juh — cez priesmyky Hangravall po zemi aj vzduchom
 
 ---
 
@@ -215,10 +225,10 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 
 ### Krajina Nevriss (podľa mapy)
 
-Nevriss zaberá strednú a južnú časť Terry — od pohoria Kel'morah na severe až po morské pobrežie na juhu. Je to najúrodnejšia a najhustejšie obývaná krajina na planéte.
+Nevriss zaberá strednú a južnú časť Terry — od Hangravall na severe až po morské pobrežie na juhu. Je to najúrodnejšia a najhustejšie obývaná krajina na planéte.
 
 - **Lesy**: Husté listnaté a miešané lesy pokrývajú vnútrozemie. Zelenšie a teplejšie než grawské ihličnany. Plné divej zveri — vlky, medvede, mutované šelmy z éry teraformácie.
-- **Rieky**: Minimálne dve veľké rieky tečú z pohoria Kel'morah na juh smerom k moru. Tvoria hlavné obchodné a dopravné tepny krajiny — po riekach plávajú nákladné bárky a riečne parníky.
+- **Rieky**: Minimálne dve veľké rieky tečú z Hangravall na juh smerom k moru. Tvoria hlavné obchodné a dopravné tepny krajiny — po riekach plávajú nákladné bárky a riečne parníky.
 - **Údolia a pláne**: Medzi lesmi a riekami úrodné polia — pšenica, obilie, ovocné sady. Najdôležitejšie poľnohospodárske oblasti na planéte.
 - **Menšie mestá a dediny**: Roztrúsené pozdĺž riek a obchodných ciest. Na mape viditeľné ako opevnené osady s vežami.
 - **Pobrežie**: Členité, s malými ostrovmi, zálivmi a skaliskami. Majáky na výbežkoch svietia pre lode.
@@ -246,7 +256,7 @@ Shoraven leží na polostrove na južnom pobreží Nevriss, vybiehajúcom do mor
 - **Okolie**: Za šíjím sa rozprestierajú lesy a poľnohospodárska krajina. Cesty vedú na sever k pohoria a k menším mestám. Riečne prístavy v zálive prepájajú mesto s vnútrozemím.
 
 #### Obchod a Gildy
-- **Shobo (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Sp'ira kryštály
+- **Shobo (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Spira kryštály
 - **Gildové haly**: Každá gilda (Kováčov, Kupcov, Aeronautov, Hodinárov...) má vlastnú halu a radu
 - **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát), tu obchoduje každý
 - **Dvojmocenstvo**: Cirkev vládne duchom, gildy peňaziam — obidve strany sa navzájom potrebujú
@@ -260,7 +270,7 @@ Shoraven leží na polostrove na južnom pobreží Nevriss, vybiehajúcom do mor
 
 #### Rola v príbehu
 - **Opening scéna**: Vzducholoď pristáva v nočnom meste na doku 17 — na samom okraji prístavu
-- **Heist lokácia**: Aegis Spike ukrytý v kobkách pod Hlavným chrámom
+- **Heist lokácia**: Anténa ukrytý v kobkách pod Hlavným chrámom
 - **Obliehanie**: Počas vojny s Graw bude mesto obliehané (útok cez šíjí a vzduchom)
 
 ---
@@ -269,7 +279,7 @@ Shoraven leží na polostrove na južnom pobreží Nevriss, vybiehajúcom do mor
 
 | | |
 |---|---|
-| **Názov** | **Beladiss** (Bella-D'Is = "Krásna Isis") |
+| **Názov** | **Beladiss** (Bella-Dis = "Krásna Isis") |
 | **Lokácia** | Východne od Nevriss, pozdĺž pobrežia |
 | **Vláda** | Teokratická monarchia (Matriarchát) |
 | **Náboženstvo** | Ortodoxný Kult Matky (Dualizmus) |
@@ -284,20 +294,34 @@ Beladiss je krajina bielych útesov, veterných plání a starobylých kláštor
 
 ---
 
-## Pohorie: KEL'MORAH / GRIM'SPAJN
+## Pohorie: HANGRAVALL / ATRA (Hradby Hladu)
 
-Mohutné pohorie oddeľujúce Sever od Juhu. Na mape viditeľné ako masívny horský hrebeň naprieč celým kontinentom.
+Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich drží v zime. Pre Juh je to ochranný chrbát Matky.
 
-| Pohľad | Názov | Význam |
-|--------|-------|--------|
-| **Južania** | **Kel'morah** | "Matkin Chrbát" — ochranné, materské posvätné hory |
-| **Severania** | **Grim'spajn** | "Temná Chrbtica" — hrozivé, prekliaty terén |
+| Pohľad | Názov | Význam | Pôvodný výraz (Etymológia) |
+|--------|-------|--------|----------------------------|
+| **Južania** | **Atra** | "Matkin Chrbát" | *Moth-Ra* (Mother's Range) -> *Matra* -> **Atra** |
+| **Severania** | **Hangravall** | "Hradby Hladu" — stena, ktorá ich delí od tepla, mora a jedla. Prírodné väzenie. | *Hunger Wall* -> *Hung-Val* -> **Hangravall** |
+
+> **Jazyková Bariéra:** Hory sú tak nepreniknuteľné, že jazyky Severu a Juhu sa za 2000 rokov vyvinuli inak. Obe pochádzajú z angličtiny (Old Tongue), ale sú vzájomne nezrozumiteľné. 
+> - **Južan (Nevriss):** Hovorí spevavo, mäkko. Jazyk je silne ovplyvnený **mňaukavými zvukmi a mačacími nuansami** (predlžovanie samohlások, pradenie pri spokojnosti), keďže populácii dominujú mačkovité šelmy.
+> - **Severan (Graw):** Hovorí hrdelne, skrátene, tvrdo. 
+>
+> *Príklad:* "Daj mi vodu."
+> - Juh: *"Gimmau ota..."* (Give me water) - *vysllovené mäkko, skoro ako zamňaučanie*
+> - Sever: *"Gi-woda!"* (Give water) - *šteknutie*
+>
+> **Demografia Nevriss:**
+> - **70% Feline** (Mačkovité šelmy - Mačky, Pumy, Tigre, Levy)
+> - **20% Canis/Lupus** (Psy, Vlci - väčšinou imigranti alebo pohraničníci)
+> - **10% Ostatní** (Medvede, Vydry, Plazy...)
+> - **Maki (Androidi):** V celom Nevriss žije presne **5** funkčných Makov. Sú vzácnejší než Archanjeli.
 
 - **Priesmyky**: Strategicky dôležité, kontrolované pevnosťami. Hlavná cesta armád medzi Severom a Juhom. Grawská armáda postupuje práve cez ne.
-- **Tunely**: Staré bane a tunely z éry Zlatého veku
-- **Klíma**: Celoročný sneh, nebezpečné lavíny
-- **Rieky**: Pramenia v pohorí a tečú na juh cez Nevriss až do mora
-- **Vodopády**: Na mape viditeľný minimálne jeden mohutný vodopád — rieka padá z pohorského útesu do nížiny Nevriss
+- **Tunely**: Staré bane a tunely z éry Zlatého veku, dnes často brlohy pre šelmy alebo pašerácke trasy.
+- **Klíma**: Celoročný sneh, nebezpečné lavíny. Prechod je možný len v lete alebo cez tunely.
+- **Vodopády**: Na mape viditeľný minimálne jeden mohutný vodopád — rieka padá z pohorského útesu do nížiny Nevriss.
+- **Úžina (The Narrows)**: Strategický bod na západe pod horami. Úzky pás zeme medzi divokou riekou (z vodopádu) a morom. Jediná cesta, kadiaľ sa dá prejsť do Nevriss po suchej zemi bez preliezania hôr. Historické miesto "Veľkej Bitky" (Thermopyly tohto sveta).
 
 ---
 
@@ -342,7 +366,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Na mape viditeľné ako masívny ho
 
 ### Prečo je Ynetis stratené
 
-Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, centrum vedy, mágie a moci. Po páde civilizácie sa stalo niečím iným. Wraithy — temné entity priťahované nanotech energiou a elektrinou — zaplavili celé súostrovie. Koncentrácia Wraiths na Ynetis je najvyššia na planéte, pretože Core (jadro AI) v srdci mesta stále beží a generuje obrovské množstvo nanotech energie.
+Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, centrum vedy, Spiry a moci. Po páde civilizácie sa stalo niečím iným. Wraithy — temné entity priťahované nanotech energiou a elektrinou — zaplavili celé súostrovie. Koncentrácia Wraiths na Ynetis je najvyššia na planéte, pretože Core (jadro AI) v srdci mesta stále beží a generuje obrovské množstvo nanotech energie.
 
 - **Stratená poloha**: Presná lokácia Ynetis sa stratila. Žiadne mapy ho neukazujú. Námorníci a aeronauti, ktorí sa vydali hľadať legendárne mesto, sa **nikdy nevrátili** — ani lode, ani vzducholode. Len ticho a prázdny oceán.
 - **Všeobecné presvedčenie**: Väčšina Varietas verí, že Ynetis sa **potopilo** — pohltené morom ako trest bohov. Legendy hovoria o meste na dne oceánu, o potopených vežiach a zatopených chrámoch.
@@ -377,15 +401,15 @@ Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, cen
 Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnuté na vyššiu úroveň inteligencie. Boli súčasťou misie Exodus. Pri zakladaní mesta Ynetis sa však rozhodli ísť **vlastnou cestou** — oddelili sa od ostatných rás, teraformovali si vlastný kus zeme — dnešnú Apriku — a vybudovali nezávislú civilizáciu.
 
 - **Prvá rasa, ktorá opustila Ynetis**: Apes odišli ešte **pred udalosťami Glitch Rotu** — pred pádom civilizácie, pred Wraithy, pred všetkým. Toto rozhodnutie im zachránilo existenciu.
-- **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Sp'iru, nemajú „mágiu". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
+- **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Sp'iru, nemajú „Spiru". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
 - **Splynutie rás**: Pôvodné rasy — šimpanzy, gorily, orangutany — splynuli počas 3000 rokov do jednej rasy. Jednotná civilizácia, jednotný jazyk, jednotná kultúra.
-- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Sp'iru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za mágiu — ale je to len technológia.
+- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Sp'iru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za Spiru — ale je to len technológia.
 
 #### Čo vedia Varietas o Apes
 
 Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
 
-- **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **Apes v lesklej zbroji s veľkými oceľovými sekerami** na pobreží. Masívne, tiché, organizované. Väčšina ľudí to považuje za opilecké rozprávky.
+- **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **"Paladínoch"** — elitnej kaste Apes. Sú to "absolútni profesionáli". **Nerozprávajú.** Komunikujú len rýchlymi, vojenskými gestami. Žiadne revanie, žiadny hnev. Len tichá, brutálna efektivita, energetické štíty a desivá rýchlosť na tak obrovské telá.
 - **Husté močiare a pralesy**: Aprika je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Varietas zvyknuté na chladné lesy a smog to je cudzí svet.
 - **Žiadny kontakt**: Apes zjavne nemajú záujem o kontakt s Terrou. Či už preto, že to nepotrebujú, alebo preto, že Terru považujú za primitívnu.
 
@@ -414,7 +438,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Vládkyňa** | **Elaria** (Archanjel Zradenej Krvi) |
 | **Sídlo** | **Veža Zatratených** — starobylé mesto postavené okolo pradávnej veže |
-| **Lokácia** | Juhozápadná časť kontinentu, blízko mora, neďaleko Ynetis |
+| **Lokácia** | **Ostrov na západe** (Zelený kruh na mape), oddelený od pevniny. Nie je súčasťou Elysia (Fialový kruh). |
 | **Charakter** | Temný, nostalgický, stagnujúci |
 
 - **Pôvod**: Veža Zatratených vznikla ako **druhé mesto po Ynetis** — ešte počas Zlatej éry, ako pokus o expanziu, keď bol Ynetis preľudnený. Starobylá veža v centre mesta je jednou z najstarších stavieb na planéte.
@@ -428,13 +452,15 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Názov** | **Ludus** |
 | **Lokácia** | Stred kontinentu — najväčšie mesto Ľudí na planéte |
+| **Pôvod** | **Odídenci z Eleniinej Légie** |
 | **Obyvatelia** | Čistokrvní ľudia — potomkovia pozemšťanov |
-| **Mágia** | **Žiadna.** Nepoužívajú Sp'iru. |
 
-- **Nesmrteľní zakladatelia**: Pôvodní obyvatelia sú geneticky modifikovaní ľudia — nesmrteľní, nie vďaka nanotechnológii, ale vďaka genetickým úpravám ešte zo Zeme.
-- **Tragédia nesmrteľnosti**: Rast populácie bol po stáročia minimálny — ich deti sú **smrteľné**. Žiadny nesmrteľný rodič nechce vidieť umierať svoje dieťa. Preto sa dlho nemnožili.
-- **Populačná explózia**: Postupom času sa to zmenilo — dnes je medzi pôvodnými pozemšťanmi **95% smrteľníkov**. Nižšia rasa ľudí žije v tieni nesmrteľných velikánov.
-- **Motivácia smrteľníkov**: Na rozdiel od stagnujúcich nesmrteľných, smrteľná väčšina chce **budovať a pozerať sa dopredu**. Ich cieľ: vyčistiť svet od Wraiths. Sú najaktívnejšou silou na kontinente.
+- **Pôvod v Légii**: Zakladatelia mesta boli dôstojníci Eleniinej légie, ktorí opustili Vežu Zatratených. Cítili hanbu za to, že nebojovali, ale odmietli žiť v izolácii. Rozhodli sa vybudovať novú civilizáciu v strednej Neurope, ale prisahali, že sa **nikdy nevrátia na Terru**.
+- **Nesmrteľní zakladatelia**: Pôvodní legionári sú geneticky modifikovaní (nesmrteľní).
+- **Tragédia nesmrteľnosti**: Rast populácie bol po stáročia minimálny — ich deti sú **smrteľné**.
+- **Populačná explózia**: Dnes je medzi nimi 95% smrteľníkov.
+- **Motivácia (Prastarí)**: Chcú sa dostať na Inferu (ARK-13), aby zistili **pravdu o Zemi**. Inetis im nikdy nepovedala, že Zem bola zničená (nechcela spôsobiť paniku) — tvrdila len, že stratili signál. Veria, že v archívoch lode nájdu odpoveď na to, prečo sa nikto neozval 3000 rokov.
+- **Motivácia (Smrteľníci)**: Vyčistiť svet od Wraiths a získať technológiu pre dominanciu.
 
 #### Medvedie Lesy — Medvedí Varietas
 
@@ -459,20 +485,21 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 | **Obyvatelia** | Exorcisti — bojovníci proti Wraiths |
 
 - **Kláštor v horách**: Vysoko, vysoko v horách — takmer nedosiahnuteľné miesto. Mladí muži tu putujú k pradávnym majstrom.
-- **Učenie**: Majstri učia tajomstvám minulosti — ako poraziť Wraiths. Exorcisti sú jedni z mála, čo chápu skutočnú podstatu „mágie" (nanotechnológie) a vedia ju obrátiť proti duchom.
+- **Učenie**: Majstri učia tajomstvám minulosti — ako poraziť Wraiths. Exorcisti sú jedni z mála, čo chápu skutočnú podstatu „Spiry" (nanotechnológie) a vedia ju obrátiť proti duchom.
 - **Tajomstvá minulosti**: Tu sa zachovali znalosti z čias pred Glitch Rotom — vrátane fragmentov technológie zo Zeme.
 
-#### Južná Pustatina
+#### Južná Pustatina (Eleniino Dielo)
 
 | | |
 |---|---|
 | **Lokácia** | Južná časť kontinentu — púšte, skalnaté pláne |
-| **Charakter** | Nebezpečná divočina — „zakázaná zóna" |
-| **Obyvatelia** | Elariine experimenty |
+| **Pôvod** | **Pokus o Teraformáciu ("Jurský Park")** |
+| **Obyvatelia** | Elariine experimenty (Jaštery, Hmyz) |
 
-- **Experimenty Elarie**: V tejto pustatine žijú tvory, ktoré Elaria vytvorila — podobné **drakom či dinosaurom**. Nepodarené (alebo až príliš podarené) projekty genetického inžinierstva.
-- **Nebezpečná oblasť**: Nikto sem nechodí dobrovoľne. Tvory sú teritoriálne, agresívne a niektoré obrovské.
-- **Na mape**: Suchá, piesočná krajina s horskými masívmi — úplne odlišná od zelených lesov Severu.
+- **Jurassic Park**: Elenia sa tu pokúsila "opraviť svet". Pomocou genetického inžinierstva a nanotechnológie sa snažila v nehostinnej púšti vytvoriť život.
+- **Výsledok**: Vznikli tu prispôsobené, gigantické organizmy — tvory podobné **drakom a dinosaurom**. Ekosystém je divoký, nebezpečný a vymkol sa kontrole.
+- **Nebezpečná oblasť**: Nikto sem nechodí dobrovoľne. Tvory sú teritoriálne.
+- **Na mape**: Suchá, piesočná krajina (označená červeným obdĺžnikom na mapách).
 
 #### Mystické Miesto Prastarých
 
@@ -493,13 +520,14 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Charakter** | Nepreskúmaná divočina |
 | **Významné miesto** | **Jaskyňa Počiatku** (kde sa narodila Elenia) |
-| **Udalosť** | Tu bol nájdený **Aegis Spike** hľadačmi pokladov |
+| **Udalosť** | Tu bol nájdený **Anténa** hľadačmi pokladov |
 
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
 - Max sa tu prebudil (slepý, amnézia)
-- **Mesto Kito (Stratené)**: Legendárne mesto na východe.
-    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, AY 2000).
+- **Mesto Kito (Stratené)**: Legendárne mesto na východe, dnes ukryté v hustom, "novom" lese.
+    - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, **AY 2212**).
+    - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu.
     - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
     - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Borrom, ktorý ruiny objavil a urobil z nich domov.
 
@@ -518,8 +546,8 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
 - **Jaskyňa Inetis**: Miesto jej posledného odpočinku a nálezu denníkov.
-- **Jaskyňa Počiatku**: Východná divočina; miesto narodenia Elenie a nálezu Aegis Spike.
-- **Shoraven**: Polostrovné hlavné mesto Nevriss; najväčší prístav na kontinente; Hlavný Chrám s Aegis Spike v kobkách.
+- **Jaskyňa Počiatku**: Východná divočina; miesto narodenia Elenie a nálezu Anténa.
+- **Shoraven**: Polostrovné hlavné mesto Nevriss; najväčší prístav na kontinente; Hlavný Chrám s Anténa v kobkách.
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
 - **Veža Zatratených**: Sídlo Elarie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.
@@ -542,7 +570,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 
 ### Písmo
 - **Inšpirácia**: Hiragana (japonské písmo)
-- **Pôvod**: Inetis navrhla UI pre nanotechnologickú mágiu inšpirované japonskou kultúrou (jej matka bola Japonka)
+- **Pôvod**: Inetis navrhla UI pre nanotechnologickú Spiru inšpirované japonskou kultúrou (jej matka bola Japonka)
 - **Adopcia**: Varietas si toto písmo osvojili a rozšírili
 
 ### Staroreč (Angličtina)

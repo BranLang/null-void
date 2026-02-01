@@ -19,13 +19,13 @@
 
 ## Logline
 
-Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala mágiou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou „duchov", musí čeliť vlastnej dcére, o ktorej existencii nevedel.
+Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala Spirou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou „duchov", musí čeliť vlastnej dcére, o ktorej existencii nevedel.
 
 ---
 
 ## Kľúčové motívy
 
-- **Technológia vs. Mágia** — Clarkeov zákon v praxi: nanotechnológie sa javia ako čary
+- **Technológia vs. Spira** — Clarkeov zákon v praxi: nanotechnológie sa javia ako čary
 - **Otec a Dcéra** — Tragédia rodiča, ktorý „spal", kým jeho dieťa bojovalo o prežitie
 - **Zodpovednosť** — Cena za utópiu a následky rozhodnutí predkov
 - **Biológia vs. Digitál** — Čo znamená byť človekom?
@@ -49,7 +49,7 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 ### Základy
 - [Časová os](01-timeline.md) — EY/AY chronológia
 - [Postavy](02-characters.md) — Protagonisti, antagonisti
-- [Technológia](03-technology.md) — Nanodrony, mágia, protokoly
+- [Technológia](03-technology.md) — Nanodrony, Spira, protokoly
 
 ### Svet
 - [Geografia](05-geography.md) — Planéta Achilles (Kepler-452b)
