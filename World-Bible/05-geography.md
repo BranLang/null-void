@@ -43,7 +43,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - **Infera (ARK-13)**: Na nočnej oblohe (a niekedy aj cez deň) je voľným okom viditeľná jasná, neprirodzená "hviezda". Volajú ju **Infera**.
     - **Kultúrny Rozkol**: Pohľad na Inferu delí svet.
         - **Nevriss a Beladiss (Náboženskí)**: Vnímajú ju ako **"Diablovo Oko"**. Poverčiví dedinčania sa pred ňou skrývajú do domov a veria, že sa na ňu nesmie pozerať. V mestách je tento zvyk už považovaný za zastaraný a poverčivý.
-        - **Graw a Kito (Pragmatici)**: Zachovali si staré vedomosti (alebo intuíciu) — vedia, že Infera je **loď**. Pre nich je to pripomienka technológie, nie mágie.
+        - **Graw a Kito (Pragmatici)**: Zachovali si staré vedomosti (alebo intuíciu) — vedia, že Infera je **loď**. Pre nich je to pripomienka technológie, nie Spiry.
 - **Hrobka Obrov (Oceán)**: ARK-11 a ARK-12 sa po strate Inetis zrútili do oceánu (gravitácia bola príliš silná na stabilnú orbitu bez korekcií). Ich vraky ležia v hlbinách.
 - **Staré Mapy (Zima/Leto)**: Dochované planetárne mapy zobrazujú stav sveta z čias, keď lode ešte krúžili na orbite (krátko po AY 0). Ukazujú svet, ktorý bol vtedy iný (napr. Terra ešte nemala lesy).
 
@@ -135,16 +135,19 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
                     ║ ▲▲▲ HANGRAVALL / ATRA ▲▲▲        ║
                     ║   (Pohorie — hranica Sever/Juh)    ║
        🧊           ╠════════════════════════════════════╣
-    Ľadovce         ║       JUŽNÁ KRAJINA                ║
-    a ostrovy       ║       N E V R I S S                ║
-    (západ)         ║  🌲 Husté lesy, rieky, úrodná zem  ║
+    Ľadovce         ║  ⚓ SHORAVEN (hraničné mesto)      ║
+    a ostrovy       ║  ❄️ Severná hranica Nevriss        ║
+    (západ)         ║  🗼 Prístav na hranici s Graw      ║
+                    ╠┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄╣
+                    ║       JUŽNÁ KRAJINA                ║
+                    ║       N E V R I S S                ║
+                    ║  🌲 Husté lesy, rieky, úrodná zem  ║
                     ║  (Pôvodne bola Terra bez lesov)     ║
                     ║  🏰 Menšie mestá a dediny           ║
                     ║  🐺 Nebezpečná fauna v lesoch       ║
                     ║                                    ║
-                    ║  ═══ POLOSTROV ═══                 ║
-                    ║  ⚓ SHORAVEN (hlavné mesto)         ║
-                    ║  🗼 Majáky na pobreží               ║
+                    ║  🏰 NEVRISS CITY (hlavné mesto)     ║
+                    ║  🗼 Bezpečné centrum na juhu        ║
                     ╚════════════════════════════════════╝
                          ⛵ ~ ~ ~ MORE ~ ~ ~ ⛵
     ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─
@@ -159,6 +162,8 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
 
 > **Poznámka:** Graw leží pri severnom okraji obyvateľného pásu — drsnejší, chladnejší, bližšie k ľadu.
 > Nevriss zaberá strednú a južnú časť Terry — miernejší, úrodnejší, s prístupom k moru.
+> **Shoraven** leží na severnej hranici Nevriss, tesne pod Hangravall — pohraničné mesto, prvá línia obrany.
+> **Nevriss City** (hlavné mesto) leží v bezpečnom vnútrozemí na juhu — politické a náboženské centrum.
 > Ynetis leží za morom na juhu — súostrovie pri rovníku.
 > Na Terre existuje ~20 krajín — Graw a Nevriss sú len najväčšie z nich.
 
@@ -219,6 +224,8 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 | **Starý názov** | **Neverice** (Never-Ice = "nikdy ľad") |
 | **Názov Varietas** | **Nevriss** (so syčaním na konci) |
 | **Veľkosť** | Približne ako Taliansko |
+| **Hlavné mesto** | **Nevriss City** (vnútrozemie, juh) |
+| **Hraničné mesto** | **Shoraven** (severná hranica, pri Graw) |
 | **Vláda** | Rada Veľkňažiek (matriarchát) |
 | **Náboženstvo** | Kult Vševedúcej Matky |
 | **Charakter** | Obchodný, liberálnejší, teokratický |
@@ -234,44 +241,69 @@ Nevriss zaberá strednú a južnú časť Terry — od Hangravall na severe až 
 - **Pobrežie**: Členité, s malými ostrovmi, zálivmi a skaliskami. Majáky na výbežkoch svietia pre lode.
 - **Západné pobrežie**: Ľadovce a zamrznuté ostrovy — blízkosť zamrznutej zóny. Obchodné trasy obchádzajú ľadové kryhy.
 
-### Hlavné Mesto: SHORAVEN
+### Hraničné Mesto: SHORAVEN
 
 | | |
 |---|---|
 | **Starý názov** | **Shorehaven** (Shore-Haven = "Prístavné útočisko") |
 | **Názov Varietas** | **Shoraven** |
-| **Lokácia** | Polostrov na južnom pobreží — najväčší prístav na kontinente |
-| **Charakter** | Multikultúrny hub, obchodné a náboženské centrum |
-| **Dominanta** | Hlavný Chrám Vševedúcej Matky |
-| **Ekonomika** | Gildový systém, slobodný obchod, burza (Shobo) |
+| **Lokácia** | Severná hranica Nevriss — strategický prístavný bod na hranici s Graw |
+| **Charakter** | Vojensko-obchodný hub, frontová línia, multikultúrne pohraničie |
+| **Dominanta** | Hlavný Chrám Vševedúcej Matky (odbočka z Nevriss City) |
+| **Ekonomika** | Gildový systém, vojenský zásobovací reťazec, burza (Shobo) |
+| **Aktuálny stav** | 3. rok nepretržitej zimy (Dlhá Zima) — mesto pod hrozbou grawskej invázie |
 
-#### Polostrov Shoraven (podľa mapy)
+#### Severná Hranica — Shoraven (podľa mapy)
 
-Shoraven leží na polostrove na južnom pobreží Nevriss, vybiehajúcom do mora. Mesto obklopuje hlboký záliv, čo z neho robí prirodzený prístav chránený pred búrkami.
+Shoraven leží na severnej hranici Nevriss, v strategickej pozícii oddeľujúcej nevrisskú civilizáciu od severných grawských území. Mesto je posledná bašta Juhu pred divokým Severom — kto drží Shoraven, kontroluje priesmyky a severný prístup do Nevriss.
 
-- **Poloha**: Polostrov spojený s pevninou úzkym šíjím. Z troch strán ho obklopuje more. Na mape jasne viditeľné ako výbežok pevniny do oceánu.
-- **Prístav**: Obrovský, rozprestierajúci sa po oboch stranách polostrova. Doky, žeriavy, sklady, lodné dielne. Námornícka aj vzdušná doprava.
-- **Majáky**: Na pobrežných výbežkoch okolo mesta stoja kamenné majáky — navigačné body pre lode priplouvajúce z otvoreného mora aj z pobrežných miest.
-- **Obranná pozícia**: Polostrov je prirodzená pevnosť — útok po zemi len cez úzky šíjí, morská obrana z troch strán. Dôvod, prečo je Shoraven hlavným mestom.
-- **Okolie**: Za šíjím sa rozprestierajú lesy a poľnohospodárska krajina. Cesty vedú na sever k pohoria a k menším mestám. Riečne prístavy v zálive prepájajú mesto s vnútrozemím.
+- **Poloha**: Severné pohraničie Nevriss, tesne pod pohorím Hangravall. Mesto stojí na skalnatom pobreží pri severnom mori. Z jednej strany hory, z druhej studené more.
+- **Prístav**: Veľký severný prístav — doky, žeriavy, sklady, lodné dielne. Prístav **nie je úplne zamrznutý** — termálne prúdy z podmorských geotermálnych prameňov udržiavajú vodu v zálive tekutú, aj keď okolitý oceán zamŕza. Toto robí Shoraven strategicky neoceniteľným — jediný funkčný severný prístav počas Dlhej Zimy.
+- **Majáky**: Na pobrežných výbežkoch okolo mesta stoja kamenné majáky — navigačné body pre lode aj vzducholode prichádzajúce zo severu.
+- **Obranná pozícia**: Prirodzená pevnosť — na severe hory a priesmyky, na juhu cesta do vnútrozemia Nevriss. Mesto je fortifikované — masívne hradby, obranné veže, vojenská posádka. Prvá línia obrany proti Graw.
+- **Dlhá Zima (3. rok)**: Shoraven prežíva tretí rok nepretržitej zimy. Ulice zavalené snehom, budovy pokryté námrazou. Zásoby sa tenčia. Civilné obyvateľstvo postupne evakuované na juh do Nevriss City. Zostávajú vojaci, kupci a tí, čo nemajú kam ísť.
+- **Hrozba invázie**: Grawská armáda sa zhromažďuje za priesmykmi. Shoraven je prvé mesto, ktoré padne, ak Graw zaútočí — a všetci to vedia.
+- **Okolie**: Za mestom na juh sa rozprestierajú lesy a poľnohospodárska krajina. Cesty vedú na juh k Nevriss City a menším mestám. Na sever len priesmyky a grawské územie.
 
 #### Obchod a Gildy
-- **Shobo (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Spira kryštály
-- **Gildové haly**: Každá gilda (Kováčov, Kupcov, Aeronautov, Hodinárov...) má vlastnú halu a radu
-- **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát), tu obchoduje každý
-- **Dvojmocenstvo**: Cirkev vládne duchom, gildy peňaziam — obidve strany sa navzájom potrebujú
-- **Čierny trh**: Podzemný obchod s relíkviami, zakázanými zbraňami a mapami tunelov
+- **Shobo (Burza)**: Otvorené tržisko v centre prístavu — komodity, kovy, obilie, korenie, Spira kryštály. Počas Dlhej Zimy výrazne obmedzené — hlavne vojenské zásoby.
+- **Gildové haly**: Každá gilda (Kováčov, Kupcov, Aeronautov, Hodinárov...) má vlastnú halu a radu. Mnohé gildy presunuli sídla do Nevriss City — v Shoravene zostali len pohraničné pobočky.
+- **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát), tu obchoduje každý — ale sortiment sa zúžil na zbrane, jedlo a palivo.
+- **Dvojmocenstvo**: Cirkev vládne duchom, gildy peňaziam — ale v čase vojny prevažuje vojenská autorita.
+- **Čierny trh**: Podzemný obchod s relíkviami, zakázanými zbraňami a mapami tunelov. V pohraničí kvitne pašerácky obchod so Severom.
 
 #### Morské obchodné trasy
-- Na mape viditeľné lode na otvorenom mori — Shoraven je centrálny bod námorného obchodu.
-- **Na juh**: Cez more k súostroviu Ynetis (nebezpečná trasa — duchovia, búrky).
-- **Pozdĺž pobrežia**: Na východ a západ k menším prístavným mestám a obchodným osadám.
-- **Dovoz**: Obilie z vnútrozemia (riečne bárky), zbrane a kovy zo severu, korenie a luxus z východu.
+- Shoraven je kľúčový severný prístav — jediný, kde more nezamŕza vďaka termálnym prúdom.
+- **Na juh (pobrežím)**: Zásobovacie trasy do Nevriss City a menších prístavov. Hlavná tepna zásobovania mesta.
+- **Na sever**: Kedysi obchodné trasy do grawských prístavov — teraz uzavreté kvôli konfliktu.
+- **Dovoz**: Vojenské zásoby a obilie z juhu (lodné konvoje), zbrane z gildových kováčov, občasný pašerácky tovar zo severu.
 
 #### Rola v príbehu
-- **Opening scéna**: Vzducholoď pristáva v nočnom meste na doku 17 — na samom okraji prístavu
-- **Heist lokácia**: Anténa ukrytý v kobkách pod Hlavným chrámom
-- **Obliehanie**: Počas vojny s Graw bude mesto obliehané (útok cez šíjí a vzduchom)
+- **Opening scéna**: Vzducholoď pristáva v nočnom meste na doku 17 — na samom okraji prístavu, v zasneženom pohraničnom meste pod hrozbou vojny
+- **Heist lokácia**: Anténa ukrytý v kobkách pod Hlavným chrámom — odlehlá pohraničná pobočka chrámu, menej strážená než centrálny chrám v Nevriss City
+- **Obliehanie**: Počas vojny s Graw bude Shoraven prvé mesto, ktoré čelí útoku — cez priesmyky a vzduchom. Pád Shoravenu otvorí cestu do srdca Nevriss.
+
+### Hlavné Mesto: NEVRISS CITY
+
+| | |
+|---|---|
+| **Starý názov** | **Neverice City** (skrátené z pôvodného osídlenia) |
+| **Názov Varietas** | **Nevriss City** |
+| **Lokácia** | Južná časť Nevriss — vnútrozemie, ďaleko od hraníc |
+| **Charakter** | Politické, náboženské a obchodné centrum krajiny |
+| **Dominanta** | Hlavný Chrám Vševedúcej Matky (centrálny, najväčší na kontinente) |
+| **Ekonomika** | Gildové sídla, centrálna burza, zásobovací uzol |
+
+#### Poloha a Popis
+
+Nevriss City je hlavné mesto a srdce celého Nevriss. Leží v južnej časti krajiny, v úrodnom vnútrozemí medzi riekami — bezpečne ďaleko od severnej hranice s Graw. Mesto vzniklo ako administratívne a náboženské centrum, keď sa Shoraven stal príliš exponovaným pohraničným mestom.
+
+- **Poloha**: Vnútrozemské mesto na sútoku dvoch veľkých riek tečúcich z Hangravall. Riečne prístavy umožňujú dopravu tovaru z celej krajiny. Strategicky bezpečná pozícia — útočník by musel najprv prekonať Shoraven a celý sever Nevriss.
+- **Chrám**: Hlavný Chrám Vševedúcej Matky — najväčší a najokázalejší na celom kontinente. Sídlo Rady Veľkňažiek. Zlaté kupoly viditeľné z veľkej diaľky.
+- **Gildové sídla**: Všetky hlavné gildy (Kováčov, Kupcov, Aeronautov, Hodinárov...) majú centrálne haly v Nevriss City. Tu sa prijímajú zákony, uzatvárajú zmluvy a rozhoduje o ekonomike krajiny.
+- **Obranná pozícia**: Na rozdiel od Shoravenu nie je Nevriss City frontové mesto. Masívne hradby slúžia skôr pre prípad najhoršieho. Mesto sa spolieha na to, že Shoraven a severné pevnosti zadržia nepriateľa.
+- **Obyvateľstvo**: Najväčšie mesto na kontinente — obchodníci, kňažky, remeselníci, šľachta, utečenci zo severu. Počas Dlhej Zimy populácia narastá — evakuovaní z pohraničia sa sťahujú sem.
+- **Atmosféra**: Na rozdiel od drsného Shoravenu je Nevriss City civilizovanejšie, teplejšie (vďaka južnej polohe) a bohatšie. Ulice sú dláždené, trhy plné, chrámy osvetlené. Ale pod povrchom rastie napätie — správy z frontu sú čoraz horšie.
 
 ---
 
@@ -374,7 +406,7 @@ Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, cen
 - **Prekliate more**: Oblasť oceánu okolo Ynetis je známa ako zakázaná voda. Námorníci sa jej vyhýbajú. Občas prílivové prúdy vynesú na pobrežie Nevriss zvláštne predmety — kusy bieleho materiálu, črepiny s neznámym písmom — ale nikto nevie odkiaľ pochádzajú.
 
 ### Ynetis v lore
-- **Core (Jadro AI)**: V srdci strateného mesta. Tu Inetis vytvorila simuláciu pre vývoj Daru Matky. Teraz väzenie AI THE VOID. Core stále beží — a to je dôvod, prečo sú Wraithy tak silné.
+- **The Core (Jadro AI)**: V srdci strateného mesta. Pôvodne loď NULL VOID (v1.5 nanodrony), potom **Foundry** (továreň na v1.0 nanodrony, z ktorých vyrástlo celé mesto), nakoniec rekonfigurovaná Inetis na **The Core** — simuláciu pre vývoj Daru Matky (v2.0). Teraz väzenie AI THE VOID. Core stále beží — a to je dôvod, prečo sú Wraithy tak silné.
 - **Najteplejšie miesto na planéte**: Pri rovníku, chránené polohou. Paradoxne, najobývateľnejšie miesto sveta je najnebezpečnejšie.
 - **V zime zostáva zelené**: Kým zvyšok planéty zamŕza, Ynetis kvitne — ale nikto to nevidí.
 
@@ -401,9 +433,9 @@ Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, cen
 Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnuté na vyššiu úroveň inteligencie. Boli súčasťou misie Exodus. Pri zakladaní mesta Ynetis sa však rozhodli ísť **vlastnou cestou** — oddelili sa od ostatných rás, teraformovali si vlastný kus zeme — dnešnú Apriku — a vybudovali nezávislú civilizáciu.
 
 - **Prvá rasa, ktorá opustila Ynetis**: Apes odišli ešte **pred udalosťami Glitch Rotu** — pred pádom civilizácie, pred Wraithy, pred všetkým. Toto rozhodnutie im zachránilo existenciu.
-- **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Sp'iru, nemajú „Spiru". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
+- **Bez nanotechnológie**: Apes nikdy neprijali nanotech. Nemajú Spiru, nemajú „Spiru". Ale práve preto nemajú ani Wraithy — temné entity ich ignorujú, pretože nie je čo priťahovať.
 - **Splynutie rás**: Pôvodné rasy — šimpanzy, gorily, orangutany — splynuli počas 3000 rokov do jednej rasy. Jednotná civilizácia, jednotný jazyk, jednotná kultúra.
-- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Sp'iru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za Spiru — ale je to len technológia.
+- **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Spiru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za Spiru — ale je to len technológia.
 
 #### Čo vedia Varietas o Apes
 
@@ -545,9 +577,9 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 
 - **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
-- **Jaskyňa Inetis**: Miesto jej posledného odpočinku a nálezu denníkov.
-- **Jaskyňa Počiatku**: Východná divočina; miesto narodenia Elenie a nálezu Anténa.
-- **Shoraven**: Polostrovné hlavné mesto Nevriss; najväčší prístav na kontinente; Hlavný Chrám s Anténa v kobkách.
+- **Jaskyňa Inetis / Jaskyňa Počiatku**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maxov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~30 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maxovom kryoboxe. Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
+- **Shoraven**: Strategické hraničné mesto na severe Nevriss; severný prístav na hranici s Graw (nezamŕza vďaka termálnym prúdom); Hlavný Chrám (pobočka) s Anténa v kobkách; 3. rok Dlhej Zimy; prvá línia obrany proti grawskej invázii.
+- **Nevriss City**: Hlavné mesto Nevriss; vnútrozemské mesto na sútoku riek v bezpečnej južnej časti krajiny; sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza.
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
 - **Veža Zatratených**: Sídlo Elarie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.

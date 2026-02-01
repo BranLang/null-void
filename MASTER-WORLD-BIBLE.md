@@ -19,13 +19,13 @@
 
 ## Logline
 
-Hlavný hrdina sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala mágiou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou „duchov", musí čeliť vlastnej dcére, o ktorej existencii nevedel.
+Hlavný hrdina sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala Spirou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou „duchov", musí čeliť vlastnej dcére, o ktorej existencii nevedel.
 
 ---
 
 ## Kľúčové motívy
 
-- **Technológia vs. Mágia** — Clarkeov zákon v praxi: nanotechnológie sa javia ako čary
+- **Technológia vs. Spira** — Clarkeov zákon v praxi: nanotechnológie sa javia ako čary
 - **Otec a Dcéra** — Tragédia rodiča, ktorý „spal", kým jeho dieťa bojovalo o prežitie
 - **Zodpovednosť** — Cena za utópiu a následky rozhodnutí predkov
 - **Biológia vs. Digitál** — Čo znamená byť človekom?
@@ -49,7 +49,7 @@ Hlavný hrdina sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technol�
 ### Základy
 - [Časová os](01-timeline.md) — EY/AY chronológia
 - [Postavy](02-characters.md) — Protagonisti, antagonisti
-- [Technológia](03-technology.md) — Nanodrony, mágia, protokoly
+- [Technológia](03-technology.md) — Nanodrony, Spira, protokoly
 
 ### Svet
 - [Geografia](05-geography.md) — Planéta Achilles (Kepler-452b)
@@ -149,7 +149,7 @@ timeline
 
 ### EY 2065 – Útek z Pekla
 - Strach a trauma vyháňajú preživších (Max, Inetis) späť do reality.
-- **Technologický kontraband**: Prinášajú so sebou vzorce nanotechnológií (mágie), ktoré sa vyvinuli počas rokov v simulácii.
+- **Technologický kontraband**: Prinášajú so sebou vzorce nanotechnológií (Spiry), ktoré sa vyvinuli počas rokov v simulácii.
 
 ### EY 2100 – Revolúcia Hráčov
 -  Pomalá, premyslená, nenásilná revolúcia
@@ -183,7 +183,7 @@ timeline
 - Zem je zničená
 - **Operácia EXODUS:**
   - `ARK-11` — kolonizačná loď, elita zo Zeme, 300-ročná cesta
-  - `FTL Prototyp` — úniková loď, Inetis + Maximilián, 3-ročná cesta
+  - `NULL VOID (FTL Prototyp)` — úniková loď **100% z nanodronov (v1.5)**, Inetis + Maximilián, 3-ročná cesta
 - Mimozemská invázia.
 - **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Chiméry hľadajúce svet bez predsudkov.
 - Ostatné lode (vrátane ARK-11) nesú elitu.
@@ -192,16 +192,22 @@ timeline
 
 ## Pred AY 0: Éra Priekopníkov
 
-### EY 2300 + 3 roky — Príchod FTL Prototypu
+### EY 2300 + 3 roky — Príchod NULL VOID
 - Max a Inetis pristávajú na **neteraformovanej** planéte Achilles
+- **NULL VOID** je 100% z nanodronov (v1.5) — celá loď sa dá rekonfigurovať
 - Inetis zistí, že je **tehotná**
 - Rozhodnutie: Max uložený do kryospánku
 - Inetis ostáva bdelá
-- 
-### Nasledujúcich ~250 rokov
-- Inetis a dcéra **Elenia** budujú:
-- Jaskyňu s hydroponickou záhradou
+- **Rekonfigurácia lode:** Inetis rozloží celú loď na nanodrony → stroje vyhĺbia jaskyňu, vytvoria laboratórium, hydroponické farmy. Zostali len dve veci: **Maxov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitch, odmietla rekonfiguráciu). Po Maxovom prebudení sa kryobox rozpadol na prach — Anténa ostala jedinou fyzickou pozostalosťou lode
+
+### Nasledujúcich ~30 rokov (Jaskyňa)
+- Inetis a dcéra **Elenia** v jaskyni — hydroponická záhrada, výuka Pentagramu
 - Inetis sa bojí prebudiť Maxa (obavy z jeho ambícií vládnuť ako jej otec)
+
+### Po ~30 rokoch — Cesta na Elysium
+- Inetis prekonfiguruje nanodrony naspäť na loď NULL VOID
+- S Eleniou objaví ostrovy **Elysium** pri rovníku — ideálne miesto na kolonizáciu
+- Na Elysiu prekonfiguruje loď na **Foundry** (továreň) — vyrába v1.0 nanodrony, z ktorých vyrástlo celé mesto
 
 ---
 
@@ -283,10 +289,10 @@ timeline
 - Zomiera v samote, aby nepritiahla „démonov" k ľuďom
 - Zanecháva denníky pre Maxa
 
-### Dar Matky (Mágia)
+### Dar Matky (Spira)
 - **Dar pre Chiméry**: Inetis generácie navštevuje Chiméry v divočine.
 - Nakoniec im dáva **špeciálne nanoboty** prispôsobené ich biológii ("Dar Matky").
-- **Zrod mágie**: U potomkov ľudí (Chimér) tieto nanoboty vyvolávajú magické sily (liečenie, telekinéza).
+- **Zrod Spiry**: U potomkov ľudí (Chimér) tieto nanoboty vyvolávajú schopnosti Spiry (liečenie, telekinéza).
 
 ### Vznik Kultu Matky a Folklóru
 - Chiméry si vytvárajú legendy o milostivej Matke.
@@ -382,7 +388,7 @@ Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simul�
 
 ### Čo sa stalo v hre (Digitálna Evolúcia)
 Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
-- **Kúzla ako Hacky**: „Mágia“ nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. Inetis (Healer) sa naučila manipulovať s dátovou štruktúrou simulácie, čo viedlo k vzniku prvých liečivých nanobotov.
+- **Kúzla ako Hacky**: „Spira" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. Inetis (Healer) sa naučila manipulovať s dátovou štruktúrou simulácie, čo viedlo k vzniku prvých liečivých nanobotov.
 - **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné“ combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
 - **Zrodenie Prachu**: Nanotech nebol vynájdený; on sa **vyvinul** v digitálnom sne ako odpoveď na potreby hráčov.
 
@@ -419,7 +425,7 @@ Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči“. 
 
 ### Inetis („i_net_is")
 - V realite: dcéra Koordinátora, genetický génius bez pudu sebazáchovy.
-- V hre: geniálna architektka a **Healer**, „stvoriteľka“ nanotechnologickej mágie.
+- V hre: geniálna architektka a **Healer**, „stvoriteľka“ nanotechnologickej Spiry.
 - Rola: v roku 2060 hackla kód simulácie, aby ochránila Maxa pred Glitch Entitami.
 
 ### Ako sa spoznali
@@ -483,11 +489,12 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 ### The Dust (Prach)
 Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** ako univerzálny nástroj a následne „vytlačené" v realite.
 
-### Maxova Palica (Aegis Spike)
-- Pôvodne **herný predmet** vysokej úrovne
-- Inetis (architektka) ho navrhla pre Maxa (svojho tanka)
-- Po návrate do reality ho dala pre neho **vyrobiť naozaj**
-- Preto je taký vzácny a má „herné" schopnosti (štít, neviditeľnosť)
+### Maxova Palica (Anténa)
+- Jediná fyzická pozostalosť lode NULL VOID — **glitchla sa a odmietla rekonfiguráciu**, keď Inetis rozložila celú loď na nanodrony
+- Ovláda goo roje Wraithov a dokáže prijímať signály
+- Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs
+- Varietas ju považujú za najsvätejšiu relikviu — Palicu Súdneho Dňa
+- **NULL VOID:** Loď bola 100% z nanodronov (v1.5). Postupne rekonfigurovaná na: jaskyňu → loď → **Foundry** (továreň v1.0) → **The Core** (simulácia). Fyzicky už neexistuje v pôvodnej forme
 
 ---
 
@@ -502,7 +509,7 @@ Názov planéty je najväčším cynickým odkazom v histórii ľudstva.
 
 ## Elenina tragédia
 
-Elenia sa narodila už v „novej realite", na lodi null void. **Nikdy nezažila hru Achilles.**
+Elenia sa narodila na planéte Achilles, v jaskyni vyhĺbenej nanodronmi lode NULL VOID. **Nikdy nezažila hru Achilles.**
 
 - Vyrastala na legendách o „Hráčoch" a ich moci
 - Cítila sa menejcenná, pretože ona bola len „biologická"
@@ -763,7 +770,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Zhrnutie: Nanodrony z Inetisiných pozostatkov prejdú na Tami; získava schopnosti a spomienky.
 - Účastníci: `char.tami`, `char.inetis`, `char.maximilian`
 - Lokácie: `place.cave_inetis`
-- Tagy: `transformácia`, `mágia`
+- Tagy: `transformácia`, `Spira`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.story.samaell_confrontation`
@@ -870,8 +877,8 @@ Max sa prebúdza ako „troska“.
 #### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
 - **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
-- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Aegis Spike, aby ostal psychicky ukotvený v realite.
-- **Vybavenie**: **Aegis Spike** (palica/regulátor), **Black Nano Suit**.
+- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty a Anténu, aby ostal psychicky ukotvený v realite.
+- **Vybavenie**: **Anténa** (palica/regulátor), **Black Nano Suit**.
 
 #### Backstory
 Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
@@ -944,7 +951,7 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 ![Inetis](../assets/Inetis.png)
 
 #### Zhrnutie
-Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou“ mágie, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
+Dcéra Koordinátora (vdovca), strategický génius a pacifistka. V simulácii Achilles bola najlepšou architektkou a **Healerom**. Jej puto k Maxovi vzniklo počas 15-ročného prežívania v digitálnom pekle 2060, kde bola „stvoriteľkou" Spiry, ktorá ho držala pri živote. Obetovala osobné šťastie, aby vybudovala nový domov pre ľudstvo.
 
 #### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
@@ -955,17 +962,20 @@ Jej otec bol vdovec a spoločne hrávali Achilles. Bol to on, kto ich v roku 206
 1. Vyrastala v hre Achilles s otcom
 2. Spoznala Maxa vo VR
 3. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-4. Unikla zo Zeme s Maxom na FTL Prototype
-5. Zistila tehotenstvo, nechala Maxa spať
-6. 250 rokov budovala jaskyňu s dcérou Eleniou
-7. Založila mesto Ynetis
+4. Unikla zo Zeme s Maxom na NULL VOID (FTL Prototype, 100% z nanodronov v1.5)
+5. Zistila tehotenstvo, oklamala Maxa (klamstvo o zásobách — Max bol len pasažier, nevedel o schopnostiach lode), nechala ho spať
+6. Rekonfigurovala loď na infraštruktúru jaskyne (~30 rokov). Zostali len Maxov kryobox (minimálna konfigurácia) a Anténa (glitch). Kryobox sa po prebudení rozpadol na prach
+7. Prekonfigurovala nanodrony naspäť na loď, s Eleniou objavila Elysium
+8. Na Elysiu loď → Foundry (továreň v1.0) → postavila mesto Elysium (neskôr Ynetis)
+9. Keď prišiel Glitch Rot, Foundry → The Core (simulácia na vývoj v2.0 / Dar Matky)
 8. Prežila Glitch, poslala ľudí na pevninu
 9. Vyhnaná z Ynetis AI a Duchmi
 10. Zomrela v samote, aby ochránila ľudstvo
 
 #### Prečo nechala Maxa spať
-- Bála sa, že bude mať ambície vládnuť ako jej otec (Koordinátor)
-- Chcela slobodnú spoločnosť, nie diktatúru
+- **Klamstvo:** Povedala mu, že nemajú dosť zásob. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID
+- **Skutočný dôvod:** Bála sa jeho vojenských ambícií, chcela ho držať bokom kým si premyslí čo ďalej
+- **Nikdy to nedomyslela** — 300 rokov sa natiahlo na 3000
 
 ---
 
@@ -1122,7 +1132,7 @@ Bývalý vodca pirátov a majiteľ vzducholode "Silent Hunter".
 ---
 
 <!-- START OF 03-technology.md -->
-# Svet: Technológia a Mágia
+# Svet: Technológia a Spira
 
 > *„Akákoľvek dostatočne pokročilá technológia je nerozoznateľná od mágie."*
 > — Arthur C. Clarke
@@ -1138,7 +1148,7 @@ Mikroskopické stroje prítomné:
 
 ### Pôvodný účel (Digitálna Evolúcia)
 Nanodrony neboli vynájdené v laboratóriu. **Evolučne vznikli v simulácii Achilles** ako ilegálne hacky fyzikálneho enginu (Inetis), ktoré hráči následne prepašovali do reality.
-- **Medicína**: Pôvodne „liečivá mágia“ v hre.
+- **Medicína**: Pôvodne „liečivá Spira" v hre.
 - **Konštrukcia**: Digitálne nástroje na stavbu „nemožných miest“.
 
 ### Súčasné vnímanie
@@ -1146,9 +1156,9 @@ Pre obyvateľov Achilla je to **neviditeľná „mana"**. Nevedia, že ide o tec
 
 ---
 
-## „Mágia" (The Cast)
+## „Spira" (The Cast)
 
-Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomocou **subjektívnych podmienených reflexov** vypestovaných v simulácii Achilles. „Mágia“ je v skutočnosti využívanie ilegálnych hackov reality, ktoré prežili v kóde nanodronov.
+Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomocou **subjektívnych podmienených reflexov** vypestovaných v simulácii Achilles. „Spira" je v skutočnosti využívanie ilegálnych hackov reality, ktoré prežili v kóde nanodronov.
 
 ### Typy „kúziel"
 
@@ -1161,7 +1171,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 
 ### Kto môže „čarovať"?
 - **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
-- **Homo Sapiens Varietas (Chiméry):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich mágia je intuitívnejšia (liečenie, ovládanie zmyslov).
+- **Homo Sapiens Varietas (Chiméry):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich Spira je intuitívnejšia (liečenie, ovládanie zmyslov).
 - **Tami:** Špeciálny prípad, po prevzatí dronov Inetis (Echo) získava prístup k architektúre sveta.
 
 ---
@@ -1179,7 +1189,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 Archanjeli a Nesmrteľní majú civilné drony, ale **tisícročia praxe**:
 - Vedia drony „tkať" do komplexných štruktúr
 - Manipulácia hustoty vzduchu, vákuové čepele
-- Oproti Maxovej priamočiarej sile pôsobia ako skutočná mágia
+- Oproti Maxovej priamočiarej sile pôsobia ako skutočná Spira
 
 ---
 
@@ -1258,18 +1268,14 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 
 ---
 
-## Aegis Field (The Breach Spike)
+## Anténa
 
-Špeciálna funkcia Maximiliánovej palice (Aegis Spike), vyvinutá v neskorých rokoch Éry Zeme.
+Obyčajná komunikačná anténa z lode NULL VOID. Ovláda goo roje Wraithov. Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
 
-### Mechanika
-- **Generátor poľa:** Palica vytvorí lokálne magneticko-dátové pole.
-- **Efekt:** Robí používateľa **neviditeľným** pre všetky elektronické senzory a nanotechnologické scanery. Odrazí akýkoľvek útok „mágie" (nanodronov).
-
-### Cena za „Neviditeľnosť"
-- **Odpojenie:** Pole je také silné, že odrezáva aj samotného používateľa od jeho vlastných nanodronov.
-- **Smrteľnosť:** Maximilián v režime Aegis štítu stráca super-silu, schopnosť hackovania a rýchlu regeneráciu. Stáva sa obyčajným smrteľníkom.
-- **Taktický limit:** Používateľ sa musí spoliehať na konvenčné zbrane a fyzický tréning.
+### Funkcia
+- **Komunikácia:** Anténa umožňuje priamu komunikáciu s goo rojmi Wraithov a ich ovládanie.
+- **Interfejs:** Vyžaduje Maxov vojenský neurálny interfejs — bez neho je to len kus kovu.
+- **Relikvia:** Varietas ju považujú za Palicu Súdneho Dňa, najsvätejšiu relikviu sveta.
 
 ---
 
@@ -1314,7 +1320,7 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
 | **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
-| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia magické Chiméry (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia Chiméry so Spirou (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
 
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |
@@ -1375,7 +1381,7 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 
 ### Prototypy a Inovácie
 - **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS“ sa v mýtoch interpretuje ako cesta za slobodou.
-- **Aegis Spike**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Aegis Field).
+- **Anténa**: Komunikačná anténa z NULL VOID, ovláda goo roje Wraithov. Iba Max ju dokáže používať.
 - **Power Armor (Kratos)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú“.
 
 ### Legendárne Artefakty
@@ -1463,7 +1469,7 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Chiméry sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Synths vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Chimér. Viac zdravých Chimér = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
 - **Skutočný Strach**: Boja sa len dvoch vecí: **Wraithov** (ktorí môžu poškodiť systémy Citadely) a **Hniloby (Glitch Rot)**, ktorá korumpuje nanoboty a robí ich nepoužiteľnými.
 - **Odber (Zber)**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
-- **Dôsledok pre spoločnosť**: Mágia je medzi Chimérami vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
+- **Dôsledok pre spoločnosť**: Spira je medzi Chimérami vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie.
     - **Kratos:** Vojna, priemysel, hrubá sila.
@@ -1500,7 +1506,7 @@ Toto je jadro napätia. Chiméry budujú, množia sa a umierajú v priebehu jedn
 
 ### 2. Folklór vs. Pravda
 - **Pravda:** Ľudia vedia, že svet bol sci-fi civilizácia zničená AI. Mlčia o tom zo strachu.
-- **Folklór Chimér:** Veria v "Matku Inetis", ktorá im dala dary (mágiu) a veria, že ľudia sú padlí anjeli. Fundamentalisti odmietajú vedeckú pravdu.
+- **Folklór Chimér:** Veria v "Matku Inetis", ktorá im dala dary (Spiru) a veria, že ľudia sú padlí anjeli. Fundamentalisti odmietajú vedeckú pravdu.
 
 ### 3. Logika vs. Emócie vs. Stagnácia
 Synths priniesli tretiu stranu konfliktu.
@@ -1915,8 +1921,8 @@ graph TD
 - Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
 
 ### Mechaniky
-- **Aegis Field (The Breach Spike):** Maxova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
-- **Vákuová mágia:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
+- **Anténa:** Komunikačná anténa z NULL VOID — ovláda goo roje Wraithov. Max je jediný používateľ.
+- **Vákuová Spira:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
 
 ### Konflikt
 - **Otec vs. Dcéra:** Stret dvoch pohľadov na spásu (Biológia vs. Digitálna utópia).
@@ -1979,12 +1985,12 @@ graph TD
 *   **Objav:** Steny sú pokryté kresbami (Eleniina práca) a **pozostatkami hydroponických fariem**.
     *   Staré trubice, nádrže na živiny (teraz prázdne a zarastené svietiacim machom).
     *   *Galaktické špirály* a *Pentagramy* nakreslené kriedou.
-*   **Ruiny v jaskyni:** Jaskyňa je pretkaná "vnútornosťami" lode Null-Void.
-    *   Inetis sem premiestnila jadro lode, kým vrak na mieste pristátia nechala ako prázdnu plechovú schránku.
+*   **Ruiny v jaskyni:** Jaskyňa je pretkaná zariadeniami z nanodronov lode Null-Void (celá loď bola 100% nanodronová — Inetis ju rekonfigurovala na infraštruktúru jaskyne).
+    *   Jediná pôvodná vec z lode je glitchnutá **Anténa** — odmietla rekonfiguráciu.
     *   Kael vidí bizarnú zmes skaly a terminálov, ktoré kedysi riadili život Inetis a jej dcéry.
 
 ### Scéna 3: Prebudenie Spiaceho
-*   **Kryobox Modul 1:** V centre jaskynného domu nájde Kael neporušený box. Je tu jediný.
+*   **Kryobox:** V centre jaskynného domu nájde Kael jediný kryobox — Maxov. Posledný nanodronový modul z lode NULL VOID (okrem glitchnutej Antény).
 *   **Aktivácia:** Kael sa ho dotkne, aktivujú sa núdzové okruhy. Ženský hlas AI (Starý jazyk) spúšťa rozmrazovanie.
 *   **Koniec:** Kael uteká, prebudený Maximilián ostáva v jaskyni sám, obklopený ruinami svojej rodiny, ktorú nikdy nezažil.
 
@@ -2145,21 +2151,21 @@ Max si uvedomuje, že Elenia nezačala ako zloduch, ale ako dcéra túžiaca po 
 ## I. Nová Frakcia: NESMRTEĽNÍ (The Old Guard)
 *   **Podstata:** Pôvodní kolonisti (starí ~2700 rokov). Tí, ktorí zostali verní Elenii.
 *   **Vzhľad:** "Múmie" v starých skafandroch, steampunkové protézy, Bit Rotom zničené telá.
-*   **Schopnosti:** Majstri "tkáčskej mágie" nanodronov. Namiesto hrubej sily manipulujú s hustotou vzduchu, vákuovými čepeľami a ilúziami.
+*   **Schopnosti:** Majstri "tkáčskej Spiry" nanodronov. Namiesto hrubej sily manipulujú s hustotou vzduchu, vákuovými čepeľami a ilúziami.
 
 ---
 
-## II. Mechanika: Aegis Field (The Breach Spike)
-*   **Funkcia:** Maxova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči mágii.
-*   **Cena:** Pole odrezáva Maxa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
-*   **Taktika:** Max musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný mágiou).
+## II. Mechanika: Anténa
+*   **Funkcia:** Komunikačná anténa z NULL VOID — ovláda goo roje Wraithov. Max je jediný používateľ cez svoj vojenský interfejs.
+*   **Význam:** Najsvätejšia relikvia sveta — Varietas ju poznajú ako Palicu Súdneho Dňa.
+*   **Taktika:** Max ju používa na ovládanie Wraithov, čo mu dáva strategickú prevahu v boji.
 
 ---
 
 ## III. Dejstvo: Cesta ku Kráteru
 *   **Kráter:** Miesto vykopávok lode Exodus. Elenia tu odkrýva Jadro.
 *   **Priebeh:** Max a Tami sledujú stopy "Protokolu Ticha" (AI vraždy vedcov). 
-*   **Infiltrácia:** Max sa zakráda tieňmi (Aegis zapnutý), zatiaľ čo ho Tami naviguje.
+*   **Infiltrácia:** Max sa zakráda tieňmi, zatiaľ čo ho Tami naviguje.
 
 ---
 
@@ -2255,7 +2261,7 @@ Zvyšky Eleninej „Starej Gardy" chránia „posvätné miesto premeny".
 Musí ísť **„dnu"**.
 
 ### Pripojenie
-Použije svoju **Palicu (Aegis Spike)** ako konektor. Ľahá si na pripájacie kreslo.
+Použije svoju **Anténu** ako konektor. Ľahá si na pripájacie kreslo.
 
 ### Virtuálna realita
 Max otvorí oči. Nestojí v serverovni.

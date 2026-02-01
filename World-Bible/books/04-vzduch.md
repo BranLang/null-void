@@ -12,7 +12,7 @@
 ---
 
 ## II. Mechanika: Signálové pole (The Breach Spike)
-*   **Funkcia:** Maxova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči mágii.
+*   **Funkcia:** Maxova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči Spire.
 *   **Cena:** Pole odrezáva Maxa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
 *   **Taktika:** Max musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný Spirou).
 

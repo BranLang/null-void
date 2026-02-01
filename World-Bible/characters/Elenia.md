@@ -18,7 +18,7 @@ Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu.
 - **Narcizmus** — verí, že ona je skutočná dedička planéty.
 
 ### Backstory
-- **Detstvo**: Vyrastala v jaskyni sledujúc matku budovať svet, no neskôr ju videla strácať kontrolu pod váhou Glitchu.
+- **Detstvo**: Narodila sa v jaskyni vyhĺbenej nanodronmi lode NULL VOID. Prvých ~30 rokov vyrastala v jaskyni, potom sa s matkou vydala na cestu na loď NULL VOID (rekonfigurovanej z nanodronov naspäť) a spoločne objavili ostrovy Elysium. Vyrastala sledujúc matku budovať svet, no neskôr ju videla strácať kontrolu pod váhou Glitchu.
 - **Pád Ynetis (AY ~300-700)**: Zostala v meste bojovať, kým ostatní utekali. Viedla zúfalú obranu proti Wraithom.
 - **Záchrana (700 AY)**: Bola zachránená Archanjelmi (ARK-13 "Prometheus") práve vo chvíli, keď jej sily v ruinách Citadely dochádzali. Uznala ich nadvládu výmenou za stabilitu a prežitie svojho ľudu.
 - **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload.

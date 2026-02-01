@@ -35,7 +35,8 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 
-Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maxove senzory okamžite detegovali pokročilé štádium *Glitch Rot*, ale iného druhu. Biologický rozklad.
+Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maxove senzory zaznamenali anomáliu, ale nedokázali ju klasifikovať.
+*Neznáma patológia. Žiadna zhoda v databáze.*
 
 „Ak ste zlodeji," povedal Kito a zavrel dvere, „tak ste na zlej adrese. Mám len knihy a dlhy."
 
@@ -59,49 +60,46 @@ Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť.
 
 Kito sa trpko zasmial. „Artefakt? Chcete ukradnúť najsvätejšiu relikviu neznámeho pôvodu? Ste blázni. Aj keby som vám dal plány, nedostanete sa cez ochranné polia. Je to samovražda."
 
-„Ja som to pole," povedal Max. Zložil si okuliare. V šere miestnosti sa jeho prázdne očnice zdali ako dve čierne diery, v ktorých rotovalo sedem modrých hviezd.
+„Ja som to pole," povedal Max pokojne. Za tmavými okuliarmi sa čosi mihlo — modrý záblesk, ktorý mohol byť svetlo z ulice alebo niečo horšie.
 
-Kito cúvol a narazil do stola. Knihy popadali na zem.
+Kito stuhol. Žlté mačacie oči preskočili z Maxa na Tami a späť.
 
-„Ex Inferis..." vydýchol.
+„Kto *ste*?" zopakoval, tentoraz s iným dôrazom.
 
 Miestnosťou sa ozval tichý, bolestivý ston. Vychádzal z hromady diek v rohu. Kito okamžite zabudol na strach z Maxa. S rýchlosťou, ktorú by u neho nikto nehádal, pribehol k posteli a kľakol si.
 
 „Ticho, Maya... ticho," šepkal a hladil postavu po čele.
 
 Max urobil krok vpred. Jeho senzory prenikli cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť.
-Nebola to len choroba. Bola to *degradácia*.
-Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo iné — na kryštalickú štruktúru pripomínajúcu kremeň. Jej ľavá ruka už nebola z mäsa a kostí, ale z priesvitného, krehkého minerálu, cez ktorý presvitali žily pulzujúce fialovým svetlom. Spira v nej neprúdila, Spira ju *žrala*.
+Nebola to len choroba. Bola to *premena*.
+Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo iné — na kryštalickú štruktúru pripomínajúcu kremeň. Jej ľavá ruka už nebola z mäsa a kostí, ale z priesvitného, krehkého minerálu, cez ktorý presvitali žily pulzujúce fialovým svetlom.
 
-*Diagnóza: Spira Overload Syndrome. Hovorovo: Kryštalická Hniloba.*
-*Prognóza: Terminálna. 48 hodín do kompletnej petrifikácie.*
+*Analýza: Neznámy proces. Biologická → minerálna konverzia. Žiadna zhoda v databáze.*
+*Poznámka: Energetická signatúra nekorešponduje so žiadnym známym protokolom.*
+
+Max nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
 
 „Je nádherná, však?" povedal Kito bez toho, aby sa otočil. V hlase mal slzy. „Moja malá Maya. Chcela byť užitočná. Chcela pomôcť rodine z dlhov. Tak... experimentovala."
-Kito sa trpko zasmial.
-„Našla staré skripty. Zakázané funkcie. Myslela si, že dokáže optimalizovať svoj tok Spiry. Že bude lepšia kňažka. Ale urobila chybu v syntaxi."
+Kitov hlas bol tichý, ale ostrý.
+„Našla staré nápisy. Zakázané modlitby, vytesané do kameňa niekde v horách. Myslela si, že ak ich odrecituje, Matka ju požehná silnejšou Spirou. Že bude lepšia kňažka." Trpko sa zasmial. „Ale pomýlila sa v jednom slove."
 
 Otočil sa na Maxa. Žlté oči mu horeli zúfalstvom.
-„Je to nekonečná slučka, Max. Rekurzívny error. Jej vlastná Spira ju prepisuje, riadok po riadku, na kameň. Skúšal som všetko. Bol som za tým starým Makom v Remeselnej štvrti. Tým, čo neprehovoril už sto rokov. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* knižnice na to nestačia. Že ten kód je starší než on."
+„Jej modlitba nemá koniec, Max. Opakuje sa dookola. Spira v nej odpovedá na volanie, ktoré nikdy neprestane. Prepisuje ju. Mení mäso na kameň, kúsok po kúsku." Hlas sa mu zlomil. „Skúšal som všetko. Bol som za tým starým Makom v Remeselnej štvrti. Tým, čo neprehovoril už sto rokov. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* modlitebné knihy na to nestačia. Že tá modlitba je staršia než on."
 
-Kito zovrel päste. „Povedal, že potrebujem kompilátor. Zdrojový kód. A ten je len na jedinom mieste. V Stratenom Meste Ynetis. Tam, kde to všetko začalo."
+Kito zovrel päste. „Povedal, že potrebujem Hlas Stvoriteľky. Pôvodnú modlitbu, z ktorej všetky ostatné vzišli. A tá je len na jedinom mieste. V Stratenom Meste Ynetis. Tam, kde Matka dala deťom prvý dar."
 
 Max ostal ticho. Pozeral sa na kryštalickú ruku ženy.
-*Nemôžem jej pomôcť,* prebehlo mu hlavou. *Som vojak, nie programátor. Nerozumiem tomuto svetu, nerozumiem Spire a môj Asistent mi hlási "Unknown Energy Signature". Tami mi ukázala pár trikov s IDE, ale toto? Toto je nad moje sily.*
+*Nemôžem jej pomôcť,* prebehlo mu hlavou. *Som vojak, nie vedec. Nerozumiem tomuto svetu, nerozumiem ich „Spire" a môj Asistent hlási len „Neznáma patológia". Toto je nad moje sily.*
 
 Ale nahlas povedal niečo iné.
-„Ja viem, kde to mesto je," zaklamal s chladnou istotou. „Byl som tam, keď ho stavali."
 
-„Môžeš nám pomôcť," povedala Tami a položila ruku na jeho rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
+„Môžeš nám pomôcť," povedala Tami a položila ruku na Kitovo rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
 
 Pri slove *Stvoriteľka* Pursang prestal dýchať.
 
 „Nikto nevie, kde sú tie záznamy," zašepkal. „Sú stratené..."
 
-„Ja viem, kde sú," klamal Max s presvedčivosťou, ktorú mu diktoval jeho Asistent. „Ale potrebujem svoju... vec. Pomôž nám ju získať, a ja ťa vezmem ku zdroju."
-
-Pristúpil bližšie, ignorujúc telekinetický tlak, ktorý Kito podvedome vyžaroval.
-
-„Viem ti pomôcť," povedal Max ticho, ale s váhou, ktorá donútila Kita počúvať.
+Max pristúpil bližšie, ignorujúc telekinetický tlak, ktorý Kito podvedome vyžaroval.
 
 Potom sa naklonil bližšie a prešiel do jazyka, ktorý v tejto miestnosti — a možno na celom tomto kontinente — nezaznel v konverzácii už storočia.
 
@@ -113,31 +111,49 @@ Ale toto bol hlas človeka, ktorý tým jazykom *žil*.
 
 Archeológovi sa rozšírili zreničky. Telekinetické vibrácie ustali. Pozeral sa na Maxa nie ako na hrozbu, ale s posvätnou úctou vedca, ktorý práve objavil živý dôkaz svojej celoživotnej teórie.
 
-„Legendy..." zašepkal, hlasom, ktorý sa lámal strachom. „Najstaršie zvitky z Prvej éry. Matka hovorila o Troch Príchodoch. Prvý boli Osadníci. Druhý boli Archanjeli. Tretí boli Maki."
-    
-    Pozrel na Maxa s absolútnou hrôzou.
-    
-    „Ale existuje apokryf. O Štvrtom. O tom, ktorý nepríde z neba, ale zobudí sa zo Zeme, keď bude svet treba vymazať."
-    
-    „Spáč," vydýchol Kito.
-    
-    „Ten artefakt... on nepatrí Cirkvi," pokračoval roztrasene. „V starých textoch sa píše, že patril Jemu. Že to bola jeho zbraň, ktorou trestal nepriateľov predtým, než upadol do spánku."
-    
-    Pozrel Maxovi priamo do "tváre". „Ty si Štvrtý Príchod."
-    
-    Max mlčal. Nevedel o žiadnej legende, ale jeho Asistent mu naznačil, že potvrdenie tohto mýtu zvýši šancu na kooperáciu o 98%.
-    
-    „Zobudil som sa," povedal Max jednoducho. „A chcem to, čo je moje."
-    
-    *Nebolo to celkom klamstvo. Tá prekliata anténa bola kľúč. Bez nej bol slepý. Vedel, že Null Void leží niekde na západe od Kito, v nekonečných púšťach Hrdze, ale nájsť jednu loď v miliónoch kilometrov štvorcových trosiek bolo nemožné. Anténa... Aegis Spike... ona ho zavolá domov. A možno... možno tam bude aj Inetis. Stále v kryu. Stále živá.*
-    
-    *A ak nie... aspoň pomôže Tami zapáliť svet tým, čo ich zabili.*
+„Legendy..." zašepkal, hlasom, ktorý sa lámal strachom. „Najstaršie zvitky hovoria o Príchodoch z hviezd. Ale existuje apokryf. Zakázaný. O poslednom Príchode — o tom, ktorý nepríde z neba, ale zobudí sa zo Zeme."
+
+Pozrel na Maxa s absolútnou hrôzou.
+
+„Spáč," vydýchol Kito.
+
+„Ten artefakt... on nepatrí Cirkvi," pokračoval roztrasene. „V starých textoch sa píše, že patril Jemu. Že cez neho hovoril s nebom. Že keď ho držal, svet ho počúval."
+
+Pozrel Maxovi priamo do tváre. „Ty si Štvrtý Príchod."
+
+Max mlčal. Nevedel o žiadnej legende. Ale vedel, čo Kito potrebuje vidieť.
+
+Pomaly zdvihol ruku a zložil si tmavé okuliare.
+
+V šere miestnosti sa jeho prázdne očnice naplnili tmou. Nie prázdnotou — *tmou*. Čierny Prach, hustý a živý, sa pohol v jeho očných jamkách ako tekutina, ktorá dýcha. Nanodróny ukradnuté mŕtvemu Archanjelovi sa usadili do tvaru dvoch dokonalých čiernych gúľ, v ktorých sa tu a tam mihol odlesk — nie svetlo, ale jeho *absencia*. Oči temnoty. Oči niečoho, čo nemalo žiť.
+
+Kito cúvol. Narazil do stola. Knihy popadali na zem.
+
+„Zobudil som sa," povedal Max jednoducho. „A chcem to, čo je moje."
+
+*Nebolo to celkom klamstvo. Tá prekliata anténa bola kľúč. Bez nej bol slepý. Vedel, že Null Void leží niekde na západe od Kito, v nekonečných púšťach Hrdze, ale nájsť jednu loď v miliónoch kilometrov štvorcových trosiek bolo nemožné. Anténa... ona ho zavolá domov. A možno... možno tam bude aj Inetis. Stále v kryu. Stále živá.*
+
+*A ak nie... aspoň pomôže Tami zapáliť svet tým, čo ich zabili.*
 
 Kito sa zviezol na stoličku, akoby mu niekto podrezal kolená. Pozrel na svoju zomierajúcu ženu, potom na bytosť z nočných môr, ktorá mu práve sľúbila pomoc. Strach bojoval so zúfalstvom.
 
-„Ak si naozaj Spáč," povedal Kito ticho, „tak Boh ochraňuj túto planétu. A moju ženu."
+„Nie," povedal Kito. Hlas mu bol tichý, ale pevný. „Nie. Toto je šialenstvo. Ak si naozaj to, za čo sa vydávaš, tak si koniec sveta. A ja nemôžem byť ten, kto ti otvorí dvere."
 
-Vstal, trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabinu. Nie v múroch, ale v kanalizácii..."
+Vstal, otočil sa k nim chrbtom. „Odíďte. Prosím."
+
+Tami otvorila ústa, ale Max ju zastavil pohľadom. Čakali.
+
+Ticho trvalo päť úderov srdca. Potom sa z rohu ozval zvuk. Mokré, drásavé kašľanie. Maya sa prebrala, jej telo sa skrútilo v kŕči, a keď odtiahla ruku od úst, na dlani sa trblietali fialové kryštály zmiešané s krvou.
+
+Kito bol pri nej skôr, než stihol ktokoľvek z nich dýchnuť. Objal ju, šepkal slová, ktoré neboli pre cudzie uši.
+
+Maya sa upokojila. Zavrela oči. Kryštály na jej dlani pomaly zhasínali.
+
+Kito ešte chvíľu kľačal. Potom vstal. Keď sa otočil, v očiach mal niečo nové. Nie zúfalstvo. Rozhodnutie.
+
+„Ak si naozaj Spáč," povedal Kito ticho, „tak Matka ochraňuj túto planétu. A moju ženu."
+
+Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabinu. Nie v múroch, ale v kanalizácii..."
 
 Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
@@ -169,7 +185,15 @@ O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťa
 
 „Plán B?" spýtala sa Tami a hodila si rapier cez plece.
 
-„Atómovka," povedal Max a chytil katatonického Kita za golier kabátu, akoby to bola handrová bábika. „Berieme ho so sebou. Budeme ho potrebovať pri dverách, aj keby som ho tam mal niesť ako vrece zemiakov."
+„Atómovka," povedal Max a chytil katatonického Kita za golier kabátu.
+
+V momente, keď sa jeho prsty dotkli látky, vzduch okolo Kita explodoval. Knihy vyleteli z políc, sklené fľaštičky praskli, Maxov plášť sa odtrhol dozadu, akoby doň fúkol víchor. Kitova telekinéza — surová, nekontrolovaná, čistý obranný reflex Pursanga — narazila do Maxa ako neviditeľná stena.
+
+Max sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Jeho nanoboty absorbovali energiu, servomotory v rukaviciach zavrčali a Max zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika.
+
+Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
+
+„Berieme ho so sebou. Budeme ho potrebovať pri dverách, aj keby som ho tam mal niesť ako vrece zemiakov."
 
 „Pohyb!" vykríkla Tami, keď sa ozvala siréna civilnej obrany. „Máme asi desať minút, kým uzavrú sektory!"
 
@@ -281,3 +305,11 @@ Kito, stále sediaci v bahne, ukázal do tmy. „Na juh. Pod Chrám. Ale musíme
 Z hĺbky tunela sa ozvalo zavrčanie. Nebolo to zviera. Znelo to ako mokrý kašeľ cez zosilňovač.
 
 „Nepodarené experimenty," povedal Kito a prvýkrát sa pozrel Maxovi do očí s niečím, čo pripomínalo solidaritu odsúdencov. „Cirkev sa snaží napodobniť Stvorenie. Ale bez kódov Matky im vychádzajú len monštrá."
+
+Vstali. Vykročili do tmy.
+
+Maxov Asistent mu vtedy pustil poslednú správu. Len štyri slová, bez zvukovej notifikácie, akoby sa aj on bál, že *to* počuje.
+
+*Tepelné signatúry: 6. Vzdialenosť: 200m. Klasifikácia: Neznáma.*
+
+*Poznámka: Žiadna z nich nemala tvar, aký by mala.*

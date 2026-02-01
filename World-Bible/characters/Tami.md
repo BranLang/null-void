@@ -14,6 +14,7 @@
     - Spravili si tam domov. Žili tam s jej matkou a s **Felixom** (Mako, ktorý tam prežil).
     - Felix bol pre ňu ako strýko. Učil ju o strojoch, Max ju učil bojovať.
 - **Rasa**: Vulpini (Líška). Líšky sú takmer vyhynutou vetvou Varietas, známe pre extrémnu inteligenciu. Tami má ako jedna z mála modré "ľudské" oči a schopnosť ovládať Spiru (hoci to tají).
+- **Neverkyňa**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu mentoringu dokáže využívať Spiru na 200% — jeho vedecký prístup k nanotechnológii jej otvoril možnosti, ktoré veriaci Varietas nedokážu, pretože sú zviazaní dogmou Cirkvi.
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
 ### Backstory
@@ -60,10 +61,9 @@
 - **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
     - **Pôvod**: Vyrobila ich Inetis pre Maxa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
     - **Funkcia**: Nahrádzajú mu zrak (kamery). Max ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
-- **Anténa (Húľ)**: Jeho primárna zbraň.
-    - **Zásobník**: Obsahuje cca **10 000 štandardných nanodronov**.
-    - **Funkcia**: Generátor Anténa poľa (anti-magic) a nástroj na formovanie hmoty. Bez nej je Max len silný slepec.
-    - **Obmedzenie**: Palica sa musí "dobíjať" alebo kŕmiť materiálom. ňom videla muža
+- **Anténa (Húľ)**: Komunikačná anténa z lode NULL VOID.
+    - **Funkcia**: Teoreticky ovláda goo roje Wraithov a dokáže prijímať signály zo Zeme. Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
+    - **Význam**: Varietas ju považujú za Palicu Súdneho Dňa — najsvätejšiu relikviu sveta.
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)

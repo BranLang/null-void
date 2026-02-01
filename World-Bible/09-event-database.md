@@ -85,7 +85,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.max_cryo`
 - Názov: Uloženie Maxa do kryospánku
 - Čas: AY 0
-- Zhrnutie: Max je uložený do krya kvôli kritickému nedostatku zásob (nikto by inak neprežil). Inetis to využila aj zo strachu pred jeho vojenskými ambíciami poraziť mimozemšťanov. Plánovaný spánok ~300 rokov sa natiahne na ~3000.
+- Zhrnutie: Inetis oklame Maxa klamstvom o nedostatku zásob a uloží ho do krya. Max je len pasažier — nevedel o schopnostiach nanodronovej lode NULL VOID. Skutočný dôvod: Inetis ho chcela držať bokom kým si premyslí čo ďalej (strach z jeho vojenských ambícií). Nikdy to nedomyslela — plánovaný spánok ~300 rokov sa natiahne na ~3000.
 - Účastníci: `char.inetis`, `char.maximilian`
 - Lokácie: `place.ship_ark_exodus`, `place.cave_null_void`
 - Tagy: `kryo`, `tajomstvo`, `rodina`
@@ -185,7 +185,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.inetis_death_cave`
 - Názov: Smrť Inetis v samote
 - Čas: AY ~700
-- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maxovom cryoboxe, s rukou na jeho spiacom väzení. Box Inetis zlyhal (zhrdzavený). Zanecháva denník.
+- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maxovom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a glitchnutá Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
 - Účastníci: `char.inetis`
 - Lokácie: `place.cave_null_void`
 - Tagy: `tragédia`, `obeta`

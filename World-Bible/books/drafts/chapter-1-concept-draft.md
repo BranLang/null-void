@@ -4,7 +4,7 @@ Pokúsil sa nadýchnuť, ale pľúca ho zradili. Zakašľal, dávivý reflex mu 
 Maximilián sa vyvalil z boxu na studenú, kovovou podlahu. Telo ho neposlúchalo. Svaly mal ako zo želatíny. Každý nerv v tele kričal bolesťou, akoby ho niekto práve rozmrazil v mikrovlnke.
 "Kde...?" chripel. Hlas mal slabý, cudzí.
 "Planéta... Kepler-452b," odpovedala AI. "Čas od... pristátia... Chyba dát. Chronometer... poškodený."
-Maximilián sa s námahou vytiahol na lakte. Svetlo z otvoreného kryoboxu ožarovalo malý okruh okolo neho. Videl hrdzavé steny, ktoré nepatrili lodi, ale boli do nich vsadené panely a káble. Bolo to bizarné spojenie technológie a vlhkej skaly.
+Maximilián sa s námahou vytiahol na lakte. Kryobox za ním sa začal rozpadať — nanodronová konštrukcia sa tíško drobila na jemný prach, akoby stroj splnil svoju poslednú úlohu a vzdal sa. Slabé svetlo z umierajúceho modulu ožarovalo malý okruh okolo neho. Videl hrdzavé steny, ktoré nepatrili lodi, ale boli do nich vsadené panely a káble. Bolo to bizarné spojenie technológie a vlhkej skaly.
 "Inetis?" spýtal sa. To bolo jediné slovo, na ktorom záležalo.
 AI mlčala.
 "Inetis?!" zakričal, ale vyšlo z neho len zúfalé zachrapčanie.

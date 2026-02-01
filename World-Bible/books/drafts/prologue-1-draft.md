@@ -95,15 +95,13 @@ Archanjel vstúpil dovnútra. Bioluminiscenčné huby vrhali na steny prízračn
 
 Ignoroval ich. Jeho oči, žiariace fialovým ohňom, hľadali len jednu vec.
 
-Našiel to v zadnej časti jaskyne. Masívny kryobox zo starovekej zliatiny.
+Našiel to v zadnej časti jaskyne. Hŕbu jemného prachu v tvare obdĺžnika — rozpadnutý kryobox. Nanodronová konštrukcia sa rozložila po tom, čo splnila svoju poslednú úlohu.
 
-Bol otvorený. Prázdny.
+V prachu bola kaluž modrastej stázovej tekutiny a stopy po tom, ako sa odtiaľ niekto v panike a bolesti vyhrabal.
 
-Na dne boxu bola len kaluž modrastej stázovej tekutiny a stopy po tom, ako sa odtiaľ niekto v panike a bolesti vyhrabal.
+"Neskoro," zasyčal Samaell. Zvuk sa odrazil od stien ako prasknutie biča. "Tí špinaví bastardi ho vzali."
 
-"Neskororo," zasyčal Samaell. Zvuk sa odrazil od stien ako prasknutie biča. "Tí špinaví bastardi ho vzali."
-
-Pristúpil k ovládaciemu panelu. Bol poškodený, niekto (Kael) ho skratoval krvavou rukou. Ale denníky tam stále boli.
+Prach pod jeho prstami ešte vibroval — posledné záchvevy mŕtvych nanodronov. Ale denníky — fragmenty v prachu — tam stále boli.
 
 Samaellove prsty, ukončené ihlovými injektormi, sa zabodli do dátového portu. Napojil sa priamo.
 

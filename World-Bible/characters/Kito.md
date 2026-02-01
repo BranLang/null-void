@@ -14,7 +14,7 @@
     - **Spojenectvo**: Max a Tami majú loď (*Makita*) a schopnosti. Kito má vedomosti. To z nich robí prirodzených spojencov.
 - **Rola v príbehu**: Investigoval Anténa.
     - **Heist**: Kito pozná plány kobiek a systém obrany.
-    - **Lore Expert**: Jediný, kto vie o **Paladínoch (Apes)**. Čítal staré námornícke denníky a zakázané texty z Apriky. Vie, že ich \"štíty\" nie sú mágia, ale stará technológia (Hard Light), ktorá sa nedá hacknúť, ale dá sa *preťažiť* hrubou silou.
+    - **Lore Expert**: Jediný, kto vie o **Paladínoch (Apes)**. Čítal staré námornícke denníky a zakázané texty z Apriky. Vie, že ich \"štíty\" nie sú Spira, ale stará technológia (Hard Light), ktorá sa nedá hacknúť, ale dá sa *preťažiť* hrubou silou.
     - **Prečo on?**: Max by teoreticky mohol použiť svoje "Oči" (Drony) na prieskum, ale je to príliš riskantné (strata zraku/energie). Preto potrebujú Kita ako "Kľúč", ktorý ich bezpečne prevedie pascami.
 - **Meno a Pôvod**: "Mesto Kito" je legendárne mesto na východe (miesto pristátia Makov). Kito nesie toto meno, pretože jeho rodina (starý Pursang rod) tvrdí, že z tohto mesta pochádza.
     - *Irónia*: Keď Max v Prológu povie, že je z "Kito", nevedomky povie pravdu o mieste, kde Tami vyrastala (City of Kito), a zároveň použije meno, ktoré nosí archeológ, ktorého potrebujú nájsť.
