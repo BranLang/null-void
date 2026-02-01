@@ -1,6 +1,6 @@
 # Samaell (Archanjel Tieňov / Vyhnanec)
 
-| **Vek** | **250+ biologických rokov** (nar. ~2050 na Zemi) |
+| **Vek** | **~2950+ chronologických rokov** (nar. ~2050 na Zemi; biologicky ~60 vďaka kryostáze a nanotechu) |
 | **Identita** | **OG *ex inferis*** (Veterán VR pekla Achilles) |
 | **Pôvod** | Zem → Alpha Centauri → Achilles (ARK-13) |
 | **Doména** | Ruiny laboratórií, Severná Pustatina |

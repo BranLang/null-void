@@ -9,12 +9,12 @@
 | | |
 |---|---|
 | **Status** | Živý (s amnéziou a **kryo-slepotou** po prebudení; oči nahradené **Čiernym Prachom** po porážke Samaella) |
-| **Pôvod** | Zem (nar. 2050), **Major** elitných jednotiek, veterán z Marťanskej vojny |
+| **Pôvod** | Zem (nar. 2050), **Major** počas Marťanskej vojny → povýšený na **Generála** Pozemskej Obrany po jej skončení |
 
 ### Fáza „Zlomený Boh“ (Rok 0-1)
 Max sa prebúdza ako „troska“. 
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
-- **Maxovo uväznenie:** Inetis ho oklamala — povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** a nevedel o skutočných schopnostiach lode NULL VOID. V skutočnosti ho chcela držať bokom kým si premyslí čo ďalej (bála sa jeho vojenských ambícií a nepredvídateľnosti). **Nikdy to nedomyslela** — 300 rokov sa natiahlo na 3000.
+- **Maxovo uväznenie:** Počas 3-ročnej FTL cesty na lodi NULL VOID napadol Max Inetis. Táto trauma je dôvodom, prečo ho Inetis po pristátí uspala do kryostázy — oklamala ho, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** a nevedel o skutočných schopnostiach lode. Inetis sa ho bála a chcela ho preč. Nemohla ho zabiť (vedela, že ho svet bude potrebovať), ale nedokázala sa prinútiť ho zobudiť. **300 rokov sa natiahlo na 3000.**
 - **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z odhalenia pravdy o Varietas a o tom, že **„Iniciatíva Achilles“ bola jedna veľká lož**. Zistenie, že Archanjeli svet nechránili, ale vyprázdnili, a že jeho obeta na Zemi bola zbytočná, spôsobí jeho psychický kolaps a transformáciu na cynického Exorcistu.
 - **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Maka.
 
@@ -34,7 +34,7 @@ Max sa prebúdza ako „troska“.
 ### Backstory
 Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
 - **V realite**: Max bol synom **vojnového veterána** zo strednej Európy. Od otca sa naučil disciplínu a základy boja, no v ére Hráčov uprednostnil virtuálny svet pred drsnou realitou.
-- **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny veterán z vojny (2150).
+- **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny Major počas vojny (2150). Po víťazstve povýšený na **Generála Pozemskej Obrany**.
 - **Pád Zeme**: Posledné hodiny strávil prebíjaním sa cez horiacu civilizáciu, aby zachránil Inetis na príkaz umierajúceho Koordinátora.
 - **Prebudenie (AY 3000)**: Prebudený v „Hrobke technológie" po 2700 rokoch. Zlyhanie kryostázy mu spôsobilo explóziu očí mrazom. Nájdený pirátmi a predaný ako „čistokrvný tovar".
 - **Stav**: Nahý, pokrytý modrou kryo-tekutinou, slepý a v šoku.

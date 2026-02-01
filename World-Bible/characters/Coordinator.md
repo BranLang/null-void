@@ -4,6 +4,8 @@
 |---|---|
 | **Status** | Mŕtvy (pri páde Zeme, EY ~2300) |
 | **Meno** | **John Reef** |
+| **Nar.** | ~EY 2010 |
+| **Vek pri smrti** | ~290 rokov (udržiavaný nanotechnológiou — Prvý Dar od i_net_is mu predĺžil život) |
 | **Pôvod** | Technologický miliardár |
 | **Rola** | Vládca Zeme, otec Inetis, tvorca projektu Achilles |
 

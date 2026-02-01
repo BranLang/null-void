@@ -15,10 +15,11 @@ Svet NULL VOID stojí na **Clarkeovom zákone**, kde sa technologická minulosť
 ## 2. Pristátie a Éra Priekopníkov (Od jaskyne po Elysium)
 Pristátie lode **Null-Void** (FTL prototypu, **100% z nanodronov**) na planéte Achilles spustilo reťazec udalostí, ktoré zmenili osud ľudstva. Max a Inetis pristáli na nepripravenej planéte o tristo rokov skôr než hlavná kolonizačná flotila (ARK-11 a ARK-12).
 
-### Obeta Inetis a Maxovo uväznenie
-*   **Šok z tehotenstva:** Inetis zistila, že je tehotná. Kryospánok by dieťa zabil.
+### Trauma na lodi a Maxovo uväznenie
+*   **Počas 3-ročnej cesty FTL:** Max napadol Inetis na palube lode NULL VOID. Tento akt násilia je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
+*   **Šok z tehotenstva:** Po pristátí Inetis zistila, že je tehotná. Kryospánok by dieťa zabil.
 *   **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID (nanodronová rekonfigurácia, hydroponika). V skutočnosti loď dokázala zabezpečiť prežitie.
-*   **Skutočný dôvod:** Inetis ho chcela držať bokom, kým si premyslí, čo bude ďalej — bála sa jeho vojenských ambícií (poraziť mimozemšťanov), jeho nepredvídateľnosti a reakcie na jej rozhodnutia. **Nikdy to nedomyslela** — pôvodných 300 rokov kryospánku sa natiahlo na 3000.
+*   **Skutočný dôvod:** Inetis ho chcela preč — bála sa ho. Trauma z toho, čo jej urobil, zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Uspala ho s úmyslom rozhodnúť sa neskôr. **Nikdy to nedomyslela** — pôvodných 300 rokov kryospánku sa natiahlo na 3000. Nemohla ho zabiť (vedela, že ho svet raz bude potrebovať), ale nedokázala sa prinútiť ho zobudiť.
 *   **Pokus o genetickú modifikáciu:** Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele (mohli by spať obaja), no experiment zlyhal.
 *   **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy, upravili okolie. Nanodrony sa dali nakonfigurovať na čokoľvek — **okrem jedla**. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a **komunikačná Anténa** (glitchla sa, odmietla rekonfiguráciu). Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — Anténa ostala jedinou fyzickou pozostalosťou lode.
 
@@ -26,7 +27,8 @@ Pristátie lode **Null-Void** (FTL prototypu, **100% z nanodronov**) na planéte
 *   **Boj o prežitie a hydroponika:** Inetis skoro zomrela od hladu. Pomocou nanodronov z rozloženej lode vybudovala hydroponickú farmu a rastliny, čím vytvorila útulný domov uprostred nehostinného sveta.
 *   **Chyba v kóde:** Elenia sa narodila, ale kvôli neúspešnej genetickej modifikácii (pôvodne určenej na prežitie kryospánku) rástla extrémne pomaly. Inetis si vtedy s hrôzou uvedomila svoju chybu: chcela dcéru zachrániť, no namiesto toho ju v čase uväznila.
 *   **Jaskyňa Null-Void:** Tento priestor sa stal "Hrobkou technológie" a najväčšou učebňou v histórii. Steny sú pokryté vedeckými terminálmi vedľa detských kresieb a pentagramov.
-*   **Pentagram ako pedagogická pomôcka:** Inetis vytvorila **Pentagram Cycle** – zjednodušené užívateľské rozhranie (UI). Naučila Eleniu ovládať nanity cez 5 základných parametrov (hmota, energia, čas, priestor a vedomie).
+*   **Prvé varovanie — Glitchnutá Anténa:** Anténa odmietla rekonfiguráciu a správala sa nepredvídateľne. Pre Inetis to bolo **prvé varovanie**, že nanodronový systém nie je stabilný. Matematicky vypočítala, že celý systém v1.0/v1.5 nanodronov by mohol v budúcnosti skolabovať — zárodok toho, čo sa neskôr stane Glitch Rotom.
+*   **Pentagram ako nové IDE:** Toto poznanie motivovalo Inetis vytvoriť **Pentagram Cycle** — nové zjednodušené užívateľské rozhranie (IDE) pre ovládanie nanodronov. Čiastočne pedagogická pomôcka pre Eleniu, čiastočne základ budúceho stabilnejšieho systému (v2.0 / Spira). Naučila Eleniu ovládať nanity cez 5 základných parametrov (hmota, energia, čas, priestor a vedomie).
 
 ### Cesta na Elysium (Po ~30 rokoch)
 *   **Opätovná rekonfigurácia:** Inetis prekonfigurovala nanodrony naspäť na loď NULL VOID.

@@ -6,7 +6,7 @@
     - **"Die Nadel" (Ihla)**: Prísne utilitárny rapier z volfrámovej zliatiny. Žiadne ozdoby, len penetračná sila. Vlastní ho Tami.
 - **Status**: Legendárny Mako, žije v **ruinách mesta Kito** na Východe.
 - **Vzťah k Párty**:
-    - **Tami**: "Strýko". Vychoval ju spolu s Borrom. Naučil ju všetko o strojoch a etikete Makov.
+    - **Tami**: "Strýko". Vychoval ju spolu s Rennom. Naučil ju všetko o strojoch a etikete Makov.
     - **Max**: "Starý priateľ". Počas rokov v Kito (AY 3001-3008) slúžil ako Maxov prekladateľ (Rosetta Stone Protocol) a učil ho moderný jazyk.
 - **Povaha**:
     - **Advanced AI Core (LLM)**: Felix nie je len stroj s predprogramovanými frázami. Je to pokročilá syntetická inteligencia (v podstate "LLM v tele robota").

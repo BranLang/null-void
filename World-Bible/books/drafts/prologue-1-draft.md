@@ -32,6 +32,32 @@ Nájdem ťa.
 
 Zatlačil do hmly tak silno, až mu z úst vyšiel hrdelný ston a svet sa s ním zatočil v červenej horúčke.
 
+A potom sa svet zmenil.
+
+Niečo — niečo iné — sa prebudilo v zemi pod ním. Interferencia. Vlna tak ostrá, že na okamih zahmlila celú sieť Prachu na tri kilometre. Ako keby sa niekto tretí práve rozhodol zmraziť celú šachovnicu.
+
+Kaelov útok sa rozplynul. Protivníkova žulová stena zmizla tiež — aj on cítil ten impulz.
+
+Obranca jaskyne. Nejaká stará, automatická vec pod zemou práve reagovala na ich duel — na energiu, čo obaja vyžiarili.
+
+Kael neváhal. Jediná sekunda, kým boli obaja oslepení. Odplazil sa z diery, necítiac nohy, zanechávajúc za sebou krvavú stopu v snehu. Protivník ho hľadal — cítil, ako sa ten obrovský, temný signál prehrabáva tmou — ale Kaelove nanodrony boli na dne. Bol príliš slabý na to, aby svietil.
+
+Schoval sa v priehlbni pod koreňmi mŕtveho stromu, päťdesiat metrov od jaskyne. Telo sa mu rozpadalo. Horúčka, vnútorné krvácanie, roztrhané cievy v mozgu.
+
+A potom, o niekoľko hodín — keď už takmer stratil vedomie — to pocítil.
+
+Niečo vyšlo z jaskyne.
+
+Nebol to ten protivník. Toto bolo iné. Surové. Mechanické. Staré ako samotná Zem. Oblak mikrodronov — vojenských, agresívnych, v automatickom obrannom režime — prešiel cez Kaelovu skrýšu ako mrazivý víchor. Cítil, ako sa mu zabodávajú pod kožu, do pľúc, do mozgu.
+
+Nespôsobili bolesť. Bol za hranicou bolesti. Posledné, čo Kael pocítil, bolo prekvapenie.
+
+*Toto nie je Prach. Toto je niečo staršie—*
+
+Nebolo to vedomé rozhodnutie. Bytosť, ktorá ich vyslala, ležala o päťdesiat metrov ďalej — nahá, slepá, pokrytá modrou tekutinou — a nevedela, že práve zabila muža. Jej nanodrony sa len zbavili najbližšej hrozby, ako to robili tisíce rokov predtým.
+
+Kael zomrel ticho. Sneh ho zakryl do rána.
+
 
 SCÉNA 1: NÁKLAD (Z pohľadu Maxa s amnéziou)
 Bolesť. To bolo prvé, čo existovalo.
@@ -40,9 +66,9 @@ Nebola to len bolesť na jednom mieste. Bola to celotelová symfónia agónie, a
 
 Cítil pohyb. Hrubé ruky ho niesli ako kus mŕtveho dobytka.
 
-"Ten ľadový parchant je ťažší, než vyzerá," zavrčal hlas, ktorý znel ako drvenie štrku (Borr). Jazyk bol cudzí, hrdelný, plný ostrých spoluhlások. Muž, ktorého niesli, mu nerozumel, ale rozumel tónu. Pohŕdanie.
+"Ten ľadový parchant je ťažší, než vyzerá," zavrčal hlas, ktorý znel ako drvenie štrku (Vix). Jazyk bol cudzí, hrdelný, plný ostrých spoluhlások. Muž, ktorého niesli, mu nerozumel, ale rozumel tónu. Pohŕdanie.
 
-"Len ho nezlom, ty idiot," zasyčal druhý, vyšší hlas (Vix). "Je to Čistokrvný. Cenný tovar pre Arény."
+"Polez. A netlač tak," zasyčal ten istý hlas sám k sebe, keď narazil plecami o úzky rám podpalubia. "Je to Čistokrvný. Cenný tovar pre Arény. Kael by vedel, koľko za takého dajú... keby toho idiota neroztrhalo v tej diere."
 
 Čistokrvný? Arény? Tie slová prebleskli mysľou muža, ale nenachádzali žiadny záchytný bod. Kto je Čistokrvný? Kto som ja?
 
@@ -89,9 +115,9 @@ Medzitým, späť pri jaskyni.
 
 Samaell stál pred vchodom do jaskyne. Sneh okolo jeho nôh syčal a topil sa, neschopný vydržať žiaru jeho zúrivosti.
 
-Kael bol mŕtvy, vysatý do sucha, jeho telo už mizlo pod novou vrstvou snehu. Ale ten signál... ten signál zmizol.
+Kael ležal pod koreňmi neďaleko — vysušený, rozložený na atómovej úrovni niečím, čo nebolo Prach Varietas. Samaell to cítil. To nebola jeho práca. Niečo tu zabilo pirátku s chirurgickou presnosťou vojenského dronu. A ten signál... ten signál z jaskyne zmizol.
 
-Archanjel vstúpil dovnútra. Bioluminiscenčné huby vrhali na steny prízračné modré svetlo. Videl tie kresby. Detské čmáranice, ktoré sa menili na šialené rovnice galaxií. Elania. Inetisina malá hračka.
+Archanjel vstúpil dovnútra. Bioluminiscenčné huby vrhali na steny prízračné modré svetlo. Videl tie kresby. Detské čmáranice, ktoré sa menili na šialené rovnice galaxií. Elenia. Inetisina malá hračka.
 
 Ignoroval ich. Jeho oči, žiariace fialovým ohňom, hľadali len jednu vec.
 

@@ -24,7 +24,7 @@ Cézar sa nepohol. „Kde?"
 
 Zaya sa odmlčala. Hologram mierne zablikal — buď kvôli vzdialenosti, alebo kvôli tomu, čo povedala ďalej.
 
-„Komunikačná anténa z lode, ktorá pristála na severnej pologuli pred tromi tisícročiami. Loď, o ktorej sme si mysleli, že sa rozpadla pri vstupe do atmosféry." Pauza. „Mýlili sme sa."
+„Komunikačná anténa z lode, ktorá pristála niekoľko stoviek kilometrov západne od Kita pred tromi tisícročiami. Loď, o ktorej sme si mysleli, že sa rozpadla pri vstupe do atmosféry." Pauza. „Mýlili sme sa."
 
 Cézar pomaly zdvihol ruku a prešiel si ňou po šedivej srsti na brade. „Prečo je to dôležité teraz? Po troch tisícročiach?"
 
@@ -54,7 +54,7 @@ Zaya sa usmiala. „Tvoji najlepší."
 
 Stáli pred ním v dokonalom stoji — dva monolity v tme.
 
-**Rau** bol gorila. Nie obyčajná gorila — *Paladín*. Elitná kasta Apes, trénovnaná od narodenia. Dva metre výšky a takmer rovnako široký. Telo ako sopečný balvan pokrytý čiernou srsťou. Na hrudi mal energetický štít — tenký, takmer neviditeľný obrys modrého svetla. V ruke držal kopiju s hrotom z materiálu, ktorý by na Terre nikto nevedel pomenovať. Nerozprával. Paladíni nerozprávali. Komunikoval gestami — rýchlymi, presnými, vojenskými.
+**Rau** bol gorila. Nie obyčajná gorila — *Paladín*. Elitná kasta Apes, trénovaná od narodenia. Dva metre výšky a takmer rovnako široký. Telo ako sopečný balvan pokrytý čiernou srsťou. Na hrudi mal energetický štít — tenký, takmer neviditeľný obrys modrého svetla. Na chrbte niesol vibro-sekeru — masívnu, s čepeľou, ktorá sa mierne chvela vlastnou frekvenciou. Materiál, ktorý by na Terre nikto nevedel pomenovať. Nerozprával. Paladíni nerozprávali. Komunikoval gestami — rýchlymi, presnými, vojenskými.
 
 **Kira** bola orangutanka. Vysoká, štíhla, s dlhými rukami, ktoré vyzerali krehko, až kým ste nevideli, čo s nimi dokáže. Jej červenohnedá srsť bola strihaná nakrátko — praktické, nie estetické. Na chrbte mala zvitok máp a na opasku niečo, čo vyzeralo ako kompas, ale nefungovalo na magnetizme.
 
@@ -80,7 +80,13 @@ Cézar sa vrátil ku kreslu. Hologram Zayi ešte stále svietil.
 
 Zaya sa usmiala. Ale tentoraz to nebol úsmev spolupráce. Bol to úsmev niekoho, kto vie viac, než hovorí.
 
-„Záleží mi na tom, čo sa stane, keď ju niekto *zapne*."
+„Záleží mi na tom, čo sa stane, keď ju niekto *zapne*." Pauza. „A záleží mi na tom, aby sa k nej nedostala *Požehnaná Matka*."
+
+Cézar zdvihol obočie. „Tá svätá žena z Nevriss? Myslel som, že medzi vami a Cirkvou nie je žiadny kontakt."
+
+Zaya sa usmiala — ale tentoraz v tom úsmeve nebola zhovievavosť. Bola tam nenávisť. Stará, hlboká, trpezlivá.
+
+„Nie je to svätá žena, Cézar. Je to *niečo* iné. A keď sa dostane k tej anténe prvá, nezostane z Nevriss nič, čo by stálo za záchranu."
 
 Hologram zhasol.
 
@@ -112,7 +118,7 @@ Správa bola krátka.
 *Klasifikácia: Priorita Nula*
 *Lokácia: Severný kontinent. Kráľovstvo Nevriss. Mesto Shoraven.*
 *Objav: Signálna anomália konzistentná s technológiou Éry Exodus.*
-*Poznámka: Možná zhoda s identifikátorom lode NULL VOID (Prototyp-7, Expedícia Exodus).*
+*Poznámka: Možná zhoda s identifikátorom lode NULL VOID (Expedícia Exodus).*
 
 Elenia stuhla.
 

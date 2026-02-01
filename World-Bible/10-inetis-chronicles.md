@@ -15,13 +15,13 @@ Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von
 
 Okolo roku **AY 700** brány Jadra otvorila do ticha. Mesto **Elysium** (neskôr Ynetis) bolo prázdne. Elenia bola preč. Kolonisti zmizli. Mala liek, ale už nebolo koho zachraňovať.
 
-V ruinách našla len hŕstku preživších Exorcistov, ktorí sa skrývali v tieňoch. S nimi, so zlomeným srdcom, opustila mesto duchov a vydala sa hľadať civilizáciu na Pevninu (Neverice).
+V ruinách našla len hŕstku preživších Exorcistov, ktorí sa skrývali v tieňoch. S nimi, so zlomeným srdcom, opustila mesto duchov a vydala sa hľadať civilizáciu na Pevninu (Nevriss).
 
 ---
 
 ## Bremeno Poznania (The Awakening)
 
-To, čo našla v Neverice, ju šokovalo inak, než čakala.
+To, čo našla v Nevriss, ju šokovalo inak, než čakala.
 
 Našla Varietas žijúcich v strachu. Až od nich sa dozvedela krutú pravdu o **Archanjeloch**.
 - Dozvedela sa o nájazdoch "démonov" (Ex Inferis) z lietajúceho mesta.
@@ -51,7 +51,7 @@ Rozhodla sa. Upravila svoj "Liek" na "Zbraň/Nástroj".
 **Parametre Gen 2 (v2.0):**
 1.  **Downgrade Sily:** Musela obetovať 90% hrubej sily v1.7, aby dosiahla stabilitu. Spira nedokáže meniť realitu tak ako Archanjeli, ale je flexibilnejšia.
 2.  **Sofistikovanosť:** Na rozdiel od v1.x, táto verzia sa dokáže **ukladať do kryštalických štruktúr** (Spira Crystals) a tým vytvárať Spira batérie.
-3.  **Genetický Zámok:** Kompatibilná len s Varietas.
+3.  **Genetický Zámok:** Kompatibilná s **Varietas** (modifikovanými ľuďmi — ľudský základ genómu). **Nekompatibilná s Chimérami** (Ghorki — modifikované zvieratá). Inetis nemala čas vyriešiť kompatibilitu so zvieracím genómom — prístup do Core bol extrémne náročný a limitovaný.
 4.  **Samoreplikácia:** Dedičné z matky na dieťa (v1.x sú sterilné).
 
 ### Jazyk Kódu (Návrat ku koreňom)
@@ -126,8 +126,8 @@ Cesta trvala mesiace. Išla pešo. Jej nanotechnologické batérie zlyhávali. K
 
 ### Smrť v Jaskyni
 Keď dorazila do jaskyne, našla zvyšky svojho dávneho domova — steny pokryté kresbami (Eleniina práca), pozostatky hydroponických fariem, terminály, čo kedysi riadili ich život.
-- **Maxov modul:** Bol poškodený. Kus stropu spadol na riadiacu jednotku. Kontrolky blikali na červeno. "Kritické zlyhanie stázy."
-- **Jej plán:** Pôvodne ho chcela zobudiť a vysvetliť mu všetko. Ale keď videla poškodenie, pochopila, že on možno neprežije proces prebúdzania bez pomoci. A ona už nemala silu na opravu.
+- **Maxov kryobox:** Jediný modul v jaskyni, v minimálnej konfigurácii. Po 3000 rokoch prevádzky boli nanodrony na hranici kolapsu. Kontrolky blikali na červeno — „Kritické zlyhanie stázy." Max vo vnútri bol sotva nažive: nanodrony udržiavali jeho základné funkcie, ale telo platilo strašnú daň — oči boli zničené mrazom, svalová hmota sa takmer úplne rozložila.
+- **Jej plán:** Pôvodne ho chcela zobudiť a vysvetliť mu všetko. Ale nemala silu ani na samotný proces prebúdzania. A možno, po celých tých stáročiach, sa stále bála toho momentu.
 
 Sadla si k jeho modulu. Oprela si čelo o studené sklo.
 *„Prepáč, Max. Nechala som ťa spať príliš dlho. Teraz to budeš musieť upratať sám."*

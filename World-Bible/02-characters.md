@@ -18,5 +18,5 @@ All character profiles have been moved to the `characters` directory.
 - [Archanjeli Lore](./characters/Archanjeli_Lore.md)
 
 ## Minor Characters
-- [Borr and Vix](./characters/Borr_and_Vix.md)
-- [Kael](./characters/Kael.md)
+- [Renn, Vix a Kael](./characters/Renn_Vix_Kael.md)
+- [Mormiel (Požehnaná Matka)](./characters/Mormiel.md)

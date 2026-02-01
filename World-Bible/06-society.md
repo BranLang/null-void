@@ -180,17 +180,17 @@ Dva fundamentálne prístupy k Spire definujú svet:
 ### Čistokrvní *(Pursang)*
 Vrchol pyramídy. Rodiny, ktoré sa po generácie pomocou dohodnutých zväzkov šplhali na vrchol.
 
-- **Genetika**: Maximálna ľudská DNA → maximálna kompatibilita s nanobotmi
+- **Genetika**: Maximálna ľudská DNA → maximálna kompatibilita s nanobotmi. Varietas sú **modifikovaní ľudia** (ľudský základ genómu + zvieracie črty), preto Spira v2.0 funguje — bola navrhnutá pre ľudskú biológiu
 - **Spira**: Ovládajú elementy, telekinézu, extrémnu regeneráciu
 - **Dlhovekosť**: Až 50 zím (niektorí legendárni jedinci aj viac)
 - **Pozícia**: Veľkňažky, generáli, vodcovia gildov, aristokracia
-- **Vzhľad**: Často vyzerajú "najľudskejšie" — menej zvieracích čŕt, čo paradoxne posilňuje predsudky
+- **Vzhľad**: Vyzerajú "najľudskejšie" — menej zvieracích čŕt, čo koreluje s najsilnejšou Spirou
 - **Dohodnuté zväzky**: Svadby sú politické dohody medzi rodinami, zamerané na posilnenie Spiry v potomkoch
 
 ### Stredná kasta *(Mezra)*
 Chrbtica spoločnosti. Remeselníci, obchodníci, vojaci s remeselnou Spirou.
 
-- **Genetika**: Zmiešaná — dosť ľudskej DNA na aktiváciu nanobotov
+- **Genetika**: Zmiešaná — dosť ľudskej DNA na aktiváciu nanobotov, ale s výraznejšími zvieracími črtami
 - **Spira**: Využívajú na remeslo a prácu:
   - **Kováči**: Ohňová Spira na tavenie a tvarovanie kovov
   - **Stavitelia**: Zemná Spira na manipuláciu s kameňom
@@ -200,15 +200,16 @@ Chrbtica spoločnosti. Remeselníci, obchodníci, vojaci s remeselnou Spirou.
 - **Pozícia**: Stredná trieda — majú práva, majetok, ale nie moc
 - **Vzhľad**: Dominantne ľudský. Zvieracie znaky sú subtílne — mačacie oči, špicaté uši, pazúry namiesto nechtov. Nikdy nemajú srsť na tvári ani zvieraciu hlavu.
 
-### Nízka kasta *(Ghorki)*
-Varietas bez Spiry. Geneticky vzdialené od ľudského pôvodu.
+### Nízka kasta *(Ghorki)* — Chiméry
+**Ghorki nie sú Varietas.** Sú to **Chiméry** — zvieratá geneticky modifikované smerom k ľudskej inteligencii (opačný smer než Varietas). Ich základný genóm je **zvierací**, nie ľudský.
 
-- **Genetika**: Minimálna alebo žiadna ľudská DNA → nanoboty nefungujú
+- **Genetika**: Minimálna alebo žiadna ľudská DNA → nanoboty nefungujú. Ich fyziológia je príliš odlišná od ľudskej
 - **Spira**: Žiadna alebo takmer žiadna
-- **Dôvod**: Nepochádzajú z ľudí, alebo majú veľmi málo ľudského génu — ich fyziológia je príliš odlišná na to, aby nanoboty fungovali
+- **Dôvod**: Inetis navrhla Spiru v2.0 pre **ľudský** genóm (Varietas sú modifikovaní ľudia). Chiméry (modifikované zvieratá) majú úplne iný biologický základ — Inetis nemala čas vyriešiť kompatibilitu v Core, pretože prístup do simulácie bol extrémne náročný
+- **Inteligencia**: Mnohé Chiméry majú takmer ľudskú inteligenciu — hovoria, premýšľajú, cítia. Ale niektoré nie sú ani bipedálne (napr. obrovské vlky, ktoré hovoria a sú hrdé, ale nemajú ruky)
 - **Dlhovekosť**: 10-15 zím (~50-75 rokov)
 - **Pozícia**: Robotníci, nosiči, sluhovia. V Nevriss sú slobodní (Kult Matky zakazuje otroctvo), ale v praxi sú najchudobnejší
-- **Vzhľad**: Najvýraznejšie zvieracie črty — úplné srstenie, šupiny, zobáky, krídla
+- **Vzhľad**: Silne zvieracie — úplné srstenie, šupiny, zobáky, krídla. Niektorí vyzerajú ako antropomorfné zvieratá, iní ako inteligentné šelmy v pôvodnej zvieracej forme
 
 ### Otroctvo — Rozdiel Sever vs Juh
 
@@ -228,7 +229,7 @@ Varietas bez Spiry. Geneticky vzdialené od ľudského pôvodu.
 ### 1. Závisť a Nenávisť (Smrteľnosť vs. Večnosť)
 Toto je jadro napätia. Varietas budujú, množia sa a umierajú v priebehu jednej generácie. Ľudia sa na to pozerajú celé stáročia, nemenní a arogantní. Varietas vnímajú ľudí ako sebeckých bohov, ktorí sa nechcú podeliť o dar večnosti.
 
-**Vnútorný rasizmus:** Varietas sú rasistické aj medzi sebou. Kastový systém založený na Spire vytvára rigidnú hierarchiu — Čistokrvní (Pursang) s najsilnejšou Spirou pohŕdajú Ghorki bez Spiry. Čím viac zvieracích čŕt, tým nižšie v hierarchii. Je to kruté, pretože práve najväčšie odchýlky od ľudského tvaru znamenajú najmenšiu kompatibilitu s nanobotmi.
+**Vnútorný rasizmus:** Varietas sú rasistické aj medzi sebou — a voči Chiméram. Kastový systém je založený na blízkosti k ľudskému genómu: Čistokrvní (Pursang) s najsilnejšou Spirou pohŕdajú Chimérami (Ghorki) bez Spiry. Chiméry sú modifikované zvieratá s takmer ľudskou inteligenciou, ale ich zvierací genóm neumožňuje kompatibilitu so Spirou. Varietas (modifikovaní ľudia) ich vnímajú ako "menejcenných", aj keď mnohé Chiméry sú rovnako inteligentné. Je to kruté, pretože tieto bytosti si svoju genetiku nevybrali.
 
 ### 2. Folklór vs. Pravda
 - **Pravda:** Ľudia vedia, že svet bol sci-fi civilizácia zničená AI. Mlčia o tom zo strachu.
@@ -286,12 +287,13 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 - **Pašovanie**: Kde je voľný obchod, tam je aj čierny trh. Podzemný obchod s kradnutými relíkviami, zakázanými zbraňami a — v tajnosti — s informáciami o Spire a podzemných tuneloch.
 
 ### Doprava
-1. **Vzducholode:** Najrýchlejšia a najbezpečnejšia doprava. Preferované pred loďami kvôli častým zemetraseniam a tsunami, ktoré ničia prístavy a potápajú lode. Väčšinou poháňané biodieselom alebo etanolom.
+1. **Vzducholode:** Najrýchlejšia a najbezpečnejšia doprava. Stali sa bežnými po príchode **Makov** (AY 2212), ktorí priniesli technické znalosti na ich stavbu. Preferované pred loďami kvôli častým zemetraseniam a tsunami, ktoré ničia prístavy a potápajú lode. Väčšinou poháňané biodieselom alebo etanolom.
 2. **Dvojplošníky:** Rýchle, ale vzácne — motory vyžadujú vysokú presnosť a neexistuje masová výroba. Poháňané biodieselom alebo biobenzínom. Väčšinou bojové a prieskumné.
-3. **Námorné lode:** Lacnejšie než vzducholode, ale riskantné. Tsunami a podmorské zemetrasenia robia námorný obchod nebezpečným a nespoľahlivým.
+3. **Námorné lode:** Lacnejšia, ale riskantná alternatíva. Kedysi hlavná forma dopravy (Nevriss bolo námorným impériom), dnes sú lode považované za nebezpečné a nespoľahlivé. Tsunami a podmorské zemetrasenia robia námorný obchod hazardom. Používajú ich tí, čo si nemôžu dovoliť vzducholode, alebo pašeráci.
 4. **Riečne parníky:** Nákladná doprava po riekach — relatívne bezpečné (rieky nemajú tsunami).
 5. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
-6. **Vlaky:** Existujú *iba* v Južnom kráľovstve (Zaya). Koľajnice trpia zemetraseniami — údržba je neustála.
+6. **Vlaky (Terra):** Na Terre existujú parné a dieselové vlaky — primitívne, ale funkčné. Koľajnice trpia zemetraseniami — údržba je neustála. Hlavne na trasách medzi veľkými mestami (Nevriss, Beladiss, Nyau).
+7. **Maglevové vlaky (Aprika):** Doména **Ishtar/Zaya** (Sklené Mesto) a **Apes** disponujú futuristickými maglevmi — technologicky ďaleko pred čímkoľvek na Terre. Pre Varietas by to vyzeralo ako Spira.
 
 ---
 
@@ -347,6 +349,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Teológia:** Monoteizmus. Uctievajú len Matku. Postava "Otca" alebo "Spáča" je z mytológie zámerne vymazaná alebo marginalizovaná.
 - **Dôvod (Lore):** Pred 100 rokmi v Nevriss vypukli **Krvavé Vzbury Mužov**. Stará dogma (podobná tej v Beladiss) tvrdila, že muži nesú "Hriech Otca". To viedlo k útlaku. Po revolúcii Rada Veľkňažiek reformovala vieru — Spáč bol vyškrtnutý z kázní, aby sa mužom priznala duša a práva. Dnes je Nevriss najliberálnejšia teokracia.
 - **Shoraven:** Hlavný chrám je centrom tejto reformovanej vetvy.
+- **Požehnaná Matka (Tajomstvo):** Hlava Rady Veľkňažiek je **Mormiel** — 4. Archanjel z ARK-13, jediná Varietas z lode. Verejnosť vníma Požehnanú Matku ako líniu svätých žien. Každých ~100 rokov prebehne **Rituál Nástupníctva**: odchádzajúca Matka vyberie mladú pannu z ľudu, za zatvorenými dverami ju nanotechnológiou rozloží a pohltí, preberie jej podobu — a „nová Matka" potvrdí, že stará sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla Mormiel cez ~23 identít. Rituál je najsvätejší obrad Cirkvi a nikto ho nikdy nespochybnil. V noci loví ulicami Nevriss City ako predátorka. Detaily v [characters/Mormiel.md](../characters/Mormiel.md).
 
 #### 2. Beladiss (Východ) — Ortodoxný Dualizmus
 **"Matka dáva život, Otec prináša smrť."**
@@ -356,11 +359,9 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Vzťah s Nevriss:** Beladiss považuje Nevriss za "mäkký" a heretický, pretože dovolil mužom vládnuť v gildách.
 
 **Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytá **Anténa** — v očiach veriacich najsvätejšia relikvia ("Svätá Anténa" alebo "Žezlo Matky").
-> **Realita:** Je to obyčajná komunikačná anténa z lode NULL VOID (trieda *Hephaestus*). Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy - údržbárske nanoboty) pomocou sub-priestorových frekvencií. Teoreticky dokáže aj prijímať signály zo Zeme. Nie je to zbraň. Je to diaľkový ovládač. Ale v kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte.
+> **Realita:** Je to komunikačná anténa z lode **NULL VOID** (FTL prototyp). Keď Inetis rozložila celú loď na nanodrony, Anténa sa glitchla a odmietla rekonfiguráciu — jediná časť lode, ktorá zostala v pôvodnom stave. Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy — údržbárske nanoboty) pomocou sub-priestorových frekvencií. Teoreticky dokáže aj prijímať signály zo Zeme. Nie je to zbraň. Je to diaľkový ovládač. Ale v kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte.
 >
 > **Maxov Interface:** Max (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
->
-> **NULL VOID:** Loď je vykuchaná a zamrznutá v ľadovci, ale teoreticky schopná letu.
 
 ### Kult Nesmrteľného Groma (Sever - Graw)
 
