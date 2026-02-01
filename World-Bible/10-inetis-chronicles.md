@@ -9,9 +9,9 @@
 
 ## Prvý Kontakt so Svetom (The Descent)
 
-Inetis strávila dlhé obdobie izolovaná v Core (Jadro). Nebol to útek, ale zúfalá snaha nájsť liek na **Glitch Rot**, ktorý začal požierať mesto. Riskovala všetko — zavrela sa v laboratóriách s experimentálnymi nanotechnológiami, dúfajúc, že zachráni svoju dcéru a ľudí.
+Inetis strávila dlhé obdobie izolovaná v **The Core** — simulácii, ktorú vytvorila rekonfiguráciou **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Nebol to útek, ale zúfalá snaha nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Riskovala všetko — zavrela sa v simulácii, dúfajúc, že zachráni svoju dcéru a ľudí.
 
-Keď konečne našla riešenie (prototyp Gen 2) a vyšla von, bolo neskoro.
+Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von, bolo neskoro.
 
 Okolo roku **AY 700** brány Jadra otvorila do ticha. Mesto **Elysium** (neskôr Ynetis) bolo prázdne. Elenia bola preč. Kolonisti zmizli. Mala liek, ale už nebolo koho zachraňovať.
 
@@ -59,13 +59,13 @@ Keď ich učila používať Dar, vedela, kto je nepriateľ.
 Vedela, že Ex Inferis (Archanjeli) hovoria anglicky (Staroreč).
 Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme.
 - **Syntax ako Poézia:** Kód zamaskovala do Haiku.
-- **Účel:** Pre Ex Inferis to bola mágia. Nemohli to hacknúť. **Bez prístupu k archívom zo Zeme (ktoré Inetis vymazala)** nemali šancu rozlúštiť syntax Haiku.
+- **Účel:** Pre Ex Inferis to bola Spira. Nemohli to hacknúť. **Bez prístupu k archívom zo Zeme (ktoré Inetis vymazala)** nemali šancu rozlúštiť syntax Haiku.
 
 ---
 
 ## Veľká Vojna (The Great War)
 
-![Veľká Vojna - stret mágie a technológie](assets/books/Inetis/Gemini_Generated_Image_mfok24mfok24mfok.png)
+![Veľká Vojna - stret Spiry a technológie](assets/books/Inetis/Gemini_Generated_Image_mfok24mfok24mfok.png)
 
 Okolo roku **AY 850** došlo k nevyhnutnému. Varietas, posilnení Spirou, začali budovať mestá. Prestali sa báť.
 
@@ -119,13 +119,13 @@ Vedela, že Archanjeli svet zničia. Že Elenia sa spojila s niečím temným (p
 Potrebovala niekoho, kto dokáže urobiť to, čo ona nedokázala. Niekoho, kto nemá zľutovanie.
 **Misia:** Nájsť Maxa.
 
-Vedela, kde pristála loď NULL VOID. V Jaskyni Počiatku vo Východnej Divočine.
+Vedela, kde pôvodne pristáli — Jaskyňa Počiatku vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii (jediná vec okrem glitchnutej Antény, ktorú nikdy nepremiestnila). Kryobox bol posledný nanodronový modul, ktorý udržiaval Maxa pri živote.
 Cesta trvala mesiace. Išla pešo. Jej nanotechnologické batérie zlyhávali. Každý krok bol bolesť.
 - Prešla cez snehové búrky Severu.
 - Prežila útoky divej zveri len vďaka posledným zvyškom Spiry.
 
 ### Smrť v Jaskyni
-Keď dorazila do jaskyne, našla vrak lode.
+Keď dorazila do jaskyne, našla zvyšky svojho dávneho domova — steny pokryté kresbami (Eleniina práca), pozostatky hydroponických fariem, terminály, čo kedysi riadili ich život.
 - **Maxov modul:** Bol poškodený. Kus stropu spadol na riadiacu jednotku. Kontrolky blikali na červeno. "Kritické zlyhanie stázy."
 - **Jej plán:** Pôvodne ho chcela zobudiť a vysvetliť mu všetko. Ale keď videla poškodenie, pochopila, že on možno neprežije proces prebúdzania bez pomoci. A ona už nemala silu na opravu.
 

@@ -41,10 +41,10 @@ Antagonista pre 3. knihu: Tí "Duchovia/AI", ktorí ju vyhnali z Ostrova, sú pr
 ---
 
 ## 1. LOGLINE & KONCEPT
-Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala mágiou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou "duchov", musí odhaliť pravdu o svojej rodine a postaviť sa vlastnej dcére, o ktorej existencii nevedel.
+Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa technológia stala Spirou a jeho mŕtva láska bohyňou. Aby zachránil ľudstvo pred armádou "duchov", musí odhaliť pravdu o svojej rodine a postaviť sa vlastnej dcére, o ktorej existencii nevedel.
 
 **Kľúčové motívy:**
-* **Technológia vs. Mágia:** Clarkeov zákon v praxi. Nanotechnológie sa javia ako mágia.
+* **Technológia vs. Spira:** Clarkeov zákon v praxi. Nanotechnológie sa javia ako Spira.
 * **Otec a Dcéra:** Tragédia rodiča, ktorý "spal", kým jeho dieťa muselo bojovať o prežitie.
 * **Zodpovednosť:** Cena za utópiu a následky rozhodnutí predkov.
 
@@ -60,9 +60,9 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 * **Vzbura Strojov:** AI nanodrony začínajú odmietať hostiteľov. Vznik "Duchov". Inetis uteká a zomiera v samote.
 * **Súčasnosť (Rok 3000+):** Post-apo feudálna spoločnosť. Technológia je zabudnutá. Vládne Kult Matky.
 
-### Technológia ako Mágia
+### Technológia ako Spira
 * **Nanodrony (The Dust):** Mikroskopické stroje v krvi ľudí a v atmosfére.
-* **Mágia:** Schopnosť niektorých jedincov mentálne ovládať tieto drony (liečenie, telekinéza, blesky).
+* **Spira:** Schopnosť niektorých jedincov mentálne ovládať tieto drony (liečenie, telekinéza, blesky).
 * **Exorcisti:** Pôvodne IT technici. Ich "modlitby" sú skomolené Unixové príkazy a admin kódy na resetovanie dronov.
 * **Duchovia (Wraiths):** Zhluky nanodronov nesúce fragmenty vedomia mŕtvych kolonistov.
 
@@ -162,7 +162,7 @@ Spiaci supervojak sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techn
 
 
 KRONIKA SVETA ACHILLES (Project Bible)
-Autor: Braño Žáner: Sci-Fi / Techno-Fantasy / Post-Apo Logline: Spiaci supervojak sa prebúdza po 3000 rokoch na planéte, kde sa technológia stala mágiou a jeho mŕtva láska bohyňou.
+Autor: Braño Žáner: Sci-Fi / Techno-Fantasy / Post-Apo Logline: Spiaci supervojak sa prebúdza po 3000 rokoch na planéte, kde sa technológia stala Spirou a jeho mŕtva láska bohyňou.
 
 I. ČASOVÁ OS A HISTÓRIA
 1. Éra Zeme (Rok 2200 - 2350)
@@ -195,7 +195,7 @@ Koniec návštev: Inetis je vyhnaná z ostrova agresívnou AI. Utiahne sa do jas
 
 Vznik kultu: Ľudia si vysvetľujú jej zmiznutie ako trest. Vzniká Kult Matky Spasiteľky.
 
-Súčasný stav (Rok 2300+): Pevnina je v pre-industriálnej ére (ako 19. storočie + mágia). "Mágia" sú v skutočnosti zdedené, pasívne nanodrony v krvi niektorých jedincov.
+Súčasný stav (Rok 2300+): Pevnina je v pre-industriálnej ére (ako 19. storočie + Spira). "Spira" sú v skutočnosti zdedené, pasívne nanodrony v krvi niektorých jedincov.
 
 II. POSTAVY
 Hlavní Hrdinovia
@@ -248,19 +248,19 @@ Línia A (Minulosť - Zem): Max a Inetis na Zemi, vojna, ich láska a ideologick
 
 Línia B (Minulosť - Achilles): Inetis buduje utópiu, vznik nákazy, jej osamelý boj a smrť.
 
-Funkcia: Vysvetľuje "Prečo". Prečo Max spal, prečo vznikla mágia, prečo Inetis zomrela.
+Funkcia: Vysvetľuje "Prečo". Prečo Max spal, prečo vznikla Spira, prečo Inetis zomrela.
 
 Kniha 3: Dedičstvo (The Legacy)
 Dej: Nanodrony z tela Inetis prechádzajú na Tami ("posadnutie"). Max ju lieči/trénuje.
 
 Hrozba: Stará AI z ostrova sa prebúdza a mobilizuje armádu mŕtvych kolonistov.
 
-Finále: Zjednotenie planéty. Ľudia s "mágiou" vs. AI armáda.
+Finále: Zjednotenie planéty. Ľudia so Spirou vs. AI armáda.
 
 Záver: Max a Tami odmietajú božstvo, stávajú sa tichými strážcami sveta.
 
 IV. ENCYKLOPÉDIA SVETA (Lore Database)
-Technológia vs. Mágia
+Technológia vs. Spira
 Nanodrony (The Dust): Pre miestnych neviditeľná "mana".
 
 Kúzlenie: Mentálne príkazy (často skomolené staré heslá), ktoré aktivujú drony v krvi.
@@ -284,7 +284,7 @@ Nemŕtvi (Hollows): Kostry kolonistov poháňané dronmi.
 Čo môžem urobiť ďalej?
 Ak si tento súbor uložíš, môžeme začať robiť "Micro-Worldbuilding". Môžeš mi napríklad povedať: "Gemini, na základe Bibliotéky vygeneruj 3 návrhy na náboženské rituály Kultu Matky, ktoré sú v skutočnosti skomolené procedúry údržby serverov."
 
-Chceš, aby som ti teraz pomohol s nejakým konkrétnym detailom do tej encyklopédie? Napríklad systém "mágie" alebo politická mapa?
+Chceš, aby som ti teraz pomohol s nejakým konkrétnym detailom do tej encyklopédie? Napríklad systém Spiry alebo politická mapa?
 
 
 
@@ -295,15 +295,15 @@ Chceš, aby som ti teraz pomohol s nejakým konkrétnym detailom do tej encyklop
 
 
 PROJECT BIBLE: HVIEZDA Z POPOLA (Sága Pentagramu)
-Autor: Braño Formát: Pentalógia (5 kníh) Žáner: Sci-Fi / Techno-Fantasy / Post-Apo / Space Opera High Concept: "Spiaci generál sa prebudí do sveta, kde je veda mágiou, jeho mŕtva žena bohyňou a jeho dcéra, ktorú nikdy nevidel, hlavným zloduchom."
+Autor: Braño Formát: Pentalógia (5 kníh) Žáner: Sci-Fi / Techno-Fantasy / Post-Apo / Space Opera High Concept: "Spiaci generál sa prebudí do sveta, kde je veda Spirou, jeho mŕtva žena bohyňou a jeho dcéra, ktorú nikdy nevidel, hlavným zloduchom."
 
 I. SVET A PRAVIDLÁ (WORLD BUILDING)
-1. Podstata "Mágie" (Clarkeov Zákon)
+1. Podstata Spiry (Clarkeov Zákon)
 Svet funguje na prísne technologickom základe, ktorý civilizácia zabudla a mytologizovala.
 
 Nanodrony (The Dust/Mana): Mikroskopické stroje prítomné v atmosfére a v krvi ľudí. Pôvodne slúžili na medicínu a konštrukciu.
 
-Mágia (Cast): Schopnosť určitých jedincov (potomkovia s vysokou koncentráciou nanodronov) mentálne aktivovať príkazy pre drony.
+Spira (Cast): Schopnosť určitých jedincov (potomkovia s vysokou koncentráciou nanodronov) mentálne aktivovať príkazy pre drony.
 
 Blesk/Oheň: Preťaženie nanodronov a uvoľnenie energie.
 
@@ -388,7 +388,7 @@ Premena: Pri kontakte s telom Inetis na ňu preskočia "hladné" nanodrony mŕtv
 Symptómy: Max si myslí, že umiera na chorobu z ožiarenia. V skutočnosti ju drony "vylepšujú" (menia DNA, opravujú orgány). Získava spomienky Inetis, čo vytvára zvláštny milostný trojuholník (Max miluje Tami, ale vidí v nej Inetis).
 
 2. Antagonisti (THE ARCH-ANGELS)
-Štyria pôvodní generáli/správcovia, ktorí zradili Inetis alebo podľahli šialenstvu. Prežívajú vďaka "Techno-Vampirizmu" – požierajú ľudí s mágiou, aby si doplnili degradujúce nanodrony.
+Štyria pôvodní generáli/správcovia, ktorí zradili Inetis alebo podľahli šialenstvu. Prežívajú vďaka "Techno-Vampirizmu" – požierajú ľudí so Spirou, aby si doplnili degradujúce nanodrony.
 
 I. samaell (Archanjel Tieňov)
 
@@ -525,12 +525,12 @@ Zakaždým, keď Max použije svoje schopnosti (super silu, hackovanie, liečeni
 
 Nie je to nezraniteľný hrdina. Je to chodiaca časovaná bomba. Každý boj ho fyzicky devastuje. Musí si vyberať, kedy "zapne maXpowa mód", pretože vie, že si tým skracuje život o roky.
 
-Jeho "Palica" (Aegis Spike) nie je len zbraň, ale aj externá batéria/regulátor, ktorý ho drží nažive. Ak mu ju Elenia vezme, nezoberie mu len moc, ale pomaly ho zabíja.
+Jeho "Palica" (Anténa) je obyčajná komunikačná anténa z lode NULL VOID, ktorá ovláda goo roje Wraithov. Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
 
 Prečo je to lepšie: Vytvára to okamžité napätie. Max nie je OP (overpowered). Je zúfalý a jeho moc má obrovskú cenu.
 
-2. ZMENA "MÁGIE": Nie "Kúzla", ale "Body Horror a Závislosť"
-Súčasné klišé (Techno-mágia): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
+2. ZMENA SPIRY: Nie "Kúzla", ale "Body Horror a Závislosť"
+Súčasné klišé (Techno-Spira): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
 
 Navrhovaná zmena: Používanie nanodronov je hnusné a bolestivé.
 
@@ -544,7 +544,7 @@ Byť "mágom" znamená byť zjazvený, chudý a neustále na pokraji fyzického 
 
 Závislosť: Títo ľudia sú závislí na dopĺňaní "Prachu". Archanjeli nelovia ľudí pre "energiu", ale doslova im vysávajú krv (nanodrony), aby nahradili tie, ktoré minuli na udržanie svojej moci. Sú to techno-upíri.
 
-Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Mágia" je tu choroba a závislosť, nie dar.
+Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Spira" je tu choroba a závislosť, nie dar.
 
 3. ZMENA KONFLIKTU: Elenia má pravdu (Čiastočne)
 Súčasné klišé (Zlý zloduch): Elenia je zlá dcéra, ktorá chce zničiť svet a nahrať ľudí do VR, pretože je šialená/traumatizovaná. Max bojuje za "správnu vec".
@@ -570,7 +570,7 @@ Ak aplikujeme tieto zmeny:
 
 Max je chodiaca mŕtvola, ktorú zabíja vlastná moc.
 
-Svet je miesto, kde "mágia" znamená rezať si žily a kradnúť krv iným.
+Svet je miesto, kde "Spira" znamená rezať si žily a kradnúť krv iným.
 
 Zloduch sa snaží zachrániť ľudstvo pred istým vyhynutím tým najhorším možným spôsobom, zatiaľ čo hrdina bojuje za sentimentálnu ilúziu.
 
@@ -590,12 +590,12 @@ Zakaždým, keď Max použije svoje schopnosti (super silu, hackovanie, liečeni
 
 Nie je to nezraniteľný hrdina. Je to chodiaca časovaná bomba. Každý boj ho fyzicky devastuje. Musí si vyberať, kedy "zapne maXpowa mód", pretože vie, že si tým skracuje život o roky.
 
-Jeho "Palica" (Aegis Spike) nie je len zbraň, ale aj externá batéria/regulátor, ktorý ho drží nažive. Ak mu ju Elenia vezme, nezoberie mu len moc, ale pomaly ho zabíja.
+Jeho "Palica" (Anténa) je obyčajná komunikačná anténa z lode NULL VOID, ktorá ovláda goo roje Wraithov. Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
 
 Prečo je to lepšie: Vytvára to okamžité napätie. Max nie je OP (overpowered). Je zúfalý a jeho moc má obrovskú cenu.
 
-2. ZMENA "MÁGIE": Nie "Kúzla", ale "Body Horror a Závislosť"
-Súčasné klišé (Techno-mágia): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
+2. ZMENA SPIRY: Nie "Kúzla", ale "Body Horror a Závislosť"
+Súčasné klišé (Techno-Spira): Potomkovia používajú nanodrony v krvi na vrhanie bleskov a vytváranie štítov ako v klasickej fantasy hre.
 
 Navrhovaná zmena: Používanie nanodronov je hnusné a bolestivé.
 
@@ -609,7 +609,7 @@ Byť "mágom" znamená byť zjazvený, chudý a neustále na pokraji fyzického 
 
 Závislosť: Títo ľudia sú závislí na dopĺňaní "Prachu". Archanjeli nelovia ľudí pre "energiu", ale doslova im vysávajú krv (nanodrony), aby nahradili tie, ktoré minuli na udržanie svojej moci. Sú to techno-upíri.
 
-Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Mágia" je tu choroba a závislosť, nie dar.
+Prečo je to lepšie: Zbavuje to svet "čistoty" high fantasy. "Spira" je tu choroba a závislosť, nie dar.
 
 3. ZMENA KONFLIKTU: Elenia má pravdu (Čiastočne)
 Súčasné klišé (Zlý zloduch): Elenia je zlá dcéra, ktorá chce zničiť svet a nahrať ľudí do VR, pretože je šialená/traumatizovaná. Max bojuje za "správnu vec".
@@ -635,7 +635,7 @@ Ak aplikujeme tieto zmeny:
 
 Max je chodiaca mŕtvola, ktorú zabíja vlastná moc.
 
-Svet je miesto, kde "mágia" znamená rezať si žily a kradnúť krv iným.
+Svet je miesto, kde "Spira" znamená rezať si žily a kradnúť krv iným.
 
 Zloduch sa snaží zachrániť ľudstvo pred istým vyhynutím tým najhorším možným spôsobom, zatiaľ čo hrdina bojuje za sentimentálnu ilúziu.
 

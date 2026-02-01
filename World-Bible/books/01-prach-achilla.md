@@ -37,9 +37,9 @@
 *   **The Lore**: Kito odhaľuje, že to bola žena, nie bohyňa.
 *   **The Ambush**: Grawskí Paladíni prerazia bránu. Sú v pasci.
 
-### Kapitola 5: Krvavá Mágia (The Ritual)
+### Kapitola 5: Krvavý Rituál (The Ritual)
 **Súbor:** `drafts/chapter-5-draft.md`
-*   **The Choice**: Max nemá muníciu, len Anténu (Aegis Spike).
+*   **The Choice**: Max nemá muníciu, len Anténu.
 *   **The Ritual**: Aktivácia krvou. Viscerálny popis (šok, bolesť, nano-swarm).
 *   **Flashback 2**: Max vs Samaell (AY 3001) - spomienka počas rituálu.
 *   **The Effect**: Anténa sa aktivuje. Override systémov.

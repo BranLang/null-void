@@ -19,7 +19,7 @@ Nevytvárajú len blesky. Vedia manipulovať s hustotou vzduchu, vytvárať vák
 Oproti Maxovej priamočiarej sile pôsobia ich schopnosti ako skutočná, temná Spira.
 
 II. UPDATED MECHANIKA: PALICA (The Breach Spike)
-Signálové pole (Štít/Neviditeľnosť): Keď Max aktivuje magnetické pole, stáva sa neviditeľným pre senzory a imúnnym voči "mágii".
+Signálové pole (Štít/Neviditeľnosť): Keď Max aktivuje magnetické pole, stáva sa neviditeľným pre senzory a imúnnym voči Spire.
 
 KĽÚČOVÝ LIMIT: Toto pole odrezáva aj Maxa od jeho vlastných nanodronov.
 

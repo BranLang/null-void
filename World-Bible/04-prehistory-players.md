@@ -202,7 +202,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
   - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná pragmatickými vedcami ako poistka civilizácie.
-  - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
+  - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maxov kryobox** (minimálna konfigurácia) a **Anténa** (glitch, odmietla rekonfiguráciu). Kryobox sa po prebudení rozpadol na prach.
 
 ---
 
@@ -250,7 +250,7 @@ Názov planéty je najväčším cynickým odkazom v histórii ľudstva.
 
 ## Elenina tragédia
 
-Elenia sa narodila už v „novej realite", na lodi null void. **Nikdy nezažila hru Achilles.**
+Elenia sa narodila na planéte Achilles, v jaskyni vyhĺbenej z nanodronov lode NULL VOID. **Nikdy nezažila hru Achilles.**
 
 - Vyrastala na legendách o „Hráčoch" a ich moci
 - Cítila sa menejcenná, pretože ona bola len „biologická"

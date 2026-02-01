@@ -138,6 +138,13 @@ Pre Varietas je Spira mystická sila, ale v skutočnosti funguje ako programovan
 - **Konfigurácia (Viera/Tréning)**: Aby Spira fungovala, musí si každý jedinec "napísať vlastný kód". Viera v Matku slúži ako syntax, ktorá dáva príkazom formu.
 - **Rodinné Tajomstvá (Deddičnosť)**: Skripty a "spelly" sa dedia v rodinách. Otec učí syna, ako ohýbať oheň presne tak, ako to robil jeho otec.
 - **Knižnice Cirkvi**: Najefektívnejšie a najbezpečnejšie skripty vlastní Cirkev Vsevedúcej Matky. Len elita má prístup k týmto "optimalizovaným algoritmom". Niektoré základné modlitby (príkazy) sú "Open Source", ale experimentovanie s vlastným kódom je považované za kacírstvo a je extrémne nebezpečné (riziko Glitch Rot).
+- **Heretické Nápisy (Open Source Spira)**: Po svete sú rozmiestnené nápisy vytesané do kameňa alebo vyryté do dreva — dielo **dávnych heretikov** z čias, keď Inetis ešte osobne učila mocné skripty. Tieto skripty boli pôvodne voľne dostupné, ale Cirkev ich postupne zregulovala, zakázala a vyhlásila za nebezpečné. Heretici — tí, čo si ich pamätali — ich vytesali do kameňa a dreva, aby prežili. Dnes sú zabudnuté a zakázané. Cirkev nápisy aktívne ničí, ale v odľahlých oblastiach stále prežívajú. Nálezca takéhoto "zaklínadla" získa nový, mocný skript pre svoje IDE. Vzácne exempláre sú predmetom hľadania pokladov — a Inkvizície.
+
+### Gen 1 vs. Varietas — Dva Jazyky Spiry
+Kontrast medzi generáciami nanotechnológie definuje celý svet:
+- **Gen 1 (Max/Ľudia)**: Vojenská nanotechnológia ovládaná priamo — anglické Linux príkazy, CLI rozhranie, surové dátové streamy. Keď Max vydá príkaz svojim dronom, znie to ako nezrozumiteľná modlitba v cudzom jazyku. Pre Varietas sú jeho slová *mimozemskou inkantáciou* — desivou a mocnou.
+- **Varietas (Haiku Syntax)**: Inetis zamaskovala kód Spiry do japonských Haiku. Modlitby k Matke sú v skutočnosti makrá a skripty — rytmické, poetické príkazy, ktoré aktivujú nanoboty. Varietas odrieka Haiku, aby vyvolal "kúzlo". Cirkev učí, že poézia je jazyk Matky. Pravda je, že je to programovací jazyk.
+- **Prečo to funguje**: Gen 1 nanotech reaguje na anglické CLI príkazy (Staroreč). Varietas nanotech (navrhnutý Inetis) reaguje na Haiku syntax. Oba systémy sú programovanie — len iným jazykom. Keď sa Max a Varietas stretnú v boji, vyzerá to ako stret dvoch úplne odlišných "škôl" — ako keby jeden čaroval po latinsky a druhý po japonsky.
 
 ### WaSpira (Vojnová Spira)
 Militantná aplikácia Spiry, zameraná na deštrukciu a boj.
@@ -145,8 +152,14 @@ Militantná aplikácia Spiry, zameraná na deštrukciu a boj.
 - **Užívatelia**: Žoldnieri a Paladinovia. Títo bojovníci majú na tele zložité tetovania (schémy obvodov), ktoré slúžia ako externé makrá pre rýchle vyvolanie útočných spellov.
 - **Paladinovia Antény**: Elitná garda, ktorá stráži relikviu v Shoraven, nepochádza z Nevriss. Boli "povolaní" z východu, aby chránili to, čo miestni kňazi nedokážu ovládať.
 
+### Osvietení vs. Veriaci
+Dva fundamentálne prístupy k Spire definujú svet:
+- **Veriaci Varietas**: Sú presvedčení, že len silná viera v Matku umožňuje ovládať Spiru. A majú čiastočne pravdu — Inetis navrhla IDE systém tak, že „syntax" Spiry vyžaduje mentálnu disciplínu a rituály, ktoré náboženstvo prirodzene poskytuje.
+- **Osvietení (Ľudia/Max)**: Pôvodní ľudia vidia náboženstvo ako psychologickú zbraň hromadného ovládania. Max chápe Spiru ako čistú technológiu a učí Tami rovnaký prístup.
+- **Tami (Výnimka)**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu vedeckému mentoringu dokáže využívať Spiru na 200% — nie je zviazaná dogmou Cirkvi, experimentuje slobodne. Pre Cirkev je kacírka.
+
 ### Používanie v reči
-- *„Má silnú Sp'iru"* = má veľa nanobotov v krvi (mocný Krotiteľ)
+- *„Má silnú Spiru"* = má veľa nanobotov v krvi (mocný Krotiteľ)
 - *„Jeho Spira je čistá"* = čistokrvný s vysokou koncentráciou
 - *„Spira v ňom tíchne"* = stráca silu / umiera
 - *„Bez Spiry"* = nízka kasta, žiadna Spira
@@ -262,7 +275,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 | **Gilda Aeronautov** | Vzducholode, navigácia | Mezra |
 | **Gilda Hodinárov** | Presná mechanika, Tichá Technológia | Mezra + Maki |
 
-- **Členstvo**: Vyžaduje skúšku, učňovské obdobie a poplatok. Ghorki sa môžu stať členmi Gildy Kupcov (nevyžaduje Sp'iru), ale v ostatných gildách sú zriedkavosťou.
+- **Členstvo**: Vyžaduje skúšku, učňovské obdobie a poplatok. Ghorki sa môžu stať členmi Gildy Kupcov (nevyžaduje Spiru), ale v ostatných gildách sú zriedkavosťou.
 - **Politická moc**: Gildmajstri zasadajú v Obchodnej rade mesta — paralelná moc vedľa Cirkvi. Cirkev vládne duchom, gildy peňaziam.
 - **Vojnový stav**: V čase vojny gildy zásobujú armádu a dostávajú špeciálne zmluvy. Gilda Kováčov je v čase obliehania najbohatšia organizácia v meste.
 
@@ -343,9 +356,11 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Vzťah s Nevriss:** Beladiss považuje Nevriss za "mäkký" a heretický, pretože dovolil mužom vládnuť v gildách.
 
 **Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytá **Anténa** — v očiach veriacich najsvätejšia relikvia ("Svätá Anténa" alebo "Žezlo Matky").
-> **Realita:** Je to obyčajná komunikačná anténa z lode NULL VOID (trieda *Hephaestus*). Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy - údržbárske nanoboty) pomocou sub-priestorových frekvencií. Nie je to zbraň. Je to diaľkový ovládač. Ale v kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte.
+> **Realita:** Je to obyčajná komunikačná anténa z lode NULL VOID (trieda *Hephaestus*). Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy - údržbárske nanoboty) pomocou sub-priestorových frekvencií. Teoreticky dokáže aj prijímať signály zo Zeme. Nie je to zbraň. Je to diaľkový ovládač. Ale v kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte.
 >
-> **Maxov Interface:** Max (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je mágia. Je to hardvér.
+> **Maxov Interface:** Max (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
+>
+> **NULL VOID:** Loď je vykuchaná a zamrznutá v ľadovci, ale teoreticky schopná letu.
 
 ### Kult Nesmrteľného Groma (Sever - Graw)
 

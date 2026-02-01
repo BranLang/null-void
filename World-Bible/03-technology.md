@@ -51,6 +51,19 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 - **Homo Sapiens Sapiens:** Majú nanotech v krvi od narodenia (najsilnejší potenciál, využíva "Prach" v atmosfére).
 - **Homo Sapiens Varietas (Varietas):** Využívajú **"Dar Matky"** — špeciálne nanodrony navrhnuté Inetis pre ich biológiu. Ich Spira je intuitívnejšia (liečenie, ovládanie zmyslov).
 
+### Dva Jazyky Spiry (Command Interface)
+
+| | **Gen 1 (Ľudia/Max)** | **Gen 2 / Spira (Varietas)** |
+|---|---|---|
+| **Syntax** | Anglické CLI príkazy (Staroreč) | Haiku — japonská poézia |
+| **Príklad** | `sudo nanoswarm --target hostile --mode suppress` | *„Matkin dych tíchne / oceľ plače v temnote / krv volá domov"* |
+| **Vnímanie druhou stranou** | Pre Varietas = desivá mimozemská inkantácia | Pre Maxa = poetická modlitba primitívov |
+| **Prečo práve tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archanjeli nedokázali rozlúštiť |
+| **Učenie** | Manuály, technické školenie | Modlitby, rukopisy, kamenné nápisy |
+
+- **Heretické Nápisy (Open Source Spira)**: Varietas sa môžu naučiť nové "kúzla" z kamenných/drevených nápisov rozmiestnených po svete. Tieto nápisy zanechali **dávni heretici** z čias, keď Inetis ešte osobne učila mocné skripty. Cirkev ich neskôr zregulovala a zakázala — heretici, ktorí si ich pamätali, ich vytesali do kameňa a dreva, aby prežili. Dnes sú zabudnuté. Cirkev nápisy aktívne ničí, ale v odľahlých oblastiach stále prežívajú. Vzácne exempláre sú predmetom hľadania pokladov — a Inkvizície.
+- **Prečo Haiku?**: Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archanjeli (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maxa je to dôkaz geniality Inetis.
+
 ### Pôvod Daru Matky
 - **Vývoj**: Počas Éry Temnoty (AY ~500-650) Inetis vytvorila malú simuláciu s pomocou inžinierov z ARK lodí
   - Menšia ako pôvodný Achilles na Zemi (obmedzené zdroje)
@@ -72,7 +85,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 | Verzia | Užívateľ | Popis |
 |---|---|---|
 | **v1.0 (Legacy)** | **Ex Inferis** (Archanjeli) | Pôvodné civilné nanoboty zo Zeme. Robustné, silné, ale mentálne nestabilné (strata emócií). Nedokážu sa rozmnožovať ani ukladať do kryštálov. Vyžadujú "kanibalizmus" na údržbu. |
-| **v1.5 (Mil-Spec)** | **Maximilián** | Vojenský prototyp. Zameraný na deštrukciu a hackovanie. Silnejší než v1.0, ale stále bez regenerácie a reprodukcie. |
+| **v1.5 (Mil-Spec)** | **Maximilián** | Vojenský prototyp. Zameraný na deštrukciu a hackovanie. Silnejší než v1.0, ale stále bez regenerácie a reprodukcie. **Loď NULL VOID bola postavená z v1.5 nanodronov.** |
 | **v1.7 (God-Tier)** | **Elenia, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elenia). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
@@ -181,8 +194,9 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 |---|---|
 | **Pasažieri** | Inetis, Maximilián |
 | **Cesta** | 3 roky (nadsvetelný pohon) |
-| **Osud** | Pristátie na neteraformovanej planéte |
+| **Osud** | Pristátie na neteraformovanej planéte → rekonfigurácia na infraštruktúru |
 | **Technológia** | Odvodená od Tieňových |
+| **Konštrukcia** | **100% nanodronová** — celá loď bola postavená z nanodronov |
 
 #### Prečo "Null Void"?
 Loď získala meno podľa princípu pohonu:
@@ -190,6 +204,30 @@ Loď získala meno podľa princípu pohonu:
 - **Dimenziálny preskok**: Pri nulovej hmotnosti loď "prepadne" do vyššej (tieňovej) dimenzie
 - **FTL**: V tieňovej dimenzii sa pohybuje rýchlejšie ako svetlo
 - **Pôvod**: Princíp pochádza od Tieňových, len i_net_is mu rozumela
+
+#### Nanodronová konštrukcia
+NULL VOID nebola konvenčná loď z kovu a plastov. Bola **100% postavená z nanodronov** — bilióny nanobotov konfigurovaných do pevnej štruktúry: trup, motory, životné systémy, kryomoduly — všetko bolo z nanodronov v rôznych konfiguráciách.
+
+- **Rekonfigurovateľnosť**: Celá loď sa dala rozložiť a prestavať na čokoľvek — stroje, nástroje, laboratóriá, stavebné zariadenia
+- **Po pristátí**: Inetis rekonfigurovala loď na stroje, ktoré vyhĺbili jaskyňu, upravili okolie, vytvorili laboratórium a hydroponické farmy. Nanodrony sa dali nakonfigurovať na čokoľvek — **okrem jedla** (nedokázali replikovať organickú biomasu priamo, len vybudovať systémy na jej pestovanie)
+- **Glitchnutá Anténa**: Jediná vec, ktorá z lode zostala v pôvodnom stave, bola **komunikačná Anténa** — glitchla sa a odmietla rekonfiguráciu. Inetis ju nemohla rozložiť ani prestaviť
+- **Maxov kryobox**: V jaskyni ostal len jeden kryobox — Maxov — v minimálnej konfigurácii. Bol to nanodronový modul, ktorý udržiaval Maxa v kryostáze ~3000 rokov. Po Maxovom prebudení sa kryobox **rozpadol na prach** (nanodronová konštrukcia sa spontánne rozložila). Anténa tak ostala **jedinou fyzickou pozostalosťou** lode NULL VOID
+- **Opätovná rekonfigurácia na loď**: Po ~30 rokoch v jaskyni Inetis nanodronov prekonfigurovala naspäť na loď NULL VOID a s malou Eleniou sa vydala na cestu okolo planéty — hľadali vhodnejšie miesto pre budúcich kolonistov. Našli ostrovy **Elysium** (budúce Ynetis)
+- **Foundry (Továreň)**: Na Elysiu Inetis loď NULL VOID (v1.5 gen nanodrony) prekonfigurovala na **Foundry** — továreň, ktorá vyrábala nanodrony **nižšej úrovne (v1.0)**. Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium/Ynetis — budovy, infraštruktúra, životné systémy
+- **Foundry → The Core**: Keď vypukla epidémia **Glitch Rot** (~AY 300-500), Inetis rekonfigurovala Foundry na **The Core** — novú simuláciu, v ktorej vyvíjala bezpečnejšie nanoboty v2.0 (Spira/Dar Matky). Core bola menšia simulácia než pôvodný Achilles na Zemi, ale stačila na ~100 simulovaných rokov vývoja
+
+#### Reťaz transformácií NULL VOID
+```
+NULL VOID (loď, v1.5)
+  → Stroje v jaskyni (vyhĺbenie, hydroponika, ~30 rokov)
+  │   [v jaskyni zostali: Maxov kryobox (minimálna konfigurácia) + Anténa (glitch)]
+    → NULL VOID (loď, cesta na Elysium)
+      → FOUNDRY (továreň, výroba v1.0 nanodronov → stavba mesta)
+        → THE CORE (simulácia, vývoj v2.0 / Dar Matky)
+
+  Po Maxovom prebudení (~AY 3000): kryobox → prach
+  Jediná fyzická pozostalosť: ANTÉNA
+```
 
 #### Prečo jediný exemplár?
 - **Tieňová technológia**: Nikto okrem i_net_is nedokázal ovládať tento princíp

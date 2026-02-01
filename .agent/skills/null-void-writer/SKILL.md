@@ -94,7 +94,7 @@ Každá postava musí konať podľa:
 ```
 ❌ "Tami bola smutná kvôli Maxovi."
 ❌ "Max bol silný bojovník."
-❌ "Aegis Spike bola mocná zbraň."
+❌ "Anténa bola mocná zbraň."
 ```
  
 **SPRÁVNE**:
@@ -106,7 +106,7 @@ Každá postava musí konať podľa:
    dvoch vojen nemusel rozmýšľať. Jeho telo reagovalo
    prv, než mozog stihol prikázať."
  
-✅ "Aegis Spike zavibroval. Vzduch okolo Maxa sa zvlnil,
+✅ "Anténa zavibrovala. Vzduch okolo Maxa sa zvlnil,
    nanodrony v jeho krvi sa zrazu odmlčali - ako keby
    niekto vypol rádio uprostred pesničky."
 ```
@@ -171,7 +171,7 @@ Každá postava musí konať podľa:
 - **Rasa**: [Homo Sapiens Sapiens / Varietas (aký poddruh) / Mako]
 - **Kasta**: [Pursang/Mezra/Ghorki - ak Varietas]
 - **Povolanie**:
-- **Sp'ira**: [Úroveň a typ mágie]
+- **Spira**: [Úroveň a typ schopností]
  
 ## Psychológia
 - **Motivácia**: Čo chce?
@@ -235,7 +235,7 @@ Každá postava musí konať podľa:
  
 ### Sci-Fi elementy (Hard sci-fi pravidlá):
 - **Nanodrony**: Vždy vysvetlite LIMIT (energia, materiál, príkazy)
-- **Aegis Field**: Pripomeňte CENU (odpojenie od vlastných dronov)
+- **Anténa**: Obyčajná komunikačná anténa z NULL VOID — ovláda goo roje Wraithov
 - **FTL**: Null Void tech funguje LEN cez nulovú hmotnosť (Tieňoví)
 - **Kryostáza**: Vedľajšie účinky (kryo-slepota, amnézia)
  
@@ -258,8 +258,8 @@ Každá postava musí konať podľa:
 **PRAVIDLÁ**:
 - Každé použitie = CENA (únava, materiál, riziko)
 - Silnejší efekt = vyššia cena
-- "Mágia" JE nanotechnológia → musí mať logiku
-- Glitch Rot = keď mágia stratí kontrolu
+- "Spira" JE nanotechnológia → musí mať logiku
+- Glitch Rot = keď Spira stratí kontrolu
  
 **PRÍKLAD SPRÁVNEHO POUŽITIA**:
 ```
@@ -318,7 +318,7 @@ Každá postava musí konať podľa:
  
 5. **Akčné tagy vs. dialogue tags**:
    ```
-   ✅ "Nerozumieš." Max stisol Aegis Spike.
+   ✅ "Nerozumieš." Max stisol Anténu.
    ❌ "Nerozumieš," povedal Max nahnevane.
    ```
  
@@ -366,7 +366,7 @@ Každá postava musí konať podľa:
  
 1. **Chekhov's Gun**
    ```
-   Kniha 1: "Max si všimol škrabnutie na Aegis Spike."
+   Kniha 1: "Max si všimol škrabnutie na Anténe."
    Kniha 3: [Odhalí sa, že Inetis tam nechala správu]
    ```
  
@@ -399,7 +399,7 @@ Každá postava musí konať podľa:
 1. **Opening move** - Kto útočí prvý a prečo
 2. **Response** - Reakcia, taktika
 3. **Reversal** - Zmena taktiky/prekvapenie
-4. **Escalation** - Eskalácia (zbrane, mágia, zúfalstvo)
+4. **Escalation** - Eskalácia (zbrane, Spira, zúfalstvo)
 5. **Climax** - Rozhodujúci moment
 6. **Resolution** - Výsledok
  
@@ -426,7 +426,7 @@ Každá postava musí konať podľa:
 1. **Nano-combat** (Max, Elenia, Archanjeli):
    - FPV drony ako zbrane
    - Hackovanie nepriateľských dronov
-   - Aegis Field (anti-magic)
+   - Anténa (ovládanie Wraithov)
    - Technovampirizmus (vysávanie nano)
  
 2. **Sword & Gun** (Tami, piráti):
@@ -441,7 +441,7 @@ Každá postava musí konať podľa:
  
 4. **Bestial fury** (Varietas berserkers):
    - Inštinkty vs. taktika
-   - Fyzická sila vs. Sp'ira
+   - Fyzická sila vs. Spira
  
 ---
  
@@ -571,7 +571,7 @@ Max sa zarazil. Vodík. Samozrejme."
    - Stratený svet (Zem)
  
 5. **Wonder** (úžas)
-   - Technológia ako mágia
+   - Technológia ako Spira
    - Krása planéty Achilles
    - Ruins of old world
  
@@ -721,8 +721,8 @@ Max sa zarazil. Vodík. Samozrejme."
  
 ### Tech limitations:
 - Nanodrony: Potrebujú materiál + energiu
-- Aegis Field: Odpája vlastné drony
-- Mágia: Vždy má cenu (únava/materiál)
+- Anténa: Obyčajná anténa z NULL VOID, ovláda goo roje Wraithov
+- Spira: Vždy má cenu (únava/materiál)
 - Električka: Priťahuje Wraithov
 - Kryostáza: Vedľajšie účinky
  

@@ -152,16 +152,24 @@ Varietas delia históriu nábožensky:
 
 ### EY 2300 + 3 roky — Príchod NULL VOID
 - Max a Inetis pristávajú na **neteraformovanej** planéte Achilles.
-- **NULL VOID**: Loď využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
-- **Kritický nedostatok zásob:** Ak by zostali bdelí obaja, zdroje by nestačili a nikto by neprežil.
+- **NULL VOID**: Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
 - **Šok z tehotenstva:** Inetis zistí, že čaká dcéru Eleniu. Kryospánok by dieťa zabil.
-- **Klamstvo pre záchranu:** Inetis oklamala Maxa (ktorý si myslel, že idú spať spolu). Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele, no experiment zlyhal.
-- **Maxovo uväznenie:** Uložený do kryospánku kvôli zásobám, ale aj zo strachu z jeho vojenských ambícií (poraziť mimozemšťanov) a reakcie na jej činy.
+- **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID (nanodronová rekonfigurácia, hydroponika). V skutočnosti loď dokázala zabezpečiť prežitie.
+- **Skutočný dôvod:** Inetis ho chcela držať bokom, kým si premyslí, čo bude ďalej — bála sa jeho vojenských ambícií (poraziť mimozemšťanov), jeho nepredvídateľnosti a reakcie na jej rozhodnutia. **Nikdy to nedomyslela** — pôvodných 300 rokov kryospánku sa natiahlo na 3000.
+- **Pokus o genetickú modifikáciu:** Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele (mohli by spať obaja), no experiment zlyhal.
+- **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy, upravili okolie. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a **Anténa** (glitchla sa, odmietla rekonfiguráciu). Kryobox sa po Maxovom prebudení (~AY 3000) rozpadol na prach.
 
-### Nasledujúcich ~300 rokov
-- **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenaučila replikovať biomasu a vybudovať hydroponiku.
-- **300-ročné detstvo:** Elenia vyrastá v izolácii jaskyne. Kvôli neúspešnej genetickej modifikácii rastie extrémne pomaly.
+### Nasledujúcich ~30 rokov v jaskyni
+- **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenakonfigurovala na hydroponické systémy.
+- **Eleniino pomalé detstvo:** Elenia sa narodí, ale kvôli neúspešnej genetickej modifikácii rastie extrémne pomaly.
 - **Pentagram UI:** Inetis učí Eleniu ovládať nanity cez elementárne rozhranie (hmota, energia, čas, priestor, vedomie).
+
+### Po ~30 rokoch — Cesta na Elysium
+- **Opätovná rekonfigurácia:** Inetis prekonfiguruje nanodronov naspäť na loď NULL VOID.
+- **Prieskumná cesta:** S malou Eleniou sa vydá na cestu okolo planéty — hľadá vhodnejšie miesto pre budúcich kolonistov.
+- **Objav Elysia:** Nájdu ostrovy pri rovníku — **Elysium** (budúce Ynetis). Najteplejšie, najúrodnejšie miesto na planéte. Ideálne na kolonizáciu.
+- **Foundry (Továreň):** Na Elysiu Inetis prekonfiguruje loď NULL VOID (v1.5) na **Foundry** — továreň vyrábajúcu nanodrony nižšej úrovne (v1.0). Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium.
+- **Zvyšok ~270 rokov:** Elenia pokračuje v extrémne pomalom raste. Inetis buduje mesto, učí dcéru a čaká na príchod kolonistov.
 
 ---
 
@@ -179,7 +187,8 @@ Varietas delia históriu nábožensky:
 ## AY 0 – 300: Zlatý vek
 
 ### Založenie mesta Elysium (Ynetis)
-- Inetis zakladá mesto **Elysium** (Záhrada Hrdinov).
+- Inetis založila **Elysium** (Záhrada Hrdinov) na ostrovoch pri rovníku, ktoré objavila počas prieskumnej cesty s Eleniou (~30 rokov po pristátí).
+- Keď kolonisti dorazili (AY 0), zázemie už bolo pripravené — Inetis mala ~270 rokov na prípravu.
 - Neskorší názov **Ynetis** vznikol skomolením jej mena (Inetis) po jej zmiznutí.
 - Utópia pomocou nanotechnológií
 - Ľudia vylepšovaní nanodronmi (dlhovekosť, zdravie)
@@ -212,11 +221,11 @@ Varietas delia históriu nábožensky:
 - Varietas na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
 
 ### Inetisina Simulácia (~AY 500-650)
-- **Kríza**: Glitch Rot decimuje elitu, staré nanoboty zo Zeme sú nebezpečné a agresívne
+- **Kríza**: Glitch Rot decimuje elitu, staré nanoboty (v1.0 z Foundry) sú nebezpečné a agresívne
 - **Elenia vedie obranu**: Kým Inetis hľadá riešenie, Elenia vedie zúfalú obranu Ynetis proti Wraithom
-- **Riešenie**: Inetis s pomocou inžinierov z ARK lodí vytvára malú simuláciu
-  - Menšia ako Achilles na Zemi (obmedzené zdroje, ale stačí malé laboratórium)
-  - Účel: vývoj nových, bezpečnejších nanobotov kompatibilných s biológiou Varietas
+- **Foundry → The Core**: Inetis rekonfiguruje **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID) na **The Core** — novú simuláciu
+  - Menšia ako Achilles na Zemi (obmedzené zdroje, ale stačí na výskum)
+  - Účel: vývoj nových, bezpečnejších nanobotov v2.0 (Dar Matky) kompatibilných s biológiou Varietas
   - Čas v simulácii beží rýchlejšie (~100 simulovaných rokov = desaťročia v realite)
 - **Návrat**: Inetis sa vracia a nachádza:
   - Ynetis v ruinách (mesto duchov)
