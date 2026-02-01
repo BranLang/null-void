@@ -30,7 +30,7 @@ timeline
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
     1200 : Smrť pravého Groma : Dynastia podvodníkov začína
     2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
-    2993 : Prebudenie Maximiliána
+    3000 : Prebudenie Maximiliána
     3001 : Duel Samaell vs Max : Smrť Samaella
     3008 : Tami odchádza od Maxa (RP 796)
     3013 : Začiatok hlavného deja (RP 801)
@@ -284,7 +284,7 @@ Varietas delia históriu nábožensky:
 
 ## Časová os hlavného deja
 
-*AY 2993 (RP 781)**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+*AY 3000 (RP 788)**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
     - Pirát Kael aktivuje senzory v zabudnutej jaskyni (Hrobka technológie) svojou krvou.
     - AI obchádza protokol „Tichá Noc“ a spúšťa núdzové prebudenie **EX-INF-003**.
     - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.

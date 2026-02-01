@@ -1,93 +1,89 @@
-# Kapitola 3: Odpad
+# Kapitola 3: Ozveny v Tme
 
-Mesto Shoraven horelo.
-Nebol to ten pomalý, romantický oheň z krbov. Bol to chemický oheň. Grawská artiléria používala fosfor a šrapnely, ktoré trhali drevené budovy Štvrte Mezra ako papier.
+Tunely pod Shoravenom neboli len kanály. Boli to staré žily mesta, ktoré teraz krvácali.
+Voda stúpala. Hladina čiernej, olejovitej tekutiny siahala Maxovi po pás.
+Páchlo to tu starobou a... ozónom.
+Tami išla prvá, držiac nad hlavou chemické svetlo. Jej uši sa neustále otáčali, zachytávali zvuky kvapkajúcej vody, škrípanie potrubia a vzdialené dunenie explózií na povrchu.
+Max istil zadný voj, ruku na puzdre zbrane, aj keď vedel, že tu dole by mu streľba nepomohla. Ak by trafil metánové ložisko, vyleteli by do vzduchu všetci.
 
-Max bežal ulicou s rýchlosťou, ktorá bola na muža jeho váhy nemožná. Na pleci niesol Kita. Archeológ bol stále v katatonickom šoku, tuhý ako doska, oči vytreštené do prázdna, zvierajúc tubus s mapami ako poslednú kotvu reality.
+„Hovorí sa, že tieto tunely pamätajú Eru Temnoty," povedal Kito. Jeho hlas sa v úzkom priestore zvláštne ozýval. Kráčal medzi nimi, držiac si svoj tubus s mapami nad vodou ako relikviu. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch."
 
-„Doprava!" zakričala Tami. Jej rapier bol vytasený, hoci proti dopadajúcim granátom bol zbytočný. Slúžil jej ako balančná tyč, keď preskakovala trosky.
+Max mlčal. Jeho senzory skenovali steny. Videl staré značky. Nie graffiti Cirkvi.
+Technické kódy.
+*Cooling Sector A-12.* *Emergency Vent 4.*
+Boli v základoch niečoho, čo postavila ona. Inetis.
 
-Nad hlavami im preletel tieň. Vzducholoď. *Grawský Dreadnought*. Obrovská, okovaná bestia, ktorá sa vynorila z mrakov a vypustila dážď zápalných bômb na prístav.
+„Ľudia sa neschovávali," povedal Max ticho. „Pracovali tu."
+Kito sa zastavil. „Ako to vieš?"
+„Pretože toto nie sú katakomby, Kito. Sú to parovody. Geotermálna elektráreň." Prešiel rukou po zhrdzavenej stene. „Napájala celé toto prekliate údolie. Kým ju nevypli."
 
-*<Analýza: Trajektória bombardovania. Sektor 4 je stratený. Čas do uzavretia kanálov: 3 minúty.>* Maxov Asistent bol pokojný. Príliš pokojný na to, že svet okolo nich končil.
+Voda začala bublať.
+„Pohyb!" sykla Tami. „Hladina stúpa. Graw musel zasiahnuť prečerpávačku."
+Prúd zosilnel. Už to nebolo brodenie, bol to boj s riekou.
 
-„Tam!" Tami ukázala na nenápadný poklop za ruinami starej garbiarne. Bol prekrytý hrdzavým sudom a hromadou starých handier. Perfektné maskovanie.
+„Max!" Kito zakopol. Prúd ho strhol.
+Max zareagoval inštinktívne. Jeho ruka, poháňaná servami, vystrelila a chytila knihovníka za golier tesne predtým, než ho voda stiahla do sifónu.
+Vytiahol ho späť, mokrého a trasúceho sa.
 
-Max kopol do suda. Odletel s rinčaním, odhaľujúc masívny oceľový kruh s reliéfom Cirkvi — preškrtnutý symbol Matky. *Zákaz vstupu. Nebezpečenstvo nákazy.*
+„Máš ma," povedal Max.
+Kito kašľal vodu. „Vďaka... vďaka." Pozrel sa na Maxa inak. Nie ako na legendu. Ako na človeka.
+„Prečo si sa vrátil?" spýtal sa Kito, keď chytili dych na vyvýšenej plošine. „Mohol si zmiznúť. Nechať nás tak."
 
-„Povedz mi, že máš kľúč," zahučal Max, zatiaľ čo zemou otriasol ďalší výbuch.
+Max sa oprel o stenu. V tme svietili len Tamine oči a jeho HUD.
+„Pretože som sľúbil," povedal Max.
+„Komu? Tej líške?"
+„Nie," Max sa zadíval do tmy. Pred očami mal iný obraz. Slepota. Chlad. A hlas, ktorý ho prosil, aby prežil.
+„Sľúbil som... že to nenechám zhasnúť."
 
-Tami sa uškrnula a vytiahla z opaska sadu pakľúčov. „Mám niečo lepšie. Mám prax."
-Jej prsty kmitali. *Klik. Klak.*
-Ozubené koleso sa pootočilo. Poklop s ťažkým zasyčaním povolil. Vyvalil sa z neho smrad. Nie fekálie. Hniloba. Chemická, sladkastá hniloba mäsa, ktoré sa odmieta rozložiť.
+„Svetlo?"
+„Nie. Pamäť."
 
-„Dnu!" zavelila.
+Tami prišla k nim. „Dojemné. Ale ak sa nepohneme, táto *pamäť* sa utopí v sračkách. Cesta sa rozdvojuje. Ľavá ide pod doky. Pravá pod Chrám."
 
-Max hodil Kita do tmy ako vrece zemiakov a skočil za ním. Tami skočila posledná, a stihla zachytiť poklop zvnútra práve vo chvíli, keď na ulicu dopadol granát.
-*BÁC.*
-Svetlo zmizlo. Zostala len tma, ozvena výbuchu a tichý, šialený smiech Kita, ktorý sa konečne prebral zo šoku do hystérie.
+Max prikývol. „Rozdelíme sa."
+Tami stiahla uši. „Čo?"
+„Ty vezmeš loď. Pripravíš *Makitu*. Budeš náš odvoz."
+„A ty?"
+„Ja a Kito ideme hore. Do Chrámu. Po tú vecičku."
 
-„Sme mŕtvi," chichotal sa archeológ v tme. „Sme mŕtvi. Spáč nás zobral do pekla."
+„To je samovražda, Max. Chrám už pravdepodobne horí."
+„Preto nás nebudú čakať."
+Tami na neho chvíľu hľadela. Potom mu vtisla do ruky svetlo.
+„Ak tam zomrieš," povedala ticho, „tak si ťa nájdem a zabijem ťa znova."
+Otočila sa a zmizla v ľavom tuneli.
 
-Max si nasadil okuliare. Jeho sedem hviezd sa rozžiarilo a premenilo absolútnu tmu na spektrálny obraz.
-Tunely boli obrovské. Staré chladiace systémy z čias pred Príchodom. Steny boli pokryté slizom, ktorý v jeho videní svetielkoval rádioaktívnou zelenou.
+Max a Kito osameli.
+„Tak fajn," povedal Kito a upravil si okuliare, hoci boli mokré a zbytočné. „Cesta do Chrámu vedie cez Zónu Tlaku. Bude to bolieť."
+Max skontroloval stav nanobotov. 40%.
+„Bolesť je starý priateľ," povedal. „Poďme."
 
-„Nie sme v pekle, Kito," povedal Max a postavil archeológa na nohy. Oprášil mu kabát. „Sme v kanalizácii. A máme prácu."
+---
 
-Tami rozsvietila malú olejovú lampu. Plameň sa zatrblotal, vrhajúc dlhé tiene.
-„Podľa mapy sme tri kilometre od Chrámu," povedala a pozrela do hĺbky tunela. „Ale Kito vravel niečo o Odpade."
+Vstup do Chrámu nebol bránou. Bola to trhlina v podlahe.
+Vyliezli hore, priamo do hlavnej lode.
+Miesto zúrilo chaosom. Strop sa čiastočne zrútil. Prach víril vo vzduchu, osvetlený požiarmi zvonku.
+A tam, uprostred sutín, stála tá socha.
+Zhodená z podstavca, ležala na boku.
+Ale tvár... tvár bola neporušená.
+Smutná. Ľudská.
+Inetis.
 
-„Čo je to?" spýtal sa Max.
+Kito pri nej kľakol. „Vidíš?" zašepkal. „Žiadna bohyňa. Len žena, ktorá nevedela zachrániť všetkých."
+Max cítil, ako sa v ňom niečo láme.
+Všetky tie roky hnevu. Všetka tá nenávisť voči Cirkvi, voči klamstvám.
+A nakoniec... pravda bola len smutná.
 
-Z hĺbky tunela sa ozval zvuk.
-Nebol to zvuk vody.
-Bolo to mľaskanie. Mokré, nepravidelné mľaskanie, akoby niekto chodil po blate bosými nohami. A dýchanie.
+„Máme to," povedal Kito a vytiahol spod trosiek Anténu. Čierna tyč, chladná na dotyk.
+V tom momente sa ozvala rana. Hlavná brána Chrámu sa rozletela.
+Grawskí Paladíni. Konečne ich našli.
+Boli traja. Obrovskí, v čiernych zbrojach.
 
-„Cirkev..." zašepkal Kito, ktorý zrazu prestal byť hysterický a začal byť smrteľne vážny. „Cirkev sa snažila napodobniť Dar Matky. Chceli vyrobiť vlastných Makov. Vlastných vojakov."
-
-Zvuk sa približoval.
-
-„Nepodarilo sa im to," dodal Kito. „Namiesto toho stvorili toto."
-
-Do svetla lampy sa vplazilo... *niečo*.
-Vyzeralo to ako človek, ktorého niekto roztopil a znova zložil dokopy, ale zabudol na kosti. Hmota pulzovala. Z toho, čo malo byť tvárou, trčali tri rôzne oči — jedno ľudské, jedno mačacie, jedno... mŕtve.
-
-*Odpad.*
-
-Tami urobila krok vzad, rapier namierený na tú vec. „Čo to chce?"
-„Mäso," odpovedal Kito sucho. „Chce to pridať naše mäso k svojmu."
-
-Monštrum vydalo zvuk, niečo medzi zavytím a bublaním, a vystrelilo vpred s prekvapivou rýchlosťou. Tami zareagovala inštinktívne. Jej rapier kmitol vzduchom — priamy zásah do miesta, kde by malo byť srdce. Čepeľ prešla hmotou hladko, ako cez puding.
-A rovnako hladko vyšla von, bez kvapky krvi. Rana sa okamžite zacelila.
-„To nepomôže!" zakričal Max.
-Vec sa zahnala pseudokončatinou. Tami uskočila, ale slizká hmota jej zachytila kabát. Syčanie. Kyselina.
-Kito vykríkol a natiahol ruku. Vzduch sa zavlnil — telekinetický úder. Monštrum to odhodilo o meter dozadu, do steny tunela. *Mľask.* Náraz znel mokro. Ale vec sa len otriasla a pokračovala, akoby sa nič nestalo. Kito klesol na kolená, vyčerpaný tým jediným gestom.
-
-„Uhni," povedal Max.
-Jeho hlas bol iný. Chladný. Strojový.
-
-Tami sa pozrela na neho. Max držal v ruke tú svoju palicu. Ten kus kovu, o ktorom všetci tvrdili, že je to len stará barla.
-Teraz to žiarilo.
-Nie svetlom. *Absenciou svetla.* Čierne žilky nanotechnológie sa rozbehli po povrchu kovu, pulzujúc v rytme, ktorý nepatril do tohto sveta.
-
-*<Aktivácia: Anténa. Režim: Chirurgický Rez. Výkon: 5%.>*
-*<Varovanie: Štrukturálna integrita tunela je nízka. Explozívna munícia zakázaná.>*
-
-Max vykročil vpred. Monštrum sa naňho vrhlo, tri oči fixované na novú korisť. Otvorilo to, čo slúžilo ako ústa — dieru plnú nepravidelných zubov.
-
-Max neuhol. Len švihol palicou.
-Nebol to úder. Bol to rez.
-Vzduch ticho zaspieval. Jediný, čistý tón, ktorý prešiel kosťou aj dušou.
-Z konca palice vyletelo *nič*. Tenká, neviditeľná čiara sily, ktorá preťala priestor.
-
-Monštrum zastalo vo výskoku.
-Sekunda ticha.
-Potom sa horná polovica tela pomaly, takmer komicky zošmykla z dolnej. Žiadna krv. Rez bol taký horúci a čistý, že tkanivo okamžite kauterizoval. Dve polovice dopadli do splaškov. Mŕtve. Definitívne mŕtve.
-
-Tami hľadela s otvorenými ústami. Videla veľa Spiry. Videla delostrelectvo. Ale toto... toto bola chirurgia so zbraňou hromadného ničenia.
-
-Kito sa triasol. Pozeral na Maxa nie ako na záchrancu, ale ako na boha, ktorý sa práve zjavil v pekle.
-„Bohobijec," zašepkal. „To je Bohobijec."
-
-Max si upravil okuliare a palica v jeho ruke opäť zhasla, meniac sa na obyčajnú železnú tyč.
-„Nie," povedal Max a vykročil hlbšie do tmy. „To je len veľmi, veľmi drahý otvárač na konzervy. Poďme. Máme ešte dva kilometre."
+„Max!" kričal Kito.
+Nebolo kam ujsť.
+Max chytil Anténu. Cítil, ako sa prebudila.
+Nie technológiou.
+Krvou.
+„Kry sa," povedal Max.
+A potom, prvýkrát po rokoch, prestal bojovať s bolesťou.
+Prijal ju.
+A otvoril dvere.

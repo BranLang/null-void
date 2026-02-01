@@ -23,27 +23,43 @@
     *   Útek do kanalizácie ("Črevá").
     *   **Flashback 1:** Maxovo prebudenie v kryo-tekutine (iniciované pádom do splaškov).
 
-### Kapitola 3: Odpad & Rituál (Climax)
+### Kapitola 3: V Tepnách Mesta (Heist Gone Wrong)
 **Súbor:** `drafts/chapter-3-draft.md`
-*   **The Trap (Dungeon)**: Hrdinovia narazia na **Paladínov** (Ape Elite). Maxov hacking zlyháva na ich štítoch. Musia utiecť.
-*   **The Split (Parallel Lines)**:
-    *   **Tami & Crew (Docks)**: Tami beží k *Makite*. Mobilizuje posádku (**Borg & Nix**). Musia pripraviť loď na boj v obkľúčenom meste.
-    *   **Max & Kito (Slums)**: Max hľadá Kita v chudobnej štvrti. Potrebuje info o Paladínoch.
-*   **The Reunion (Chrámová Scéna)**:
-    *   **Setup**: Max vchádza do starého Chrámu. Mesto horí, steny sa trasú.
-    *   **The Dilemma**: Maxov prvý inštinkt je **ujsť** (Trauma zo Zeme/Aliens).
-    *   **The Statue**: Zbadá najstaršiu sochu Matky. Je to **Človek so smutnými fialovými očami**.
-    *   **The Revelation**: Kito vystúpi z tieňa. *"Nebola to bohyňa, Max. Bola to matka, ktorej zlomilo srdce."*
-    *   **Kito's Speech**: Odkaz na Veľkú Vojnu a prežitie Nevriss proti presile.
-    *   **The Promise**: Max sľúbi nájsť liek pre Kitovu ženu.
-    *   **The Decision**: *"Ukončím to. Pre ňu."*
-*   **The Ritual (Full Atomic)**:
-    *   Max aktivuje "Samaellov Rituál" (Blood Magic) na zabitie Falašného Groma.
-    *   **Flashback 2:** Súboj Samaell vs Kael (`samael&kael.png`).
-*   **The Counter-Attack**:
-    *   *Makita* Air Support (Dym + Felix 88). Max navádza paľbu cez drony.
+*   **The Sewers**: Cesta cez zatopené technické tunely (Cooling Towers).
+*   **The Hazard**: Environmentálne nebezpečenstvo (voda, plyn, staré stroje).
+*   **The Conversation**: Max a Kito - budovanie vzťahu. Kito sa pýta na minulosť, Max mlčí/klame, ale sľubuje ochranu "pamäte".
+*   **The Failure**: Pokus o vstup do Chrámu zlyhá (Graw blokáda alebo zával). Sú zatlačení hlbšie, do "Starého Sektoru", kde nikto nechodí.
+
+### Kapitola 4: Matka a Oheň
+**Súbor:** `drafts/chapter-4-draft.md`
+*   **The Old Temple**: Nález skutočného chrámu.
+*   **The Statue**: Kito a Max pri soche Inetis.
+*   **The Lore**: Kito odhaľuje, že to bola žena, nie bohyňa.
+*   **The Ambush**: Grawskí Paladíni prerazia bránu. Sú v pasci.
+
+### Kapitola 5: Krvavá Mágia (The Ritual)
+**Súbor:** `drafts/chapter-5-draft.md`
+*   **The Choice**: Max nemá muníciu, len Anténu (Aegis Spike).
+*   **The Ritual**: Aktivácia krvou. Viscerálny popis (šok, bolesť, nano-swarm).
+*   **Flashback 2**: Max vs Samaell (AY 3001) - spomienka počas rituálu.
+*   **The Effect**: Anténa sa aktivuje. Override systémov.
+
+### Kapitola 6: Oheň z Nebies (The Battle)
+**Súbor:** `drafts/chapter-6-draft.md`
+*   **The Counter-Attack**: *Makita* prilieta. Felix (88mm) čistí cestu.
+*   **Extraction**: Tami vyzdvihuje Maxa a Kita pod paľbou.
+*   **Dogfight**: Letecký súboj nad mestom. Grawské "Valkyrie" stíhačky.
+
+### Kapitola 7: Prebudenie (The Origin)
+**Súbor:** `drafts/chapter-7-draft.md`
+*   **Flashback 3 (Full)**: Celý príbeh nájdenia Maxa (AY 3000). Borr a Vix. Prvé stretnutie s Tami v klietke.
+*   **Parallel**: Prelínanie s prítomnosťou (Max v lodi, zranený po rituáli).
 
 ### Epilóg: Pád do Snehu (Cliffhanger)
+**Súbor:** `drafts/epilogue-draft.md`
+*   **The Crash**: *Makita* zostrelená.
+*   **The Survival**: Prežitie v pustatine.
+*   **The Goal**: Cesta na Západ (Ynetis).
 **Súbor:** `drafts/epilogue-draft.md`
 *   **The Fall**: *Makita* zostrelená rogue Graw lietadlom. Max padá do snehu.
 *   **Flashback 3**: Pôvodné prebudenie (Borr a Vix ho nájdu v snehu).
