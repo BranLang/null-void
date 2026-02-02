@@ -1,12 +1,12 @@
 # Kapitola 2: Ulica Mŕtvych zvonov
 
-Ulice Štvrte Mezra páchli inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
+Ulica páchla inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
 
-Tami kráčala o pol kroka pred ním. Už to nebolo to vystrašené dievča z klietky, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníckych Mezrov s plynulosťou, ktorá Maxovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
+Tami kráčala o pol kroka pred ním. Už nebola vystrašené dievča, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníkov s plynulosťou, ktorá Maxovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
 
 „Dva bloky," zamrmlala bez toho, aby sa otočila. „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku."
 
-Max si upravil tmavé okuliare. Jeho *Sedem* — sedem mikroskopických dronov v jeho prázdnych očniciach — skenovalo okolie v rôznych spektrách. Videl tepelné stopy potkanov v kanáloch. Videl skryté čepele pod kabátmi žobrákov. Videl strach v očiach ľudí, ktorí sa vyhýbali hliadkam Grawskej gardy.
+Max si upravil tmavé letecké okuliare. Jeho *oči* skenovali okolie v rôznych spektrách. Videl tepelné stopy potkanov v kanáloch. Videl skryté čepele pod kabátmi žobrákov. Videl strach v očiach ľudí, ktorí nevedeli co bude zajtra.
 Ale Tami videla *sociálne* toky.
 
 „Ulica Mŕtvych zvonov," prečítala Tami zhrdzavenú tabuľu na rohu. „Mako mal zmysel pre humor. Alebo pre drámu."
@@ -14,24 +14,24 @@ Ale Tami videla *sociálne* toky.
 Ulica bola úzka, tmavá, lemovaná vysokými budovami, ktoré sa k sebe nakláňali ako starci šepkajúci si tajomstvá. V oknách nehoreli žiadne svetlá, len občas sa mihla silueta za špinavou záclonou. Zvuky prístavu sem doliehali len tlmene, akoby ich pohlcovala samotná dlažba, ktorá bola vlhká a lepkavá.
 
 Na rohu, pod vyhasnutou pouličnou lampou, sedela skupinka detí. Nehrali sa. Len tam sedeli, opreté o seba, a ticho pozorovali okoloidúcich. Ich oči svietili v tme — vedľajší efekt lacných Spira-stimulantov, ktorými si miestni tlmili hlad.
-Tami si všimla Grawského špióna skôr, než si on všimol ju. Bol to Mezra v otrhanom kabáte, ktorý sa príliš okato zaujímal o noviny, hoci v tejto tme sa nedalo čítať. Nebol to vojak, bol to *Pozorovateľ*. Jeden z tých, čo značkovali domy pre delostrelectvo.
+Tami si všimla Grawského špióna skôr, než si on všimol ju. Bol v otrhanom kabáte, a príliš okato sa zaujímal o noviny, hoci pri tomto šere sa nedalo čítať. Nebol to vojak, bol to *Pozorovateľ*. Jeden z tých, čo značkovali domy pre delostrelectvo.
 Naznačila Maxovi rukou *„nie"*. Maxov prst, ktorý už smeroval k spúšti pod plášťom, sa zastavil.
 *„Nechaj ho,"* hovoril ten gest. *„Nemáme čas na mŕtvoly."*
 Prešli okolo neho. Špión zdvihol zrak, stretol sa s Maxovými čiernymi okuliarmi a okamžite sklopil hlavu. Inštinkt mu pošepkal, že ak sa pozrie znova, zomrie.
 
 „Hľadáme číslo 42," povedal Max, keď boli z dohľadu. „Podľa adresy."
 
-Zastali pred ošarpaným obchodom so starožitnosťami. Vo výklade ležali zaprášené ozubené kolesá, nefunkčné astroláby a hromada kníh, ktoré vyzerali, že sa rozpadnú pri prvom dotyku. Nad dverami visel drevený zvon bez srdca.
+Zastali pred ošarpaným obchodom so starožitnosťami. Vo výklade ležali zaprášené chronometre, nefunkčné astroláby a hromada kníh, ktoré vyzerali, že sa rozpadnú pri prvom dotyku. Nad dverami visel drevený zvon bez srdca.
 
 Mŕtvy zvon.
 
-Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa Felixa je to univerzálny kód pre 'nie som Grawská garda'."
+Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa miestnych je to univerzálny kód pre 'nie som Grawská sviňa'."
 
-Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, mačacie oči. Zreničky sa v šere rozšírili, keď padli na Maxovu masívnu postavu a potom na Tamin rapier.
+Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, mačacie oči. Zreničky sa v šere rozšírili, keď padli na Maxovu tmavú postavu a potom na Tamin rapier.
 
 „Kto ste?" spýtal sa hlas, ktorý znel ako praskanie suchého papiera.
 
-„Hľadáme *Clockwork*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
+„Hľadáme *Ciferníka*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
 
 Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 
@@ -46,9 +46,10 @@ Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne za
 
 „Kto vás poslal?" zasyčal.
 
-„Mako," zopakovala Tami. „Ale on nevedel, že ste to vy. Že 'Clockwork' je Kito, vydedený aristokrat z Východu."
+„Mako," zopakovala Tami."
 
-Kito prudko otočil hlavu. „Východ je mŕtvy. Kito je mýtus."
+Ty si liska? spýtal sa Kito. To je nejaky hlupy vtip? Robite si zo mna srandu? Z mojho mena? Z mojho zivota? 
+Kito je len legenda podla ktorej mam meno. Nic viac. Nic menej.
 
 „Viem, že nie je," povedala Tami ticho. „Vyrastala som v jeho ruinách. Tam, kde líšky dávajú dobrú noc a kde starí Maki učia deti, ako prežiť."
 
@@ -56,11 +57,11 @@ Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť.
 
 „Čo chcete?" spýtal sa nakoniec, hlasom zbaveným hnevu.
 
-„Ten artefakt," povedal Max priamo. „Vieme, že je v kobkách pod Chrámom. A vieme, že ty si jediný, kto má plány pôvodnej ventilácie z čias pred prestavbou."
+„Ten artefakt," povedal Max priamo s tazkym prizvukom. „Vieme, že je uzamknutý a prisne strážený v podzemí pod Chrámom Matky. A vieme, že ty si jediný, kto má plány pôvodnej ventilácie z čias pred prestavbou."
 
-Kito sa trpko zasmial. „Artefakt? Chcete ukradnúť najsvätejšiu relikviu neznámeho pôvodu? Ste blázni. Aj keby som vám dal plány, nedostanete sa cez ochranné polia. Je to samovražda."
+Kito sa trpko zasmial. „Artefakt? Chcete ukradnúť najsvätejšiu relikviu? Ste blázni. Aj keby som vám dal plány, nedostanete sa tam. Je to samovražda."
 
-„Ja som to pole," povedal Max pokojne. Za tmavými okuliarmi sa čosi mihlo — modrý záblesk, ktorý mohol byť svetlo z ulice alebo niečo horšie.
+„Zazil som aj horsie veci," povedal Max pokojne. Za tmavými okuliarmi sa čosi mihlo — modrý záblesk, ktorý mohol byť svetlo z ulice alebo niečo horšie.
 
 Kito stuhol. Žlté mačacie oči preskočili z Maxa na Tami a späť.
 
@@ -68,7 +69,7 @@ Kito stuhol. Žlté mačacie oči preskočili z Maxa na Tami a späť.
 
 Miestnosťou sa ozval tichý, bolestivý ston. Vychádzal z hromady diek v rohu. Kito okamžite zabudol na strach z Maxa. S rýchlosťou, ktorú by u neho nikto nehádal, pribehol k posteli a kľakol si.
 
-„Ticho, Maya... ticho," šepkal a hladil postavu po čele.
+„To bude dobre, Maya... oddychuj," šepkal a hladil postavu po čele.
 
 Max urobil krok vpred. Jeho senzory prenikli cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť.
 Nebola to len choroba. Bola to *premena*.
@@ -79,14 +80,14 @@ Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo
 
 Max nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
 
-„Je nádherná, však?" povedal Kito bez toho, aby sa otočil. V hlase mal slzy. „Moja malá Maya. Chcela byť užitočná. Chcela pomôcť rodine z dlhov. Tak... experimentovala."
+„Je nádherná, však?" povedal Kito bez toho, aby sa otočil. V hlase mal slzy. „Moja Maya. Chcela byť užitočná. Chcela pomôcť rodine z dlhov. Tak... experimentovala."
 Kitov hlas bol tichý, ale ostrý.
-„Našla staré nápisy. Zakázané modlitby, vytesané do kameňa niekde v horách. Myslela si, že ak ich odrecituje, Matka ju požehná silnejšou Spirou. Že bude lepšia kňažka." Trpko sa zasmial. „Ale pomýlila sa v jednom slove."
+„Našla staré skriptá. Zakázané modlitby, v knihe ktoru som odkupil od jednej zufalej zeny. Myslela si, že ak ich odrecituje, Matka ju požehná silnejšou Spirou. Že bude lepšia." Trpko sa zasmial. „Ale pomýlila sa v jednom slove." Ked jej pentagram rozziaril na cerveno spanikarila a nevedela co ma robit. A tak ho nechala svietit. Až kým sa jej telo nezačalo menit. Mala to vypnut, ale nevedela ako. 
 
 Otočil sa na Maxa. Žlté oči mu horeli zúfalstvom.
 „Jej modlitba nemá koniec, Max. Opakuje sa dookola. Spira v nej odpovedá na volanie, ktoré nikdy neprestane. Prepisuje ju. Mení mäso na kameň, kúsok po kúsku." Hlas sa mu zlomil. „Skúšal som všetko. Bol som za tým starým Makom v Remeselnej štvrti. Tým, čo neprehovoril už sto rokov. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* modlitebné knihy na to nestačia. Že tá modlitba je staršia než on."
 
-Kito zovrel päste. „Povedal, že potrebujem Hlas Stvoriteľky. Pôvodnú modlitbu, z ktorej všetky ostatné vzišli. A tá je len na jedinom mieste. V Stratenom Meste Ynetis. Tam, kde Matka dala deťom prvý dar."
+Kito zovrel päste. naznacil, ze potrebujem is k zdroju.
 
 Max ostal ticho. Pozeral sa na kryštalickú ruku ženy.
 *Nemôžem jej pomôcť,* prebehlo mu hlavou. *Som vojak, nie vedec. Nerozumiem tomuto svetu, nerozumiem ich „Spire" a môj Asistent hlási len „Neznáma patológia". Toto je nad moje sily.*
@@ -97,19 +98,17 @@ Ale nahlas povedal niečo iné.
 
 Pri slove *Stvoriteľka* Pursang prestal dýchať.
 
-„Nikto nevie, kde sú tie záznamy," zašepkal. „Sú stratené..."
-
 Max pristúpil bližšie, ignorujúc telekinetický tlak, ktorý Kito podvedome vyžaroval.
 
 Potom sa naklonil bližšie a prešiel do jazyka, ktorý v tejto miestnosti — a možno na celom tomto kontinente — nezaznel v konverzácii už storočia.
 
-*„I am of the Old World, Keeper of Archives. And I have the technology to save her.“*
+*„I am of the Old World, And I am looking for somebody, who can save her“*
 
 Kito stuhol, akoby dostal fyzickú ranu. Nebol to vulgárny dialekt zo Západu, aký používali Exorcisti. Nebola to skomolená liturgická reč kňazov. Bola to Staroreč. Čistá, archaická Angličtina. Takto rozprávali len Maki, keď citovali svoje protokoly.
 
 Ale toto bol hlas človeka, ktorý tým jazykom *žil*.
 
-Archeológovi sa rozšírili zreničky. Telekinetické vibrácie ustali. Pozeral sa na Maxa nie ako na hrozbu, ale s posvätnou úctou vedca, ktorý práve objavil živý dôkaz svojej celoživotnej teórie.
+Obchodníkovi z antikvariátu sa rozšírili zreničky. Telekinetické vibrácie ustali. Pozeral sa na Maxa nie ako na hrozbu, ale s posvätnou úctou vedca, ktorý práve objavil živý dôkaz svojej celoživotnej teórie.
 
 „Legendy..." zašepkal, hlasom, ktorý sa lámal strachom. „Najstaršie zvitky hovoria o Príchodoch z hviezd. Ale existuje apokryf. Zakázaný. O poslednom Príchode — o tom, ktorý nepríde z neba, ale zobudí sa zo Zeme."
 
@@ -117,29 +116,23 @@ Pozrel na Maxa s absolútnou hrôzou.
 
 „Spáč," vydýchol Kito.
 
-„Ten artefakt... on nepatrí Cirkvi," pokračoval roztrasene. „V starých textoch sa píše, že patril Jemu. Že cez neho hovoril s nebom. Že keď ho držal, svet ho počúval."
-
 Pozrel Maxovi priamo do tváre. „Ty si Štvrtý Príchod."
 
 Max mlčal. Nevedel o žiadnej legende. Ale vedel, čo Kito potrebuje vidieť.
 
 Pomaly zdvihol ruku a zložil si tmavé okuliare.
 
-V šere miestnosti sa jeho prázdne očnice naplnili tmou. Nie prázdnotou — *tmou*. Čierny Prach, hustý a živý, sa pohol v jeho očných jamkách ako tekutina, ktorá dýcha. Nanodróny ukradnuté mŕtvemu Archanjelovi sa usadili do tvaru dvoch dokonalých čiernych gúľ, v ktorých sa tu a tam mihol odlesk — nie svetlo, ale jeho *absencia*. Oči temnoty. Oči niečoho, čo nemalo žiť.
+V šere miestnosti sa jeho prázdne očnice naplnili tmou. Nie prázdnotou — *tmou*. Čierny Prach, hustý a živý, sa pohol v jeho očných jamkách ako tekutina, ktorá dýcha. Oči z ciernej krvimrtveho Archaniela sa usadili do tvaru dvoch dokonalých čiernych gúľ, v ktorých sa tu a tam mihol odlesk — nie svetlo, ale jeho *absencia*. Oči temnoty. Oči niečoho, čo nemalo žiť.
 
 Kito cúvol. Narazil do stola. Knihy popadali na zem.
 
-„Zobudil som sa," povedal Max jednoducho. „A chcem to, čo je moje."
+„Hladame to iste co ty“ povedal Max jednoducho.
 
-*Nebolo to celkom klamstvo. Tá prekliata anténa bola kľúč. Bez nej bol slepý. Vedel, že Null Void leží niekde na západe od Kito, v nekonečných púšťach Hrdze, ale nájsť jednu loď v miliónoch kilometrov štvorcových trosiek bolo nemožné. Anténa... ona ho zavolá domov. A možno... možno tam bude aj Inetis. Stále v kryu. Stále živá.*
 
-*A ak nie... aspoň pomôže Tami zapáliť svet tým, čo ich zabili.*
 
 Kito sa zviezol na stoličku, akoby mu niekto podrezal kolená. Pozrel na svoju zomierajúcu ženu, potom na bytosť z nočných môr, ktorá mu práve sľúbila pomoc. Strach bojoval so zúfalstvom.
 
 „Nie," povedal Kito. Hlas mu bol tichý, ale pevný. „Nie. Toto je šialenstvo. Ak si naozaj to, za čo sa vydávaš, tak si koniec sveta. A ja nemôžem byť ten, kto ti otvorí dvere."
-
-Vstal, otočil sa k nim chrbtom. „Odíďte. Prosím."
 
 Tami otvorila ústa, ale Max ju zastavil pohľadom. Čakali.
 
@@ -150,8 +143,6 @@ Kito bol pri nej skôr, než stihol ktokoľvek z nich dýchnuť. Objal ju, šepk
 Maya sa upokojila. Zavrela oči. Kryštály na jej dlani pomaly zhasínali.
 
 Kito ešte chvíľu kľačal. Potom vstal. Keď sa otočil, v očiach mal niečo nové. Nie zúfalstvo. Rozhodnutie.
-
-„Ak si naozaj Spáč," povedal Kito ticho, „tak Matka ochraňuj túto planétu. A moju ženu."
 
 Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabinu. Nie v múroch, ale v kanalizácii..."
 
@@ -169,7 +160,7 @@ Stojí pred Spáčom. Pred legendou, ktorá má zničiť svet.
 
 Kito sa začal triasť. Nebolo to jemné chvenie. Bolo to kŕčovité vibrovanie celého tela. Jeho telekinéza skolabovala do seba, vzduch v miestnosti praskol, jedna z políc sa s rámusom zrútila. Zostal len čistý, paralyzujúci des.
 
-„Max, nestraš ho," sykla Tami. „Potrebujeme ho funkčného."
+„Max, nestraš ho," sykla Tami. „Potrebujeme ho funkčného." Zrazu pohla usami. O dve sekundy na to sa ozbal prichod pisklavy zvuk padajuceho granatu.
 
 Skôr, než stihli urobiť čokoľvek iné, vzduch vonku sa roztrhol.
 
@@ -179,8 +170,6 @@ Okná zabrinčali. Prach zo stropu sa zosypal na Kitove mapy.
 
 O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťažkého delostrelectva.
 
-„To nie je hrom," povedala Tami a jej uši sa prudko otočili k oknu. „To je Graw. Ofenzíva sa začala."
-
 „Skôr, než sme čakali," konštatoval Max chladne. „Plán A - tichá infiltrácia - je mŕtvy."
 
 „Plán B?" spýtala sa Tami a hodila si rapier cez plece.
@@ -189,26 +178,26 @@ O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťa
 
 V momente, keď sa jeho prsty dotkli látky, vzduch okolo Kita explodoval. Knihy vyleteli z políc, sklené fľaštičky praskli, Maxov plášť sa odtrhol dozadu, akoby doň fúkol víchor. Kitova telekinéza — surová, nekontrolovaná, čistý obranný reflex Pursanga — narazila do Maxa ako neviditeľná stena.
 
-Max sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Jeho nanoboty absorbovali energiu, servomotory v rukaviciach zavrčali a Max zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika.
+Max sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Jeho nanoboty absorbovali energiu a Max zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika.
 
 Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
 
 „Berieme ho so sebou. Budeme ho potrebovať pri dverách, aj keby som ho tam mal niesť ako vrece zemiakov."
 
-„Pohyb!" vykríkla Tami, keď sa ozvala siréna civilnej obrany. „Máme asi desať minút, kým uzavrú sektory!"
+„Pohyb!" vykríkla Tami, keď sa ozvala siréna civilnej obrany.
 
 Vybehli z bytu do noci, ktorá sa práve menila na peklo.
 
 ---
 
-Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili kočíky cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
+Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili voziky s detmi cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
 
-Max kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho váha, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
+Max kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho aura pradavnej nanotechnológie, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
 
 „Doľava!" zakričala Tami a skočila do úzkej uličky, kam sa dav nezmestil.
 
 Max ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
-*Trajektória projektilu: Balistická krivka. Kaliber: 400mm. Dopad: 3... 2... 1...*
+*Trajektória projektilu: Balistická krivka. Kaliber: 204 mm. Dopad: 3... 2... 1...*
 
 Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Max necítil strach. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia, bol to len chemický kofaktor pre rýchlejšie procesory.
 
@@ -216,18 +205,18 @@ Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlakov�
 
 „Zomrie, ak tam ostaneš," povedal Max a preskočil prevrátený voz s kapustou. „Zomrie, ak pôjde s nami. Tvoja jediná šanca je, že prežiješ ty a nájdeš liek. Prestaň fňukať a začni navigovať. Kde je ten vstup?"
 
-Kito vzlykol, ale jeho pud sebazáchovy prevážil. „Kanál... pri starom bitúnku. Na konci ulice."
+Kito vzlykol, ale jeho pud sebazáchovy prevážil. „Kanál... Na konci ulice."
 
 Bežali.
 Svet okolo nich sa rozpadal.
 Tlaková vlna ďalšieho dopadu vyrazila výklad na obchode s hodinami. Stovky ciferníkov a pružín vyleteli do vzduchu ako kovové konfety. Črepiny skla pršali na ulicu.
-Tami bola rýchla, mrštná, využívala svoj chvost na udržiavanie rovnováhy pri prudkých zákrutách. Preskakovala trosky s eleganciou, ktorú jej Max ticho závidel. On bol tank. Ťažký, nezastaviteľný, ale neohrabaný. Keď im cestu zahatala spadnutá markíza, Tami ju ladne podliezla. Max do nej narazil ramenom a rozrazil drevenú konštrukciu na triesky, ani pri tom nespomalil.
+Tami bola rýchla, mrštná, využívala svoj chvost na udržiavanie rovnováhy pri prudkých zákrutách. Preskakovala trosky s eleganciou, ktorú jej Max ticho závidel. Keď im cestu zahatala spadnutá markíza, Tami ju ladne podliezla. Max do nej narazil ramenom a rozrazil drevenú konštrukciu na triesky, ani pri tom nespomalil.
 
 „Pozor!"
 Zhora padal kus rímsy.
-Max zareagoval skôr, než si to uvedomil. Jeho ruka vyletela hore, servomotory zavýjali, keď zachytil päťdesiatkilový kus kameňa tesne nad Kitovou hlavou. Odhodil ho nabok, kde roztrieštil starú lavičku.
-Kito vyvalil oči. *To nebola ľudská sila.*
-„Bež, dočerta!" zareval Max a sotil ho dopredu.
+Max zareagoval skôr, jeho drahé nanoboty sa aktivovali a on ho odhodil nabok, kde roztrieštil starú lavičku.
+Kito vyvalil oči. *To nebola spira.*
+„Choď!" povedal Max kľudne a sotil ho dopredu.
 
 Dorazili k bitúnku. Budova páchla starou krvou a hnilobou, pach, ktorý sa miešal s korditom z výbuchov. Fasáda bola posiata dierami od šrapnelov — prvá salva musela dopadnúť sem.
 
@@ -248,15 +237,15 @@ Maxov Asistent vykreslil červenú zónu dopadu priamo na ich pozíciu.
 
 „Uhni," povedal Max.
 
-Nečakal, kým Tami odskočí. Chytil okraj poklopu. Jeho rukavice — stará, ošúchaná koža skrývajúca servomotory z iného sveta — zavŕzgali.
-Zaprel sa. Nanoboty v jeho krvi sa aktivovali, spevnili svalové vlákna, preťažili kĺby.
+Nečakal, kým Tami odskočí. Pozrel sa na poklop a predstavil si ako ho otvára.
+Nanoboty v jeho krvi sa aktivovali.
 
-*Varovanie: Preťaženie myomérov na 140%.*
+*Varovanie: Preťaženie na 140%.*
 *Ignorovať.*
 
-Max zareval. Nebol to ľudský výkrik. Bol to zvuk kovu drviaceho kameň. Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa s odporným škrípaním vytrhol z pántov.
+Max zareval. Nebol to ľudský výkrik. Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa rozpadol na drobne kocky ako ked niekto nakraja maslo
 
-Max ho odhodil nabok, akoby to bol papierový tanier.
+Vlastnou vahou sa prepadol poklop do tmy.
 
 „Dolu!" zavelil a sotil Kita do tmy. Tami skočila za ním. Max skočil posledný.
 
@@ -275,14 +264,17 @@ Svet sa zmenil na odtiene zelenej a šedej. Stáli v tuneli, ktorý nebol vykopa
 Pre Maxa to však nebol len sliz.
 
 Teplota. Vlhkosť. Pach ozónu a hniloby.
-Senzory mu na sekundu zlyhali. Flashback ho zasiahol bez varovania.
+Senzory mu na sekundu zlyhali. 
 
+
+Flashback ho zasiahol bez varovania.
+
+---
 *...Prebudenie.*
-*Nie v bahne, ale v ľade. Modrá kryo-tekutina ho dusila. Pľúca horeli. Nemohol dýchať, nemohol vidieť. Jeho oči... bolesť bola absolútna. Posledná vec, ktorú videl predtým, než ho zmrazili, bol záblesk jadrového ohňa na horizonte Marsu.*
-*A potom tma. 3000 rokov tmy.*
-*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Vix. Ten si ho ohmatával ako dobytok. "Slepý a vychudnutý do kostí. Ale vysoký. Do baní snáď dobrý."*
-*A potom ten malý hlas. Sedemročné dievča s líščími ušami, ktoré mu podalo vodu, hoci sama bola smädná.*
-*"Neboj sa, ujko. Aj ja som monštrum."*
+*Nie v bahne, ale v ľade. Modrá kryo-tekutina ho dusila. Pľúca horeli. Nemohol dýchať, nemohol vidieť. Jeho oči... bolesť bola absolútna.  
+*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Vix. Ten si ho ohmatával ako dobytok. " Plachý hlas dievčatka ho vytrhol z nočnej mory. "Neboj sa, ujko. Aj ja som monštrum."*
+
+---
 
 „Max?"
 Tamin hlas ho vytiahol späť.
@@ -290,12 +282,10 @@ Stála pred ním, modrá žiara chemickej tyčinky sa odrážala v jej očiach. 
 
 „Som tu," povedal Max a potlačil chvenie rúk. „Len... starí duchovia."
 
-„Vitajte v Črevách," zašepkal Kito. Hlas sa mu triasol, ale už nie len strachom z Maxa. „Toto je doména Odpadu."
-
-Tami si oprášila kolená a zapálila malú chemickú tyčinku. Modrasté svetlo ožiarilo tunel.
+Tami si oprášila kolená.
 „Smrdí to tu ako zdochlina," poznamenala vecne. „Takže sme správne."
 
-Max vytiahol z puzdra svoju zbraň — ťažký revolver, ktorý vyzeral ako kanón.
+Max vytiahol z puzdra svoju zbraň — ťažký samopal - prastara relikvia z doby pred Potopou - ktory bol asi ta najdrahsia vec co kito v zivote videl.
 „Ktorým smerom, Kito?"
 
 Kito, stále sediaci v bahne, ukázal do tmy. „Na juh. Pod Chrám. Ale musíme byť ticho. Oni počujú všetko."
