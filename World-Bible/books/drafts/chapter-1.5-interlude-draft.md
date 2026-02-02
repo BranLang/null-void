@@ -54,9 +54,9 @@ Zaya sa usmiala. „Tvoji najlepší."
 
 Stáli pred ním v dokonalom stoji — dva monolity v tme.
 
-**Rau** bol gorila. Nie obyčajná gorila — *Paladín*. Elitná kasta Apes, trénovaná od narodenia. Dva metre výšky a takmer rovnako široký. Telo ako sopečný balvan pokrytý čiernou srsťou. Na hrudi mal energetický štít — tenký, takmer neviditeľný obrys modrého svetla. Na chrbte niesol vibro-sekeru — masívnu, s čepeľou, ktorá sa mierne chvela vlastnou frekvenciou. Materiál, ktorý by na Terre nikto nevedel pomenovať. Nerozprával. Paladíni nerozprávali. Komunikoval gestami — rýchlymi, presnými, vojenskými.
+**Rau** bol gorila. Nie obyčajná gorila — *Paladín*. Elitná kasta Apes, trénovaná od narodenia. Dva metre výšky a takmer rovnako široký. Power armor ho obklopoval od hlavy po päty — svetlý, ornamentálny, vykladaný zlatými líniami, ktoré sledovali kontúry jeho masívneho tela ako tetivy na luku. Na prilbe mal modrý chochol — krátky, hustý, vojenský. Na chrbte niesol vibro-sekeru — masívnu, s čepeľou, ktorá sa mierne chvela vlastnou frekvenciou. Materiál, ktorý by na Terre nikto nevedel pomenovať. Nerozprával. Paladíni nerozprávali. Komunikoval gestami — rýchlymi, presnými, vojenskými.
 
-**Kira** bola orangutanka. Vysoká, štíhla, s dlhými rukami, ktoré vyzerali krehko, až kým ste nevideli, čo s nimi dokáže. Jej červenohnedá srsť bola strihaná nakrátko — praktické, nie estetické. Na chrbte mala zvitok máp a na opasku niečo, čo vyzeralo ako kompas, ale nefungovalo na magnetizme.
+**Kira** bola orangutanka. Vysoká, štíhla — a v power armore vyzerala ako čepeľ. Rovnaký svetlý materiál ako Rauov, rovnaké zlaté ornamenty, ale brnenie na nej bolo užšie, tesnejšie, navrhnuté pre pohyb, nie pre náraz. Na prilbe mala červený chochol — dlhší než Rauov, trochu naklonený dozadu, ako plameň vo vetre. Na chrbte vibro-sekeru — ľahšiu, s užšou čepeľou. Na opasku niečo, čo vyzeralo ako kompas, ale nefungovalo na magnetizme.
 
 Cézar vstal. Pri tom pohybe sa trónna sála zachvela — nie od zemetrasenia, ale od prostej *hmotnosti* jeho tela. Pristúpil k nim. Bol o hlavu vyšší než Rau, čo o niečom hovorilo.
 

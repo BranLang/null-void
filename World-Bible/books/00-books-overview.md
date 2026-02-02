@@ -71,6 +71,7 @@ graph TD
 - Max a 7-ročná Tami putujú na Juh cez Severné pustatiny.
 - Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
 - Prvé strety s jednotkami Groma.
+- **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Max nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
 
 ### Konflikt
 - Maxov boj s vlastnou tieňovou minulosťou zabijaka.
