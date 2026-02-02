@@ -48,6 +48,136 @@ Max skontroloval stav nanobotov. 40%.
 
 ---
 
+## Zóna Tlaku
+
+Tunel sa rozšíril do obrovskej komory. Steny pokryté starými panelmi, rozpraskané keramické dlaždice, a uprostred — obrovský ventilačný turbín, nehybný, zhrdzavený, stará relikvia z čias Inetis.
+
+„Tu je tá Zóna Tlaku?" spýtala sa Tami.
+
+„Áno," povedal Kito nervózne. „Keď turbína beží, tlak tu dole je smrteľný. Ale je vypnutá už—"
+
+Niečo sa pohnulo v tme za turbínou.
+
+Maxov HUD vyhodil červenú výstrahu.
+
+*Tepelná signatúra: Neidentifikovaná. Biologický index: ERROR. Odporúčanie: EVAKUÁCIA.*
+
+„Pohyb," konštatovala Tami. Žiadna panika. Žiadny strach. Len vec. Vytiahla pištol — ľavú ruku.
+
+Z tmy vyšli.
+
+**Experimenty.**
+
+Tri bytosti, ktoré kedysi boli Varietas. Prvý mal telo Ghorka — medveď, obrovský, ale tam, kde mala byť hlava, vyrastalo päť očí na dlhých stonkách pokrytých slizom. Koža sa mu rozpadala na fialové kryštálové výrastky, ktoré pulzovali vlastným svetlom.
+
+Druhý bol Mezra — kunami. Jeho chrbát bol rozpadnutý na modré črepiny, ktoré levitovali okolo neho ako roj skla. Každý kúsok žil vlastným životom. Stále sa rozkladal a zase skladal, neprestajný cyklus rozkladu.
+
+Tretí — Pursang, líška — mala tvár zo slonoviny. Doslova. Jej koža bola už polovica kameňa, studená, hladká, mŕtva. V oboch dlaniach jej svietili pentagramy. Nonstop. Čarovný okruh, ktorý nemohol zhasnúť.
+
+Kito vykríkol. „To sú... Bože, to sú *oni*! Tí, čo zmizli minulý rok! Yara, Dren, a—"
+
+„Dozadu," povedal Max. Hlasne. Jasne. Nie prosba. Rozkaz.
+
+Kito cúvol k stene.
+
+Medveď sa vrhol vpred. Rýchlosť, ktorá nemala právo existovať pri niečom tej veľkosti. Päť očí na stonkách sa otočilo nezávisle — každé sledovalo inú časť komory.
+
+Max vystrelil. Tri rany. Hrubým kalibrom. Čierny Prach prenikol do hrude, roztrhol mäso, rozbil kryštály—
+
+Tvor ani nespomalil.
+
+„Spira regenerácia," povedal Max chladne, akoby čítal návod. „Tami."
+
+„Viem."
+
+Kunami sa teleportoval — nie, *rozpadol sa*. Modré črepiny sa rozpršali a zložili tri metre vľavo, priamo v Taminej ceste. Pazúry zamierili na jej hrdlo.
+
+Tami vystrelila raz. Modrá iskra — náboj okoreňovaný Spirou — zasiahla kunámiho do jadra, presne do tej medzery medzi črepinami. Spira v guľke sa vzňala pri dopade. Črepiny sa rozpadli ako spálený papier.
+
+Kunami sa zrútil. Prach namiesto skla.
+
+„Jeden," povedala Tami.
+
+Pursang zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zaznamenali príkaz v starom jazyku. *Spira: OHEŇ + VZDUCH.*
+
+Plameň vyšľahol z jej dlaní.
+
+Max sa pohol skôr, než sa dokončil príkaz. Úkrok vpravo, za pilier. Tlaková vlna preletela okolo neho a zasiahla ventilačný turbín. Kov zavrčal, žiaril do červena.
+
+„Kito!" zavrčal Max. „Uzemni ju!"
+
+„Čo?!"
+
+„*Telekinéza! Tlač ju dolu!*"
+
+Kito zdvihol trasúce sa ruky. Vzduch sa zvlnil. Pursang klesla — nie veľa, len centimetre, ale stačilo to. Jej pentagramy smerovali dolu namiesto vpred.
+
+*Boom.* Tami vystrelila. Modrá iskra zasiahla Pursang do čela. Spira municia prenikla cez kameň, ako horúci nôž do masla. Hlava praskla. Svetlo v pentagramoch zhaslo.
+
+Telo skolabovalo. Za tri sekundy kameň, za päť — prach.
+
+„Dva," počítala Tami pokojne. Vymenila zásobník. Nový. Dvanásť nábojov, každý okoreňovaný Spirou. Drahé ako auto.
+
+Medveď zavrčal — mechanický, zlomený zvuk. Päť očí sa všetky otočilo na Maxa. *Ty.*
+
+Vrhol sa na neho. Masa, rýchlosť, zúfalstvo.
+
+Max vystrelil. Nie do tela. **Do očí.** Päť rán, päť zásahov. Stonky praskli, očné gule explodovali na tekutinu.
+
+Medveď oslepol. Zavrávoraľ, zrazil sa s pilierom, stonky tĺkli vzduch naslepo.
+
+Max prešiel okolo neho. Vytiahol nôž — obyčajný, ocel, žiadna tech. Bodol do krku. Hlboko. Nič vitálne — len signál. *Tu.*
+
+Tami pochopila okamžite. Jeden výstrel. Modrá iskra. Guľka zasiahla presne tam, kde Max zanechal nôž. Spira municia našla miechu, rozložila ju na atómy.
+
+Medveď padol.
+
+„Tri," dokončila Tami. Zasunula pištol späť do puzdra. „Hotovo."
+
+Celý boj trval dvadsať sekúnd.
+
+---
+
+Kito sa triasol pri stene. Pozeral sa na nich — na Maxa, ktorý vyčisťoval samopal, akoby práve kontroloval motor. Na Tami, ktorá si vykladala olej z Ihly handrou.
+
+„Vy... vy..." začal Kito. Hlas sa mu lámal. „Robíte to *často*?"
+
+„Čo?" spýtala sa Tami, bez toho aby zodvihla zrak.
+
+„Zabíjate... *také veci*."
+
+Max si skontroloval stav nanobotov. 38%. Prijateľné. „Každý druhý týždeň. Niekedy častejšie."
+
+„Ako keby to bolo *umývanie riadu*!" kričal Kito. „Oni mali *mená*! Yara študovala botaniku! Dren bol *môj priateľ*!"
+
+Tami sa zastavila. Pozrela na neho. Oči studené ako kov. „A práve preto sme ich zabili rýchlo. Bez zbytočnej bolesti. Bez predlžovania."
+
+„Boli to *monštrá*," dodal Max. „To, čo boli predtým, už dávno zomrelo. My sme im len pomohli dokončiť to, čo Cirkev začala."
+
+Kito klesal na kolená. Pozrel sa na prach — to, čo bola Yara. „Cirkev..."
+
+„Cirkev ich zradila," povedal Max. Prišiel bližšie, kľakol si vedľa neho. „Ale to, čo urobíme ďalej — nájdenie toho artefaktu, odhalenie pravdy — to bude pomsta. Nie len za Yaru. Za všetkých."
+
+Kito utrel si oči. Prikývol.
+
+Max vstal. Podal mu ruku. Knihovník ju chytil.
+
+„Poďme," povedal Max. „Nedovoľme, aby to bolo zbytočné."
+
+Tami už stála pri východe z komory. Rapier vyčistený, pripravená. Pozrela späť. „Pripravení?"
+
+Max prikývol. Kito sa poskladal.
+
+Prešli cez komoru. Medzi telami. Kito na každé pozrel — študent, vedec, priateľ. Max a Tami ich neminuli pohľadom. Videli. Nezastavili sa.
+
+Na konci tunelu — svetlo. Výstup. Do Chrámu.
+
+„Odteraz bude horšie," upozornil Max.
+
+Tami skontrolovala Ihlu. Ostrá. Čistá. „Vždy je."
+
+---
+
 Vstup do Chrámu nebol bránou. Bola to trhlina v podlahe.
 Vyliezli hore, priamo do hlavnej lode.
 Miesto zúrilo chaosom. Strop sa čiastočne zrútil. Prach víril vo vzduchu, osvetlený požiarmi zvonku.

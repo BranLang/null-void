@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate Chapter 1 & 2: Character reveals and pacing improvements\n\nChapter 1:\n- Enhanced Tami''s identity reveal with strategic decision-making\n- Added visual description of Tami \\(turquoise eyes, fox features\\)\n- Improved Tami/Max conflict dialogue \\(bribery subplot\\)\n- Added internal monologue showing Tami''s tactical thinking\n\nChapter 2:\n- Clarified Felix as legendary Mako craftsman \\(Tami''s mentor\\)\n- Added Tami''s skeptical response to prophecies \\(character consistency\\)\n- Shortened Max''s flashback for better pacing\n- Added Tami slapping Kito \\(panic payoff + character moment\\)\n- Fixed \"Grawská svina\" dialogue \\(more authentic to Tami''s voice\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nMerge main into competent-driscoll: best of both versions\n\nResolved conflicts by combining improvements:\n- Felix references and mentorship context \\(our version\\)\n- Extended prophecy explanation with Tami''s skepticism \\(our version\\)\n- Tami facka + her fox ears hearing the granát \\(hybrid\\)\n- Shorter, punchier flashback \\(our version\\)\n- Kept main''s improvements: Ciferník, Maya story, poklop dissolving\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh pr create:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
