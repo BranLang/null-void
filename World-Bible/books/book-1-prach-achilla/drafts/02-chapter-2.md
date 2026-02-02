@@ -98,7 +98,7 @@ Kunami sa zrútil. Prach namiesto skla.
 
 „Jeden," povedala Tami.
 
-Vlčica zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zaznamenali príkaz v starom jazyku. *Spira: OHEŇ + VZDUCH.*
+Vlčica zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zachytili príkaz — pentagraový kód, geometria preložená na binárku. *Element: OHEŇ. Vektor: VZDUCH. Execute.*
 
 Plameň vyšľahol z jej dlaní.
 
