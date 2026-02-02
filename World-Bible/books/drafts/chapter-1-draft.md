@@ -4,7 +4,11 @@ Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný
 
 Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
 
-Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Jej štíhlu postavu zvýrazňoval šnurovací korzet zakrývajúci bielu košieľku. Na hrubom opasku obnosených nohavíc visel pár automatických pištolí a tenký rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč. Dlhé gaštanové vlasy jej čiastočne zakrývala kapucňa, spod ktorej sa žiarivo, ako drahokamy, trblietali šibalské zafírové oči.
+Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Dlhé gaštanové vlasy jej divoko vliali okolo tváre, pramenmi sa zachytávali o mosadzné letecké okuliare, ktoré mala odsunuté na čelo. Pod kožušinovým golierom blúdiace pramene zakrývali — až na okamih — špicaté lišie uši.
+
+Ale čo človeka zasiahlo ako úder do solárneho plexu, boli jej oči. Tyrkysovo-modré, jasné ako zamrznuté jazero v slnečnom svetle. Oči, ktoré nemali čo robiť v tvári s takými ušami.
+
+Na hrubom opasku obnosených nohavíc jej viseli automatické pištole a rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč.
 
 Jej zrak spočinul v kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
 
@@ -92,6 +96,12 @@ S mužom, ktorému nedokázala odpustiť.
 
 Vytreštila oči, keď počula hlasy zhora.
 
+*Kurva,* nadávala si v duchu. *Už?*
+
+Poslala peniaze správnym ľuďom pred tromi dňami — starý trik, ktorý fungoval v každom prístave. Zaplať dozorcom, zaplať kapitánovi dokových strážcov, a máš pol dňa kľudu, kým sa niekto vôbec obťažuje prísť ti niečo spýtať. Pol dňa na opravu lode a zmiznutie do mesta bez otázok.
+
+*Lenže nikto neprišiel ráno. Prišli teraz. Keď Max už stihol otvoriť hubu.*
+
 Rýchlo si utrela ruky do handry a vyšplhala sa len do polovice rebríka. Vystrčila hlavu z poklopu, tak aby ju nebolo vidieť, a nastražila uši. Zimné svetlo ju udrelo do očí — bledé, nízke slnko sa odrážalo od snehovej pokrývky na strechách okolo doku. Prižmúrila oči.
 
 Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke a nie priemyselné peklo pod sebou. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
@@ -146,9 +156,25 @@ Ticho. Vietor poháňal snehové vločky cez palubu. Dostojníkove uši sa chvel
 
 Vynorila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadiť s olejovými fľakmi na tvári. „Skontrolovala som kondenzátory, ale netesnia. Strácame veľa kvapaliny," konštatovala vecne, ignorujúc delegáciu červenokabátnikov.
 
-Podišla k Maxovi a rafinovane sa naklonila cez zábradlie. Nechala si čas, aby si z kapsy vytiahla handru a pomaly si utrela ruky. Vedela, čo robí. Vedela to veľmi dobre.
+Podišla k Maxovi a rafinovane sa naklonila cez zábradlie.
 
-Vojaci pri pohľade na ňu skameneli. Ale tentoraz nie len úžasom.
+*V Shoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Max už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
+
+Zdvihla handru k tvári a jedným pohybom stiahla šatku. Gaštanové vlasy jej voľne padli okolo líca, lišie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — tyrkysovo-modré, ostré ako úlomky ľadu.
+
+Olejové fľaky na líci ju nerobili menej krásnou. Skôr naopak.
+
+Vedela, čo robí. Vedela to veľmi dobre.
+
+Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší Ghorki vedľa neho zastal s napoly otvorenou papuľou, zapamätajúc si túto scénu na zvyšok života. Ale tentoraz nie len úžasom.
+
+Keď stiahla šatku, jeden z Ghorkov za dôstojníkom si nechtiac pošmykol puškou.
+
+Lišie uši. Gaštanové, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
+
+Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang, nie pri nejakom aeronautovi pokrytom olejom.
+
+A tá tvár. Mladá, ostrá, s tým šibalským polomsievom, ktorý hovoril: *Viem, čo robím s tvojou hlavou.*
 
 V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny o Spiru a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
 
@@ -164,23 +190,23 @@ Tami sledovala, ako červenokabátnici zaujímajú pozície pri doku. Dvaja pri 
 
 Počkala, kým sa oficier vzdialil. Potom sa otočila k Maxovi.
 
-„Exorcista," zopakovala pomaly. „A ‚viem zabíjať Wraithov'. To vážne?"
+„Zaplatila som dozorcom," povedala ostro. „Päťsto zlatých. Mali sme mať pol dňa kľudu. Opraviť loď, zmiznúť do mesta, nič sa nepýtať. Jednoduché."
 
-„Čo je na tom zlé?"
+Max mlčal.
 
-„V Nevriss sa ľudí *boja*, Max. Exorcistov sa boja ešte viac. Práve si celému doku oznámil, že v Chráme je niečo, čo priťahuje Wraithov. Do hodiny to bude vedieť celý prístav. Do dvoch hodín Cirkev. A potom budú chcieť vedieť, *odkiaľ* Exorcista vie o ich relikvii."
+„Ale ty si musel hneď prvý deň vyhlásiť, že si Exorcista. Pred celým dokom." Odmlčala sa. „Teraz na nás pozerá celé mesto, Max. Presne to, čo sme *nechceli*."
 
-Max sa oprel o zábradlie. Okuliare mu skrývali oči, ale Tami videla, ako sa mu kútiky pier mierne zdvihli.
+„Funguje to," povedal pokojne.
 
-„Dobre."
+„Funguje to?" Hlas jej stúpol o oktávu. „Všetci sa pozerajú na *teba*. Ja som len dekorácia. A čo keď sa niekto spýta, prečo Exorcista potrebuje vzducholoď? Prečo má posádku? Prečo—"
 
-„*Dobre?*"
+„Preto, že ty vieš lietať. A ja nie."
 
-„Nech sa pozerajú na mňa. Nech sa ma boja. Nech Cirkev premýšľa, čo viem a čo nie." Odmlčal sa. „Zatiaľ čo ty robíš to, čo vieš najlepšie."
+Tami stisla zuby. Nenávidela, keď mal pravdu. Nenávidela ešte viac, že to povedal tým pokojným, vecným tónom, ktorý nedovoľoval odpor.
 
-Tami stisla zuby. Vedela, čo povie ďalej. Nenávidela, keď mal pravdu.
+„Nech sa pozerajú na mňa," pokračoval Max. „Nech sa ma boja. Nech Cirkev premýšľa, čo viem a čo nie." Odmlčal sa. „Zatiaľ čo ty robíš to, čo vieš najlepšie."
 
-„Zmiznúť," dokončil za ňu.
+„Zmiznúť," dokončila za neho sucho.
 
 „Kondenzátory," prerušila ho skôr, než mohol pokračovať. „Ten Grawský šrapnel nás nepekne trafil a spôsobil väčšie škody, ako som odhadovala. Axiálne čerpadlo je zničené a nemáme náhradné. Budem musieť nájsť špecialistu, ktorý zvládne tú zložitosť." Odvrátila sa od neho a namierila si to k rebríku.
 

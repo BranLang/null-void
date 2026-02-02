@@ -9,7 +9,7 @@ Tami kráčala o pol kroka pred ním. Už nebola vystrašené dievča, ani tá d
 Max si upravil tmavé letecké okuliare. Jeho *oči* skenovali okolie v rôznych spektrách. Videl tepelné stopy potkanov v kanáloch. Videl skryté čepele pod kabátmi žobrákov. Videl strach v očiach ľudí, ktorí nevedeli co bude zajtra.
 Ale Tami videla *sociálne* toky.
 
-„Ulica Mŕtvych zvonov," prečítala Tami zhrdzavenú tabuľu na rohu. „Mako mal zmysel pre humor. Alebo pre drámu."
+„Ulica Mŕtvych zvonov," prečítala Tami zhrdzavenú tabuľu na rohu. „Felix mal zmysel pre humor. Alebo pre drámu."
 
 Ulica bola úzka, tmavá, lemovaná vysokými budovami, ktoré sa k sebe nakláňali ako starci šepkajúci si tajomstvá. V oknách nehoreli žiadne svetlá, len občas sa mihla silueta za špinavou záclonou. Zvuky prístavu sem doliehali len tlmene, akoby ich pohlcovala samotná dlažba, ktorá bola vlhká a lepkavá.
 
@@ -25,7 +25,7 @@ Zastali pred ošarpaným obchodom so starožitnosťami. Vo výklade ležali zapr
 
 Mŕtvy zvon.
 
-Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa miestnych je to univerzálny kód pre 'nie som Grawská sviňa'."
+Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa Felixa — starého Maka, ktorý ma vychoval — je to univerzálny kód pre 'nie som Grawská svina'."
 
 Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, mačacie oči. Zreničky sa v šere rozšírili, keď padli na Maxovu tmavú postavu a potom na Tamin rapier.
 
@@ -116,7 +116,13 @@ Pozrel na Maxa s absolútnou hrôzou.
 
 „Spáč," vydýchol Kito.
 
-Pozrel Maxovi priamo do tváre. „Ty si Štvrtý Príchod."
+„Ten artefakt... on nepatrí Cirkvi," pokračoval roztrasene. „V starých textoch sa píše, že patril Jemu. Že cez neho hovoril s nebom. Že keď ho držal, svet ho počúval."
+
+Pozrel Maxovi priamo do tváre. „Ty si Štvrtý Príchod," vydýchol Kito.
+
+Tami stuhla. „Štvrtý príchod?" zopakovala. Hlas jej znel ostrejšie než rapier na jej opasku. „Felix mi o tom nikdy nehovoril. A ja neverím v proroctvá."
+
+„Prvý Príchod priniesol Matku," zašepkal Kito, ruky sa mu triasli. „Druhý Príchod priniesol Archanjelov. Tretí Príchod... o ňom sa nesmie hovoriť. A ty..." Pozrel na Maxa s absolútnou hrôzou. „Ty si štvrtý. Ten, ktorý zobudí sa zo Zeme. Ten, ktorý ukončí cyklus."
 
 Max mlčal. Nevedel o žiadnej legende. Ale vedel, čo Kito potrebuje vidieť.
 
@@ -156,13 +162,18 @@ Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
 A potom sa to stalo.
 Realita toho, čo práve povedal, a hlavne *komu* to povedal, na neho dopadla s oneskorenou silou padajúceho stropu.
-Stojí pred Spáčom. Pred legendou, ktorá má zničiť svet.
 
-Kito sa začal triasť. Nebolo to jemné chvenie. Bolo to kŕčovité vibrovanie celého tela. Jeho telekinéza skolabovala do seba, vzduch v miestnosti praskol, jedna z políc sa s rámusom zrútila. Zostal len čistý, paralyzujúci des.
+Kito sa začal triasť. Jeho telekinéza skolabovala, vzduch v miestnosti praskol.
 
-„Max, nestraš ho," sykla Tami. „Potrebujeme ho funkčného." Zrazu pohla usami. O dve sekundy na to sa ozbal prichod pisklavy zvuk padajuceho granatu.
+Tami prikročila a facla ho. Raz. Ostro.
 
-Skôr, než stihli urobiť čokoľvek iné, vzduch vonku sa roztrhol.
+„Spamätaj sa!" syčala. „Potrebujeme ťa funkčného, nie ako hysteriujúcu babu!"
+
+Kito zamrkal, šok z facky ho vytrhol z panika—
+
+Tami zrazu pohla ušami — líščími ušami, ktoré sa napriamili ako radarové taniere. Počula to o dve sekundy pred všetkými ostatnými: piskľavý, tenký zvuk padajúceho granátu.
+
+Vzduch vonku sa roztrhol.
 
 *BOOOOM.*
 
@@ -266,15 +277,11 @@ Pre Maxa to však nebol len sliz.
 Teplota. Vlhkosť. Pach ozónu a hniloby.
 Senzory mu na sekundu zlyhali. 
 
+*Modrá kryo-tekutina. Pľúca horeli. Oči explodovali v mraze. 3000 rokov tmy.*
 
-Flashback ho zasiahol bez varovania.
+*Prvý dotyk po prebudení — chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa.*
 
----
-*...Prebudenie.*
-*Nie v bahne, ale v ľade. Modrá kryo-tekutina ho dusila. Pľúca horeli. Nemohol dýchať, nemohol vidieť. Jeho oči... bolesť bola absolútna.  
-*Prvý dotyk nebol dotyk záchrancu. Bol to chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa. Vix. Ten si ho ohmatával ako dobytok. " Plachý hlas dievčatka ho vytrhol z nočnej mory. "Neboj sa, ujko. Aj ja som monštrum."*
-
----
+*A potom sedemročné dievča s líščími ušami. "Neboj sa, ujko. Aj ja som monštrum."*
 
 „Max?"
 Tamin hlas ho vytiahol späť.
