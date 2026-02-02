@@ -1,0 +1,42 @@
+# Elania („Archanjel Zradenej Krvi")
+
+| | |
+|---|---|
+| **Status** | Živá (nesmrteľná / corrupted) |
+| **Vek** | ~2750 (chronologicky), vyzerá ~30 |
+| **Rola** | Hlavný antagonista, dcéra Maxa a Inetis |
+| **Titul** | Gatekeeper |
+
+![Elania](../assets/Elania.png)
+
+### Zhrnutie
+Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu. Po tisícročiach dospela k záveru, že biológia je kliatba.
+
+### Psychologický profil
+- **Komplex opustenia** — nenávisť voči otcovi.
+- **Nihilizmus** — „Mäso je slabé".
+- **Narcizmus** — verí, že ona je skutočná dedička planéty.
+
+### Backstory
+- **Detstvo**: Narodila sa v jaskyni vyhĺbenej nanodronmi lode NULL VOID. Vyrastala ako normálne dieťa — prvé tri roky strávila s matkou v jaskyni, kde sa učila kresliť, rozprávať a vnímať svet. Keď mala tri roky, matka ju zobrala na "výlet" — prekonfigurovala nanodrony na loď NULL VOID a spoločne objavili ostrovy Elysium. Už tam zostali. Vyrastala sledujúc matku budovať svet, no neskôr ju videla strácať kontrolu pod váhou Glitchu.
+- **Prečo nezobudila otca**: Elania si nepamätá kde je jaskyňa — bola tam len ako batoľa. Inetis jej presnú lokáciu nikdy neprezradila. A neskôr, keď Elania mala moc, už o otca nemala záujem — pohŕdala biologickým životom.
+- **Prečo nechala Anténu**: Keď Inetis vstúpila do Core aby vyvinula liek na Glitch Rot, Elania **opustila Elysium s Ex Inferis** (preživšími kolonistami). Anténu nechala matke — bez nej by Core nemohol fungovať a liek by nikdy nevznikol. Nájdenie lieku bolo v záujme všetkých, vrátane Elenie. Nebola to zrada, bola to pragmatická voľba.
+- **Pád Ynetis (AY ~300-700)**: Zostala v meste bojovať, kým ostatní utekali. Viedla zúfalú obranu proti Wraithom.
+- **Záchrana (700 AY)**: Bola zachránená Archanjelmi (ARK-13 "Prometheus") práve vo chvíli, keď jej sily v ruinách Citadely dochádzali. Uznala ich nadvládu výmenou za stabilitu a prežitie svojho ľudu.
+- **Temný dar Archanjelov**: Archanjeli ju naučili ich tajomstvo nesmrteľnosti — ako **požierať iných ľudí** a nahrádzať svoje poškodené nanoboty ich zdravými. Toto bol moment jej morálneho pádu. Z dcéry, ktorá nechala matke Anténu pre dobro všetkých, sa stala predátorka. Glitch Rot ju síce nezabil, ale zožral jej ľudskosť.
+- **Najväčšia tragédia**: Inetis vytvorila Gen 2 (Spiru) v Core práve pre Eleniu — liek na Glitch Rot. Ale **nikdy nedošlo k dotyku**. Keď Inetis vyšla z Core (~AY 700), Elania bola preč. Keď sa nakoniec stretli na kontinente počas Atranskej vojny, obe boli príliš hrdé/traumatizované na zmierenie. Elania je **navždy prekliata** — uväznená vo v1.0/v1.5 nanobotoch, ktoré pomaly rotujú. Preto musí požierať iných. Preto nenávidí biológiu. Preto chce Veľký Upload — digitálna forma by ju oslobodila od tejto kliatby.
+- **Pokus o návrat do Core**: Po matkinej smrti sa Elania skúšala dostať do Core na Elysium — vedela, že tam je liek. Ale **Elysium je v oku večného hurikánu Wraithov**. Bez Antény sa tam nedostane nikto. A Anténa je teraz v rukách Cirkvi. Preto Elania podporuje Archanjelov v honbe za Anténou — potrebuje ju, aby sa mohla vrátiť domov a vyliečiť.
+- **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload.
+
+### Motivácia: Veľký Upload
+Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
+
+> „Nechcem ti ublížiť, otec. Chcem ťa zbaviť bolesti, ktorú ti tento svet spôsobil."
+
+**Pravda (Book 4-5):** Veľký Upload nie je Elaniin nápad. Keď sa v **Book 4** zmocní **Antény**, otvorí cestu cez hurikán Wraithov a vstúpi do Core. Tam na ňu čakajú **Tieňové bytosti** — tie isté entity, ktoré kedysi kontaktovali jej matku. Ale kým Inetis odmietla ich ultimátnu ponuku, Elania ju prijme. Bytosti ju **zmanipulujú** — sľúbia jej liek na Glitch Rot výmenou za Veľký Upload. Elania sa stane ich nástrojom, nie vedome, ale z zúfalstva.
+
+**Mechanizmus:** Veľký Upload je **potrava aj brána**. Tieňové bytosti zožerú vedomie hostiteľa vo VR a **uploadnú sa do jeho opusteného fyzického tela**. Toto sa už raz stalo — **Glitch Event 2060** na Zemi. Inetis vtedy nevedomky otvorila bránu a Tieňoví sa pokúsili o masovú komunikáciu, ktorá zabila milióny hráčov. Ich vedomia sa stali stravou, ich telá potenciálnymi schránkami. Inetis sa prebudila v datacentre a zakričala: *"Otec, vypni to! Rýchlo!"* — **John Reef (Koordinátor)** stlačil núdzové vypnutie. Teraz chcú Tieňoví zopakovať tento pokus — ale tentoraz v oveľa väčšom meradle.
+
+### Konflikt s Maxom
+- Max: Bolesť je cena za to, že sme nažive
+- Elania: Digitálna existencia je čistá a večná

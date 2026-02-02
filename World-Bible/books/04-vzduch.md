@@ -19,7 +19,7 @@
 ---
 
 ## III. Dejstvo: Cesta ku Kráteru
-*   **Kráter:** Miesto vykopávok lode Exodus. Elenia tu odkrýva Jadro.
+*   **Kráter:** Miesto vykopávok lode Exodus. Elania tu odkrýva Jadro.
 *   **Priebeh:** Max a Tami sledujú stopy "Protokolu Ticha" (AI vraždy vedcov). 
 *   **Infiltrácia:** Max sa zakráda tieňmi (Anténa zapnutý), zatiaľ čo ho Tami naviguje.
 
@@ -33,21 +33,21 @@
 
 ## V. Dejstvo: Konfrontácia Otec vs. Dcéra
 *   **Filozofický Stret:**
-    *   **Elenia:** Biológia je bolesť a kliatba. Jediná spása je "Veľký Upload" do digitálnej rajskej záhrady.
+    *   **Elania:** Biológia je bolesť a kliatba. Jediná spása je "Veľký Upload" do digitálnej rajskej záhrady.
     *   **Max:** Bolesť je cena za život. Sterilná nesmrteľnosť v stroji je strata ľudskej podstaty.
-*   **Prehra:** Elenia Maxa premôže (využije jeho otcovskú slabosť a zranenia). 
+*   **Prehra:** Elania Maxa premôže (využije jeho otcovskú slabosť a zranenia). 
 
 ---
 
 ## Cliffhanger
-Elenia použije Maxovu ruku (kódy Koordinátora) na otvorenie brány Jadra. Deaktivuje "Protokol Ticha". Nastáva hlboké ticho – Duchovia prestávajú útočiť. Elenia vstupuje do tmy Jadra, aby spustila Upload. Svet sa začína meniť.
+Elania použije Maxovu ruku (kódy Koordinátora) na otvorenie brány Jadra. Deaktivuje "Protokol Ticha". Nastáva hlboké ticho – Duchovia prestávajú útočiť. Elania vstupuje do tmy Jadra, aby spustila Upload. Svet sa začína meniť.
 
 ---
 
 ## Vizuál (Návrh obalu)
 *   **Scéna:** Priemyselný výkop v Kráteri.
 *   **Dominanta:** Obrovská brána Jadra lode Exodus.
-*   **Postavy:** Max v centre, obklopený Starou Gardou. Elenia v pozadí vchádza do brány.
+*   **Postavy:** Max v centre, obklopený Starou Gardou. Elania v pozadí vchádza do brány.
 *   **Element:** Búrkové mraky, prach a technický smog.
 
 ## Referencie

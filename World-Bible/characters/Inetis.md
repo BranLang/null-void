@@ -53,17 +53,17 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie viedlo k počatiu Elenie
 9. Po pristátí zistila tehotenstvo, uspala Maxa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
 9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maxov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
-10. ~30 rokov v jaskyni s malou Eleniou (stagnácia rastu dcéry)
+10. ~3 roky v jaskyni s malou Eleniou (príliš malá na spomienky)
 11. **Prekonfigurovala nanodrony naspäť na loď NULL VOID**, vydala sa s Eleniou na cestu okolo planéty
 12. Objavila ostrovy **Elysium** pri rovníku — ideálne miesto na kolonizáciu
-13. Na Elysiu prekonfigurovala NULL VOID na **Foundry** (továreň) — vyrábala v1.0 nanodrony, z ktorých vyrástlo celé mesto
-14. Založila mesto **Elysium** (neskôr Ynetis) — postavené z v1.0 nanodronov z Foundry
+13. Na Elysiu prekonfigurovala NULL VOID na **Foundry** (továreň) — vyrábala v1.0 nanodrony, z ktorých vyrástlo celé mesto. **Anténa bola kľúčová** — bez nej by nedokázala ovládať veľké roje nanodronov potrebné na stavbu mesta
+14. Založila mesto **Elysium** (neskôr Ynetis) — postavené z v1.0 nanodronov z Foundry. **Anténa** sa stala jej hlavným nástrojom a zbraňou — zosilňovač schopný ovládať milióny nanobotov naraz. **Anténa bola umiestnená na najvyššom bode Elysia** — na vrchole vežovej citadely — kde odpudzovala Wraithov od jadra a vytvárala bezpečnú zónu okolo mesta. Preto k nej Elania nemala prístup — bola strážená a nedostupná.
 15. Keď vypukol **Glitch Rot**, rekonfigurovala Foundry na **The Core** (simulácia) — vyvíjala nové, bezpečnejšie nanoboty v2.0 / Dar Matky (~100 simulovaných rokov)
-16. Po návrate našla Ynetis zničené, Elenia nezvestná (nevedela o jej pakte s Archanjelmi)
-17. S preživšími prvýkrát navštívila kontinent, stretla kolónie Varietas
+16. Po návrate našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archanjelmi)
+17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
-19. Periodicky navštevovala pevninu (raz za 30-50 rokov)
-20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie) pri Maxovom kryoboxe (jediný kryobox v jaskyni — po Maxovom prebudení sa rozpadol na prach)
+19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
+20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie) pri Maxovom kryoboxe. **Anténa ostala vedľa jej kostí** — čakala na nového pána
 
 ### Prečo nechala Maxa spať
 - **Trauma:** Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.

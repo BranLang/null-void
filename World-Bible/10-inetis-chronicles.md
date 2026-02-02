@@ -11,7 +11,7 @@ Inetis strávila dlhé obdobie izolovaná v **The Core** — simulácii, ktorú 
 
 Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von, bolo neskoro.
 
-Okolo roku **AY 700** brány Jadra otvorila do ticha. Mesto **Elysium** (neskôr Ynetis) bolo prázdne. Elenia bola preč. Kolonisti zmizli. Mala liek, ale už nebolo koho zachraňovať.
+Okolo roku **AY 700** brány Jadra otvorila do ticha. Mesto **Elysium** (neskôr Ynetis) bolo prázdne. Elania bola preč. Kolonisti zmizli. Mala liek, ale už nebolo koho zachraňovať.
 
 V ruinách našla len hŕstku preživších Exorcistov, ktorí sa skrývali v tieňoch. S nimi, so zlomeným srdcom, opustila mesto duchov a vydala sa hľadať civilizáciu na Pevninu (Nevriss).
 
@@ -59,6 +59,14 @@ Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a m�
 - **Syntax ako Poézia:** Kód zamaskovala do Haiku.
 - **Účel:** Pre Ex Inferis to bola Spira. Nemohli to hacknúť. **Bez prístupu k archívom zo Zeme (ktoré Inetis vymazala)** nemali šancu rozlúštiť syntax Haiku.
 
+### Požehnanie Dotykom (The Blessing)
+Inetis nešírila Spiru hromadne. Každý príjemca musel byť **požehnaný osobne — dotykom**. Tento rituál nebol magický, ale technický: pri kontakte s kožou Inetis preniesla aktívne Gen 2 nanodrony, ktoré sa integrovali do hostiteľovho genómu a stali sa dedičnými.
+
+- **Dedičnosť:** Požehnanie sa prenáša z rodiča na dieťa. Potomkovia požehnaných sa rodia s aktívnou Spirou.
+- **Jej Tím z Elysium:** Keď Inetis opustila ruiny Elysia a vydala sa hľadať civilizáciu, nešla sama. Sprevádzala ju hŕstka preživších — **ľudís** — ktorí prežili Glitch Rot v tieni The Core. Títo boli prvými požehnanými.
+- **Ľudia so Spirou:** Medzi požehnanými boli aj ľudia (Homo Sapiens Sapiens). Pre nich Spira v2.0 fungovala rovnako ako pre Varietas — bola navrhnutá pre ľudský genóm a Varietas sú len geneticky modifikovaní ľudia. Tito ludia sa ale vzdali verzie 1.0 a presedlali na 2.0.
+- **Osud Tímu:** Po Veľkej Vojne väčšina jej ľudského tímu zostala v Nevriss. Ich potomkovia dodnes žijú  na **južnom pobreží Terry** — komunity „Požehnaných Ľudí" (Blessed Ones), ktorí majú Spiru ako Varietas, ale zachovali si čisté ľudské telá. 
+
 ---
 
 ## Veľká Vojna (The Great War)
@@ -68,8 +76,8 @@ Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a m�
 Okolo roku **AY 850** došlo k nevyhnutnému. Varietas, posilnení Spirou, začali budovať mestá. Prestali sa báť.
 
 **Ex Inferis zaútočili.**
-Nebola to Elenia, kto ich viedol. Ona bola v tom čase len "piate koleso" — ignorovaná a bez reálnej moci.
-Výpravu viedol Triumvirát: **Grom** (Sila), **Samaell** (Smrť) a **Zaiya/Ishtar** (Ilúzia). Chceli "Dar Matky" pre seba.
+Nebola to Elania, kto ich viedol. Ona bola v tom čase len "piate koleso" — ignorovaná a bez reálnej moci.
+Výpravu viedol Triumvirát: **Grond** (Sila), **Samaell** (Smrť) a **Zaiya/Ishtar** (Ilúzia). Chceli "Dar Matky" pre seba.
 
 Vojna bola brutálna. Ľudské légie (v1.0) narazili na Prvých Krotiteľov (v2.0).
 - **Genocída Líšok:** Líščí rod (Vulpes) boli **lídri a inteligencia** Varietas — najprefíkanejší stratégovia a najtalentovanejší programátori Spiry. Preto sa stali primárnym cieľom.
@@ -88,10 +96,10 @@ V rozhodujúcej bitke v **Atranskej Úžine (The Atra Narrows)** pod Hangravall 
 Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. Ale Varietas využili terén. V úzkom priestore bola prevaha Archanjelov negovaná. Líšky (Vulpes) a Varietas vytvorili stenu zo Spiry a tiel, ktorú Ex Inferis nedokázali prelomiť.
 
 **Dôsledky (Rozpad Triumvirátu):**
-1.  **Grom (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
+1.  **Grond (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
 2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Aprika**), kde neskôr vybudovala svoje izolované Sklené Mesto.
 3.  **Samaell (Tulák):** Ponoril sa do depresie a šialenstva. Odvrhol vodcovstvo a stal sa z neho tulák a vrah, závislý na kradnutí "krvi" (technovampirizmus).
-4.  **Elenia:** Jej légia sa do boja nezapojila. Keď uvidela Matku, plakala, ale pre obrovskú hanbu sa jej nedokázala ospravedlniť. Utiahla sa do svojej **Veže Zatratených (Tower of the Damned)** na izolovanom ostrove západne od pevniny.
+4.  **Elania:** Jej légia sa do boja nezapojila. Keď uvidela Matku, plakala, ale pre obrovskú hanbu sa jej nedokázala ospravedlniť. Utiahla sa do svojej **Veže Zatratených (Tower of the Damned)** na izolovanom ostrove západne od pevniny.
     - **Jurassic Park:** Istý čas sa snažila napraviť svet — v Južnej Neurope začala s teraformáciou a v púšti vytvorila prispôsobené organizmy (jaštery, hmyz).
     - **Rozpad Légie:** Jej légie sa rozdelili. Mnohí odišli do strednej Neuropy, kde založili nové mestá (napr. Ludus). Na Terru sa pre hanbu už nikdy nevrátili. 
 
@@ -111,36 +119,57 @@ Inetis nezomrela v boji. Zomrela vnútorne v ten deň v Atranskej úžine, keď 
 
 ## Posledná Cesta (Hľadanie Maxa)
 
-Po vojne, zlomená a umierajúca na Glitch Rot (ktorý chytila pri práci na Gen 2 v Core), sa rozhodla pre posledný zúfalý čin.
-Vedela, že Archanjeli svet zničia. Že Elenia sa spojila s niečím temným (prvé náznaky paktu s The Void).
+Po vojne, zlomená a umierajúca na Glitch Rot (ktorý chytila pri práci na Gen 2 v Core), sa rozhodla pre posledný zúfalý čin, aj keď vedela, že pravdepodobne tak nikdy nedôjde.
+Bála sa, že vojny nikdy neskončia. Že jej deti nikdy neprestanú bojovať.
+Potrebovala niekoho, kto dokáže urobiť to, čo ona nedokázala. Niekoho, kto nastolí poriadok.
+Cestou do jaskyne veľa spomínala na minulosť a uvedomila si, že Max nebol až tak zlý. To, čo sa medzi nimi stalo, jej už nepripadalo také strašné. Dokonca si nahovorila, že to bola jej chyba.
 
-Potrebovala niekoho, kto dokáže urobiť to, čo ona nedokázala. Niekoho, kto nemá zľutovanie.
+### Prečo odmietla liečbu
+Inetis mala Gen 2 Spiru. Mohla sa liečiť — postupne, pomaly, ale mohla. **Odmietla.**
+- **Unavená zo života** — Stáročia samoty. Strata Elenie. Vina za Glitch Event a milióny mŕtvych na Zemi. Vina za vojny na Achille. Nechcela žiť večne.
+- **Cítila, že si nezaslúži byť zachránená** — Vytvorila technológiu, ktorá zmenila svet na bojisko. Jej dcéra sa stala monštrom. Jej milovaný spal v ľade kvôli jej strachu.
+- **Vedome sa rozhodla zomrieť pri Maxovi** — Nešla do jaskyne, aby ho zobudila. Šla tam, aby zomrela vedľa neho. Chcela, aby posledná vec, čo uvidí, bol on. Chcela ho poprosit o odpustenie. A poprosit ho nech zachrani Eleniu od ex inferis.
+
+**Pre ňu bola smrť vykúpením.** Cítila sa stará a unavená. Tisíc rokov je príliš dlho na to, aby človek — alebo čokoľvek, čím sa stala — ešte chcel žiť.
+
+**Prečo zomrela po 1000 rokoch, keď iní žijú 3000+?** Archanjeli a Elania prežívajú — ale za cenu kanibalizmu a straty ľudskosti. Požierajú iných, aby nahradili svoje rotujúce nanoboty. Inetis **nikdy túto hranicu neprekročila**. Nikdy nepožierala. Zostala ľudská. A práve toto svedomie — vina za Glitch Event, za milióny mŕtvych, za Eleniu, za Maxa v ľade — ju nakoniec zabilo. Ostatní prežili, pretože sa stali monštrami. **Inetis zomrela, pretože ním odmietla byť.**
 **Misia:** Nájsť Maxa.
 
-Vedela, kde pôvodne pristáli — Jaskyňa Počiatku vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii (jediná vec okrem glitchnutej Antény, ktorú nikdy nepremiestnila). Kryobox bol posledný nanodronový modul, ktorý udržiaval Maxa pri živote.
-Cesta trvala mesiace. Išla pešo. Jej nanotechnologické batérie zlyhávali. Každý krok bol bolesť.
+### Prečo pešo, v utajení
+- **Ex Inferis chcú Spiru** — zostávajúci Ex Inferis (Archanjeli a ich spojenci) vedeli, že Inetis má Gen 2 Spiru. Keby použila dopravný prostriedok, vystopovali by ju.
+- **Vedela, že ju budú sledovať** — preto vyrazila sama, pešo, len s Anténou (antena ju robila neviditelnou pre nanodrony a iné technológie, fungovala aj ako rušička ak sa otocila subspace polarita). Žiadne signály, žiadna technológia, ktorú by mohli zachytiť.
+- **Zistila, že potrebuje Maxa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archanjeli ovládajú.
+
+Vedela, kde pôvodne pristáli — Jaskyňa Počiatku vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
+**Vzala so sebou Anténu** — svoju vernú palicu, nástroj, ktorým postavila Elysium a ktorý ju chránil počas všetkých jej ciest. Bez nej by cestu neprežila.
+Cesta trvala dva roky. Išla pešo. Jej nanotechnologické batérie zlyhávali. Každý krok bol bolesť.
 - Prešla cez snehové búrky Severu.
-- Prežila útoky divej zveri len vďaka posledným zvyškom Spiry.
+- Prežila útoky divej zveri len vďaka posledným zvyškom Spiry a **Anténe**, ktorá odpudzovala Wraithov.
+
+### Myšlienky počas cesty
+Cestou do jaskyne veľa rozmýšľala a spomínala. Predstavovala si, ako by sa veci diali, keby boli spolu. Či by Elania vyrástla inak, keby mala otca. Či by vojny vôbec vypukli, keby Max stál po jej boku. Čím dlhšie kráčala, tým viac si uvedomovala, že to, čo kedysi vnímala ako jeho brutalitu, bolo možno len jeho spôsob lásky. A možno — možno — to, čo sa medzi nimi stalo na lodi, nebolo len jeho vina. Stále viac bola rozhodnutá zobudiť ho. Povedať mu všetko. Poprosiť o odpustenie.
 
 ### Smrť v Jaskyni
-Keď dorazila do jaskyne, našla zvyšky svojho dávneho domova — steny pokryté kresbami (Eleniina práca), pozostatky hydroponických fariem, terminály, čo kedysi riadili ich život.
-- **Maxov kryobox:** Jediný modul v jaskyni, v minimálnej konfigurácii. Po 3000 rokoch prevádzky boli nanodrony na hranici kolapsu. Kontrolky blikali na červeno — „Kritické zlyhanie stázy." Max vo vnútri bol sotva nažive: nanodrony udržiavali jeho základné funkcie, ale telo platilo strašnú daň — oči boli zničené mrazom, svalová hmota sa takmer úplne rozložila.
+Keď dorazila do jaskyne(alebo bunker - bludisko ktore poznala len ona vytesane do zulovej skaly), našla zvyšky svojho dávneho domova — steny pokryté kresbami (Eleniina práca), pozostatky hydroponických fariem, terminály, čo kedysi riadili ich život.
+- **Maxov kryobox:** Jediný modul v jaskyni, v minimálnej konfigurácii. Po 1000 rokoch prevádzky boli nanodrony na hranici kolapsu. Kontrolky blikali na zeleno —  Max vo vnútri bol  nažive: nanodrony udržiavali jeho základné funkcie, ale telo platilo dan.
 - **Jej plán:** Pôvodne ho chcela zobudiť a vysvetliť mu všetko. Ale nemala silu ani na samotný proces prebúdzania. A možno, po celých tých stáročiach, sa stále bála toho momentu.
+
+
 
 Sadla si k jeho modulu. Oprela si čelo o studené sklo.
 *„Prepáč, Max. Nechala som ťa spať príliš dlho. Teraz to budeš musieť upratať sám."*
 
 Zomrela tam, v tichu jaskyne.
-Jej telo sa rozpadlo na prach (nanoboty sa deaktivovali a opustili hostiteľa). Ostali len jej denníky (kožené zväzky, ktoré písala celé roky) a kosti.
+Jej telo sa sa premenilo na onyxovu sochu a rozpadlo sa na prach (nanoboty sa deaktivovali a opustili hostiteľa). Ostali len jej denníky (kožené zväzky, ktoré písala celé roky), kosti — a **Anténa**, položená vedľa nej ako verný strážca.
 Max spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho tváre.
 
 ---
 
 ## Wraith Inetis (Duch v Jaskyni)
 
-Inetis zomrela, ale nie celá. Jej deaktivované nanoboty — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkmi. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
+Inetis aka i_net_is rodnym menom Neto Fujiwara zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
 
-Jaskyňa Počiatku sa stala strašidelným miestom. Miestne kmene sa jej vyhýbali. Hovorili o svetlách v tme, o šepotoch v jazyku, ktorý nikto nepoznal (Japončina — syntax Spiry). Wraith Inetis — nie duch v nadprirodzenom zmysle, ale reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
+Jaskyňa Počiatku sa stala zabudnutym miestom na veľmi riedko osidlenej planete (niečo ako sibir na zemi). Reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
 
 ### Kontakt s Tami (~AY 3011)
 

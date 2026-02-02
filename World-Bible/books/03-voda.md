@@ -21,13 +21,13 @@
 ## III. Dejstvo: Veľký Glitch a Odhalenie
 *   **Archív:** Nájdenie riadiaceho centra (uzol Pentagramu).
 *   **The Revelation:** Max aktivuje záznamy z čias prvej kolonizácie (AY 300).
-    *   **Bit Rot Glitch:** Max zisťuje, že nákazu, ktorá zničila rovnováhu nanodronov a hostiteľov, nespôsobila chyba systému, ale **Elenia**. Chcela urýchliť evolúciu človeka do digitálnej formy a "vylepšiť" matkin plán.
+    *   **Bit Rot Glitch:** Max zisťuje, že nákazu, ktorá zničila rovnováhu nanodronov a hostiteľov, nespôsobila chyba systému, ale **Elania**. Chcela urýchliť evolúciu človeka do digitálnej formy a "vylepšiť" matkin plán.
     *   **Dedičstvo krvi:** Max vidí tvár Elenie na záznamoch. Ishtar (alebo Echo Inetis) mu potvrdzuje: "To dievča, ktoré si hľadal... je tvoja dcéra. A ona je Archanjel, ktorého si prišiel zničiť."
 
 ---
 
 ## Zvrat a Cliffhanger
-Max si uvedomuje, že Elenia nezačala ako zloduch, ale ako dcéra túžiaca po otcovi a moci. Jej "zrada" matky bola pokusom o záchranu, ktorý sa zmenil na katastrofu. Kniha končí Maxovým rozhodnutím konfrontovať dcéru priamo na ceste do Vzdušného kráľovstva.
+Max si uvedomuje, že Elania nezačala ako zloduch, ale ako dcéra túžiaca po otcovi a moci. Jej "zrada" matky bola pokusom o záchranu, ktorý sa zmenil na katastrofu. Kniha končí Maxovým rozhodnutím konfrontovať dcéru priamo na ceste do Vzdušného kráľovstva.
 
 ---
 

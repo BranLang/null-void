@@ -17,7 +17,7 @@
 ### Interlúdium: Ďaleko od Snehu
 **Súbor:** `drafts/chapter-1.5-interlude-draft.md`
 *   **I. Sklené Mesto (Aprika)**: Cézar a Zaya. Zaya informuje Cézara o Anténe v Shoravene. Cézar vysiela Raua a Kiru. Zaya varuje pred Požehnanou Matkou.
-*   **II. Južné Územia (Neuropa)**: Elenia dostáva správu o NULL VOID. Sera — jej špiónka — odchádza do Shoravenu.
+*   **II. Južné Územia (Neuropa)**: Elania dostáva správu o NULL VOID. Sera — jej špiónka — odchádza do Shoravenu.
 
 ### Kapitola 2: Ulica Mŕtvych zvonov (Hotovo)
 **Súbor:** `drafts/chapter-2-draft.md`
@@ -52,13 +52,13 @@
 *   **Flashback 2**: Max vs Samaell (AY 3001) — spomienka vyvolaná strachom z Paladínov a bezmocnosťou.
 *   **Regrouping**: Max, Tami a Kito na Makite. Anténa preč (Apes → Aprika). Graw stále obliehajú Shoraven.
 *   **The Decision**: Max sa rozhodne skoncovať s Grawom pred odchodom.
-*   **The Blood Ritual**: Max uvoľní plnú vojenskú kapacitu nanodronového swarmu — Čierny Prach v najčistejšej forme. Devastujúci útok, ktorý vymaže Grawskú ofenzívu. **Max zabije Groma.**
+*   **The Blood Ritual**: Max uvoľní plnú vojenskú kapacitu nanodronového swarmu — Čierny Prach v najčistejšej forme. Devastujúci útok, ktorý vymaže Grawskú ofenzívu. **Max zabije Gronda.**
 *   **The Price**: Nanoboty klesajú na ~5%. Max je na hranici smrti. Tami a Kito ho nesú na Makitu.
 
 ### Kapitola 6: Oheň z Nebies (The Escape)
 **Súbor:** `drafts/chapter-6-draft.md`
 *   **The Counter-Attack**: *Makita* odlieta z horiaceho Shoravenu. Felix (88mm) čistí cestu.
-*   **Dogfight**: Letecký súboj nad mestom. Grawské "Valkyrie" stíhačky — zvyšky ofenzívy bez Groma.
+*   **Dogfight**: Letecký súboj nad mestom. Grawské "Valkyrie" stíhačky — zvyšky ofenzívy bez Gronda.
 
 ### Kapitola 7: Prebudenie (The Origin)
 **Súbor:** `drafts/chapter-7-draft.md`
@@ -80,4 +80,4 @@
     *   Pôvod (Origin) -> Ch 7 / Epilóg (Parallel)
 *   **Paladíni**: Energetické štíty (Hard Light) + vibro-sekery. Žiadne fyzické štíty, žiadne kopije.
 *   **Anténa**: Apes ju získajú v Ch3 a odnesú na Apriku. Max ju v Knihe 1 NEZÍSKA.
-*   **Grom**: Zomiera v Ch5 (Blood Ritual). Graw stráca veliteľa.
+*   **Grond**: Zomiera v Ch5 (Blood Ritual). Graw stráca veliteľa.

@@ -28,10 +28,10 @@ Keďže gravitácia je dvojnásobná, ľudia sa museli adaptovať (biologicky aj
 Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšina povrchu zostala nehostinná.
 
 ### Všeobecná klíma — Zamrznutý svet
-- **Celá planéta je zamrznutá.** Achilles je ľadový svet — povrch je takmer úplne pokrytý ľadom, snehom a permafrostom.
+- **Skoro celá planéta je zamrznutá.** Achilles je ľadový svet — povrch je takmer úplne pokrytý ľadom, snehom a permafrostom.
 - **Jediná obyvateľná zóna** je úzky pás okolo **rovníka**, kde kombinácia slnečného žiarenia, geotermálnej aktivity a zvyškovej teraformácie udržiava teploty nad bodom mrazu.
-- Tento rovníkový pás je **všetko, čo civilizácia Varietas pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri kontinenty — Terra, Aprika a Neuropa — ležia v tomto páse.
-- Pás nie je tropický raj — je to drsná, chladná krajina s boreálnymi lesmi, tundrou a občasnými teplejšími údoliami. Džungle existujú len v najchránenejších oblastiach (geotermálne pramene + zvyšky terraformingu).
+- Tento rovníkový pás je **všetko, čo civilizácia Varietas pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri objavene kontinenty — Terra, Aprika a Neuropa — ležia v tomto páse.
+- Pas nie je tropický raj — je to drsná, chladná krajina s boreálnymi lesmi, tundrou a občasnými teplejšími údoliami. Džungle existujú len v rovnikovej oblasti (geotermálne pramene + zvyšky terraformingu).
 
 ### Sezónny cyklus
 - **Zimy trvajú 5 rokov** — devastujúce pre poľnohospodárstvo. Aj v rovníkovom páse teploty klesajú k bodu mrazu, ľadovce sa posúvajú bližšie.
@@ -153,7 +153,7 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
     ─ ─ ─ ─ ─ ─ ─ ─ ═ R O V N Í K ═ ─ ─ ─ ─ ─ ─ ─ ─
                          ~ ~ ~ MORE ~ ~ ~
    🏰 VEŽA ZATRATENÝCH      ╔════════════════════════════════════╗
-      (Elenia - Zelená)     ║  ❓ YNETIS — STRATENÉ MESTO          ║
+      (Elania - Zelená)     ║  ❓ YNETIS — STRATENÉ MESTO          ║
       [Ostrov na Západe]    ║  "Potopilo sa." Nikto sa nevrátil.  ║
                             ╚════════════════════════════════════╝
     ┄┄┄┄┄┄┄┄┄┄┄┄┄ hranica ľadu ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
@@ -175,8 +175,8 @@ Terra zaberá severozápadnú časť obyvateľného pásu. Je pretiahnutý zo se
 |---|---|
 | **Názov** | **Graw** |
 | **Starý názov** | Neznámy (stratený v histórii) |
-| **Vládca** | "Nesmrteľný **Grom**" |
-| **Náboženstvo** | Kult Nesmrteľného Groma |
+| **Vládca** | "Nesmrteľný **Grond**" |
+| **Náboženstvo** | Kult Nesmrteľného Gronda |
 | **Charakter** | Militantný, expanzívny, industriálny |
 | **Hlavné mesto** | Magmové Mesto (pod horským masívom) |
 | **Obyvatelia** | **Ľudia** (Vládnuca kasta / Armáda) + Varietas (Robotníci / Otroci). Na rozdiel od Juhu, v Graw žije významná populácia "Čistých" ľudí, ktorí tvoria jadro armády. |
@@ -198,13 +198,13 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 - **Dediny**: Roztrúsené osady v lesoch, zásobované z hlavného mesta. Počas zím sa mnohé vyprázdnia.
 - **Severná hranica**: Za horským masívom začína zamrznutá zóna. Občasné výpravy za vzácnymi minerálmi.
 
-### Tajomstvo Groma
-- **Pravý Grom (AY 700-1200)**: Skutočný Archanjel, Ex Inferis zo Zeme. Spravodlivý vládca, ktorý nosil Power Armor. Varietas ho milovali.
+### Tajomstvo Gronda
+- **Pravý Grond (AY 700-1200)**: Skutočný Archanjel, Ex Inferis zo Zeme. Spravodlivý vládca, ktorý nosil Power Armor. Varietas ho milovali.
 - **Smrť (~AY 1200)**: Zomrel na Glitch Rot. Jeho Power Armor zostal.
-- **Dynastia podvodníkov (AY 1200-3013)**: Generáli si obliekli zbroj a vyhlásili sa za "Groma II, III..." Nikto nevidí tvár pod helmou.
-- **Aktuálny "Grom"**: Agresor a dobyvateľ. Začína vojnu s Juhom.
+- **Dynastia podvodníkov (AY 1200-3013)**: Generáli si obliekli zbroj a vyhlásili sa za "Gronda II, III..." Nikto nevidí tvár pod helmou.
+- **Aktuálny "Grond"**: Agresor a dobyvateľ. Začína vojnu s Juhom.
 
-### Vzhľad Groma - pôvodný legendárny
+### Vzhľad Gronda - pôvodný legendárny
 - Ako The Rock vo filme Kráľ Škorpión / Conan
 - Svalnatý, surový, dobrodruh "starej krvi"
 - Power Armor = chodiaci tank, symbol božskej moci
@@ -401,7 +401,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich d
 ### 2. Územie Graw (Sever)
 - **Vzhľad:** Tmavé ihličnaté lesy po oboch stranách magmového mesta. Industriálne, temné, studené.
 - **Ruiny:** Pozostatky starovekej architektúry — monolitické biele štruktúry medzi stromami, zasnežené a zarastené.
-- **Vládca**: "Nesmrteľný Grom" (dynastia v Power Armor)
+- **Vládca**: "Nesmrteľný Grond" (dynastia v Power Armor)
 - **Klíma:** Najchladnejšia obývaná oblasť — na hranici ľadovej zóny. Počas 5-ročných zím je takmer neobývateľná mimo vyhrievané mesto.
 - **Fauna**: V lesoch sa túlajú nebezpečné šelmy — na detailnej mape viditeľný veľký vlk/šelma medzi stromami. Genetické mutácie z éry teraformácie.
 
@@ -498,11 +498,11 @@ Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani pro
 
 Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — nostalgický odkaz na starú Európu, kontinent, ktorý ich predkovia opustili pred 3000 rokmi. Krajina kontrastov — husté lesy, hory, starobylé mestá a nebezpečné pustatiny. Domov Ľudí (čistokrvných potomkov pozemšťanov), Exorcistov, Medvedích Varietas a Elenie samotnej.
 
-#### Veža Zatratených — Elenia
+#### Veža Zatratených — Elania
 
 | | |
 |---|---|
-| **Vládkyňa** | **Elenia** (Archanjel Zradenej Krvi) |
+| **Vládkyňa** | **Elania** (Archanjel Zradenej Krvi) |
 | **Sídlo** | **Veža Zatratených** — starobylé mesto postavené okolo pradávnej veže |
 | **Lokácia** | **Ostrov na západe** (Zelený kruh na mape), oddelený od pevniny. Nie je súčasťou Elysia (Fialový kruh). |
 | **Charakter** | Temný, nostalgický, stagnujúci |
@@ -510,7 +510,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Pôvod**: Veža Zatratených vznikla ako **druhé mesto po Ynetis** — ešte počas Zlatej éry, ako pokus o expanziu, keď bol Ynetis preľudnený. Starobylá veža v centre mesta je jednou z najstarších stavieb na planéte.
 - **Obyvatelia**: Ľudia, ktorí prežili Glitch Rot — pretože **obmedzili používanie nanotechnológie na minimum**. Používajú nanotech len na predlžovanie životov. Nič viac.
 - **Mentalita**: Spomínajú na minulosť a neplánujú budúcnosť. Stagnujúca civilizácia — technologicky schopná, ale bez vôle niečo meniť. Žijú v tieni toho, čo bolo.
-- **Tajomstvo**: Elenia nevie o osude ostatných Archanjelov.
+- **Tajomstvo**: Elania nevie o osude ostatných Archanjelov.
 - **Rola v príbehu (Triangulácia)**: Veža Zatratených je **tretí a posledný bod** Maxovej trigonometrickej triangulácie. Po získaní meraní z Veľkého Majáku (Nevriss) a Sklenej Veže (Zaya) tu Max dokončí výpočet presnej polohy Ynetis — strateného mesta za morom (Kniha 4).
 
 #### Ludus — Mesto Ľudí
@@ -519,10 +519,10 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 |---|---|
 | **Názov** | **Ludus** |
 | **Lokácia** | Stred kontinentu — najväčšie mesto Ľudí na planéte |
-| **Pôvod** | **Odídenci z Eleniinej Légie** |
+| **Pôvod** | **Odídenci z Elaniinej Légie** |
 | **Obyvatelia** | Čistokrvní ľudia — potomkovia pozemšťanov |
 
-- **Pôvod v Légii**: Zakladatelia mesta boli dôstojníci Eleniinej légie, ktorí opustili Vežu Zatratených. Cítili hanbu za to, že nebojovali, ale odmietli žiť v izolácii. Rozhodli sa vybudovať novú civilizáciu v strednej Neurope, ale prisahali, že sa **nikdy nevrátia na Terru**.
+- **Pôvod v Légii**: Zakladatelia mesta boli dôstojníci Elaniinej légie, ktorí opustili Vežu Zatratených. Cítili hanbu za to, že nebojovali, ale odmietli žiť v izolácii. Rozhodli sa vybudovať novú civilizáciu v strednej Neurope, ale prisahali, že sa **nikdy nevrátia na Terru**.
 - **Nesmrteľní zakladatelia**: Pôvodní legionári sú geneticky modifikovaní (nesmrteľní).
 - **Tragédia nesmrteľnosti**: Rast populácie bol po stáročia minimálny — ich deti sú **smrteľné**.
 - **Populačná explózia**: Dnes je medzi nimi 95% smrteľníkov.
@@ -555,15 +555,15 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Učenie**: Majstri učia tajomstvám minulosti — ako poraziť Wraiths. Exorcisti sú jedni z mála, čo chápu skutočnú podstatu „Spiry" (nanotechnológie) a vedia ju obrátiť proti duchom.
 - **Tajomstvá minulosti**: Tu sa zachovali znalosti z čias pred Glitch Rotom — vrátane fragmentov technológie zo Zeme.
 
-#### Južná Pustatina (Eleniino Dielo)
+#### Južná Pustatina (Elaniino Dielo)
 
 | | |
 |---|---|
 | **Lokácia** | Južná časť kontinentu — púšte, skalnaté pláne |
 | **Pôvod** | **Pokus o Teraformáciu ("Jurský Park")** |
-| **Obyvatelia** | Eleniine experimenty (Jaštery, Hmyz) |
+| **Obyvatelia** | Elaniine experimenty (Jaštery, Hmyz) |
 
-- **Jurassic Park**: Elenia sa tu pokúsila "opraviť svet". Pomocou genetického inžinierstva a nanotechnológie sa snažila v nehostinnej púšti vytvoriť život.
+- **Jurassic Park**: Elania sa tu pokúsila "opraviť svet". Pomocou genetického inžinierstva a nanotechnológie sa snažila v nehostinnej púšti vytvoriť život.
 - **Výsledok**: Vznikli tu prispôsobené, gigantické organizmy — tvory podobné **drakom a dinosaurom**. Ekosystém je divoký, nebezpečný a vymkol sa kontrole.
 - **Nebezpečná oblasť**: Nikto sem nechodí dobrovoľne. Tvory sú teritoriálne.
 - **Na mape**: Suchá, piesočná krajina (označená červeným obdĺžnikom na mapách).
@@ -586,7 +586,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 | | |
 |---|---|
 | **Charakter** | Nepreskúmaná divočina |
-| **Významné miesto** | **Jaskyňa Počiatku** (kde sa narodila Elenia) |
+| **Významné miesto** | **Jaskyňa Počiatku** (kde sa narodila Elania) |
 | **Udalosť** | Tu bol nájdený **Anténa** hľadačmi pokladov |
 
 - Ďaleko od civilizácie
@@ -612,7 +612,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 
 - **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
-- **Jaskyňa Inetis / Jaskyňa Počiatku**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maxov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~30 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maxovom kryoboxe. Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
+- **Jaskyňa Inetis / Jaskyňa Počiatku**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maxov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~3 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maxovom kryoboxe. Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
 - **Shoraven**: Strategické hraničné mesto na severe Nevriss; severný prístav na hranici s Graw (nezamŕza vďaka termálnym prúdom); Hlavný Chrám (pobočka) s Anténa v kobkách; 3. rok Dlhej Zimy; prvá línia obrany proti grawskej invázii.
 - **Nevriss City**: Hlavné mesto Nevriss; prístavné mesto na vysokých útesoch nad južným morom. Prežilo Veľkú Potopu (~AY 1500) — tsunami sa rozbíjali o útesy, ale flotila bola zničená. K prístavu pod útesmi vedie masívny výťahový systém a tunely v skale. Dominanta: **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta po tisíce rokov). Sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza. **Tajomstvo**: Požehnaná Matka je v skutočnosti **Mormiel** — 4. Archanjel z ARK-13. Každých ~100 rokov vykoná Rituál Nástupníctva (pohltí mladú kandidátku a preberie jej podobu). Za ~2300 rokov prešla cez ~23 identít. Nočná lovkyňa („Nočný Tieň").
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
@@ -620,7 +620,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.
 - **Medvedie Lesy**: Severná časť Neuropy; husté prastaré lesy obývané Medvedími Varietas — kmeňová, teritoriálna spoločnosť.
 - **Enkláva Exorcistov**: Kláštor vysoko v horách; výcvik bojovníkov proti Wraiths; zachované znalosti z čias pred Glitch Rotom.
-- **Južná Pustatina**: Eleniine experimenty — tvory podobné drakom a dinosaurom.
+- **Južná Pustatina**: Elaniine experimenty — tvory podobné drakom a dinosaurom.
 - **Mystické Miesto Prastarých**: Kam chodia umierať Prastarí. Nikto sa nevrátil.
 - **Ruiny laboratórií**: Bývalá doména Samaella; miesto experimentov s nanotechom.
 - **Core (Jadro AI)**: V srdci strateného mesta Ynetis. Tu Inetis vytvorila malú simuláciu pre vývoj Daru Matky. Teraz väzenie AI THE VOID.

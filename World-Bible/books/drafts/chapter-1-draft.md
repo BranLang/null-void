@@ -222,7 +222,7 @@ Na každom treťom stĺpe visel čerstvý plagát. Tami sa pri jednom zastavila.
 
 Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho so Spirou.
 
-Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grom je falošný boh! Grom je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* Okolo neho sa zhŕkol malý dav — väčšinou Ghorki - najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
+Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* Okolo neho sa zhŕkol malý dav — väčšinou Ghorki - najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
 
 Okolo nej prúdili davy — slobodní nosiči, vozokári s volskými záprahmi, skupiny námorníkov v rôznych štádiách opitosti a medzi nimi čoraz viac žoldnierov. Skupinka rozložitých vlkov v seversky strihnutých kožušinách — dezertéri z Graw? — sa tlačila okolo stánku so zbraňami. Dve čierne panterky (asi sestry pomyslela si Tami) preťažili voz s ťažkými guľometmi a teraz nadávali na vola, ktorý odmietal tiahnuť. Jeden z žeriavnikov v kabíne nad nimi sa zľutoval — spustil rameno, zachytil celý voz do siete a preložil ho na stranu.
 

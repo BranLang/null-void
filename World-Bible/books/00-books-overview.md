@@ -70,12 +70,12 @@ graph TD
 **Prítomnosť:**
 - Max a 7-ročná Tami putujú na Juh cez Severné pustatiny.
 - Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
-- Prvé strety s jednotkami Groma.
+- Prvé strety s jednotkami Gronda.
 - **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Max nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
 
 ### Konflikt
 - Maxov boj s vlastnou tieňovou minulosťou zabijaka.
-- **Grom** (Archanjel Vojny) vs. relikt starej éry.
+- **Grond** (Archanjel Vojny) vs. relikt starej éry.
 
 ---
 
@@ -93,10 +93,10 @@ graph TD
 
 ### Konflikt
 - **Ishtar** a her útok na Maxovu psychiku cez obraz dokonalej rodiny.
-- Odhalenie pravdy o **Bit Rot Glitchi** (Eleniina zrada).
+- Odhalenie pravdy o **Bit Rot Glitchi** (Elaniina zrada).
 
 ### Finále
-- Archív v Ynetis odhalí Maxovi najväčšie tajomstvo: Elenia je jeho dcéra.
+- Archív v Ynetis odhalí Maxovi najväčšie tajomstvo: Elania je jeho dcéra.
 
 ---
 
@@ -104,7 +104,7 @@ graph TD
 > Detailná osnova: [04-vzduch.md](04-vzduch.md)
 
 ### Dej
-- Otvorená konfrontácia Max vs. Elenia.
+- Otvorená konfrontácia Max vs. Elania.
 - Infiltrácia ku **Kráteru** (vykopávky lode Exodus).
 - Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
 
@@ -114,10 +114,10 @@ graph TD
 
 ### Konflikt
 - **Otec vs. Dcéra:** Stret dvoch pohľadov na spásu (Biológia vs. Digitálna utópia).
-- Maxova neochota zabiť dcéru vs. Eleniina chladná logika "spásy".
+- Maxova neochota zabiť dcéru vs. Elaniina chladná logika "spásy".
 
 ### Finále
-- Elenia aktivuje **Protokol Null** v Jadrue.
+- Elania aktivuje **Protokol Null** v Jadrue.
 - **CLIFFHANGER:** Zastavenie Duchov po celom svete a desivé ticho pred búrkou.
 
 ---
@@ -132,12 +132,12 @@ graph TD
 - Max sa pripojí do virtuálnej reality
 
 ### Nový Achilles
-- Elenia vytvorila rekonštrukciu pôvodnej hry
+- Elania vytvorila rekonštrukciu pôvodnej hry
 - Ponúka Maxovi dokonalý raj + digitálnu Inetis
 
 ### Odhalenie
 - Glitch Entities sa prebúdzajú
-- Elenia nevedomky buduje „kŕmidlo" pre digitálne parazity
+- Elania nevedomky buduje „kŕmidlo" pre digitálne parazity
 
 ### Finále
 - **maXpowa & i_net_is** spolu naposledy
@@ -146,5 +146,5 @@ graph TD
 
 ### Epilóg
 - Max = Duch v Stroji (strážca)
-- Elenia = smrteľná, zlomená
+- Elania = smrteľná, zlomená
 - Tami = vodkyňa novej éry

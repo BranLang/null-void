@@ -44,7 +44,7 @@ Miesto, kde pristál Exodus a kde Inetis založila prvú civilizáciu.
 
 Vzhľad: Napoly potopené ruiny futuristického mesta, obrastené morskou flórou. "Kyberpunkové Pompeje pod vodou."
 
-Archív: V centrále pod hladinou je "Čierna skrinka" civilizácie. Pravdivý záznam histórie, ktorý Elenia a Archanjeli chceli zničiť.
+Archív: V centrále pod hladinou je "Čierna skrinka" civilizácie. Pravdivý záznam histórie, ktorý Elania a Archanjeli chceli zničiť.
 
 III. VÝVOJ POSTÁV (CHARACTER ARCS)
 Maximilián (Boj s prízrakmi)

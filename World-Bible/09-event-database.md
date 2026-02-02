@@ -103,7 +103,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.elenia_birth`
 - Názov: Narodenie Elenie
 - Čas: pred AY 0
-- Zhrnutie: Elenia sa narodí v jaskyni Null-Void po neúspešnom genetickom experimente. Kvôli modifikácii rastie extrémne pomaly.
+- Zhrnutie: Elania sa narodí v jaskyni Null-Void po neúspešnom genetickom experimente. Kvôli modifikácii rastie extrémne pomaly.
 - Účastníci: `char.elenia`, `char.inetis`, `char.maximilian`
 - Lokácie: `place.cave_null_void`
 - Tagy: `rodina`, `dedičstvo`
@@ -121,7 +121,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.elenia_first_revolt`
 - Názov: Prvá vzbura Elenie
 - Čas: AY 0–300 (pracovne)
-- Zhrnutie: Konflikt Matka vs. Dcéra: Inetis chce slobodnú spoločnosť; Elenia smeruje k poriadku a nadvláde.
+- Zhrnutie: Konflikt Matka vs. Dcéra: Inetis chce slobodnú spoločnosť; Elania smeruje k poriadku a nadvláde.
 - Účastníci: `char.elenia`, `char.inetis`
 - Lokácie: `place.ynetis`
 - Tagy: `konflikt`, `rodina`, `politika`
@@ -259,9 +259,9 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Zdroj: `world-bible.md`
 
 ### `evt.story.kratos_campaign`
-- Názov: Severná kampaň (Grom)
+- Názov: Severná kampaň (Grond)
 - Čas: Kniha 2 (pracovne)
-- Zhrnutie: Cesta na sever a konflikt s Gromom; vojna a zodpovednosť ako téma.
+- Zhrnutie: Cesta na sever a konflikt s Grondom; vojna a zodpovednosť ako téma.
 - Účastníci: `char.maximilian`, `char.tami`, `char.grom`
 - Lokácie: `place.north`
 - Tagy: `vojna`
@@ -270,7 +270,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.ishtar_campaign`
 - Názov: Južná kampaň (Ishtar)
 - Čas: Kniha 3 (pracovne)
-- Zhrnutie: Ishtar mučí Maxa ilúziami; odhalenie, že 4. Archanjel je Elenia.
+- Zhrnutie: Ishtar mučí Maxa ilúziami; odhalenie, že 4. Archanjel je Elania.
 - Účastníci: `char.maximilian`, `char.tami`, `char.ishtar`, `char.elenia`
 - Lokácie: `place.south`
 - Tagy: `psychologická_vojna`, `odhalenie`
@@ -279,7 +279,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.elenia_war`
 - Názov: Otvorená vojna s Eleniou
 - Čas: Kniha 4 (pracovne)
-- Zhrnutie: Elenia aktivuje armádu Duchov; konflikt Otec vs. Dcéra.
+- Zhrnutie: Elania aktivuje armádu Duchov; konflikt Otec vs. Dcéra.
 - Účastníci: `char.maximilian`, `char.tami`, `char.elenia`, `fac.wraiths`
 - Lokácie: `place.achilles`
 - Tagy: `vojna`, `rodina`
@@ -315,7 +315,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.reconciliation`
 - Názov: Zmier a nový začiatok
 - Čas: po Knihe 5
-- Zhrnutie: Technológia a príroda sa prepájajú; Tami vedie novú spoločnosť; Elenia prežije (vykúpenie alebo smrteľnosť).
+- Zhrnutie: Technológia a príroda sa prepájajú; Tami vedie novú spoločnosť; Elania prežije (vykúpenie alebo smrteľnosť).
 - Účastníci: `char.tami`, `char.elenia`, `char.maximilian`
 - Lokácie: `place.achilles`
 - Tagy: `epilóg`

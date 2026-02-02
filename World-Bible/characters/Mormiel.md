@@ -15,13 +15,13 @@
 
 Mormiel je **jediná Varietas**, ktorá prežila 700-ročnú cestu na ARK-13 "Prometheus". Na Zemi bola jednou z modifikovaných ľudí (Homo Sapiens Varietas) — biologicky odlišná, s dedičnými nanobotmi (**Spira**) v krvi, ale aj so starobylým pozemským nanotechom z éry Hráčov.
 
-- **Dvojitá technológia**: Na rozdiel od ostatných troch Archanjelov (Samaell, Grom, Ishtar), ktorí mali len pozemský vojenský/civilný nanotech, Mormiel disponuje **oboma systémami** — starobylým Earth nanotechom (v1.0/vojenský) aj Spirou (v2.0/Dar Matky). Táto kombinácia ju robí **mimoriadne mocnou**.
+- **Dvojitá technológia**: Na rozdiel od ostatných troch Archanjelov (Samaell, Grond, Ishtar), ktorí mali len pozemský vojenský/civilný nanotech, Mormiel disponuje **oboma systémami** — starobylým Earth nanotechom (v1.0/vojenský) aj Spirou (v2.0/Dar Matky). Táto kombinácia ju robí **mimoriadne mocnou**.
 - **Prežitie na ARK-13**: Keď ostatní traja Archanjeli systematicky konzumovali spiacich kolonistov, Mormiel prežila vďaka svojej dvojitej biológii. Jej Spira ju čiastočne chránila pred rozpadom — nepotrebovala toľko "záplat" ako ostatní.
 - **Božská moc**: Kombinácia dvoch generácií nanotechnológie jej dáva schopnosti, ktoré presahujú akéhokoľvek iného Archanjela. Je **najsilnejšia** zo všetkých štyroch — ale svoju moc skrýva.
 
 ### Rozchod s Archanjelmi — Zrada a Nový Život
 
-Po príchode na Achilles (~AY 700) a záchrane Elenie sa Mormiel **oddelila od ostatných Archanjelov**. Zatiaľ čo Samaell, Grom a Ishtar si rozdelili moc a ovládli rôzne časti planéty, Mormiel zvolila inú cestu.
+Po príchode na Achilles (~AY 700) a záchrane Elenie sa Mormiel **oddelila od ostatných Archanjelov**. Zatiaľ čo Samaell, Grond a Ishtar si rozdelili moc a ovládli rôzne časti planéty, Mormiel zvolila inú cestu.
 
 - **Odchod k Varietas**: Opustila Ex Inferis a odišla medzi Varietas na pevnine. Bola to pre ňu prirodzená voľba — sama bola Varietas, biologicky im bližšia než Archanjelom.
 - **Nikdy nepriznala minulosť**: Nikdy nikomu nepovedala o ARK-13, o Prvotnom Hriechu (konzumácia kolonistov), o spolupráci s ostatnými Archanjelmi. Jej hriech je pochovaný v mlčaní.
@@ -57,15 +57,15 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 ### Motivácia
 
 - **Prežitie**: Ako všetci Archanjeli, aj Mormiel bojuje proti entropii vlastného tela. Jej 2700-ročná technológia sa rozpadá — Glitch ju pomaly požiera zvnútra, aj keď pomalšie než ostatných.
-- **Moc cez vieru**: Na rozdiel od Groma (vojenská sila) alebo Ishtar (ilúzie), Mormiel zvolila **náboženstvo** ako svoj nástroj. Kontroluje duše celého južného kontinentu. To je mocnejšie než akákoľvek armáda.
+- **Moc cez vieru**: Na rozdiel od Gronda (vojenská sila) alebo Ishtar (ilúzie), Mormiel zvolila **náboženstvo** ako svoj nástroj. Kontroluje duše celého južného kontinentu. To je mocnejšie než akákoľvek armáda.
 - **Strach z odhalenia**: Jej najväčší strach je, že niekto odhalí pravdu — nie len nočný lov, ale predovšetkým **Rituál**. Že Požehnaná Matka, stelesnenie lásky a milosrdenstva, je predátorka, ktorá každých sto rokov pohltí najčistejšiu dcéru svojho vlastného ľudu a nosí jej tvár. Dvadsaťtri rodín, čo celý život ďakovali Matke za tú česť — a nevedia, že ich dcéra bola rozložená na atómy.
 
 ### Vzťah k ostatným Archanjelom
 
 - **Samaell**: Pohŕdala ním — považovala ho za zviera, ktoré stratilo rozum. Jeho smrť (AY 3001) ju znepokojila, ale neoplakala.
-- **Grom** (pravý, mŕtvy): Rešpektovala ho ako vojaka. O dynastii podvodníkov vie — je to pre ňu užitočná bábka na severe.
+- **Grond** (pravý, mŕtvy): Rešpektovala ho ako vojaka. O dynastii podvodníkov vie — je to pre ňu užitočná bábka na severe.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
-- **Elenia**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elenia je jediná bytosť, ktorá by ju mohla ohroziť.
+- **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
 
 ### Rola v príbehu
 

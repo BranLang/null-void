@@ -1,7 +1,7 @@
 # Maximilián ("maXpowa")
 
 ![Maxov Strach - Stret s Paladínmi](<characters/Max/Generated Image February 01, 2026 - 12_02AM.jpeg>)
-*Veterán z Pekla kričí na Tami, aby utiekla. Pred ním stoja Paladíni — Opice s technológiou, ktorej nerozumie.*
+*Veterán z Pekla kričí na Tami, aby utiekla. Pred ním stoja Paladíni — s technológiou, ktorej nerozumie.*
 
 | **Vek** | **~3000+** (Chronologicky), **~30** (Biologicky, vďaka kryu a 15 rokom v VR) |
 
@@ -14,6 +14,7 @@
 ### Fáza „Zlomený Boh“ (Rok 0-1)
 Max sa prebúdza ako „troska“. 
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
+
 - **Maxovo uväznenie:** Počas 3-ročnej FTL cesty na lodi NULL VOID napadol Max Inetis. Táto trauma je dôvodom, prečo ho Inetis po pristátí uspala do kryostázy — oklamala ho, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** a nevedel o skutočných schopnostiach lode. Inetis sa ho bála a chcela ho preč. Nemohla ho zabiť (vedela, že ho svet bude potrebovať), ale nedokázala sa prinútiť ho zobudiť. **300 rokov sa natiahlo na 3000.**
 - **Veľké Zjavenie (The Revelation)**: Moment, keď sa mu zrak plne vráti v rušnom prístave. Šok z odhalenia pravdy o Varietas a o tom, že **„Iniciatíva Achilles“ bola jedna veľká lož**. Zistenie, že Archanjeli svet nechránili, ale vyprázdnili, a že jeho obeta na Zemi bola zbytočná, spôsobí jeho psychický kolaps a transformáciu na cynického Exorcistu.
 - **Linguistická Izolácia**: Hovorí **Starorečou** (angličtina 21. storočia). Je odkázaný na preklad cez Maka.
@@ -21,9 +22,17 @@ Max sa prebúdza ako „troska“.
 ### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
 - **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
-- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity. Potrebuje ťažké mechanické implantáty, aby ostal psychicky ukotvený v realite.
-- **Vybavenie**: **Anténa** (jediná fyzická pozostalosť lode NULL VOID — glitchla sa a odmietla rekonfiguráciu, keď Inetis rozložila loď na nanodrony; ovláda goo roje Wraithov, prijíma signály. Maxov kryobox sa po prebudení rozpadol na prach — Anténa je posledná vec, čo z lode existuje), **Black Nano Suit**.
-- **Osvietený (Enlightened)**: Max a pôvodní ľudia neveria v nadprirodzeno. Náboženstvo považujú za psychologickú zbraň hromadného ovládania. Max vidí Spiru ako technológiu, nie dar bohov.
+
+- **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity.
+
+- **Vybavenie**: 
+  - **Anténa** — jediná fyzická pozostalosť lode NULL VOID., keď Inetis rozložila loď na nanodrony, Antena bola jedina vec, ktoru nerozlozila lebo ju potrebovala na stavbu Elysia. Ovláda goo roje Wraithov, prijíma signály. Maxov kryobox sa po prebudení rozpadol na prach — Anténa je posledná vec, čo z lode existuje okrem THE CORE.
+    - **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač. Sochy Inetis sú niekedy zobrazované ako sochy putnicky s palicou — to je Anténa.
+    - **Infiltrácia:** Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium, aj keď bolo mesto stratené pre všetkých ostatných.
+    - **Prečo ju chcú všetci:** Jediná vec na planéte schopná ovládať veľké roje nanobotov. Archanjeli, Cirkev, Grond, Apes — všetci ju chcú. ( nikto nevie ako funguje, okrem Elania, matka ju to naucila)
+  - **Black Nano Suit** - vzdy ked deaktivuje wraitha, vyrobi si maly kusok neznicitelneho pancieru z prachu. Preto ma stale na sebe cierny nano oblek.
+
+- **Osvietený (Enlightened)**: Max neverí v nadprirodzeno. Náboženstvo považuje za psychologickú zbraň hromadného ovládania. Spiru chápe ako čistú technológiu — a má pravdu. Sám Spiru nemá, pretože **nebol nikdy požehnaný Inetis** (uspala ho skôr, než mohla). Na rozdiel od potomkov jej tímu, ktorí dodnes žijú na južnom pobreží Terry.
 - **Oči z Čierneho Prachu (Black Dust Eyes)**: Po porážke Samaella si Max prisvojil jeho nanodrony ("Shadow Dust" / Tieňový Prach). Čierny Prach nahradil jeho mrazom zničené organické oči — v prázdnych očných jamkách sa formujú funkčné oči z čierneho nanoprachu. Nie sú to "sedem modrých hviezd" — sú to oči z čistého Prachu, tmavé a neprirodené.
 - **Krycia Identita — Exorcista (Technomant)**: Max sa pri cestovaní prezentuje ako Exorcista. V Nevrisse a ďalších mestách vystupuje pod touto identitou. Exorcisti sú technomanti, ktorí likvidujú Wraithov — pre Maxa je to ideálne krytie pre jeho skutočné ciele.
 - **Exorcizmus a Výroba z Prachu (Dust Crafting)**: Max dokáže "exorcizovať" Wraithov — extrahovať z nich nanodrony (Prach) a z nazbieraného Prachu vyrábať fyzické predmety. Tento proces je extrémne náročný na zdroje:
@@ -52,6 +61,29 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 ### Vnútorný konflikt & Postoj
 - **Xenofóbia**: Keď sa prebudí a vidí Varietas, cíti odpor. Pre neho nie sa to "nová rasa", ale chodiace pamätníky dekadencie ("zvrhlé hračky miliardárov"). Správa sa k nim povýšenecky a nedôverčivo.
 - **Vina**: „Spal som, zatiaľ čo oni trpeli."
+
+### Vnútorné Motívy (Bury The Light)
+Maxov vnútorný monológ sa nesie v duchu piesne **Bury The Light** — jeho podvedomá mantra, ktorá definuje jeho cestu.
+
+> *„I am the storm that is approaching / Provoking black clouds in isolation"*
+
+| Verš | Maxov vnútorný hlas | Moment v príbehu |
+|------|---------------------|------------------|
+| *"Immortal temptation takes over my mind"* | Túžba po moci, po kontrole, po pomste | **Book 1**: Po prebudení, keď si uvedomí svoju bezmocnosť |
+| *"I am the storm that is approaching"* | Sebadefinícia ako prichádzajúcej skazy | **Book 3-4**: Keď sa stane hrozbou pre Archanjelov |
+| *"Forsakened, I am awakened"* | Opustený Inetis, prebudený po 3000 rokoch | **Book 1**: Veľké Zjavenie v prístave |
+| *"My family crest is a demon of death"* | Elania — jeho dcéra je antagonistka | **Book 4**: Konfrontácia s Eleniou |
+| *"Two souls once lost, and now they remember"* | Max a Inetis — stratená láska | **Book 3**: Keď nájde jej denníky |
+| *"Bury the light deep within"* | Potláča ľudskosť, aby prežil | Celá séria — jeho defense mechanizmus |
+| *"Drifting in the ocean all alone"* | Absolútna izolácia v cudzom svete | **Book 1-2**: Pred nájdením Tami |
+| *"A phoenix's ash in dark divine"* | Znovuzrodenie cez Čierny Prach | **Book 2**: Po porážke Samaella |
+| *"The puppet master congregates all the masses"* | Archanjeli ako loutkári sveta | Jeho pohľad na Ex Inferis |
+| *"Does your dim heart heal or destroy?"* | Dilema — liečiť svet alebo ho zničiť? | **Book 5**: Finálna voľba |
+
+**Použitie v príbehu:**
+- Verše môžu byť epigrafy kapitol
+- Maxove vnútorné monológy v kľúčových momentoch
+- Ozvena jeho myšlienok počas boja
 
 ### Kľúčové vzťahy
 - `char.inetis` — partnerka, spoluhráčka z VR

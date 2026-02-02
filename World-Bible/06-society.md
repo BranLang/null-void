@@ -5,24 +5,25 @@
 ## Rasy na Achille
 
 ### 1. Homo Sapiens Sapiens (Ľudia / "Čistí" / "Tí starí")
-**Pôvod:** Pôvodní kolonisti zo Zeme, Hráči a ich priami potomkovia.
+**Pôvod:** Pôvodní kolonisti zo Zeme, Ex Inferis a ich priami potomkovia.
 
-**Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa tak boja technológie). Sú to "elfovia" tohto sveta.
+**Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa po krizach a traumach minulosti boja technológie). Sú to "elfovia" tohto sveta.
 
 **Status:** Sú vzácni, ale držia si mocenské enklávy.
 - **Neuropa**: Domov "Starých Ľudí", ktorí si pamätajú Zem. Izolacionisti.
-- **Graw (Sever)**: Militantná ľudská kasta pod vládou Groma.
+- **Graw (Sever)**: Militantná ľudská kasta pod vládou Gronda.
 - **Aprika (Sklene Mesto)**: Dekadentný dvor okolo Ishtar.
 Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
+- **Apex** - risa Opic kde vladne Cisar a je obklopeny paladinmi.
 
 ### 1. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
 **Hanlivé názvy:** "Zver", "Miešanci", "Hračky", "Krátkožijúci".
 
-**Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu). Pretože ich fyziológia bola odlišná, pôvodné udržiavacie nanoboty v nich nefungovali.
+**Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu).
 
 **Biológia:** Sú smrteľní. Starnú a zomierajú (dožívajú sa cca 60-80 rokov). Sú náchylní na choroby a hlad. Ich vzhľad je rôznorodý – od jemných zvieracích čŕt (oči, zuby, srsť) až po výrazné deformácie.
-**Spoločnosť:** Tvoria 99% populácie planéty. Majú vlastné kráľovstvá, kmene, jazyky a bohatý folklór.
-    - **Mačky/Psy/Medvede/Vlci**: Najbežnejšie rasy.
+**Spoločnosť:** Tvoria 99% populácie kontinentu Terra. Majú vlastné kráľovstvá, kmene, jazyky a bohatý folklór.
+    - **Mačky/Psy/Vlci**: Najbežnejšie rasy.
     - **Líšky (Vulpini)**: Extrémne vzácne, považované za vymreté alebo mýtické. Hovorí sa, že majú skrytú domovinu mimo máp.
 
 ### 3. Androidi (Maki)
@@ -39,76 +40,38 @@ Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú 
 
 ---
 
-## Mocenská Pyramída (Hierarchia)
-
-```mermaid
-graph BT
-    %% Definicie
-    subgraph "THE NULL VOID (Root Access)"
-        AI((THE VOID<br>Corrupted Core AI))
-    end
-
-    subgraph "THE GATEKEEPER (Admin)"
-        ELENIA[ELENIA<br>Archanjel Zradenej Krvi<br>Dcéra Maxa & Inetis]
-    end
-
-    subgraph "THE EXECUTORS (Services)"
-        AZ[samaell<br>Archanjel Tieňov<br>Lokácia: Labs]
-        KR[GROM<br>Archanjel Vojny<br>Lokácia: Sever]
-        IS[ZAYA<br>Archanjel Pôžitku<br>Lokácia: Juh]
-    end
-
-    subgraph "THE HOSTS (Hardware)"
-        GHOSTS(Armáda Duchov<br>Nanodrone Wraiths)
-        CULT(Kult Matky<br>Ľudskí prisluhovači)
-    end
-
-    %% Prepojenia
-    AI -->|Ovláda| ELENIA
-    ELENIA -->|Rozkazuje| AZ
-    ELENIA -->|Rozkazuje| KR
-    ELENIA -->|Rozkazuje| IS
-    
-    AZ -->|Programuje| GHOSTS
-    KR -->|Velí| GHOSTS
-    IS -->|Manipuluje| CULT
-
-    %% Styling
-    style AI fill:#000,stroke:#f00,stroke-width:4px,color:#fff
-    style ELENIA fill:#330000,stroke:#f00,stroke-width:2px,color:#fff
-```
-
-### 1. Archanjeli (The Executors)
+### 1. Archanjeli (Ex inferis)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
-- **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Ynetis. Ich intervencia zvrátila priebeh boja.
-- **Ideológia (Protokol Bača)**: Archanjeli sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
+- **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Elysia. Ich intervencia zvrátila priebeh boja.
+- **Ideológia**: Archanjeli sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
 - **Skutočný Strach**: Boja sa len dvoch vecí: **Wraithov** (ktorí môžu poškodiť systémy Citadely) a **Hniloby (Glitch Rot)**, ktorá korumpuje nanoboty a robí ich nepoužiteľnými.
-- **Odber (Zber)**: Lovci Archanjelov pátrajú po ľuďoch s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
+- **Odber (Zber)**: Lovci Archanjelov pátrajú po Varietas s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
 - **Dôsledok pre spoločnosť**: Spira je medzi Varietas vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maxom v AY 3001).
-    - **Grom:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
+    - **Grond:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
     - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Aprike v Sklenom Meste.
-    - **Elenia:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Neurope.
+    - **Elania:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Neurope.
 
 ### 2. "Tí Roztrúsení" (Ľudia medzi Varietas)
 Trosky starej civilizácie Homo Sapiens Sapiens, ktorí nie sú warlordi.
-- **Status:** Žijú v mestách Varietas ako vážená, ale obávaná elita (lekári, učitelia, poradcovia).
-- **Psychológia:** Paralyzovaní nostalgiou a traumou. Videli pád sveta. Boja sa hovoriť o minulosti (Protokol Ticha). Sú to cynickí, depresívni "nesmrteľní".
+- **Status:** Žijú v mestách Varietas ako vážená, elita (lekári, učitelia, poradcovia).
+- **Psychológia:** Paralyzovaní nostalgiou a traumou. Videli pád sveta. Boja sa hovoriť o minulosti . Sú to cynickí, depresívni "nesmrteľní".
 
 ### 3. Potulní Exorcisti (The Wandering Exorcists)
 Drsní žoldnieri a veteráni špecializovaní na boj v zamorených zónach. Nie sú to kňazi, ale „likvidátori“.
-- **Rola**: Čistia ložiská **Hniloby** a „vyháňajú“ **Wraithov** (fyzickým ničením hardvéru). Používajú ťažké skafandre, plameňomety a analógové zbrane.
+- **Rola**: Čistia ložiská **Hniloby** a „vyháňajú“ **Wraithov** (fyzickým ničením hardvéru). Používajú linux prikazy, hackuju wraithy.
 - **Zloženie**: Zúfalí ľudia (odolnejší voči Hnilobe) alebo Varietas. Práca s najvyššou úmrtnosťou.
 - **Status**: Sú nesmierne bohatí, no žijú krátko. Platení sú v čistom zlate.
 
 ### 4. Androidi (Maki)
-Neemotívni inžinieri a stavitelia. Volaní aj "Tichí" alebo slangovo "Tikači". 
-- **Rola:** Poskytujú technické znalosti a stavajú analógovú infraštruktúru (vzducholode, zavlažovanie).
-- **Status:** Sú neutrálni, ale rešpektovaní. Pre Archanjelov sú hrozbou, pre Varietas spasiteľmi.
+Neemotívni inžinieri a stavitelia.  
+- **Rola:** Poskytujú technické znalosti a stavajú analógovú infraštruktúru (vzducholode, vysoko precizne analogove zariadenia).
+- **Status:** Sú neutrálni, ale rešpektovaní.
 
-### 5. Varietas (The Serfs)
-Väčšina populácie. Pracujú v doménach Archanjelov alebo žijú v kmeňoch.
+### 5. Varietas
+Ziju v pobrezncych kralovstvach kontinentu juznej Terra.
+Nevriss, Beladiss, Nyau
 
 ---
 
@@ -137,7 +100,7 @@ Pre Varietas je Spira mystická sila, ale v skutočnosti funguje ako programovan
 - **Čisté IDE pri narodení**: Každé dieťa Varietas sa rodí s "čistým štítom" (neaktívne nanoboty). Nemajú vrodené schopnosti.
 - **Konfigurácia (Viera/Tréning)**: Aby Spira fungovala, musí si každý jedinec "napísať vlastný kód". Viera v Matku slúži ako syntax, ktorá dáva príkazom formu.
 - **Rodinné Tajomstvá (Deddičnosť)**: Skripty a "spelly" sa dedia v rodinách. Otec učí syna, ako ohýbať oheň presne tak, ako to robil jeho otec.
-- **Knižnice Cirkvi**: Najefektívnejšie a najbezpečnejšie skripty vlastní Cirkev Vsevedúcej Matky. Len elita má prístup k týmto "optimalizovaným algoritmom". Niektoré základné modlitby (príkazy) sú "Open Source", ale experimentovanie s vlastným kódom je považované za kacírstvo a je extrémne nebezpečné (riziko Glitch Rot).
+- **Knižnice Cirkvi**: Najefektívnejšie a najbezpečnejšie skripty vlastní Cirkev Vsevedúcej Matky. Len elita má prístup k týmto "optimalizovaným algoritmom". Niektoré základné modlitby (príkazy) sú "Open Source", ale experimentovanie s vlastným kódom je považované za kacírstvo a je extrémne nebezpečné memory overflowingu.
 - **Heretické Nápisy (Open Source Spira)**: Po svete sú rozmiestnené nápisy vytesané do kameňa alebo vyryté do dreva — dielo **dávnych heretikov** z čias, keď Inetis ešte osobne učila mocné skripty. Tieto skripty boli pôvodne voľne dostupné, ale Cirkev ich postupne zregulovala, zakázala a vyhlásila za nebezpečné. Heretici — tí, čo si ich pamätali — ich vytesali do kameňa a dreva, aby prežili. Dnes sú zabudnuté a zakázané. Cirkev nápisy aktívne ničí, ale v odľahlých oblastiach stále prežívajú. Nálezca takéhoto "zaklínadla" získa nový, mocný skript pre svoje IDE. Vzácne exempláre sú predmetom hľadania pokladov — a Inkvizície.
 
 ### Gen 1 vs. Varietas — Dva Jazyky Spiry
@@ -149,17 +112,18 @@ Kontrast medzi generáciami nanotechnológie definuje celý svet:
 ### WaSpira (Vojnová Spira)
 Militantná aplikácia Spiry, zameraná na deštrukciu a boj.
 - **Pôvod**: Nepochádza z mierumilovného Nevriss, ale z divokých Východných kráľovstiev.
-- **Užívatelia**: Žoldnieri a Paladinovia. Títo bojovníci majú na tele zložité tetovania (schémy obvodov), ktoré slúžia ako externé makrá pre rýchle vyvolanie útočných spellov.
-- **Paladinovia Antény**: Elitná garda, ktorá stráži relikviu v Shoraven, nepochádza z Nevriss. Boli "povolaní" z východu, aby chránili to, čo miestni kňazi nedokážu ovládať.
+- **Užívatelia**: Žoldnieri. Títo bojovníci majú na tele zložité tetovania (schémy obvodov), ktoré slúžia ako externé makrá pre rýchle vyvolanie útočných spellov.
+
 
 ### Osvietení vs. Veriaci
 Dva fundamentálne prístupy k Spire definujú svet:
 - **Veriaci Varietas**: Sú presvedčení, že len silná viera v Matku umožňuje ovládať Spiru. A majú čiastočne pravdu — Inetis navrhla IDE systém tak, že „syntax" Spiry vyžaduje mentálnu disciplínu a rituály, ktoré náboženstvo prirodzene poskytuje.
-- **Osvietení (Ľudia/Max)**: Pôvodní ľudia vidia náboženstvo ako psychologickú zbraň hromadného ovládania. Max chápe Spiru ako čistú technológiu a učí Tami rovnaký prístup.
+- **Osvietení (Nepožehnaní Ľudia/Max)**: Ľudia ako Max, ktorí neboli požehnaní Inetis, vidia náboženstvo ako psychologickú zbraň hromadného ovládania. Max chápe Spiru ako čistú technológiu a učí Tami rovnaký prístup — aj keď sám Spiru nemá.
+- **Požehnaní Ľudia (Blessed Ones)**: Potomkovia ľudského tímu Inetis, ktorí boli požehnaní dotykom spolu s ranými Varietas. Žijú na **južnom pobreží Terry** v komunitách. Majú Spiru ako Varietas, ale zachovali si čisté ľudské telá. 
 - **Tami (Výnimka)**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu vedeckému mentoringu dokáže využívať Spiru na 200% — nie je zviazaná dogmou Cirkvi, experimentuje slobodne. Pre Cirkev je kacírka.
 
 ### Používanie v reči
-- *„Má silnú Spiru"* = má veľa nanobotov v krvi (mocný Krotiteľ)
+- *„Má silnú Spiru"* = má veľa nanobotov v krvi 
 - *„Jeho Spira je čistá"* = čistokrvný s vysokou koncentráciou
 - *„Spira v ňom tíchne"* = stráca silu / umiera
 - *„Bez Spiry"* = nízka kasta, žiadna Spira
@@ -173,14 +137,14 @@ Dva fundamentálne prístupy k Spire definujú svet:
 
 | Kasta | Popis | Spira | Dlhovekosť |
 |-------|-------|--------|------------|
-| **Čistokrvní** *(Pursang)* | Elitné rodiny, generácie dohodnutých zväzkov | Extrémna | Až 50 zím (~250 rokov) |
-| **Stredná kasta** *(Mezra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Ľudský s jemnými zvieracími črtami (uši, oči, zuby). | Stredná | 15-25 zím (~75-125 rokov) |
+| **Čistokrvní** *(Pursang)* | Elitné rodiny, generácie dohodnutých zväzkov **Vzhľad:** Ľudský s jemnými zvieracími črtami (uši, oči, zuby)| Extrémna | Až 50 zím (~250 rokov) |
+| **Stredná kasta** *(Mezra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Ľudský s vyraznejsimi zvieracími črtami (uši, oči, zuby). | Stredná | 15-25 zím (~75-125 rokov) |
 | **Nízka kasta** *(Ghorki)* | Varietas bez Spiry. **Vzhľad:** Silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
 
 ### Čistokrvní *(Pursang)*
 Vrchol pyramídy. Rodiny, ktoré sa po generácie pomocou dohodnutých zväzkov šplhali na vrchol.
 
-- **Genetika**: Maximálna ľudská DNA → maximálna kompatibilita s nanobotmi. Varietas sú **modifikovaní ľudia** (ľudský základ genómu + zvieracie črty), preto Spira v2.0 funguje — bola navrhnutá pre ľudskú biológiu
+- **Genetika**: Maximálna ľudská DNA → maximálna kompatibilita s nanobotmi. Varietas sú **modifikovaní ľudia** (ľudský základ genómu + zvieracie črty), preto Spira v2.0 funguje — bola navrhnutá pre ľudskú biológiu.
 - **Spira**: Ovládajú elementy, telekinézu, extrémnu regeneráciu
 - **Dlhovekosť**: Až 50 zím (niektorí legendárni jedinci aj viac)
 - **Pozícia**: Veľkňažky, generáli, vodcovia gildov, aristokracia
@@ -282,7 +246,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 
 #### Voľný obchod a Burza
 - **Shoraven Burza** *(Shobo)*: Otvorené tržisko v centre prístavu, kde sa obchoduje s komoditami — kovy, obilie, korenie, Spira kryštály (sústredený nanotech v minerálnej forme), zbrane.
-- **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát/Grom), v Nevriss funguje voľný trh. Ktokoľvek môže obchodovať — od Pursang aristokrata po Ghorki pouličného predavača.
+- **Slobodný obchod**: Na rozdiel od Graw (kde obchod kontroluje štát/Grond), v Nevriss funguje voľný trh. Ktokoľvek môže obchodovať — od Pursang aristokrata po Ghorki pouličného predavača.
 - **Zmluvy**: Papierové kontrakty overené gildovou pečaťou. Porušenie zmluvy sa trestá vyhnanstvom z gildy — v praxi ekonomická smrť.
 - **Pašovanie**: Kde je voľný obchod, tam je aj čierny trh. Podzemný obchod s kradnutými relíkviami, zakázanými zbraňami a — v tajnosti — s informáciami o Spire a podzemných tuneloch.
 
@@ -332,7 +296,7 @@ Základná teológia Varietas v Nevriss verí v **Svätú Trojicu**: Matka (Stvo
 4.  **Štvrtý Príchod (The Void)**: **Spáč (The Sleeper)**. Mýtus o Konci Časov. Príde, keď bude svet príliš skazený, aby ho "vypol" alebo "reštartoval". Nie je to spasiteľ, je to **Koniec**.
 
 Kult Matky učí, že Spáč je len metafora. Ale staré sekty a archeológovia (ako Kito) vedia, že proroctvo je technický manuál.
-- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grom†, Zaya/Ishtar, Elenia).
+- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grond†, Zaya/Ishtar, Elania).
 - **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
 - **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
 - **Pozemský režim**: Totalitná štruktúra Zeme pred pádom.
@@ -359,27 +323,32 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Vzťah s Nevriss:** Beladiss považuje Nevriss za "mäkký" a heretický, pretože dovolil mužom vládnuť v gildách.
 
 **Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytá **Anténa** — v očiach veriacich najsvätejšia relikvia ("Svätá Anténa" alebo "Žezlo Matky").
-> **Realita:** Je to komunikačná anténa z lode **NULL VOID** (FTL prototyp). Keď Inetis rozložila celú loď na nanodrony, Anténa sa glitchla a odmietla rekonfiguráciu — jediná časť lode, ktorá zostala v pôvodnom stave. Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy — údržbárske nanoboty) pomocou sub-priestorových frekvencií. Teoreticky dokáže aj prijímať signály zo Zeme. Nie je to zbraň. Je to diaľkový ovládač. Ale v kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte.
+
+> **Realita:** Je to komunikačná anténa z lode **NULL VOID** (FTL prototyp). Keď Inetis rozložila celú loď na nanodrony, Anténa sa glitchla a odmietla rekonfiguráciu — jediná časť lode, ktorá zostala v pôvodnom stave. Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy — údržbárske nanoboty) pomocou sub-priestorových frekvencií.
+>
+> **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač — bez nej dokáže jedinec ovládať len malé množstvo nanodronov. Anténa bola jej zbraň, jej palica, jej symbol. **Sochy Inetis** po celom kontinente ju zobrazujú s palicou v ruke — to je Anténa. Vďaka nej mohla slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných.
+>
+> **Prečo ju chcú všetci:** Anténa je jediná vec na planéte, ktorá dokáže ovládať veľké roje nanobotov. V kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte. **Archanjeli**, **Cirkev**, **Grond**, **Apes** — všetci veľkí hráči o nej vedia a všetci ju chcú.
 >
 > **Maxov Interface:** Max (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
 
-### Kult Nesmrteľného Groma (Sever - Graw)
+### Kult Nesmrteľného Gronda (Sever - Graw)
 
 | | |
 |---|---|
-| **Božstvo** | Grom ("Nesmrteľný Vládca") |
+| **Božstvo** | Grond ("Nesmrteľný Vládca") |
 | **Centrum** | Železná Citadela |
-| **Vláda** | "Nesmrteľný Grom" (dynastia v Power Armor) |
+| **Vláda** | "Nesmrteľný Grond" (dynastia v Power Armor) |
 | **Charakter** | Militantný, expanzívny |
 
 **Tajomstvo (známe len úzkemu kruhu):**
-- Pravý Grom (Ex Inferis) zomrel na Glitch Rot okolo AY 1200
+- Pravý Grond (Ex Inferis) zomrel na Glitch Rot okolo AY 1200
 - Jeho Power Armor si privlastnil jeden z generálov
-- Každý nový "Grom" je len muž v zbroji — nikto nevidí tvár pod helmou
+- Každý nový "Grond" je len muž v zbroji — nikto nevidí tvár pod helmou
 - Dynastia podvodníkov pokračuje už ~1800 rokov
 
 **Doktríny:**
-- Grom je nesmrteľný boh-vojak
+- Grond je nesmrteľný boh-vojak
 - Sila je cnosť, slabosť je hriech
 - Juh sú "bezveriaci" a "heretici"
 
@@ -389,7 +358,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 1. **5-ročná zima** devastovala zásoby Severu
 2. **Zlé plánovanie** viedlo k hladomoru
 3. **Nevriss odmieta obchodovať** s "bezvercami"
-4. **Riešenie Groma**: Vojenská expanzia
+4. **Riešenie Gronda**: Vojenská expanzia
 
 **Proroctvá o konci sveta:**
 - Cirkev Matky verí, že Anténa je "znamenie konca"
@@ -398,9 +367,9 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 
 ---
 
-## Tajomstvo Dynastia Gromov
+## Tajomstvo Dynastia Grondov
 
-### Pravý Grom (AY 700-1200)
+### Pravý Grond (AY 700-1200)
 - Jeden zo štyroch pôvodných Archanjelov (Ex Inferis zo Zeme)
 - Prišiel na ARK-13 "Prometheus"
 - **Vzhľad**: Svalnatý, surový, ako The Rock / Conan
@@ -408,13 +377,13 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Vláda**: 500 rokov spravodlivého a rozumného vladnutia
 - **Smrť**: Glitch Rot (~AY 1200)
 
-### Falošní Gromovia (AY 1200-3013)
-- Prvý podvodník: generál, ktorý si obliekol Power Armor a vyhlásil sa za "Groma II"
+### Falošní Grondovia (AY 1200-3013)
+- Prvý podvodník: generál, ktorý si obliekol Power Armor a vyhlásil sa za "Gronda II"
 - Tajomstvo známe len úzkemu kruhu vyvolených
 - Nikto nevidí tvár pod helmou
 - Dynastia pokračuje už ~1800 rokov
 
-### Aktuálny "Grom" (AY 3013)
+### Aktuálny "Grond" (AY 3013)
 - Agresor a dobyvateľ
 - Začína vojnu s Juhom
 - Využíva náboženstvo ako ospravedlnenie expanzie

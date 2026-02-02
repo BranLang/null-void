@@ -252,7 +252,7 @@ Názov planéty je najväčším cynickým odkazom v histórii ľudstva.
 
 ## Elenina tragédia
 
-Elenia sa narodila na planéte Achilles, v jaskyni vyhĺbenej z nanodronov lode NULL VOID. **Nikdy nezažila hru Achilles.**
+Elania sa narodila na planéte Achilles, v jaskyni vyhĺbenej z nanodronov lode NULL VOID. **Nikdy nezažila hru Achilles.**
 
 - Vyrastala na legendách o „Hráčoch" a ich moci
 - Cítila sa menejcenná, pretože ona bola len „biologická"

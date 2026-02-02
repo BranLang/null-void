@@ -96,11 +96,11 @@ Hologram zhasol.
 
 Drak sa otočil nad údolím tak prudko, že stromy pod ním ohnul vietor z krídel.
 
-**Elenia** sa zasmiala. Hlasno. Otvorene. Zvuk, ktorý by jej Légiu priviedol do rozpakov, keby ju počuli — ich Gatekeeper, ich chladná, vypočítavá vládkyňa, sa *smiala* ako dieťa na kolotoči.
+**Elania** sa zasmiala. Hlasno. Otvorene. Zvuk, ktorý by jej Légiu priviedol do rozpakov, keby ju počuli — ich Gatekeeper, ich chladná, vypočítavá vládkyňa, sa *smiala* ako dieťa na kolotoči.
 
 Ale tu ju nikto nepočul. Len vietor. Len drak. Len nekonečné zelené hory Južných Území Neuropy, kde teplý vzduch stúpal z geotermálnych údolí a živil džungle, ktoré nemali čo robiť na zamrznutej planéte — ale tu boli. Jej dielo. Jej *Jurský Park*, ako by povedali Starobylí, keby vedeli, čo to znamená.
 
-Drak — biologicky modifikovaný jašter, dvadsať metrov rozpätia krídel, s šupinami tvrdými ako oceľ a očami inteligentnými ako pes — naberal výšku. Elenia sa pritlačila k jeho šiji. Cítila vibrácie jeho svalov pod sebou, teplo jeho krvi, rytmus jeho dýchania. Bol to živý stroj. *Jej* živý stroj.
+Drak — biologicky modifikovaný jašter, dvadsať metrov rozpätia krídel, s šupinami tvrdými ako oceľ a očami inteligentnými ako pes — naberal výšku. Elania sa pritlačila k jeho šiji. Cítila vibrácie jeho svalov pod sebou, teplo jeho krvi, rytmus jeho dýchania. Bol to živý stroj. *Jej* živý stroj.
 
 Pod ňou sa rozprestierala krajina, ktorú vytvorila. Husté džungle, kde sa pohybovali tvory veľké ako domy. Riečne údolia plné gigantických papradí. Horúce pramene, z ktorých stúpala para do studeného horského vzduchu. Bola to krásna krajina. Bola to nebezpečná krajina. A bola to krajina, ktorá ju *nudila*.
 
@@ -108,7 +108,7 @@ Dvetisíc rokov. Dvetisíc rokov budovania, experimentovania, teraformovania. A 
 
 Zvuk jej vytrhl z myšlienok. Ostrý, krátky — pípanie komunikačného zariadenia v koženom puzdre na jej boku. Nie bežný signál. Tento prichádzal z **Veže** — komunikačného uzla, ktorý ešte stále fungoval na technológii, o ktorej by Varietas na Terre povedali, že je čistá Spira.
 
-Elenia stiahla draka do klesania. Pristáli na skalnatom výbežku nad údolím. Drak ťažko dýchal, z nozdrí mu stúpala para.
+Elania stiahla draka do klesania. Pristáli na skalnatom výbežku nad údolím. Drak ťažko dýchal, z nozdrí mu stúpala para.
 
 Otvorila puzdro. Malý holografický displej — artefakt z iného veku — sa rozsvietil.
 
@@ -120,7 +120,7 @@ Správa bola krátka.
 *Objav: Signálna anomália konzistentná s technológiou Éry Exodus.*
 *Poznámka: Možná zhoda s identifikátorom lode NULL VOID (Expedícia Exodus).*
 
-Elenia stuhla.
+Elania stuhla.
 
 Null Void. Meno, ktoré poznala. Loď, ktorú matka rozložila na prach a z prachu vybudovala svet — jaskyňu, kde sa *narodila*, záhrady, kde jedla svoju prvú kašu, a potom celé mesto, kde vyrastala medzi skalami a tieňmi a Inetisinou láskou, ktorá sa pomaly menila na šialenstvo.
 
@@ -138,7 +138,7 @@ Správa ju dostihla v jej veži o tri hodiny neskôr. Tentoraz nie z anonymného
 
 **Sera** vošla do komnaty bez klopania. Bola to jedna z mála bytostí na planéte, ktoré si to mohli dovoliť.
 
-Bola to žena — ľudská, Starobylá, s krátko strihanými vlasmi farby pohasnutej medi a tvrdými zelenými očami, ktoré vyzerali, akoby videli cez steny. Sera bola Eleniina priateľka v tom zvláštnom, stáročnom zmysle toho slova — priateľstvo medzi dvoma nesmrteľnými bytosťami, kde slovo „priateľ" znamenalo „niekto, kto ma videl v mojich najhorších chvíľach a neodišiel."
+Bola to žena — ľudská, Starobylá, s krátko strihanými vlasmi farby pohasnutej medi a tvrdými zelenými očami, ktoré vyzerali, akoby videli cez steny. Sera bola Elaniina priateľka v tom zvláštnom, stáročnom zmysle toho slova — priateľstvo medzi dvoma nesmrteľnými bytosťami, kde slovo „priateľ" znamenalo „niekto, kto ma videl v mojich najhorších chvíľach a neodišiel."
 
 Bola to tiež najlepšia špiónka, akú Veža Zatratených kedy vyprodukovala. Vtipné, že sa nenávideli prvých sto rokov.
 
@@ -152,17 +152,17 @@ Bola to tiež najlepšia špiónka, akú Veža Zatratených kedy vyprodukovala. 
 
 Sera sa oprela o kamenný rám okna. Za ňou sa rozprestieralo more — sivé, studené, nekonečné.
 
-„Elenia. Je to Null Void. Loď tvojich rodičov."
+„Elania. Je to Null Void. Loď tvojich rodičov."
 
 „Viem, čo to je."
 
 „Tak vieš aj to, čo je v nej."
 
-Ticho. Elenia sa otočila k oknu. Vietor jej odhalil ucho — ľudské, bledé, dokonalé. Niekedy zabúdala, aká je krásna. A niekedy to bolo to jediné, čo vedela.
+Ticho. Elania sa otočila k oknu. Vietor jej odhalil ucho — ľudské, bledé, dokonalé. Niekedy zabúdala, aká je krásna. A niekedy to bolo to jediné, čo vedela.
 
 „Pôjdem ja," povedala Sera.
 
-Elenia sa rýchlo otočila. „Nie."
+Elania sa rýchlo otočila. „Nie."
 
 „Nevyzeral by som podozrivo. Človek v Shoravene — Exorcistka, ak treba. Dostanem sa tam skôr a diskrétnejšie ako ty." Sera sa usmiala — krivo, s tým drsným humorom, ktorý si vypestovala za stáročia špionáže. „Okrem toho, ty a draky nie ste práve nenápadné."
 
@@ -178,17 +178,17 @@ Sera zdvihla obočie. „*Starobylý*? Na Terre?"
 
 Sera chvíľu premýšľala. Potom prikývla. „O to viac dôvodov ísť ja. Ak je tam Starobylý, budem s ním vedieť komunikovať. Ty by si ho zabila pri prvom pohľade."
 
-Elenia otvorila ústa, aby protestovala. Zavrela ich. Sera mala pravdu.
+Elania otvorila ústa, aby protestovala. Zavrela ich. Sera mala pravdu.
 
 „Daj mi mesiac," povedala Sera a oprašovala si ruky, akoby sa chystala na nákupy a nie na cestu cez zamrznutý kontinent do obliehnaného mesta. „Loďou do Shoravenu. Zistím, čo je v tých kobkách, čo chce ten Exorcista a či je tá loď ešte..." zaváhala. „...niečo."
 
-Elenia dlho mlčala. Za oknom sa na hladine mora objavila biela plutva — jeden z jej experimentov, morský tvor veľký ako loď, ktorý sa vynoril z hlbín, aby sa nadýchol.
+Elania dlho mlčala. Za oknom sa na hladine mora objavila biela plutva — jeden z jej experimentov, morský tvor veľký ako loď, ktorý sa vynoril z hlbín, aby sa nadýchol.
 
 „Buď opatrná," povedala nakoniec. Hlas mala tichý. Skoro ľudský.
 
 Sera sa zastavila pri dverách. Pozrela na ňu cez rameno. „Vždy som."
 
-*Lož*, pomyslela si Elenia, keď ostala sama. *Najväčšia lož, akú mi kedy povedala.*
+*Lož*, pomyslela si Elania, keď ostala sama. *Najväčšia lož, akú mi kedy povedala.*
 
 ---
 

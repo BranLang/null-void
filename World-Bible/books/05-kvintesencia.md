@@ -1,6 +1,6 @@
 # Kniha 5: KVINTESENCIA- Vedomie – Null Voido Achilla
 
-> *„Elenia chcela vybudovať nebo. Nevedela, že my sme z neba utiekli, pretože sme v jeho základoch našli peklo. Hra sa skončila, 'i_net_is'. Je čas odpojiť sa."*
+> *„Elania chcela vybudovať nebo. Nevedela, že my sme z neba utiekli, pretože sme v jeho základoch našli peklo. Hra sa skončila, 'i_net_is'. Je čas odpojiť sa."*
 > — Maximiliánove posledné slová v digitálnom priestore
 
 ---
@@ -17,7 +17,7 @@
 
 ## Úvodná situácia
 
-**Elenia uspela.** Vstúpila do Jadra a spustila Protokol Null.
+**Elania uspela.** Vstúpila do Jadra a spustila Protokol Null.
 
 - Milióny nanodronov sa prebúdzajú po celom svete
 - Atmosféra začína „vibrovať"
@@ -84,10 +84,10 @@ Max si všimne „chyby v matrici":
 - Prilákané masívnym prísunom ľudských myslí
 
 ### Konfrontácia
-> „Nebuduješ chrám, Elenia. Prestieraš stôl."
+> „Nebuduješ chrám, Elania. Prestieraš stôl."
 
 ### Virtuálny boj
-- Elenia neverí, útočí s celou mocou „Admina" simulácie
+- Elania neverí, útočí s celou mocou „Admina" simulácie
 - **maXpowa** musí použiť svoje staré herné schopnosti
 - Súboj generácií a ideológií
 
@@ -99,7 +99,7 @@ Zatiaľ čo Max bojuje vo VR, Tami/Inetis sa v realite bráni proti automatizova
 ## Dejstvo 4: Obeta
 
 ### Entity požierajú simuláciu
-Elenia vidí, čo spôsobila. Zrúti sa.
+Elania vidí, čo spôsobila. Zrúti sa.
 
 ### Jediná cesta
 Max nemôže Entitu poraziť silou. Musí **prepísať základný kód** Jadra.
@@ -123,7 +123,7 @@ His vedomie sa **definitívne oddelí od tela** a stane sa súčasťou planetár
 ### Maxovo telo
 Zomiera v Jadre. Tami pri ňom plače.
 
-### Elenia
+### Elania
 - Preberie sa z kómy
 - Fyzicky živá, psychicky zlomená
 - Stratila všetku moc (admin práva prevzal Max)
@@ -151,7 +151,7 @@ Tami vychádza z Krátera na povrch.
 | Hra Achilles | Kruh sa uzatvára |
 | maXpowa + i_net_is | Spoločná obeta po tisícročiach |
 | Max ako „Duch" | Technológia + ľudské vedomie = nový druh existencie |
-| Elenia smrteľná | Vykúpenie cez stratu moci |
+| Elania smrteľná | Vykúpenie cez stratu moci |
 
 ---
 

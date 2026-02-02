@@ -86,7 +86,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 |---|---|---|
 | **v1.0 (Legacy)** | **Ex Inferis** (Archanjeli) | Pôvodné civilné nanoboty zo Zeme. Robustné, silné, ale mentálne nestabilné (strata emócií). Nedokážu sa rozmnožovať ani ukladať do kryštálov. Vyžadujú "kanibalizmus" na údržbu. |
 | **v1.5 (Mil-Spec)** | **Maximilián** | Vojenský prototyp. Zameraný na deštrukciu a hackovanie. Silnejší než v1.0, ale stále bez regenerácie a reprodukcie. **Loď NULL VOID bola postavená z v1.5 nanodronov.** |
-| **v1.7 (God-Tier)** | **Elenia, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elenia). |
+| **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
 ### Paradox skúseností
@@ -212,14 +212,14 @@ NULL VOID nebola konvenčná loď z kovu a plastov. Bola **100% postavená z nan
 - **Po pristátí**: Inetis rekonfigurovala loď na stroje, ktoré vyhĺbili jaskyňu, upravili okolie, vytvorili laboratórium a hydroponické farmy. Nanodrony sa dali nakonfigurovať na čokoľvek — **okrem jedla** (nedokázali replikovať organickú biomasu priamo, len vybudovať systémy na jej pestovanie)
 - **Glitchnutá Anténa**: Jediná vec, ktorá z lode zostala v pôvodnom stave, bola **komunikačná Anténa** — glitchla sa a odmietla rekonfiguráciu. Inetis ju nemohla rozložiť ani prestaviť
 - **Maxov kryobox**: V jaskyni ostal len jeden kryobox — Maxov — v minimálnej konfigurácii. Bol to nanodronový modul, ktorý udržiaval Maxa v kryostáze ~3000 rokov. Po Maxovom prebudení sa kryobox **rozpadol na prach** (nanodronová konštrukcia sa spontánne rozložila). Anténa tak ostala **jedinou fyzickou pozostalosťou** lode NULL VOID
-- **Opätovná rekonfigurácia na loď**: Po ~30 rokoch v jaskyni Inetis nanodronov prekonfigurovala naspäť na loď NULL VOID a s malou Eleniou sa vydala na cestu okolo planéty — hľadali vhodnejšie miesto pre budúcich kolonistov. Našli ostrovy **Elysium** (budúce Ynetis)
+- **Opätovná rekonfigurácia na loď**: Po ~3 rokoch v jaskyni Inetis nanodronov prekonfigurovala naspäť na loď NULL VOID a s malou Eleniou sa vydala na cestu okolo planéty — hľadali vhodnejšie miesto pre budúcich kolonistov. Našli ostrovy **Elysium** (budúce Ynetis)
 - **Foundry (Továreň)**: Na Elysiu Inetis loď NULL VOID (v1.5 gen nanodrony) prekonfigurovala na **Foundry** — továreň, ktorá vyrábala nanodrony **nižšej úrovne (v1.0)**. Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium/Ynetis — budovy, infraštruktúra, životné systémy
 - **Foundry → The Core**: Keď vypukla epidémia **Glitch Rot** (~AY 300-500), Inetis rekonfigurovala Foundry na **The Core** — novú simuláciu, v ktorej vyvíjala bezpečnejšie nanoboty v2.0 (Spira/Dar Matky). Core bola menšia simulácia než pôvodný Achilles na Zemi, ale stačila na ~100 simulovaných rokov vývoja
 
 #### Reťaz transformácií NULL VOID
 ```
 NULL VOID (loď, v1.5)
-  → Stroje v jaskyni (vyhĺbenie, hydroponika, ~30 rokov)
+  → Stroje v jaskyni (vyhĺbenie, hydroponika, ~3 roky)
   │   [v jaskyni zostali: Maxov kryobox (minimálna konfigurácia) + Anténa (glitch)]
     → NULL VOID (loď, cesta na Elysium)
       → FOUNDRY (továreň, výroba v1.0 nanodronov → stavba mesta)
@@ -411,7 +411,7 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 - **ARK-11 / EXODUS**: Experimentálna loď. Názov „EXODUS" sa v mýtoch interpretuje ako cesta za slobodou.
 - **NULL VOID**: FTL Prototyp využívajúci technológiu Tieňových. Jediná loď schopná nadsvetelného cestovania.
 - **Anténa**: Palica Maximiliána, schopná lokálneho potlačenia nanodronov (Signálové pole).
-- **Power Armor (Grom)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú".
+- **Power Armor (Grond)**: Mechanizované brnenie s integrovanými nanoboty, ktoré zvyšujú silu nositeľa na úroveň boha, ale postupne ho „vstrebávajú".
 
 ### Legendárne Artefakty
 - **Staré relikvie**: Zachované digitálne tabuľky, zbrane a vznášadlá z doby Zlatého veku. Pre Varietas majú náboženský význam.

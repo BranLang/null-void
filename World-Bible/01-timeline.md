@@ -7,16 +7,15 @@
 timeline
     title Éra Hráčov a Pád Zeme (EY)
     2035 : Nástup Superinteligencie
-    2040 : Zrodenie i_net_is (AI dcéra)
-    2045 : Projekt Achilles (VR) začína
-    2050 : Maxovo narodenie
+    2049 : Maxovo narodenie
+    2051 : Narodila sa i_net_is (Neto Fujiwara ネト) (AI dcéra)
+    2065 : Projekt Achilles (VR) začína
     2060 : The Glitch Event (Time Dilation Trauma)
     2065 : Útek z Pekla (Zrodenie Ex Inferis)
-    2070 : Boom genetiky : Neo-Morfovia
-    2075 : "Doge" experimenty
+    2070 : Boom genetiky : Chimery, Homo Sapiens Varietas
     2098 : Expedícia Hephaestus (Maki)
-    2100 : Revolúcia Hráčov : Koniec korporácií
-    2150 : Marťanská vojna : Iniciatíva Achilles
+    2100 : Revolúcia Ex Inferis  : Koniec korporácií
+    2150 : Marťanská vojna : Iniciatíva Achilles 
     2200 : FTL prielom
     2300 : Mimozemská invázia : Pád Zeme : Operácia EXODUS
 ```
@@ -28,7 +27,7 @@ timeline
     0 : Pristátie **pristávacích modulov** z ARK-11 a ARK-12 (Materské lode ostali na orbite, neskôr sa zrútili do oceánu)
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
-    1200 : Smrť pravého Groma : Dynastia podvodníkov začína
+    1200 : Smrť pravého Gronda : Dynastia podvodníkov začína
     2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maximiliána
     3001 : Duel Samaell vs Max : Smrť Samaella
@@ -49,7 +48,7 @@ timeline
 ### Letopočet Varietas (Dva veky)
 Varietas delia históriu nábožensky:
 1.  **Vek Matky (AY 0 - 2212)**: Od príchodu Inetis (Dar Matky) po príchod jej poslov.
-2.  **Vek Poslov (AY 2212 - súčasnosť)**: Začína príchodom Makov (Tretí Príchod). Označované ako **RP** (Roky Poslov).
+2.  **Vek Poslov (AY 2212 - súčasnosť)**: Začína príchodom Maki (Tretí Príchod). Označované ako **RP** (Roky Poslov).
     - *Aktuálny rok (AY 3013) = **RP 801***
 
 **Kľúčové body:**
@@ -68,7 +67,7 @@ Varietas delia históriu nábožensky:
 - Ľudia už nemusia pracovať, venujú sa hrám a sebazdokonaľovaniu.
 
 ### EY ~2040 – Zrodenie i_net_is
-- **Tragédia miliardára**: **John Reef** (budúci Koordinátor) má dcéru s nevyliečiteľnou degeneratívnou chorobou mozgu
+- **Tragédia miliardára**: **John Reef** (budúci Koordinátor) má dcéru Neto s nevyliečiteľnou degeneratívnou chorobou mozgu
 - **Experiment**: Investuje miliardy do startupu s neurálnym čipom — skopíruje dcérine vedomie do VR
 - **Neočakávaný výsledok**: Vzniká AI **i_net_is** so spomienkami dcéry, ale bez emócií
 - **Otec vedel**: Koordinátor spolupracuje s touto entitou — je to jediná „dcéra" ktorú má
@@ -79,39 +78,38 @@ Varietas delia históriu nábožensky:
 - **Verejný účel**: VR MMORPG s antickým settingom
 
 ### EY 2050 – Maxovo narodenie
-- Maximilián sa narodí v strednej Európe
-- Syn mechanika
+- Maximilián sa narodí vo vychodnej Európe
+- Syn veterana dronovych vojen
 - Generácia detí prežíva stovky virtuálnych rokov v Achilles
 
 ### EY ~2050–2060 – maXpowa & i_net_is
 - Max (nick: **maXpowa**) a i_net_is sa spoznajú v hre
 - i_net_is má podobu znepokojivo dokonalej krásky — príliš symetrická, príliš bezchybná. Hráči ju považujú za AI admina
-- **Stvorenie Spiry**: Na žiadosť hráčov vytvára nanoboty (Prach/Spirit)
-- Max a i_net_is sa „zamilujú" — Max netuší, že ona je AI
+- **Stvorenie Spiry**: Na žiadosť hráčov vytvára in-game magiu (Prach/Spirit)
+- Max a i_net_is sa spriatelia — Max netuší, že ona je AI
 
 ### EY 2060 – „The Glitch Event"
 - **Nie nehoda, ale neúspešná komunikácia**: Tieňoví (Null Swarm) sa pokúsili masovo kontaktovať hráčov
 - **Fatálny kontakt**: Ich forma komunikácie bola pre ľudské mozgy smrteľná — milióny vypálených mozgov
 - **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov
-- **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie o útok
-- **Time Dilation Trauma**: 2 hodiny v realite = 15 rokov subjektívneho väzenia pre 100 000 hráčov
-- **Glitch Entities**: Trhliny vpustili fragmenty vedomí Tieňových — predobraz budúcich **Wraiths**
+- **John Reef vedel**: Vedel ze do VR sveta prenikli entity ale neurobil opatrenia. Sledoval co sa bude diat.
+- **Glitch Entities**: Trhliny vpustili fragmenty vedomí Tieňových z inej dimenzie — predobraz budúcich **Wraiths**
 - **Zrodenie Ex Inferis**: Preživší s poškodeným vedomím potrebujú kybernetické ukotvenie v realite
 
 ### EY ~2065 – Návrat i_net_is do Tela
 - **Hrozba Smrti**: Tieňové bytosti sa snažia zabiť i_net_is vo VR (boja sa, že dali primitívnej rase príliš nebezpečnú zbraň).
-- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek hráčov ju chránia. Sú obkľúčení tieňmi a väčšina z nich zahynie, kým i_net_is hľadá cestu von.
 - **Kolaps Sveta**: i_net_is spotrebúva všetky serverové zdroje. Celý svet sa scvrkne na malú plochu.
+- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek hráčov ju chránia. Sú obkľúčení tieňmi a väčšina z nich zahynie, kým i_net_is hľadá cestu von.
 - **Transcendencia**: V poslednom okamihu sa jej podarí „prejesť“ na vyššiu úroveň. Zbaví sa fyzického tela vo VR (ktoré bolo v podstate inou dimenziou).
 - **Zhmotnenie**: Zhmotní sa ako svetlo v datacentre a vstupuje do svojho tela. Server sa vypína. Hŕstka hráčov prežila (**Ex Inferis**).
 - **Prvý Dar**: Inetis každého z nich navštívi na Zemi a daruje im nanotechnológie (Linux-based), ktoré vyrobila na základe poznámok z VR.
 
 ### EY 2100 – Revolúcia Hráčov
--  Pomalá, premyslená, nenásilná revolúcia
+- Pomalá, premyslená, nenásilná revolúcia
 - Hráči preberajú moc nad svetom
-- Maxov a Inetisin „Guild Leader" sa stáva **Hlavným Koordinátorom**
-- Nanotechnológie z hry sa vyrábajú v realite
-- Hráči (vrátane modifikovaných Varietas, ktoré sa stali slávnymi) preberajú moc.
+- Maxov a Inetisin „Guild Leader John Reef" sa stáva **Hlavným Koordinátorom**
+- Nanotechnológie z hry sa vyrábajú v realite, monopol ma John Reef a je tak bohaty a mocne ze preberie vladu nad planetou.
+- Hráči - jeho najblizsi kruh (vrátane modifikovaných Varietas, ktoré sa stali slávnymi) preberajú moc.
 
 ---
 
@@ -120,7 +118,7 @@ Varietas delia históriu nábožensky:
 ### EY 2150 – Marťanská vojna a „Iniciatíva Achilles“
 - **Vojna s Marsom**: Brutálny konflikt so separatistami. Maximilián sa vyznamená ako **Major**.
 - **Iniciatíva Achilles (Propaganda)**: Vláda Zeme spúšťa projekt kolonizácie planéty pomenovanej po VR hre **„Celestial Frontier: Achilles“**.
-- **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako budovanie armády pre protiútok na oslobodenie Zeme od mimozemskej hrozby. V skutočnosti je to lístok na útek pre elitu.
+- **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako budovanie armády ako obrana od mimozemskej hrozby. V skutočnosti je to lístok na útek pre elitu.
 
 
 ### EY 2100–2280 – Zlatý vek Zeme
@@ -144,34 +142,34 @@ Varietas delia históriu nábožensky:
   - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, 3-ročná cesta
   - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
 - **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Varietas hľadajúce svet bez predsudkov.
-- Ostatné lode (vrátane ARK-11) nesú elitu.
+- Ostatné lode (vrátane ARK-11 a ARK 13) nesú elitu.
 
 ---
 
 ## Pred AY 0: Éra Priekopníkov
 
 ### EY 2300 + 3 roky — Príchod NULL VOID
-- Max a Inetis pristávajú na **neteraformovanej** planéte Achilles.
+- Max a Inetis pristávajú na **neteraformovanej** planéte Kepler 452b.
 - **NULL VOID**: Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
 - **Trauma na lodi:** Počas 3-ročnej FTL cesty Max napadol Inetis. Tento akt násilia je pôvodom Eleninho počatia.
 - **Šok z tehotenstva:** Po pristátí Inetis zistí, že čaká dcéru Eleniu. Kryospánok by dieťa zabil.
-- **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID.
-- **Skutočný dôvod:** Inetis ho chcela preč — bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Uspala ho s úmyslom rozhodnúť sa neskôr. **Nikdy to nedomyslela** — nemohla ho zabiť (vedela, že ho svet bude potrebovať), ale nedokázala sa prinútiť ho zobudiť. 300 rokov sa natiahlo na 3000.
+- **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob na 300 rokov a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID.
+- **Skutočný dôvod:** Inetis ho chcela preč — bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Uspala ho s úmyslom rozhodnúť sa neskôr. **Nikdy to nedomyslela** — nemohla ho zabiť (vedela, že ho svet bude v buducnosti potrebovať), ale nedokázala sa prinútiť ho zobudiť. 300 rokov sa natiahlo na 3000.
 - **Pokus o genetickú modifikáciu:** Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele (mohli by spať obaja), no experiment zlyhal.
-- **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy, upravili okolie. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a **Anténa** (glitchla sa, odmietla rekonfiguráciu). Kryobox sa po Maxovom prebudení (~AY 3000) rozpadol na prach.
+- **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu- obrovsky moderny komplex, vytvorila laboratórium, hydroponické farmy, upravila okolie. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a jedna **Anténa** (glitchla sa, odmietla rekonfiguráciu). Kryobox sa po Maxovom prebudení (~AY 3000) rozpadol na prach.
 
-### Nasledujúcich ~30 rokov v jaskyni
+### Nasledujúce ~3 roky v jaskyni
 - **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenakonfigurovala na hydroponické systémy.
-- **Eleniino pomalé detstvo:** Elenia sa narodí, ale kvôli neúspešnej genetickej modifikácii rastie extrémne pomaly.
+- **Normálne detstvo:** Elania sa narodila a vyrastala ako normálne dieťa. Pokojné roky matky a dcéry.
 - **Prvé varovanie — Glitchnutá Anténa:** Anténa odmietla rekonfiguráciu a správala sa nepredvídateľne. Pre Inetis to bolo **prvé varovanie**, že nanodronový systém nie je stabilný. Matematicky vypočítala, že celý systém nanodronov (v1.0/v1.5) by mohol v budúcnosti skolabovať. Toto poznanie ju motivovalo začať navrhovať nový, jednoduchší systém ovládania.
 - **Pentagram UI:** Inetis vytvára Pentagram ako nové zjednodušené rozhranie (IDE) — čiastočne ako pedagogickú pomôcku pre Eleniu, čiastočne ako základ budúceho stabilnejšieho systému. Učí Eleniu ovládať nanity cez 5 elementárnych parametrov (hmota, energia, čas, priestor, vedomie).
 
-### Po ~30 rokoch — Cesta na Elysium
+### Po ~3 rokoch — Cesta na Elysium
 - **Opätovná rekonfigurácia:** Inetis prekonfiguruje nanodronov naspäť na loď NULL VOID.
 - **Prieskumná cesta:** S malou Eleniou sa vydá na cestu okolo planéty — hľadá vhodnejšie miesto pre budúcich kolonistov.
 - **Objav Elysia:** Nájdu ostrovy pri rovníku — **Elysium** (budúce Ynetis). Najteplejšie, najúrodnejšie miesto na planéte. Ideálne na kolonizáciu.
 - **Foundry (Továreň):** Na Elysiu Inetis prekonfiguruje loď NULL VOID (v1.5) na **Foundry** — továreň vyrábajúcu nanodrony nižšej úrovne (v1.0). Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium.
-- **Zvyšok ~270 rokov:** Elenia pokračuje v extrémne pomalom raste. Inetis buduje mesto, učí dcéru a čaká na príchod kolonistov.
+- **Zvyšok ~270 rokov:** Elania vyrastá na Elysium. Inetis buduje mesto, učí dcéru a čaká na príchod kolonistov.
 
 ---
 
@@ -181,15 +179,15 @@ Varietas delia históriu nábožensky:
 - Kolonisti (300-ročná cesta) pristávajú
 - Medzi kolonistami: elita zo Zeme, starí známi
 - Začiatok systematickej kolonizácie
-- Šok: Inetis už na planéte.
-- Začiatok budovania Ynetis. Varietas pracujú po boku "Čistých".
+- Šok: Inetis už na planéte aj s dcerou. Pripravila im raj.
+- Elysium vybudovane. Varietas pracujú po boku "Čistých".
 
 ---
 
 ## AY 0 – 300: Zlatý vek
 
 ### Založenie mesta Elysium (Ynetis)
-- Inetis založila **Elysium** (Záhrada Hrdinov) na ostrovoch pri rovníku, ktoré objavila počas prieskumnej cesty s Eleniou (~30 rokov po pristátí).
+- Inetis založila **Elysium** (Záhrada Hrdinov) na ostrovoch pri rovníku, ktoré objavila počas prieskumnej cesty s Eleniou (~3 roky po pristátí).
 - Keď kolonisti dorazili (AY 0), zázemie už bolo pripravené — Inetis mala ~270 rokov na prípravu.
 - Neskorší názov **Ynetis** vznikol skomolením jej mena (Inetis) po jej zmiznutí.
 - Utópia pomocou nanotechnológií
@@ -197,9 +195,9 @@ Varietas delia históriu nábožensky:
 
 ### Konflikt Matka vs. Dcéra (AY ~250?)
 - Inetis chce slobodnú spoločnosť
-- Elenia smeruje k poriadku a nadvláde
-- **Prvá vzbura** — Elenia vedie odpor
-- Utópia. **Dôležité:** Štandardné nanoboty elity (Hráčov) nefungujú správne v telách Varietas pre ich odlišnú biológiu.
+- Elania smeruje k poriadku a nadvláde
+- **Prvá vzbura** — Elania vedie odpor
+- Utópia. **Dôležité:** Štandardné nanoboty fungujú správne v telách Varietas pre ich odlišnú biológiu (psychologiu) Varietas su preto podozrievani z umyselnej sabotaze.
 
 ---
 
@@ -215,84 +213,86 @@ Varietas delia históriu nábožensky:
 - „Modlitby" = skomolené CLI príkazy na reset dronov
 
 ### Exodus na pevninu
-- Nanoboty zlyhávajú. Agónia a smrť elity.
+- Nanoboty zlyhávajú. Agónia a smrť ludi.
 
-- **Varietas odchádzajú ako prvé**: Keďže ich telá nanoboty elity odmietali, nie sú zasiahnutí Glichom. Emigrujú z Ynetis do divočiny na Pevnine.
+- **Varietas odchádzajú**: Schyluje sa k obcianskej vojne preto radsej Varietas emigrujú z Elysia do cerstvo teraformovanej divočiny na kontinent ktory pomenovali Terra Nova. Zakladaju mesto Neverice. Stavaju pomocou nanotechnologii / 3d tlacene mesto a veku komunikacnu vezu na spojenie s Elysiom.
+
 
 ### Úpadok do Temnoty
-- Varietas na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku".
+- U Varietas casom ale glich rot pride ( bolo to u nich oneskorene o par stoviek rokov) a v panike (videli co sa stalo v Elysiu, zbavili sa svojich nanotechnologii, vytvorili z nich cierny obelisk ktory sa neskor glichol a dodnes je v strede mesta ako pomnik minulosti). Po strate nanotechnologii na pevnine trpia hladom, chorobami a stratou technológií. Upadajú do "stredoveku", pomaly a postupne.
 
 ### Inetisina Simulácia (~AY 500-650)
-- **Kríza**: Glitch Rot decimuje elitu, staré nanoboty (v1.0 z Foundry) sú nebezpečné a agresívne
-- **Elenia vedie obranu**: Kým Inetis hľadá riešenie, Elenia vedie zúfalú obranu Ynetis proti Wraithom
+- **Kríza**: Glitch Rot decimuje ludstvo, staré nanoboty (v1.0 z Foundry) sú nebezpečné a agresívne
+- **Elania vedie obranu**: Kým Inetis hľadá riešenie, Elania vedie zúfalú obranu Ynetis proti Wraithom
 - **Foundry → The Core**: Inetis rekonfiguruje **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID) na **The Core** — novú simuláciu
   - Menšia ako Achilles na Zemi (obmedzené zdroje, ale stačí na výskum)
-  - Účel: vývoj nových, bezpečnejších nanobotov v2.0 (Dar Matky) kompatibilných s biológiou Varietas
+  - Účel: vývoj nových, bezpečnejších nanobotov v2.0 (Dar Matky) 
   - Čas v simulácii beží rýchlejšie (~100 simulovaných rokov = desaťročia v realite)
 - **Návrat**: Inetis sa vracia a nachádza:
-  - Ynetis v ruinách (mesto duchov)
-  - Elenia nezvestná (v skutočnosti už s Archanjelmi po ich príchode v AY 700, ale Inetis to nevie)
+  - Elysium v ruinách (mesto duchov)
+  - Elania nezvestná (v skutočnosti už s Archanjelmi po ich príchode v AY 700, ale Inetis to nevie)
 - **Nové nanotechnológie**: Prináša sofistikovanejšie nanoboty - bezpečnejšie, dedičné, prispôsobené pre biológiu Varietas
 
 ### AY ~700: Druhý Príchod (ARK-13 "Prometheus")
 - **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze urobili štyria Ex Inferis chladné rozhodnutie prežiť. 
-- **Prvotný Hriech**: Systematicky odpojili a „konzumovali“ spiacich kolonistov (1000+ ľudí). Nebol to len kanibalizmus mäsa, ale **zber biologického materiálu a nanotechnologických prekurzorov** na udržanie vlastnej existencie. Ich božský status je vybudovaný na masovom hrobe vlastných ľudí.
+- **Prvotný Hriech**: Systematicky odpojili a „konzumovali“ spiacich kolonistov (10000+ ľudí). Nebol to len kanibalizmus mäsa, ale **zber biologického materiálu a nanotechnologických prekurzorov** na udržanie vlastnej existencie. Ich božský status je vybudovaný na masovom hrobe vlastných ľudí.
 - **Prílet na Achilles**: ARK-13 zachytáva signály z Achilla a mení kurz. Nachádzajú planétu v troskách a chaose.
-- **Záchrana Elenie**: Archanjeli (Samaell, Grom, Ishtar a **Mormiel** — jediná Varietas z ARK-13, disponujúca Earth nanotechom aj Spirou) nachádzajú Eleniu v ruinách centra **Ynetis**. Elenia vedie zúfalý boj proti drvivej presile Wraithov. Jej sily dochádzali, kým nezasiahli novoprišlí "bohovia". Mormiel sa neskôr skryje v Nevriss City ako **Požehnaná Matka** — hlava Kultu Vševedúcej Matky.
+- **Záchrana Elenie**: Archanjeli (Samaell, Grond, Ishtar a **Mormiel** — jediná Varietas z ARK-13, disponujúca Earth nanotechom aj Spirou) nachádzajú Eleniu v ruinách centra **Ynetis**. Elania vedie zúfalý odboj proti drvivej presile Wraithov. Jej zdroje dochádzali, kým nezasiahli novoprišlí "bohovia". Mormiel sa neskôr skryje v Nevriss City ako **Požehnaná Matka** — hlava Cirkvy Vševedúcej Matky.
 - **Stabilizácia a Dohoda**: 
-    - Archanjeli svojou pokročilou bojovou technológiou zničia Wraithov v jadre mesta.
+    - Archanjeli svojou pokročilou bojovou technológiou potlacia Wraithov v jadre mesta.
     - Použijú znalosti z ARK-13 na stabilizáciu energetických polí, čím spomalia Glitch Rot.
-    - **Dohoda o Zjednotení**: Elenia uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadelu** (najbezpečnejšia časť Ynetis).
+    - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadely** Veza Zatratenych juhozapadne od Elysia. A Severna citadela zapadne od Neverice.
+    **Ex inferis** zacnu lupezne vojny na uzemia Varietas, - potrebuju ludske(varietas) obete, potraviny alebo zabavu.
 
 ### AY 2212: Tretí Príchod (Expedícia "Hephaestus")
-- **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami biologických androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
+- **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami syntetickych androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
 - **Biblická udalosť**: Pre Varietas toto značí **začiatok Veku Poslov (RP 0)**. Maki sú vnímaní ako "Poslovia Matky".
-- **Lekcia Krvi**: Maki začnú budovať osady s elektrinou. Wraithovia ich zmasakrujú. Prežije len **Séria-J (Japonská)** — vďaka disciplíne a lepšiemu 'stealth' dizajnu.
-- **Adaptácia**: Maki pochopia, že elektrina je tabu. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
+- **Lekcia Krvi**: Maki začnú budovať mesto Kito kde ich varietas vedeni liscim narodom ocakavali. Maki spustia fuzny reaktor a pritiahnu wraithov z celeho kontinentu. Wraithovia ich zmasakrujú. Prežije len **Séria-J a unit734(Japonská)** —  pretoze robili hlboko pod zemou system na odvadzanie vody.
+- **Adaptácia**: Maki pochopia, že elektrina je problem. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
 - **Vstup do Spoločnosti**: Začínajú spolupracovať s Varietas ako tichí stavitelia a inžinieri.
 
 ---
 
 ## AY ~700 – 2987: Éra Mýtov
 
-### Smrť Groma (~AY 1200)
-- **Pravý Grom**: Ex Inferis zo Zeme, spravodlivý vládca Severu 500 rokov
-- **Glitch Rot**: Zomiera na rozpad nanotechnológie
-- **Power Armor**: Jeho zbroj zostáva — symbol božskej moci
-- **Dynastia podvodníkov**: Prvý generál si oblieka zbroj, vyhlási sa za "Groma II"
-- **Tajomstvo**: Od tejto chvíle je Grom len muž v zbroji — nikto nevidí tvár pod helmou
+### Vláda Gronda (AY 700 - súčasnosť)
+- **Ex Inferis zo Zeme**: Jeden zo štyroch pôvodných Archanjelov z ARK-13
+- **Spravodlivý vládca**: Prvých ~500 rokov vládol rozumne, Varietas ho milovali
+- **Potrebuje ľudské obete**: Ako všetci Ex Inferis, musí požierať iných ľudí aby nahrádzal rotujúce nanoboty
+- **Power Armor**: Nikto nevidel jeho tvár pod helmou už 3000 rokov — pod zbrojou je zničené telo
+- **Súčasnosť (AY 3013)**: Tyran vedúci vojnu s Juhom (Nevriss), armáda primitívnych tankov a exoskeletonov
 
 ### Obdobie „Anjela strážneho"
 - Inetis občas navštevuje pevninu (raz za 30–50 rokov)
-- Ľudia ju vnímajú ako bohyňu
+- Varietas ju vnímajú ako bohyňu
 - Zostúpila z nebies (vznášadlo), liečila dotykom (nanodrony)
 
-### Vyhnanie z Ynetis
-- AI a „Duchovia" ovládnu mesto
-- Inetis vyhnaná a lovená
+### Vyhnanie z Elysium
+- AI „Duchovia" ovládnu mesto
+- Inetis sa nevie dostat k jadru a vyriest problem glich rotu
 
 ### Smrť Inetis
-- Ukryje sa v jaskyni na pevnine
-- Zomiera v samote, aby nepritiahla „démonov" k ľuďom
-- Zanecháva denníky pre Maxa
+- Chce prebudit maxa, aby jej pomohol dostat sa k jadru Elysium.
+- Zomiera na glich rot. Na ceste k maxovi.
+
 
 ### Prvá Návšteva Kontinentu a Dar Matky (~AY 700+)
-- **Po návrate zo simulácie**: Inetis stretá skupinu preživších v ruinách Ynetis
+- **Po návrate zo simulácie**: Inetis stretá skupinu preživších v ruinách Elysium.
 - **Spoločná výprava**: Prvýkrát navštevuje kontinent (pevninu)
 - **Stretnutie s Varietas**: Nachádza kolónie Varietas, ktoré prežili exodus a založili vlastné osady
 - **Dar Matky**: Odovzdáva im nové nanotechnológie vyvinuté v simulácii:
   - **Dedičné** — prenášajú sa na potomkov
   - **Liečivé** — liečia choroby a zranenia
   - **Pentagram schopnosti** — oheň (energia), telekinéza (priestor), manipulácia s hmotou
-  - **Bezpečné** — nespôsobujú Glitch Rot ako staré nanoboty elity
-- **Periodické návštevy**: Po prvej návšteve sa Inetis vracia na kontinent raz za 30-50 rokov
+  - **Bezpečné** — nespôsobujú Glitch Rot ako staré nanoboty
+- **Periodické návštevy**: Po prvej návšteve sa Inetis vracia na kontinent raz za 5-10 rokov (vracia sa do Elysium a pracuje na projetke zachrany wraithow - ma v plane ich spomienky uploadnut do achilles, pochopila ze entity z inej dimenzie su waithovia inej stratenej mimozemskej civilizacie) Ale nikdy sa jej projekt nepodari dokoncit. Spomenie si ze potrebuje specialnu antenu ale uz nemala zdroje na vyrobu novej. Vsetky nanoboty verzie 1.5 z null void ktore sa este neglichli boli potrebne na the CORE.
 
 ### Vznik Kultu Matky a Folklóru
 - Varietas si vytvárajú legendy o milostivej Matke.
 - Fundamentalisti odmietajú sci-fi pôvod sveta.
 
 ### Zlatý Vek Nevriss — Námorné Impérium (~AY 800 – ~AY 1500)
-- **Expanzia po Dare Matky**: Po veľkej bitke s ľuďmi a rozšírení Spiry nastal na juhu Terry zlatý vek.
+- **Expanzia po Dare Matky**: Po veľkej bitke na planinach kde dnes stoji Shoraven s ľuďmi a rozšírení Spiry nastal na juhu Terry zlatý vek.
 - **Námornícka veľmoc**: Nevriss sa rozrástlo na impérium rozpínajúce sa pozdĺž južných brehov Terry. Južné pobrežie nikdy nezamŕza — lode mohli plávať celoročne.
 - **Kolonizácia**: Nevrisské lode zakladali mestá a kolónie, šírili jazyk, Kult Matky a kultúru. Kolonisti **teraformovali krajinu Spirou** — sadili stromy, premenili nehostinné pobrežia na úrodné pôdy.
 - **Dedičstvo**: Mnoho dnešných krajín na južnej Terre má nevrisské korene.
@@ -307,23 +307,26 @@ Varietas delia históriu nábožensky:
 
 *AY 3000 (RP 788)**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
     - Piráti **Vix a Kael** zabíjajú hľadača pokladov **Renna** (Taminho otca) a jeho malú dcéru **Tami** (7) držia v klietke.
-    - Kael aktivuje senzory v zabudnutej jaskyni (Hrobka technológie) svojou krvou.
-    - AI obchádza protokol „Tichá Noc" a spúšťa núdzové prebudenie **EX-INF-003**.
+    - Kael prebudi wraitha Inetis ktory zobudi maxa. Wraith inetis zabije Kaela.
     - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
-    - **Samaell** zachytáva signál „brata v zbrani" a upadá do zmesi šialenstva.
+    - **Samaell** cele roky putuje divocinou okolo jaskyne, citi Inetisinu stopu, obcas najde zbludeny nanodron. Ale nikdy sa nedostal blizsie ako 100 kilometrov k jaskyni. Az kym neuvidi na oblohe Makitu a nezacne ju nasledovat. Kael a Vix ho navedu priamo k Jaskyni.
     - Piráti nájdu Maxa v snehu a berú ho na palubu. Max a Tami sa stretnú na lodi.
+    - jaskyna ( bunker sa zatvara, samaell sa nevie dostat dnu)
+    
+
 - **Rok Tieňov (AY 3000 – 3001)**:
     - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
     - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maxa a Tami celý rok.
-    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je len legendou a „Iniciatíva Achilles" bola jedna veľká lož. Archanjeli nič nevybudovali; utiekli a zostali v ruinách.
-    - **Unit 734 („Sedmička")**: Mako-mechanik slúži ako prekladateľ.
+    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je uplne zabudnuta a „Iniciatíva Achilles" sa nepodarila.
+    - **Unit 734 (Felix")**: Mako-mechanik slúži ako zachranne koleso.
+
 - **Duel so Samaellom (AY 3001)**:
     - Max (stále slepý) využíva nano-drony veľkosti zrnka piesku
     - Technika z Achilles simulácie: FPV drony vniknú do dýchacích ciest a explodujú
-    - Duel na obrovské vzdialenosti — Samaell podcenil "slepého" protivníka
+    - Duel na obrovské vzdialenosti — Samaell podcenil protivníka
     - **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
-    - **Technovampirizmus**: Max sa zmocní Samaellových nanobotov (Highlander štýl)
-- **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Maxovi sa vráti zrak v rušnom prístave. Šok z odhalenia Tami (uši, chvost) a spoločnosti Varietas. Bod zlomu pre jeho ideológiu.
+    - **Technovampirizmus**: Max sa zmocní Samaellových nanobotov (Highlander štýl, nadobudne svalovu hmotu) vratia sa mu oci (z prachu)
+- **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Šok z odhalenia Tami (uši, chvost) a spoločnosti Varietas. Bod zlomu pre jeho ideológiu.
 - **AY 3001 – AY 3008**: **7-ročná cesta**: Premena z „trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň.
 - **Tami vyznanie a odchod (AY 3008)**:
     - Tami (15 rokov) sa vyzná Maxovi
@@ -332,10 +335,10 @@ Varietas delia históriu nábožensky:
 - **AY 3008 – AY 3013**: **5 rokov odlúčenia**:
     - Max pokračuje ako Exorcista sám
     - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
-    - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma
+    - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma v Nyau a Beladiss
     - Vidí upálenie priateľov kvôli nálezu Anténa
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
-    - **Opening**: Vzducholoď pristáva v nočnom meste Shoraven. Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch.
+    - **Opening**:  Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch v Kito. Vyberu sa pomstit smrt Taminych priatelov a Max sa zaujima o artefakt. Vzducholoď pristáva v nočnom meste Shoraven.
     - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
@@ -345,17 +348,24 @@ Varietas delia históriu nábožensky:
 
 ## Príbeh kníh
 
-**Prierezový oblúk — Triangulácia Ynetis**: Max využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elenia). Každá návšteva je spojená s konfrontáciou s miestnym Archanjelom.
+**Prierezový oblúk — Triangulácia Ynetis**: Max využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elania). Každá návšteva je spojená s konfrontáciou s miestnym Archanjelom.
 
-1. **ZEM | hmota** — Max hľadá Inetis, nájde jej telo. Flashbackový antagonista: Samaell (zabitý v AY 3001). Prítomní antagonisti: falošný Grom (invázia Graw) + Paladíni (dvojitý boss fight pri Anténe). **Triangulácia 1/3**: Max aktivuje Anténu na Veľkom Majáku v Nevriss City.
-2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Grom (aktuálny podvodník v Power Armor)
-3. **VODA | čas** — POV Inetis, História Ynetis, odhalenie identity Elenie. Boss: Ishtar/Zaya. **Triangulácia 2/3**: Max získava meranie zo Sklenej Veže v Zayinom kráľovstve.
+1. **ZEM | hmota** — Max hľadá v novom svete Inetis. Flashbackový antagonista: Samaell (zabitý v AY 3001). Prítomní antagonisti: Grond (invázia Graw) + Paladíni (dvojitý mini boss fight pri Anténe). 
+Finalny boss je **Mormiel** ktora komunikuje prostrednictvom veze s Elaniou.
+**Triangulácia 1/3**: Max aktivuje Anténu na Veľkom Majáku v Nevriss City.
+
+2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Caesar ( flashbacky na koordinatora )
+
+3. **VODA | čas** — POV Inetis, História Elysium, odhalenie identity Elenie. Boss: Ishtar/Zaya. **Triangulácia 2/
+**: Max získava meranie zo Sklenej Veže v Zayinom kráľovstve.
+
+
 4. **VZDUCH | priestor** — Vojna s Eleniou, Doomsday Protocol. **Triangulácia 3/3**: Posledné meranie z Veže Zatratených — Max vypočíta polohu Ynetis.
-5. **KVINTESENCIA | vedomie** — Veľký upload, návrat do VR Achilles, finálne splynutie so subspace.
+
+5. **KVINTESENCIA | vedomie** — Veľký upload, návrat do CORE - VR Achilles, finálne splynutie so subspace.
 
 ---
 
-## Otvorené otázky (TODO)
 
-- [ ] Presný rok smrti Inetis (AY ~700?)
-- [ ] Kedy presne vznikol Kult Matky?
+
+

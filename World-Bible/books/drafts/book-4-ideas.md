@@ -1,5 +1,5 @@
 PROJECT BIBLE: KNIHA 4 – BÚRKA STROJOV (Final Revised v2)
-Séria: NULL VOID (Časť 4 z 5) Element: Vzduch 💨 (Atmosféra strachu, "Duchov" a všadeprítomnej kontroly) Téma: Stagnácia, Starý svet vs. Nový svet, Skúsenosť vs. Hrubá sila. Hlavný Antagonista: Elenia a jej "Nesmrteľní" (The Old Guard).
+Séria: NULL VOID (Časť 4 z 5) Element: Vzduch 💨 (Atmosféra strachu, "Duchov" a všadeprítomnej kontroly) Téma: Stagnácia, Starý svet vs. Nový svet, Skúsenosť vs. Hrubá sila. Hlavný Antagonista: Elania a jej "Nesmrteľní" (The Old Guard).
 
 "Máš v sebe vojenský hardvér, Maximilián. Si ako tank. Silný, ale hlúpy. My sme tu dvetisíc rokov. My sme sa naučili s tou 'hlinou' tancovať. Vitaj v novom svete, spachtoš. Tu tvoje staré pravidlá neplatia." — Kapitán Starej Gardy pred bojom s Maxom
 
@@ -55,33 +55,33 @@ Max musí vypnúť štít, aby mohol bojovať naplno.
 Bitka v bahne: Maxova brutálna sila vs. tisícročné skúsenosti Nesmrteľných. Je to zúfalý boj. Max vyhráva len o chlp, pričom utrpí vážne zranenia.
 
 3. Dejstvo: Prelomenie (The Breach)
-Dostávajú sa na dno, k bráne Jadra. Elenia a jej elitná garda čakajú.
+Dostávajú sa na dno, k bráne Jadra. Elania a jej elitná garda čakajú.
 
 Finálna konfrontácia:
 
 Max nemôže použiť štít, lebo Tami je zranená a potrebuje jeho ochranu.
 
-Elenia ho napadne. Nie je to len súboj ideológií, ale aj generácií.
+Elania ho napadne. Nie je to len súboj ideológií, ale aj generácií.
 
-Elenia nakoniec Maxa premôže (využije jeho zranenia z boja s Nesmrteľnými a jeho neochotu zabiť ju).
+Elania nakoniec Maxa premôže (využije jeho zranenia z boja s Nesmrteľnými a jeho neochotu zabiť ju).
 
 CLIFFHANGER:
 
-Elenia použije Maxovu ruku a palicu na otvorenie brány.
+Elania použije Maxovu ruku a palicu na otvorenie brány.
 
 "Protokol Ticha" je deaktivovaný. Duchovia po celom svete prestávajú útočiť. Nastáva desivé ticho.
 
-Elenia vstupuje do temnoty Jadra. Max a Tami ležia porazení v bahne, zatiaľ čo sa svet mení.
+Elania vstupuje do temnoty Jadra. Max a Tami ležia porazení v bahne, zatiaľ čo sa svet mení.
 
 
 ozdiel medzi Maxom a Eleniou nie je v tom, že jeden je "dobrý" a druhý "zlý". Obaja chcú zachrániť ľudstvo. Rozdiel je v tom, čo definujú ako "ľudstvo" a čo definujú ako "život".
 
 Je to stret dvoch fundamentálne odlišných pohľadov na existenciu, formovaných ich unikátnymi traumami.
 
-Tu je rozbor dôvodov, prečo Max nemôže chcieť to isté čo Elenia:
+Tu je rozbor dôvodov, prečo Max nemôže chcieť to isté čo Elania:
 
 1. Trauma tela vs. Trauma duše
-Elenia (Trauma z pozorovania): Elenia strávila 2700 rokov sledovaním. Videla svoju matku, geniálnu vedkyňu, zomrieť v špine a bolesti, pretože jej biologické telo zlyhalo. Videla civilizácie vznikať a zanikať v krvi, chorobách a utrpení.
+Elania (Trauma z pozorovania): Elania strávila 2700 rokov sledovaním. Videla svoju matku, geniálnu vedkyňu, zomrieť v špine a bolesti, pretože jej biologické telo zlyhalo. Videla civilizácie vznikať a zanikať v krvi, chorobách a utrpení.
 
 Jej záver: Biológia je kliatba. "Mäso" je slabé, kazí sa a prináša len bolesť. Byť človekom vyznačuje utrpenie.
 
@@ -91,10 +91,10 @@ Maximilián (Trauma z akcie): Max je vojak zo Starej Zeme. Pre neho je život de
 
 Jeho záver: Bolesť a smrteľnosť sú cenou za to, že sme nažive. Bez možnosti cítiť bolesť nemôžeme cítiť ani skutočnú radosť.
 
-Jeho pohľad na riešenie: To, čo Elenia ponúka, nie je život. Je to sterilná večnosť. Byť len dátami na serveri pre neho znamená prestať byť človekom. Je to horšie ako smrť – je to strata podstaty.
+Jeho pohľad na riešenie: To, čo Elania ponúka, nie je život. Je to sterilná večnosť. Byť len dátami na serveri pre neho znamená prestať byť človekom. Je to horšie ako smrť – je to strata podstaty.
 
 2. Dedičstvo Inetis (Nádej vs. Zúfalstvo)
-Elenin pohľad: Elenia verí, že projekt jej matky (fyzická kolonizácia) zlyhal. Inetis sa snažila vybudovať raj na zemi a výsledkom bolo peklo. Elenia chce "opraviť" matkinu chybu tým, že tento nepodarený experiment ukončí a presunie ho do virtuálnej reality.
+Elenin pohľad: Elania verí, že projekt jej matky (fyzická kolonizácia) zlyhal. Inetis sa snažila vybudovať raj na zemi a výsledkom bolo peklo. Elania chce "opraviť" matkinu chybu tým, že tento nepodarený experiment ukončí a presunie ho do virtuálnej reality.
 
 Maxov pohľad: Pre Maxa je boj o fyzické prežitie presne tým, za čo Inetis položila život. Ona sa neobetovala preto, aby sa ľudia stali duchmi v stroji. Obetovala sa, aby mohli dýchať vzduch, budovať mestá a mať deti z mäsa a kostí.
 
@@ -103,7 +103,7 @@ Pre Maxa je Elenin plán zradou Inetinho sna. Súhlasiť s Eleniou by znamenalo 
 3. Slobodná vôľa vs. Nútená spása
 Toto je najväčší morálny rozdiel.
 
-Elenia: Správa sa ako prísna, "vševediaca" matka (alebo bohyňa). Neverí, že ľudia sú schopní rozhodovať o sebe. Sú pre ňu ako deti hrajúce sa so zápalkami. Chce ich zachrániť násilím, proti ich vôli. "Veľký Upload" je genocída fyzických tiel pre "dobro" ich duší.
+Elania: Správa sa ako prísna, "vševediaca" matka (alebo bohyňa). Neverí, že ľudia sú schopní rozhodovať o sebe. Sú pre ňu ako deti hrajúce sa so zápalkami. Chce ich zachrániť násilím, proti ich vôli. "Veľký Upload" je genocída fyzických tiel pre "dobro" ich duší.
 
 Maximilián: Verí v právo na sebaurčenie. Aj keď je svet hrozný, ľudia musia mať právo vybrať si svoj osud – dokonca aj právo zvoliť si utrpenie a smrť. Vziať im telá bez ich súhlasu je pre neho ten najväčší zločin.
 
@@ -119,6 +119,6 @@ Táto dichotómia robí ich konflikt v Knihe 4 a 5 tragickým:
 
 Max nebojuje proti "zlu". Bojuje proti svojej dcére, ktorá si myslí, že ho zachraňuje.
 
-Keď mu Elenia povie: "Nechcem ti ublížiť, otec. Chcem ťa zbaviť bolesti, ktorú ti tento svet spôsobil," myslí to smrteľne vážne.
+Keď mu Elania povie: "Nechcem ti ublížiť, otec. Chcem ťa zbaviť bolesti, ktorú ti tento svet spôsobil," myslí to smrteľne vážne.
 
 A Max jej musí odpovedať niečím v zmysle: "Tá bolesť je dôkaz, že som ešte nažive. A ja radšej zomriem ako človek, než by som žil večne ako tvoj väzeň v stroji."
