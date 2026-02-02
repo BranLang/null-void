@@ -7,8 +7,6 @@
 
 ## Prvý Kontakt so Svetom (The Descent)
 
-## Prvý Kontakt so Svetom (The Descent)
-
 Inetis strávila dlhé obdobie izolovaná v **The Core** — simulácii, ktorú vytvorila rekonfiguráciou **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Nebol to útek, ale zúfalá snaha nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Riskovala všetko — zavrela sa v simulácii, dúfajúc, že zachráni svoju dcéru a ľudí.
 
 Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von, bolo neskoro.
@@ -135,3 +133,28 @@ Sadla si k jeho modulu. Oprela si čelo o studené sklo.
 Zomrela tam, v tichu jaskyne.
 Jej telo sa rozpadlo na prach (nanoboty sa deaktivovali a opustili hostiteľa). Ostali len jej denníky (kožené zväzky, ktoré písala celé roky) a kosti.
 Max spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho tváre.
+
+---
+
+## Wraith Inetis (Duch v Jaskyni)
+
+Inetis zomrela, ale nie celá. Jej deaktivované nanoboty — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkmi. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
+
+Jaskyňa Počiatku sa stala strašidelným miestom. Miestne kmene sa jej vyhýbali. Hovorili o svetlách v tme, o šepotoch v jazyku, ktorý nikto nepoznal (Japončina — syntax Spiry). Wraith Inetis — nie duch v nadprirodzenom zmysle, ale reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
+
+### Kontakt s Tami (~AY 3011)
+
+Okolo roku **AY 3011** sa do jaskyne dostala expedícia hľadačov pokladov: **Arkot, Yera, Flint** — a s nimi **Tami**. Našli jaskyňu podľa starej mapy, ktorú Tami objavila pri upratovaní vzducholode **Makita** (loď zdedená po otcovi, postavená Makmi — mapy mohli byť pôvodné navigačné záznamy).
+
+Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a prešli na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
+
+**Dôsledky:**
+- Tami od tohto momentu nesie **Echo Inetis** — fragmenty spomienok, vedeckej terminológie a schopností (liečenie, regenerácia). Prejavujú sa pomaly, podvedome — nočné mory v cudzom jazyku, intuícia, ktorú nedokáže vysvetliť.
+- **Podvedomá motivácia:** Echo Inetis ju ťahá k Maxovi. Tami si myslí, že ho hľadá pre seba — pre nevyriešené city. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán: zobudiť Maxa.
+- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne — preto je taká výnimočná v práci so Spirou (nad rámec toho, čo ju Max naučil).
+
+### Osud expedície
+
+Arkot, Yera a Flint boli po návrate **verejne upálení na námestí v Shoravene** na priamy rozkaz Požehnanej Matky (Mormiel). Vedeli príliš veľa o lokácii Jaskyne Počiatku — mieste posledného odpočinku „Svätej Matky" a potenciálne ďalších artefaktov. Mormiel chcela jaskyňu pre seba.
+
+Tami prežila, pretože **Mormiel o nej nevedela** — nebola oficiálne zaznamenaná ako člen expedície. Tami vie len to, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií". Skutočný dôvod nepozná.
