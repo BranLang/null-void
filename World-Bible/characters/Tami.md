@@ -22,7 +22,7 @@
 | Rok | Vek | Udalosť |
 |-----|-----|---------|
 | **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12). Vyrastá v ruinách mesta Kito s otcom Rennom a Felixom (Mako) |
-| **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna. Tami je zajatá a držaná v klietke na palube ich lode |
+| **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna kvôli mape k Jaskyni Počiatku. Tami je zajatá a držaná v klietke na palube pirátskej lode |
 | **AY 3000** | 7 | Piráti nájdu Maxa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Max a Tami sa stretnú — on v bezvedomí, ona v klietke |
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
 | **AY 3001** | 8 | Max zabije Samaella v dueli |
@@ -30,7 +30,9 @@
 | **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju odmietne (vidí v nej dcéru) |
 | **AY 3008** | 15 | **Odchod** — Tami vezme vzducholoď, nechá Maxa v pustatine |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
-| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom |
+| **~AY 3011** | ~18 | **Expedícia do Jaskyne Počiatku** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
+| **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
+| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom (podvedome ťahaná k nemu cez Echo Inetis) |
 
 ### Tami po odchode od Maxa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
@@ -46,7 +48,7 @@
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov, ktorí objavili Jaskyňu Počiatku. Našli miesto posledného odpočinku Inetis a stopy po Anténe. Za tento objav boli **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Toto Tami nevie — vie len, že Cirkev ich zabila za „znesvätenie svätých relikvií"
+- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Počiatku**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 
@@ -69,9 +71,9 @@
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
 
 ### Premena & Zvrat
+- **Echo Inetis (pred Book 1)**: Kontakt s pozostatkami Inetis v Jaskyni Počiatku (~AY 3011) — „hladné" nanodrony prešli na Tami. Od tohto momentu nesie fragmenty Inetis: spomienky (nočné mory v cudzom jazyku), vedeckú terminológiu, latentné schopnosti (liečenie, regenerácia). Efekty sú spočiatku subtílne — Tami si ich vysvetľuje ako intuíciu alebo talent.
+- **Podvedomá motivácia**: Echo Inetis ju ťahá k Maxovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maxa.
 - **Odhalenie (Kniha 1)**: Max zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
 - **Dôsledok**: Max zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
-- **Kontakt s Inetis**: Po kontakte s telom Inetis na ňu prejdú „hladné" nanodrony:
-    - Získava spomienky Inetis (nočné mory, vedecká terminológia).
-    - Schopnosti: liečenie, regenerácia.
-- **Tragédia**: Tami vie, že sa mení. Bojí sa, že Maxa to teší — že v nej vidí mŕtvu Inetis, nie ju.
+- **Postupná premena**: Počas deja sa Echo Inetis zosilňuje — schopnosti sa stávajú výraznejšími, spomienky zreteľnejšími. Tami vie, že sa mení.
+- **Tragédia**: Bojí sa, že Maxa to teší — že v nej vidí mŕtvu Inetis, nie ju.

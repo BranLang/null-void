@@ -24,7 +24,7 @@ Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná
 
 ### Makita — Najväčšia loď na Terre
 
-- **Pôvod lode**: Felix postavil **Makitu** pre Renna — ako dar a ako splnenie vlastnej Direktívy. Použil zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Makita bola prototyp štvrtej série jastrabích vzducholodí — malá, rýchla, ale s jedným revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Makite stačí voda a pár Spira kryštálov za zlomok ceny.
+- **Pôvod lode**: **Felix a ďalší Maki** postavili **Makitu** pre Renna — väčší projekt, nie práca jedného stroja. Použili zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Makita bola prototyp štvrtej série jastrabích vzducholodí — malá, rýchla, ale s jedným revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Makite stačí voda a pár Spira kryštálov za zlomok ceny.
 - **Meno**: *Makita* = „Malý stroj" — pocta Felixovi a jeho rase (Maki). Renn ju pomenoval.
 - **Felix 88**: Na loď Felix nainštaloval aj svoj majstrovský kus — **88mm kanón „Felix"**, ťažký delostrelecký kus vlastnej výroby. Legenda medzi zbrojármi.
 - **Prečo najväčšia**: Makita nie je najväčšia rozmerom — je to malá, rýchla loď. Ale vďaka Spira pohonu má **neobmedzený dolet** a **minimálne prevádzkové náklady**. V svete, kde palivo stojí imanie, je to neoceniteľná výhoda. Žiadna iná loď na Terre nemá túto technológiu.
@@ -49,7 +49,7 @@ Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná
 | | |
 |---|---|
 | **Povaha** | Pragmatickí obchodníci s mäsom a otrokári |
-| **Loď** | Nákladná pirátska vzducholoď (bližšie neurčená) |
+| **Loď** | **Makita** — ukradnutá Rennovi po jeho vražde. Pôvodne postavená Felixom a ďalšími Makmi pre Renna |
 
 ### Rola v príbehu
 
