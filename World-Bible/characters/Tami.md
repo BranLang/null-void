@@ -22,7 +22,7 @@
 | Rok | Vek | Udalosť |
 |-----|-----|---------|
 | **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12). Vyrastá v ruinách mesta Kito s otcom Rennom a Felixom (Mako) |
-| **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna. Tami je zajatá a držaná v klietke na palube ich lode |
+| **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna kvôli mape k Jaskyni Počiatku. Tami je zajatá a držaná v klietke na palube pirátskej lode |
 | **AY 3000** | 7 | Piráti nájdu Maxa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Max a Tami sa stretnú — on v bezvedomí, ona v klietke |
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
 | **AY 3001** | 8 | Max zabije Samaella v dueli |
@@ -48,7 +48,7 @@
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity (pravdepodobne pôvodné navigačné záznamy Makov) a viedla ich do **Jaskyne Počiatku**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
+- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Počiatku**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 

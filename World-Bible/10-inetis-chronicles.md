@@ -144,7 +144,7 @@ Jaskyňa Počiatku sa stala strašidelným miestom. Miestne kmene sa jej vyhýba
 
 ### Kontakt s Tami (~AY 3011)
 
-Okolo roku **AY 3011** sa do jaskyne dostala expedícia hľadačov pokladov: **Arkot, Yera, Flint** — a s nimi **Tami**. Našli jaskyňu podľa starej mapy, ktorú Tami objavila pri upratovaní vzducholode **Makita** (loď zdedená po otcovi, postavená Makmi — mapy mohli byť pôvodné navigačné záznamy).
+Okolo roku **AY 3011** sa do jaskyne dostala expedícia hľadačov pokladov: **Arkot, Yera, Flint** — a s nimi **Tami**. Našli jaskyňu podľa starej mapy, ktorú pôvodne kúpil jej otec **Renn** na čiernom trhu — a stálo ho to život (piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila Makitu — ležala v útrobiach lode celé roky. Ako 7-ročná Tami nevedela, čo to je — našla ju a rozlúštila až o roky neskôr pri upratovaní Makity, keď už bola skúsená hľadačka pokladov.
 
 Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a prešli na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
 
