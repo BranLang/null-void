@@ -32,6 +32,13 @@
 ### 2. Smer Juh
 *   Tami Maxovi rozpráva o "Mestách Zrkadiel" na juhu, kde je teplo. Max cíti, že tam musí ísť, lebo cíti volanie pôvodnej technológie.
 
+### 3. Nevriss City — Rituál Nástupníctva
+*   **Príchod:** Max a Tami (~20) dorazia do Nevriss City — hlavného mesta, ďaleko od vojnovej fronty. Dúfajú, že Požehnaná Matka ich vypočuje a pomôže — Max hľadá informácie o Inetis, Tami hľadá odpovede na to, čo je zač.
+*   **Výber:** Požehnaná Matka (Mormiel v aktuálnej podobe) ohlási Rituál Nástupníctva — výber novej Požehnanej Matky. Celé mesto oslavuje. Mormiel si vyberie **Tami** — mladú líšku s najsilnejšou Spirou, akú kedy videla. Pre Tami a Maxa je to najväčšia česť. Pre mesto je to sviatok. Nikto netuší, čo sa deje za zatvorenými dverami Svätyne Premeny.
+*   **Temné pozadie (čitateľ vie, postavy nie):** Mormiel je 4. Archanjel. Rituál Nástupníctva nie je svätý obrad — je to pohltenie. Mormiel chce Tami rozložiť nanotechnológiou a absorbovať jej telo, Spiru a podobu. Za ~2300 rokov to urobila ~23-krát. Tami by bola ďalšia.
+*   **Prečo práve Tami:** Tami má Dar Matky na úrovni, ktorú Mormiel nevidela od čias Inetis. Jej dvojitá kompatibilita (líščia Varietas DNA + extrémne silné nanoboty) by Mormiel dala najsilnejšie telo za celú jej existenciu.
+*   **Dôsledky:** Tami vstupuje do Svätyne Premeny v dobrej viere. Max čaká vonku. Tri dni a tri noci. A niečo sa pokazí — alebo Max niečo zistí.
+
 ---
 
 ## III. Hlavný Antagonista: KRATOS (Archanjel Vojny)
