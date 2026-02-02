@@ -8,7 +8,7 @@ Trónna sála Cézara nebola vytesaná z kameňa. Bola *vytlačená* — jeden n
 
 Ale toto nebol chrám. Bola to pracovňa.
 
-**Cézar XXII.** sedel na vyvýšenom kresle — nie tróne, trvala na tom tradícia, *Cézar nie je kráľ, Cézar je služobník* — a mlčal. Bol to obrovský gorilí muž, širší v ramenách než dvere, cez ktoré vošiel. Sivá srsť mu pokrývala mohutné predlaktia položené na operadlách. Tvár mal pokojnú, takmer meditatívnu. Oči — tmavé, inteligentné, nekonečne staré pre telo, ktoré nevyzeralo staršie než päťdesiat — fixovali holografický obraz vznášajúci sa pred ním.
+**Goro** sedel na vyvýšenom kresle — nie tróne, trvala na tom tradícia, **Goro nie je kráľ, Goro je služobník* — a mlčal. Bol to obrovský gorilí muž, širší v ramenách než dvere, cez ktoré vošiel. Sivá srsť mu pokrývala mohutné predlaktia položené na operadlách. Tvár mal pokojnú, takmer meditatívnu. Oči — tmavé, inteligentné, nekonečne staré pre telo, ktoré nevyzeralo staršie než päťdesiat — fixovali holografický obraz vznášajúci sa pred ním.
 
 Obraz ukazoval ženu.
 
@@ -16,7 +16,7 @@ Obraz ukazoval ženu.
 
 „Našli to," povedala Zaya. Hlas mal kovovú rezonanciu holografického prenosu.
 
-Cézar sa nepohol. „Kde?"
+Goro sa nepohol. „Kde?"
 
 „Shoraven. Severná hranica Nevriss. Kňazi to držia v kobkách pod chrámom. Nevedia, čo to je. Myslia si, že je to relikvie ich bohyne." V jej hlase bola tá tichá zhovievavosť, s akou dospelý hovorí o dieťati, čo si myslí, že blesk je hnev boha.
 
@@ -26,7 +26,7 @@ Zaya sa odmlčala. Hologram mierne zablikal — buď kvôli vzdialenosti, alebo 
 
 „Komunikačná anténa z lode, ktorá pristála niekoľko stoviek kilometrov západne od Kita pred tromi tisícročiami. Loď, o ktorej sme si mysleli, že sa rozpadla pri vstupe do atmosféry." Pauza. „Mýlili sme sa."
 
-Cézar pomaly zdvihol ruku a prešiel si ňou po šedivej srsti na brade. „Prečo je to dôležité teraz? Po troch tisícročiach?"
+Goro pomaly zdvihol ruku a prešiel si ňou po šedivej srsti na brade. „Prečo je to dôležité teraz? Po troch tisícročiach?"
 
 „Pretože Graw práve zaútočil na Nevriss. Kňazi plánovali artefakt previezť do Nevriss City — hlavného mesta, hlbšie na juhu, bezpečnejšie. Ale Grawská ofenzíva im zablokovala vzdušné trasy. Búrky a draky robia letecký transport nemožným. Morská cesta je príliš riskantná — Grawské ponorky." Zaya sa naklonila vpred. „Artefakt je teraz uväznený v Shoravene. V meste, ktoré o pár týždňov môže padnúť."
 
@@ -34,17 +34,17 @@ Cézar pomaly zdvihol ruku a prešiel si ňou po šedivej srsti na brade. „Pre
 
 „Chcem, aby si ho získal skôr, než ho získa *niekto iný*." Záblesk v jej očiach. „Mám správy, že v Shoravene je Exorcista. Človek. Starobylý."
 
-Cézar zdvihol obočie. To bola u neho výrazná emócia. „Starobylý? Na severnom kontinente? Ďaleko od Neuropy?"
+Goro zdvihol obočie. To bola u neho výrazná emócia. „Starobylý? Na severnom kontinente? Ďaleko od Neuropy?"
 
 „Práve preto ma to znepokojuje."
 
-Dlhé ticho. Hologram Zayi čakal trpezlivo. Cézar premýšľal — a keď Cézar premýšľal, celá sála akoby zadržala dych.
+Dlhé ticho. Hologram Zayi čakal trpezlivo. Goro premýšľal — a keď Goro premýšľal, celá sála akoby zadržala dych.
 
 „Koľko?" spýtal sa nakoniec.
 
 „Dvaja. Viac nevieš posunúť bez toho, aby si upútal pozornosť."
 
-Cézar prikývol. „Rau. Kira."
+Goro prikývol. „Rau. Kira."
 
 Zaya sa usmiala. „Tvoji najlepší."
 
@@ -66,7 +66,7 @@ Rau prikývol jedným pohybom hlavy.
 
 Kira zdvihla ruku s tromi prstami. *Otázka.*
 
-„V meste budete mať pomoc. Kontakt sa vám ozve po príchode. Dôverujte mu." Cézar sa odmlčal. „A buďte opatrní. V Shoravene je Exorcista. Človek. *Starobylý*. Nevieme, čo chce. Ale ak sa vám postaví do cesty..."
+„V meste budete mať pomoc. Kontakt sa vám ozve po príchode. Dôverujte mu." Goro sa odmlčal. „A buďte opatrní. V Shoravene je Exorcista. Človek. *Starobylý*. Nevieme, čo chce. Ale ak sa vám postaví do cesty..."
 
 Nechal vetu nedokončenú. Nemusel. Paladíni vedeli, čo robiť s prekážkami.
 
@@ -74,7 +74,7 @@ Nechal vetu nedokončenú. Nemusel. Paladíni vedeli, čo robiť s prekážkami.
 
 Obaja sa uklonili — hlboký, vojenský úklon, z ktorého vstali ako jeden mechanizmus — a beze slova opustili sálu.
 
-Cézar sa vrátil ku kreslu. Hologram Zayi ešte stále svietil.
+Goro sa vrátil ku kreslu. Hologram Zayi ešte stále svietil.
 
 „Jedno ma zaujíma," povedal tichšie. „Prečo ti na tom artefakte záleží? Čo je na jednej anténe z rozbitej lode také dôležité?"
 
@@ -82,11 +82,11 @@ Zaya sa usmiala. Ale tentoraz to nebol úsmev spolupráce. Bol to úsmev niekoho
 
 „Záleží mi na tom, čo sa stane, keď ju niekto *zapne*." Pauza. „A záleží mi na tom, aby sa k nej nedostala *Požehnaná Matka*."
 
-Cézar zdvihol obočie. „Tá svätá žena z Nevriss? Myslel som, že medzi vami a Cirkvou nie je žiadny kontakt."
+Goro zdvihol obočie. „Tá svätá žena z Nevriss? Myslel som, že medzi vami a Cirkvou nie je žiadny kontakt."
 
 Zaya sa usmiala — ale tentoraz v tom úsmeve nebola zhovievavosť. Bola tam nenávisť. Stará, hlboká, trpezlivá.
 
-„Nie je to svätá žena, Cézar. Je to *niečo* iné. A keď sa dostane k tej anténe prvá, nezostane z Nevriss nič, čo by stálo za záchranu."
+„Nie je to svätá žena, Goro. Je to *niečo* iné. A keď sa dostane k tej anténe prvá, nezostane z Nevriss nič, čo by stálo za záchranu."
 
 Hologram zhasol.
 
@@ -122,11 +122,9 @@ Správa bola krátka.
 
 Elania stuhla.
 
-Null Void. Meno, ktoré poznala. Loď, ktorú matka rozložila na prach a z prachu vybudovala svet — jaskyňu, kde sa *narodila*, záhrady, kde jedla svoju prvú kašu, a potom celé mesto, kde vyrastala medzi skalami a tieňmi a Inetisinou láskou, ktorá sa pomaly menila na šialenstvo.
+Null Void. Meno, ktoré poznala. Loď, ktorú matka rozložila na prach a z prachu vybudovala svet — jaskyňu, kde sa *narodila*, záhrady, kde jedla svoju prvú kašu, a potom celé mesto, kde vyrastala medzi skalami a tieňmi a Inetisinou láskou.
 
-Nikdy sa nezaujímala o to, kde loď pristála. Nikdy nechcela vedieť. Ten kus kovu bol pre ňu hrobka — hrobka jej detstva, jej nevinnosti, jej viery, že svet dáva zmysel.
-
-A teraz jej niekto hovoril, že tá hrobka je v meste na severnom kontinente. V meste, ktoré práve oblieha Graw.
+Nikdy sa nezaujímala o to, kde loď pristála. Nikdy nechcela vedieť kde sa stratila jej matka. Nevedela kto je jej otec, a bolo jej to jedno. Verila ze sa vráti - jej matka.
 
 Zavrela displej. Dlho sedela na skale, zatiaľ čo drak vedľa nej nervózne šľahal chvostom a z údolia stúpala para.
 
@@ -152,11 +150,11 @@ Bola to tiež najlepšia špiónka, akú Veža Zatratených kedy vyprodukovala. 
 
 Sera sa oprela o kamenný rám okna. Za ňou sa rozprestieralo more — sivé, studené, nekonečné.
 
-„Elania. Je to Null Void. Loď tvojich rodičov."
+„Elania, patrilo to tvojej matke"
 
 „Viem, čo to je."
 
-„Tak vieš aj to, čo je v nej."
+„Tak vieš aj to, aku to ma moc."
 
 Ticho. Elania sa otočila k oknu. Vietor jej odhalil ucho — ľudské, bledé, dokonalé. Niekedy zabúdala, aká je krásna. A niekedy to bolo to jediné, čo vedela.
 
@@ -164,13 +162,13 @@ Ticho. Elania sa otočila k oknu. Vietor jej odhalil ucho — ľudské, bledé, 
 
 Elania sa rýchlo otočila. „Nie."
 
-„Nevyzeral by som podozrivo. Človek v Shoravene — Exorcistka, ak treba. Dostanem sa tam skôr a diskrétnejšie ako ty." Sera sa usmiala — krivo, s tým drsným humorom, ktorý si vypestovala za stáročia špionáže. „Okrem toho, ty a draky nie ste práve nenápadné."
+„Nevyzerala by som podozrivo. Človek v Shoravene — Exorcistka, ak treba. Dostanem sa tam skôr a diskrétnejšie ako ty." Sera sa usmiala — krivo, s tým drsným humorom, ktorý si vypestovala za stáročia špionáže. „Okrem toho, ty a draky nie ste práve nenápadné."
 
-„Je tam Grawská ofenzíva."
+„Grond uz s armadami prekrocil hory a urcite aj Zaya tam niekoho poslala. A potom je tam aj... nedopovedala"
 
 „Viem."
 
-„A v meste je údajne Exorcista. Starobylý."
+„A v meste je údajne Exorcista. Ale nas clovek to nieje."
 
 Sera zdvihla obočie. „*Starobylý*? Na Terre?"
 
@@ -180,7 +178,7 @@ Sera chvíľu premýšľala. Potom prikývla. „O to viac dôvodov ísť ja. Ak
 
 Elania otvorila ústa, aby protestovala. Zavrela ich. Sera mala pravdu.
 
-„Daj mi mesiac," povedala Sera a oprašovala si ruky, akoby sa chystala na nákupy a nie na cestu cez zamrznutý kontinent do obliehnaného mesta. „Loďou do Shoravenu. Zistím, čo je v tých kobkách, čo chce ten Exorcista a či je tá loď ešte..." zaváhala. „...niečo."
+„Daj mi ý dni," povedala Sera a oprašovala si ruky, akoby sa chystala na nákupy a nie na cestu cez zamrznutý kontinent do obliehnaného mesta. Zoberiem si Vznasadlo a pojdem cez Ludus, a potom na sever cez vezu EI. Dam ti vediet.
 
 Elania dlho mlčala. Za oknom sa na hladine mora objavila biela plutva — jeden z jej experimentov, morský tvor veľký ako loď, ktorý sa vynoril z hlbín, aby sa nadýchol.
 
