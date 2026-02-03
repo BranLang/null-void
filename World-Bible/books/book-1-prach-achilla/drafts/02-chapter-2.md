@@ -72,7 +72,7 @@ Tri bytosti, ktoré kedysi boli Varietas. Prvý mal telo Ghorka — medveď, obr
 
 Druhý bol Mezra — kunami. Jeho chrbát bol rozpadnutý na modré črepiny, ktoré levitovali okolo neho ako roj skla. Každý kúsok žil vlastným životom. Stále sa rozkladal a zase skladal, neprestajný cyklus rozkladu.
 
-Tretí — Pursang, líška — mala tvár zo slonoviny. Doslova. Jej koža bola už polovica kameňa, studená, hladká, mŕtva. V oboch dlaniach jej svietili pentagramy. Nonstop. Čarovný okruh, ktorý nemohol zhasnúť.
+Tretí — Mezra, vlk — mala tvár zo slonoviny. Doslova. Jej koža bola už polovica kameňa, studená, hladká, mŕtva. V oboch dlaniach jej svietili pentagramy. Nonstop. Čarovný okruh, ktorý nemohol zhasnúť.
 
 Kito vykríkol. „To sú... Bože, to sú *oni*! Tí, čo zmizli minulý rok! Yara, Dren, a—"
 
@@ -98,9 +98,9 @@ Kunami sa zrútil. Prach namiesto skla.
 
 „Jeden," povedala Tami.
 
-Pursang zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zaznamenali príkaz v starom jazyku. *Spira: OHEŇ + VZDUCH.*
+Vlčica zdvihla ruky. Oba pentagramy zažiarili.
 
-Plameň vyšľahol z jej dlaní.
+Plameň vyšľahol z jej dlaní — nie náhodne, nie divoko. *Smerovaný*. Ako raketa.
 
 Max sa pohol skôr, než sa dokončil príkaz. Úkrok vpravo, za pilier. Tlaková vlna preletela okolo neho a zasiahla ventilačný turbín. Kov zavrčal, žiaril do červena.
 
@@ -110,9 +110,9 @@ Max sa pohol skôr, než sa dokončil príkaz. Úkrok vpravo, za pilier. Tlakov�
 
 „*Telekinéza! Tlač ju dolu!*"
 
-Kito zdvihol trasúce sa ruky. Vzduch sa zvlnil. Pursang klesla — nie veľa, len centimetre, ale stačilo to. Jej pentagramy smerovali dolu namiesto vpred.
+Kito zdvihol trasúce sa ruky. Vzduch sa zvlnil. Vlčica klesla — nie veľa, len centimetre, ale stačilo to. Jej pentagramy smerovali dolu namiesto vpred.
 
-*Boom.* Tami vystrelila. Modrá iskra zasiahla Pursang do čela. Spira municia prenikla cez kameň, ako horúci nôž do masla. Hlava praskla. Svetlo v pentagramoch zhaslo.
+*Boom.* Tami vystrelila. Modrá iskra zasiahla Yaru do čela. Spira municia prenikla cez kameň, ako horúci nôž do masla. Hlava praskla. Svetlo v pentagramoch zhaslo.
 
 Telo skolabovalo. Za tri sekundy kameň, za päť — prach.
 
