@@ -30,7 +30,7 @@
 | **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju odmietne (vidí v nej dcéru) |
 | **AY 3008** | 15 | **Odchod** — Tami vezme vzducholoď, nechá Maxa v pustatine |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
-| **~AY 3011** | ~18 | **Expedícia do Jaskyne Počiatku** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
+| **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
 | **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
 | **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom (podvedome ťahaná k nemu cez Echo Inetis) |
 
@@ -48,7 +48,7 @@
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Počiatku**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
+- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Ela**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 

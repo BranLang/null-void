@@ -140,7 +140,7 @@ Inetis mala Gen 2 Spiru. Mohla sa liečiť — postupne, pomaly, ale mohla. **Od
 - **Vedela, že ju budú sledovať** — preto vyrazila sama, pešo, len s Anténou (antena ju robila neviditelnou pre nanodrony a iné technológie, fungovala aj ako rušička ak sa otocila subspace polarita). Žiadne signály, žiadna technológia, ktorú by mohli zachytiť.
 - **Zistila, že potrebuje Maxa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archanjeli ovládajú.
 
-Vedela, kde pôvodne pristáli — Jaskyňa Počiatku vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
+Vedela, kde pôvodne pristáli — Jaskyňa Ela vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
 **Vzala so sebou Anténu** — svoju vernú palicu, nástroj, ktorým postavila Elysium a ktorý ju chránil počas všetkých jej ciest. Bez nej by cestu neprežila.
 Cesta trvala dva roky. Išla pešo. Jej nanotechnologické batérie zlyhávali. Každý krok bol bolesť.
 - Prešla cez snehové búrky Severu.
@@ -169,7 +169,7 @@ Max spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho 
 
 Inetis aka i_net_is rodnym menom Neto Fujiwara zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
 
-Jaskyňa Počiatku sa stala zabudnutym miestom na veľmi riedko osidlenej planete (niečo ako sibir na zemi). Reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
+Jaskyňa Ela sa stala zabudnutym miestom na veľmi riedko osidlenej planete (niečo ako sibir na zemi). Reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
 
 ### Kontakt s Tami (~AY 3011)
 

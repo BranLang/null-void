@@ -60,7 +60,7 @@ Stáli pred ním v dokonalom stoji — dva monolity v tme.
 
 Cézar vstal. Pri tom pohybe sa trónna sála zachvela — nie od zemetrasenia, ale od prostej *hmotnosti* jeho tela. Pristúpil k nim. Bol o hlavu vyšší než Rau, čo o niečom hovorilo.
 
-„Severný kontinent. Mesto Shoraven. Artefakt v kobkách Chrámu Vševedúcej Matky." Hovoril pomaly, s váhou. Každé slovo bolo rozkaz. „Získajte ho. Nepoužívajte silu, pokiaľ to nie je nutné. Varietas nie sú nepriatelia — sú len... *mladí*."
+„Severný kontinent. Mesto Shoraven. Artefakt v kobkách Chrámu Vševedúcej Matky." Hovoril pomaly, s váhou. Každé slovo bolo rozkaz. „Získajte ho. Nepoužívajte silu, pokiaľ to nie je nutné. Varietas nie sú nepriatelia — sú len... *nevzdelaní*."
 
 Rau prikývol jedným pohybom hlavy.
 

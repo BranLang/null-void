@@ -53,7 +53,22 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie viedlo k počatiu Elenie
 9. Po pristátí zistila tehotenstvo, uspala Maxa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
 9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maxov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
-10. ~3 roky v jaskyni s malou Eleniou (príliš malá na spomienky)
+
+> [!NOTE]
+> **Helena a meno Ela:**
+> Jaskyňu pomenovala **Ela** — skrátené od **Helena**. Helena bola jej kamarátka, jedna z Ex Inferis, ktorá sa rozhodla zostať na Zemi a bojovať počas mimozemskej vojny. Zahynula. Inetis ju nikdy nezabudla.
+>
+> Keď sa narodila dcéra, dala jej meno **Elania** — odvodené od Ela, od Heleny. Tribút priateľke, ktorá obetovala všetko.
+
+> [!IMPORTANT]
+> **Mytologická paralela:**
+> Planéta sa volá **Achilles** (Kepler-452b). V gréckej mytológii bol Achilles najväčší bojovník Trójskej vojny — vojny, ktorú spustila **Helena Trójska** (Helen of Troy).
+>
+> Helena (Ex Inferis) zostala bojovať na Zemi a zahynula vo vojne. Jej meno teraz žije na planéte Achilles — v jaskyni **Ela** a v dcére **Elania**. 
+>
+> *Helena spustila vojnu na starej Zemi. Jej meno žije na novom svete, pomenovanom po jej protivníkovi.*
+
+10. ~3 roky v jaskyni **Ela** s malou Elaniou (príliš malá na spomienky)
 11. **Prekonfigurovala nanodrony naspäť na loď NULL VOID**, vydala sa s Eleniou na cestu okolo planéty
 12. Objavila ostrovy **Elysium** pri rovníku — ideálne miesto na kolonizáciu
 13. Na Elysiu prekonfigurovala NULL VOID na **Foundry** (továreň) — vyrábala v1.0 nanodrony, z ktorých vyrástlo celé mesto. **Anténa bola kľúčová** — bez nej by nedokázala ovládať veľké roje nanodronov potrebné na stavbu mesta
@@ -63,7 +78,10 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
-20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maxov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba“ jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
+20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maxov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba" jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
+
+> [!NOTE]
+> **Posledný útek:** Inetis neprišla do jaskyne náhodou. **Samaell** ju lovil. Po páde Elysia bol jediný Ex Inferis, ktorý aktívne hľadal Gen 1 signatúru. Cítil ju celé stáročia, ale nikdy ju nenašiel — jaskyňa bola príliš dobre skrytá. Inetis pred smrťou naprogramovala **Alarm**: ak niekto vstúpi do jaskynného komplexu po jej smrti, kryobox sa aktivuje a zobudí Maxa. *„Ak niečo prešlo mojimi bariérami, budeš to potrebovať, láska moja."*
 
 ### Štýl reči a myslenia
 

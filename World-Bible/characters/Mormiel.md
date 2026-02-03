@@ -76,6 +76,19 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
 - **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
 
+### Anténa — Spomienka na Inetis
+
+Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven — ako odchádzala, opierajúc sa o **čiernu palicu**. Mávala ju vždy so sebou. Mormiel sa o to nikdy nezaujímala — mala vlastné plány, vlastné ambície. Ale vedela, čo to je.
+
+> **Anténa.** Artefakt, ktorý dokáže ovládať roje duchov — či už Spirit (v2.0) alebo starobylé nanoboty (v1.0). Inetis ju používala na riadenie obrovských stavebných projektov. Mormiel tušila, že by mohla riadiť aj niečo iné.
+
+**AY 3013 — Správa z čierneho trhu:**
+- Mormielini špehovia hlásia: *„Na trhu sa objavil predmet — palica — ktorý nezodpovedá žiadnej známej technológii. Vraj niekde z východu."*
+- Mormiel stuhne. **Pozná ju.** Čierna. Hladká. Absolútne nevýrazná — pre tých, čo nevedia.
+- Okamžite vydáva rozkazy: Nájsť predajcu. Získať artefakt. *Zametať stopy.*
+- Posádka Makity je upálená na námestí ako heretici. Mormiel získava Anténu.
+- Je to jej najcennejší artefakt. A nikto nesmie vedieť, že ho má.
+
 ### Štýl reči a myslenia
 
 **2950+ rokov (najstaršia antagonistka):**
