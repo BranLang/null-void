@@ -1,0 +1,365 @@
+# Links — Exorcista z Ludus
+
+| **Attribute** | **Details** |
+|---|---|
+| **Meno** | Links |
+| **Vek** | ~22 rokov |
+| **Pôvod** | Ludus (Veža Stratených, západný kontinent) |
+| **Rola** | Exorcista, hacker, cestovateľ |
+| **Status** | Absolvent Inštitútu, solo cestovateľ |
+
+---
+
+## Vzhľad
+
+**Fyzický:**
+- Mladý muž, štíhly ale vytrénovaný (horolezecká kondícia z Inštitútu)
+- Tmavé vlasy, trochu dlhšie — praktické, nie módne
+- Oči zvedavé, vždy niečo pozorujú — **analytik, nie bojovník**
+- Tvár sympatická, ale nie "krásna" — normálny človek medzi legendami
+
+**Výraz:**
+- Často zamyslený, trochu neprítomný
+- Keď niečo hackuje — absolútna koncentrácia
+- Keď počuje o Tami — **detské nadšenie**, ktoré sa snaží skryť
+
+**Vybavenie:**
+- **Žiadne nanoboty** — čistý človek (Ghorki)
+- **Žiadna Spira** — nie je Varietas
+- **Technológie:** Vlastnoručne postavené zariadenia z Inštitútu
+  - Detektor nanobotov (cíti Gen 1/2/3 signatúry)
+  - Linux terminál (hackovanie dronov)
+  - Scrambler (rušenie komunikácie)
+- **Vznášadlo:** Staré, opravované, ale spoľahlivé — jeho "biely kôň"
+
+---
+
+## Backstory
+
+### Pôvod — Ludus (Veža Stratených)
+
+**Frustrácia:**
+- Vyrastal v Ludus — izolovanej komunite na západnom kontinente
+- **Elania a Starí** vládnu z vysokej veže, ďaleko od bežných ľudí
+- Mladí nemajú perspektívu — všetko je kontrolované, predvídateľné
+- Links chcel *vidieť svet* — nie len počúvať legendy
+
+**Útek:**
+- V 18 rokoch odišiel študovať na **Inštitút Exorcistov**
+- Vysoko v horách (miestne Andy/Himalaje)
+- Oficiálny dôvod: "Chcem slúžiť Terre"
+- Skutočný dôvod: **Chcem cestovať. Chcem vidieť všetko.**
+
+### Inštitút Exorcistov (4 roky)
+
+**Štúdium:**
+- **Wraithológia:** História, správanie, slabiny Wraithov
+- **Linux:** Programovací jazyk nanobotov (základy Haiku skriptu)
+- **História Zeme:** Archanjeli, Ex Inferis, pád civilizácie
+- **Lore dumpy ako svina** — Links všetko vstrebával
+
+**Špecializácia:**
+- Nie je bojovník — je **technický expert**
+- Ostatní exorcisti: **Buď mladí obyčajní ľudia** (žiadna Spira, žiadne nanoboty — len výcvik a odvaha), **alebo absolútne legendárne beštie** (zopár výnimiek, pri ktorých by zaklinač civel s otvorenou tlamou)
+- Gen 1 nie je dedičný a ľudia (až na pár výnimiek) nemajú dotyk od Inetis → žiadna Spira
+- Links: **Hackuje** — detekcia, analýza, rušenie
+- *"Prečo bojovať s niečím, čo môžeš vypnúť?"*
+
+**Legendy o Gen 1:**
+- Na Inštitúte počul príbehy o starobylých nanobotoch
+- Gen 1 signatúry sú **legendárne** — nikto ich nevidel 2000 rokov
+- Links si zapamätal frekvencie, vzory, ID čísla
+- *Keby niekto mal Gen 1... poznal by ho.*
+
+### Solo Trip — Spoznať Terru
+
+**Motivácia:**
+- Po štúdiu odmietol službu v Cirkvi
+- *"Chcem vidieť svet vlastnými očami. Nie cez správy."*
+- Vydal sa na cestu cez severný megales (Neurópa)
+
+**Cesta cez Graw:**
+- Prešiel po ľade do severného kráľovstva
+- Našiel **poloprázdne mestá** — muži vo vojne, ženy a deti hladujú
+- Nikto sa nevracia z juhu
+- *"Čo sa tam deje?"*
+
+**Bitka pri Shoravene:**
+- Počul príbehy v hostincoch
+- Grondova armáda porazená **neznámym Exorcistom**
+- S ním cestovala žena **Líščieho Rodu**
+- Miestni ju volali **"Princezná pirátov"**
+
+### Prvýkrát počuje o Tami
+
+**Legendy v hostincoch:**
+- *"Má červené vlasy ako oheň..."*
+- *"Zachránila dedinu pred Wraithmi sama..."*
+- *"Hovorí ako námorník, bojuje ako démon..."*
+- *"Ten Exorcista — ona ho ovláda. On len nasleduje."*
+
+**Linksova reakcia:**
+- Profesionálny záujem? Nie.
+- **Fascinovaný.** Úplne neprofesionálne.
+- Zmenil plán cesty — ide po jej stopách
+- *"Musím ju vidieť. Len... zistiť, či je pravda, čo hovoria."*
+
+**OSINT misia:**
+- Zbiera každú informáciu o Tami
+- Kde bola, čo robila, s kým hovorila
+- Vie o nej viac než ktokoľvek — okrem Maxa
+- **Stalker? Nie. Fanboy? Možno. Zamilovaný? Určite.**
+
+---
+
+## Konfrontácia s Mormiel
+
+### Situácia
+
+**Tami v Nevriss City:**
+- Prišla do hlavného mesta (dôvod: TBD)
+- Mormiel si ju vybrala pre **Rituál Nástupníctva**
+- Požehnaná Matka chce Tami ako novú tvár
+
+**Links sleduje Tami:**
+- Prišiel do Nevriss za ňou
+- Pozoruje z diaľky — nechce sa prezradiť
+- A potom... **cíti to.**
+
+**Gen 1 signatúra:**
+- Jeho detektor zaznamená niečo nemožné
+- **Gen 1 nanoboty.** V meste. Blízko Tami.
+- *"To nie je možné. Gen 1 neexistuje už 2000 rokov..."*
+- Ale ID čísla sedeli. Legendárne frekvencie.
+
+**Niečo sa deje:**
+- Links nevie *čo* — ale vie, že Tami je v nebezpečenstve
+- Sleduje signatúru → Mormiel
+- *Požehnaná Matka má Gen 1 nanotech?!*
+
+### Zásah
+
+**Hacknutie Mormiel:**
+- Links nemá nanoboty, nemá Spiru
+- Ale má **Linux terminál** a roky štúdia
+- Hackne Mormiel Gen 1 systémy — nie úplne, ale dosť na chaos
+- Jej kontrola nad situáciou sa rozpadne
+
+**Mormiel vs Tami:**
+- Bez Gen 1 podpory má Mormiel len Spiru
+- Tami je mladá, ale jej učiteľ bol **Max**
+- Dlhý, vyčerpávajúci súboj
+- Tami vyhrá — *len tesne*
+
+**Princ na bielom vznášadle:**
+- Links príde v kritický moment
+- Tami ho nikdy nevidela, nepočula o ňom
+- On o nej vie všetko
+- *"Kto si, kurva, ty?!"*
+- *"Niekto, kto ťa sledoval 3000 kilometrov. Je mi to trápne priznať."*
+
+---
+
+## Osobnosť
+
+### Jadro
+- **Zvedavý:** Chce vedieť, ako veci fungujú
+- **Analytický:** Myslí v systémoch, nie v emóciách
+- **Idealistický:** Verí, že svet môže byť lepší
+- **Neistý:** Nie je hrdina — je len... človek
+
+### Kontrasty
+- **Vs Max:** Max je veterán, cynický, otupený. Links je mladý, nadšený, zraniteľný.
+- **Vs Tami:** Tami koná impulzívne. Links plánuje, analyzuje, váha.
+- **Vs Sera:** Sera je legenda, 3200 rokov. Links je nikto, 22 rokov.
+
+### Zraniteľnosť
+- Nemá nanoboty — môže zomrieť ako každý iný
+- Nemá Spiru — nemôže liečiť, nemôže bojovať "mágiou"
+- Má len **mozog a technológiu**
+- To ho robí jedinečným — a smrteľným
+
+---
+
+## Štýl reči a myslenia
+
+**Mladý analytik:**
+- Hovorí **rýchlo, keď je nadšený**
+- Technický žargón zmiešaný s bežnou rečou
+- *"Ten signál — to je Gen 1, ID 0x7F3A, čo je... nemožné, ale..."*
+
+**Neistý okolo Tami:**
+- Stráca slová, koktá, červená sa
+- Snaží sa byť cool — zlyháva
+- *"Ja... sledoval som ťa. Nie ako stalker! Ako... výskumník? To znie horšie."*
+
+**SPRÁVNE:**
+```
+✅ "Signál indikuje Gen 1 nanotech. To je nemožné. Ale data neklamú."
+✅ "Viem o tebe... dosť. Možno príliš. Prepáč."
+✅ Technické vysvetlenia prerušované nervozitou
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Vojenský žargón (to je Max)
+❌ Cool one-linery (nie je akčný hrdina)
+❌ Sebavedomé flirtovanie (je nervózny)
+```
+
+**Kontrast:**
+- Max: *"Lead. Pokračujeme."*
+- Tami: *"Čo to kurva bolo?!"*
+- Links: *"Podľa mojich dát... momentík... áno, to bolo presne to, čo som sa bál, že to bude."*
+
+---
+
+## Motivácie
+
+### Primárne
+1. **Spoznať svet:** Vidieť Terru vlastnými očami
+2. **Pochopiť:** Prečo je svet taký, aký je?
+3. **Tami:** Najprv záujem → potom fascinované → potom láska
+
+### Sekundárne
+- **Dokázať sa:** Nie je bojovník, ale môže byť užitočný
+- **Nájsť zmysel:** Ludus mu nič nedal — možno Terra áno
+- **Chrániť:** Ak má schopnosti, má ich použiť pre niekoho
+
+---
+
+## Vzťahy
+
+### Tami (Love Interest)
+
+**Prvý dojem Tami:**
+- *"Kto je tento random týpek?!"*
+- Podozrievavá, agresívna, zmätená
+- On o nej vie všetko — ona o ňom nič
+
+**Vývoj:**
+- Links ju neurazí, nekritizuje, neodsudzuje
+- Počúva, pomáha, necháva ju viesť
+- Je **opak Maxa** — mladý, zraniteľný, otvorený
+- Tami si pomaly uvedomuje, že Max nie je jediná možnosť
+
+**Konflikt:**
+- Tami stále miluje Maxa (alebo jeho ideu)
+- Links to vie — čítal všetko, počul všetky príbehy
+- Nebojuje o ňu — len je tam, keď ho potrebuje
+- *"Nemusíš si ma vybrať. Stačí, že existuješ."*
+
+### Max (Rival?)
+
+**Linksov pohľad na Maxa:**
+- Legenda. Spáč. Nesmrteľný exorcista.
+- Ale tiež: *"Nechal ju. Odmietol ju. Zranil ju."*
+- Links ho rešpektuje ako vojaka — nie ako partnera pre Tami
+
+**Maxov pohľad na Linksa:**
+- TBD — stretnú sa neskôr?
+- Pravdepodobne: *"Kto je tento kid?"*
+
+### Mormiel (Nemesis)
+
+**Links vs Mormiel:**
+- Odhalil jej tajomstvo (Gen 1 nanotech)
+- Zničil jej plán (Rituál s Tami)
+- Mormiel ho bude chcieť mŕtveho
+- **Prvý skutočný nepriateľ**
+
+### Elania (Vzdialená postava)
+
+**Pôvod:**
+- Links vyrastal pod jej vládou
+- Nikdy ju nevidel — len jej príkazy
+- *"Starí na veži. Rozhodujú o všetkom. Nevedia nič."*
+
+---
+
+## Citáty
+
+> *"Prečo bojovať s niečím, čo môžeš vypnúť?"*
+
+> *"Sledoval som ťa 3000 kilometrov. Je mi to trápne priznať."*
+
+> *"Nemám nanoboty. Nemám Spiru. Mám len toto—" *ukazuje na hlavu* "—a toto—" *ukazuje terminál*
+
+> *"Legendy o tebe nehovoria ani polovicu pravdy. Si lepšia."*
+
+> *"Gen 1 signatúra. ID 0x7F3A. Buď som sa zbláznil, alebo Požehnaná Matka je mŕtva 3000 rokov."*
+
+---
+
+## Rola v príbehu
+
+### Kniha 2-3? (TBD)
+
+**Expozícia:**
+- **Ludus:** Život pod Elaniou, frustrácia mladých
+- **Inštitút:** Lore dumpy o Wraithoch, histórii, Linuxe
+- **Cesta:** Stav Graw po vojne, dôsledky Grondovej porážky
+
+**Akcia:**
+- Zachráni Tami pred Mormiel
+- Odhalí pravdu o Požehnanej Matke
+- Stane sa Tamiho spojencom (a možno viac)
+
+**Butterfly Effect:**
+- Jeho cesta cez Graw → vidí dôsledky vojny
+- Jeho OSINT o Tami → privádza ho do Nevriss
+- Jeho hack Mormiel → zmení celú politiku Juhu
+
+---
+
+## Notes for Writers
+
+**Writing Links:**
+- Nie je hrdina — je **normálny človek** v svete legiend
+- Jeho sila je v **mozgu**, nie v svaloch
+- Nervózny okolo Tami — ale nie patetický, len ľudský
+- Kontrapunkt k Maxovi — mladosť vs skúsenosť
+
+**Kontrast s ostatnými:**
+- Max: 3000 rokov, cynický, otupený, odmietol Tami
+- Links: 22 rokov, idealistický, zraniteľný, hľadá Tami
+- Sera: legenda, nedotknuteľná
+- Links: nikto, smrteľný
+
+**Avoid:**
+- Nerob z neho "lepšieho Maxa" — je iný, nie lepší
+- Nerob z neho damsel-saver — Tami sa zachráni sama, on len pomôže
+- Nerob z neho perfect boyfriend — má chyby, je neistý
+
+---
+
+## Technológie
+
+### Vybavenie z Inštitútu
+
+**Detektor nanobotov:**
+- Pasívny skener, detekuje signatúry
+- Rozozná Gen 1/2/3, Spiru, Wraith goo
+- Zásadný pre odhalenie Mormiel
+
+**Linux terminál:**
+- Základné Haiku príkazy (nie plný skript)
+- Môže rušiť, preťažiť, dezorientovať
+- Nemôže ovládať — len *mätať*
+
+**Scrambler:**
+- Rušička komunikácie
+- Blokuje koordináciu nanobotových rojov
+- Použitý proti Mormiel
+
+**Vznášadlo:**
+- Staré, opravované
+- "Biely kôň" — ironicky
+- Jednoduché, spoľahlivé, nič fancy
+
+### Limity
+
+- **Nemá nanoboty:** Žiadna regenerácia, žiadne vylepšenia
+- **Nemá Spiru:** Žiadna mágia, žiadne schopnosti Varietas
+- **Len technológia:** A tá sa môže pokaziť, vybiť, stratiť
+- **Smrteľný:** Jeden správny úder a je koniec
