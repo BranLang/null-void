@@ -115,10 +115,11 @@ Varietas delia históriu nábožensky:
 
 ## Éra Zeme – Vrchol a pád (EY 2100 – 2300)
 
-### EY 2150 – Marťanská vojna a „Iniciatíva Achilles“
+### EY 2150 – Marťanská vojna a „Iniciatíva Achilles"
 - **Vojna s Marsom**: Brutálny konflikt so separatistami. Maximilián sa vyznamená ako **Major**.
-- **Iniciatíva Achilles (Propaganda)**: Vláda Zeme spúšťa projekt kolonizácie planéty pomenovanej po VR hre **„Celestial Frontier: Achilles“**.
-- **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako budovanie armády ako obrana od mimozemskej hrozby. V skutočnosti je to lístok na útek pre elitu.
+- **Iniciatíva Achilles (Propaganda)**: Vláda Zeme spúšťa projekt kolonizácie planéty pomenovanej po VR hre **„Celestial Frontier: Achilles"**.
+- **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako "veľký skok ľudstva". V skutočnosti je to útek elity pred blížiacou sa mimozemskou hrozbou (detegovanou ~EY 2130).
+- **Odlet ARK-11 a ARK-12**: Kolonizačné lode odlietajú v EY 2150. Cesta trvá ~454 rokov (kombinácia FTL a cryostázy). Pristátie = AY 0 (EY 2604).
 
 
 ### EY 2100–2280 – Zlatý vek Zeme
@@ -138,11 +139,10 @@ Varietas delia históriu nábožensky:
 - Zem sa stala "mostom" — rozhodli sa ho zničiť
 - Zem je zničená
 - **Operácia EXODUS:**
-  - `ARK-11` — kolonizačná loď, elita zo Zeme, 300-ročná cesta
-  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, 3-ročná cesta
+  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, odlet EY 2301, pristátie EY 2304 (3-ročná cesta)
   - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
-- **Špeciálna kolonizačná loď (ARK-12)**: 50% posádky tvoria Varietas hľadajúce svet bez predsudkov.
-- Ostatné lode (vrátane ARK-11 a ARK 13) nesú elitu.
+  - **Paradox**: ARK lode odleteli 151 rokov PRED NULL VOID (EY 2150), ale pristáli 300 rokov PO nej (AY 0 = EY 2604)
+- **ARK-13 "Prometheus"**: Loď Ex Inferis, zostala na orbite Alpha Centauri, neskôr dorazila na Achilles (AY ~700).
 
 ---
 

@@ -830,3 +830,90 @@ Podporované príkazy:
 ---
  
 Teraz som pripravený pomôcť vytvoriť najlepší sci-fi/fantasy epos, aký svet videl. 🔥
+
+---
+
+## 🔥 KRITICKÉ: Dialóg 3000+ ročných postáv (Sera, Mormiel, Archanjeli)
+
+**ABSOLÚTNE PRAVIDLO**: Postavy s 3000+ rokmi skúseností hovoria INAK než mladé postavy.
+
+**Charakteristiky ich reči:**
+- **Každé slovo je vyberané** — filter tisícročí, nič zbytočné
+- **Krátke vety** — prečo hovoriť 10 slov, keď stačia 3?
+- **Múdrosť v subtexte** — čo NEPOVEDIA je dôležitejšie než čo povedia
+- **Žiadne vysvetľovanie** — predpokladajú, že poslucháč pochopí
+- **Proroctvo v každej vete** — hovoria s váhou vekov
+- **Sú to REČNÍCI** — majstri komunikácie, každé slovo je vypočítané
+
+**ZAKÁZANÉ pre 3000+ rokov staré postavy:**
+```
+❌ "Ty si najlepší programátor Gen 2 dronov na planéte!"
+❌ "To bola úžasná práca s tými nanobotmi, naozaj impresívne!"
+❌ "Musím ti povedať, že tvoja technika je skutočne pozoruhodná..."
+❌ Dlhé vysvetľovania, prednášky, lore dumpy
+```
+
+**SPRÁVNE:**
+```
+✅ "Kinetický roj." (konštatovanie, nie obdiv)
+✅ "Keby sme bojovali..." (nedokončené — obaja vedia)
+✅ "Poznala som ju." (minulý čas — váha tisícročí)
+✅ "Vie. A nepovie." (Max po stretnutí so Serou)
+```
+
+**SERA — špecifické pravidlá:**
+- **3 hlasy**: Hlboký (business), Kawaii (manipulácia), Hlas pravdy (proroctvo)
+- **Kawaii hlas**: NIKDY technické info, len jednoduché vety
+- **Hlas pravdy**: Vzácny, rezervovaný pre proroctvá a kľúčové momenty
+- **3467 rokov skúseností** = každá veta je destilovaná múdrosť
+
+**MAX vs SERA — experience gap:**
+- Max: ~3000 rokov v LADE (nulový rast), predtým generál (~100 rokov aktívnych skúseností)
+- Sera: 3467 rokov AKTÍVNYCH (neustály rast, social engineering mastery)
+- Max je taktický veterán, ale Sera je MAJSTER komunikácie
+- Max môže byť priamočiarejší, menej sofistikovaný v reči
+- Sera čaká, pozoruje, hovorí len keď musí
+
+### 🔴 SERA DIALÓG — POVINNÉ POZNÁMKY POD ČIAROU
+
+Pri písaní Seriných dialógov MUSÍ byť ku KAŽDEJ jej vete poznámka v hranatých zátvorkách vysvetľujúca:
+- Prečo zvolila tieto konkrétne slová
+- Aký tón/hlas použila (hlboký/kawaii/pravda)
+- Čo tým chce dosiahnuť
+- Čo NECHCE povedať
+- Aká je jej kalkulácia
+
+**Príklad POVINNÉHO formátu pre Seru:**
+```markdown
+„Artefakt."
+[HLBOKÝ HLAS. Jedno slovo. Testuje reakciu — kto sú, čo vedia.
+Nezačína "Kto ste?" — to by ukázalo záujem. Začína TÉM,
+čo JU zaujíma. Dominancia. Kalkulácia: nech hovoria oni prvé.]
+
+„Ale... môžeme spolupracovať, nie?"
+[KAWAII SWITCH. Úmyselný kontrast. Destabilizácia poslucháča.
+3000 rokov social engineering — vie, že nevinný hlas
+znižuje obranné mechanizmy. Manipulácia, ktorá sa ani
+nesnaží skrývať. Kalkulácia: Tami je opatrná, toto ju zmätie.]
+
+„Poznala som ju."
+[HLAS PRAVDY. Minulý čas — váha tisícročí. Nehovorí viac
+než musí. Nechce prezradiť detaily. Kalkulácia: dať Maxovi
+dosť na to, aby pochopil vážnosť, nie dosť na odpovede.]
+```
+
+**Príklad správneho kontrastu Max vs Sera:**
+```
+Max: "Kto ťa učil Haiku?"
+[Max je priamy. Vojenský. Chce informácie.]
+
+Sera: "Inetis." [pauza] "A ty?"
+[HLBOKÝ HLAS. Odpovedá jedným slovom. Potom otočí otázku.
+Kalkulácia: testuje, či Max je ten, za koho ho pokladá.]
+
+Max: "...Inetis."
+[Pauza pred odpoveďou = emocionálna reakcia. Sera si to všimla.]
+
+[Sera prikýva — jedno gesto stačí, veterán veteranovi]
+[Potvrdenie. Žiadne slová potrebné. Obaja vedia.]
+```

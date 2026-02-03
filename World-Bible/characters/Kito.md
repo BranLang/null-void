@@ -61,6 +61,41 @@ Kito je prvý Varietas, ktorý pochopí, kým Max naozaj je.
 - **Okuliare**: Hrubé šošovky — slabý zrak, čo je pre Pursang neobvyklé. Nosí ich aj keď sú mokré a zbytočné (zvyk).
 - **Zakázané zvitky**: Skrýva pri sebe fragmenty apokryfných textov, ktoré by ho dostali na hranicu, keby ich Cirkev objavila.
 
+### Štýl reči a myslenia
+
+**Akademik / Archivár:**
+- Hovorí **formálne, vzdelane, s citáciami**
+- Dlhé vety, odbočky, kontexty
+- *"Podľa Tretej Doktríny Príchodov, ktorú mimochodom zakázali pred dvesto rokmi..."*
+
+**Nervózny, analytický:**
+- Neustále analyzuje, hľadá vzory
+- Pod stresom: rýchla reč, opakuje sa
+- Keď sa bojí: cituje texty ako mantru
+
+**Veriaci (skrytý):**
+- Cynický na povrchu, ale hlboko vnútri verí
+- Keď vidí niečo sväté — padne na kolená
+- *"Bohyňa... bohyňa zo Zeme."*
+
+**SPRÁVNE:**
+```
+✅ "V apokryfných textoch sa spomína — a teraz to hovorím z pamäti — 'Štvrtý príde nie z neba, ale zo zeme.'"
+✅ "Toto nedáva zmysel. Historicky, štatisticky, nijak."
+✅ Religiózne odkazy, akademické termíny
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Vojenský žargón (to je Max)
+❌ Slang a nadávky (to je Tami)
+❌ Krátke pragmatické vety (to je Max/Sera)
+```
+
+**Kontrast:**
+- Max: *"Lead. Pokračujeme."*
+- Kito: *"Počkaj — ak je toto to, čo si myslím, tak sme práve potvrdili proroctvo o Spáčovi, čo znamená... ó, Matka Všehomíra."*
+
 ### Vzťahy
 
 - **Max**: Spočiatku hrôza (Spáč z legiend). Potom rešpekt (Max mu zachráni život v tuneloch). Nakoniec niečo ako priateľstvo dvoch mužov, ktorí obaja stratili všetko a idú ďalej len kvôli ženám, ktoré milujú.

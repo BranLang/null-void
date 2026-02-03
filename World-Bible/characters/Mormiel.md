@@ -53,6 +53,8 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 - **Zber (The Harvest)**: Rovnako ako ostatní Archanjeli, aj Mormiel potrebuje čerstvé nanoboty na udržanie svojho rozpadajúceho sa systému. Ale vďaka dvojitej technológii potrebuje **menej často** než ostatní — čo jej umožňuje byť diskrétnejšia.
 - **Mestská legenda**: V Nevriss City kolujú šepoty o **"Nočnom Tieni"** — bytosti, ktorá sa zjavuje v temných uličkách a zanecháva za sebou vysušené telá. Stráže to pripisujú Wraithy alebo chorobám. Nikto nepodozrieva Požehnanú Matku.
 - **Metóda**: Na rozdiel od Samaellovho brutálneho lovu je Mormiel chirurgicky presná. Jej obete zomierajú ticho, bez boja, často v extáze — kombinácia Spiry a starobylého nanotechu jej umožňuje paralyzovať obeť a vysať nanoboty bezbolestne.
+- **Pôžitok**: Mormiel si vampirizmus **vychutnáva**. Nie je to len údržba — je to moc, nadradenosť, kontrola. Rada vidí strach a utrpenie v očiach obete. Pre ňu je to potvrdenie, že je bohyňa a oni sú len potrava.
+- **Kontrast so Serou**: Obe majú Gen 1+2 nanoboty, obe praktizujú vampirizmus. Ale Sera to robí s odporom a vinou. Mormiel s rozkoš a sadistickým potešením. Sera má v hlave jasno. Mormiel žije v klamstvách — aj voči sebe.
 
 ### Motivácia
 
@@ -60,12 +62,54 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 - **Moc cez vieru**: Na rozdiel od Gronda (vojenská sila) alebo Ishtar (ilúzie), Mormiel zvolila **náboženstvo** ako svoj nástroj. Kontroluje duše celého južného kontinentu. To je mocnejšie než akákoľvek armáda.
 - **Strach z odhalenia**: Jej najväčší strach je, že niekto odhalí pravdu — nie len nočný lov, ale predovšetkým **Rituál**. Že Požehnaná Matka, stelesnenie lásky a milosrdenstva, je predátorka, ktorá každých sto rokov pohltí najčistejšiu dcéru svojho vlastného ľudu a nosí jej tvár. Dvadsaťtri rodín, čo celý život ďakovali Matke za tú česť — a nevedia, že ich dcéra bola rozložená na atómy.
 
+### Psychológia — Rozbitá myseľ
+
+- **Žije v klamstvách**: Mormiel klame všetkých — klérus, Varietas, ostatných Archanjelov. Ale najhoršie je, že klame aj seba.
+- **Nemá to v hlave v poriadku**: 2950 rokov predstierania zmenilo jej psychiku. Niekedy zabudne, ktorá tvár je skutočná.
+- **Ambície**: Na rozdiel od Sery (žiadne ambície), Mormiel túži po moci. Nie len prežiť — *vládnuť*.
+- **Kontrast so Serou**: Sera = čistý človek, jasná hlava, pragmatická. Mormiel = Varietas, rozbitá psychika, žije v ilúziách o sebe.
+
 ### Vzťah k ostatným Archanjelom
 
 - **Samaell**: Pohŕdala ním — považovala ho za zviera, ktoré stratilo rozum. Jeho smrť (AY 3001) ju znepokojila, ale neoplakala.
 - **Grond** (pravý, mŕtvy): Rešpektovala ho ako vojaka. O dynastii podvodníkov vie — je to pre ňu užitočná bábka na severe.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
 - **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
+
+### Štýl reči a myslenia
+
+**2950+ rokov (najstaršia antagonistka):**
+- Každé slovo je **dokonale vypočítané**
+- Nikdy nestratí kontrolu nad hlasom
+- Materská, milostivá, láskavá — a pod tým **ľad**
+
+**Verejná tvár (Požehnaná Matka):**
+- Jemný, pokojný hlas
+- Hovorí v požehnaniach a múdrostiach
+- *"Dieťa moje, Matka všetko odpúšťa."*
+
+**Súkromná tvár (Archanjel):**
+- Chladná, chirurgická presnosť
+- Pragmatická ako Max, ale bez emócií
+- *"Dvadsaťtri tiel. Dvadsaťtri rodín. Nikto sa nepýta."*
+
+**SPRÁVNE:**
+```
+✅ "Požehnanie Matky nech ťa sprevádza." (verejne)
+✅ "Jedného dňa sa dozviete... keď sa Spáč prebudí." (dvojzmyselné)
+✅ Materský tón, pod ktorým je smrť
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Hnev, frustrácia, strata kontroly
+❌ Priame vyhrážky (manipuluje, nevyhráža sa)
+❌ Odhalenie pravdy (vždy lži a polpravdy)
+```
+
+**Kontrast:**
+- Sera: veteránka, ktorá ešte cíti
+- Mormiel: predátorka, ktorá už necíti nič
 
 ### Rola v príbehu
 

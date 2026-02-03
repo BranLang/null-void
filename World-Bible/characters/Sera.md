@@ -4,13 +4,13 @@
 |---|---|
 | **Full Name** | Sera (family name lost to time) |
 | **Species** | 100% Human (native Japanese, genetically enhanced) |
-| **Born** | Earth, Japan (~2145) |
+| **Born** | Earth, Japan (EY ~2145) |
 | **Age** | ~3200 rokov chronologicky |
 | **Biological Age** | ~20 rokov (Gen 1 nanotech preservation) |
 | **Height** | ~180cm (geneticky upravená - ARK program enhancement) |
 | **Nationality** | Japonka |
 | **Role** | Bodyguard/Investigator pre Elaniu |
-| **Status** | Posledný živý človek zo Zeme, posledný, čo videl Japonsko |
+| **Status** | Posledný, čo videl Japonsko; jedna z ~100 preživších zo Zeme |
 
 ---
 
@@ -49,7 +49,7 @@
 ### Origins (Earth - ARK-11)
 
 **Birth & Early Life:**
-- Narodila sa na Zemi v Japonsku (~2145)
+- Narodila sa na Zemi v Japonsku (EY ~2145)
 - Rodičia: inžinieri vybraní pre ARK-11 program
 - Geneticky upravená ešte pred narodením (ARK enhancement protocol)
   - Zvýšená výška, svalová hustota, reflexy
@@ -57,9 +57,9 @@
   - **Absolútna dokonalosť** - designed, nie born
 
 **ARK-11 Journey:**
-- Malé dieťa keď odišla s rodičmi na ARK-11 (pravdepodobne ~5-8 rokov)
-- Cesta do Alpha Centauri (50 rokov cryostázy)
-- Prebudila sa na novej planéte (EY -50)
+- Malé dieťa keď odišla s rodičmi na ARK-11 (pravdepodobne ~5 rokov, EY 2150)
+- Cesta do Kepler 452b (~454 rokov, kombinácia FTL a cryostázy)
+- Prebudila sa na novej planéte (AY 0 = EY 2604)
 
 ### Otec (Glitch Rot Tragedy)
 
@@ -117,6 +117,8 @@
 - **Opatrná** - každý krok premyslený, žiadne zbytočné riziká
 - **Unavená** - videla príliš veľa, prežila príliš veľa
 - **Lojálna** - sľub Inetis drží dodnes (chrániť Elaniu)
+- **Bez ambícií** - nechce vládnuť, nechce moc — chce len slúžiť niekomu zaujímavému
+- **Čistá hlava** - vie kto je, čo robí, a prečo. Žiadne ilúzie o sebe.
 
 **Similar to Mormiel:**
 - Veteránka tisícročí
@@ -153,6 +155,8 @@
 - Vysáva nanoboty z Pursang krvi
 - Udržiava Gen 1+2 nanoboty čisté, bez glitch rot
 - **Nevyhnutnosť**, nie sadizmus
+- **Cíti vinu a ľútosť** — ale ak chce byť po boku Elanie, musí niečo obetovať
+- **Kontrast s Mormiel:** Mormiel si vampirizmus *vychutnáva* — vidí v ňom pôžitok, nadradenosť, rada vidí strach v očiach obete. Sera to robí s odporom.
 
 ### Combat Skills
 
@@ -254,13 +258,33 @@
 **Why Makovia Worship Sera:**
 - Felix (Mako) poznal Seru z ARK-11
 - Rozprával iným Makom o "The Last Pure Human"
-- Sera = jediný živý človek, čo videl Zem
+- Sera = jediný **čistý** človek, čo videl Japonsko (Ex Inferis sú tiež zo Zeme, ale sú vampíri)
 - **Bohyňa zo Zeme, nesmrteľná, dokonalá**
 
 **Sera's Reaction:**
 - Ignoruje uctievanie
 - Nepotrebuje bohov ani uctievačov
 - Ale rešpektuje Makami (poznala ich predkov)
+
+### Apes (Legend Status)
+
+**"Piaty Archanjel" / "Anjel Smrti":**
+- U Apes je Sera **legendou** — nie Ex Inferis, ale niečo horšie
+- Štyria Archanjeli (Samaell, Grond, Ishtar, Mormiel) = mocní, ale pochopiteľní
+- **Sera = iná kategória** — čistý človek, Gen 1 nanotech, 3200 rokov skúseností
+- Apes ju nazývajú **"Tenshi no Shi"** (Anjel Smrti) — japonské meno, rešpekt k pôvodu
+
+**Prečo sa jej boja:**
+- **Nie je Ex Inferis** — nemá ich slabiny (glitch rot, potrebu obetí)
+- **Elania nie je bojovníčka** — ale Sera? Sera je iná liga
+- **Paladíni vs Sera:** Keby Rau a Kira stretli Seru v boji... neboli by to Paladíni, kto by odišiel
+- **Goro vie:** Má záznamy o nej. Rešpektuje ju. Bojí sa jej.
+
+**Apes Intel o Sere:**
+- Posledná, čo videla Japonsko (jedinečný kultúrny odkaz)
+- Slúži Elanii (dcére Inetis)
+- Ovláda Haiku skript perfektne
+- Videli ju bojovať raz. *Raz stačilo.*
 
 ---
 
@@ -280,7 +304,7 @@
 
 ## Trivia
 
-- **Posledný živý človek zo Zeme** (všetci ostatní zomreli alebo sa stali hybrids)
+- **Jedna z ~100 preživších zo Zeme** — Ex Inferis (4), Niktori na Západe (~100: učitelia, lekári, "turisti"), Sera
 - **Posledný, čto videl Japonsko** pred zánikom Zeme
 - **Ovláda Haiku skript** (rodný jazyk Inetis/Elanie = Japanese)
 - **Yari = posledná vec z Japonska** vo vesmíre
@@ -304,6 +328,42 @@
 2. **Reveal o Elanii** - "niekto, kto má jeho krv"
 3. **Departure** - odchádza s mysterióznym odkazom
 4. **Possible return** - keď Max stretne Paladínov znova?
+
+---
+
+## Štýl reči a myslenia
+
+**3200+ rokov skúseností:**
+- Každé slovo je **filter tisícročí** — nič zbytočné
+- Krátke vety, maximum 5-7 slov
+- Čo NEPOVIE je dôležitejšie než čo povie
+
+**Tri hlasy:**
+1. **Hlboký hlas** (business): studený, starý, scary
+2. **Kawaii hlas** (manipulácia): fake cute, destabilizuje
+3. **Hlas pravdy** (proroctvo): vzácny, rezonujúci, desivý
+
+**SPRÁVNE:**
+```
+✅ "Kinetický roj." (konštatovanie)
+✅ "Keby sme bojovali..." (nedokončené)
+✅ "Poznala som ju." (minulý čas = váha vekov)
+```
+
+**ZAKÁZANÉ:**
+```
+❌ "To bola úžasná práca s tými nanobotmi!"
+❌ Dlhé vysvetľovania a prednášky
+❌ Technické info v kawaii hlase
+```
+
+**POVINNÉ poznámky:**
+Pri každej Serinej vete MUSÍ byť poznámka:
+```
+„Artefakt."
+*[SERA — HLBOKÝ HLAS. Jedno slovo. Testuje reakciu.
+Kalkulácia: nech hovoria oni prvé.]*
+```
 
 ---
 

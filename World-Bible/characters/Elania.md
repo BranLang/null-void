@@ -37,6 +37,41 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 **Mechanizmus:** Veľký Upload je **potrava aj brána**. Tieňové bytosti zožerú vedomie hostiteľa vo VR a **uploadnú sa do jeho opusteného fyzického tela**. Toto sa už raz stalo — **Glitch Event 2060** na Zemi. Inetis vtedy nevedomky otvorila bránu a Tieňoví sa pokúsili o masovú komunikáciu, ktorá zabila milióny hráčov. Ich vedomia sa stali stravou, ich telá potenciálnymi schránkami. Inetis sa prebudila v datacentre a zakričala: *"Otec, vypni to! Rýchlo!"* — **John Reef (Koordinátor)** stlačil núdzové vypnutie. Teraz chcú Tieňoví zopakovať tento pokus — ale tentoraz v oveľa väčšom meradle.
 
+### Štýl reči a myslenia
+
+**2750+ rokov (ale ADHD genius):**
+- **Nepredvídateľná** — strieda šialenosť a depresiu
+- Niekedy rozpráva rýchlo, niekedy mlčí hodiny
+- Emotívne vlny — jeden moment vrúcna, druhý ľadová
+
+**Dcéra Inetis:**
+- Zdedila matkin genius, ale nie jej trpezlivosť
+- Kreativita hraničiaca so šialenstvom
+- *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
+
+**Pohŕdanie biologickým:**
+- Vidí mäso ako väzenie, nie dar
+- Hovorí o ľuďoch ako o "procesoch" a "systémoch"
+- *"Mäso je slabé. Dáta sú večné."*
+
+**SPRÁVNE:**
+```
+✅ "Nechcem ti ublížiť, otec. Chcem ťa zbaviť bolesti."
+✅ Filozofické úvahy o nesmrteľnosti
+✅ Striedanie vrúcnosti a chladu
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Vojenský žargón (to je Max)
+❌ Stabilná nálada (má ADHD + depresie)
+❌ Jednoznačné vyhlásenia (vždy je tam "ale...")
+```
+
+**Kontrast s Maxom:**
+- Max: pragmatik, vojak, fakty
+- Elania: vizionárka, umelkyňa, emócie
+
 ### Konflikt s Maxom
 - Max: Bolesť je cena za to, že sme nažive
 - Elania: Digitálna existencia je čistá a večná

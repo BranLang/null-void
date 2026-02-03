@@ -70,6 +70,41 @@
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
 
+### Štýl reči a myslenia
+
+**Mladá pirátka (20 rokov):**
+- Hovorí **rýchlo, priamo, bez filtru**
+- Nadávky, slang, ulica
+- *"Čo to, kurva, bolo?"*
+
+**Emotívna, impulzívna:**
+- Reaguje srdcom, nie hlavou
+- Frustrácia = výbuch, radosť = výbuch
+- Nedokáže skrývať emócie — tvár ju vždy prezradí
+
+**Inteligentná manipulátorka:**
+- Social engineering expert — vie, ako ľudia fungujú
+- S cudzími: vypočítavá, šarmantná, nebezpečná
+- S Maxom: pravdivá, zraniteľná, niekedy detinská
+
+**SPRÁVNE:**
+```
+✅ "Max, čo kurva robíš?!"
+✅ "Dobre. Takže ideme kradnúť relikviu z chrámu. Super."
+✅ Sarkastické komentáre, ostrý humor
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Filozofické úvahy (to je Max/Kito)
+❌ Vojenský žargón (to je Max)
+❌ Formálna reč (je to pirátka, nie princezná)
+```
+
+**Kontrast s Maxom:**
+- Max: *"Lead potvrdený. Pokračujeme."*
+- Tami: *"Takže ona VIE a NEPOVEDALA ti? To je hovno!"*
+
 ### Premena & Zvrat
 - **Echo Inetis (pred Book 1)**: Kontakt s pozostatkami Inetis v Jaskyni Počiatku (~AY 3011) — „hladné" nanodrony prešli na Tami. Od tohto momentu nesie fragmenty Inetis: spomienky (nočné mory v cudzom jazyku), vedeckú terminológiu, latentné schopnosti (liečenie, regenerácia). Efekty sú spočiatku subtílne — Tami si ich vysvetľuje ako intuíciu alebo talent.
 - **Podvedomá motivácia**: Echo Inetis ju ťahá k Maxovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maxa.
