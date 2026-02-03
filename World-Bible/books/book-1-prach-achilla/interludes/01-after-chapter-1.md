@@ -132,61 +132,84 @@ Zavrela displej. Dlho sedela na skale, zatiaľ čo drak vedľa nej nervózne š�
 
 ---
 
-Správa ju dostihla v jej veži o tri hodiny neskôr. Tentoraz nie z anonymného komunikačného uzla, ale osobne — nohy na kamennej podlahe, dych zrýchlený od výstupu po schodoch.
+Správa ju dostihla v jej veži o tri hodiny neskôr.
 
-**Sera** vošla do komnaty bez klopania. Bola to jedna z mála bytostí na planéte, ktoré si to mohli dovoliť.
+**Sera** vošla bez klopania.
+*[SERA — gesto. 2500 rokov priateľstva = žiadne formality. Kalkulácia: žiadna. Toto je Elania. Jediná bytosť, pri ktorej Sera nekalkuluje.]*
 
-Bola to žena — ľudská, Starobylá, s krátko strihanými vlasmi farby pohasnutej medi a tvrdými zelenými očami, ktoré vyzerali, akoby videli cez steny. Sera bola Elaniina priateľka v tom zvláštnom, stáročnom zmysle toho slova — priateľstvo medzi dvoma nesmrteľnými bytosťami, kde slovo „priateľ" znamenalo „niekto, kto ma videl v mojich najhorších chvíľach a neodišiel."
+Zastavila sa uprostred komnaty. Pozrela na Elaniu.
 
-Bola to tiež najlepšia špiónka, akú Veža Zatratených kedy vyprodukovala. Vtipné, že sa nenávideli prvých sto rokov.
+Elania sedela pri okne. Neotočila sa.
 
-„Čítala si to," povedala Sera. Nebola to otázka.
+Ticho.
 
-„Áno."
+Dlhé. Pohodlné. Ticho dvoch bytostí, ktoré sa poznajú dlhšie, než existuje väčšina náboženstiev na tejto planéte.
 
-„A?"
+„Čítala."
+*[SERA — HLBOKÝ HLAS. Jedno slovo. Nie otázka. Konštatovanie. Kalkulácia: Elania vie, že Sera vie. Zbytočné pýtať sa.]*
+
+Elania neprikývla. Nemusela.
+
+Sera prešla ku kreslu. Sadla si. Čakala.
+
+Minúta. Dve.
+
+„Nie."
+*[ELANIA — jedno slovo. Sera pochopí: "Nie pôjdem. Nie chcem to. Nie teraz."]*
+
+Sera mlčala.
+*[SERA — ticho. Kalkulácia: Elania potrebuje čas. Tlačiť = kontraproduktívne. Nechať ju hovoriť, keď bude pripravená.]*
+
+Za oknom more. Sivé. Nekonečné. Plutva morského tvora sa vynorila — Elaniin experiment, veľký ako loď.
+
+„Grond prekročil hory," povedala Elania nakoniec. Stále sa neotočila. „Zaya už niekoho poslala."
+
+Pauza.
+
+„A potom je tam..."
+
+Nedokončila.
+*[ELANIA — nedokončená veta. Sera vie: "exorcista, ktorý nie je náš". Nepotrebuje povedať viac.]*
+
+Sera vstala. Pristúpila k oknu. Postavila sa vedľa Elanie — nie pred ňu, nie za ňu. *Vedľa*.
+*[SERA — pozícia. 2500 rokov = vie, kde stáť. Vedľa = rovnocennosť. Pred = konfrontácia. Za = ochrana. Teraz Elania nepotrebuje konfrontáciu ani ochranu. Potrebuje niekoho VEDĽA.]*
+
+„Pôjdem."
+*[SERA — HLBOKÝ HLAS. Dve slová. Nie ponuka — oznámenie. Kalkulácia: Elania povie "nie". Sera pôjde aj tak. Ale nechá ju to povedať.]*
 
 „Nie."
 
-Sera sa oprela o kamenný rám okna. Za ňou sa rozprestieralo more — sivé, studené, nekonečné.
-
-„Elania, patrilo to tvojej matke"
-
-„Viem, čo to je."
-
-„Tak vieš aj to, aku to ma moc."
-
-Ticho. Elania sa otočila k oknu. Vietor jej odhalil ucho — ľudské, bledé, dokonalé. Niekedy zabúdala, aká je krásna. A niekedy to bolo to jediné, čo vedela.
-
-„Pôjdem ja," povedala Sera.
-
-Elania sa rýchlo otočila. „Nie."
-
-„Nevyzerala by som podozrivo. Človek v Shoravene — Exorcistka, ak treba. Dostanem sa tam skôr a diskrétnejšie ako ty." Sera sa usmiala — krivo, s tým drsným humorom, ktorý si vypestovala za stáročia špionáže. „Okrem toho, ty a draky nie ste práve nenápadné."
-
-„Grond uz s armadami prekrocil hory a urcite aj Zaya tam niekoho poslala. A potom je tam aj... nedopovedala"
-
 „Viem."
+*[SERA — HLBOKÝ HLAS. Jedno slovo. Znamená: "Viem, že nechceš, aby som šla. Pôjdem aj tak. Obidve to vieme."]*
 
-„A v meste je údajne Exorcista. Ale nas clovek to nieje."
+Elania sa konečne otočila. Prvýkrát sa na Seru pozrela.
 
-Sera zdvihla obočie. „*Starobylý*? Na Terre?"
+V jej očiach niečo, čo Sera videla len párkrát za 2500 rokov. Strach. Nie o seba. *O Seru*.
 
-„Neviem kto. Správa je skúpa."
+„Ak tam je niekto ako my..."
 
-Sera chvíľu premýšľala. Potom prikývla. „O to viac dôvodov ísť ja. Ak je tam Starobylý, budem s ním vedieť komunikovať. Ty by si ho zabila pri prvom pohľade."
+„Zistím."
+*[SERA — HLBOKÝ HLAS. Prerušenie. Kalkulácia: Elania sa bojí, že Sera narazí na niečo, čo ju zabije. Sera to vie. Nechce ju nechať to povedať nahlas.]*
 
-Elania otvorila ústa, aby protestovala. Zavrela ich. Sera mala pravdu.
+Ticho.
 
-„Daj mi ý dni," povedala Sera a oprašovala si ruky, akoby sa chystala na nákupy a nie na cestu cez zamrznutý kontinent do obliehnaného mesta. Zoberiem si Vznasadlo a pojdem cez Ludus, a potom na sever cez vezu EI. Dam ti vediet.
+Elania sa odvrátila späť k oknu. Hlas tichý. Takmer ľudský.
 
-Elania dlho mlčala. Za oknom sa na hladine mora objavila biela plutva — jeden z jej experimentov, morský tvor veľký ako loď, ktorý sa vynoril z hlbín, aby sa nadýchol.
+„Opatrne."
+*[ELANIA — jedno slovo. Znamená všetko, čo nepovie: "Si jediná bytosť, na ktorej mi záleží. Neviem existovať bez teba. Vráť sa."]*
 
-„Buď opatrná," povedala nakoniec. Hlas mala tichý. Skoro ľudský.
+Sera sa nezastavila pri dverách. Neotočila sa.
 
-Sera sa zastavila pri dverách. Pozrela na ňu cez rameno. „Vždy som."
+„Vždy."
+*[SERA — HLAS PRAVDY. Lož. Obidve to vedia. Sera nikdy nie je opatrná. Ale toto je rituál — slová, ktoré hovoria 2500 rokov. Nič iné netreba.]*
 
-*Lož*, pomyslela si Elania, keď ostala sama. *Najväčšia lož, akú mi kedy povedala.*
+Dvere sa zavreli.
+
+Elania ostala sama.
+
+*Klamárka*, pomyslela si. *Najhoršia klamárka, akú som kedy poznala.*
+
+Ale úsmev na jej tvári bol skutočný.
 
 ---
 

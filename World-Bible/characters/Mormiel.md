@@ -67,6 +67,41 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
 - **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
 
+### Štýl reči a myslenia
+
+**2950+ rokov (najstaršia antagonistka):**
+- Každé slovo je **dokonale vypočítané**
+- Nikdy nestratí kontrolu nad hlasom
+- Materská, milostivá, láskavá — a pod tým **ľad**
+
+**Verejná tvár (Požehnaná Matka):**
+- Jemný, pokojný hlas
+- Hovorí v požehnaniach a múdrostiach
+- *"Dieťa moje, Matka všetko odpúšťa."*
+
+**Súkromná tvár (Archanjel):**
+- Chladná, chirurgická presnosť
+- Pragmatická ako Max, ale bez emócií
+- *"Dvadsaťtri tiel. Dvadsaťtri rodín. Nikto sa nepýta."*
+
+**SPRÁVNE:**
+```
+✅ "Požehnanie Matky nech ťa sprevádza." (verejne)
+✅ "Jedného dňa sa dozviete... keď sa Spáč prebudí." (dvojzmyselné)
+✅ Materský tón, pod ktorým je smrť
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Hnev, frustrácia, strata kontroly
+❌ Priame vyhrážky (manipuluje, nevyhráža sa)
+❌ Odhalenie pravdy (vždy lži a polpravdy)
+```
+
+**Kontrast:**
+- Sera: veteránka, ktorá ešte cíti
+- Mormiel: predátorka, ktorá už necíti nič
+
 ### Rola v príbehu
 
 - **Kniha 1 (Zem)**: Požehnaná Matka je prítomná v pozadí — jej kňazi strážia Anténu v Shoravene, jej slovo riadi politiku Nevriss. Max a Tami o nej počujú, ale nestretávajú ju priamo.

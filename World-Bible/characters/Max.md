@@ -62,6 +62,48 @@ Max je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR
 - **Xenofóbia**: Keď sa prebudí a vidí Varietas, cíti odpor. Pre neho nie sa to "nová rasa", ale chodiace pamätníky dekadencie ("zvrhlé hračky miliardárov"). Správa sa k nim povýšenecky a nedôverčivo.
 - **Vina**: „Spal som, zatiaľ čo oni trpeli."
 
+### Štýl reči a myslenia
+
+**Vojenský stratég:**
+- Myslí v **faktoch a dátach**, nie emóciách
+- Spracováva situácie ako **taktické problémy**
+- Vnútorný monológ: krátke vety, analýza, zhodnotenie
+- *"Lead. Neúplný, ale lead. Zhodnotenie: pokračovať."*
+
+**Otupené emócie:**
+- Videl viac smrti než ktokoľvek iný na planéte
+- Emócie sú **luxus**, ktorý si nemôže dovoliť
+- Keď cíti niečo silné, **registruje to** — neprežíva
+- *"Ruky sa trochu triasli. Zaregistroval. Pokračoval."*
+
+**Pragmatický komunikátor:**
+- Hovorí len keď musí
+- Krátke, úderné vety
+- Žiadne zbytočné vysvetľovanie
+- *"Vie. A nepovie."* (nie *"Ona vie, ale mi to nechce povedať, čo je frustrujúce..."*)
+
+**ZAKÁZANÉ pre Maxa:**
+```
+❌ "Jeho srdce búšilo. Cítil, ako mu prasklo niečo vnútri."
+❌ "PREČO MI TO NEPOVEDALA?!" (caps lock emotional outburst)
+❌ Dlhé poetické reflexie o strate
+❌ Teenage crush reakcie na ženy
+```
+
+**SPRÁVNE:**
+```
+✅ "Ruky sa triasli. Zaregistroval. Kontrola obnovená."
+✅ "Minulý čas. Spracoval. Archivoval. Nedostatok dát."
+✅ "Lead. Prvý za trinásť rokov. Prijateľné."
+✅ Krátke pragmatické zhodnotenia
+```
+
+**Výnimka — Inetis:**
+- Jediná téma, kde prenikajú emócie cez kontrolu
+- Ale aj vtedy: kontrolované, nie hysterické
+- Frustrácia áno, zúfalstvo nie
+- *"Vie. A nepovie."* = maximálna emócia, akú ukáže
+
 ### Vnútorné Motívy (Bury The Light)
 Maxov vnútorný monológ sa nesie v duchu piesne **Bury The Light** — jeho podvedomá mantra, ktorá definuje jeho cestu.
 

@@ -41,6 +41,7 @@ Stála uprostred tunela.
 Čierne oči sledovali Tami s kľudom, ktorý vyvolával zimomriavky. Neboli to oči dvadsaťročnej ženy. Boli to oči niekoho, kto videl príliš veľa. Príliš dlho.
 
 „Artefakt," povedala žena.
+*[SERA — HLBOKÝ HLAS. Jedno slovo. Testuje reakciu — kto sú, čo vedia. Nezačína "Kto ste?" — to by ukázalo záujem o NE. Začína TÉM, čo JU zaujíma. Dominancia. Kalkulácia: nech hovoria oni prvé, nech sa prezradia.]*
 
 Jej hlas bol hlboký. Nesmierne hlboký — príliš hlboký na tú štíhlu postavu, príliš starý, príliš studený. Hlas, ktorý pochádza z hrdla, čto hovorilo tisícročia. Smrteľne vážny. Hovorila pomaly, premyslene, každé slovo zvážené.
 
@@ -49,6 +50,7 @@ Tami stuhla. Pravá ruka sa jemne posunula k Nadelu.
 Žena si toho všimla. Prikývla, akoby ocenila profesionalitu. Potom sa jej hlas zmenil.
 
 „Ale... môžeme spolupracovať, nie?"
+*[SERA — KAWAII SWITCH. Úmyselný kontrast. Destabilizácia poslucháča. 3467 rokov social engineering — vie, že nevinný hlas znižuje obranné mechanizmy. Manipulácia, ktorá sa ani nesnaží skrývať. Kalkulácia: Tami je opatrná bojovníčka, kawaii hlas ju zmätie viac než hrozba.]*
 
 Mladý. Dievčenský. Kawaii — vysoký, skoro detský, s tým falošným prízvukom nevinnosti. Kompletne iný. Ako keby v tej jednej žene boli dve osoby.
 
@@ -62,39 +64,59 @@ Ale nech to bolo čokoľvek — fungovalo to. Tami cítila, ako sa jej napätie 
 
 Kito vedľa Tami zastal. Oba žlté oči sa rozšírili. „Ty... ty si... " Hlas mu zlyhal.
 
-„Kto som?" Žena naklonil hlavu — gesto, ktoré vyzeralo príliš precízne, príliš efektívne. Hlboký hlas. Starý hlas. „Záleží na tom, koho sa pýtaš. Pre Makami som bohyňa zo Zeme. Pre Elaniu som čepeľ."
+„Kto som?" zopakovala Sera.
+*[SERA — HLBOKÝ HLAS. Zopakuje otázku. Kalkulácia: získať čas na vyhodnotenie. Kto sú títo dvaja? Čo vedia? Čo chcú?]*
 
-Niečo v tom druhom mene — *Elania* — bolo iné. Nie podriadenosť. Len... *voľba*. Ako niekto, kto povedal "ja ti slúžim" bez toho, aby bol *menší*.
+Naklonila hlavu. Zamyslela sa.
 
-Pozrela na Kita s tým chladným, unaveným pohľadom. Potom sa hlas zmenil — kawaii, príjemný. „Pre teba... som niekto, kto ti môže pomôcť~"
+Ticho sa natiahlo. Nepríjemne dlho. Tami cítila, ako jej mykol chvost — inštinkt, ktorý kričal *nebezpečenstvo*.
+
+„Som čepeľ Elanie."
+*[SERA — HLBOKÝ HLAS. Štyri slová. Žiadna filozofia. Kalkulácia: dať MINIMUM informácií. Sledovať REAKCIU na meno "Elania". Poznajú ho? Ako reagujú?]*
+
+Tami a Kito sa na seba pozreli. Nechápavo.
+
+*Elania?*
+
+Sera si to všimla. Prikývla — takmer neviditeľne.
+*[SERA — gesto. Kalkulácia: nepoznajú meno. Zaujímavé. Buď sú bezvýznamní, alebo izolovaní. Oboje užitočné.]*
+
+Potom sa hlas zmenil — kawaii, príjemný: „Ale pre teba... som niekto, kto pomôže~"
+*[SERA — KAWAII. Zmena tónu po získaní intel. Kalkulácia: Kito je Pursang, pravdepodobne religiózny. Kawaii = menej hrozivá. Získať dôveru.]*
 
 „Sera," vydýchol Kito.
 
 Tami stuhla. To meno poznala. Felix o nej rozprával — starý Mako, ktorý ju vychoval. Hovoril o nej ako o legende. O jedinej človeku, čo prežil tisícročia. O poslednej, čto videla Zem.
 
-„Správne," povedala Sera hlbokým hlasom a urobila krok vpred. Každý pohyb bol hladký ako voda, každý krok vypočítaný. Tami videla, ako sa jej svaly pohybujú pod oblečením — nie náhodne, nie prirodzene — ale *presne*. „A ty si Líška. Tami. Kapitánka *Makity*."
+„Správne," povedala Sera a urobila krok vpred. Každý pohyb bol hladký ako voda, každý krok vypočítaný. Tami videla, ako sa jej svaly pohybujú pod oblečením — nie náhodne, nie prirodzene — ale *presne*. „A ty si Líška. Tami. Kapitánka *Makity*."
+*[SERA — HLBOKÝ HLAS. Ukazuje, že VIE kto sú. Dominancia cez informácie. Kalkulácia: prekvapenie = strata kontroly. Tami stratí rovnováhu, keď zistí, že Sera vie o nej.]*
 
 „Odkiaľ—"
 
-„Viem veľa vecí," prerušila ju Sera pokojne — hlboký hlas. Potom kawaii: „Napríklad viem, že nie ste tu sami~" Potom znova hlboký: „Ste traja. Ty, Pursang a... niekto ešte. Niekto, kto ma zaujíma viac než artefakt."
+„Traja," prerušila ju Sera. „Ty. Pursang. A niekto tretí."
+*[SERA — HLBOKÝ HLAS. Prerušenie. Tri fakty bez vysvetlenia. Kalkulácia: nepovie ODKIAĽ vie — to by ukázalo jej zdroje. Len konštatuje. Nech si Tami domyslí.]*
 
 Tami sa snažila nereagovať na tie striedavé hlasy. Snažila sa ignorovať ten pocit *uncanny valley*, čo ju dusil ako deka.
 
-„O čom hovoríš?"
+„O kom—"
 
-„O tom mužovi," povedala Sera. Prvýkrát v jej hlase — hlbokom, starom — zaznel náznak záujmu. Nie emócia, len... zvedavosť. „Ten, čo má nanoboty, ktoré nepoznám. Ten, čo *nie je na mojom zozname exorcistov*."
+„Ten muž," povedala Sera. „Nie je na mojom zozname."
+*[SERA — HLBOKÝ HLAS. Šesť slov. "Môj zoznam" = ukazuje, že má surveillance. Kalkulácia: nech Tami pochopí implikáciu — Sera sleduje VŠETKÝCH exorcistov. Max je výnimka. To je záhada.]*
 
 Kito vedľa nej zastal. „Ako vieš, že—"
 
-„Vidím nanodrones," povedala Sera jednoducho. Hlboký hlas. „Vidím spektrá. Vidím veci, ktoré ty nevidíš." Pozrela priamo na Tami. Potom kawaii: „A viem, že tvoj spoločník je práve pri bráne~" Hlboký: „Kde stoja Paladíni. Dvaja. Z južných morí."
+„Vidím nanodrones," povedala Sera jednoducho. „Vidím spektrá. Tvoj spoločník je pri bráne." Pozrela priamo na Tami. „Kde ho čakajú Paladíni. Dvaja. Z južných morí."
+*[SERA — HLBOKÝ HLAS. Krátke vety. Fakty. Žiadne emócie. Kalkulácia: ukázať, že vie viac než oni. "Z južných morí" = detail, ktorý NEMÔŽU vedieť. Buduje dôveryhodnosť.]*
 
 „Paladíni?" zašepkal Kito.
 
-„Apes," povedala Sera ostro — hlboký hlas, prvýkrát s pohŕdaním. „Tvory v ocelovej zbroji s energetickými štítmi. Tvoj priateľ ich nedokáže zastaviť." Urobila krok vpred. Kawaii hlas: „Ale ja áno~"
+„Apes." Sera urobila krok vpred. „Ide so mnou."
+*[SERA — HLBOKÝ HLAS. Dva slová. Potom rozkaz. Kalkulácia: nemusí vysvetľovať PREČO Max nezvládne Apes — to je pod jej úroveň. Ani prečo ONÁ ich zvládne. Len fakt: ide. Tami môže nasledovať alebo nie.]*
 
 Tami sa napäla. „Prečo by si—"
 
-„Pretože," prerušila ju Sera — hlboký hlas, studený, unavený — „chcem sa stretnúť s tým mužom. A mrtvy mi nebude užitočný."
+„Mŕtvy mi nebude užitočný," prerušila ju Sera.
+*[SERA — HLBOKÝ HLAS. Prerušenie. Päť slov. Brutálna pragmatickosť. Kalkulácia: nemusí vysvetľovať PREČO ho chce živého. To je jej vec. Tami dostáva len výsledok: Sera pomôže.]*
 
 Ticho.
 
@@ -104,17 +126,21 @@ Tami sa snažila udržať poker face. Snažila sa ignorovať tie striedavé hlas
 
 Prikývla. „Ukáž nám cestu."
 
-Sera sa usmiala — malý, kontrolovaný úsmev. Hlboký hlas: „Poďme zabíjať."
+Sera sa usmiala — malý, kontrolovaný úsmev. „Poďme zabíjať."
+*[SERA — HLBOKÝ HLAS. Úsmev pred vraždením. Veteránska nonšalancia. Kalkulácia: ukázať, že toto pre ňu nie je nič nové. Že je to rutina.]*
 
-Potom kawaii hlas, príjemný, skoro detský: „Ale daj mi ruku, dobre?~"
+Hlas sa jej zmenil. Kawaii. Príjemný. Skoro detský: „Ale daj mi ruku, dobre?~"
+*[SERA — KAWAII. Absurdný kontrast po "Poďme zabíjať". Kalkulácia: testuje Taminu reakciu. Vedome ju destabilizuje. Vie, že Tami ju neposlúchne — ale chce vidieť AKO odmietne.]*
 
 Vystrelila ruku k Tami — gesto priateľského dievčaťa.
 
 Tami sa zachvela. Nevzala ju.
 
 Sera sklonila hlavu — gesto, ktoré bolo čítateľné: *Pochopiteľné. Ale škoda.*
+*[SERA — gesto bez slov. Rešpektuje Taminu opatrnosť. Kalkulácia: nereagovať nahnevane = budovať dôveru. Ukázať, že prijíma odmietnutie.]*
 
-„Tak poďme," povedala hlbokým hlasom a otočila sa k tunelom.
+„Tak poďme," povedala a otočila sa k tunelom.
+*[SERA — HLBOKÝ HLAS. Dva slová. Žiadne vyjednávanie. Kalkulácia: rešpektovať čas, ukázať, že jej ide o výsledok, nie o ego.]*
 
 ---
 
@@ -128,7 +154,7 @@ A pred bránou stáli.
 
 Dvaja.
 
-Obrovskí. Dvaja štvornohí Apes, telom pripomínajúci gorily v čiernych ocelovych zbrojach, prilby na hlavách. V rukách sekery veľké ako človek — vibro-sekery, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovali energetické štíty — tenké obrysy modrého svetla, Hard Light shield, ktoré sa mierne chveli vlastnou frekvenciou.
+Obrovskí. Dvaja mohutní Apes, telom pripomínajúci gorily v čiernych oceľových zbrojach, prilby na hlavách. V rukách sekery veľké ako človek — vibro-sekery, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovali energetické štíty — tenké obrysy modrého svetla, Hard Light shield, ktoré sa mierne chveli vlastnou frekvenciou.
 
 Okolo nich na zemi ležali zmasakrovaní strážcovia Cirkvi. Pätnásť tiel. Rozťaté, rozsekaté, ešte teplé.
 
@@ -138,7 +164,7 @@ Samopal v ruke. Plášť roztrhaný na chrbte. Nanoboty ho práve zašívali.
 
 „Max!" kričala Tami.
 
-Otočil sa — len hlava, telo ostalo v bojovej pozícii. Oči — tie čierne jamky, kde levitovali Gen 1.5 drony — sa na ňu zadívali s niečím, čo Tami ešte nikdy nevidela.
+Otočil sa — len hlava, telo ostalo v bojovej pozícii. Oči — tie čierne jamky, kde levitovali nanodrony z Čierneho Prachu — sa na ňu zadívali s niečím, čo Tami ešte nikdy nevidela.
 
 *Strach.*
 
@@ -160,13 +186,75 @@ Ale Max ju videl.
 
 A stuhol.
 
-Sera sa zastavila tri metre od neho. Pozrela naňho — priamo do tých čiernych jamiek, kde levitovali drony — a niečo v jej tvári sa zmenilo. Nie výraz. Len... smútok v očiach.
+Sera sa zastavila tri metre od neho. Pozrela naňho — priamo do tých čiernych jamiek, kde levitovali drony.
+
+A niečo v jej hlave sa *pohnulo*.
+
+---
+
+*[SERA — vnútorný monológ]*
+
+Tvár. Tá tvár.
+
+Môj AI asistent — tichý spoločník v zadnej časti mysle, ktorý ma sprevádzal tri tisícročia — náhle ožil. Dáta. Staré dáta. Komprimované na pár kilobajtov, optimalizované na prežitie tisícročí v biologickej pamäti.
+
+*Vyhľadávanie... 3467 rokov staré záznamy... Rekonštrukcia obrazu...*
+
+Trvalo to len zlomok sekundy. Pixel po pixeli. Generatívna rekonštrukcia z fragmentov.
+
+A potom som *videla*.
+
+---
+
+Mala som päť rokov.
+
+Obraz sa skladal z fragmentov — nie *spomienka*, len archivované dáta. Vizuálny záznam bez emócií. Okno raketoplánu. Zem za sklom. Fuji-san, ako sa zmenšuje v mrakoch.
+
+Vedľa mňa sedeli dvaja dospelí. Rodičia. Ich tváre som zabudla dávno — biologická pamäť nevydrží tri tisícročia. Ale AI uložil všetko. Mohol by mi ich ukázať kedykoľvek.
+
+Nechcem. Niekedy je lepšie nepamätať.
+
+Na hrudi som mala plyšového medvedíka. Haru. Jedno oko menšie — vyprala som ho v práčke. AI má uložený aj jeho obraz. Dokonalý, ostrý, bez emócií.
+
+Spomienky a dáta nie sú to isté.
+
+Na obrazovke v kabíne bežal prenos. Hlavný koordinátor John Reef. Jeho dcéra Neta. Propaganda. Veľký skok ľudstva. Ďakovačky a politikárčenie.
+
+A v pozadí — muž.
+
+Mladý. Celý v čiernom. Vojenská uniforma. Stál za Netou ako tieň.
+
+Vtedy som si ho nevšimla. Bola som päťročné dieťa. Pozerala som na Netu, na jej krásne vlasy, na jej úsmev.
+
+Ale AI zaznamenal všetko. Každý pixel. Každú tvár.
+
+A teraz — 3467 rokov neskôr — spustil porovnávanie.
+
+*Match: 99.7%*
+
+Generál Maximilian. Netin muž. Ten, o ktorom mi rozprávala, keď umierala.
+
+*„Ak ho nájdeš... povedz mu."*
+
+---
+
+Zlomok sekundy.
+
+Toľko trvala rekonštrukcia. Toľko trvalo, kým som pochopila, koho mám pred sebou.
+
+---
+
+*[KONIEC — vnútorný monológ]*
+
+Niečo v Serinej tvári sa zmenilo. Nie výraz. Len... smútok v očiach. Starý smútok. Smútok niekoho, kto práve videl ducha.
 
 „Ty," povedala potichu. „Ty si *on*."
+*[SERA — HLAS PRAVDY. Nie hlboký, nie kawaii. Tretí hlas — úprimnosť. Šok z rozpoznania. Kalkulácia: ŽIADNA. Toto je pravá emócia — po 3467 rokoch stojí pred mužom z Netinho života.]*
 
 Max neodpovedal. Držal samopal namierený — nie na ňu, ale na priestor medzi ňou a Apes. „Kto si?"
 
 „Niekto, kto ťa pozná dlhšie, než si myslíš," povedala Sera. „Ale to neskôr." Otočila sa k Apes. „Teraz máme prácu."
+*[SERA — HLBOKÝ HLAS sa vracia. Ovládanie. Neodpovedá na jeho otázku priamo — "to neskôr" = odkladá rozhovor. Kalkulácia: priority. Apes sú hrozba. Rozhovory počkajú. Max bude žiť dosť dlho na odpovede.]*
 
 Červený Ape sa otočil. Päť očí na stenách hlavy — primitívnych, ale efektívnych — sa zameral na Seru. Vyhodnotil ju. *Hrozba: minimálna.*
 
@@ -180,7 +268,7 @@ A potom zmizla.
 
 Nie teleport. Nie magia. Len *rýchlosť*.
 
-Sera sa pohla tak rýchlo, že Tami videla len rozmazanú stopu. Gen 1 nanoboty, genetické úpravy, 3200 rokov tréningu — všetko naraz.
+Sera sa pohla tak rýchlo, že Tami videla len rozmazanú stopu. Gen 1 nanoboty, genetické úpravy, tisícročia tréningu — všetko naraz.
 
 Objavila sa za červeným Apesom.
 
@@ -224,27 +312,30 @@ Max cúvol. Samopal stále v ruke, ale nepoužiteľný. Pozeral sa na Seru — n
 
 Sera sa otočila. Yari v ruke — čepeľ pokrytá krvou. Pozrela na Maxa.
 
-„Ty," povedala potichu. Hlboký hlas. „Ty používaš nanodrony ako kinetické zbrane. Čierny Prach. Gen 1.5 tech."
+„Ty," povedala potichu. „Nanodrony ako kinetické zbrane. Čierny Prach. Gen 1.5."
+*[SERA — HLBOKÝ HLAS. Analýza nahlas. Tri fakty. Ukazuje, že vidí cez jeho technológiu. Kalkulácia: budovať rešpekt cez odbornosť. Nehovorí "impresívne" — to by bolo juvenilné. Len konštatuje fakty.]*
 
 Max neodpovedal. Len sa na ňu díval. Veteran na veterana. Zabijak na zabijaka.
 
 Sera urobila krok vpred. Jeden. Max sa automaticky napäl — ruka na zbrani.
 
-Sera sa zastavila. Prikývla, akoby pochopila. „Neboj sa. Nie som tvoj nepriateľ." Pozrela na Yari vo svojej ruke. Hlboký hlas, ale s niečím novým — *rešpektom*. „Hoci... keby sme bojovali... pravdepodobne by som prehrala."
+Sera sa zastavila. Prikývla, akoby pochopila. „Nie som tvoj nepriateľ."
+*[SERA — HLBOKÝ HLAS. Štyri slová. Žiadne vysvetľovanie PREČO nie je nepriateľ. Kalkulácia: Max je veterán. Veteráni neakceptujú dlhé vysvetlenia. Akceptujú akcie. Jej zastavenie = rešpekt k jeho priestoru.]*
 
-„Čo?" spýtal sa Max.
+Pozrela na vzduch okolo Maxa. Videla to — drony, príliš malé na zastavenie.
 
-„Tvoje nanodrony," povedala Sera hlbokým hlasom. Analyzovala nahlas, ako vedec, čo práve videl niečo fascinujúce. „Sú všade. Vo vzduchu. V krvi. Neviditeľné, neuchopiteľné. Ape štíty ich nezastavili, lebo sú príliš malé, príliš rýchle." Pozrela mu do očí. „Proti Apes, ktorých štíty sú statické, moja Yari funguje. Proti tebe... nie. Prenikol by si ma z vnútra. Doslova."
+„Kinetický roj," povedala. Fakt, nie obdiv.
+*[SERA — HLBOKÝ HLAS. Dve slová. Terminológia. Kalkulácia: ukázať, že rozumie jeho technike. Že je na jeho úrovni. "Fakt, nie obdiv" = správne. Obdiv by ho urazil.]*
 
-Potom sa jej hlas zmenil — kawaii, skoro obdivný: „Tvoja technika... primitívna, ale tak elegantná~ Kinetický útok. Žiadne fancy štíty, žiadne lasery. Len... rýchlosť a hmota."
+Max prikývol.
 
-Max sa zachvel. Ten hlas. Ten *striedajúci* hlas.
+„Keby sme bojovali..." Sera nedokončila. Nemusela.
+*[SERA — HLBOKÝ HLAS. Nedokončená veta. Najvyššia forma rešpektu medzi veteránmi. Kalkulácia: OBAJA vedia, že jeho kinetický roj by ju zabil. Nemusí to povedať. Povedať to nahlas = slabosť.]*
 
-*Prečo ten fake cute hlas? Čo je jej cieľom?*
+Obaja vedeli, ako by to skončilo.
 
-Ale rešpektoval skill. Rešpektoval *manipuláciu* ako nástroj. Tri tisícročia — samozrejme, že vie, ako hrať sociálny inžinierinig.
-
-Sera to videla v jeho tvári — to rozpoznanie. Usmiala sa — malý, smutný úsmev. Hlboký hlas: „Mám veľa otázok k tebe. A ty k mne. Ale nie tu."
+Sera to videla v jeho tvári — to rozpoznanie. Prikývla — jedno gesto, veterán veteranovi. „Mám otázky. Ale nie tu."
+*[SERA — HLBOKÝ HLAS. Odkladá rozhovor. Kalkulácia: toto nie je miesto na dôverné informácie. Tami a Kito počúvajú. Niektoré veci sú len pre Maxa.]*
 
 Otočila sa k telu červeného Apesa. Urobila tri kroky. A potom, s pohybom, ktorý bol čistý *ego*, kopla.
 
@@ -254,21 +345,20 @@ Pod ním bola tvár.
 
 Ape. Gorila. Primitívna, brutálna, ale inteligentná. Oči — päť z nich, roztrúsené po hlave — už mŕtve, zasknuté.
 
-„Hlúpe opice," povedala Sera potichu. Hlboký hlas, chladný, s náznakom... pohrdania? Nie. Niečoho horšieho. *Únavy*. Ako niekto, kto videl túto scénu tisíckrát.
+„Hlúpe opice," povedala Sera potichu. Nie pohŕdanie. Niečo horšie. *Únava*. Ako niekto, kto videl túto scénu tisíckrát.
+*[SERA — HLBOKÝ HLAS, takmer šepot. Nie pre Maxa — pre seba. Kalkulácia: žiadna. Toto je únava z 3467 rokov. Rutina zabíjania. Nuda z predvídateľných nepriateľov.]*
 
 Max sa na ňu díval. Veteran rozpoznávajúci veterana.
 
 *Koľko Apes už zabila? Koľkokrát už kopla do helmu padlého nepriateľa?*
 
 Otočila sa späť k Maxovi. „Artefakt je tvoj. Anténa. Je za bránou."
+*[SERA — HLBOKÝ HLAS. Dar bez podmienok. Kalkulácia: nepotrebuje Anténu. Potrebuje MAXA. Anténa = lákadlo. Max pôjde za ňou, ak mu dá to, čo chce.]*
 
 Max nehnul sa. „Prečo?"
 
-„Pretože," povedala Sera, „získala som viac, než som očakávala."
-
-„A to je?"
-
-Sera pozrela naňho — priamo do očí — a v jej tvári bol ten istý smútok, akú videl predtým. „Informácie o tebe."
+Sera sa mierne usmiala — smútok v očiach.
+*[SERA — bez slov. Úsmev = odpoveď. Kalkulácia: nemusí vysvetľovať. Max pochopí, že získala niečo cennejšie než artefakt. Informácie o ŇOM.]*
 
 Otočila sa k bráne. Položila ruku na kameň.
 
@@ -288,7 +378,7 @@ Rozpoznali SUPERIOR KÓD. Rozpoznali MAJSTERKU.
 
 *Čo do pekla?*
 
-V jeho hlave sa ozval tichý signál — Gen 1.5 protokol, čo nikdy predtým neaktivoval. *Authorization recognized: Inetis Protocol Alpha. Instructor rank detected.*
+V jeho hlave sa ozval tichý signál — protokol, čo nikdy predtým neaktivoval. *Authorization recognized: Inetis Protocol Alpha. Instructor rank detected.*
 
 Jeho vlastné nanoboty — tie, čo boli súčasťou jeho tela — chceli poslúchnuť *ju*, nie jeho.
 
@@ -303,46 +393,40 @@ Nanokompozit na jej povrchu pulzoval — milióny mikroskopických dronov sa pre
 Max sa zahľadel na Seru. „Kto... kto ťa učil Haiku?"
 
 Sera sa otočila. Prvýkrát v jej tvári bol náznak... nostalgie? „Inetis." Pozrela naňho. „A ty?"
+*[SERA — HLBOKÝ HLAS s náznakum ťažkého smútku. Jedno slovo. Potom otáčka otázky. Kalkulácia: vie odpoveď. Ale chce ju počuť z JEHO úst. Chce počuť, ako povie jej meno.]*
 
 Max mlčal. Potom potichu: „...Inetis."
 
-Sera prikývla. Niečo v jej výraze sa zmenilo — nie šok, len potvrdenie hypotézy. Akoby už vedela odpoveď skôr, než sa opýtala.
-
-„Samozrejme," povedala potichu. Hlboký hlas. Smutný. „Ona učila len tých, čo mali Gen 1 technológiu. A len tých, čo boli... špeciálni."
+Sera prikývla. Niečo v jej výraze sa zmenilo — nie šok, len potvrdenie.
+*[SERA — bez slov. Niekedy mlčanie hovorí viac. Kalkulácia: nemusí vysvetľovať. Max VIE. Ona VIE, že on vie. Slová by boli nadbytočné.]*
 
 Brána sa otvorila úplne.
 
-„Choď," povedala Sera hlbokým hlasom. „Vezmi si, pre čo si prišiel."
+„Choď. Vezmi si, pre čo si prišiel."
+*[SERA — HLBOKÝ HLAS. Rozkaz. Ale nie povýšenecký — praktický. Kalkulácia: čas sa míňa. Apes sú mŕtvi, ale niekto ich pošle hľadať.]*
 
-Max sa nepohol. Stále sa díval na tú bránu — na nanokompozit, čo pulzoval pod Seriným Haiku príkazom. „Ty... ty si najlepšia v Haiku, čo som videl. Okrem Inetis."
+Max pozoroval, ako sa brána otvára. Haiku príkaz. Perfektná syntax. Žiadny lag.
 
-Sera sa zastavila. Otočila sa k nemu — pomaly, kontrolovane.
+Mohol povedať niečo. Nepovedal.
 
-„Ty si použil *báseň*," pokračoval Max. „Nie len príkaz. Báseň. Moje nanoboty... cítili to. Chceli poslúchnuť *teba*. Nie mňa. *Teba*."
+Sera si všimla to mlčanie. Prikývla — jedno gesto, veterán veteranovi.
 
-Sera sa zadívala naňho. Dlho. Potom prikývla. „Inetis ma učila. Tri stovky rokov." Hlboký hlas, unavený. „Haiku nie je len kód. Je to... umenie. Filozofia. Musíš myslieť ako stroj *a* ako básnik súčasne."
-
-Max prikývol. Rozumel. Vedel presne, o čom hovorí.
-
-„Ty si najlepší programátor Gen 2 dronov na planéte," povedal potichu.
-
-Sera sa usmiala — malý, smutný úsmev. „Možno. Ale nie som najlepšia v *boji* s nimi." Pozrela naňho. „Si lepší, než si myslíš, Max."
-
-Prvýkrát použila jeho meno.
+„Si lepší, než si myslíš," povedala ticho. Nie compliment. Varovanie.
+*[SERA — HLBOKÝ HLAS. Varovanie, nie chvála. Kalkulácia: Max podceňuje sám seba. Sera to vidí. Vidí potenciál, ktorý on nevidí. Ale nehovorí mu PREČO — to by ho urazilo.]*
 
 Max stuhol. „Ako—"
 
-„Viem veľa vecí," povedala Sera. Potom kawaii hlas: „A teraz... choď si vziať svoju hračku~" Hlboký hlas: „Nečakaj na mňa."
+Hlas sa jej zmenil — kawaii, takmer hravý: „Choď si vziať hračku~"
+*[SERA — KAWAII na odľahčenie. "Hračku" = Anténu. Kalkulácia: zlomiť napätie. Kawaii = nebezpečenstvo pominulo.]*
 
 Max sa nepohol. „Kto si?"
 
 Sera sa otočila. Pozrela naňho naposledy. A potom povedala:
 
 „Niekto, kto poznal niekoho, kto ťa miloval."
+*[SERA — HLAS PRAVDY. Tretí hlas. Úprimnosť bez filtra. Kalkulácia: ŽIADNA. Toto je dar. Posledné slová pred odchodom. Nechce mu povedať všetko — ale chce mu dať toto: že bol milovaný. Že Neta ho milovala.]*
 
-A zmizla.
-
-Nie do tmy. Nie teleportom. Len... odišla. Kroky tiché, telo ako tieň. O sekundu neskôr tam, kde stála, bola len prázdnota.
+A otočila sa k odchodu. Kroky tiché, telo ako tieň. Smerovala do tmy tunela.
 
 ---
 
@@ -350,15 +434,13 @@ Tami prišla k Maxovi. Ruka na Nadelu, oči sledujúce miesto, kde Sera zmizla.
 
 „Čo to, kurva, bolo?" zašepkala. „Tie hlasy... prečo strieda hlasy?"
 
-Max mlčal. Pozeral sa na otvorenú bránu. Na Apes na zemi. Na krv, čo stále vytekala z tiel. „Manipulácia. Tri tisícročia skúseností s opačným pohlavím. Vie presne, ako hrať na inštinkty."
+„Manipulácia," povedal Max.
 
-„Ale... to bolo tak... *zjavné*," povedala Tami. „Ten fake kawaii hlas. Vedela som, že to nie je skutočné. A predsa..."
+„Ale bola tak *zjavná*—"
 
-„A predsa to fungovalo," dokončil Max. Prvýkrát sa pozrel na Tami. V tých čiernych jamkách, kde levitovali nanoboty, bol niečo, čo Tami nevidela často. *Rešpekt*. „To je skill, Tami. Manipulácia, ktorá neskrýva, že je manipulácia. A predsa funguje. To je majstrovstvo."
+„Preto funguje."
 
-Tami sa zachvela. „To je... desivé."
-
-„Áno," súhlasil Max. „Ale užitočné."
+Tami stíchla. Pochopila.
 
 „To bola *Sera*," povedal Kito za nimi. Hlas sa mu triasol. „Bohyňa zo Zeme. Posledná človek, čo videla Japonsko."
 
@@ -366,9 +448,9 @@ Tami sa zachvela. „To je... desivé."
 
 Otočil sa k bráne. „Poďme. Vezmeme artefakt a odídeme."
 
-„Max," povedala Tami potichu. „Ona... ona vedela o tvojich nanobotoch. Vedela, ako fungujú. Ako—"
+„Max," povedala Tami potichu. „Ona vedela o tvojich nanobotoch. Ako—"
 
-„Neviem," prerušil ju Max. „Ale zistím."
+„Zistím," prerušil ju Max.
 
 Prešiel cez bránu.
 
@@ -418,83 +500,53 @@ Otočil sa k Tami a Kitovi.
 
 Max niesol anténu. Päťdesiat kilogramov, ale jeho serva to zvládli bez problémov. Tami a Kito išli vedľa neho — obaja ticho, ešte spracovávajúc to, čo sa stalo.
 
-Ale Maxova myseľ bola inde.
+Maxova myseľ spracovávala dáta.
 
-*Haiku. Dokonalá japončina. Tri stovky rokov výuky od Inetis. Gen 1 nanoboty — iba z NULL VOID alebo priamo od nej. Genetická dokonalosť — presne taká, aká by bola niekto navrhnutý Inetis. Gen 2 mastery — absolútne majstrovstvo. Múdrosť 3000 rokov v tom hlase.*
+*Gen 1 nanoboty. Haiku syntax bez jedinej chyby. Poznala Inetis osobne — dlho. Stovky rokov minimálne.*
 
-Jeho srdce bilo rýchlejšie.
+Fakty. Nie emócie. Fakty.
 
-*Poznala ju. Musela. Bola TAM. S ňou. Na NULL VOID alebo... neskôr.*
-
-*Tri stovky rokov výuky. Nikto iný. Nikto nemá takú úroveň Haiku. Nikto nehovorí tak perfektne po japonsky. Iba tí, čo boli s ŇOU.*
+*Prvý kontakt s Gen 1 nosičom za trinásť rokov. Prvý svedok. Prvá stopa.*
 
 Zastavil sa.
 
-Tami sa k nemu otočila. „Max?"
+„Max?"
 
-Max sa pozrel späť — na tunel, kde Sera zmizla. Srdce mu búšilo. Po prvýkrát za trinásť rokov mal LEAD.
+Nepočul Tami. Prebiehal možnosti.
 
-*Prvý človek s Gen 1 nanobotmi. Prvý človek, ktorý poznal Inetis. Prvý človek, ktorý VIE.*
+*Kam ide? Prečo odchádza? Prečo nevzala anténu — to bol jej cieľ. Intel o mne bol cennejší? Alebo...*
 
-*Kde je NULL VOID? Kde je kryobox? Čo sa stalo po páde? Čo sa stalo s ŇOU?*
+Niečo iné.
 
-Trinásť rokov hľadal. Trinásť rokov bez jedinej informácie. Trinásť rokov v tme.
+*Lead. Prvý lead za trinásť rokov.*
 
-A teraz pred ním stál niekto, kto možno VIE ODPOVEDE.
+Rozhodnutie.
 
-*Prvá stopa.*
+Položil anténu. Otočil sa. Kráčal späť.
 
-„Počkajte," povedal chrapľavým hlasom.
+„Max?" Tami za ním.
 
-Položil anténu na zem. Otočil sa.
+Ignoroval ju. Zrýchlil krok. Nie beh — vojenská chôdza. Efektívna.
 
-A začal kráčať späť.
+Sera bola dvadsať metrov hlbšie v tuneli. Zastavil sa.
 
-„Max?" zavolala za ním Tami. „Čo robíš?"
+Uklon. Japonský vojenský. Tridsať stupňov. Presný.
 
-Max neodpovedal. Kráčal rýchlejšie. Potom bežal.
+*Protokol. Rešpekt k nadriadenému dôstojníkovi. Ona to pochopí.*
 
-Dobehol na miesto, kde sa tunel rozširoval — tam, kde Sera zmizla do tmy. Zastavil sa. Pozrel do prázdnoty.
+„Sumimasen." Pauza. Japončina po tritisíc rokoch — rozbitá, nepoužiteľná. Prepol do spoločného jazyka. „Poznala si Netu Fujiwara?"
 
-A potom sa *uklonil*.
+Sera stuhla. Zlomok sekundy.
 
-Hlboko. Formálne. Japonský vojenský poklona — ten, čo ho učila Neto na NULL VOID, keď mal dvadsať rokov. Ruky pri tele, chrbát rovný, hlava sklopená presne tridsať stupňov.
+*Neto. Nie Inetis. Jej intímne meno.*
 
-Gesto úcty. Nie pre bohyňu. Pre veterana. Pre niekoho, kto poznal Neto. Pre niekoho, kto možno VIE.
+„NULL VOID. Kryobox. Čo sa stalo po páde?"
 
-Hlas sa mu triasol.
+Hlas kontrolovaný. Ale ruky — tie sa *trochu* triasli. Trinásť rokov. Prvý lead.
 
-„Sumimasen..."
+Sera pokračovala v chôdzi.
 
-Zastavil sa. Japončina v ústach po troch tisíc rokoch bola... zlá. Slová tam boli, ale gramatika rozbitá, prízvuk falošný. Ako stroj, čo sa snaží hovoriť ľudskou rečou.
-
-„...shitsumon ga arimasu."
-
-*Prepáč... mám otázku.*
-
-Ticho.
-
-Sera tam stála. V tme. Len silueta, dvadsať metrov ďalej, skoro neviditeľná. Ale Max cítil jej prítomnosť.
-
-„Poznala si Netu Fujiwara?" povedal Max — najprv po japonsky, potom sa odmlčal, frustrovaný vlastnými zlomenými vetami, a prepol do spoločného jazyka. Hlas plný desperácie. „Vieš čo sa s ňou stalo? Vieš kde je NULL VOID? Kde je—"
-
-Hlas sa mu zlomil.
-
-Veterán, ktorý nikdy neplakal. Veterán, ktorý videl svojich priateľov zomrieť v stovkách. Veterán, ktorý prežil pád civilizácie.
-
-A jeho hlas sa *triasol*.
-
-*Povedz mi ČO SA STALO. Povedz mi KDE JE. Povedz mi NIEČO. Čokoľvek. Prvá stopa za trinásť rokov — prosím, neodchádzaj bez odpovede.*
-
-Sera sa nezastavila. Pokračovala v odchode. Jeden krok. Dva.
-
-Potom stuhla.
-
-Dlhé ticho. Päť sekúnd. Desať.
-
-Max čakal. Srdce mu búšilo tak silno, že ho počul až v ušiach.
-
-*Povedala, že ma poznala. Musela ju poznať. Musí vedieť. ČO SA STALO?*
+Max neopakoval otázku. Čakal.
 
 Sera sa otočila.
 
@@ -511,28 +563,17 @@ Hlboký. Krásny. Strašný. Hlas, ktorý nebol z hrdla dvadsaťročnej ženy, a
 Hlas *pravdy*.
 
 „Poznala som ju."
+*[SERA — HLAS PRAVDY. Tri slová. Minulý čas. Kalkulácia: ŽIADNA. Toto je pravda — holá, bolestivá, neúplná. Sera VIE, čo ten minulý čas znamená pre Maxa. Vie, že mu láme srdce. Ale nemôže klamať. Nie týmto hlasom.]*
 
 Minulý čas.
 
-*Poznala. Nie poznám. Poznala.*
+Max zaregistroval. Spracoval. Archivoval.
 
-Nie "poznám". Nie "viem kde je". Nie žiadne odpovede.
+*Poznala. Nie poznám. Minulý čas = zmena stavu. Smrť? Odchod? Transformácia?*
 
-*Poznala.*
+Nedostatok dát. Príliš veľa možností.
 
-Minulý čas.
-
-Max pocítil, ako niečo v ňom puklo.
-
-*Minulý čas. Niečo sa stalo. Niečo ZLÉ.*
-
-Nie šok, že je mŕtva — on NEVEDEL, či vôbec žila. Ale toto... toto znamenalo ČO? Čo presne sa stalo? KDE je? ČO sa stalo s NULL VOID?
-
-Prvá stopa za trinásť rokov.
-
-A ona mu dala... minulý čas. Jedno slovo. Žiadne vysvetlenie.
-
-*ČO SA STALO?*
+*Lead. Neúplný, ale lead.*
 
 Sera sa zadívala priamo naňho. Oči čierne, nekonečné, plné niečoho staršieho než smútok. Pochopenie. Ako niekto, kto už videl túto scénu predtým.
 
@@ -542,16 +583,15 @@ A potom povedala — tým istým hlbokom, strašným, nádherným hlasom:
 V tej poslednej sa stretneme.
 A ty sa dozvieš všetko.
 Mne neprináleží ti odhaliť pravdu."
+*[SERA — HLAS PRAVDY. Proroctvo. Kalkulácia: toto NIE JE manipulácia. Toto je dar — cestovná mapa. Sera VIE, kam Max smeruje. Vidí budúcnosť? Nie. Ale vidí VZORY. 3467 rokov učí človeka rozpoznať osudy. "Mne neprináleží" = rešpekt k Elanii. Pravda patrí dcére, nie služobníčke.]*
 
 Každé slovo rezonovalo. Nie len zvuk — *vibrácia*. Akoby vzduch okolo nej pulzoval. Akoby samotná realita počúvala.
 
-Max stál zamrznutý. Každá bunka v jeho tele cítila *silu* toho hlasu. Cítila *váhu* toho proroctva.
+Max neprerušil očný kontakt.
 
-*Tri veže. Pravda na konci. Ale nie teraz. NIE TERAZ.*
+*Tri veže. Intel na konci. Časový rámec neurčený.*
 
-Frustrácia. Nie zúfalstvo. Nie zrútenie. Len čistá, spaľujúca frustrácia.
-
-*Prvá stopa. A ona mi nedá odpovede. Vie. A nepoví mi.*
+Prijateľné. Nie ideálne, ale prijateľné.
 
 Za ním — v tuneli — Tami a Kito stáli tiež zamrznutí. Tami mala zimomriavky po celom tele. Chvost jej stŕčal naškríto. Kito sa triasol, labky zovreté v päsť.
 
@@ -587,29 +627,29 @@ Max mlčal. Pozeral sa do prázdnoty.
 
 Potom — chrapľavým, napätým hlasom:
 
-„Niekto, kto vie odpovede. A nechce mi ich povedať."
+„Vie. A nepovie."
 
-*Prvá stopa za trinásť rokov. A ona mi dala... čo? Minulý čas. Proroctvo. Žiadne fakty.*
+*Minulý čas. Tri veže. Neúplný intel.*
 
-*Čo sa STALO, Neto? Kde je NULL VOID? Si mŕtva? Žiješ? Kde ťa mám hľadať?*
+Zhodnotenie: lead potvrdený. Cieľ: veže. Časový horizont: neurčený.
 
-*A ona vie. VIE. A nepovedala mi.*
+Kito klesol na kolená. Ruky sa mu triasli tak, že mapy vypadli na zem.
 
-Kito za nimi šepkal — hlas plný hrôzy a úcty súčasne:
+„Bohyňa," šepkal. Hlas sa mu lámal. „Bohyňa zo Zeme."
 
-„Bohyňa... to bola bohyňa."
+Pery sa mu pohybovali — stará modlitba, slová, ktoré sa učil ako dieťa.
+
+Tami sa na neho pozrela. Prvýkrát videla Kita — toho cynického akademika — *veriaceho*.
 
 „Nie," povedal Max ostro.
 
-Otočil sa k nim. Tvár ako kameň. Ale v tých čiernych jamkách, kde levitovali nanoboty, bol hnev. Kontrolovaný, no tam.
-
-„Len... niekto, kto poznal niekoho dôležitého. A nechce rozprávať."
+Otočil sa k nim. Tvár ako kameň. V tých čiernych jamkách bol hnev. Kontrolovaný, no tam.
 
 Prešiel okolo nich. Zodvihol anténu. Päťdesiat kilogramov — cítil to teraz. Cítil každý gram.
 
 „Ideme domov."
 
-Kráčal vpred. Kroky tvrdé, rozhodné, nahnevaný človek, čo dostal neúplnú odpoveď.
+Kráčal vpred. Kroky tvrdé, rozhodné. Vojak s misiou.
 
 Tami a Kito šli za ním.
 
@@ -633,16 +673,16 @@ Ale obaja cítili tú istú vec — ten istý chlad v chrbte, tie isté zimomria
 - DVA HLASY: Hlboký (business, starý, scary) vs Kawaii (fake cute, manipulačný)
 - 3000 rokov skúseností s manipuláciou — vie presne, ako hrať na inštinkty
 - Voice switching = uncanny valley effect, ale FUNGUJE (Tami to cíti, ale padne na to)
-- HAIKU SKRIPT MAJSTERKA: Najlepšia programátorka Gen 2 dronov na planéte
+- HAIKU SKRIPT MAJSTERKA: Najlepšia programátorka Gen 1 dronov na planéte
   - Otvorila bránu BÁSŇOU (nie príkazom) — 5-7-5 slabík
   - Maxove nanoboty CHCELI poslúchnuť JU, nie jeho
-  - Inetis ju učila 300 rokov
+  - Inetis ju učila stovky rokov (po pristátí ARK-11)
 - NINJA COMBAT: rýchla, efektívna, bez zbytočných pohybov
 - Yari PENETRUJE Hard Light štíty (špeciálne vs Apes)
 - PRIZNÁVA SLABOSŤ: Proti Maxovým nanodronom by prehrala (kinetický swarm je jej counter)
 - Slúži Elanii ako VOĽBA, nie podriadenosť — žiadne ambície vládnuť
 - Rovnako silná ako Elania, ale preferuje byť "čepeľ", nie leader
-- Ego flex: Kopnutie helmu, "hlúpe opice" (3200 rokov = občasné pohŕdanie)
+- Ego flex: Kopnutie helmu, "hlúpe opice" (tisícročia = občasné pohŕdanie)
 
 **Max-Sera dynamika:**
 - MUTUAL RECOGNITION: Veteran na veterana

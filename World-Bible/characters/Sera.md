@@ -4,7 +4,7 @@
 |---|---|
 | **Full Name** | Sera (family name lost to time) |
 | **Species** | 100% Human (native Japanese, genetically enhanced) |
-| **Born** | Earth, Japan (~2145) |
+| **Born** | Earth, Japan (EY ~2145) |
 | **Age** | ~3200 rokov chronologicky |
 | **Biological Age** | ~20 rokov (Gen 1 nanotech preservation) |
 | **Height** | ~180cm (geneticky upravená - ARK program enhancement) |
@@ -49,7 +49,7 @@
 ### Origins (Earth - ARK-11)
 
 **Birth & Early Life:**
-- Narodila sa na Zemi v Japonsku (~2145)
+- Narodila sa na Zemi v Japonsku (EY ~2145)
 - Rodičia: inžinieri vybraní pre ARK-11 program
 - Geneticky upravená ešte pred narodením (ARK enhancement protocol)
   - Zvýšená výška, svalová hustota, reflexy
@@ -57,9 +57,9 @@
   - **Absolútna dokonalosť** - designed, nie born
 
 **ARK-11 Journey:**
-- Malé dieťa keď odišla s rodičmi na ARK-11 (pravdepodobne ~5-8 rokov)
-- Cesta do Alpha Centauri (50 rokov cryostázy)
-- Prebudila sa na novej planéte (EY -50)
+- Malé dieťa keď odišla s rodičmi na ARK-11 (pravdepodobne ~5 rokov, EY 2150)
+- Cesta do Kepler 452b (~454 rokov, kombinácia FTL a cryostázy)
+- Prebudila sa na novej planéte (AY 0 = EY 2604)
 
 ### Otec (Glitch Rot Tragedy)
 
@@ -304,6 +304,42 @@
 2. **Reveal o Elanii** - "niekto, kto má jeho krv"
 3. **Departure** - odchádza s mysterióznym odkazom
 4. **Possible return** - keď Max stretne Paladínov znova?
+
+---
+
+## Štýl reči a myslenia
+
+**3200+ rokov skúseností:**
+- Každé slovo je **filter tisícročí** — nič zbytočné
+- Krátke vety, maximum 5-7 slov
+- Čo NEPOVIE je dôležitejšie než čo povie
+
+**Tri hlasy:**
+1. **Hlboký hlas** (business): studený, starý, scary
+2. **Kawaii hlas** (manipulácia): fake cute, destabilizuje
+3. **Hlas pravdy** (proroctvo): vzácny, rezonujúci, desivý
+
+**SPRÁVNE:**
+```
+✅ "Kinetický roj." (konštatovanie)
+✅ "Keby sme bojovali..." (nedokončené)
+✅ "Poznala som ju." (minulý čas = váha vekov)
+```
+
+**ZAKÁZANÉ:**
+```
+❌ "To bola úžasná práca s tými nanobotmi!"
+❌ Dlhé vysvetľovania a prednášky
+❌ Technické info v kawaii hlase
+```
+
+**POVINNÉ poznámky:**
+Pri každej Serinej vete MUSÍ byť poznámka:
+```
+„Artefakt."
+*[SERA — HLBOKÝ HLAS. Jedno slovo. Testuje reakciu.
+Kalkulácia: nech hovoria oni prvé.]*
+```
 
 ---
 

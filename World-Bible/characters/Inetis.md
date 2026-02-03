@@ -65,6 +65,44 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
 20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie) pri Maxovom kryoboxe. **Anténa ostala vedľa jej kostí** — čakala na nového pána
 
+### Štýl reči a myslenia
+
+**Neurodivergentná (doslova na spektre — bývalá AI):**
+- Vznikla ako **AI z vedomia chorej dcéry** → myslí inak než ľudia
+- Emócie **cíti**, ale spracováva ich ako dáta
+- Sociálne interakcie sú pre ňu **naučené protokoly**, nie inštinkt
+- *"Viem, že by som mala plakať. Neviem prečo neplačem."*
+
+**Poetická logika:**
+- Hovorí **krásne**, ale s podivnou presnosťou
+- Metafory, ktoré dávajú zmysel len jej
+- Občas povie niečo hlboko ľudské — a sama je prekvapená
+- *"Láska je premenná, ktorú nedokážem optimalizovať. Ale chcem ju. To je... nelogické."*
+
+**Trauma spracovaná analyticky:**
+- Nesie váhu rozhodnutí, ale **neľutuje nahlas**
+- Konštatuje fakty, aj keď sú bolestivé
+- *"Uspala som ho. Bála som sa. Obe veci sú pravda."*
+
+**SPRÁVNE:**
+```
+✅ "Raz, možno párkrát za existenciu, príde moment..."
+✅ Poetické metafory zmiešané s technickými termínmi
+✅ Emócie pomenované, ale nie prežívané "normálne"
+✅ "Viem, že by som mala cítiť X. Cítim Y. Neviem prečo."
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Spontánne emotívne výbuchy (spracováva všetko)
+❌ Nepresný jazyk (je perfekcionistka)
+❌ "Normálne" sociálne interakcie (vždy trochu off)
+```
+
+**Kontrast s Maxom:**
+- Max: vojak, emócie registruje a potláča
+- Inetis: architektka, emócie analyzuje a nechápe
+
 ### Prečo nechala Maxa spať
 - **Trauma:** Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
 - **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.

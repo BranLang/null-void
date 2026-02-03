@@ -27,5 +27,40 @@
 - **Súčasnosť**: Tyran, ktorý vedie vojnu s Juhom (Nevriss) — 5-ročná zima, nedostatok jedla, Juh odmieta obchodovať s "bezvercami"
 - Armáda primitívnych tankov a exoskeletonov
 
+### Štýl reči a myslenia
+
+**3300+ rokov (vojnový boh):**
+- Hovorí **pomaly, hlasno, s váhou**
+- Každé slovo je rozkaz
+- Nikto ho neprerušuje. Nikto.
+
+**Paranoidný tyran:**
+- Vidí zradu všade
+- Nedôveruje nikomu — ani sebe
+- *"Každý, kto má moc, ju chce pre seba."*
+
+**Bývalý spravodlivý vládca:**
+- Občas záblesky starého Gronda — múdrosť, férovosť
+- Ale vždy to prevalcuje paranoja
+- *"Kedysi som veril v spravodlivosť. Teraz verím len v silu."*
+
+**SPRÁVNE:**
+```
+✅ "Smrť je česť. Život je služba."
+✅ Krátke, úderné výroky
+✅ Vojenské metafory, rozkazy
+```
+
+**ZAKÁZANÉ:**
+```
+❌ Dlhé vysvetľovania (to je Kito)
+❌ Jemnosť, diplomacia (to je Mormiel)
+❌ Pochybnosti vyslovené nahlas
+```
+
+**Kontrast:**
+- Max: vojak, ktorý myslí
+- Grond: vojak, ktorý už len bojuje
+
 ### Citát
 > „Smrť je česť. Život je služba. A ja som večný."
