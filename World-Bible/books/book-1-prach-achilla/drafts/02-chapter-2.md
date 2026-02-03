@@ -98,9 +98,9 @@ Kunami sa zrútil. Prach namiesto skla.
 
 „Jeden," povedala Tami.
 
-Vlčica zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zachytili príkaz — Haiku skript, kompilovaný priamo do nanoswarmov. *FIRE.ignite() + AIR.vector(forward) → execute()*
+Vlčica zdvihla ruky. Oba pentagramy zažiarili.
 
-Plameň vyšľahol z jej dlaní.
+Plameň vyšľahol z jej dlaní — nie náhodne, nie divoko. *Smerovaný*. Ako raketa.
 
 Max sa pohol skôr, než sa dokončil príkaz. Úkrok vpravo, za pilier. Tlaková vlna preletela okolo neho a zasiahla ventilačný turbín. Kov zavrčal, žiaril do červena.
 
