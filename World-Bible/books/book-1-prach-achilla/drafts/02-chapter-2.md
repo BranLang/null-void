@@ -98,7 +98,7 @@ Kunami sa zrútil. Prach namiesto skla.
 
 „Jeden," povedala Tami.
 
-Vlčica zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zachytili príkaz — pentagraový kód, geometria preložená na binárku. *Element: OHEŇ. Vektor: VZDUCH. Execute.*
+Vlčica zdvihla ruky. Oba pentagramy zažiarili. Vzduch sa zvlnil — nie fyzicky, *digitálne*. Maxove nanoboty zachytili príkaz — Haiku skript, kompilovaný priamo do nanoswarmov. *FIRE.ignite() + AIR.vector(forward) → execute()*
 
 Plameň vyšľahol z jej dlaní.
 
