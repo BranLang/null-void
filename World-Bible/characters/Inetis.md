@@ -63,7 +63,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
-20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie) pri Maxovom kryoboxe. **Anténa ostala vedľa jej kostí** — čakala na nového pána
+20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maxov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba“ jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
 
 ### Štýl reči a myslenia
 

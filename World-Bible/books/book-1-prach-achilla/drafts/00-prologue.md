@@ -28,7 +28,7 @@ Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hem
 
 *Makita* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
 
-![Tami](../../assets/Tami/tami-fox.png)
+![Tami](./../../../characters/Tami/tami_shoraven.jpeg)
 
 ***
 
