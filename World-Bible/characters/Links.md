@@ -30,6 +30,10 @@
   - Detektor nanobotov (cíti Gen 1/2/3 signatúry)
   - Linux terminál (hackovanie dronov)
   - Scrambler (rušenie komunikácie)
+- **Sera's Laptop:** Ancient Relic (rok 2065).
+  - Gravírovanie `i_net_is`, Kawaii nálepky.
+  - **Powered by Spira Crystal** (retrofit od J-Seven).
+  - Obsahuje "Translation Engine" pre Gen 1/2 a **osobné denníky Inetis**.
 - **Vznášadlo:** Staré, opravované, ale spoľahlivé — jeho "biely kôň"
 
 ---
@@ -44,19 +48,36 @@
 - Mladí nemajú perspektívu — všetko je kontrolované, predvídateľné
 - Links chcel *vidieť svet* — nie len počúvať legendy
 
-**Útek:**
-- V 18 rokoch odišiel študovať na **Inštitút Exorcistov**
-- Vysoko v horách (miestne Andy/Himalaje)
-- Oficiálny dôvod: "Chcem slúžiť Terre"
-- Skutočný dôvod: **Chcem cestovať. Chcem vidieť všetko.**
+**Odhalenie Prodigy:**
+- Ako malé dieťa bol identifikovaný **Staršími** (vládnucou kastou Ludus) ako prodigy.
+- Bez publicity, v tichosti, bol poslaný na najlepšie školy.
+- Jeho talent na logiku a systémy bol zjavný — videl vzory tam, kde iní videli chaos.
 
-### Inštitút Exorcistov (4 roky)
+**Útek (oficiálny príbeh):**
+- Oficiálne sa hovorí, že utiekol.
+- V skutočnosti bol jeho "útek" a cesta na Inštitút ticho podporovaná Staršími, ktorí tušili jeho potenciál.
+- V 13 rokoch bol prijatý na **Inštitút Exorcistov (Observatórium)**.
+- Normálny vek prijatia je 20 rokov pre "najlepších z najlepších". On tam bol ako dieťa.
 
-**Štúdium:**
+### Inštitút Exorcistov (Observatórium)
+
+**Štúdium & Zlomová Práca:**
 - **Wraithológia:** História, správanie, slabiny Wraithov
 - **Linux:** Programovací jazyk nanobotov (základy Haiku skriptu)
 - **História Zeme:** Archanjeli, Ex Inferis, pád civilizácie
-- **Lore dumpy ako svina** — Links všetko vstrebával
+- **Záverečná práca (v 20 rokoch):** *"What If the Gods Left Source Code?"*
+    - **Teória:** Navrhol vytvorenie **Translation Enginu**, ktorý by dokázal rozlúštiť source code Gen 2 na základe poznatkov z Gen 1.
+    - **Hypotéza:** Gen 2 je ľahší na výrobu pretože nepotrebuje fyzické komponenty a vyžaduje minimálne množstvo vstupnej energie (efektivita kódu vs hrubá sila).
+    - **Reakcia Sera & Elania:** Prácu čítali a analyzovali. Boli fascinované, ale rozhodli sa **nezasahovať**.
+    - **Projekt "Lab Rat":** Mali jeho kompletný psychologický profil. Vnímali ho ako krehké dieťa a báli sa, že priamy kontakt by narušil jeho vývoj a charakter. Takže ho roky len **pozorovali** z tieňov, kým nedozrel.
+
+**2 Roky v Limbu (vek 20-22):**
+- Po obhajobe zostal na Observatóriu ako **asistent profesora**.
+- Ale **nebol šťastný**. Celý život strávil v bubline — školy, knihy, teórie.
+- Začal sa **flákať**, upadol do **depresie**.
+- Dni trávil **lezením po horách** a **pozeraním hviezd**.
+- Hľadal niečo viac. Chcel vidieť svet, nie len čítať o ňom.
+- *"Mám 22 rokov a nikdy som nevidel more."*
 
 **Špecializácia:**
 - Nie je bojovník — je **technický expert**

@@ -55,22 +55,78 @@ Kito je osamelý, vyčerpaný, a niekto ho konečne počúva. Povie viac, než b
 
 ---
 
-## Sera a Kniha
+## Sera: Dar a Plán (Lore Expansion)
 
-### Flashback: Pred odchodom
-Pred tým, než sa Links vydal na cesty, stalo sa niečo výnimočné.
+### Návšteva v Enkláve
+Pred tým, než sa Links vydal na cesty, stalo sa niečo výnimočné. Strávil v Enkláve Exorcistov (na Observatóriu) takmer desať rokov — prijatý bol ako **zázračné dieťa** už v 13-tich.
 
-**Sera ho navštívila osobne.**
+**Bomba v akademickej obci**
+V 20 rokoch Links obhájil svoju záverečnú prácu: *"What If the Gods Left Source Code?"*
+V nej teoretizoval o **Translation Engine**, ktorý by preložil Gen 2 kód pomocou Gen 1 logiky.
+Táto práca sa dostala až k Sere a Elanii.
+Roky ho len sledujú. Čakajú na správny moment.
 
-Sera — Archanjel, Iluzionistka — chodí za každým Exorcistom, ktorý prejde skúškou umožňujúcou vydať sa na cesty. Je to veľká česť. Väčšina ju nikdy v živote neuvidí.
+**"Mala som víziu."**
+Ten moment prišiel tesne pred jeho odchodom. Sera ho navštívila až vtedy, keď bol pripravený opustiť hniezdo.
+> *"Tvoja práca... je nebezpečná. Ale presná. Svet ťa bude potrebovať."*
 
-Vyriekla mu proroctvo:
+**Proroctvo (Haiku):**
+Sera mu zašepkala tri riadky — hlasom, ktorý mu zmrazil krv:
+```
+Čítaj jazyk hviezd.
+Uzdrav jednu, nájdeš dve.
+Líška zmení svet.
+```
+Links nerozumel. Ale zapamätal si každé slovo.
 
-> *„Choď a hľadaj. Cesta sa ti ukáže."*
+Sera vedela, že Links sa vydá na sever. Vedela, že jeho cesta bude kľúčová. A osobne sa postarala, aby to tak bolo.
 
-A dala mu **knihu haiku**.
+### Dary
+Sera mu pred odchodom z Neuropy darovala dve veci:
+1.  **Kniha Haiku**: Jej osobné poznámky zamaskované ako poézia. Kľúč k syntaxi gen 2.
+2.  **Prastarý Laptop**: Pre-Achilles Old Earth tech relic.
+    *   **Pôvod**: Sera naň zabudla. Bol uložený v **špeciálnom trezore** po dobu 2000 rokov, odkedy Inetis ("Neta") zmizla.
+    *   **Stav**: Batéria je mŕtva už storočia. Laptop je "tehla".
+    *   **Obsah**: Okrem technických dát obsahuje **osobné denníky Inetis** (z obdobia pred jej cestou do Cave of Ela — tam si viedla iný denník).
+    *   **Vzhľad**: Gravírovanie `i_net_is`, rok **2065**, poškriabané kawaii nálepky.
+    *   **Sera's Plan**: Sera verí, že **Unit J-Seven** dokáže využiť **Spira kryštály** na jeho napájanie a že Links ho dokáže hacknúť. To bol jej plán.
+    *   **Význam**: Rosetta Stone pre Gen 1/2 + osobný vhľad do mysle Inetis.
 
-Ale nebola to obyčajná kniha. Boli to **jej osobné poznámky** — zamaskované ako poézia.
+### Elania's Master Plan (executed by Sera)
+Celá Linksova cesta je súčasťou **Elaniinho grandiózneho plánu** na prevzatie moci. Sera je jej vykonlávateľkou — tieňovým operatom, ktorý súha nitky v pozadí.
+
+**Jej predpovede (ktoré sa plnia na 100%):**
+1.  **Cesta**: Links pôjde severnou cestou cez Graw do Shoravenu.
+2.  **Oprava (Hidden Setup)**:
+    *   **Noc Hrdinov**: Počas obliehania Shoravenu (keď Max a Tami porazili Paladínov a obrátili priebeh vojny), Sera tajne navštívila **Maka J-Seven**.
+    *   **Zadanie #1**: Nechala mu plány na **Spira batériu** s inštrukciou: *"Zastaví sa tu mladík s týmto laptopom. Priprav to."*
+    *   **Zadanie #2**: *"Pošli ho vyšetriť podivnú Spira chorobu. Žije tam muž menom Kito — jeho žena má problémy. Mladík bude vedieť pomôcť."*
+    *   **Výsledok**: Keď Links o týždne neskôr dorazí, J-Seven má batériu hotovú a pošle ho za Kitom.
+3.  **Kito**: Links stretne Kita, ktorý má chorú manželku. Tam Links prvýkrát použije opravený laptop a jej poznámky na "zázrak".
+4.  **Tami (The Matchmaking)**:
+    *   Kito je **loremaster** — povie Linksovi všetko o Maxovi a Tami.
+    *   Tami je teraz v Shoravene **legendou** — jej krása, inteligencia a hrdinstvo sú známe medzi mužmi.
+    *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them.
+    *   **Politický cieľ**: Nechať ich vládnuť v Nevriss = politické víťazstvo + začiatok **unifikácie kontinentov** (Links je zo Západu/Ludus, Tami z Juhu).
+    *   Links sa zamiluje do legendy ešte predtým, než ju stretne.
+5.  **Pomsta**: Tami sa pôjde pomstiť Mormiel (Požehnanej Matke).
+6.  **Voľba**: Mormiel si vyberie práve Tami pre rituál (pretože Tami sa dotkla Antény a má v sebe "Esenciu" — kľúčový prvok).
+
+**Cieľ plánu:**
+Sera chce pre Elaniu odstrániť Mormiel a na jej miesto dosadiť Tami. Potom chce **spojiť Tami a Linksa do zväzku** a založiť novú vládnucu dynastiu.
+*   **Prečo?** Takúto dynastiu bude môcť Elania ovládať.
+*   **Bonus:** Získa tým monopol na Gen 1 a Gen 2 nanotechnológie (Links má know-how, Tami má Esenciu).
+
+**The Grand Design (Elania's Endgame):**
+Elania chce **vládnuť celej planéte**. Links + Tami sú len prvý krok.
+*   **Veľký Upload**: Potrebuje, aby **všetci** participovali dobrovoľne.
+*   **Náboženstvo ako nástroj**: Najlepší spôsob je **brainwashovať Varietas cez náboženstvo** — aby sa ochotne nahrali.
+*   **Reveal**: Plánuje sa odhaliť ako **dcéra svätej matky Inetis**. Potrebuje podporu Cirkvi.
+*   **Tami + Links**: Ich vláda v Nevriss = kontrola Cirkvi = cesta k planetárnej dominancii.
+
+**Bod neistoty:**
+Jediná vec, ktorou si Sera nie je istá, je: **Zachráni ju Links?**
+Dúfa, že áno. Ale je to prvý bod, kde začína pochybovať. Preto bude **celý čas sledovať Linksovu cestu z tieňov** a zasahovať, ak by sa niečo pokazilo.
 
 ---
 
@@ -85,10 +141,12 @@ Ale nebola to obyčajná kniha. Boli to **jej osobné poznámky** — zamaskovan
 ### Hacking Spira IDE
 Links strávi hodiny pri Mayi:
 
-1. **Vlastnoručne napísaný compiler** — prepojí sa na Mayine systémy
-2. **Serina kniha** — poznámky mu pomáhajú dešifrovať syntax
-3. **Logy** — vidí, čo zlyhalo
-4. **Reboot** — restartuje systém
+1.  **Oprava laptopu**: (Flashback) Keď Links dorazil do Shoravenu, Mako J-Seven mu **v priebehu pár minút** vymenil mŕtvu batériu za žiarivý Spira kryštál. Links bol **šokovaný brilantnosťou** starého majstra — netušil, že J-Seven mal týždne na prípravu a presné plány od Sery. Laptop naskočí s logom NULL VOID.
+2.  **Pripojenie**: Napojí laptop na Mayinho nanobota (cez port alebo bezdrôtovo).
+3.  **Vlastnoručne napísaný compiler**: Prepojí staré API laptopu s novou Spirou.
+4.  **Serina kniha**: Poznámky mu pomáhajú dešifrovať syntax a obísť bezpečnostné protokoly.
+5.  **Logy**: Na obrazovke laptopu vidí to, čo nikto iný — "čistý kód". Vidí, prečo liečba zlyhala (glitch v replikácii).
+6.  **Reboot**: Reštartuje Mayin imunitný systém cez príkazový riadok.
 
 ### Výsledok
 - **Ruku nezachránili** — bola príliš poškodená
