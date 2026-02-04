@@ -30,13 +30,13 @@ Niektorí z nich mali okolo zápästí mystické tetovanie — Wa-Spira, dôkaz 
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
-Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé lode. Mali väčšie starosti.
+Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
 Odtiahla sa od motora a oprela si chrbát o stenu. Zavrela oči. Len na chvíľu.
 
-Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne sústredenie. Museli vypnúť motory míle pred prístavom a nechať loď kĺzať tichým pádom, aby ich nezachytili Grawské akustické zrkadlá na hrebeňoch hôr. Dokĺzať zotrvačnosťou do doku sedemnásť, s poškodeným kondenzátorom a vetrom v chrbte, bola hra nervov. Stačila jedna chyba a skončili by rozbití o útesy.
+Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne sústredenie. Museli vypnúť motory míle pred prístavom a nechať loď kĺzať tichým pádom, aby ich nezachytili Grawské akustické zrkadlá na hrebeňoch hôr. Dokĺzať zotrvačnosťou do doku sedemnásť, s poškodeným čerpadlom a vetrom v chrbte, bola hra nervov. Stačila jedna chyba a skončili by rozbití o útesy.
 
 Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
@@ -49,7 +49,7 @@ Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tv
 
 A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky.
 
-Tami bola v tom čase na východe. Počula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno "Spáč" šepkané v krčmách ako kliatba.
+Tami bola v tom čase na východe. Dopočula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno "Ynetis" šepkané v krčmách ako kliatba.
 
 A teraz bola tu. V meste, kde ich zabili. S plánom ukradnúť vec, za ktorú zomreli.
 
@@ -69,9 +69,9 @@ Poslala peniaze správnym ľuďom pred tromi dňami — starý trik, ktorý fung
 
 Rýchlo si utrela ruky do handry a vyšplhala sa len do polovice rebríka. Vystrčila hlavu z poklopu, tak aby ju nebolo vidieť, a nastražila uši. Zimné svetlo ju udrelo do očí — bledé, nízke slnko sa odrážalo od snehovej pokrývky na strechách okolo doku. Prižmúrila oči.
 
-Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke a nie priemyselné peklo pod sebou. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
+Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
 
-Oproti nemu stál oficier. Stredne vysoký Mezra v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — Ghorki s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom na oblohe a chvosty sa im nepokojne vlnili.
+Oproti nemu stál oficier. Stredne vysoký muz v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom na oblohe a chvosty sa im nepokojne vlnili.
 
 „Dobré ráno, vitajte v Šo." Prihovoril sa oficier a Tami stuhla.
 

@@ -167,9 +167,9 @@
 ## Vzťahy
 
 ### Rau & Kira (Paladíni)
-- **Jeho najlepší:** Elitní vojaci, ktorým dôveruje
-- **Diskrétni:** Pre misiu na Terre — potrebuje nenápadnosť
-- **Vzájomný rešpekt:** Goro ich neverbaluje — pozná ich schopnosti
+- **Rau (Crimson Vanguard):** Veliteľ Červenej Gardy. Nosí ťažkú zbroj s červeným chocholom a mosadznými prvkami. Agresívny, lojálny, Gorova "Päsť".
+- **Kira (Cobalt Guard):** Veliteľka Modrej Gardy. Strieborná zbroj, modrý chochol. Defenzívna špecialistka, Gorov "Štít".
+- **Vzájomný rešpekt:** Goro ich neverbaluje — pozná ich schopnosti. Sú to najlepší z najlepších.
 
 ### Zaya (Ishtar)
 - **Komunikácia:** Má holografické spojenie s ňou
