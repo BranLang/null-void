@@ -369,45 +369,21 @@ Majster sa neotočil prudko. To by bolo neefektívne a nezdvorilé. Jeho pohyb b
 
 „Sera-sama," povedal. Jeho hlas bol melodický, archaická japončina z čias pred Pádom. „Je to česť. A prekvapenie."
 
-Stála tam. Vysoká. Príliš dokonalá. Čierne vlasy zviazané v prísnom cope, tvár, ktorá nepoznala vrásky. Vyzerala na dvadsať. Bola mladšia než on – o celých päťdesiat rokov výrobného času. On bol *Hephaestus* generácia, rok 2098. Ona sa narodila až v 2145.
-
-A predsa... on bol len stroj. Ona bola Človek. A nie hocijaký. Ona bola *Sera*. Seniorita nebola o čase. Bola o podstate.
-
-„Vstaň, J-Seven," povedala. Hlas mala ako ľad praskajúci na jazere.
+„Vstaň, Karakuri-sama," povedala. Hlas mala ako ľad praskajúci na jazere.
 
 Podišla k stolu, kde Tami pred chvíľou sedela a pila čaj. Prstom v čiernej rukavici prešla po keramickej šálke. Zdvihla ju a privoňala.
-
-„Tá líška," povedala Sera. „Je to Chiméra."
-
-Nebola to otázka.
 
 „Je to dieťa, Sera-sama," odpovedal Majster, stále s hlavou mierne sklonenou. „*Mayoigo*. Stratená duša."
 
 Sera sa naňho pozrela. V tom pohľade nebola hrozba. Bolo tam niečo horšie. Absolútna istota.
 
-„Klamstvo je neefektívne, starý priateľ," povedala ticho. „Videla som jej chôdzu. Videla som jej svalové mikrozáchvevy. Varietas. Ale iná. Priveľmi... čistá."
-
 Majster mlčal. Jeho vnútorné ventilátory ticho zavrčali. Kalkulácia rizika: *Kritická*. Klamať Sere bolo ako chytať čepeľ holou rukou.
 
-„A ten muž," pokračovala Sera. „Ten, čo spí v zadnej miestnosti."
-
-„Zákazník. Oprava zbrane."
-
-„Yari," povedala Sera. Jedno slovo. Dopadlo do ticha ako kameň.
-
-Jej oči prešli na stenu, za ktorou, hlboko v dielni, ležal Maxov revolver a tá druhá vec.
-
-„Kinetická zbraň. Prach. Ale tá druhá..." Sera urobila krok k nemu. „Cítila som ju. Aj cez tie betónové steny. Rezonancia."
-
-Zastavila sa tesne pred ním. Majster bol starý model, konštruovaný pre odolnosť, nie pre krásu. Sera bola umelecké dielo genetiky.
-
-„Prečo si ich nechal ísť?"
+„Prečo si ju nechal ísť?"
 
 „Pretože ste o to nepožiadali, Sera-sama," odpovedal Majster. „A pretože... karma."
 
 Sera naklonila hlavu. Na zlomok sekundy sa na jej tvári objavil náznak... pobavenia?
-
-„Karma," zopakovala. „Zaujímavý koncept pre stroj."
 
 Otočila sa. Jej dlhý kabát zvíril prach, ktorý ani nestihol sadnúť.
 
@@ -417,11 +393,9 @@ Kráčala k východu. Každý pohyb bol symfónia efektivity. Žiadna energia na
 
 Pri dverách sa zastavila. Nedotkla sa kľučky.
 
-„Povedz mi, J-Seven," povedala bez toho, aby sa otočila. „Si o päťdesiat rokov starší než ja. Pamätáš si Zem lepšie?"
+„Povedz mi, Karakuri-sama," povedala bez toho, aby sa otočila. „Pamätáš si Zem?"
 
 „Pamätám si každú sekundu, Sera-sama."
-
-„Dobre," povedala. „Pretože ten muž... myslím, že on si pamätá tiež. A to je nebezpečné."
 
 Cinknutie zvončeka.
 
@@ -430,9 +404,6 @@ Dvere sa ani neotvorili.
 Sera bola preč.
 
 Majster stál v tichu dielne. Jeho vnútorné logy bežali šialenou rýchlosťou.
-*Scanning perimeter... Negative.*
-*Target status... Gone.*
-*System Integrity... Secure.*
 
 Pomaly, veľmi pomaly, sa otočil späť k svojmu čaju. Jeho kovové prsty, pokryté tisícročnou patinou, sa jemne zachveli.
 
