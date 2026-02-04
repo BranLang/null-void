@@ -198,13 +198,14 @@
 
 ## Relationships
 
-### Elania (Master/Friend)
-
+### Elania (Partner/Priateľka)
 **Dynamic:**
 - Sera = bodyguard, ale aj priateľka
 - Pozná Elaniu 2500+ rokov
 - Jediná osoba, ktorej Elania dôveruje úplne
-- **Sľub Inetis:** "Daj pozor na moju dcéru"
+- **Súkromná prezývka**: Sera volá Elaniu **"El"** — intimné, len medzi nimi
+- Sľub Inetis: *"Daj pozor na moju dcéru."*
+- Sera plní ten sľub už 1500+ rokov
 
 **Why Sera Serves Elania:**
 - **Elania je kreatívna** (ako jej matka Inetis) - šialená vedkyňa + leaderka

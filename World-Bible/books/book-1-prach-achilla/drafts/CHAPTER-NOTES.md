@@ -7,7 +7,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 ## Chapter 00: Prologue (00-prologue.md)
 
 **Key Events:**
-- Max + Tami prichádzajú do Shoravenu
+- Max + Tami prichádzajú do Šoravenu
 - Úplatok dockarom (500 zlatých)
 - Tami reveals identity (líščie uši)
 - Max/Tami conflict dialogue
@@ -15,7 +15,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 **Lore Notes:**
 - Max = superzrak vďaka nanotechu (nie slepý!)
 - Tami = Vulpini hybrid (zriedkavé)
-- Shoraven = bombardovaný Nevriss vs Cirkev
+- Šoraven = bombardovaný Nevriss vs Cirkev
 
 ---
 
@@ -37,7 +37,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 ## Chapter 02: Ozveny v Tme (02-chapter-2.md)
 
 **Key Events:**
-- Tunely pod Shoravenom
+- Tunely pod Šoravenom
 - **Experimenty fight** (Dren-medveď, kunami, Yara-vlčica)
 - **Paladíni encounter** (Rau & Kira)
 - Max cíti STRACH prvýkrát za 13 rokov
@@ -116,7 +116,92 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 - Max recognizes her as best Gen 2 programmer on planet
 - Veteran recognition: "Veteran na veterana. Zabijak na zabijaka"
 
-### MAX'S ACTUAL KNOWLEDGE STATE (CRITICAL):
+---
+
+## Chapter 04: The Golden Cage (04-links-stagnation.md)
+
+**Key Events:**
+- Links defends thesis: "Gods Left Source Code" (Archanjeli = Admini)
+- Erol grants him title **Scholaris**
+- Links experiences Ludus stagnation (perfect but dead)
+- Father gives him **Hover-Skiff Icarus-IV**
+- Links leaves Neuropa
+
+**Lore Notes:**
+- **Neuropa:** Solarpunk utopia, 5 mil. obyvateľov, stagnant
+- **Social Structure:** Majstri (vládnu), Adepti (študujú), Bežní ľudia (žijú v hedonizme)
+- **Religion:** Technocratic Deism (Stroje = Modlitby)
+- **Links' POV:** Cynical genius, sees reality as code
+
+---
+
+## Chapter 05: The Frozen Bridge (05-links-wolf-bridge.md)
+
+**Key Events:**
+- Links crosses ice bridge to Terra
+- Encounter with **Intelligent Wolves** (Mezra)
+- Test of Intellect: Links shares **Origin Story** instead of fighting
+- Gains safe passage
+
+**Lore Notes:**
+- **Wolves:** Not monsters, but intelligent tribal society
+- **Terra vs Neuropa:** Sharp contrast (Wilderness vs Garden)
+
+---
+
+## Chapter 06: The Cold Reality (06-links-culture-shock.md)
+
+**Key Events:**
+- Arrival in **Graw Coast** (Dieselpunk/Grimdark)
+- Witnessing **The Hunger** (sawdust bread)
+- **Moral Shock:** Neuropa feeds dinosaurs (Jurassic Park), Graw starves
+- Links realizes War is about Resources (Food), not ideology
+- Gives away rations, hides solar cloak
+
+**Lore Notes:**
+- **Graw:** Military dictatorship driven by hunger
+- **Jurassic South:** Elania's genetic playground consumes resources meant for people
+- **Links' Arc:** Tourist -> Witness
+
+---
+
+## Chapter 07: The City of Broken Heroes (07-links-aftermath.md)
+
+**Key Events:**
+- Links arrives in **Šoraven** (weeks AFTER the battle)
+- Witnesses aftermath: graves, amputees, ruins
+- Heals one person with Medi-Gel (runs out -> realizes scale problem)
+- Pub: Hears rumors of **The Fox** and **The Exorcist**
+- Meets **Sensei (J-Seven)** in Workshop
+- **Battery Mystery:** Sensei has exact replacement for 2000-year-old laptop
+- Directed to **Kito**
+
+**Lore Notes:**
+- **Sensei (J-7):** Different Synth than Felix (Kito's city)
+- **Sera's Shadow Plot:** J-7 had the battery ready *because Sera gave him the blueprints weeks ago* (during the siege). She knew Links would come. The "repair" was a setup to build Links' confidence.
+
+---
+
+## Chapter 08: The Antiquarian (08-links-antiquarian.md)
+
+**Key Events:**
+- Meets **Kito** (Antiquarian) and dying wife **Maya**
+- Kito tells story of Max & Tami (Eyewitness account)
+- **The Miracle:** Links hacks Spira (Growth_Rate) using Sera's Haiku book
+- Maya is saved
+- Kito gives map to **Nevriss** (Captain Vex, ship *Second Chance*)
+
+**Lore Notes:**
+- **Kito:** Eyewitness to Max's battles
+- **Spira Hack:** It's code manipulation, not magic
+- **Captain Vex:** Smuggler contact for next chapter
+- **Links' Arc:** Witness -> Participant (Healer)
+- **Sera's Shadow Plot:** Sera directed Links to Kito not just to save Maya, but so Kito would *tell Links about Tami*. It's a matchmaking scheme for political power (unification of North & South).
+- **Essence Transfer:** Kito reveals that Sera GAVE the Antenna to Tami (not Max). This is a critical lore point: Tami is now the "Carrier" of Inetis's Essence.
+- **Links' Motivation:** He doesn't see Tami as a "Chosen One" (mysticism). He sees her as an **Anomaly** (scientific curiosity). A Fox who uses Spira better than Masters? A creature that defies probability? He *needs to analyze her*.
+- **Sera's Secret Hobby:** **Manga Artist (Ecchi/Fan Service).** Despite being a 3000-year-old assassin, Sera loves "Kawaii" aesthetics and drawing. She sketches hyper-idealized, slightly erotic manga-style portraits of people she finds interesting (like Tami as a "Waifu"). Only Elania knows this secret. Links finding her drawing of Tami in Chapter 7 (and his subsequent blush/fascination) creates his initial obsession with the "Fox".
+
+---
 
 **What Max DOESN'T know:**
 - ❌ Čo sa stalo s Inetis
@@ -156,12 +241,11 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 - **NOT:** Hope → Death realization → Devastation
 - **Body language:** Fists clenched (frustration), not tears (devastation)
 
-**The Prophecy:**
+**The Prophecy (Haiku):**
 ```
-"Tvoja cesta ťa zavedie do troch veží.
-V tej poslednej sa stretneme.
-A ty sa dozvieš všetko.
-Mne neprináleží ti odhaliť pravdu."
+Tri veže prejdeš.
+V poslednej pravda čaká.
+Pravda patrí El.
 ```
 - Spoken in TRUTH MODE voice (not business, not kawaii)
 - Ancient, beautiful, terrible - sends shivers through everyone
