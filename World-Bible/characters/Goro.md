@@ -215,7 +215,7 @@
 
 ## Rola v príbehu
 
-### Kniha 1 (Prach Achilla)
+### Kniha 1 (Prach Nevriss)
 - **V pozadí:** Posiela Paladínov (Rau, Kira) do Shoravenu
 - **Cieľ:** Získať Anténu — artefakt, ktorý by mohol odomknúť tajomstvá nanotechnológií
 - **Intel:** Dostáva správy od Zayi o situácii na Terre

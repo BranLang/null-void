@@ -1,4 +1,4 @@
-# Chapter Notes - Book 1: Prach Achilla
+# Chapter Notes - Book 1: Prach Nevriss
 
 Tento súbor obsahuje dôležité poznámky, lore clarifications a character knowledge states pre jednotlivé kapitoly.
 
