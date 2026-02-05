@@ -5,6 +5,7 @@
 ## Rasy na Achille
 
 ### 1. Homo Sapiens Sapiens (Ľudia / "Čistí" / "Tí starí")
+**Hanlivé názvy (od Varietas):** "Kacíri" (Heretics — najrozšírenejší, narážka na to, že odmietajú Matku a Spiru), "Bledí" (Pale Ones — vyzerajú chorobne, bez srsťe, bez farieb), "Starokrvní" (Oldbloods — ich krv je stará, skazená, plná prachu namiesto života), "Fosílie" (žijú večne, ale sú zastaralí, patrí im minulosť, nie budúcnosť).
 **Pôvod:** Pôvodní kolonisti zo Zeme, Ex Inferis a ich priami potomkovia.
 
 **Biológia:** Vďaka špičkovej nanotechnológii zo Zeme, ktorú majú v telách od narodenia, nestarnú a sú imúnni voči chorobám. Dožívajú sa tisíce rokov, pokiaľ ich nezabije násilie alebo "Glitch" (preto sa po krizach a traumach minulosti boja technológie). Sú to "elfovia" tohto sveta.
@@ -17,7 +18,7 @@ Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú 
 - **Apex** - risa Opic kde vladne Cisar a je obklopeny paladinmi.
 
 ### 1. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
-**Hanlivé názvy:** "Zver", "Miešanci", "Hračky", "Krátkožijúci".
+**Hanlivé názvy (od ľudí):** "Hybridy" (najrozšírenejší slur, bežne používaný), "Zver", "Miešanci", "Hračky", "Krátkožijúci".
 
 **Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu).
 
