@@ -77,12 +77,11 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 *Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by ešte žili.
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Našli niečo — niečo, čo nemali nájsť.
-
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry v ruinách boli rutina, nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
 
 A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky.
 
-Tami bola v tom čase na východe. Dopočula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno "Ynetis" šepkané v krčmách ako kliatba.
+Tami bola v tom čase na východe. Dopočula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno „Ynetis" šepkané v krčmách ako kliatba.
 
 A teraz bola tu. V meste, kde ich zabili. S plánom ukradnúť vec, za ktorú zomreli.
 
