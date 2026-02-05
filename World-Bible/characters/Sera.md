@@ -113,6 +113,7 @@
 - **Lojálna** - sľub Inetis drží dodnes (chrániť Elaniu)
 - **Bez ambícií** - nechce vládnuť, nechce moc — chce len slúžiť niekomu zaujímavému
 - **Čistá hlava** - vie kto je, čo robí, a prečo. Žiadne ilúzie o sebe.
+- **Tsundere** - navonok hra ľadovej bohyne, „Anjel Smrti", nedotknuteľná. V súkromí? Kreslí **ecchi obrázky**. Skicár plný kreseb, o ktorých by sa Makovia modlili, keby vedeli. Nikto to nevie — okrem Elanie, ktorá sa z toho zabáva. (Links neskôr získa jeden z týchto obrázkov — kresbu Tami — a bude to pre neho point of no return.)
 
 **Similar to Mormiel:**
 - Veteránka tisícročí
@@ -307,6 +308,8 @@
 - **Praktizuje vampirizmus** (nie zo zla, z nutnosti - udržiava Gen 1+2 nanoboty)
 - **Geneticky upravená** - ARK program enhancement (výška, sila, reflexy)
 - **Uncanny valley effect** - vyzerá príliš dokonale, nie prirodzene
+- **Tajná umelkyňa** - v súkromí kreslí ecchi obrázky (tsundere gap moe). Elania vie a baví sa na tom. Jeden z obrázkov (kresba Tami) sa neskôr dostane k Linksovi cez Seru v Shorehaven — a stane sa pre neho posadnutosťou
+- **Zrkadlenie Heleny** — Sera je pre Elaniu tým, čím bola Helena pre Inetis: umelkyňa, emocionálna kotva, ženská spoločníčka. Aká matka, taká dcéra — obe preferujú ženskú spoločnosť a obe si vybrali umelkyňu (Helena maľovala, Sera kreslí). A obe o ňu prídu kvôli rozhodnutiu otca.
 
 ---
 
