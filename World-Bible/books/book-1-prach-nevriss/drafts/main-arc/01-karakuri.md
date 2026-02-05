@@ -10,7 +10,7 @@ Ale čo človeka zasiahlo ako úder do solárneho plexu, boli jej oči. Tyrkysov
 
 Na hrubom opasku obnosených nohavíc jej viseli automatické pištole a rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč.
 
-Jej zrak spočinul v kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
+Jej zrak spočinul na kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
 
 „Tami," ozval sa hlas spoza stola.
 
