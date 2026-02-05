@@ -19,56 +19,82 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 01: (01-chapter-1.md)
+## Chapter 01: Karakuri (01-chapter-1-heist-karakuri.md)
 
 **Key Events:**
-- Kito stretnutie
-- Felix references ("starého Maka, ktorý ma vychoval")
-- Tami slaps Kito
-- Prophecy explanation (Štyri Príchody)
+- Tami opravuje Makitu v prístave (kondenzátory, axiálne čerpadlo)
+- Max sa prezentuje ako Exorcista pred dokovými strážami
+- Tami reveals identity (líščie uši) — sociálne inžinierstvo
+- Tami naviguje mestom (prístav, tržnica, Remeselná štvrť)
+- **Mako workshop** — japonský rituál, objednávka čerpadla
+- **Outro:** Sera v dielni Karakuriho (shadow plot setup)
 
 **Lore Notes:**
-- Felix = Mako (série E), vychoval Maxa
-- Tami = skeptik ("A ja neverím v proroctvá")
-- Kito = knihovník, pozná zakázané texty
-
----
-
-## Chapter 02: Ozveny v Tme (02-chapter-2.md)
-
-**Key Events:**
-- Tunely pod Šoravenom
-- **Experimenty fight** (Dren-medveď, kunami, Yara-vlčica)
-- **Paladíni encounter** (Rau & Kira)
-- Max cíti STRACH prvýkrát za 13 rokov
-
-**Lore Notes:**
-- **Experimenty = rutina** pre Max + Tami ("Každý druhý týždeň")
-- Spira municia = drahá, efektívna proti Spira-regenerujúcim tvorom
-- **Paladíni = civilizačný stret** (unstoppable force vs immovable object)
-- Hard Light štíty = technológia, ktorú Max nepozná
-- Vibro-sekery (40kHz) = penetrujú 200mm kameň
-- **Paladíni z južných morí** - kontinent, čo nie je na mape
+- Felix = Mako (série E), vychoval Tami
+- Šoraven = pod Grawským obliehacím bombardovaním
+- Maki = záhadní tichí mechanici, najlepší technológovia na kontinente
+- Spira kryštály = palivo pre Makitu (lacné počas vojny)
+- Kastový systém: Pursang → Mezra → Ghorki (bez Spiry)
+- Sera shadow presence (navštívila Karakuriho, sleduje Tami)
 
 **Character Knowledge States:**
-- **Max:** Prvýkrát za 13 rokov cíti strach (Paladíni > Samaell threat level)
-- **Tami:** Nadel krátko penetroval Hard Light štít (important pre later)
-- **Kito:** Vie o Paladínoch z zakázaných textov, prvýkrát ich videl
-
-**Lore Fixes Applied:**
-- ❌ Pursang-líška Experiment → ✅ Mezra-vlk (líšky sú super rare)
-- ❌ "Starý jazyk" Spira príkazy → ✅ Show efekt, nie tech (no lore dump)
+- **Tami:** Vie o Chrámových kobkách, plánuje heist, hľadá Kita
+- **Max:** Prezentuje sa ako Exorcista (krytie), priťahuje pozornosť zámerne
+- **Sera:** Sleduje dianie, pripravuje pôdu (battery pre Linksa v budúcnosti)
 
 ---
 
-## Chapter 03: Sera - Čepeľ Elanie (03-sera-paladin-fight.md)
+## Chapter 02: Ulica Mŕtvych zvonov (02-chapter-2-heist-spáč.md)
 
 **Key Events:**
-- Tami + Kito stretnú Seru
-- **Sera vs Paladíni fight** (Sera = perfect counter)
-- Sera uses Haiku skript (opens gate with poetry)
-- Max asks about Inetis
-- **Sera's prophecy:** "Tri veže"
+- **Tami v krčme** — intelligence gathering, zisťuje info o Kitovi
+- Kito stretnutie (č. 42, starožitníctvo)
+- Maya reveal (Spira premena — mäso na kameň, nekonečná modlitba)
+- **Spáč reveal** — Max hovorí Starorečou (mŕtvy jazyk = nesmrteľný)
+- Kito identifikuje Maxa ako Štvrtý Príchod
+- Max ukazuje Black Dust Eyes
+- Tami facka Kito (panický záchvat)
+- **Bombardovanie** — Graw zaútočil, útok na tunely
+- **Kito-Maya rozlúčka** (expanded emotional beat)
+- Vstup do tunelov cez bitúnok
+
+**Lore Notes:**
+- **Staroreč (Angličtina)** = mŕtvy jazyk Prvej Éry, ekvivalent latinčiny. Nikto živý ňou nehovorí. Maki ju citujú mechanicky. Kito pochopil: kto ňou hovorí plynulo, nie je smrteľný.
+- **Štyri Príchody:** 1. Matka (Inetis), 2. Archanjeli, 3. [zakázaný], 4. Spáč (Max)
+- **Maya:** Pursang, Kitova žena. Našla zakázané skriptá, pomýlila sa v jednom slove → nekonečná Spira slučka → premena mäsa na kameň
+- Karakuri dal Tami hint na Kita (meno "Ciferník" + adresa)
+- Nadel = Tamina rapier (nemecké meno, Felix legacy)
+- 6 tepelných signatúr na konci = Experimenty v tuneloch (setup pre Ch3)
+
+**Character Knowledge States:**
+- **Max:** Vie, že artefakt je pod Chrámom. Nevedel o legende "Spáč". Použil Starorečou ako psychologickú zbraň.
+- **Tami:** Skeptická voči proroctvám. Videla Maxove oči z Prachu (nie prvýkrát). Efektívna pri intel-gathering.
+- **Kito:** Identifikoval Maxa ako Spáča. Zúfalý — Maya zomiera. Rozhodol sa ísť s nimi.
+
+**Lore Fixes Applied (v2.0):**
+- ❌ Chýbajúca Inn scéna → ✅ Pridaná krčma (intelligence gathering)
+- ❌ "rapier" (generic) → ✅ "Nadel" (proper name, introduced)
+- ❌ "pazúrom" → ✅ "prstom" (humanizácia Kita)
+- ❌ "zaskuwičal" → ✅ "zavzlykal" (správna slovenčina)
+- ❌ "Archaniela" → ✅ "Archanjela" (správny pravopis)
+- ❌ Raw notes bez diakritiky → ✅ Plne leštená próza
+- ❌ Rýchla Kito-Maya rozlúčka → ✅ Expanded emotional beat
+
+---
+
+## Chapter 03: Eláriina Čepeľ (03-chapter-3-heist-eláriina-čepel.md)
+
+**Key Events:**
+- **Interlude** (Glass City: Goro posiela Paladínov; Južné Územia: Elania + Sera scéna)
+- Tunely pod Šoravenom (atmosférický crawl, Max zachráni Kita)
+- **Experimenty fight** (3 pomenované — Yara, Dren, tretia; Kito zmrzne, Max+Tami zabíjajú)
+- **Nútený party split** (kolaps tunelov z Grawského bombardovania)
+- Tami + Kito stretnú Seru v tuneloch
+- **Sera otvára bránu** Haiku skriptom (Paladíni sa pokúsili a zlyhali)
+- **Sera vs Paladíni fight** (Sera = perfect counter, Yari vs Hard Light)
+- **Esencia transfer:** Sera odomkne Artefakt, podá ho Tami (NIE Maxovi) — Inetisina esencia prejde na Tami
+- Max asks about Inetis → frustrácia (incomplete info)
+- **Sera's prophecy:** "Hľadaj veže"
 - Sera vanishes
 
 **Lore Notes:**
@@ -87,7 +113,6 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 - **Haiku skript mastery:** Najlepšia Gen 2 programátorka na planéte
   - Inetis ju učila 300 rokov
   - Opens gate BÁSŇOU (5-7-5 slabík)
-  - Maxove nanoboty CHCÚ poslúchnuť JU
 - **Ninja combat:** Rýchla, efektívna, bez zbytočných pohybov
   - "Česť je len výhovorka pre nedostatok flexibility"
   - Kills from behind, no honor
@@ -272,7 +297,7 @@ Pravda patrí El.
 - Získala viac než artefakt - **intel o Maxovi**
 - Analyzovala jeho nanodrony = kinetický swarm (jej counter)
 - Splnila misiu: Confirm Max je nažive, reportovať Elanii
-- Nechala Anténu Maxovi (nie je to priorita)
+- Nechala Artefakt Tami (súčasť Elaniiného plánu — Tami = nosička Esencie Inetis)
 
 ---
 
@@ -405,6 +430,6 @@ Max nedýchal.
 
 ---
 
-**Last Updated:** 2026-02-03
-**Version:** 1.0
+**Last Updated:** 2026-02-05
+**Version:** 1.1
 **Maintainer:** NULL VOID Writing Team
