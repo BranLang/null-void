@@ -393,7 +393,7 @@ Kráčala k východu. Každý pohyb bol symfónia efektivity. Žiadna energia na
 
 Pri dverách sa zastavila. Nedotkla sa kľučky.
 
-„Povedz mi, Karakuri-sama," povedala bez toho, aby sa otočila. „Pamätáš si Zem?"
+„Povedz mi, Karakuri-sama," povedala bez toho, aby sa otočila. „Pamätáš si domov?"
 
 „Pamätám si každú sekundu, Sera-sama."
 

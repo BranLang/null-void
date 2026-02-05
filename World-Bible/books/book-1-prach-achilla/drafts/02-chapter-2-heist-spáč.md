@@ -25,7 +25,7 @@ Zastali pred ošarpaným obchodom so starožitnosťami. Vo výklade ležali zapr
 
 Mŕtvy zvon.
 
-Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa Felixa — starého Maka, ktorý ma vychoval — je to univerzálny kód pre 'nie som Grawská svina'."
+Tami zaklopala. Tri krátke, dva dlhé údery. „Podľa Felixa — starého Maka, ktorý ma vychoval — je to univerzálny kód pre 'nie som Grawská sviňa'."
 
 Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, mačacie oči. Zreničky sa v šere rozšírili, keď padli na Maxovu tmavú postavu a potom na Tamin rapier.
 
@@ -48,7 +48,7 @@ Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne za
 
 „Mako," zopakovala Tami."
 
-Ty si liska? spýtal sa Kito. To je nejaky hlupy vtip? Robite si zo mna srandu? Z mojho mena? Z mojho zivota? 
+Ty si líška? spýtal sa Kito. To je nejaky hlupy vtip? Robite si zo mna srandu? Z mojho mena? Z mojho zivota? 
 Kito je len legenda podla ktorej mam meno. Nic viac. Nic menej.
 
 „Viem, že nie je," povedala Tami ticho. „Vyrastala som v jeho ruinách. Tam, kde líšky dávajú dobrú noc a kde starí Maki učia deti, ako prežiť."
@@ -92,8 +92,6 @@ Kito zovrel päste. naznacil, ze potrebujem is k zdroju.
 Max ostal ticho. Pozeral sa na kryštalickú ruku ženy.
 *Nemôžem jej pomôcť,* prebehlo mu hlavou. *Som vojak, nie vedec. Nerozumiem tomuto svetu, nerozumiem ich „Spire" a môj Asistent hlási len „Neznáma patológia". Toto je nad moje sily.*
 
-Ale nahlas povedal niečo iné.
-
 „Môžeš nám pomôcť," povedala Tami a položila ruku na Kitovo rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
 
 Pri slove *Stvoriteľka* Pursang prestal dýchať.
@@ -102,7 +100,7 @@ Max pristúpil bližšie, ignorujúc telekinetický tlak, ktorý Kito podvedome 
 
 Potom sa naklonil bližšie a prešiel do jazyka, ktorý v tejto miestnosti — a možno na celom tomto kontinente — nezaznel v konverzácii už storočia.
 
-*„I am of the Old World, And I am looking for somebody, who can save her“*
+*„Som zo Starého sveta,“* povedal Max tvrdou Starorečou, každé slovo ostré ako štrkom sypaná cesta. *„A hľadám niekoho, kto tvoju ženu dokáže zachrániť.“*
 
 Kito stuhol, akoby dostal fyzickú ranu. Nebol to vulgárny dialekt zo Západu, aký používali Exorcisti. Nebola to skomolená liturgická reč kňazov. Bola to Staroreč. Čistá, archaická Angličtina. Takto rozprávali len Maki, keď citovali svoje protokoly.
 
@@ -116,13 +114,11 @@ Pozrel na Maxa s absolútnou hrôzou.
 
 „Spáč," vydýchol Kito.
 
-„Ten artefakt... on nepatrí Cirkvi," pokračoval roztrasene. „V starých textoch sa píše, že patril Jemu. Že cez neho hovoril s nebom. Že keď ho držal, svet ho počúval."
-
 Pozrel Maxovi priamo do tváre. „Ty si Štvrtý Príchod," vydýchol Kito.
 
 Tami stuhla. „Štvrtý príchod?" zopakovala. Hlas jej znel ostrejšie než rapier na jej opasku. „Felix mi o tom nikdy nehovoril. A ja neverím v proroctvá."
 
-„Prvý Príchod priniesol Matku," zašepkal Kito, ruky sa mu triasli. „Druhý Príchod priniesol Archanjelov. Tretí Príchod... o ňom sa nesmie hovoriť. A ty..." Pozrel na Maxa s absolútnou hrôzou. „Ty si štvrtý. Ten, ktorý zobudí sa zo Zeme. Ten, ktorý ukončí cyklus."
+„Prvý Príchod priniesol nás, deti Matky,“ zašepkal Kito, ruky sa mu triasli. „Druhý Príchod priniesol Archanjelov. Tretí Príchod boli Poslovia, stroje bez duše. A štvrtý...“ Pozrel na Maxa s absolútnou hrôzou. „Štvrtý je Koniec Dní. Keď sa zobudí Spáč.“
 
 Max mlčal. Nevedel o žiadnej legende. Ale vedel, čo Kito potrebuje vidieť.
 
@@ -133,7 +129,6 @@ V šere miestnosti sa jeho prázdne očnice naplnili tmou. Nie prázdnotou — *
 Kito cúvol. Narazil do stola. Knihy popadali na zem.
 
 „Hladame to iste co ty“ povedal Max jednoducho.
-
 
 
 Kito sa zviezol na stoličku, akoby mu niekto podrezal kolená. Pozrel na svoju zomierajúcu ženu, potom na bytosť z nočných môr, ktorá mu práve sľúbila pomoc. Strach bojoval so zúfalstvom.
