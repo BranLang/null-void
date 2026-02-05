@@ -25,7 +25,9 @@ Max sa prebúdza ako „troska“.
 
 - **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity.
 
-- **Vybavenie**: 
+- **Vybavenie**:
+  - **Samopal (Submachine Gun)** — starý relikt z pred-Pádovej éry. Maxova primárna bojová zbraň. Nabíjaný **nanodrónmi-pokrytými nábojmi** — strely obalené nanoprachom z exorcizovaných Wraithov, ktoré zbiera počas rokov práce ako Exorcista. Štandardná munícia pre bežný boj. Proti Hard Light štítom Paladínov neúčinné.
+  - **Eskalácia zbraní:** Samopal (bežný boj) → Black Dust swarm (keď dôjde munícia alebo extrémna hrozba). Black Dust = ultimátna zbraň, surový nanodronový roj z jeho očí/tela. Ťažké delostrelectvo.
   - **Anténa** — jediná fyzická pozostalosť lode NULL VOID., keď Inetis rozložila loď na nanodrony, Antena bola jedina vec, ktoru nerozlozila lebo ju potrebovala na stavbu Elysia. Ovláda goo roje Wraithov, prijíma signály. Maxov kryobox sa po prebudení rozpadol na prach — Anténa je posledná vec, čo z lode existuje okrem THE CORE.
     - **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač. Sochy Inetis sú niekedy zobrazované ako sochy putnicky s palicou — to je Anténa.
     - **Infiltrácia:** Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium, aj keď bolo mesto stratené pre všetkých ostatných.
