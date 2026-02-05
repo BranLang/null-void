@@ -1,6 +1,6 @@
 # Postavy
 
-![Max a Tami - Tech vs Magic](characters/Max/max_tami.jpeg)
+
 
 All character profiles have been moved to the `characters` directory.
 
