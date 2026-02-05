@@ -72,6 +72,18 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 - Max: pragmatik, vojak, fakty
 - Elania: vizionárka, umelkyňa, emócie
 
+### Zrkadlenie: Aká matka, taká dcéra
+
+| | **Inetis** | **Elania** |
+|---|---|---|
+| **Preferencia** | Ženská spoločnosť | Ženská spoločnosť |
+| **"Jej umelkyňa"** | Helena (maliarka, poetka, duša skupiny) | Sera (tajná ecchi kresliarka, tsundere bohyňa) |
+| **Vzťah** | Najlepšia priateľka, emocionálna kotva | Ochrankyňa, jediná konštanta 2500 rokov |
+| **Strata** | Helena zostala na Zemi — zomrela | Sera zomrie v dueli s Maxom |
+| **Príčina straty** | Rozkaz otca (Koordinátor) oddelil Inetis od Heleny | Rozhodnutie otca (Max) zastaviť Elaniu → zabije Seru |
+
+> **Dvakrát ten istý príbeh, dve generácie.** Inetis stratila svoju umelkyňu kvôli rozhodnutiu svojho otca. Elania stratí svoju umelkyňu kvôli rozhodnutiu svojho otca. Grécka tragédia v kruhu — dcéra opakuje matkin osud bez toho, aby to vedela.
+
 ### Konflikt s Maxom
 - Max: Bolesť je cena za to, že sme nažive
 - Elania: Digitálna existencia je čistá a večná

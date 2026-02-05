@@ -309,6 +309,7 @@
 - **Geneticky upravená** - ARK program enhancement (výška, sila, reflexy)
 - **Uncanny valley effect** - vyzerá príliš dokonale, nie prirodzene
 - **Tajná umelkyňa** - v súkromí kreslí ecchi obrázky (tsundere gap moe). Elania vie a baví sa na tom. Jeden z obrázkov (kresba Tami) sa neskôr dostane k Linksovi cez Seru v Shorehaven — a stane sa pre neho posadnutosťou
+- **Zrkadlenie Heleny** — Sera je pre Elaniu tým, čím bola Helena pre Inetis: umelkyňa, emocionálna kotva, ženská spoločníčka. Aká matka, taká dcéra — obe preferujú ženskú spoločnosť a obe si vybrali umelkyňu (Helena maľovala, Sera kreslí). A obe o ňu prídu kvôli rozhodnutiu otca.
 
 ---
 
