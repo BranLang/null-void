@@ -6,23 +6,23 @@
 | **Meno** | **Helena** (prezývka: **Ela**) |
 | **Pôvod** | Ex Inferis — preživší Glitch Eventu |
 | **Vek pri smrti** | Neznámy (~30-50 rokov subjektívne) |
-| **Rola** | Najlepšia priateľka Inetis, bojovníčka, symbol obety |
+| **Rola** | Najlepšia priateľka Inetis, umelec, emocionálna kotva |
 
 ---
 
 ## Kto bola Helena?
 
-Helena bola jednou z **Ex Inferis** — preživších Glitch Eventu (~EY 2060), ktorí dostali od Inetis „Prvý Dar" (nanoboty). Bola Inetisinou **najlepšou priateľkou** — jedna z mála bytostí, ku ktorým si Inetis vytvorila skutočné puto.
+Helena bola jednou z **Ex Inferis** — preživších Glitch Eventu (~EY 2065), ktorí dostali od Inetis „Prvý Dar" (nanoboty). Bola Inetisinou **najlepšou priateľkou** — jedna z mála bytostí, ku ktorým si Inetis vytvorila skutočné puto. Nebola vojakom, bola jej srdcom.
 
 ### Osobnosť
-- **Bojovníčka**: Zatiaľ čo Inetis bola architektka a tvorca, Helena bola vojak. Priama, temperamentná, ochranárska.
-- **Protiklad Inetis**: Inetis analyzovala emócie — Helena ich *žila*. Dopĺňali sa.
-- **Lojalita**: Helena bola bezvýhradne lojálna. Nebojovala za ideu, bojovala za ľudí, ktorých milovala.
+- **Umelec**: Zatiaľ čo Inetis bola architektka a tvorca systémov, Helena bola tvorca krásy. Bola maliarka, poetka, duša skupiny.
+- **Temperamentná**: Bola plná emócií. Hnevala sa, smiala sa, plakala. Pre Inetis, ktorá mala problém s vyjadrovaním citov, bola Helena prekladateľom ľudskosti.
+- **Jemná a Starostlivá**: Nebojovala zbraňami, ale empatiou. Starala sa o ostatných, keď boli zranení na tele alebo na duši.
 
 ### Vzťah s Inetis
-- **Najlepšie priateľky**: V komunite Ex Inferis boli neoddeliteľné. Helena bola tá, ktorá Inetis "uzemnila" — pripomínala jej, že je aj človek, nie len AI.
-- **Ochrankyňa**: Helena sa stavala medzi Inetis a nebezpečenstvo. Viackrát jej zachránila život počas nepokojov na Zemi.
-- **Konflikt**: Keď Inetis oznámila, že uteká so spiacou dcérou a Maxom na lodi NULL VOID, Helena odmietla ísť. Povedala, že musí zostať a bojovať.
+- **Najlepšie priateľky**: V komunite Ex Inferis boli neoddeliteľné. Helena bola tá, ktorá Inetis "uzemnila" — pripomínala jej, že život nie je len o prežití, ale aj o prežívaní.
+- **Ochrankyňa**: Helena sa stávala medzi Inetis a svet nie fyzickou silou, ale emocionálnou podporou. Chránila jej ľudskosť.
+- **Konflikt**: Keď Maximilán prišiel evakuovať Inetis, Helena povedala, že tomu rozumie a že je to tak správne. Ale zlomilo jej to srdce. Bola to osobná tragédia.
 
 ---
 
@@ -52,9 +52,7 @@ Max bol vojak. Nemohol rozkaz odmietnuť. A Koordinátor vedel, koho poslať —
 
 Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam a dívala sa, ako jej najlepšia priateľka odchádza s mužom, ktorého sotva poznala.
 
-Neprestala bojovať. Bojovala až do konca. **Zahynula** v mimozemskej vojne na Zemi.
 
-Inetis sa to dozvedela až roky po pristátí na Achillovi — keď zachytila staré rádiové signály z ARK flotily. Helena bola na zozname mŕtvych.
 
 ---
 
@@ -67,7 +65,7 @@ Inetis sa to dozvedela až roky po pristátí na Achillovi — keď zachytila st
 > **Mytologická paralela:**
 > Planéta sa volá **Achilles**. V gréckej mytológii bol Achilles bojovník Trójskej vojny — vojny, ktorú spustila **Helena Trójska**.
 >
-> Helena (Ex Inferis) zostala bojovať na Zemi a zahynula. Jej meno žije na planéte Achilles — v jaskyni **Ela** a v dcére **Elania**.
+> Helena (Ex Inferis) zostala na Zemi a zahynula. Jej meno žije na planéte Achilles — v jaskyni **Ela** a v dcére **Elania**.
 >
 > *Helena spustila vojnu na starej Zemi. Jej odkaz žije na novom svete.*
 
