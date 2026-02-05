@@ -16,6 +16,21 @@
 - Preto ho piráti zabili tak ľahko — už nebol ten, čo býval
 - Žil medzi Vulpini, splynul s nimi — ale **modré oči** ho vždy odlišovali
 
+### Rozlúčka s Inetis:
+- Renn **sprevádzal Inetis do jaskyne** (kde vstúpila do Core na Elysium)
+- Pri jaskyni sa ich cesty rozišli — **Inetis dovnútra, Renn na východ** do Kito (Kitsune krajina)
+- Renn vedel, že sa už nikdy neuvidia
+- **Neboli pár** — len kamaráti. Inetis bola veľmi utrápená, nesúca ťarchu sveta na pleciach.
+- **Inetis mu dala úlohu:** pomáhať líškam, čo prežili vojnu o Spiru, a počkať na **Tretí príchod (Maki)**
+- Renn túto úlohu prijal — odišiel na východ a žil medzi Vulpini ako jeden z nich
+
+### Renn ako hľadač pokladov:
+- Renn bol **veľmi úspešný hľadač pokladov** — nie šťastím, ale tým, že **vedel kde hľadať**
+- Poznal Achilles z doby, keď bol svet ešte mladý — vedel o miestach, ruinách, úkrytoch
+- **Mapa, ktorú Tami zdedila** — Renn ju **kúpil**, lebo to bola **jeho vlastná mapa**, ktorú nakreslil pred stovkami/tisíckami rokov
+- Niekto ju medzitým našiel, predával ju — a Renn ju kúpil späť. **Sentimentálna hodnota.**
+- Pre Tami je to "otcova mapa". Netuší, že ju nakreslil sám Renn dávno pred jej narodením.
+
 ---
 
 ## Tamina matka
