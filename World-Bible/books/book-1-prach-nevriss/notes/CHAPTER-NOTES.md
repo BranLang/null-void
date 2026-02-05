@@ -1,10 +1,46 @@
-# Chapter Notes - Book 1: Prach Achilla
+# Chapter Notes - Book 1: Prach Nevriss
 
 Tento súbor obsahuje dôležité poznámky, lore clarifications a character knowledge states pre jednotlivé kapitoly.
 
 ---
 
-## Chapter 00: Prologue (00-prologue.md)
+## File Structure
+
+```
+drafts/
+├── CHAPTER-NOTES.md          (tento súbor)
+├── main-arc/                  (Max & Tami — Heist cez Night of Heroes)
+│   ├── 00-prologue.md
+│   ├── 01-karakuri.md
+│   ├── 01.1-interlude-far-from-snow.md
+│   ├── 02-dead-bells.md
+│   ├── 03-elanias-blade.md
+│   ├── 04-mother-and-fire.md
+│   ├── 05-blood-ritual.md
+│   ├── 06-sky-hammer.md
+│   ├── 07-awakening.md
+│   └── 08-epilogue-blockade-run.md
+├── links-arc/                 (Links — paralelná línia)
+│   ├── 01-golden-cage.md
+│   ├── 02-desolation.md
+│   └── 03-antiquarian.md
+└── archive/                   (staré stuby a draft materiál)
+    ├── prologue-1-draft-kael-samaell.md
+    ├── chapter-5-draft-stub.md
+    ├── chapter-6-draft-stub.md
+    └── chapter-7-draft-stub.md
+```
+
+**Reading Order:** Prologue → Ch1 → Interlude → Ch2 → Ch3 → Ch4 → Ch5 → Ch6 → Ch7 → Epilogue
+**Links Arc** prebieha paralelne (chronologicky po Night of Heroes, ale čítané preložené medzi hlavnými kapitolami)
+
+---
+
+## MAIN ARC
+
+---
+
+## Chapter 00: Prologue (main-arc/00-prologue.md)
 
 **Key Events:**
 - Max + Tami prichádzajú do Šoravenu
@@ -19,7 +55,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 01: Karakuri (01-chapter-1-heist-karakuri.md)
+## Chapter 01: Karakuri (main-arc/01-karakuri.md)
 
 **Key Events:**
 - Tami opravuje Makitu v prístave (kondenzátory, axiálne čerpadlo)
@@ -44,7 +80,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 02: Ulica Mŕtvych zvonov (02-chapter-2-heist-spáč.md)
+## Chapter 02: Ulica Mŕtvych zvonov (main-arc/02-dead-bells.md)
 
 **Key Events:**
 - **Tami v krčme** — intelligence gathering, zisťuje info o Kitovi
@@ -82,7 +118,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 03: Eláriina Čepeľ (03-chapter-3-heist-eláriina-čepel.md)
+## Chapter 03: Elaniiná Čepeľ (main-arc/03-elanias-blade.md)
 
 **Key Events:**
 - **Interlude** (Glass City: Goro posiela Paladínov; Južné Územia: Elania + Sera scéna)
@@ -96,6 +132,12 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 - Max asks about Inetis → frustrácia (incomplete info)
 - **Sera's prophecy:** "Hľadaj veže"
 - Sera vanishes
+- **Kira self-destruct:** Ochromená Kira aktivuje autodestrukciu (Predator-style, 30s odpočítavanie)
+- **Kira-Rau farewell:** Kira sa rozlúči s Rauom v mutovanej angličtine (nikto nerozumie, Kito si myslí kliatbu, Tami rozpozná tón rozlúčky)
+- **Útek z tunelov:** Dramatická evakuácia, Max stráca samopal M4A1 (prasknutý popruh), Tami stráca pištoľ (voda vytrhla z puzdra), Kito stráca okuliare
+- **Kolaps Chrámu Matky:** Detonácia zničí kobky (200m polomer), Chrám sa prepadne do základov (veža, kupola, celý chrám)
+- **Panika v meste:** Obrancovia si myslia, že Chrám zničil Graw → panika, obranné línie sa rúcajú
+- **Výsledok:** Tím unikne len s artefaktom (Anténa), bez zbraní
 
 **Lore Notes:**
 
@@ -128,6 +170,38 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
   - Nevyspytateľná - Sera jej stále úplne nerozumie
   - To sa Sere páči (všetko ostatné je nudné)
 
+### Apes Language:
+- Jazyk Apes je **silne zmutovaná angličtina** — tisícročia izolácie na južnom kontinente
+- Hrdelná, rytmická, plná spoluhlások, ktoré severné jazyky nepoznajú
+- Severania (Max, Tami, Kito) **nerozumejú** — zachytia len tvary slov, ktoré kedysi mohli byť angličtinou
+- Kito si myslí, že je to kliatba; Tami rozpozná tón (rozlúčka) bez porozumenia slov
+
+### Kito Knowledge Limits:
+- **Nevie** že južný kontinent sa volá Aprika
+- **Nevie** že Apes sa volajú Apes
+- **Vie** len legendy z námorníckych denníkov: „obri z juhu" v nepriestrelnom brnení
+- Keď Sera povie „hlúpe opice" — Kito si mentálne zapíše: *Volá ich opice. Píšem si.*
+
+### Paladín Self-Destruct:
+- Panel na predlaktí brnenia, symboly neznáme (nie Spira, nie angličtina — z juhu)
+- Aktivácia možná aj pri paralýze (Kira = prerušená chrbtica, ale ruky funkčné)
+- 30-sekundové odpočítavanie → energetická kaskáda → 200m polomer deštrukcie
+- Účel: zabrániť pádu technológie do rúk Nevrissu
+- Premení Paladínov, zbrane, štíty na „žiarivú hmlu" — infrazvukový kolaps
+
+### Equipment Losses (Ch3):
+- **Max:** Stráca samopal M4A1 + 3 zásobníky nanodronovej munície (popruh praskol v tuneli)
+- **Tami:** Stráca pištoľ (voda vytrhla z puzdra pri brodení)
+- **Kito:** Stráca okuliare (stratené v tuneloch)
+- **Zachránené:** Len artefakt (Anténa) v Taminých rukách
+- Asistent: „Straty: samopal M4A1, 3 zásobníky. Zisk: Anténa."
+
+### Chrám Matky Collapse:
+- Najstaršia svätyňa na severnom kontinente — zničená collateral damage
+- Nikto nevidel pravú príčinu (Paladíni pod zemou)
+- Obrancovia Šoravenu vinia Graw → panika → obranné línie sa rozpadajú
+- Lore dopad: politický + náboženský šok pre celý sever
+
 ### Fight Choreography:
 - **Duration:** ~15 sekúnd
 - **Strategy:** Max + Tami = distraction, Sera = finisher
@@ -143,7 +217,112 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 04: The Golden Cage (04-links-stagnation.md)
+## Chapter 04: Matka a Oheň (main-arc/04-mother-and-fire.md)
+
+**STATUS: ZRUŠENÁ** — kaplnka scéna presunutá na koniec knihy (cliffhanger)
+
+Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
+
+**Dôvod:** Ch3 teraz končí kolapsom Chrámu Matky. Kobky zasypané. Kaplnka bude použitá na konci knihy.
+
+**Pôvodné Key Events (pre referenciu):**
+- Max + Kito nájdu pravú sochu Inetis pod Chrámom (nanokompozit kaplnka)
+- Inetis = ľudská žena v blate, biele vlasy, fialové galaxie v očiach, žiadne zvieracie znaky
+- Cirkev zmenila pravú podobu Matky
+- Max pozná tvár z kryoboxu
+
+---
+
+## Chapter 05: Krvavý Rituál (main-arc/05-blood-ritual.md)
+
+**Key Events:**
+- **Piata noc obliehania** — Graw metodicky ničí predmestie (Verdun doktrína)
+- Max bez samopalu — používa pušky z mŕtvych, šetrí Prach
+- **Max prevezme velenie** nad ustupujúcimi obrancami (seržant Bran)
+- Cíti sa ako ryba vo vode — Generál Pozemskej Obrany znova velí
+- WW2 urban warfare: boj v uliciach, domoch, pivniciach
+- Drónová senzorická sieť = vidí celé bojisko, dáva presné inštrukcie
+- **Matematika neoblomná** — nedá sa vyhrať konvenčne → Blood Ritual
+- **Blood Ritual:** Extrakcia 97% nanobotov cez kožu (krv, bolesť, zraniteľnosť)
+- FPV pohľad roja — preletí 6 km nad Grawskými líniami
+- **Grond pri delostrelectve** vo veliteľskom stane (nie v tanku)
+- Nanoboty preniknú cez štít informáciou (frekvencia), vnikajú cez nos/uši/oči
+- **Antiklimatická smrť:** 7 sekúnd. Grond padne tvárou do máp. Nikto nechápe prečo.
+- **Cena:** 32% nanobotov sa nevráti (trvale). Max v kritickom stave (4h bez návratu = smrť)
+- Grawská armáda stratí hlavu — batéria stíchne, pechota bez rozkazov
+
+**Lore Notes:**
+- Blood Ritual = maximálna eskalácia. Max to robí len keď niet inej možnosti.
+- Nanoboty opúšťajú telo cez póry — krv + strieborná hmota, tisíce mikroskopických rán
+- Oči sa zrieďujú (Čierny Prach odchádza) → Max takmer oslepne počas rituálu
+- Grond = Generál, nie vojak. Velí z bezpečnej vzdialenosti (6 km). Max to rešpektuje.
+- Seržant Bran = nový NPC, jednooký Mezra veterán, velí obrancov na Tretej hradbe
+- Kito počas Night of Heroes: pri Maye v podzemnom úkryte, mapy tunelov pomáhajú civilistom
+- Tami: opravuje kompresor na Felixovi (setup pre Ch6)
+
+**Character Knowledge States:**
+- **Max:** Velenie = jeho element. Ale vie, že pušky nestačia. Blood Ritual = posledná možnosť.
+- **Obrancovia:** Nevedia, čo Max urobil. Len vedia, že Graw sa zastavil.
+- **Grawská armáda:** Grond zomrel "z ničoho nič" — žiadne vysvetlenie, žiadny nepriateľ
+
+**Status:** HOTOVO (plná próza, rev 3 rewrite — 366 riadkov, 7 častí)
+
+---
+
+## Chapter 06: Nebeské Kladivo (main-arc/06-sky-hammer.md)
+
+**Key Events:**
+- Makita vzlietne ako vojnová loď (Felix = 122mm kanón)
+- Max naviguje Tami ako targeting system (zvyšné nanoboty ako senzory)
+- Tami ničí Grawský muničný sklad a tankovú kolónu
+- Grawská armáda ustupuje v panike
+- **Valkýra** (Grawská stíhačka) zasiahne Makitu
+- Max padá z veže
+
+**Status:** HOTOVO (plná próza, 108 riadkov)
+
+---
+
+## Chapter 07: Prebudenie (main-arc/07-awakening.md)
+
+**Key Events:**
+- Max padá do snehu, na hranici smrti
+- Flashback vízie (Inetis, ARK ship, Grondov duch)
+- Nanoboty vyčerpané, telo kolabuje
+- Tami ho nájde, zúfalá
+- Max: "Anténa... ochráň Anténu" — Tami: "Kašlať na Anténu!"
+
+**Lore Notes:**
+- Paralela s prebudením z AY 3000 (obe scény v snehu)
+- **Archive material:** `archive/prologue-1-draft-kael-samaell.md` obsahuje Kael/Samaell duel + Max-v-klietke scénu, ktorá patrí do flashbacku tohto chapter
+
+**Status:** HOTOVO (plná próza, 83 riadkov) — flashback scéna z archive ešte neintegrovaná
+
+---
+
+## Chapter 08: Epilóg — Pasca v Zálive (main-arc/08-epilogue-blockade-run.md)
+
+**Key Events:**
+- Rozlúčka s Kitom (ostáva s Mayou v Šoravene)
+- Max, Tami a Links nastupujú na Druhú Šancu (Kapitánka Vex)
+- Links naviguje cez mínové pole pomocou laptopu (hackne Grawský sonar)
+- Únik popri Krakenovi (Graw bojuje s monštrom)
+- Smer: Nevriss
+
+**Lore Notes:**
+- Makita potopená v plytčine (Tami sa pre ňu vráti)
+- Vex = pašeráčka, Felis (mačkovitá), páska cez oko, dva blastery, loď z kusov iných lodí
+- Links dokazuje svoju hodnotu (technická navigácia)
+
+**Status:** HOTOVO (plná próza, 138 riadkov)
+
+---
+
+## LINKS ARC (paralelná línia)
+
+---
+
+## Links Ch1: The Golden Cage (links-arc/01-golden-cage.md)
 
 **Key Events:**
 - Links defends thesis: "Gods Left Source Code" (Archanjeli = Admini)
@@ -160,7 +339,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 05: The Frozen Bridge (05-links-wolf-bridge.md)
+## Links Ch2: The Frozen Bridge + The Cold Reality (links-arc/02-desolation.md)
 
 **Key Events:**
 - Links crosses ice bridge to Terra
@@ -174,23 +353,19 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 06: The Cold Reality (06-links-culture-shock.md)
+## Links Ch2 (continued): The City of Broken Heroes + Antiquarian (links-arc/02-desolation.md & links-arc/03-antiquarian.md)
 
-**Key Events:**
+**NOTE:** Draft `02-desolation.md` obsahuje Wolf Bridge + Graw Coast + Shoraven Aftermath + J-Seven scénu.
+Draft `03-antiquarian.md` obsahuje Kito + Maya healing + Vex/Second Chance odchod.
+
+**Key Events (Graw Coast):**
 - Arrival in **Graw Coast** (Dieselpunk/Grimdark)
 - Witnessing **The Hunger** (sawdust bread)
 - **Moral Shock:** Neuropa feeds dinosaurs (Jurassic Park), Graw starves
 - Links realizes War is about Resources (Food), not ideology
 - Gives away rations, hides solar cloak
 
-**Lore Notes:**
-- **Graw:** Military dictatorship driven by hunger
-- **Jurassic South:** Elania's genetic playground consumes resources meant for people
-- **Links' Arc:** Tourist -> Witness
-
----
-
-## Chapter 07: The City of Broken Heroes (07-links-aftermath.md)
+**Key Events (Shoraven Aftermath):**
 
 **Key Events:**
 - Links arrives in **Šoraven** (weeks AFTER the battle)
@@ -207,7 +382,7 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 
 ---
 
-## Chapter 08: The Antiquarian (08-links-antiquarian.md)
+## Links Ch3: The Antiquarian (links-arc/03-antiquarian.md)
 
 **Key Events:**
 - Meets **Kito** (Antiquarian) and dying wife **Maya**
@@ -299,6 +474,18 @@ Pravda patrí El.
 - Splnila misiu: Confirm Max je nažive, reportovať Elanii
 - Nechala Artefakt Tami (súčasť Elaniiného plánu — Tami = nosička Esencie Inetis)
 
+**Kira (Paladínka):**
+- Ochromená (Sera prerušila chrbticu), ale ruky funkčné
+- Aktivovala autodestrukciu — zabránila pádu tech do rúk severu
+- Rozlúčila sa s Rauom v mutovanej angličtine (celoživotný vzťah — od detstva spolu, nikdy čas na nič iné)
+- Posledný úsmev Maxovi = vojak na vojaka
+
+**Post-Chrám dopad:**
+- Max: Bez samopalu, ale má stopu (Sera, tri veže)
+- Tami: Bez pištole, ale drží Anténu — jedinú vec, čo nestratili
+- Kito: Bez okuliarov, vidí na 3m rozmazane. Šok z kolapsu Chrámu (najsvätejšie miesto jeho viery)
+- Mesto: Obranné línie sa rúcajú, civilisti utekajú, kňažky na kolenách
+
 ---
 
 ## Lore Clarifications Across Chapters:
@@ -322,8 +509,8 @@ Pravda patrí El.
 
 **Max:**
 - Start: Lone wolf, hľadá Anténu, žiadne info o Inetis
-- Chapter 2: Cíti strach prvýkrát za 13 rokov (Paladíni)
-- Chapter 3: Prvá stopa k Inetis (Sera), frustrovaný incomplete info
+- Chapter 2: Necíti strach (len kalkulácie) — kontrast pre Ch3
+- Chapter 3: Cíti strach prvýkrát za 13 rokov (Paladíni), prvá stopa k Inetis (Sera), frustrovaný incomplete info
 - Arc: Searching → First lead → Prophecy → Three towers quest
 
 **Tami:**
@@ -408,6 +595,57 @@ Max nedýchal.
 
 ## Commit History:
 
+**2026-02-05 (rev 4 — Ch4 removal + Ch5 rewrite):**
+- Ch4 Matka a Oheň: ZRUŠENÁ — kaplnka scéna presunutá na koniec knihy (cliffhanger)
+- Pôvodný obsah archivovaný do `archive/04-kaplnka-original.md`
+- Ch5 Krvavý Rituál: KOMPLETNÝ REWRITE (126 → 366 riadkov)
+  - WW2 feel: Verdun doktrína, urban warfare, boj v uliciach/domoch
+  - Max bez samopalu — používa pušky z mŕtvych, šetrí Prach
+  - Max prevezme velenie (seržant Bran, Tretia hradba, 60 vs 800)
+  - Blood Ritual prepísaný: extrakcia 97% cez kožu, FPV roj 6km, Grond pri delostrelectve
+  - Antiklimatická smrť Gronda (7 sekúnd, nikto nechápe)
+  - Kito pri Maye (úkryt), Tami opravuje Felix (setup pre Ch6)
+
+**2026-02-05 (rev 3 — Ch3 major expansion):**
+- Ch3 critical audit — 9 issues found and fixed:
+  - Fixed: Duplicate atmosphere ("Vzduch iný. Suchší. Chladnejší." r.90 vs r.240)
+  - Fixed: Tami "stuhla" duplicate (2× v 25 riadkoch)
+  - Fixed: Sera gate trimmed (príliš veľa slov)
+  - Fixed: "Jedno slovo. Dve." meta-narration → "Pauza."
+  - Fixed: Max fear arc (strach patrí len do Ch3 Paladíni, nie Ch2)
+  - Added: 5 [SERA] notes (Líška/Tami, Nie, Hlúpe opice, Mám otázky)
+  - Fixed: "zovretejšie" grammar error
+  - Added: Kito reactions (Haiku gate fascination, Paladín examination)
+  - Added: Max arrival detail (krv, prázdny zásobník)
+- Kito knowledge fix: "Apes. Z Apriky." → "Obri z juhu" (nepozná terminológiu)
+- Added: Kito mental note ("Volá ich opice. Píšem si.")
+- Expanded: Kito Paladín examination (brnenie, vibro-sekera, Hard Light, gorilí skull)
+- **NEW Časť VIII: Odpočítavanie** — Kira self-destruct, Kira-Rau farewell, 30s countdown, útek z tunelov, kolaps Chrámu Matky, panika v meste
+- Fix: Kira farewell language → mutovaná angličtina (nikto nerozumie)
+- Equipment losses: Max (samopal M4A1), Tami (pištoľ), Kito (okuliare)
+- Updated CHAPTER-NOTES: Apes language, Kito knowledge limits, Paladín self-destruct, equipment losses, Chrám collapse lore
+
+**2026-02-05 (rev 2):**
+- Ch2 revision — porovnanie s Ch1, opravy:
+  - Fixed: Max "Investori" → odstrániť (neladí s vojenským hlasom)
+  - Fixed: Kito anger → strach z Inkvizície (nie ego o mene)
+  - Trimmed: Krčma intel-gathering (príliš jednoduché → barmanička mlčí, menej info)
+  - Trimmed: Part IV tunnel entry (7 action beats → 1 paragraph)
+  - Fixed: Max internal monologue (príliš self-aware → Asistent readout)
+  - Cut: Flashback v Part V (predčasný, patrí do Ch7)
+  - Added: Kito academic voice pod stresom (teologická špirála, technická panika)
+  - Fixed: Kito.md Staroreč quote → match canonical Ch2 draft
+- Ch1 separator: `---` → `***` pred Sera outro (scene break, nie chapter break)
+- Added: Slur lore (Hybridy, Kacíri, Bledí, Starokrvní, Fosílie) do 06-society.md
+
+**2026-02-05:**
+- Reorganized drafts into arc folders (main-arc/, links-arc/, archive/)
+- Renamed files to clean sequential numbering
+- Reconciled old chapter-X-draft stubs with new numbered drafts
+- Added notes for Ch4-Ch8 (main arc)
+- Fixed: Elaria → Elania (chapter 3 name)
+- Fixed: Vex gender → žena/Felis (zosúladený epilogue s Links arc)
+
 **2026-02-03:**
 - Fixed: Fox Experiment → Wolf (líšky rare)
 - Fixed: Spira command lore (removed hardcore tech dump)
@@ -418,18 +656,34 @@ Max nedýchal.
 
 ---
 
-## TODO for Future Chapters:
+## Status Overview:
 
-- [ ] Chapter 4: Max + Tami + Sera travel together? Or separate?
-- [ ] Chapter 5: First tower encounter?
-- [ ] Flashback: Max awakening (AY 3000)
-- [ ] Flashback: Kael vs Samaell
-- [ ] Ancient temple reveal (Inetis socha with fialové oči)
-- [ ] Anténa reveal (what is it actually?)
-- [ ] Elania contact (end of Book 1 cliffhanger)
+### MAIN ARC:
+- [x] Prologue (00) — HOTOVO
+- [x] Ch1 Karakuri (01) — HOTOVO
+- [x] Interlude Far From Snow (01.1) — HOTOVO
+- [x] Ch2 Dead Bells (02) — HOTOVO (rev 2: voice/pacing fixes)
+- [x] Ch3 Elaniiná Čepeľ (03) — HOTOVO
+- [x] Ch4 Mother & Fire (04) — HOTOVO
+- [x] Ch5 Blood Ritual (05) — HOTOVO
+- [x] Ch6 Sky Hammer (06) — HOTOVO
+- [x] Ch7 Awakening (07) — HOTOVO (flashback z archive neintegrovaný)
+- [x] Ch8 Epilogue Blockade Run (08) — HOTOVO
+
+### LINKS ARC:
+- [x] Links Ch1 Golden Cage (01) — HOTOVO
+- [x] Links Ch2 Desolation (02) — HOTOVO
+- [x] Links Ch3 Antiquarian (03) — HOTOVO
+
+### TODO — Integrácia & Dopracovanie:
+- [ ] Integrovať Kael/Samaell flashback z `archive/prologue-1-draft-kael-samaell.md` do Ch5 alebo Ch7
+- [ ] Integrovať Max-v-klietke + baby-Tami scénu z archive do Ch7 flashbacku
+- [ ] Rozhodnúť presné miesto interleaving Links arc kapitol v reading order
+- [ ] Elania cliffhanger scéna (koniec knihy) — napísať finálnu verziu
+- [x] Revízia: zosúladený Vex gender → žena/Felis (opravený Ch8/Epilogue)
 
 ---
 
 **Last Updated:** 2026-02-05
-**Version:** 1.1
+**Version:** 2.0
 **Maintainer:** NULL VOID Writing Team

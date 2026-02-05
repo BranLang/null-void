@@ -88,7 +88,7 @@ Spiaci pozemstan sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techno
 
 | Kniha | Element | Názov | Téma |
 |-------|---------|-------|------|
-| 1 | 🜃 ZEM / hmota | Prach Achilla | Prebudenie, hľadanie pravdy |
+| 1 | 🜃 ZEM / hmota | Prach Nevriss | Prebudenie, hľadanie pravdy |
 | 2 | 🜂 OHEŇ / energia | Plamene Impéria | Minulosť, pád Zeme |
 | 3 | 🜄 VODA / čas | Slzy Matky | POV Inetis, ilúzie, odhalenie |
 | 4 | 🜁 VZDUCH / priestor | Búrka Strojov | Vojna, otec vs. dcéra |

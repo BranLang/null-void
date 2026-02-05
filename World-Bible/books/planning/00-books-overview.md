@@ -4,7 +4,7 @@
 
 | Kniha | Element | Názov | Téma |
 |-------|---------|-------|------|
-| 1 | 🜃 ZEM-hmota | Prach Achilla | Prebudenie, hľadanie pravdy |
+| 1 | 🜃 ZEM-hmota | Prach Nevriss | Prebudenie, hľadanie pravdy |
 | 2 | 🜂 OHEŇ-energia | Plamene Impéria | Minulosť, pád Zeme |
 | 3 | 🜄 VODA-cas | Slzy Matky | Pamäť, ilúzie, odhalenie |
 | 4 | 🜁 Vietor-priestor | Búrka Strojov | Vojna, otec vs. dcéra |
@@ -38,7 +38,7 @@ graph TD
 
 ---
 
-## Kniha 1: ZEM-hmota – Prach Achilla
+## Kniha 1: ZEM-hmota – Prach Nevriss
 
 ### Dej
 - Max sa prebúdza z 3000-ročného kryospánku

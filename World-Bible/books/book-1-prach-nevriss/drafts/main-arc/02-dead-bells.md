@@ -22,15 +22,15 @@ A na to bola krčma lepšia než akákoľvek mapa.
 
 ---
 
-Podvečer. Tretí korbel na stole — stále plný — a Tami už vedela dosť.
+Podvečer. Tretí korbel na stole — stále plný — a Tami mala menej, než dúfala.
 
-Mala to z troch zdrojov. Prvý bola barmanička — stará Mezra s jedným okom a jazykom ostrým ako britva — ktorá za strieborný groš rozprávala o každom susedovi v štvrti. Druhý bol opitý hodinkár tri stoly od nej, ktorý si pochvaľoval, ako mu „ten divný mačkáč" zaplatil za opravu chronomeru knihou namiesto peňazí. A tretí bol plagát na stene za barom — starý, vyblednutý, s obrázkom Chrámu a textom: *Kto znesvätí posvätné artefakty, zhorí v ohni Matkinej spravodlivosti.*
+Barmanička — stará Mezra s jedným okom — za strieborný groš rozprávala o každom v štvrti. Ale o Ciferníkovi mlčala. Len pokrútila hlavou a zametala pohľadom miestnosť, akoby sa bála, že niekto počúva. To povedalo viac než slová.
 
-Kúsky skladačky.
+Opitý hodinkár tri stoly od nej si pochvaľoval, ako mu „ten divný mačkáč" zaplatil za opravu chronomeru knihou namiesto peňazí. A plagát na stene za barom — starý, vyblednutý — varoval: *Kto znesvätí posvätné artefakty, zhorí v ohni Matkinej spravodlivosti.*
 
-*Kito. Pursang, mačkovitý fenotyp. Akademik — bývalý archivár zakázaných textov, vyhnaný z Univerzity pre „heretické bádanie". Žije v starožitníctve na Ulici Mŕtvych zvonov. Má mapy, zvitky, nákres starého ventilačného systému pod Chrámom. Má chorú ženu. Potrebuje peniaze — alebo niečo cennejšie než peniaze.*
+*Kito. Pursang. Niekto, z koho má strach aj barmanička, čo sa nebojí nikoho. Niekto, koho Cirkev pozná menom.*
 
-Tami sa zdvihla, nechala na stole mincu a vyšla do mrazu.
+Tami sa zdvihla, nechala na stole mincu a vyšla do mrazu. Vedela menej o Kitovi, než by chcela. Ale vedela dosť na to, aby si bola istá jednou vecou — nebol to žiadny knihomoľ pre turistov.
 
 Čas predstaviť sa.
 
@@ -86,7 +86,7 @@ Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá kniha
 
 „Ak ste zlodeji," povedal Kito a zavrel dvere, „tak ste na zlej adrese. Mám len knihy a dlhy."
 
-„Nie sme zlodeji. Sme investori," povedal Max a prešiel prstom po starom zvitku na stole. Bol to nákres ventilačného systému. *Chrámu Vševedúcej Matky.* „A vy nie ste len knihovník, však, Kito?"
+„Nie sme zlodeji," povedal Max a prešiel prstom po starom zvitku na stole. Bol to nákres ventilačného systému. *Chrámu Vševedúcej Matky.* „A vy nie ste len knihovník, však, Kito?"
 
 Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne zavibroval — prejav silnej telekinézy pod vplyvom stresu. Kniha na stole sa sama od seba posunula o centimeter.
 
@@ -94,13 +94,13 @@ Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne za
 
 „Mako," zopakovala Tami.
 
-„Ty si líška?" spýtal sa Kito a v hlase mu zavrčal hnev. „To je nejaký hlúpy vtip? Robíte si zo mňa srandu? Z mojho mena? Z mojho života?" Ruky sa mu zaťali do pästí. „Kito je len legenda, podľa ktorej mám meno. Nič viac. Nič menej."
+„Ty si líška?" spýtal sa Kito a v hlase mu zavrčal strach zamaskovaný za hnev. „Kto vás poslal? Cirkev? Inkvizícia?" Ruky sa mu zaťali do pästí a vzduch okolo neho sa zachvel. „Ak ste tu kvôli zvitkom, nemám nič. Nič zakázané. Nič, čo by—"
 
-„Viem, že nie je," povedala Tami ticho. „Vyrastala som v jeho ruinách. Tam, kde líšky dávajú dobrú noc a kde starí Maki učia deti, ako prežiť."
+„Kito," prerušila ho Tami pokojne. „Vyrastala som v ruinách mesta, podľa ktorého máš meno. Tam, kde líšky dávajú dobrú noc a kde starí Maki učia deti, ako prežiť."
 
-Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť.
+Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť. Ani Inkvizícia by niečo také nevedela.
 
-„Čo chcete?" spýtal sa nakoniec, hlasom zbaveným hnevu.
+„Čo chcete?" spýtal sa nakoniec, hlasom zbaveným odporu.
 
 „Ten artefakt," povedal Max priamo, s ťažkým prízvukom, akoby každé slovíčko prekladal za pochodu. „Vieme, že je uzamknutý a prísne strážený v podzemí pod Chrámom Matky. A vieme, že ty si jediný, kto má plány pôvodnej ventilácie z čias pred prestavbou."
 
@@ -157,7 +157,7 @@ Kito zovrel päste. „Naznačil, že ak chcem odpoveď, musím ísť k zdroju. 
 
 Max ostal ticho. Pozeral sa na kryštalickú ruku ženy.
 
-*Nemôžem jej pomôcť. Som vojak, nie vedec. Nerozumiem tomuto svetu, nerozumiem ich „Spire" a môj Asistent hlási len „Neznáma patológia". Toto je nad moje sily.*
+*Analýza: Neznáma patológia. Žiadna zhoda. Žiadny protokol. Žiadna odpoveď.*
 
 „Môžeš nám pomôcť," povedala Tami a položila ruku na Kitovo rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
 
@@ -239,13 +239,13 @@ A potom sa to stalo.
 
 Realita toho, čo práve povedal, a hlavne *komu* to povedal, na neho dopadla s oneskorenou silou padajúceho stropu.
 
-Kito sa začal triasť. Jeho telekinéza skolabovala, vzduch v miestnosti praskol.
+Kito sa začal triasť. „Podľa Tretej Doktríny — podľa *každej* doktríny — to, čo práve robím, je najvyšší stupeň herézy. Otváranie cesty Spáčovi k relikvii Matky. V apokryfoch sa za to—" Jeho telekinéza skolabovala, vzduch v miestnosti praskol. „—hovorí *večné zatratenie*, a to nie je metafora, je to termín z Druhého Koncilu, keď—"
 
 Tami prikročila a facla ho. Raz. Ostro.
 
-„Spamätaj sa!" syčala. „Potrebujeme ťa funkčného, nie ako hysteriujúcu babu!"
+„Kito. *Dýchaj.*"
 
-Kito zamrkal, šok z facky ho vytrhol z paniky —
+Kito zamrkal, šok z facky ho vytrhol z teologickej špirály —
 
 Tami zrazu pohla ušami — líščími ušami, ktoré sa napriamili ako radarové taniere. Počula to o dve sekundy pred všetkými ostatnými: piskľavý, tenký zvuk padajúceho granátu.
 
@@ -309,29 +309,15 @@ Max ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
 
 Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Max necítil strach. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia, bol to len chemický kofaktor pre rýchlejšie procesory.
 
-„Moja žena..." zavzlykal Kito, visiaci dolu hlavou. „Nemôžem ju tam nechať!"
+„Tri bloky!" zajachtal Kito, visiaci dolu hlavou. „Tri bloky od dopadu — pravdepodobnosť zásahu nášho domu je — musím sa vrátiť, musím ju dostať do pivnice, ona sa nemôže hýbať sama—"
 
-„Zomrie, ak tam ostaneš," povedal Max a preskočil prevrátený voz s kapustou. „Zomrie, ak pôjde s nami." Na sekundu sa zastavil — nie fyzicky, len v hlase. Stačilo to. „Tvoja jediná šanca je, že prežiješ ty a nájdeš liek. Kde je ten vstup?"
+„Kde je vstup?" prerušil ho Max.
 
 Kito vzlykol. Ale navigoval. „Kanál... Na konci ulice. Za bitúnkom."
 
 Bežali.
 
-Svet okolo nich sa rozpadal.
-
-Tlaková vlna ďalšieho dopadu vyrazila výklad na obchode s hodinami. Stovky ciferníkov a pružín vyleteli do vzduchu ako kovové konfety. Črepiny skla pršali na ulicu.
-
-Tami bola rýchla, mrštná, využívala svoj chvost na udržiavanie rovnováhy pri prudkých zákrutách. Preskakovala trosky s eleganciou, ktorú jej Max ticho závidel. Keď im cestu zahatala spadnutá markíza, Tami ju ladne podliezla. Max do nej narazil ramenom a rozrazil drevenú konštrukciu na triesky, ani pri tom nespomalil.
-
-„Pozor!"
-
-Zhora padal kus rímsy. Max zareagoval skôr — nanoboty sa aktivovali, ruka vystrelila a odhodila betónový blok nabok, kde roztrieštil starú lavičku.
-
-Kito vyvalil oči. *To nebola Spira.*
-
-„Choď!" povedal Max pokojne a sotil ho dopredu.
-
-Dorazili k bitúnku. Budova páchla starou krvou a hnilobou — pach, ktorý sa miešal s korditom z výbuchov. Fasáda bola posiata dierami od šrapnelov — prvá salva musela dopadnúť sem.
+Dorazili k bitúnku za tri minúty, ktoré trvali večnosť. Fasáda bola posiata dierami od šrapnelov a páchla starou krvou zmiešanou s korditom z čerstvých výbuchov.
 
 „Tam!" ukázal Kito roztrasenou rukou na masívny kovový poklop v zemi, polozakrytý hromadami kostí.
 
@@ -384,29 +370,15 @@ Max sa postavil. Jeho topánky čvachtali v niečom, čo nechcel analyzovať. Za
 
 Svet sa zmenil na odtiene zelenej a šedej. Stáli v tuneli, ktorý nebol vykopaný lopatami. Bol to *tubus*. Dokonalý kruh, steny pokryté keramickými panelmi, teraz popraskanými a pokrytými slizom.
 
-Pre Maxa to však nebol len sliz.
+Pre Maxa to však nebol len sliz. Teplota. Vlhkosť. Pach ozónu a hniloby. Niečo mu tu bolo povedomé a z toho mu bolo zle.
 
-Teplota. Vlhkosť. Pach ozónu a hniloby.
+Senzory mu na sekundu zlyhali. Nanoboty v krvi zaregistrovali stresový výkyv a potlačili ho skôr, než si to stihol uvedomiť.
 
-Senzory mu na sekundu zlyhali.
+„Max?" Tamin hlas. Modrá žiara chemickej tyčinky sa odrážala v jej očiach.
 
-*Modrá kryo-tekutina. Pľúca horeli. Oči explodovali v mraze. 3000 rokov tmy.*
+„Som tu," povedal a potlačil chvenie rúk. „Poďme."
 
-*Prvý dotyk po prebudení — chladný kov pirátskeho háku. Vytiahli ho ako kus mäsa.*
-
-*A potom sedemročné dievča s líščími ušami. „Neboj sa, ujko. Aj ja som monštrum."*
-
-„Max?"
-
-Tamin hlas ho vytiahol späť.
-
-Stála pred ním, modrá žiara chemickej tyčinky sa odrážala v jej očiach. Už to nebolo to sedemročné dievča. Bola to žena, ktorá zabíjala, aby prežila. Ale ten pohľad... ten bol rovnaký.
-
-„Som tu," povedal Max a potlačil chvenie rúk. „Len... starí duchovia."
-
-Tami si oprášila kolená.
-
-„Smrdí to tu ako zdochlina," poznamenala vecne. „Takže sme správne."
+„Smrdí to tu ako zdochlina," poznamenala Tami vecne. „Takže sme správne."
 
 Max vytiahol z puzdra svoju zbraň — ťažký samopal, prastarú relikviu z doby pred Pádom. Kov matne zablysol v chemickom svetle. Kito naň zízal s výrazom, akoby sa díval na artefakt v múzeu, ktorý nemá právo existovať mimo vitríny.
 
@@ -418,7 +390,7 @@ Kito, stále sediaci v bahne, ukázal do tmy. „Na juh. Pod Chrám. Ale musíme
 
 Z hĺbky tunela sa ozvalo zavrčanie. Nebolo to zviera. Znelo to ako mokrý kašeľ cez zosilňovač.
 
-„Nepodarené experimenty," povedal Kito a prvýkrát sa pozrel Maxovi do očí s niečím, čo pripomínalo solidaritu odsúdencov. „Cirkev sa snaží napodobniť Stvorenie. Ale bez kódov Matky im vychádzajú len monštrá."
+„Nepodarené experimenty," povedal Kito a prvýkrát sa pozrel Maxovi do očí s niečím, čo pripomínalo solidaritu odsúdencov. „Cirkev sa snaží napodobniť Stvorenie — pokúšajú sa replikovať pôvodné skripty z Druhej Éry, ale bez syntaktickej čistoty originálu. Výsledok je..." Zaváhal. „Je to, čo by v starých textoch nazvali *profanácia*. A v praxi — monštrá."
 
 Vstali. Vykročili do tmy.
 

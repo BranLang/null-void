@@ -91,7 +91,7 @@ Max a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Max je presv
 ---
 
 ## 7. Pentalógia (Pentagram Cycle)
-1.  **Zem | hmota (Prach Achilla):** Prebudenie a realita prachu.
+1.  **Zem | hmota (Prach Nevriss):** Prebudenie a realita prachu.
 2.  **Oheň | energia (Plamene Impéria):** Minulosť na Zemi, trauma a stret s falošným Grondom na severe. 
 3.  **Voda | čas (Slzy Matky):** POV Inetis, Ilúzie v kráľovstve Zayi, hlboké pravdy a návrat do Ynetis.
 4.  **Vzduch | priestor :** Ideologický stret a pád bariér.

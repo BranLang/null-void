@@ -80,7 +80,7 @@ Ruky ho pustili.
 
 Dopadol tvrdo na rebrovanú kovovú podlahu. Náraz mu vyrazil dych z pľúc. Inštinktívne sa pokúsil stočiť do klbka, chrániť si životne dôležité orgány, ale telo ho neposlúchalo. Ostal ležať v zvratkoch mrznúcej tekutiny, ktorá z neho vytekala.
 
-"Uži si tmu, mraznička," zachehotal sa ten vyšší hlas.
+"Uži si tmu, fosília," zachehotal sa ten vyšší hlas.
 
 Mreže sa zabuchli. Zámok cvakol. Kroky sa vzdialili, pohltené hlbokým vibrovaním motorov vzducholode.
 

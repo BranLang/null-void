@@ -310,7 +310,7 @@
 
 ---
 
-## Story Role (Book 1: Prach Achilla)
+## Story Role (Book 1: Prach Nevriss)
 
 **Function:**
 - **Catalyst** - prináša informácie o Elanii, Paladínoch, južnom kontinente

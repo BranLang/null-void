@@ -380,7 +380,7 @@ Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky
 
 Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako kov pištole pod jej kabátom.
 
----
+***
 
 ## Outro: Tieň v Dielni
 
