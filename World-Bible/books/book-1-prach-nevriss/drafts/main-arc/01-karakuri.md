@@ -77,7 +77,7 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 *Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by ešte žili.
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry v ruinách boli rutina, nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
 
 A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky.
 

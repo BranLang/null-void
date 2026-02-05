@@ -5,7 +5,7 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená)
+- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená), **nedoučená Exorcistka** (Maxov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
     - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
@@ -26,9 +26,9 @@
 | **AY 3000** | 7 | Piráti nájdu Maxa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Max a Tami sa stretnú — on v bezvedomí, ona v klietke |
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
 | **AY 3001** | 8 | Max zabije Samaella v dueli |
-| **AY 3001-3008** | 8-15 | Putovanie s Maxom (Exorcista & učeň) |
-| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju odmietne (vidí v nej dcéru) |
-| **AY 3008** | 15 | **Odchod** — Tami vezme vzducholoď, nechá Maxa v pustatine |
+| **AY 3001-3008** | 8-15 | Putovanie s Maxom — Tami sa stáva jeho padavanom. Max ju trénuje ako Exorcistku: boj, zbrane, prežitie, duchovia a kostry v ruinách sú rutina — vie na ducha spraviť `sudo kill`. 7 rokov terénneho výcviku (ale bez teórie, hackingu, Linuxu — nedoučená, odišla pred dokončením) |
+| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
+| **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maxa v pustatine. 5 rokov sa neozve |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
 | **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
 | **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
