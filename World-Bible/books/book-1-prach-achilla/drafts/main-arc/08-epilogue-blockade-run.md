@@ -10,25 +10,25 @@ Loď pred nimi bola iná. *Druhá Šanca*.
 
 Bola to prerobená bojová krovka. Nízka, široká, s trupom zosilneným oceľovými plátmi, ktoré vyzerali, že boli ukradnuté z troch rôznych vojnových lodí. Nemala noblesu vzducholodí, ani eleganciu neuorópskych vznášadiel. Vyzerala ako plávajúci tank, ktorý niekto natrel matnou čiernou farbou pohlcujúcou svetlo.
 
-Na móle stála postava v dlhom koženom kabáte. Kapitán Vex. Fúzy mal prešedivelé, pleť ošľahanú vetrom do farby starého dubu a v ústach žuval vyhasnutú cigaru.
+Na móle stála postava v dlhom koženom kabáte. Kapitánka Vex. Bola Varietas — Felis. Krátke, rozstrapatené vlasy, páska cez jedno oko a na opasku dva ťažké blastery. Pleť mala ošľahanú vetrom do farby starého dubu a v ústach žuvala vyhasnutú cigaru.
 
-„Meškáte," zavrčal, keď sa Max, Tami a Links vynorili z tmy. „Príliv nečaká na nikoho. A Grawské hliadky už vôbec nie."
+„Meškáte," zavrčala, keď sa Max, Tami a Links vynorili z tmy. „Príliv nečaká na nikoho. A Grawské hliadky už vôbec nie."
 
 „Mali sme... komplikácie," povedal Max stroho.
 
-Vex si ich premeral. Jeho pohľad sa zastavil na Linksovi. Mladý Scholaris v svojom čiernom solárnom plášti a s hyper-modernou pištoľou pri páse vyzeral v tomto prostredí ako päsť na oko.
+Vex si ich premerala. Jej pohľad sa zastavil na Linksovi. Mladý Scholaris v svojom čiernom solárnom plášti a s hyper-modernou pištoľou pri páse vyzeral v tomto prostredí ako päsť na oko.
 
-„Čo je toto?" ukázal Vex cigarou na Linksa. „Hovorili sme o dvoch pasažieroch. Exorcista a Líška. O decku v kostýme superhrdinu nebola reč."
+„Čo je toto?" ukázala Vex cigarou na Linksa. „Hovorili sme o dvoch pasažieroch. Exorcista a Líška. O decku v kostýme superhrdinu nebola reč."
 
 Links sa narovnal. „Som Scholaris Links z Observatória. A tento 'kostým' dokáže odkloniť radarové vlny, ak by vás to zaujímalo."
 
-Vex sa uchechtol. „Radarové vlny. Chlapče, Graw nepoužíva radary. Používajú oči, svetlice a míny, ktoré ti odtrhnú zadok skôr, než povieš 'Scholaris'. Ale ak máš peniaze..."
+Vex sa uchechtla. „Radarové vlny. Chlapče, Graw nepoužíva radary. Používajú oči, svetlice a míny, ktoré ti odtrhnú zadok skôr, než povieš 'Scholaris'. Ale ak máš peniaze..."
 
-„Zaplatí za seba," povedal Max a hodil Vexovi ťažký mešec. „A je užitočný. Vyzná sa v technike."
+„Zaplatí za seba," povedal Max a hodil Vex ťažký mešec. „A je užitočný. Vyzná sa v technike."
 
-Vex poťažkal mešec. Zlato cinklo.
+Vex poťažkala mešec. Zlato cinklo.
 
-„Fajn," odpľul si do vody. „Naloďte sa. Ale varujem vás — ak sa pobliete, upratujete si to sami."
+„Fajn," odpľula si do vody. „Naloďte sa. Ale varujem vás — ak sa pobliete, upratujete si to sami."
 
 Tami sa naposledy obzrela. Na móle zostal stáť Kito.
 
@@ -46,13 +46,13 @@ Kito sa nemohol pridať. Jeho miesto bolo tu, pri Maye. A v Šoravene. Niekto mu
 
 Tami sa usmiala — smutne, ale úprimne. „Zbohom, Ciferník. A... vďaka za mapu."
 
-„Všetci na palubu!" zavelil Vex. „Motor beží, a ja nemienim vysvetľovať Grawskej fregate, prečo parkujem v zakázanej zóne."
+„Všetci na palubu!" zavelila Vex. „Motor beží, a ja nemienim vysvetľovať Grawskej fregate, prečo parkujem v zakázanej zóne."
 
 ***
 
 *Druhá Šanca* zavyla. Jej parné turbíny — upravené tak, aby dym viedli pod vodu a nie do vzduchu — zabrali. Loď sa odlepila od móla a vyrazila do tmy zálivu.
 
-Na mostíku to páchlo olejom a lacnou kávou. Vex stál za kormidlom, ruky pevne zovreté na drevenom kolese. Vedľa neho stála Tami a sledovala sonar — primitívnu obrazovku so zeleným rastrom, ktorá pípala v rytme vĺn.
+Na mostíku to páchlo olejom a lacnou kávou. Vex stála za kormidlom, ruky pevne zovreté na drevenom kolese. Vedľa nej stála Tami a sledovala sonar — primitívnu obrazovku so zeleným rastrom, ktorá pípala v rytme vĺn.
 
 Max a Links stáli pri bočnom priezore.
 
@@ -60,7 +60,7 @@ Záliv bol mínové pole. Doslova. Grawské lode zablokovali výjazd na otvoren�
 
 „Vidím tri fregaty," povedal Max, pozerajúc sa do tmy. Nepotreboval ďalekohľad. Jeho nanoboty vykresľovali siluety lodí v diaľke ako jasné kontúry. „Trieda *Ironclad*. Sú pomalé, ale majú ťažké kanóny. Ak nás zbadajú, sme mŕtvi."
 
-„Nezbadajú," zavrčal Vex. „Táto kráska má trup natretý zmesou grafitu a... no, povedzme, že to funguje. Prejdeme popri útesoch, kde je voda príliš plytká pre nich."
+„Nezbadajú," zavrčala Vex. „Táto kráska má trup natretý zmesou grafitu a... no, povedzme, že to funguje. Prejdeme popri útesoch, kde je voda príliš plytká pre nich."
 
 „Je tam príliš plytko aj pre nás," poznamenala Tami, sledujúc hĺbkomer. „Dva metre pod kýlom. Vex, riskuješ."
 
@@ -72,7 +72,7 @@ Zrazu sa ozvala siréna. Nie na ich lodi. Vonku.
 
 Tma nad zálivom sa roztrhla. Svetlica. Biela, oslepujúca fosforová žiara vystrelila z jednej z fregát a pomaly padala na padáku dolu, osvetľujúc celú hladinu mŕtvolným svetlom.
 
-„Do čerta," zasyčal Vex. „Videli nás."
+„Do čerta," zasyčala Vex. „Videli nás."
 
 „Nie nás," povedal Max. „Pozrite."
 
@@ -80,7 +80,7 @@ Ukázal na vodu. Asi tristo metrov od nich sa čerila hladina. Niečo tam bolo. 
 
 Z vody sa vynorilo chápadlo veľké ako kmeň stromu. Potom druhé.
 
-„Kraken," vydýchol Vex. „Zmutovaný Spira-odpadom z kanálov. Grawské lode nehľadajú nás. Hľadajú *jeho*."
+„Kraken," vydýchla Vex. „Zmutovaný Spira-odpadom z kanálov. Grawské lode nehľadajú nás. Hľadajú *jeho*."
 
 More začalo vrieť. Fregaty spustili paľbu. Ťažké projektily dopadali do vody okolo monštra, dvíhajúc stĺpy vody do výšky desiatich metrov. Kraken reval — zvuk, ktorý rozochvel palubu *Druhej Šance*.
 
@@ -88,9 +88,9 @@ More začalo vrieť. Fregaty spustili paľbu. Ťažké projektily dopadali do vo
 
 „Zbláznil si sa? V tej plytčine pri takej rýchlosti..."
 
-„Navigujem ťa," prerušil ho Links.
+„Navigujem ťa," prerušil ju Links.
 
-Všetci sa naňho pozreli. Mladík sedel na dlážke, svoj prastarý laptop rozložený na kolenách. Káblom bol pripojený priamo do navigačného pultu lode — barbarský zásah do Vexovej techniky, ktorý kapitána takmer privolal infarkt, keď to videl.
+Všetci sa naňho pozreli. Mladík sedel na dlážke, svoj prastarý laptop rozložený na kolenách. Káblom bol pripojený priamo do navigačného pultu lode — barbarský zásah do Vexovej techniky, ktorý kapitánku takmer privolal infarkt, keď to videla.
 
 „Mám prístup k ich sonaru," povedal Links rýchlo, prsty mu lietali po klávesnici. „Grawské lode vysielajú aktívne pingy, aby zamerali Krakena. Odraz tých vĺn mi vykresľuje dno zálivu v reálnom čase. Vidím každý kameň, každú mínu."
 
@@ -98,7 +98,7 @@ Na obrazovke laptopu sa objavila 3D mapa dna. Bola dokonalá.
 
 „Doprava, 15 stupňov!" zakričal Links. „Tam je prieliv medzi skalami. Máme tam presne tri metre hĺbky."
 
-Vex zaváhal len sekundu. Potom strhol kormidlo.
+Vex zaváhala len sekundu. Potom strhla kormidlo.
 
 *Druhá Šanca* sa naklonila. Turbíny zaburácali. Loď vletela do tmy pod útesmi, kým za nimi zúrilo peklo paľby a revu monštra.
 
@@ -106,15 +106,15 @@ Preleteli okolo skál tak tesne, že Tami by sa ich mohla dotknúť rukou. Voda 
 
 „Mína na jedenástej hodine! Doľava!"
 
-Vex točil kormidlom ako šialenec. Loď kľučkovala.
+Vex točila kormidlom ako šialená. Loď kľučkovala.
 
 „Sme vonku," vydýchol Links po nekonečných piatich minútach. „Hĺbka klesá. Sto metrov. Dvesto."
 
 More sa otvorilo. Svetlice a výbuchy ostali za nimi, len ako vzdialená búrka nad horizontom. Pred nimi bola len čierna, nekonečná prázdnota oceánu a hviezdy.
 
-Vex pustil kormidlo a zapálil si cigaru. Ruky sa mu triasli, ale tvár mal kamennú.
+Vex pustila kormidlo a zapálila si cigaru. Ruky sa jej triasli, ale tvár mala kamennú.
 
-„Ten tvoj stroj," ukázal na Linksov laptop. „Kúpim ho."
+„Ten tvoj stroj," ukázala na Linksov laptop. „Kúpim ho."
 
 „Nie je na predaj," usmial sa Links a zaklapol kryt. Batéria ukazovala 98%. J-Sevenova práca bola dokonalá.
 
