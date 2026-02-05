@@ -36,7 +36,7 @@ Kito je **Pursang** — čistokrvný Varietas s vysokou koncentráciou Spiry. M�
 
 Kito je prvý Varietas, ktorý pochopí, kým Max naozaj je.
 
-- **Staroreč**: Keď Max prehovorí čistou archaickou angličtinou (*„I am of the Old World, Keeper of Archives. And I have the technology to save her."*), Kito to rozpozná — nie ako skomolený dialekt Exorcistov, ale ako živý hlas mŕtveho jazyka. Pre archeológa je to ako objaviť živú fosíliu.
+- **Staroreč**: Keď Max prehovorí čistou archaickou angličtinou (*„I am of the Old World. And I am looking for somebody, who can save her."*), Kito to rozpozná — nie ako skomolený dialekt Exorcistov, ale ako živý hlas mŕtveho jazyka. Pre archeológa je to ako objaviť živú fosíliu.
 - **Apokryf o Štvrtom Príchode**: Kito pozná zakázaný text o poslednom Príchode — bytosti, ktorá nepríde z neba, ale „zobudí sa zo Zeme." Stotožní Maxa so **Spáčom** — legendárnou eschatologickou postavou Kultu Matky.
 - **Čierne Oči**: Keď Max zloží okuliare a odhalí oči z Čierneho Prachu (nanodrony ukradnuté Samaellovi), Kito pochopí, že má pred sebou bytosť z legiend. Nie bohyňu. Niečo horšie.
 - **Dilema**: Kito vie, že Spáč = koniec sveta v proroctve. Spolupracovať s ním znamená možno urýchliť apokalypsu. Ale nespolupracovať znamená pozerať sa, ako Maya zomiera. Zvolí si Mayu.
