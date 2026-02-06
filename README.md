@@ -186,6 +186,22 @@ NULL VOID lives at the intersection of four strands:
 
 ---
 
+## IDE as a Worldbuilding Tool
+
+This project started as a game concept and evolved into a novel — but the tool never changed. The entire world is built and maintained in an IDE (Claude Code / Cursor / VS Code) with AI assistance.
+
+Why it works:
+
+- **Repository = World Bible** — Characters, geography, technology, timelines, drafts — all cross-referenced markdown files in a monorepo. Open a project after 6 months and everything is where you left it.
+- **Git for stories** — Branching, diffing, history. See what changed, when, and why. Experiment with plot branches without losing the original.
+- **AI agent with custom rules** — A `SKILL.md` file teaches the AI your world's rules, tone, and constraints. It becomes a writing partner that knows the lore.
+- **Mermaid charts, mindmaps, architecture docs** — The same tools developers use for system design work for faction politics, magic systems, and character relationship maps.
+- **ADHD-friendly** — The IDE holds context when you can't. Structure compensates for executive function. The world doesn't dissolve between sessions.
+
+The irony: the Varietas in the story use a Pentagram IDE to "pray" — they think it's religion, but they're actually programming nanobots. The author uses an actual IDE to build the world those nanobots live in.
+
+---
+
 <div align="center">
 
 ![Inetis](World-Bible/assets/characters/Inetis/Inetis.png)

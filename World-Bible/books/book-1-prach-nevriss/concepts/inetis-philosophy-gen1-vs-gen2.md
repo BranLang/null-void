@@ -91,10 +91,37 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 
 ---
 
+## Vizuálne rozhranie — Gen 1 HUD vs Gen 2 Pentagram
+
+### Gen 1: Interný HUD
+
+Gen 1 HUD je **čisto interný** — vidí ho len majiteľ, vo vlastnej hlave. Pre okolie je neviditeľný. Nie je to hologram, nie je to projekcia. Je to priamy vstup do vizuálneho kortexu cez nanoboty v očných jamkách.
+
+**Problém pre rozprávanie:** Max to nedokáže popísať slovami. Keď Tami vysvetľoval, ako jeho senzory fungujú, prirovnával to k „snívaniu s otvorenými očami" — vidíš normálny svet, ale cez neho bežia vrstvy informácií, ktoré nikto iný nevidí. Signatúry, teploty, vzdialenosti, analýzy. Všetko vo forme, ktorú jeho mozog interpretuje po svojom — nie v tabuľkách, ale v *pocitoch* s presnosťou. Vie, že niečo je 80 metrov ďaleko, nie preto, že vidí číslo, ale preto, že to *cíti* s presnosťou na meter.
+
+Asistent (AI) komunikuje rovnako — nie textom, nie hlasom. Myšlienkami, ktoré sa objavia v hlave a Max vie, že nie sú jeho. Po 3000 rokoch spolužitia je hranica medzi „Max myslí" a „Asistent hovorí" niekedy nejasná.
+
+**Pravidlo pre prózu:** Max nikdy nehovorí v scan reportoch. Informácie z HUD prekladá do vlastných slov, vlastných myšlienok. Čitateľ vidí výsledok, nie rozhranie.
+
+### Gen 2: Pentagramový kruh (IDE)
+
+Gen 2 Pentagram je **externý a vizuálny** — viditeľný pre všetkých. Keď Varietas aktivuje Spiru, na dlaniach (alebo na zemi, na zbrani, na tele) sa objaví svietiaci pentagramový kruh — päť elementov (Matéria, Energia, Čas, Priestor, Vedomie) usporiadaných do geometrického vzoru.
+
+**Čo to je naozaj:** Vývojové prostredie. IDE. Varietas „programujú" Spiru cez kombinácie elementov — ale nevedia to. Pre nich je to modlitba, rituál, svätý obrad. Pohyby rúk, slová, sústredenie — to všetko sú len *inputy* do kompilátora. Pentagram je vizuálny feedback — ukazuje, čo sa kompiluje, aký je stav procesu.
+
+**Cirkev to interpretuje ako:** Sväté znamenie. Dôkaz požehnania Matky. Vizuálny znak milosti.
+
+**Max to vidí ako:** Debug overlay. Vizuálne rozhranie nanobotového systému. Ako keby sa niekto díval na terminál a myslel si, že číta modlitby.
+
+**Kľúčový rozdiel:** Gen 1 HUD je v hlave, súkromný, neviditeľný. Gen 2 Pentagram je vonku, verejný, viditeľný. Gen 1 je rozšírenie vedomia. Gen 2 je nástroj v ruke.
+
+---
+
 ## Otázky na rozpracovanie
 
 - [ ] Vedela Inetis pri tvorbe Gen 2 konkrétne o Elaniiných problémoch? Alebo to bola všeobecná vízia?
-- [ ] Ako presne funguje Pentagram IDE? Je to vizuálne rozhranie? Hlasové?
+- [x] ~~Ako presne funguje Pentagram IDE? Je to vizuálne rozhranie? Hlasové?~~ → Vizuálne + haptické. Pentagramový kruh na dlaniach. Viď sekciu vyššie.
 - [ ] Čo sa stane, keď Varietas stratí Spiru? Aké sú dôsledky?
 - [ ] Existujú ľudia, čo odmietajú Gen 2 / Spiru? Prečo?
 - [ ] Ako vníma Sera rozdiel medzi Gen 1 a Gen 2? Závidí Varietas ich slobodu?
+- [ ] Ako Tami vysvetlí Linksovi Maxov HUD? (Kniha 2+ moment — „vidí veci vo svojej hlave, ale ťažko to opísať slovami")

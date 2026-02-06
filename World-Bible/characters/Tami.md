@@ -39,12 +39,12 @@
 - **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
 - **Loď**: Vlastní vzducholoď **Makita** (trieda Jastrab, 4. kus).
     - **Pôvod**: Postavená Makmi pre jej otca. Meno je pocta staviteľom (Makita = Malý stroj).
-    - **Výzbroj**: Hlavný kanón je **"Felix 88"** — vzácny 88mm kanón od legendárneho európskeho Maka Felixa.
+    - **Výzbroj**: Hlavný kanón je **"Felix"** — vzácny zásobníkový kanón od legendárneho európskeho Maka Felixa. Spira munícia = fialové záblesky.
 - **Zbrane**:
     - Pár automatických pištolí.
     - **Felixov Rapier ("Ihla")**: Unikátna zbraň od Felixa. Na rozdiel od mainstreamových katán (sekanie/elegancia), táto zbraň je čistá nemecká efektivita — určená na penetráciu zbroje a energetických štítov ("Spira piercing").
 - **Posádka (The Crew)**:
-    -   **Borg (Ghorki - Medveď)**: Hlavný strelec (Gunner) ovládajúci "Felix 88". Obrovský, málomravný, slepo lojálny Tami.
+    -   **Borg (Ghorki - Medveď)**: Hlavný strelec (Gunner) ovládajúci kanón "Felix". Obrovský, málomravný, slepo lojálny Tami.
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma

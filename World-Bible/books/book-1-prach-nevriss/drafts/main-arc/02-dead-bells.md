@@ -10,15 +10,7 @@ Vzduch bol hustý od dymu, potu a zúfalstva. Za stolmi sedeli žoldnieri v rôz
 
 *Presne preto som tu*, pomyslela si Tami.
 
-Karakuri — ten starý Mako v Remeselnej štvrti — jej dal viac než len čerpadlo. Keď mu ukázala nákres Chrámu a spýtala sa, či pozná niekoho, kto má pôvodné plány ventilácie, jeho kovové prsty na sekundu stuhli. Potom vzal tenký štetec, namočil ho do atramentu a na kúsok papiera napísal jedno slovo.
-
-*Ciferník.*
-
-A pod ním adresu. Ulica Mŕtvych zvonov, číslo 42.
-
-Ale Tami nechodila do neznámych bytov naslepo. Nie v meste, kde sa za špatný krok platilo krvou. Najprv zistiť, s kým má do činenia. Charakter. Slabiny. Motivácie.
-
-A na to bola krčma lepšia než akákoľvek mapa.
+Karakuri jej dal meno a adresu. *Ciferník.* Ulica Mŕtvych zvonov, číslo 42.
 
 ---
 
@@ -124,8 +116,7 @@ Nebola to len choroba. Bola to *premena*.
 
 Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo iné — na kryštalickú štruktúru pripomínajúcu kremeň. Jej ľavá ruka už nebola z mäsa a kostí, ale z priesvitného, krehkého minerálu, cez ktorý presvitali žily pulzujúce fialovým svetlom.
 
-*Analýza: Neznámy proces. Biologická → minerálna konverzia. Žiadna zhoda v databáze.*
-*Poznámka: Energetická signatúra nekorešponduje so žiadnym známym protokolom.*
+Maxove senzory sa pokúšali klasifikovať, čo vidia, a zlyhávali. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu.
 
 Max nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
 
@@ -151,13 +142,13 @@ Obrátil dlaň hore. Nad ňou sa zachvel vzduch — Kitova telekinéza, jemná, 
 
 Pozrel na Maxa. Žlté oči mu horeli zúfalstvom.
 
-„Jej modlitba nemá koniec, Max. Opakuje sa dookola. Spira v nej odpovedá na volanie, ktoré nikdy neprestane. Prepisuje ju. Mení mäso na kameň, kúsok po kúsku." Hlas sa mu zlomil. „Skúšal som všetko. Bol som za tým starým Makom v Remeselnej štvrti. Tým, čo neprehovoril už sto rokov. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* modlitebné knihy na to nestačia. Že tá modlitba je staršia než on."
+„Jej modlitba nemá koniec, Max. Opakuje sa dookola. Spira v nej odpovedá na volanie, ktoré nikdy neprestane. Prepisuje ju. Mení mäso na kameň, kúsok po kúsku." Hlas sa mu zlomil. „Skúšal som všetko. Bol som za tým starým Makom. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* modlitebné knihy na to nestačia. Že tá modlitba je staršia než on."
 
 Kito zovrel päste. „Naznačil, že ak chcem odpoveď, musím ísť k zdroju. K pôvodu tých modlitieb. Pod Chrám."
 
 Max ostal ticho. Pozeral sa na kryštalickú ruku ženy.
 
-*Analýza: Neznáma patológia. Žiadna zhoda. Žiadny protokol. Žiadna odpoveď.*
+*Žiadna zhoda. Žiadny protokol. Žiadna odpoveď.*
 
 „Môžeš nám pomôcť," povedala Tami a položila ruku na Kitovo rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky."
 
@@ -237,9 +228,9 @@ Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
 A potom sa to stalo.
 
-Realita toho, čo práve povedal, a hlavne *komu* to povedal, na neho dopadla s oneskorenou silou padajúceho stropu.
+Realita toho, čo práve povedal, na neho dopadla s oneskorenou silou padajúceho stropu.
 
-Kito sa začal triasť. „Podľa Tretej Doktríny — podľa *každej* doktríny — to, čo práve robím, je najvyšší stupeň herézy. Otváranie cesty Spáčovi k relikvii Matky. V apokryfoch sa za to—" Jeho telekinéza skolabovala, vzduch v miestnosti praskol. „—hovorí *večné zatratenie*, a to nie je metafora, je to termín z Druhého Koncilu, keď—"
+Kito sa začal triasť. „Podľa *každej* doktríny je to, čo práve robím, najvyšší stupeň herézy. Otváranie cesty Spáčovi k relikvii Matky—" Jeho telekinéza skolabovala, vzduch v miestnosti praskol.
 
 Tami prikročila a facla ho. Raz. Ostro.
 

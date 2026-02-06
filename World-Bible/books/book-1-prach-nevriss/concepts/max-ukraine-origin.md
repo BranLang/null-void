@@ -7,15 +7,15 @@
 ## Maximilán = Ukrajinec
 
 ### Pôvod:
-- **Narodený na Ukrajine** (EY ~2130?)
-- **Otec: veterán dronových vojen (2022-2026)** — prvá veľká dronová vojna v histórii ľudstva
-- Otec prežil, ale vojna ho zmenila — naučil sa, že drony/roje menia pravidlá boja
-- **Maxov otec naučil syna** — nie len bojovať, ale *myslieť v rojoch*
+- **Narodený na Ukrajine** (EY ~2050)
+- **Dedo: veterán dronových vojen (2022-2026)** — prvá veľká dronová vojna v histórii ľudstva
+- Dedo prežil, ale vojna ho zmenila — naučil sa, že drony/roje menia pravidlá boja
+- **Maxov dedo naučil vnuka** — nie len bojovať, ale *myslieť v rojoch*
 
 ### Dronové vojny 2022-2026:
 - Ukrajina bola priekopníkom dronového boja — FPV drony, roje, improvizácia
 - Prvý konflikt, kde drony zmenili charakter vojny fundamentálne
-- Maxov otec bol súčasťou tejto revolúcie — nie generál, ale praktik v poli
+- Maxov dedo bol súčasťou tejto revolúcie — nie generál, ale praktik v poli
 - **Dedičstvo:** taktické myslenie v rojoch, improvizácia, asymetrická vojna
 
 ### Maxova "tajná technika" — Nanodronový FPV boj:
@@ -60,7 +60,7 @@
 - Vojnový zločin prezlečený za taktiku
 
 **Kto ovláda túto techniku:**
-- **Max** — naučil sa princíp od otca (drony), aplikoval na nanoboty. Majster.
+- **Max** — naučil sa princíp od deda (drony), aplikoval na nanoboty. Majster.
 - **Samael** — vedel tiež (bol z rovnakej éry, veterán zo Zeme). Mŕtvy.
 - **Kael** — pirát, **dokázal to s Gen 2**. Dôkaz, že technika funguje aj s Gen 2 nanobotmi, nielen Gen 1.
 
@@ -117,8 +117,8 @@
 - Improvizácia ako filozofia boja → Max improvizuje s nanotechom
 - "Nikdy sa nevzdávaj" mentalita → Max po 3000 rokoch stále bojuje
 
-### Otec → Syn:
-- Otec: veterán dronovej vojny na Zemi
+### Dedo → Vnuk:
+- Dedo: veterán dronovej vojny na Zemi (2022-2026)
 - Max: veterán nanobotovej vojny na Achillovi
 - Rovnaký princíp, iná technológia, iná planéta
 - **Dedičstvo cez generácie** — rovnako ako Tami dedí po Rennovi
@@ -127,9 +127,9 @@
 
 ## Otázky na rozpracovanie
 
-- [ ] Ako sa volal Maxov otec?
+- [ ] Ako sa volal Maxov dedo?
 - [ ] Bol Max vo vojenskom programe pred ARK-11? Alebo ho rekrutovali neskôr?
-- [ ] Kedy presne sa Max narodil? (pred/po dronových vojnách?)
+- [x] ~~Kedy presne sa Max narodil?~~ — **EY ~2050** (dronové vojny 2022-2026 = dedova éra)
 - [ ] Vie Sera o Maxovom pôvode? (Obaja sú z ARK-11 éry)
 - [ ] Prepísať Max.md s ukrajinským pôvodom — alebo nechať ako brainstorm?
 - [ ] Maxova tajná technika — kedy ju prvýkrát použije v príbehu? Aký je vizuálny efekt?

@@ -1,8 +1,8 @@
 ### Felix (Unit 734 / "The Gunsmith" / "Der Glückliche")
-- **Séria**: Európska (Designation: **Unit 734**) - posledný funkčný kus.
+- **Séria**: **Einstein v4.2** — séria inšpirovaná Albertom Einsteinom. Vizuálne mladšia verzia, ale tvorcovia sa silne inšpirovali Albertovou osobnosťou a intelektom. Felix je posledný funkčný kus série.
 - **Špecializácia**: Ťažké kinetické zbrane, delostrelectvo, lingvistika.
 - **Signature Weapon**:
-    - **88mm "Felix 88"**: Anti-Air/Tank Cannon (jeden kus na lodi *Makita*).
+    - **Kanón "Felix"**: Zásobníkový kanón na lodi *Makita*. Medené nábojnice, **Spira munícia** ako propelent → fialové záblesky pri výstrele.
     - **"Die Nadel" (Ihla)**: Prísne utilitárny rapier z volfrámovej zliatiny. Žiadne ozdoby, len penetračná sila. Vlastní ho Tami.
 - **Status**: Legendárny Mako, žije v **ruinách mesta Kito** na Východe.
 - **Vzťah k Párty**:
