@@ -201,6 +201,42 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Tags: `religion`, `myths`
 - Source: `world-bible.md`, `null-void-saga.md`
 
+### `evt.achilles.great_battle`
+- Name: The Great Battle (Atra Narrows)
+- Time: AY ~850
+- Summary: The Triumvirate (Grond, Samaell, Zaiya/Ishtar) attacks the Varietas empowered by Spira. Fox genocide (Vulpini). Inetis appears on the battlefield. The battle ends in a draw — but the foxes are decimated.
+- Participants: `char.inetis`, `char.grond`, `char.samaell`, `char.ishtar`, `char.renn`, `fac.vulpini`
+- Locations: `place.atra_narrows`, `place.mainland`
+- Tags: `war`, `genocide`, `battle`
+- Source: `10-inetis-chronicles.md`
+
+### `evt.achilles.fox_exodus`
+- Name: Fox Exodus to the East
+- Time: AY ~850
+- Summary: The last fox families flee east. **Renn** (Niktori, member of Inetis's Core Team) volunteers to escort them through the Wilds. **Inetis goes with them** — not alone, as the legends say. Inetis shows Renn the Cave of Ela and bids him farewell.
+- Participants: `char.renn`, `char.inetis`, `fac.vulpini`
+- Locations: `place.eastern_wilds`, `place.cave_ela`
+- Tags: `migration`, `farewell`, `tragedy`
+- Source: `characters/Renn.md`, `10-inetis-chronicles.md`
+
+### `evt.achilles.kito_founded`
+- Name: Founding of the City of Kitana (Kito)
+- Time: AY ~850-950
+- Summary: Renn and the foxes found the city of **Kitana** at secret coordinates provided by Inetis. A waiting place for the Third Arrival — where the Maki are supposed to land. Renn becomes the unofficial leader.
+- Participants: `char.renn`, `fac.vulpini`
+- Locations: `place.kito`
+- Tags: `founding`, `city`
+- Source: `characters/Renn.md`
+
+### `evt.achilles.renn_death`
+- Name: Death of Renn
+- Time: AY 3000
+- Summary: Pirates Vix and Kael kill Renn (Niktori, ~3000+ years old) for the Ancient Map — his own map drawn ~2000 years earlier. Renn was on his way to fulfill an old promise — to bury his friend Inetis. He dies weakened (he refused vampirism) and inattentive (watching Tami, not his surroundings). The pirates steal the map, Makita, and capture 7-year-old Tami.
+- Participants: `char.renn`, `char.vix`, `char.kael`, `char.tami`
+- Locations: `place.eastern_wilds`, `place.kito`
+- Tags: `death`, `tragedy`, `inciting_incident`
+- Source: `characters/Renn.md`, `characters/Renn_Vix_Kael.md`
+
 ### `evt.achilles.pentagram_protocol`
 - Name: Protocol Pentagram (5 Nodes)
 - Time: Era of Myths (precise dating TBD)

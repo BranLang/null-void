@@ -17,6 +17,8 @@ All character profiles have been moved to the `characters` directory.
 - [Coordinator](./characters/Coordinator.md)
 - [Archanjeli Lore](./characters/Archanjeli_Lore.md)
 
+- [Renn](./characters/Renn.md)
+
 ## Minor Characters
-- [Renn, Vix a Kael](./characters/Renn_Vix_Kael.md)
+- [Renn, Vix a Kael](./characters/Renn_Vix_Kael.md) *(pôvodný spoločný súbor — Vix & Kael detaily)*
 - [Mormiel (Požehnaná Matka)](./characters/Mormiel.md)

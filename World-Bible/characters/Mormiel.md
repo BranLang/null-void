@@ -76,6 +76,21 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
 - **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
 
+### Renn (Zosnulý — Bývalý Partner)
+
+- **Spoločná minulosť**: Obaja zo Zeme, obaja nesmrteľní, obaja osamelí. Stretli sa na dvore Nevriss počas zlatého veku ríše (~AY 1000-1500).
+- **Fyzický vzťah**: Nie láska — teplo medzi dvoma ľuďmi, čo vedeli o svete príliš veľa. Intimita z núdze, nie z vášne. Niekedy bližšie, niekedy vzdialené — menilo sa to počas storočí.
+- **Spoloční lovci**: Mormiel naučila Renna vampirizmus (jeho Gen 1 degradoval). Spolu blúdili ulicami v noci — dvaja lovci v jednom meste. Dali vznik mestským legendám o nočných tieňoch.
+- **Odchod**: Renn jedného dňa odišiel — bez drámy, bez vysvetľovania. Mormiel to čakala. On mal tulave topánky, ona mala ambície. Nebolo im spolu dobre — len menej zle.
+- **Rennove modré oči**: Mormiel si ich pamätá. Nezabudnuteľné. Ľudské.
+- **Keď Mormiel uvidí Tami** (AY 3013): Spozná tie oči. Rennove modré oči v tvári líšky. Rennova dcéra + Echo Inetis = **najhodnotnejšia obeť pre Rituál Nástupníctva**. Osobná história + moc + hybrid dedičstvo = neodolateľná kombinácia. Mormiel to nevie artikulovať — ale cíti, že táto dievčina je *niečo viac*.
+- **Impact na Tami — vrstvy Rituálu**: Keď Tami prejde Rituálom, impact bude dvojvrstvový:
+  1. **Echo Inetis** — Tami cíti esenciu Inetis (primárny technický dôvod výberu)
+  2. **Otec (Renn)** — cez spomienky Inetis Tami **uvidí svojho otca**. Renn bol v Inetisinom Core Teame 150+ rokov — Inetis si ho pamätá. Tento impact bude **väčší než Echo** — Tami stratila otca, a teraz ho vidí cez oči niekoho, kto ho poznal pred 2000 rokmi.
+  - *Poznámka: O Maksovom pôvode Renn vedel, ale nemá impact na Tami priamo. Elania/Maks vzťah je separátna emocionálna línia — impact na Maksa, nie na Tami.*
+
+---
+
 ### Anténa — Spomienka na Inetis
 
 Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven — ako odchádzala, opierajúc sa o **čiernu palicu**. Mávala ju vždy so sebou. Mormiel sa o to nikdy nezaujímala — mala vlastné plány, vlastné ambície. Ale vedela, čo to je.

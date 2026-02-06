@@ -6,20 +6,20 @@
 |---|---|
 | **Status** | Mŕtvy (zabitý pirátmi Vix a Kael, AY 3000) |
 | **Meno** | **Renn** |
-| **Rasa** | Varietas — Vulpini (Líška) |
-| **Povolanie** | Hľadač pokladov, prieskumník, aeronaut |
-| **Pôvod** | Pochádzal z malej pobrežnej osady na východe Nevriss |
+| **Rasa** | **Niktori** — Homo Sapiens Sapiens (človek zo Zeme) |
+| **Povolanie** | Hľadač pokladov, prieskumník, aeronaut, zakladateľ Kita |
+| **Pôvod** | Zem → ARK-11 → Elysium → Core Team Inetis → Kito |
 | **Doména** | Ruiny mesta Kito (Východná Divočina) |
 
 ### Pôvod a Charakter
 
-Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná za takmer vyhynutú. Bol to tichý, tvrdohlavý muž s ostrým inštinktom pre nebezpečenstvo a ešte ostrejším pre príležitosti. Celý život bol na cestách — hľadal stratené artefakty, staré ruiny a zabudnuté technológie, ktoré predával gildom a zberateľom.
+Renn bol **Niktori** — človek zo Zeme, jeden z ~100 preživších z ARK-11. Člen Core Teamu Inetis, zakladateľ mesta Kito. Bol to tichý, tvrdohlavý muž s nezabudnuteľnými modrými očami, ostrým inštinktom pre nebezpečenstvo a ešte ostrejším pre príležitosti. Celý život bol na cestách — hľadal stratené artefakty, staré ruiny a zabudnuté technológie, ktoré predával gildom a zberateľom.
 
 ### Ako sa Renn stretol s Felixom
 
 - **Objav Kita (~AY 2985)**: Renn sa ako jeden z mála dobrodruhov odvážil preniknúť hlboko do Východnej Divočiny — oblasti hustých „nových" lesov, ktoré pohltili ruiny starobylého mesta Kito (miesto pristátia lode Hephaestus). Väčšina hľadačov sa vracala s prázdnymi rukami alebo sa nevracala vôbec — les bol nebezpečný a Wraithy tu občas blúdili.
 - **Nález Felixa**: V srdci ruín našiel Renn niečo, čo nečakal — funkčného Maka. **Felix** (Séria E — jediný prežívajúci z Európskej série) žil v ruinách Kita sám od Lekcie Krvi (~AY 2212). Takmer 800 rokov samoty. Felix bol poškodený, čiastočne nefunkčný, ale stále verný svojej Direktíve: *„Prežiť. Stavať. Pomáhať ľudstvu."*
-- **Priateľstvo**: Renn nebol chamtivec. Namiesto toho, aby Felixa predal (funkčný Mako by stál celé imanie), ostal s ním. Opravoval ho, nosil mu súčiastky z ruín, učil sa od neho. Felix na oplátku učil Renna čítať staré technické výkresy a rozumieť strojom. Bolo to priateľstvo medzi líškou a strojom — nečakané, ale hlboké.
+- **Priateľstvo**: Renn nebol chamtivec. Namiesto toho, aby Felixa predal (funkčný Mako by stál celé imanie), ostal s ním. Opravoval ho, nosil mu súčiastky z ruín, učil sa od neho. Felix na oplátku učil Renna čítať staré technické výkresy a rozumieť strojom. Bolo to priateľstvo medzi mužom a strojom — nečakané, ale hlboké.
 - **Usadenie sa**: Renn si v ruinách Kita urobil domov. Sem sa neskôr narodila Tami (~AY 2993). Vyrastala medzi ruinami, strojmi a Felixovými príbehmi o starom svete.
 
 ### Makita — Najväčšia loď na Terre
@@ -41,6 +41,8 @@ Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná
 - **Vražda**: Zabili ho pre **Starobylú Mapu** — dokument, ktorého skutočnú hodnotu nepoznal ani sám Renn. Piráti nevedeli, čo presne mapa zobrazuje, ale vedeli, že starobylé mapy v Staroreči sa dajú predať za imanie — alebo ešte lepšie, nasledovať.
 - **Mapa vedie ku Jaskyni**: Kael a Vix nasledovali mapu a dostali sa do oblasti **Jaskyne Počiatku**. Kaelov Prach (nanoboty v krvi) aktivoval senzory kryoboxu a spustil proces Maxovho prebudenia — reťazová reakcia, ktorú nikto neplánoval.
 - **Zajatie Tami**: Po Rennovej smrti sa Vix a Kael vrátili do Kita, kde zajali 7-ročnú Tami. Felix nebol v ruinách (bol preč na jednej zo svojich potuliek za súčiastkami). Tami bola sama.
+
+> **Pozri kompletný profil**: [Renn.md](./Renn.md)
 
 ---
 

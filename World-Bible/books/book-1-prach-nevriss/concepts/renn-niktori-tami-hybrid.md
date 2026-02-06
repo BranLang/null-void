@@ -1,6 +1,6 @@
 # Renn = Niktori — Tami ako hybrid (Brainstorm)
 
-> STATUS: Brainstorm, nie finálne lore. Nápady na rozpracovanie.
+> STATUS: **KANONICKÉ LORE** (schválené). Renn = Niktori je oficiálne potvrdený.
 
 ---
 
@@ -148,4 +148,4 @@
 - [ ] Kedy sa odhalí pravda o Rennovom pôvode? Book 2? 3?
 - [ ] Ako reaguje Tami, keď sa dozvie, že jej otec bol človek zo Zeme?
 - [ ] Mení to niečo na jej vzťahu s Maksom? (Obaja sú "ľudia medzi Varietas")
-- [ ] Prepísať Renn_Vix_Kael.md z "Vulpini" na "Niktori" — alebo nechať Vulpini ako kryciu identitu?
+- [x] Prepísať Renn_Vix_Kael.md z "Vulpini" na "Niktori" — alebo nechať Vulpini ako kryciu identitu?

@@ -6,20 +6,20 @@
 |---|---|
 | **Status** | Dead (killed by pirates Vix and Kael, AY 3000) |
 | **Name** | **Renn** |
-| **Race** | Varietas — Vulpini (Fox) |
-| **Occupation** | Treasure hunter, explorer, aeronaut |
-| **Origin** | From a small coastal settlement in eastern Nevriss |
+| **Race** | **Niktori** — Homo Sapiens Sapiens (human from Earth) |
+| **Occupation** | Treasure hunter, explorer, aeronaut, founder of Kito |
+| **Origin** | Earth → ARK-11 → Elysium → Inetis Core Team → Kito |
 | **Domain** | Ruins of the city of Kito (Eastern Wilds) |
 
 ### Origin and Character
 
-Renn was one of the last Vulpini — a fox Varietas race considered nearly extinct. He was a quiet, stubborn man with a sharp instinct for danger and an even sharper one for opportunity. He spent his whole life on the road — searching for lost artifacts, ancient ruins, and forgotten technologies to sell to guilds and collectors.
+Renn was a **Niktori** — a human from Earth, one of ~100 survivors from ARK-11. A member of Inetis's Core Team and founder of the city of Kito. He was a quiet, stubborn man with unforgettable blue eyes, a sharp instinct for danger and an even sharper one for opportunity. He spent his whole life on the road — searching for lost artifacts, ancient ruins, and forgotten technologies to sell to guilds and collectors.
 
 ### How Renn Met Felix
 
 - **Discovery of Kito (~AY 2985)**: Renn was one of the few adventurers bold enough to venture deep into the Eastern Wilds — a region of dense "new" forests that had swallowed the ruins of the ancient city of Kito (landing site of the ship Hephaestus). Most seekers came back empty-handed or didn't come back at all — the forest was dangerous and Wraiths occasionally roamed the area.
 - **Finding Felix**: In the heart of the ruins, Renn found something he didn't expect — a functioning Maki. **Felix** (E-Series — the sole survivor of the European series) had been living alone in the ruins of Kito since the Blood Lesson (~AY 2212). Nearly 800 years of solitude. Felix was damaged, partially non-functional, but still loyal to his Directive: *"Survive. Build. Help humanity."*
-- **Friendship**: Renn wasn't greedy. Instead of selling Felix (a functioning Mako would have been worth a fortune), he stayed with him. He repaired him, brought him parts from the ruins, learned from him. Felix in turn taught Renn to read old technical blueprints and understand machines. It was a friendship between a fox and a machine — unexpected, but deep.
+- **Friendship**: Renn wasn't greedy. Instead of selling Felix (a functioning Mako would have been worth a fortune), he stayed with him. He repaired him, brought him parts from the ruins, learned from him. Felix in turn taught Renn to read old technical blueprints and understand machines. It was a friendship between a man and a machine — unexpected, but deep.
 - **Settling Down**: Renn made the ruins of Kito his home. This is where Tami was later born (~AY 2993). She grew up surrounded by ruins, machines, and Felix's stories about the old world.
 
 ### Makita — The Greatest Ship on Terra
@@ -41,6 +41,8 @@ Renn was one of the last Vulpini — a fox Varietas race considered nearly extin
 - **Murder**: They killed him for the **Ancient Map** — a document whose true value not even Renn himself knew. The pirates didn't know exactly what the map showed, but they knew that ancient maps in Old Speech could be sold for a fortune — or better yet, followed.
 - **Map Leads to the Cave**: Kael and Vix followed the map and reached the area of the **Cave of Beginning**. Kael's Dust (nanobots in his blood) activated the cryobox sensors and triggered the process of Maks's awakening — a chain reaction no one had planned.
 - **Tami's Capture**: After Renn's death, Vix and Kael returned to Kito, where they captured 7-year-old Tami. Felix was not in the ruins (he was away on one of his scavenging trips for parts). Tami was alone.
+
+> **See full profile**: [Renn.md](./Renn.md)
 
 ---
 

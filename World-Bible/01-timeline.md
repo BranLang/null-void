@@ -244,6 +244,13 @@ Varietas delia históriu nábožensky:
     - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadely** Veza Zatratenych juhozapadne od Elysia. A Severna citadela zapadne od Neverice.
     **Ex inferis** zacnu lupezne vojny na uzemia Varietas, - potrebuju ludske(varietas) obete, potraviny alebo zabavu.
 
+### AY ~850: Veľká Bitka (Atra Narrows)
+- **Veľká vojna**: Triumvirát (Grond, Samaell, Zaiya/Ishtar) zaútočí na Varietas posilnených Spirou. Inetis sa objaví na bojisku.
+- **Genocída líšok**: Líšky (Vulpini) — najlepší stratégovia a Spira programátori — boli primárny cieľ. Zdecimované.
+- **Exodus líšok na východ**: Posledné líščie rodiny utečú na východ. **Renn** (Niktori, člen Core Teamu Inetis) ich dobrovoľne eskortuje cez nebezpečnú Divočinu. **Inetis ide s nimi** — nie sama, ako hovoria legendy.
+- **Založenie Kita (~AY 850-950)**: Renn a líšky založia mesto **Kitana** (neskôr Kitsune, neskôr Kito) na tajných koordinátoch od Inetis — čakáreň na Tretí Príchod (miesto pristátia Maki).
+- **Elania a „spiaci otec"**: Elania povie Ex Inferis pri ich príchode, že jej otec (Generál Maksimilián) spí. Legenda sa rozšíri — Ex Inferis sa ho nikdy nepokúsia hľadať. Elania to povedala, aby v nich vzbudila aspoň trochu strachu — aby neprešli určitú hranicu. Ale prešli, a Elania bola v tom čase bezmocná.
+
 ### AY 2212: Tretí Príchod (Expedícia "Hephaestus")
 - **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami syntetickych androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
 - **Biblická udalosť**: Pre Varietas toto značí **začiatok Veku Poslov (RP 0)**. Maki sú vnímaní ako "Poslovia Matky".
@@ -306,7 +313,7 @@ Varietas delia históriu nábožensky:
 ## Časová os hlavného deja
 
 *AY 3000 (RP 788)**:- **Prebudenie Maksimiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
-    - Piráti **Vix a Kael** zabíjajú hľadača pokladov **Renna** (Taminho otca) a jeho malú dcéru **Tami** (7) držia v klietke.
+    - Piráti **Vix a Kael** zabíjajú **Renna** (Niktori — človek zo Zeme, zakladateľ Kita, Taminho otca) a jeho malú dcéru **Tami** (7) držia v klietke.
     - Kael prebudi wraitha Inetis ktory zobudi maxa. Wraith inetis zabije Kaela.
     - Maks sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
     - **Samaell** cele roky putuje divocinou okolo jaskyne, citi Inetisinu stopu, obcas najde zbludeny nanodron. Ale nikdy sa nedostal blizsie ako 100 kilometrov k jaskyni. Az kym neuvidi na oblohe Makitu a nezacne ju nasledovat. Kael a Vix ho navedu priamo k Jaskyni.
