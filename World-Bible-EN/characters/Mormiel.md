@@ -103,7 +103,7 @@ Mormiel remembers Inetis. She saw her on the battlefield — where Shoraven now 
 
 **Private face (Archangel):**
 - Cold, surgical precision
-- Pragmatic like Max, but without emotion
+- Pragmatic like Maks, but without emotion
 - *"Twenty-three bodies. Twenty-three families. No one asks."*
 
 **CORRECT:**
@@ -127,5 +127,5 @@ Revealing the truth (always lies and half-truths)
 
 ### Role in the Story
 
-- **Book 1 (Earth)**: The Blessed Mother is present in the background — her priests guard the Antenna in Shoraven, her word shapes the politics of Nevriss. Max and Tami hear about her, but they do not meet her directly.
-- **Revelation**: Her true identity as the 4th Archangel will be revealed later in the story — when Max realizes the enemy does not sit only in the north and east, but also in the heart of the allied city.
+- **Book 1 (Earth)**: The Blessed Mother is present in the background — her priests guard the Antenna in Shoraven, her word shapes the politics of Nevriss. Maks and Tami hear about her, but they do not meet her directly.
+- **Revelation**: Her true identity as the 4th Archangel will be revealed later in the story — when Maks realizes the enemy does not sit only in the north and east, but also in the heart of the allied city.

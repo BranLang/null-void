@@ -59,7 +59,7 @@ Doubts spoken aloud
 ```
 
 **Contrast:**
-- Max: a soldier who thinks
+- Maks: a soldier who thinks
 - Grond: a soldier who only fights
 
 ### Quote

@@ -180,18 +180,18 @@
 
 **Primary Mission (AY 2013):**
 - Bring the **Antenna** artifact back to Elania
-- Investigate the "immortal exorcist" (Max)
+- Investigate the "immortal exorcist" (Maks)
 - Find out what happened to the Paladins (Rau & Kira)
 
 **Hidden Agenda:**
-- **Max's profile = a mystery bigger than the artifact**
+- **Maks's profile = a mystery bigger than the artifact**
 - Sera knows every exorcist personally
-- Max doesn't fit any profile
+- Maks doesn't fit any profile
 - **Who is he? Where did he come from? Why does Elania know about him?**
 
 **Long-term Goal:**
 - Protect Elania (vow to Inetis)
-- Help Elania find "someone who shares her blood" (Max = father?)
+- Help Elania find "someone who shares her blood" (Maks = father?)
 - Keep her Gen 1+2 nanobots functional (vampirism)
 - **Perhaps find meaning in immortality**
 
@@ -223,7 +223,7 @@
 
 **Current Status:**
 - Sera carries out Elania's orders without question
-- But she has her own curiosity (Max = mystery)
+- But she has her own curiosity (Maks = mystery)
 - She is Elania's equal (just as strong, better in most things)
 - **But she WANTS to serve** — not out of subordination, but out of choice
 
@@ -232,10 +232,10 @@
 **Dynamic:**
 - Sera knew Inetis personally
 - Defended her during Elania's departure (EY -10)
-- **Inetis's last words:** "Take care of Elania. And if you find Max... tell him the truth."
+- **Inetis's last words:** "Take care of Elania. And if you find Maks... tell him the truth."
 - Sera keeps that vow to this day
 
-### Max (Unknown — Target of Interest)
+### Maks (Unknown — Target of Interest)
 
 **Sera's Assumptions:**
 - Immortal exorcist
@@ -317,15 +317,15 @@
 
 **Function:**
 - **Catalyst** — brings information about Elania, the Paladins, the southern continent
-- **Mystery** — Tami/Max must ask: "Who is Elania? Why is she looking for Max?"
+- **Mystery** — Tami/Maks must ask: "Who is Elania? Why is she looking for Maks?"
 - **Ally (tentative)** — not an enemy, but not fully trustworthy either
-- **Setup for Book 4** — Sera = bridge between Max and Elania (father-daughter reunion)
+- **Setup for Book 4** — Sera = bridge between Maks and Elania (father-daughter reunion)
 
 **Key Scenes (Book 1):**
 1. **Encounter with Tami** — introduction, not a fight
 2. **Reveal about Elania** — "someone who shares his blood"
 3. **Departure** — leaves with a mysterious message
-4. **Possible return** — when Max encounters the Paladins again?
+4. **Possible return** — when Maks encounters the Paladins again?
 
 ---
 

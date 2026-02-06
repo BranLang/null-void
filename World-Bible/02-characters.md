@@ -4,7 +4,7 @@
 
 All character profiles have been moved to the `characters` directory.
 
-- [Maximilián](./characters/Max.md)
+- [Maksimilián](./characters/Maks.md)
 - [Tami](./characters/Tami.md)
 - [Inetis](./characters/Inetis.md)
 - [Kito](./characters/Kito.md)

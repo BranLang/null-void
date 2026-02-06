@@ -71,11 +71,11 @@ Nobody knows this. Except one man who just woke up.
 
 </div>
 
-**Maximilian** wakes up in a cave after 3,000 years of cryosleep. No memories. No allies. Eyes replaced by stolen military nanodrones that see the world in data overlays. The woman who put him to sleep is dead — her skeleton still clutching a metal rod against his cryo-chamber.
+**Maksimilian** wakes up in a cave after 3,000 years of cryosleep. No memories. No allies. Eyes replaced by stolen military nanodrones that see the world in data overlays. The woman who put him to sleep is dead — her skeleton still clutching a metal rod against his cryo-chamber.
 
 He doesn't know she was the love of his life. He doesn't know the rod is the most powerful weapon on the planet. And he doesn't know she had a daughter — now a 2,750-year-old immortal who wants to upload all consciousness into a digital void.
 
-**Tami** is a 20-year-old fox-girl pirate, smuggler, and treasure hunter. She carries two pistols, a rapier, and fragments of a dead goddess in her blood that she doesn't understand. She's been searching for Max for five years — she thinks it's because she loves him. It's actually because the dead goddess inside her is still trying to complete her final mission.
+**Tami** is a 20-year-old fox-girl pirate, smuggler, and treasure hunter. She carries two pistols, a rapier, and fragments of a dead goddess in her blood that she doesn't understand. She's been searching for Maks for five years — she thinks it's because she loves him. It's actually because the dead goddess inside her is still trying to complete her final mission.
 
 They reunite in **Shoraven** — a border city under siege — where they need to steal an ancient artifact from beneath the Church's cathedral before the northern army levels the city. Along the way, they pick up **Kito**, a cat-eared archaeologist whose wife is slowly turning to crystal, and encounter **Sera**, a terrifyingly powerful servant of someone they haven't met yet.
 
@@ -89,9 +89,9 @@ The heist goes wrong. The city falls. And what they pull from the rubble changes
 <tr>
 <td width="25%" align="center">
 
-![Max](World-Bible/assets/characters/Max/max-lore-accurate.png)
+![Maks](World-Bible/assets/characters/Maks/max-lore-accurate.png)
 
-**Max**<br/>
+**Maks**<br/>
 *The Sleeper*<br/>
 Human soldier. 3,000 years displaced. Eyes of black nanodust. Pragmatic, laconic, lethal.
 
@@ -120,7 +120,7 @@ Ancient warrior. Three voices. Serves a master she'll never betray. The most dan
 
 **Elania**<br/>
 *The Daughter*<br/>
-Max's child he never knew. 2,750 years old. Wants to end biological suffering — by ending biology.
+Maks's child he never knew. 2,750 years old. Wants to end biological suffering — by ending biology.
 
 </td>
 </tr>

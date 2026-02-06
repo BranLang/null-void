@@ -56,7 +56,7 @@ Chlad jej prešiel po chrbte. To meno poznala. Felix o nej rozprával — starý
 
 Tami sa snažila spracovať ten pocit, že komunikuje s niekým, kto má viacero tvárí a strieda ich rýchlejšie, než sa dá sledovať.
 
-*Ale potrebujeme ju. Max potrebuje pomoc.*
+*Ale potrebujeme ju. Maks potrebuje pomoc.*
 
 Prikývla. „Ukáž nám cestu."
 
@@ -92,7 +92,7 @@ Nie pomaly. Nie mechanicky. *Hladko.* Ako keby žila. Nanokompozit na jej povrch
 
 V tom momente sa z opačnej strany brány ozvali kroky. Ťažké. Kovové.
 
-Max prišiel zo svojho tunela. Stál na druhej strane otvárania sa brány — samopal v ruke, plášť roztrhaný, dýchajúci ťažko. Na ľavom ramene tmavá škvrna — krv, nie jeho. Jeden zásobník prázdny, druhý poloplný. Čokoľvek stretol na svojej ceste, nežilo. Uvidel Seru. Uvidel, čo robí.
+Maks prišiel zo svojho tunela. Stál na druhej strane otvárania sa brány — samopal v ruke, plášť roztrhaný, dýchajúci ťažko. Na ľavom ramene tmavá škvrna — krv, nie jeho. Jeden zásobník prázdny, druhý poloplný. Čokoľvek stretol na svojej ceste, nežilo. Uvidel Seru. Uvidel, čo robí.
 
 A stuhol.
 
@@ -105,7 +105,7 @@ Sera otvorila oči. Pozrela naňho. Prvýkrát za celú scénu sa niečo v jej t
 
 Pauza. „A ty?"
 
-Max mlčal. Potom potichu: „...Inetis."
+Maks mlčal. Potom potichu: „...Inetis."
 
 Brána sa otvorila úplne.
 
@@ -127,15 +127,15 @@ Obaja sa otočili.
 
 Rau — ten väčší, s modrým chocholom — zdvihol vibro-sekeru. Kira — štíhlejšia, s červeným chocholom — urobila krok nabok, pokrývajúc priestor.
 
-Max zdvihol samopal. Tri rány. Nanodronové náboje zasiahli Rauov štít a... rozprskli sa. Akoby hodil vodu na sklo. Hard Light absorboval náraz, zachvel sa a ustálil.
+Maks zdvihol samopal. Tri rány. Nanodronové náboje zasiahli Rauov štít a... rozprskli sa. Akoby hodil vodu na sklo. Hard Light absorboval náraz, zachvel sa a ustálil.
 
-Tvrdé svetlo. Energetický štít. Max poznal tú technológiu — nie odsiaľ, nie z tohto tisícročia. *Takéto veci sa na tomto kontinente nerobia.*
+Tvrdé svetlo. Energetický štít. Maks poznal tú technológiu — nie odsiaľ, nie z tohto tisícročia. *Takéto veci sa na tomto kontinente nerobia.*
 
-„*Nefunguje to!*" Max cúvol. Vystrelil znova — do kĺbov, do medzier v brnení. Náboje sa odrážali, menili smer, rozprskávali sa na neškodný prach.
+„*Nefunguje to!*" Maks cúvol. Vystrelil znova — do kĺbov, do medzier v brnení. Náboje sa odrážali, menili smer, rozprskávali sa na neškodný prach.
 
-Rau sa pohol. Sekera švihla horizontálne. Max sa sklonil, čepeľ mu prešla centimetre nad hlavou — vibrácie boli tak silné, že kameň za ním explodoval na prach.
+Rau sa pohol. Sekera švihla horizontálne. Maks sa sklonil, čepeľ mu prešla centimetre nad hlavou — vibrácie boli tak silné, že kameň za ním explodoval na prach.
 
-A Max cítil niečo, čo necítil trinásť rokov.
+A Maks cítil niečo, čo necítil trinásť rokov.
 
 *Strach.*
 
@@ -205,14 +205,14 @@ Dotkol sa vibro-sekery. Prsty mu prešli po čepeli — stále jemne vibrovala, 
 
 ---
 
-Max stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na Seru — na ženu, čo práve zabila dvoch Paladínov, akoby zametala podlahu.
+Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na Seru — na ženu, čo práve zabila dvoch Paladínov, akoby zametala podlahu.
 
-Sera sa otočila k nemu. Pozrela na vzduch okolo Maxa — videla to, čo ostatní nie. Drony. Mikroskopické, levitujúce v jeho očných jamkách.
+Sera sa otočila k nemu. Pozrela na vzduch okolo Maksa — videla to, čo ostatní nie. Drony. Mikroskopické, levitujúce v jeho očných jamkách.
 
 „Kinetický roj." Pauza. „Čierny Prach. Stará generácia."
 *[SERA — HLBOKÝ HLAS. Analyzuje. Vidí nanodronový swarm v jeho očných jamkách — Gen 1 kinetický roj. Stará technológia. Nebezpečná technológia.]*
 
-Max prikývol.
+Maks prikývol.
 
 Obaja na seba hľadeli. Veterán na veterana. Zabijak na zabijaka. V tichosti, ktorá povedala viac než slová.
 
@@ -236,7 +236,7 @@ A uprostred, na jednoduchom podstavci z toho istého matného kovu ako brána...
 
 Čierna tyč. Jeden a pol metra dlhá. Matná, pohlcujúca svetlo — Tamine chemické svetlo sa od nej odrážalo inak, akoby povrch *prehĺtal* fotóny. Nebola ozdobená. Nebola pekná. Bola len... *tam*. Predmet, ktorý nemal právo existovať v podzemí stredovekého chrámu, ale existoval. Tichý. Čakajúci.
 
-Max zastal. Dych sa mu zasekol.
+Maks zastal. Dych sa mu zasekol.
 
 *Je to ona.* Nie myšlienka. Fakt. Jeho nanoboty rezonovali — jemne, takmer nečujne, ako struny gitary, ktorou prešiel slabý prievan. Bol to kus domova. Kus niečoho, čo poznal z iného života.
 
@@ -250,7 +250,7 @@ A zdvihla artefakt.
 
 Kovová tyč. Studená. Ťažká.
 
-A potom sa stalo niečo, čo Max a Tami nečakali.
+A potom sa stalo niečo, čo Maks a Tami nečakali.
 
 **Sera zastala.**
 
@@ -258,7 +258,7 @@ Hľadela na artefakt. Čierne oči sa rozšírili. *Túžba.* Surová, tisícro�
 
 Prsty sa jej chveli — prvýkrát za celý večer. Pritiahla si tyč k hrudi.
 
-Max strhol zbraň. „Sera."
+Maks strhol zbraň. „Sera."
 
 Sera ho nepočula. Alebo počula a bolo jej to jedno. Oči mala zatvorené. Tvár — tá dokonalá maska — sa zmenila. Pery sa jej mierne rozchýlili. Vyzeralo to ako hlad. Ako túžba niekoho, kto tisíc rokov slúžil a teraz držal kúsok svojej pani. Kúsok niečoho, čomu celý život verila.
 
@@ -278,7 +278,7 @@ Bojovala. Bolo to vidieť — v napätí jej čeľuste, v tom, ako sa jej prsty 
 
 Otočila sa.
 
-Nie k Maxovi.
+Nie k Maksovi.
 
 K **Tami**.
 
@@ -289,12 +289,12 @@ Sera sa usmiala — malý, kontrolovaný úsmev. Mladší. Dievčenský. „Pre 
 
 Natiahla ruky. Podávala jej artefakt.
 
-Tami zamrzla. Pozrela na Maxa. Max stál s namierenou zbraňou, ale nestrieľal. Niečo ho držalo späť.
+Tami zamrzla. Pozrela na Maksa. Maks stál s namierenou zbraňou, ale nestrieľal. Niečo ho držalo späť.
 
 „Vezmi si ho." Hlas sa jej zmenil. Hlboký. Vážny. „Kým si to nerozmyslím."
 *[SERA — HLBOKÝ HLAS. Pravda. Naozaj bojuje sama so sebou. Chce si ho nechať. Ale plán je plán.]*
 
-Tami váhala. *Je to pasca? Zbraň? Prečo mi to dáva? Prečo nie Maxovi?*
+Tami váhala. *Je to pasca? Zbraň? Prečo mi to dáva? Prečo nie Maksovi?*
 
 Ale niečo v nej — ten inštinkt, ktorý ju viedol celý život, cez pirátske bitky a ľadové búrky a noci, keď nechcela žiť — povedal: *Vezmi.*
 
@@ -316,11 +316,11 @@ Sera pustila druhý koniec.
 
 Usmiala sa. Nie dievčensky. Nie obchodne. Bol to smutný, unavený úsmev ženy, ktorá sa práve vzdala niečoho, čo milovala, aby spustila lavínu, ktorej koniec ani ona nevidela.
 
-Max to videl. V Taminých očiach — v tých tyrkysových líščích očiach — na moment preblikol záblesk. Fialový. Ako svetlo ďalekej hviezdy.
+Maks to videl. V Taminých očiach — v tých tyrkysových líščích očiach — na moment preblikol záblesk. Fialový. Ako svetlo ďalekej hviezdy.
 
 Zmizol skôr, než si bol istý.
 
-Sera sa otočila k Maxovi. Hlas jej znel inak — ani hlboký, ani dievčenský. Tretí hlas. *Hlas Pravdy.* Starý, krásny a strašný.
+Sera sa otočila k Maksovi. Hlas jej znel inak — ani hlboký, ani dievčenský. Tretí hlas. *Hlas Pravdy.* Starý, krásny a strašný.
 
 „Hľadaj veže." Pauza. „Tri veže prejdeš. V poslednej pravda čaká."
 *[SERA — HLAS PRAVDY. Tretí hlas. Vzácny. Nekalkuluje — prorokuje. Sama nerozumie, odkiaľ to prichádza.]*
@@ -342,7 +342,7 @@ Definitívne.
 
 Komora ostala tichá. Len jemné bzučanie artefaktu v Taminých rukách rušilo ticho.
 
-Max stál v prázdnom priestore. Ruky zovreté do pästí. Oči — tie čierne jamky, kde levitovali nanoboty — sa dívali do prázdnoty miesta, kde stála Sera.
+Maks stál v prázdnom priestore. Ruky zovreté do pästí. Oči — tie čierne jamky, kde levitovali nanoboty — sa dívali do prázdnoty miesta, kde stála Sera.
 
 *Vie. A nepovie.*
 
@@ -352,9 +352,9 @@ Max stál v prázdnom priestore. Ruky zovreté do pästí. Oči — tie čierne 
 
 Tami prišla k nemu. Opatrne.
 
-„Max... kto bola?"
+„Maks... kto bola?"
 
-Max mlčal.
+Maks mlčal.
 
 Potom — chrapľavým, napätým hlasom:
 
@@ -362,13 +362,13 @@ Potom — chrapľavým, napätým hlasom:
 
 Kito klesol na kolená. Ruky sa mu triasli tak, že mapy vypadli na zem.
 
-„To nedáva zmysel," šepkal. Hlas sa mu lámal. „V Doktrínach nie je *nikto* ako ona. Žiadny Príchod. Žiadne proroctvo. Ak existuje bytosť, ktorú naše texty vôbec nespomínajú..." Pozrel na Maxa s výrazom niekoho, komu sa práve zrútil celý systém viery. „Čo ešte nám tá Cirkev *zamlčala*?"
+„To nedáva zmysel," šepkal. Hlas sa mu lámal. „V Doktrínach nie je *nikto* ako ona. Žiadny Príchod. Žiadne proroctvo. Ak existuje bytosť, ktorú naše texty vôbec nespomínajú..." Pozrel na Maksa s výrazom niekoho, komu sa práve zrútil celý systém viery. „Čo ešte nám tá Cirkev *zamlčala*?"
 
 Pery sa mu pohybovali — nie modlitba, nie citát. Len tiché, zúfalé šepkanie človeka, ktorý práve pochopil, že encyklopédia, podľa ktorej žil, mala vytrhnuté stránky.
 
 Tami sa na neho pozrela. Prvýkrát videla Kita — toho cynického akademika — *zlomeného*.
 
-„Nie je to bohyňa," povedal Max ostro. „Je to človek. Starý, nebezpečný, a hrá svoju vlastnú hru."
+„Nie je to bohyňa," povedal Maks ostro. „Je to človek. Starý, nebezpečný, a hrá svoju vlastnú hru."
 
 Prešiel okolo nich. Pozrel na artefakt v Taminých rukách. Natiahol ruku. Dotkol sa ho.
 
@@ -388,19 +388,19 @@ Potom to začul.
 
 Zvuk. Tichý, rytmický, kovový. Prichádzal z miestnosti, kde ležali Paladíni.
 
-Max to pocítil skôr, než to pochopil — niečo v brneniach sa nabíjalo. Energia stúpala. Rýchlo. *Kaskáda*, povedal si. *Idú sa odpáliť.*
+Maks to pocítil skôr, než to pochopil — niečo v brneniach sa nabíjalo. Energia stúpala. Rýchlo. *Kaskáda*, povedal si. *Idú sa odpáliť.*
 
 Otočil sa.
 
 Kira ležala tam, kde padla. Chrbtica prerušená, nohy mŕtve. Ale ruky — tie masívne, opancierované ruky — sa pohybovali. Pomaly. S metodickou presnosťou niekoho, kto vie, že robí poslednú vec vo svojom živote.
 
-Prsty jednej ruky zadávali sekvenciu na paneli na predlaktí druhej. Symboly, ktoré Max nepoznal — nie Spira, nie angličtina. Niečo staršie. Niečo z juhu.
+Prsty jednej ruky zadávali sekvenciu na paneli na predlaktí druhej. Symboly, ktoré Maks nepoznal — nie Spira, nie angličtina. Niečo staršie. Niečo z juhu.
 
 Sekvenciu dokončila. Potom sa zastavila.
 
 Otočila hlavu k Rauovi. K jeho telu — masívnemu, nehybnému, s odhalenému gorilou tvárou, na ktorej zastygol posledný výraz. Natiahla ruku. Prsty — tie obrovské, opancierované prsty — sa jemne dotkli jeho líca. Opatrne. Ako keby sa bála, že ho zobudí.
 
-Pery sa jej pohybovali. Slová boli tiché — v jazyku, ktorý znel ako angličtina prežutá tisícročiami a vzdialenosťou. Hrdelné, rytmické, plné spoluhlások, ktoré severné jazyky nepoznali. Max zachytil fragmenty — tvary slov, ktoré kedysi mohli byť angličtinou, ale teraz boli niečím úplne iným.
+Pery sa jej pohybovali. Slová boli tiché — v jazyku, ktorý znel ako angličtina prežutá tisícročiami a vzdialenosťou. Hrdelné, rytmické, plné spoluhlások, ktoré severné jazyky nepoznali. Maks zachytil fragmenty — tvary slov, ktoré kedysi mohli byť angličtinou, ale teraz boli niečím úplne iným.
 
 Kito vedľa Tami zašepkal: „Čo hovorí? Je to kliatba?"
 
@@ -412,7 +412,7 @@ Na moment — len na ten jeden, tichý moment — nebola vojačka. Nebola Palad�
 
 Pustila jeho tvár.
 
-A potom zdvihla hlavu. Červené oči — nie mŕtve, nie skelné — hľadeli priamo na Maxa. Na moment sa ich pohľady stretli. Vojak na vojaka. Obaja vedeli, čo sa deje.
+A potom zdvihla hlavu. Červené oči — nie mŕtve, nie skelné — hľadeli priamo na Maksa. Na moment sa ich pohľady stretli. Vojak na vojaka. Obaja vedeli, čo sa deje.
 
 Kira sa usmiala. Zuby — príliš veľké, príliš ostré — sa odhalili v úsmeve, ktorý nebol hrozbou. Bol to *pozdrav*. Pozdrav od niekoho, kto odchádza, tomu, kto zostáva.
 
@@ -420,13 +420,13 @@ Brnenie na oboch Paladínoch začalo žiariť. Zlaté línie na náprsníkoch sa
 
 Tridsať sekúnd. Možno menej. Maxove senzory mu hovorili to, čo jeho oči videli — kaskáda, reťazová reakcia, dvesto metrov v každom smere. Všetko v tom okruhu prestane existovať.
 
-„**VON!**" zavrčal Max. „*TERAZ!*"
+„**VON!**" zavrčal Maks. „*TERAZ!*"
 
-Chytil Tami za rameno a strčil ju k tunelu. Kito už bežal — archeológ nepotreboval vysvetlenie, keď videl žiariace brnenie a Maxov výraz.
+Chytil Tami za rameno a strčil ju k tunelu. Kito už bežal — archeológ nepotreboval vysvetlenie, keď videl žiariace brnenie a Maksov výraz.
 
 Bežali.
 
-Maxov samopal narazil do steny tunela. Popruh praskol. Zbraň spadla do tmy za nimi. Max sa nepristavil.
+Maksov samopal narazil do steny tunela. Popruh praskol. Zbraň spadla do tmy za nimi. Maks sa nepristavil.
 
 *20 sekúnd.*
 
@@ -440,7 +440,7 @@ Svetlo za nimi zosilnelo. Nie biele. *Zlaté.* Ako keby sa za nimi rozsvietilo s
 
 „Doprava!" kričal Kito. „Ventilačná šachta — hore, hore, *hore!*"
 
-Max zdvihol Kita za golier a hodil ho do šachty. Potom Tami. Potom sa vyšvihol sám.
+Maks zdvihol Kita za golier a hodil ho do šachty. Potom Tami. Potom sa vyšvihol sám.
 
 *5...*
 
@@ -486,9 +486,9 @@ Panika sa valila ulicami. Strážcovia opúšťali pozície. Civilisti utekali k
 
 ---
 
-Max, Tami a Kito sa vydrápali z ventilačnej šachty do uličky za Chrámom. Za nimi — tam, kde stál najväčší chrám na kontinente — bola len prašná jama a hŕba sutín, z ktorej stúpal dym.
+Maks, Tami a Kito sa vydrápali z ventilačnej šachty do uličky za Chrámom. Za nimi — tam, kde stál najväčší chrám na kontinente — bola len prašná jama a hŕba sutín, z ktorej stúpal dym.
 
-Max stál. Bez samopalu. Plášť roztrhaný, ruky odreté do krvi od rebríkov.
+Maks stál. Bez samopalu. Plášť roztrhaný, ruky odreté do krvi od rebríkov.
 
 Tami stála vedľa neho. Bez pištole. Artefakt zovretý v rukách, jedina vec, ktorú nestratili.
 
@@ -498,11 +498,11 @@ Okolo nich bežali ľudia. Kričali. Plakali. Nosili zranených. Nikto si ich ne
 
 „Chrám," zašepkal Kito. Hlas sa mu lámal. „Matka Všehomíra... Chrám..."
 
-Max sa pozrel na sutiny. Na prach, ktorý stúpal do nočnej oblohy a miešal sa s dymom z Grawských požiarov.
+Maks sa pozrel na sutiny. Na prach, ktorý stúpal do nočnej oblohy a miešal sa s dymom z Grawských požiarov.
 
 *Collateral damage*, oznámil Asistent. Chladne. Vecne. *Misia splnená. Artefakt zaistený. Straty: samopal, 3 zásobníky nanodronovej munície. Zisk: Anténa.*
 
-Max Asistenta ignoroval. Pozeral sa na Tami. Na artefakt v jej rukách. Na fialový záblesk, o ktorom si stále nebol istý.
+Maks Asistenta ignoroval. Pozeral sa na Tami. Na artefakt v jej rukách. Na fialový záblesk, o ktorom si stále nebol istý.
 
 „Ideme," povedal. Ticho. Bez emócie. „K Makite."
 

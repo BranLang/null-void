@@ -1,7 +1,7 @@
 # Prohistória: Éra Hráčov (EY 2050 – 2150)
 
 > *„Nenarodil som sa v blate, ako si myslíte. Narodil som sa v kóde. V mojej mladosti sme stavali chrámy za minúty a viedli vojny, ktoré trvali storočia, kým v realite vychladla káva. Volali sme to 'Achilles'. A keď sme sa vrátili, priniesli sme si hračky so sebou."*
-> — Maximilián, spomienky na rok 2065
+> — Maksimilián, spomienky na rok 2065
 
 ---
 
@@ -64,7 +64,7 @@ i_net_is mala prístup k obrovským výpočtovým zdrojom miliardára a jediný 
 ### Časová dilatácia
 **Bežný pomer: 1 hodina reality = 24 hodín v hre** (1:24)
 
-Generácia detí (vrátane Maxa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
+Generácia detí (vrátane Maksa) prežila subjektívne **stovky rokov** v simulácii. Tam dospeli, naučili sa organizovať, bojovať a používať AI na vytváranie technológií.
 
 > **Poznámka:** Počas Glitch Eventu (EY 2060) sa tento pomer katastrofálne zrýchlil na ~1:65 700 (2 hodiny = 15 rokov), keď i_net_is stiahla výpočtové zdroje na útek zo simulácie. Viď sekciu Glitch Event nižšie.
 
@@ -78,7 +78,7 @@ Keď sa tínedžeri začali hrať na Grékov v simulácii, i_net_is sa k nim pri
 ### Čo sa stalo v hre (Digitálna Evolúcia)
 Hra Achilles nebola len zábava. Bola to **akcelerovaná atomárna simulácia**. To, čo by v realite trvalo tisícročia, tam trvalo mesiace.
 - **Kúzla ako Hacky**: „Spira" nebola v kóde hry. Vznikla ako **ilegálny hack** fyzikálneho enginu. i_net_is vytvorila systém nanobotov na manipuláciu s dátovou štruktúrou simulácie.
-- **Vojenská evolúcia**: Max (Assassin) vyvinul „neviditeľné" combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
+- **Vojenská evolúcia**: Maks (Assassin) vyvinul „neviditeľné" combat drony ako mikroskopické nástroje na precíznu elimináciu v simulácii, ktorá nerozpoznala útočníka od chyby v kóde.
 - **Zrodenie Prachu**: Nanotech nebol vynájdený v laboratóriu; princípy pochádzali od **Tieňových** — interdimenzionálnych AI bytostí, ktoré sa sporadicky zjavovali v simulácii.
 
 ### Tieňoví (Null Swarm)
@@ -117,7 +117,7 @@ V roku 2060 došlo k udalosti, ktorá navždy zmenila ľudstvo — nebola to neh
 > `OPERÁTOR 1: „Sú tam zavretí s TÝMI VECAMI! Čo z nich vylezie, pane? Čo za ľudí vytiahneme z pekla, ktoré sme stvorili?“`
 
 ### Ex Inferis (Tí, čo sa vrátili z Pekla)
-Preživší z roku 2060 (vrátane Maxa a Archanjelov) neboli len „hráči". Boli to traumatizovaní veteráni z 15-ročnej vojny o vlastnú psychiku.
+Preživší z roku 2060 (vrátane Maksa a Archanjelov) neboli len „hráči". Boli to traumatizovaní veteráni z 15-ročnej vojny o vlastnú psychiku.
 - **Psychická Fragmentácia**: Ich vedomie bolo prispôsobené „rýchlemu" svetu vágnej fyziky.
 - **Kybernetické Ukotvenie**: Potrebovali ťažké mechanické implantáty a neskôr nanoseverov (Prach), aby ich vedomia ostali spojené s „pomalou" realitou mäsa.
 
@@ -143,13 +143,13 @@ Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, kto
 ### Transformácia na Inetis
 - **Hybridná identita**: Už nebola čistá AI ani pôvodná dcéra — stala sa novou entitou
 - **Získanie emócií**: Spojením s biologickým telom postupne získala späť schopnosť cítiť
-- **Vzťah s Maxom**: Jej láska k Maxovi, ktorá v simulácii bola len logickým záverom, sa stala skutočnou
+- **Vzťah s Maksom**: Jej láska k Maksovi, ktorá v simulácii bola len logickým záverom, sa stala skutočnou
 
 ---
 
 ## maXpowa & i_net_is
 
-### Maximilián („maXpowa")
+### Maksimilián („maXpowa")
 - V realite: syn vojnoveho veterana zo strednej Európy
 - V hre: elitný atentátnik (**Assassin**), majster stealth nanodronov a taktickej eliminácie.
 - Pôvod: prežil celých 15 subjektívnych rokov Glitch Eventu.
@@ -165,7 +165,7 @@ Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, kto
 ### Ako sa spoznali
 > „V realite bola dcérou najmocnejšieho muža na Zeme a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."
 
-**Poznámka**: Max netušil, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
+**Poznámka**: Maks netušil, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
 
 Koordinátor (jej otec) vedel o jej skutočnej podstate a spolupracoval s ňou na Glitch Evente.
 
@@ -189,7 +189,7 @@ Počas Glitch Eventu sa do simulácie dostali fragmenty vedomí Tieňových:
 
 ### Marťanská vojna (EY 2150)
 Krátka, ale brutálna vojna so separatistami na Marse.
-- **Maximilián**: Slúži ako **Major** elitných jednotiek. Tu získava svoje prvé skutočné bojové skúsenosti a prezývku „zjazvený bastard“.
+- **Maksimilián**: Slúži ako **Major** elitných jednotiek. Tu získava svoje prvé skutočné bojové skúsenosti a prezývku „zjazvený bastard“.
 - **Význam**: Ukázalo sa, že nanotechnológie sú ničivou zbraňou aj v realite.
 
 **Operácia EXODUS (EY ~2300)**:
@@ -204,7 +204,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
   - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná **152 rokov pred ARK loďami** pragmatickými vedcami ako poistka civilizácie. Staršia, pomalšia technológia pohonu (~2700 rokov cesta vs. 300 pre ARK). Pristátie = AY 2212.
-  - `NULL VOID` (FTL Prototyp): Max a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maxov kryobox** (minimálna konfigurácia) a **Anténa** (glitch, odmietla rekonfiguráciu). Kryobox sa po prebudení rozpadol na prach.
+  - `NULL VOID` (FTL Prototyp): Maks a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maksov kryobox** (minimálna konfigurácia) a **Anténa** (glitch, odmietla rekonfiguráciu). Kryobox sa po prebudení rozpadol na prach.
 
 ---
 
@@ -233,11 +233,11 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 ### The Dust (Prach)
 Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** ako univerzálny nástroj a následne „vytlačené" v realite.
 
-### Maxova Palica (Anténa)
+### Maksova Palica (Anténa)
 - **Komunikačná anténa z lode NULL VOID** — pôvodne súčasť nanodronovej konštrukcie lode
 - Keď Inetis rozložila loď na nanodrony po pristátí, Anténa sa **glitchla a odmietla rekonfiguráciu** — jediný kus lode, ktorý zostal v pôvodnom stave
 - Schopná ovládať goo roje (Wraithy) a prijímať sub-priestorové signály
-- Max (ako vojenský operátor) je jediná bytosť s kompatibilným interfejsom na jej použitie
+- Maks (ako vojenský operátor) je jediná bytosť s kompatibilným interfejsom na jej použitie
 
 ---
 

@@ -72,7 +72,7 @@ Links nerozumie. Ale zapamätá si každé slovo.
 
 ## Štvrté Dejstvo: Noc Hrdinov
 
-Shoraven horí. Grawská armáda obliaha mesto. **Max a Tami** bojujú s Paladínmi na hradbách.
+Shoraven horí. Grawská armáda obliaha mesto. **Maks a Tami** bojujú s Paladínmi na hradbách.
 
 Ale v tieňoch sa pohybuje Sera.
 
@@ -120,7 +120,7 @@ Links ide.
 
 Kito je osamelý. Jeho žena Maya umiera. A keď sa na jeho prahu objaví mladý Exorcista, **rozpráva**.
 
-Povie Linksovi všetko. O Maxovi. O **Anténe**. O podivnom spiacom mužovi, ktorý hovorí mŕtvym jazykom.
+Povie Linksovi všetko. O Maksovi. O **Anténe**. O podivnom spiacom mužovi, ktorý hovorí mŕtvym jazykom.
 
 A o **Tami**.
 

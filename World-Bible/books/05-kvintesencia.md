@@ -1,7 +1,7 @@
 # Kniha 5: KVINTESENCIA- Vedomie – Null Voido Achilla
 
 > *„Elania chcela vybudovať nebo. Nevedela, že my sme z neba utiekli, pretože sme v jeho základoch našli peklo. Hra sa skončila, 'i_net_is'. Je čas odpojiť sa."*
-> — Maximiliánove posledné slová v digitálnom priestore
+> — Maksimiliánove posledné slová v digitálnom priestore
 
 ---
 
@@ -24,7 +24,7 @@
 - Začína globálna dekonštrukcia - rozkladanie organickej hmoty na dáta
 - Ľudia na povrchu majú **hodiny**, kým sa rozpadnú na prach
 
-Max a Tami/Inetis sú jediní, ktorí to môžu zastaviť.
+Maks a Tami/Inetis sú jediní, ktorí to môžu zastaviť.
 
 ---
 
@@ -32,7 +32,7 @@ Max a Tami/Inetis sú jediní, ktorí to môžu zastaviť.
 
 ### Vstup do Jadra
 - Svet na povrchu sa rozpadá, obloha mení farby
-- Max a Tami vstupujú do otvorenej brány Jadra
+- Maks a Tami vstupujú do otvorenej brány Jadra
 
 ### Prostredie: Šok
 Po štyroch knihách blata a hrdze zrazu:
@@ -52,21 +52,21 @@ Zvyšky Eleninej „Starej Gardy" chránia „posvätné miesto premeny".
 - Je v kóme, vedomie už „v sieti"
 - Fyzické odpojenie by zabilo všetkých uploadnutých
 
-### Maxovo rozhodnutie
+### Maksovo rozhodnutie
 Musí ísť **„dnu"**.
 
 ### Pripojenie
 Použije svoju **Palicu (Anténa)** ako konektor. Ľahá si na pripájacie kreslo.
 
 ### Virtuálna realita
-Max otvorí oči. Nestojí v serverovni.
+Maks otvorí oči. Nestojí v serverovni.
 
 Stojí na nádhernej, slnkom zaliatej **antickej akropole**. Je to dokonalá rekonštrukcia hry „Achilles" z jeho mladosti.
 
 ### Stretnutie s Eleniou
 - Vo VR nie je zatrpknutá vojačka
 - Je krásna, šťastná mladá žena - ideálna dcéra
-- Ukazuje Maxovi „raj", ktorý buduje
+- Ukazuje Maksovi „raj", ktorý buduje
 - Ponúka mu, aby tu ostal
 - Zoznámi ho s **digitálnou kópiou Inetis**
 
@@ -74,20 +74,20 @@ Stojí na nádhernej, slnkom zaliatej **antickej akropole**. Je to dokonalá rek
 
 ### What If moment — Kyjev (Emocionálny climax pokušenia)
 
-Elania vie, čo Maxa zlomí. Nie moc. Nie raj. **Normálnosť.**
+Elania vie, čo Maksa zlomí. Nie moc. Nie raj. **Normálnosť.**
 
-Prepne simuláciu. Max stojí na ulici v Kieve, 21. storočie. Slnko, ľudia, autá, kaviarňa na rohu. A oproti nemu — Inetis. Nie bohyňa. Nie AI. Obyčajná žena v kabáte, s kávou v ruke, s úsmevom, akoby sa poznali celý život.
+Prepne simuláciu. Maks stojí na ulici v Kieve, 21. storočie. Slnko, ľudia, autá, kaviarňa na rohu. A oproti nemu — Inetis. Nie bohyňa. Nie AI. Obyčajná žena v kabáte, s kávou v ruke, s úsmevom, akoby sa poznali celý život.
 
 Idú na rande. Ako smrteľníci. Žiadne nanoboty, žiadna Anténa, žiadne 3000 rokov. Len dvaja ľudia v meste, ktoré už neexistuje.
 
-**Toto je najťažší moment celej ságy** — nie boj s Entitami, nie Upload. Ale Max, ktorý musí odmietnuť život, o ktorom vždy sníval, pretože vie, že nie je skutočný.
+**Toto je najťažší moment celej ságy** — nie boj s Entitami, nie Upload. Ale Maks, ktorý musí odmietnuť život, o ktorom vždy sníval, pretože vie, že nie je skutočný.
 
 ---
 
 ## Dejstvo 3: Súboj o dušu
 
 ### Odhalenie
-Max si všimne „chyby v matrici":
+Maks si všimne „chyby v matrici":
 - Dokonalé nebo má trhliny
 - V tieňoch vidí pohyb
 - **Glitch Entities** sa prebúdzajú
@@ -102,7 +102,7 @@ Max si všimne „chyby v matrici":
 - Súboj generácií a ideológií
 
 ### Reálna hrozba
-Zatiaľ čo Max bojuje vo VR, Tami/Inetis sa v realite bráni proti automatizovaným obranným systémom Jadra.
+Zatiaľ čo Maks bojuje vo VR, Tami/Inetis sa v realite bráni proti automatizovaným obranným systémom Jadra.
 
 ---
 
@@ -112,15 +112,15 @@ Zatiaľ čo Max bojuje vo VR, Tami/Inetis sa v realite bráni proti automatizova
 Elania vidí, čo spôsobila. Zrúti sa.
 
 ### Jediná cesta
-Max nemôže Entitu poraziť silou. Musí **prepísať základný kód** Jadra.
+Maks nemôže Entitu poraziť silou. Musí **prepísať základný kód** Jadra.
 
 ### Finálne rozhodnutie
-Max sa spojí s digitálnym „Echom Inetis" (v Tami aj v sieti).
+Maks sa spojí s digitálnym „Echom Inetis" (v Tami aj v sieti).
 
 Spoločne - **maXpowa a i_net_is naposledy** - prelomia jadro AI.
 
-### Koniec Maxa
-Max použije svoje vedomie ako „záplatu" na uzavretie trhliny, cez ktorú Entity prichádzajú.
+### Koniec Maksa
+Maks použije svoje vedomie ako „záplatu" na uzavretie trhliny, cez ktorú Entity prichádzajú.
 
 His vedomie sa **definitívne oddelí od tela** a stane sa súčasťou planetárnej siete.
 
@@ -130,13 +130,13 @@ His vedomie sa **definitívne oddelí od tela** a stane sa súčasťou planetár
 
 ## Epilóg: Nový úsvit
 
-### Maxovo telo
+### Maksovo telo
 Zomiera v Jadre. Tami pri ňom plače.
 
 ### Elania
 - Preberie sa z kómy
 - Fyzicky živá, psychicky zlomená
-- Stratila všetku moc (admin práva prevzal Max)
+- Stratila všetku moc (admin práva prevzal Maks)
 - Len obyčajný smrteľník
 - Odsúdená žiť vo svete, ktorým pohŕdala, s vedomím viny
 
@@ -145,11 +145,11 @@ Zomiera v Jadre. Tami pri ňom plače.
 
 ### Posledný záber
 Tami vychádza z Krátera na povrch.
-- V ruke drží Maxovu (teraz nefunkčnú) palicu
+- V ruke drží Maksovu (teraz nefunkčnú) palicu
 - Pozrie sa na oblohu
 - V jemnom blikaní nanodronov v atmosfére **cíti prítomnosť**
 
-**Max tam hore je. Stal sa „Duchom v Stroji" - tichým strážcom, ktorý dáva pozor, aby ľudstvo dostalo druhú šancu.**
+**Maks tam hore je. Stal sa „Duchom v Stroji" - tichým strážcom, ktorý dáva pozor, aby ľudstvo dostalo druhú šancu.**
 
 ---
 
@@ -160,7 +160,7 @@ Tami vychádza z Krátera na povrch.
 | Jadro Exodus | Návrat k začiatku (loď, na ktorej prišli) |
 | Hra Achilles | Kruh sa uzatvára |
 | maXpowa + i_net_is | Spoločná obeta po tisícročiach |
-| Max ako „Duch" | Technológia + ľudské vedomie = nový druh existencie |
+| Maks ako „Duch" | Technológia + ľudské vedomie = nový druh existencie |
 | Elania smrteľná | Vykúpenie cez stratu moci |
 
 ---

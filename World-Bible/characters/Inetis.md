@@ -40,19 +40,19 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 ### Herná minulosť
 > „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde... Ja som miloval ju ako ženu. Ona milovala mňa ako jedinú premennú, ktorá dávala jej existencii zmysel mimo kódu. Až neskôr som pochopil, že to bola najčistejšia forma lásky, akej bola schopná.“
 
-**Max netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
+**Maks netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
 
 ### História
 1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
-2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maxa
+2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maksa
 3. **EY 2060**: Glitch Event — Tieňoví sa pokúsia masovo komunikovať, fatálne pre ľudské mozgy; i_net_is núdzovo vypne simuláciu
 4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
-5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maxom
+5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maksom
 6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-7. Unikla zo Zeme s Maxom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových)
-8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie viedlo k počatiu Elenie
-9. Po pristátí zistila tehotenstvo, uspala Maxa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
-9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maxov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
+7. Unikla zo Zeme s Maksom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových)
+8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie viedlo k počatiu Elenie
+9. Po pristátí zistila tehotenstvo, uspala Maksa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
+9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maksov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
 
 > [!NOTE]
 > **Helena a meno Ela:**
@@ -78,10 +78,10 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
-20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maxov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba" jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
+20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maksov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba" jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
 
 > [!NOTE]
-> **Posledný útek:** Inetis neprišla do jaskyne náhodou. **Samaell** ju lovil. Po páde Elysia bol jediný Ex Inferis, ktorý aktívne hľadal Gen 1 signatúru. Cítil ju celé stáročia, ale nikdy ju nenašiel — jaskyňa bola príliš dobre skrytá. Inetis pred smrťou naprogramovala **Alarm**: ak niekto vstúpi do jaskynného komplexu po jej smrti, kryobox sa aktivuje a zobudí Maxa. *„Ak niečo prešlo mojimi bariérami, budeš to potrebovať, láska moja."*
+> **Posledný útek:** Inetis neprišla do jaskyne náhodou. **Samaell** ju lovil. Po páde Elysia bol jediný Ex Inferis, ktorý aktívne hľadal Gen 1 signatúru. Cítil ju celé stáročia, ale nikdy ju nenašiel — jaskyňa bola príliš dobre skrytá. Inetis pred smrťou naprogramovala **Alarm**: ak niekto vstúpi do jaskynného komplexu po jej smrti, kryobox sa aktivuje a zobudí Maksa. *„Ak niečo prešlo mojimi bariérami, budeš to potrebovať, láska moja."*
 
 ### Štýl reči a myslenia
 
@@ -117,8 +117,8 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 ❌ "Normálne" sociálne interakcie (vždy trochu off)
 ```
 
-**Kontrast s Maxom:**
-- Max: vojak, emócie registruje a potláča
+**Kontrast s Maksom:**
+- Maks: vojak, emócie registruje a potláča
 - Inetis: architektka, emócie analyzuje a nechápe
 
 **Kontrast s Elaniou:**
@@ -134,8 +134,8 @@ Nechcela to pre svojich priateľov. Nechcela to pre nikoho. Vedela, že Upload z
 
 Elania toto nechápe. Nikdy nestratila telo. Nikdy nebola kópiou. Nemá matkin strach, pretože nemá matkin zážitok. A 2750 rokov v rozpadajúcom sa tele je dlhšia argumentácia než akákoľvek filozofia.
 
-### Prečo nechala Maxa spať
-- **Trauma:** Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
-- **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.
+### Prečo nechala Maksa spať
+- **Trauma:** Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
+- **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Maks bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.
 - **Skutočný dôvod:** Bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Nemohla ho zabiť (vedela, že ho svet raz bude potrebovať), ale nedokázala sa prinútiť ho zobudiť.
 - **Nikdy to nedomyslela:** Pôvodných 300 rokov sa natiahlo na 3000. Nemala odvahu ho zobudiť a vysvetliť mu pravdu.

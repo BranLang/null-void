@@ -4,7 +4,7 @@
 
 ---
 
-Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. Jej štvrtá zima. Najhoršia fáza — keď mrazy prestanú kolísať a zahryzú sa do krajiny natrvalo. Max tomu hovoril „tretí rok". Pozemské slovo. Ale presné. Stred zimy. A ešte dva pred nimi. Celé mesto dýchalo mrazom a hrdzavou parou ako obrovský, umierajúci stroj.
+Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. Jej štvrtá zima. Najhoršia fáza — keď mrazy prestanú kolísať a zahryzú sa do krajiny natrvalo. Maks tomu hovoril „tretí rok". Pozemské slovo. Ale presné. Stred zimy. A ešte dva pred nimi. Celé mesto dýchalo mrazom a hrdzavou parou ako obrovský, umierajúci stroj.
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou — oranžové body plynových lamiel a olejových kahancov rozkvitnuté v snehovej tme. V noci bolo Šoraven krásne. Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a ľudí, čo si pred každým výdychom priložili šatku k tvári.
 
@@ -64,11 +64,11 @@ Vytreštila oči, keď počula hlasy zhora.
 
 Poslala peniaze správnym ľuďom pred tromi dňami — starý trik, ktorý fungoval v každom prístave. Zaplať dozorcom, zaplať kapitánovi dokových strážcov, a máš pol dňa kľudu, kým sa niekto vôbec obťažuje prísť ti niečo spýtať. Pol dňa na opravu lode a zmiznutie do mesta bez otázok.
 
-*Lenže nikto neprišiel ráno. Prišli teraz. Keď Max už stihol otvoriť hubu.*
+*Lenže nikto neprišiel ráno. Prišli teraz. Keď Maks už stihol otvoriť hubu.*
 
 Rýchlo si utrela ruky do handry a vyšplhala sa len do polovice rebríka. Vystrčila hlavu z poklopu, tak aby ju nebolo vidieť, a nastražila uši. Zimné svetlo ju udrelo do očí — bledé, nízke slnko sa odrážalo od snehovej pokrývky na strechách okolo doku. Prižmúrila oči.
 
-Max stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
+Maks stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
 
 Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom k oblohe a chvosty sa im nepokojne vlnili.
 
@@ -80,13 +80,13 @@ Potlačila nutkanie sa nahlas zasmiať. „Šo" v jazyku Líščieho národa zna
 
 „S kým mám tú česť? Odkiaľ vedie vaša cesta a aký je dôvod vašej návštevy?" vyzvedal dostojník autoritatívnym tónom.
 
-Tami pozorovala Maxa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy.
+Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy.
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Max sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy.
+Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy.
 
-„Exorcista," povedal Max. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
+„Exorcista," povedal Maks. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
 
 Tami videla, ako dostojníkovi stuhli uši. Vojaci za ním sa nepokojne pošili. Jeden z vojakov — ten obrovský medveď s bubienkom — sa podvedome posunul o krok bližšie k dôstojníkovi. Ochranný reflex.
 
@@ -98,15 +98,15 @@ Dostojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára.
 
 *No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.*
 
-Max ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
+Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
 
-„Artefakt," povedal Max a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
+„Artefakt," povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
 
 Klamstvo bolo elegantné. Vložil do toho zrnko pravdy — artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
 
 Dostojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať Cirkev—" — klamal.
 
-„Nie je to nutné," prerušil ho Max a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o centimeter vyššie. „Neobtažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy."
+„Nie je to nutné," prerušil ho Maks a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o centimeter vyššie. „Neobtažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy."
 
 Kývol hlavou smerom k oblohe, kde medzi mrakmi visel dym z grawských pozícií za priesmykmi.
 
@@ -116,9 +116,9 @@ Ticho. Vietor poháňal snehové vločky cez palubu. Dostojníkove uši sa chvel
 
 Vynorila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadiť s olejovými fľakmi na tvári. „Skontrolovala som kondenzátory, ale netesnia. Strácame veľa kvapaliny," konštatovala vecne, ignorujúc delegáciu červenokabátnikov.
 
-Podišla k Maxovi a rafinovane sa naklonila cez zábradlie.
+Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
-*V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Max už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
+*V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
 
 Zdvihla handru k tvári a jedným pohybom stiahla šatku. Gaštanové vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — tyrkysovo-modré, ostré ako úlomky ľadu.
 
@@ -138,21 +138,21 @@ V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej v
 
 *Niet divu, že tak zízajú. Pre nich sme cirkusové číslo.*
 
-Dostojník sa korektne poklonil — stará etiketa si vyžadovala rešpekt k Líške bez ohľadu na spoločnosť, v akej sa nachádzala. Odkašľal. „Hmm... dobre teda." Oči mu ešte raz preskočili na Maxa s viditeľným znechutením, potom späť na Tami. „Nechám to na veliteľstve. Exorcista v meste je... nezvyčajné. Musím to ohlásiť." Chvíľu váhal, potom dodal tichšie, tentoraz k Tami, akoby Max pri tom nebol: „Mesto je vo vojnovom stave. Grawská armáda pochoduje cez priesmyky. Odporúčam vám nevzďaľovať sa z dokovej zóny. Pre vašu vlastnú bezpečnosť."
+Dostojník sa korektne poklonil — stará etiketa si vyžadovala rešpekt k Líške bez ohľadu na spoločnosť, v akej sa nachádzala. Odkašľal. „Hmm... dobre teda." Oči mu ešte raz preskočili na Maksa s viditeľným znechutením, potom späť na Tami. „Nechám to na veliteľstve. Exorcista v meste je... nezvyčajné. Musím to ohlásiť." Chvíľu váhal, potom dodal tichšie, tentoraz k Tami, akoby Maks pri tom nebol: „Mesto je vo vojnovom stave. Grawská armáda pochoduje cez priesmyky. Odporúčam vám nevzďaľovať sa z dokovej zóny. Pre vašu vlastnú bezpečnosť."
 
-*Pre vašu*, nie pre *vašu oboch*. Dostojník hovoril k nej. Maxovi nevenoval ani slovo na rozlúčku.
+*Pre vašu*, nie pre *vašu oboch*. Dostojník hovoril k nej. Maksovi nevenoval ani slovo na rozlúčku.
 
 Oficier sa hlboko uklonil podľa miestnej etikety a neodpustil si pritom komické zamávanie klobúkom — tentoraz smerované výhradne k Tami. „Moji muži tu ostanú, aby vám zaistili ochranu. Onedlho sa vrátim. Dovidenia."
 
 Tami sledovala, ako červenokabátnici zaujímajú pozície pri doku. Dvaja pri rampe, dvaja na konci móla, ostatní roztrúsení s karabínami na pleciach. *Ochrana*. Pekné slovo pre *stráženie*.
 
-Počkala, kým sa oficier vzdialil. Potom sa otočila k Maxovi.
+Počkala, kým sa oficier vzdialil. Potom sa otočila k Maksovi.
 
 „Zaplatila som dozorcom," povedala ostro. „Päťsto zlatých. Mali sme mať pol dňa kľudu. Opraviť loď, zmiznúť do mesta, nič sa nepýtať. Jednoduché."
 
-Max mlčal.
+Maks mlčal.
 
-„Ale ty si musel hneď prvý deň vyhlásiť, že si Exorcista. Pred celým dokom." Odmlčala sa. „Teraz na nás pozerá celé mesto, Max. Presne to, čo sme *nechceli*."
+„Ale ty si musel hneď prvý deň vyhlásiť, že si Exorcista. Pred celým dokom." Odmlčala sa. „Teraz na nás pozerá celé mesto, Maks. Presne to, čo sme *nechceli*."
 
 „Funguje to," povedal pokojne.
 
@@ -162,13 +162,13 @@ Max mlčal.
 
 Tami stisla zuby. Nenávidela, keď mal pravdu. Nenávidela ešte viac, že to povedal tým pokojným, vecným tónom, ktorý nedovoľoval odpor.
 
-„Nech sa pozerajú na mňa," pokračoval Max. „Nech sa ma boja. Nech pyžamáči premýšľajú, čo viem a čo nie." Odmlčal sa. „Zatiaľ čo ty robíš to, čo vieš najlepšie."
+„Nech sa pozerajú na mňa," pokračoval Maks. „Nech sa ma boja. Nech pyžamáči premýšľajú, čo viem a čo nie." Odmlčal sa. „Zatiaľ čo ty robíš to, čo vieš najlepšie."
 
 „Zmiznúť," dokončila za neho sucho.
 
 „Kondenzátory," prerušila ho skôr, než mohol pokračovať. „Ten Grawský šrapnel nás nepekne trafil a spôsobil väčšie škody, ako som odhadovala. Axiálne čerpadlo je zničené a nemáme náhradné. Budem musieť nájsť špecialistu, ktorý zvládne tú zložitosť." Odvrátila sa od neho a namierila si to k rebríku.
 
-Max prikývol. „Koľko času?"
+Maks prikývol. „Koľko času?"
 
 Tami sa zastavila na rebríku. Pozrela na neho cez rameno. „Deň. Možno dva. Ak nájdem Maka."
 
@@ -186,13 +186,13 @@ Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technoló
 
 Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss nepotrebovala zbytočnú pozornosť. Nie dnes.
 
-Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maxov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí.
+Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maksov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí.
 
 *Jeho hlas, pokojný, trpezlivý, nekonečne trpezlivý. „Nie zápästím. Celým ramenom. Cíť váhu. Pištoľ je predĺženie tvojej vôle."*
 
 *Mala vtedy osem.*
 
-Zahnala spomienku a vyšla na palubu. Max tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
+Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky ako miniaturní duchovia.
 

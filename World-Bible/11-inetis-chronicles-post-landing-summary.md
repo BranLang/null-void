@@ -13,17 +13,17 @@ Svet NULL VOID stojí na **Clarkeovom zákone**, kde sa technologická minulosť
 ---
 
 ## 2. Pristátie a Éra Priekopníkov (Od jaskyne po Elysium)
-Pristátie lode **Null-Void** (FTL prototypu, **100% z nanodronov**) na planéte Achilles spustilo reťazec udalostí, ktoré zmenili osud ľudstva. Max a Inetis pristáli na nepripravenej planéte o tristo rokov skôr než kolonizačné lode (ARK-11 a ARK-12).
+Pristátie lode **Null-Void** (FTL prototypu, **100% z nanodronov**) na planéte Achilles spustilo reťazec udalostí, ktoré zmenili osud ľudstva. Maks a Inetis pristáli na nepripravenej planéte o tristo rokov skôr než kolonizačné lode (ARK-11 a ARK-12).
 
-### Trauma na lodi a Maxovo uväznenie
-*   **Počas 3-ročnej cesty FTL:** Max napadol Inetis na palube lode NULL VOID. Tento akt násilia je pôvodom Eleninho počatia a koreňom Inetisinej traumy. Dovodom jeho napadnutie bola frustracia. Boli mozno posledni dvaja ludia vo vesmire a ona ho stale odmietala - brala ho ako kamarata. Max to chapal tak ze John Reef ho urcil za svojho nastupcu ked ho poslal zachranit Inetis a utiect stnou do noveho sveta. Jej otec chcel aby boli spolu..
+### Trauma na lodi a Maksovo uväznenie
+*   **Počas 3-ročnej cesty FTL:** Maks napadol Inetis na palube lode NULL VOID. Tento akt násilia je pôvodom Eleninho počatia a koreňom Inetisinej traumy. Dovodom jeho napadnutie bola frustracia. Boli mozno posledni dvaja ludia vo vesmire a ona ho stale odmietala - brala ho ako kamarata. Maks to chapal tak ze John Reef ho urcil za svojho nastupcu ked ho poslal zachranit Inetis a utiect stnou do noveho sveta. Jej otec chcel aby boli spolu..
 
 *   **Šok z tehotenstva:** Po pristátí Inetis zistila, že je tehotná. Kryospánok by dieťa zabil.
-*   **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID (nanodronová rekonfigurácia, hydroponika). V skutočnosti loď dokázala zabezpečiť prežitie.
+*   **Klamstvo o zásobách:** Inetis oklamala Maksa tým, že nemajú dosť zásob a musia ísť obaja spať. Maks bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID (nanodronová rekonfigurácia, hydroponika). V skutočnosti loď dokázala zabezpečiť prežitie.
 *   **Skutočný dôvod:** Inetis ho chcela preč — bála sa ho. Trauma z toho, čo jej urobil, zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Uspala ho s úmyslom rozhodnúť sa neskôr. **Nikdy to nedomyslela** — pôvodných 300 rokov kryospánku sa natiahlo na 3000. Nemohla ho zabiť (vedela, že ho svet raz bude potrebovať), ale nedokázala sa prinútiť ho zobudiť.
 *   **Pokus o genetickú modifikáciu:** Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele (mohli by spať obaja kym pridu kolonisti o 300 rokov), no experiment zlyhal.
-*   **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu( rozsiahly komplex v skale), vytvorila laboratórium, hydroponické farmy, upravila okolie. Nanodrony sa dali nakonfigurovať na čokoľvek — **okrem jedla**. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze). Jedna **komunikačná Anténa** (glitchla sa, odmietla rekonfiguráciu). 
-Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — Anténa ostala jedinou fyzickou pozostalosťou lode.
+*   **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu( rozsiahly komplex v skale), vytvorila laboratórium, hydroponické farmy, upravila okolie. Nanodrony sa dali nakonfigurovať na čokoľvek — **okrem jedla**. Zostali len dve veci: **Maksov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze). Jedna **komunikačná Anténa** (glitchla sa, odmietla rekonfiguráciu). 
+Po Maksom prebudení (~AY 3000) sa kryobox rozpadol na prach — Anténa ostala jedinou fyzickou pozostalosťou lode.
 
 ### ~3 roky v jaskyni (Prvá fáza)
 *   **Boj o prežitie a hydroponika:** Inetis skoro zomrela od hladu. Pomocou nanodronov z rozloženej lode vybudovala hydroponickú farmu a rastliny, čím vytvorila útulný domov uprostred nehostinného sveta. Ako genetický základ použila rastliny z lode.
@@ -58,34 +58,34 @@ Keď ARK-11 v roku AY 0 pristála, Inetis ich už čakala s vybudovaným zázem�
 
 ### Hrobka času: Manga Scenár (The Tomb of Time)
 *   **Minulosť (AY -300):** Vychudnutá Inetis kŕmi malú Eleniu (ktorá má pohľad starenky) sivou kašou. Elania sa pýta: *"Kedy sa zobudí Otec?"*. Inetis si zakrýva ústa, v dlani má krv zmiešanú s čiernym prachom Glitch Rotu.
-*   **Prítomnosť (AY 3013):** Max (maXpowa) stojí nad kostrou Inetis v jaskyni. Tami, osvetlená kyanovou žiarou **Echa Inetis**, mu odhaľuje pravdu: *"Elania je tvoja dcéra, Max. Ona je pomsta tejto jaskyne."*
+*   **Prítomnosť (AY 3013):** Maks (maXpowa) stojí nad kostrou Inetis v jaskyni. Tami, osvetlená kyanovou žiarou **Echa Inetis**, mu odhaľuje pravdu: *"Elania je tvoja dcéra, Maks. Ona je pomsta tejto jaskyne."*
 
 ### Veľké zjavenie v prístave (AY 3001)
-Max sa preberá po roku "absolútnej tmy", kedy jeho oči explodovali mrazom. Celý rok bol závislý na 7-ročnej Tami. Keď sa mu zrak vráti, zažije brutálny kolaps: zistí, že jeho záchrankyňa je **Varietas** (biologický experiment s ušami a chvostom), ktorou pohrdal. V prístave vidí, že "čistí" ľudia už neexistujú a celá Iniciatíva Achilles bola lož.
+Maks sa preberá po roku "absolútnej tmy", kedy jeho oči explodovali mrazom. Celý rok bol závislý na 7-ročnej Tami. Keď sa mu zrak vráti, zažije brutálny kolaps: zistí, že jeho záchrankyňa je **Varietas** (biologický experiment s ušami a chvostom), ktorou pohrdal. V prístave vidí, že "čistí" ľudia už neexistujú a celá Iniciatíva Achilles bola lož.
 
 ### Návrat k menu (Jaskyňa, AY 3013)
 Tami v jaskyni objavuje čiernu, kovovú palicu a očistí nánosy prachu. Číta vyrytý nápis v **Staroreči** (angličtine): **„maXpowa“**.
-*   **Max:** „Mám v hlave len útržky... Moje meno je len prázdne miesto v kóde.“
-*   **Tami:** „Tvoje meno je Maximilián. Ale pre túto zbraň si bol vždy **maXpowa**.“
+*   **Maks:** „Mám v hlave len útržky... Moje meno je len prázdne miesto v kóde.“
+*   **Tami:** „Tvoje meno je Maksimilián. Ale pre túto zbraň si bol vždy **maXpowa**.“
 Anténa ožije v jeho rukách po 3000 rokoch.
 
 ### Posledné zbohom v Hrobke technológie
-Max kľačí pri kostre Inetis, ktorá zomrela v agónii, opretá o jeho kryobox. Tami, v ktorej prebúdza **Echo Inetis**, hovorí matkiným hlasom: *"I'm sorry, Max. Chcela som sa zobudiť vedľa teba... System failure."* Nález Inetisinho denníka potvrdzuje jej obetu: *"Budem tvojou strážkyňou v tme."*
+Maks kľačí pri kostre Inetis, ktorá zomrela v agónii, opretá o jeho kryobox. Tami, v ktorej prebúdza **Echo Inetis**, hovorí matkiným hlasom: *"I'm sorry, Maks. Chcela som sa zobudiť vedľa teba... System failure."* Nález Inetisinho denníka potvrdzuje jej obetu: *"Budem tvojou strážkyňou v tme."*
 
 ---
 
 ## 5. Kráľovstvo Zayi (Prehnitý Raj)
-Max a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Max je presvedčený, že našiel svoju dcéru Eleniu.
+Maks a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Maks je presvedčený, že našiel svoju dcéru Eleniu.
 
 *   **Bozk zrady:** Zaya (v skutočnosti Archanjel **Ishtar**) Chce Maxove "čisté" nanity na vyliečenie vlastného rozkladu.
-*   **Pád Ružového kráľovstva:** Keď Max odmietne jej lásku a žiada informácie o dcére, Zaya sa mení na monštrum. Púšťa **Smrtiacu hmlu** (Gray Goo), ktorá rozkladá všetko v okolí.
-*   **Anténa Protiútok:** Max aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
-*   **Cesta do Ynetis:** Oslobodení Varietas odovzdávajú Maxovi mapu do **Ynetis** – mesta, kde Elania (Gatekeeper) plače prachom.
+*   **Pád Ružového kráľovstva:** Keď Maks odmietne jej lásku a žiada informácie o dcére, Zaya sa mení na monštrum. Púšťa **Smrtiacu hmlu** (Gray Goo), ktorá rozkladá všetko v okolí.
+*   **Anténa Protiútok:** Maks aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
+*   **Cesta do Ynetis:** Oslobodení Varietas odovzdávajú Maksovi mapu do **Ynetis** – mesta, kde Elania (Gatekeeper) plače prachom.
 
 ---
 
 ## 6. Kľúčové Postavy
-*   **Maximilián (Max / maXpowa):** Od xenofóbneho veterána k obetavému "Duchu v stroji". Jeho slepota mu umožnila vidieť Tami bez predsudkov.
+*   **Maksimilián (Maks / maXpowa):** Od xenofóbneho veterána k obetavému "Duchu v stroji". Jeho slepota mu umožnila vidieť Tami bez predsudkov.
 *   **Tami:** Archeologička a kapitánka *Makita*. Rozumie Staroreči (angličtine) – kódu k bohom. Stala sa nádobou pre Echo Inetis.
 *   **Elania:** Tragická antagonistka. Dôsledok Inetisinho strachu a celoživotnej izolácie (jaskyňa + Elysium bez otca).
 *   **Samaell:** Cynický pamätník zo Zeme, ktorý pozná Inetis ako "i_net_is" – architektku, nie bohyňu. Potrebuje kráľov krv na opravu vlastného Glitche.

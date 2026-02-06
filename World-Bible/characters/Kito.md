@@ -7,7 +7,7 @@
 | **Rasa** | Varietas — Pursang (mačkovité črty, žlté oči, chvost) |
 | **Vek** | ~30 rokov (~6 zím) |
 | **Povolanie** | Archivár, archeológ, historik Kultu Matky |
-| **Lokácia** | Shoraven (na začiatku), potom člen Maxovej výpravy |
+| **Lokácia** | Shoraven (na začiatku), potom člen Maksovej výpravy |
 | **Rola** | Lore-bearer / Navigátor / Tretí člen tímu |
 
 ### Charakteristika
@@ -17,7 +17,7 @@ Kito je **Pursang** — čistokrvný Varietas s vysokou koncentráciou Spiry. M�
 - **Vzdelanie**: Študoval staré texty Kultu Matky, apokryfné zvitky, zakázané heretické nápisy. Vie viac o skutočnej histórii Achilles než ktokoľvek okrem Archanjelov a Elenie. Pozná legendu o **Štyroch Príchodoch**, apokryf o Spáčovi a technické detaily, ktoré Cirkev zakázala.
 - **Telekinéza**: Pursang so silnou Spirou. Dokáže pohybovať predmetmi na diaľku (podvedome vyžaruje telekinetické pole, keď je v strese). Ale nevie liečiť.
 - **Povaha**: Akademik vo svete vojny. Nervózny, podozrievavý, neustále analyzujúci. Ale pod povrchom sa skrýva oceľová vôľa — pre Mayu by urobil čokoľvek.
-- **Jazykové znalosti**: Rozumie fragmentom Staroreči (angličtiny) — dostatočne na to, aby rozpoznal, keď Max hovorí čistou archaickou angličtinou. Pre neho je to ako počuť mŕtvy jazyk ožiť.
+- **Jazykové znalosti**: Rozumie fragmentom Staroreči (angličtiny) — dostatočne na to, aby rozpoznal, keď Maks hovorí čistou archaickou angličtinou. Pre neho je to ako počuť mŕtvy jazyk ožiť.
 
 ### Rodina a Vydedenie
 
@@ -30,29 +30,29 @@ Kito je **Pursang** — čistokrvný Varietas s vysokou koncentráciou Spiry. M�
 - **Status**: Živá, ale mení sa. Jej telo podlieha nezvratnej biologickej → minerálnej konverzii.
 - **Príčina**: Maya našla staré zakázané nápisy (**Heretické Nápisy**) — mocné Spira skripty vytesané do kameňa z čias, keď Inetis osobne učila. Chcela byť lepšia kňažka, pomôcť rodine z dlhov. Pokúsila sa odrecitovať jeden z nich, ale pomýlila sa v jednom slove. Výsledok: nekonečná slučka Spiry, ktorá prepisuje jej telo — mení mäso na kryštalickú štruktúru. Jej ľavá ruka je už z priesvitného minerálu, cez ktorý pulzujú fialové žily.
 - **Prognóza**: Bez pôvodného zdrojového kódu (uloženého v Core na Ynetis) nedokáže nikto slučku zastaviť. Ani Maki, ani kňažky. Potrebuje „Hlas Stvoriteľky" — pôvodnú modlitbu, z ktorej všetky ostatné vzišli. Starý Mako v Remeselnej štvrti (ten čo neprehovoril sto rokov) povedal, že „jeho modlitebné knihy na to nestačia" a že tá modlitba je staršia než on.
-- **Motivácia pre Kita**: Maya je dôvod, prečo Kito nakoniec spolupracuje s Maxom. Bez cesty na Ynetis jeho žena zomrie.
+- **Motivácia pre Kita**: Maya je dôvod, prečo Kito nakoniec spolupracuje s Maksom. Bez cesty na Ynetis jeho žena zomrie.
 
-### Kito a Max — Odhalenie „Spáča"
+### Kito a Maks — Odhalenie „Spáča"
 
-Kito je prvý Varietas, ktorý pochopí, kým Max naozaj je.
+Kito je prvý Varietas, ktorý pochopí, kým Maks naozaj je.
 
-- **Staroreč**: Keď Max prehovorí čistou archaickou angličtinou (*„I am of the Old World. And I am looking for somebody, who can save her."*), Kito to rozpozná — nie ako skomolený dialekt Exorcistov, ale ako živý hlas mŕtveho jazyka. Pre archeológa je to ako objaviť živú fosíliu.
-- **Apokryf o Štvrtom Príchode**: Kito pozná zakázaný text o poslednom Príchode — bytosti, ktorá nepríde z neba, ale „zobudí sa zo Zeme." Stotožní Maxa so **Spáčom** — legendárnou eschatologickou postavou Kultu Matky.
-- **Čierne Oči**: Keď Max zloží okuliare a odhalí oči z Čierneho Prachu (nanodrony ukradnuté Samaellovi), Kito pochopí, že má pred sebou bytosť z legiend. Nie bohyňu. Niečo horšie.
+- **Staroreč**: Keď Maks prehovorí čistou archaickou angličtinou (*„I am of the Old World. And I am looking for somebody, who can save her."*), Kito to rozpozná — nie ako skomolený dialekt Exorcistov, ale ako živý hlas mŕtveho jazyka. Pre archeológa je to ako objaviť živú fosíliu.
+- **Apokryf o Štvrtom Príchode**: Kito pozná zakázaný text o poslednom Príchode — bytosti, ktorá nepríde z neba, ale „zobudí sa zo Zeme." Stotožní Maksa so **Spáčom** — legendárnou eschatologickou postavou Kultu Matky.
+- **Čierne Oči**: Keď Maks zloží okuliare a odhalí oči z Čierneho Prachu (nanodrony ukradnuté Samaellovi), Kito pochopí, že má pred sebou bytosť z legiend. Nie bohyňu. Niečo horšie.
 - **Dilema**: Kito vie, že Spáč = koniec sveta v proroctve. Spolupracovať s ním znamená možno urýchliť apokalypsu. Ale nespolupracovať znamená pozerať sa, ako Maya zomiera. Zvolí si Mayu.
 
 ### Meno a Pôvod — Dvojitá Irónia
 
 - **„Mesto Kito"** je legendárne mesto na východe — miesto pristátia lode Hephaestus (Tretí Príchod, AY 2212). Kitova rodina tvrdí, že z neho pochádza.
 - **Tami vyrastala v ruinách mesta Kito** — skutočné miesto, nie legenda. Keď Tami v rozhovore s Kitom prezradí, že vyrastala v jeho ruinách, Kita to úplne odzbrojí.
-- **Max si vymyslel „Kito" náhodou** pri colnici — a trafil do čierneho dvakrát: je to meno archeologa, ktorého potrebujú nájsť, aj mesta, kde Tami vyrastala.
+- **Maks si vymyslel „Kito" náhodou** pri colnici — a trafil do čierneho dvakrát: je to meno archeologa, ktorého potrebujú nájsť, aj mesta, kde Tami vyrastala.
 
 ### Rola v príbehu
 
-- **Kniha 1 (Shoraven)**: Max a Tami ho rekrutujú pre jeho znalosti tunelov pod Chrámom. Kito ich prevedie kanalizáciou (staré geotermálne parovody z čias Inetis), pomôže pri heist-e. Stane sa svedkom Maxovej skutočnej identity. Po páde Shoravenu odchádza s Maxom a Tami na Makite.
+- **Kniha 1 (Shoraven)**: Maks a Tami ho rekrutujú pre jeho znalosti tunelov pod Chrámom. Kito ich prevedie kanalizáciou (staré geotermálne parovody z čias Inetis), pomôže pri heist-e. Stane sa svedkom Maksovej skutočnej identity. Po páde Shoravenu odchádza s Maksom a Tami na Makite.
 - **Cestujúci člen tímu**: Kito je encyklopédia tohto sveta. Kdekoľvek tím príde, Kito poskytne historický kontext, preloží nápisy, vysvetlí tradície a odhalí skryté spojenia medzi lore a realitou. Je to „walking lore dump" — ale spôsobom, ktorý je organický, pretože je to archeológ v teréne.
 - **Lore-bearer**: Cez Kita sa čitateľ dozvedá o svete — o Doktrínach Štyroch Príchodov, o zakázaných textoch, o skutočnej histórii Kultu Matky, o Ynetis. Kito je most medzi Maxovým vedeckým pohľadom a náboženským svetom Varietas.
-- **Morálne svedomie**: Na rozdiel od Maxa (cynický vojak) a Tami (pragmatická pirátka), Kito sa stará o dôsledky. Kladie otázky, ktoré ostatní dvaja nechcú počuť: „Čo ak má proroctvo pravdu? Čo ak sme tí, čo otvoria dvere apokalypse?"
+- **Morálne svedomie**: Na rozdiel od Maksa (cynický vojak) a Tami (pragmatická pirátka), Kito sa stará o dôsledky. Kladie otázky, ktoré ostatní dvaja nechcú počuť: „Čo ak má proroctvo pravdu? Čo ak sme tí, čo otvoria dvere apokalypse?"
 - **Expert na Paladínov**: Jediný, kto vie o Apes Paladínoch z čítania starých námorníckych denníkov a zakázaných textov z Apriky. Vie, že ich štíty nie sú Spira, ale stará technológia (Hard Light), ktorá sa nedá hacknúť, ale dá sa preťažiť hrubou silou.
 
 ### Vybavenie
@@ -87,17 +87,17 @@ Kito je prvý Varietas, ktorý pochopí, kým Max naozaj je.
 
 **ZAKÁZANÉ:**
 ```
-❌ Vojenský žargón (to je Max)
+❌ Vojenský žargón (to je Maks)
 ❌ Slang a nadávky (to je Tami)
-❌ Krátke pragmatické vety (to je Max/Sera)
+❌ Krátke pragmatické vety (to je Maks/Sera)
 ```
 
 **Kontrast:**
-- Max: *"Lead. Pokračujeme."*
+- Maks: *"Lead. Pokračujeme."*
 - Kito: *"Počkaj — ak je toto to, čo si myslím, tak sme práve potvrdili proroctvo o Spáčovi, čo znamená... ó, Matka Všehomíra."*
 
 ### Vzťahy
 
-- **Max**: Spočiatku hrôza (Spáč z legiend). Potom rešpekt (Max mu zachráni život v tuneloch). Nakoniec niečo ako priateľstvo dvoch mužov, ktorí obaja stratili všetko a idú ďalej len kvôli ženám, ktoré milujú.
-- **Tami**: Rešpekt k jej schopnostiam, jemná nedôvera k jej motívom. Tami je pirátka a Kito je akademik — odlišné svety. Ale obaja milujú Maxa po svojom.
+- **Maks**: Spočiatku hrôza (Spáč z legiend). Potom rešpekt (Maks mu zachráni život v tuneloch). Nakoniec niečo ako priateľstvo dvoch mužov, ktorí obaja stratili všetko a idú ďalej len kvôli ženám, ktoré milujú.
+- **Tami**: Rešpekt k jej schopnostiam, jemná nedôvera k jej motívom. Tami je pirátka a Kito je akademik — odlišné svety. Ale obaja milujú Maksa po svojom.
 - **Maya**: Všetko. Dôvod, prečo žije. Dôvod, prečo je ochotný spolupracovať s koncom sveta.

@@ -4,7 +4,7 @@
 |---|---|
 | **Status** | Alive (immortal / corrupted) |
 | **Age** | ~2750 (chronologically), appears ~30 |
-| **Role** | Main antagonist, daughter of Max and Inetis |
+| **Role** | Main antagonist, daughter of Maks and Inetis |
 | **Title** | Gatekeeper |
 
 ![Elania](../assets/Elania.png)
@@ -64,13 +64,13 @@ Shifting between warmth and coldness
 
 **FORBIDDEN:**
 ```
-Military jargon (that's Max)
+Military jargon (that's Maks)
 Stable mood (she has ADHD + depression)
 Unequivocal statements (there's always a "but...")
 ```
 
-**Contrast with Max:**
-- Max: pragmatist, soldier, facts
+**Contrast with Maks:**
+- Maks: pragmatist, soldier, facts
 - Elania: visionary, artist, emotions
 
 ### Mirroring: Like Mother, Like Daughter
@@ -81,8 +81,8 @@ Unequivocal statements (there's always a "but...")
 | **Preference** | Female companionship | Female companionship |
 | **"Her artist"** | Helena (painter, poet, soul of the group) | Sera (secret ecchi illustrator, tsundere goddess) |
 | **Relationship** | Best friend, emotional anchor | Protector, sole constant for 2,500 years |
-| **Loss** | Helena stayed on Earth — died | Sera dies in a duel with Max |
-| **Cause of loss** | Her father's order (the Coordinator) separated Inetis from Helena | Her father's decision (Max) to stop Elania → kills Sera |
+| **Loss** | Helena stayed on Earth — died | Sera dies in a duel with Maks |
+| **Cause of loss** | Her father's order (the Coordinator) separated Inetis from Helena | Her father's decision (Maks) to stop Elania → kills Sera |
 
 > **The same story twice, two generations.** Inetis lost her artist because of her father's decision. Elania loses her artist because of her father's decision. A Greek tragedy in a loop — the daughter repeats the mother's fate without knowing it.
 
@@ -96,6 +96,6 @@ Elania crossed that line. Not because she is evil — but because **she has neve
 
 The mother was right — and lacked the courage to act. The daughter acts — and lacks her mother's experience to stop her. Both see the same equation. One refused the solution because she knew what is lost. The other accepts it because she has never lost anything — she has only suffered. And the reader should feel that **they do not know which one is right**.
 
-### Conflict with Max
-- Max: Pain is the price of being alive
+### Conflict with Maks
+- Maks: Pain is the price of being alive
 - Elania: Digital existence is pure and eternal

@@ -189,7 +189,7 @@
 - **Kalkulácia:** Keby Paladíni (Rau, Kira) stretli Seru... neboli by to oni, kto odíde
 - **Elania nie je bojovníčka.** Sera áno. A to je problém.
 
-### Max (neznámy)
+### Maks (neznámy)
 - **Intel:** Zaya mu hlásila "Exorcistu" v Shoravene
 - **Znepokojenie:** Starobylý človek s Gen 1 nanotechom? Zaujímavé...
 
@@ -222,7 +222,7 @@
 
 ### Neskoršie knihy
 - **Potenciálny spojenec?** Goro nie je zlo — je pragmatik
-- **Alebo rival?** Ak Max stojí v ceste jeho cieľom...
+- **Alebo rival?** Ak Maks stojí v ceste jeho cieľom...
 - **Komplexná postava:** Nie čiernobiely antagonista
 
 ---

@@ -117,51 +117,51 @@ Inetis did not die in battle. She died inside that day at the Atra Narrows, when
 
 ---
 
-## The Final Journey (Searching for Max)
+## The Final Journey (Searching for Maks)
 
 After the war, broken and dying of Glitch Rot (which she contracted while working on Gen 2 in The Core), she resolved on one last desperate act — even knowing she would likely never make it.
 She feared the wars would never end. That her children would never stop fighting.
 She needed someone who could do what she could not. Someone who would impose order.
-On the road to the cave, she spent much time remembering the past and came to realize that Max hadn't been all that bad. What had happened between them no longer seemed so terrible. She even convinced herself it had been her fault.
+On the road to the cave, she spent much time remembering the past and came to realize that Maks hadn't been all that bad. What had happened between them no longer seemed so terrible. She even convinced herself it had been her fault.
 
 ### Why She Refused Treatment
 Inetis had Gen 2 Spira. She could have healed herself — slowly, gradually, but she could have. **She refused.**
 - **Tired of living** — Centuries of solitude. Losing Elania. The guilt of the Glitch Event and millions dead on Earth. The guilt of the wars on Achilles. She did not want to live forever.
 - **She felt she didn't deserve to be saved** — She created the technology that turned the world into a battlefield. Her daughter became a monster. Her beloved slept in ice because of her fear.
-- **She deliberately chose to die beside Max** — She didn't go to the cave to wake him. She went there to die next to him. She wanted the last thing she saw to be him. She wanted to ask his forgiveness. And to ask him to save Elania from the Ex Inferis.
+- **She deliberately chose to die beside Maks** — She didn't go to the cave to wake him. She went there to die next to him. She wanted the last thing she saw to be him. She wanted to ask his forgiveness. And to ask him to save Elania from the Ex Inferis.
 
 **For her, death was redemption.** She felt old and exhausted. A thousand years is far too long for a human — or whatever she had become — to still want to live.
 
-**Why did she die after 1,000 years when others survive 3,000+?** The Archangels and Elania survive — but at the cost of cannibalism and their humanity. They devour others to replace their decaying nanobots. Inetis **never crossed that line**. She never consumed anyone. She remained human. And it was precisely this conscience — the guilt over the Glitch Event, over millions dead, over Elania, over Max in the ice — that ultimately killed her. The others survived because they became monsters. **Inetis died because she refused to become one.**
-**Mission:** Find Max.
+**Why did she die after 1,000 years when others survive 3,000+?** The Archangels and Elania survive — but at the cost of cannibalism and their humanity. They devour others to replace their decaying nanobots. Inetis **never crossed that line**. She never consumed anyone. She remained human. And it was precisely this conscience — the guilt over the Glitch Event, over millions dead, over Elania, over Maks in the ice — that ultimately killed her. The others survived because they became monsters. **Inetis died because she refused to become one.**
+**Mission:** Find Maks.
 
 ### Why on Foot, in Secret
 - **The Ex Inferis want Spira** — the remaining Ex Inferis (Archangels and their allies) knew Inetis carried Gen 2 Spira. If she had used any vehicle, they would have tracked her.
 - **She knew they would be watching** — so she set out alone, on foot, carrying only the Antenna (the Antenna made her invisible to nanodrones and other technologies; it also functioned as a jammer when its subspace polarity was reversed). No signals, no technology they could intercept.
-- **She realized she needed Max** — he was the only one who could defeat them. A military strategist without mercy, without Spira, without dependence on the technology the Archangels controlled.
+- **She realized she needed Maks** — he was the only one who could defeat them. A military strategist without mercy, without Spira, without dependence on the technology the Archangels controlled.
 
-She knew where they had originally landed — the Ela Cave in the Eastern Wilds, where she had once reconfigured the entire ship NULL VOID into infrastructure and where Max's cryobox still stood in minimal configuration. She traveled for two years on foot. She survived on whatever she could find in the wild and on the last remnants of Spira. She remembered the early days in the cave, eating algae porridge and drinking water from puddles.
+She knew where they had originally landed — the Ela Cave in the Eastern Wilds, where she had once reconfigured the entire ship NULL VOID into infrastructure and where Maks's cryobox still stood in minimal configuration. She traveled for two years on foot. She survived on whatever she could find in the wild and on the last remnants of Spira. She remembered the early days in the cave, eating algae porridge and drinking water from puddles.
 **She took the Antenna with her** — her faithful staff, the tool with which she had built Elysium and which had protected her throughout all her journeys. Without it, she would not have survived the trip.
 The journey took two years. She walked. Her nanotechnology batteries were failing. Every step was agony.
 - She crossed through snowstorms of the North.
 - She survived attacks by wild beasts only thanks to the last traces of Spira and the **Antenna**, which repelled Wraiths.
 
 ### Thoughts Along the Way
-On the road to the cave, she spent much time thinking and remembering. She imagined how things might have gone if they had been together. Whether Elania would have grown up differently with a father. Whether the wars would have erupted at all if Max had stood by her side. The longer she walked, the more she realized that what she had once perceived as his brutality might have simply been his way of loving. And maybe — maybe — what had happened between them on the ship was not entirely his fault. She grew ever more resolved to wake him. To tell him everything. To ask for forgiveness.
+On the road to the cave, she spent much time thinking and remembering. She imagined how things might have gone if they had been together. Whether Elania would have grown up differently with a father. Whether the wars would have erupted at all if Maks had stood by her side. The longer she walked, the more she realized that what she had once perceived as his brutality might have simply been his way of loving. And maybe — maybe — what had happened between them on the ship was not entirely his fault. She grew ever more resolved to wake him. To tell him everything. To ask for forgiveness.
 
 ### Death in the Cave
 When she reached the cave (or rather the bunker — a labyrinth she alone knew, carved into granite rock), she found the remnants of her old home — walls covered in drawings (Elania's work), the remains of hydroponic farms, terminals that had once governed their lives.
-- **Max's cryobox:** The sole module in the cave, in minimal configuration. After 1,000 years of operation, the nanodrones were on the brink of collapse. The status lights blinked green — Max inside was alive: the nanodrones maintained his basic functions, but his body was paying the price.
+- **Maks's cryobox:** The sole module in the cave, in minimal configuration. After 1,000 years of operation, the nanodrones were on the brink of collapse. The status lights blinked green — Maks inside was alive: the nanodrones maintained his basic functions, but his body was paying the price.
 - **Her plan:** Originally she wanted to wake him and explain everything. But she didn't even have the strength for the awakening process itself. And perhaps, after all those centuries, she was still afraid of that moment.
 
 
 
 She sat down beside his module. She pressed her forehead against the cold glass.
-*"I'm sorry, Max. I let you sleep for too long. Now you'll have to clean up this mess yourself."*
+*"I'm sorry, Maks. I let you sleep for too long. Now you'll have to clean up this mess yourself."*
 
 She died there, in the silence of the cave.
 Her body transformed into an onyx statue and crumbled to dust (the nanobots deactivated and left the host). All that remained were her diaries (leather-bound volumes she had written over the years), her bones — and the **Antenna**, laid beside her like a faithful guardian.
-Max slept on, unaware that the woman he loved had died half a meter from his face.
+Maks slept on, unaware that the woman he loved had died half a meter from his face.
 
 ---
 
@@ -179,8 +179,8 @@ Tami touched the remains of Inetis. In that moment, the "hungry" nanodrones reco
 
 **Consequences:**
 - From this moment on, Tami carries the **Echo of Inetis** — fragments of memories, scientific terminology, and abilities (healing, regeneration). They manifest slowly, subconsciously — nightmares in a foreign language, intuition she cannot explain.
-- **Subconscious Motivation:** The Echo of Inetis pulls her toward Max. Tami believes she seeks him for herself — for unresolved feelings. In truth, it is Inetis who, even after death, strives to fulfill her final plan: to wake Max.
-- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle — which is why she is so exceptionally skilled with Spira (beyond what Max taught her).
+- **Subconscious Motivation:** The Echo of Inetis pulls her toward Maks. Tami believes she seeks him for herself — for unresolved feelings. In truth, it is Inetis who, even after death, strives to fulfill her final plan: to wake Maks.
+- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle — which is why she is so exceptionally skilled with Spira (beyond what Maks taught her).
 
 ### Fate of the Expedition
 

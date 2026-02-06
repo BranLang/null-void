@@ -180,18 +180,18 @@
 
 **Primary Mission (AY 2013):**
 - Prinesť **Anténa** artefakt späť Elanii
-- Investigovať "nesmrteľného exorcistu" (Max)
+- Investigovať "nesmrteľného exorcistu" (Maks)
 - Zistiť, čo sa stalo s Paladínmi (Rau & Kira)
 
 **Hidden Agenda:**
-- **Maxov profil = záhada väčšia než artefakt**
+- **Maksov profil = záhada väčšia než artefakt**
 - Sera pozná všetkých exorcistov osobne
-- Max nezapadá do žiadneho profilu
+- Maks nezapadá do žiadneho profilu
 - **Kto je? Odkiaľ prišiel? Prečo Elania o ňom vie?**
 
 **Long-term Goal:**
 - Chrániť Elaniu (sľub Inetis)
-- Pomôcť Elanii nájsť "niekoho, kto má jej krv" (Max = otec?)
+- Pomôcť Elanii nájsť "niekoho, kto má jej krv" (Maks = otec?)
 - Udržať si Gen 1+2 nanoboty funkčné (vampirizmus)
 - **Možno nájsť zmysel v nesmrteľnosti**
 
@@ -223,7 +223,7 @@
 
 **Current Status:**
 - Sera vykonáva Elániine rozkazy bez otázok
-- Ale má vlastnú zvedavosť (Max = mystery)
+- Ale má vlastnú zvedavosť (Maks = mystery)
 - Je seberovná s Elaniou (rovnako silná, lepšia vo väčšine vecí)
 - **Ale CHCE slúžiť** - nie z podriadenia, ale z voľby
 
@@ -232,10 +232,10 @@
 **Dynamic:**
 - Sera poznala Inetis osobne
 - Bránila ju počas Elaniiho odchodu (EY -10)
-- **Posledné slová Inetis:** "Postaraj sa o Elaniu. A ak nájdeš Maxa... povedz mu pravdu."
+- **Posledné slová Inetis:** "Postaraj sa o Elaniu. A ak nájdeš Maksa... povedz mu pravdu."
 - Sera dodnes drží sľub
 
-### Max (Unknown - Target of Interest)
+### Maks (Unknown - Target of Interest)
 
 **Sera's Assumptions:**
 - Nesmrteľný exorcista
@@ -317,15 +317,15 @@
 
 **Function:**
 - **Catalyst** - prináša informácie o Elanii, Paladínoch, južnom kontinente
-- **Mystery** - Tami/Max sa musia pýtať: "Kto je Elania? Prečo hľadá Maxa?"
+- **Mystery** - Tami/Maks sa musia pýtať: "Kto je Elania? Prečo hľadá Maksa?"
 - **Ally (tentative)** - nie nepriateľ, ale ani nie plne dôveryhodná
-- **Setup for Book 4** - Sera = bridge medzi Max a Elania (otec-dcéra reunion)
+- **Setup for Book 4** - Sera = bridge medzi Maks a Elania (otec-dcéra reunion)
 
 **Key Scenes (Book 1):**
 1. **Encounter s Tami** - spoznávačka, nie fight
 2. **Reveal o Elanii** - "niekto, kto má jeho krv"
 3. **Departure** - odchádza s mysterióznym odkazom
-4. **Possible return** - keď Max stretne Paladínov znova?
+4. **Possible return** - keď Maks stretne Paladínov znova?
 
 ---
 

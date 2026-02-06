@@ -189,7 +189,7 @@ Pompous speeches (he rejects that)
 - **Calculation:** If the Paladins (Rau, Kira) met Sera... it wouldn't be them walking away
 - **Elania is not a warrior.** Sera is. And that is the problem.
 
-### Max (unknown)
+### Maks (unknown)
 - **Intel:** Zaya reported an "Exorcist" in Shoraven
 - **Concern:** An ancient human with Gen 1 nanotech? Interesting...
 
@@ -222,7 +222,7 @@ Pompous speeches (he rejects that)
 
 ### Later Books
 - **Potential ally?** Goro is not evil — he's a pragmatist
-- **Or a rival?** If Max stands in the way of his goals...
+- **Or a rival?** If Maks stands in the way of his goals...
 - **A complex character:** Not a black-and-white antagonist
 
 ---

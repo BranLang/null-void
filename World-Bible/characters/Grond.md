@@ -59,7 +59,7 @@
 ```
 
 **Kontrast:**
-- Max: vojak, ktorý myslí
+- Maks: vojak, ktorý myslí
 - Grond: vojak, ktorý už len bojuje
 
 ### Citát

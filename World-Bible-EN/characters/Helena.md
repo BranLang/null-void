@@ -22,7 +22,7 @@ Helena was one of the **Ex Inferis** — survivors of the Glitch Event (~EY 2065
 ### Relationship with Inetis
 - **Best friends**: Within the Ex Inferis community, they were inseparable. Helena was the one who "grounded" Inetis — reminding her that life is not only about survival, but about living.
 - **Guardian**: Helena placed herself between Inetis and the world not with physical strength, but with emotional support. She protected her humanity.
-- **Conflict**: When Maximilian came to evacuate Inetis, Helena said she understood and that it was the right thing to do. But it broke her heart. It was a personal tragedy.
+- **Conflict**: When Maksimilian came to evacuate Inetis, Helena said she understood and that it was the right thing to do. But it broke her heart. It was a personal tragedy.
 
 ---
 
@@ -32,9 +32,9 @@ The ship **NULL VOID** was originally meant for **Helena and Inetis**. Two best 
 
 Then the order came.
 
-**The Coordinator (John Reef)** — Inetis's father — gave Maximilian a direct order: *"Evacuate my daughter. Take care of her. This is your new mission."*
+**The Coordinator (John Reef)** — Inetis's father — gave Maksimilian a direct order: *"Evacuate my daughter. Take care of her. This is your new mission."*
 
-Max was a soldier. He could not refuse an order. And the Coordinator knew exactly who to send — the only man Inetis trusted.
+Maks was a soldier. He could not refuse an order. And the Coordinator knew exactly who to send — the only man Inetis trusted.
 
 > *"Ela, I'm sorry."*
 >
@@ -77,4 +77,4 @@ Helena did not smile. She did not strike a heroic pose. She stood there and watc
 - [ ] Her role within the Ex Inferis community
 - [ ] Details of the war in which she perished
 - [ ] Flashbacks of shared moments with Inetis
-- [ ] Helena's relationship with Max (if one existed)
+- [ ] Helena's relationship with Maks (if one existed)
