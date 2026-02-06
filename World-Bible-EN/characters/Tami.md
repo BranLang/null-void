@@ -42,6 +42,7 @@
 | **AY 3013** | 20 | **Opening** — reunion with Maks (subconsciously drawn to him through the Echo of Inetis) |
 | **AY 3013** | 20 | **Phase 2 — Activation:** Sera unlocks the Artifact in the tunnels beneath Shoraven and hands it to Tami (NOT Maks). Concentrated Essence of Inetis transfers to Tami — full awakening. Abilities, memories, connection to Inetis |
 | **AY 3013** | 20 | **Phase 3 — Amplification:** After Maks's death, Tami returns to the Ela Cave and buries Maks beside Inetis. Proximity to Inetis's remains amplifies the Essence — full flashbacks, Inetis's memories like a film |
+| **Book 5** | ~20+ | **Phase 4 — Core Contact:** Tami enters the Core (Ynetis) with Links and Elania. The Essence connects with AI i_net_is — an artificial intelligence locked inside the Core for 3000+ years. The AI reveals the truth about the Upload. Links translates. |
 
 ### Tami After Leaving Maks (AY 3008-3013)
 - **Career**: Treasure hunter, smuggler, mercenary, pirate
@@ -177,6 +178,16 @@ Formal speech (she's a pirate, not a princess)
 - In proximity to Inetis's remains, the Essence is **fully amplified** — complete flashbacks, Inetis's memories like a film
 - Tami finally understands why she was drawn to Maks — it wasn't just love. It was the Essence.
 
+**Phase 4 — Core Contact (Book 5, Ynetis):**
+- Tami, Links, and Elania enter the **Core** — a virtual world hidden in the ruins of Ynetis (Achilles)
+- In proximity to the AI's kernel, the Essence activates in a way it never has before — a **direct connection** with the environment where AI i_net_is lives
+- AI i_net_is **recognizes the Essence** — fragments of its human partner Neto Fujiwara — in Tami's blood
+- **Links** (Translation Engine) translates the AI for Tami and Elania — without him, communication would be impossible
+- The AI reveals the truth: the Upload **degrades consciousnesses** into shadow entities. Not eternal life — a slow death of the soul.
+- The shadow entities in Core = the same ones Tami saw in her **nightmare in Kitsune** (Phase 3 preview)
+- The Essence finally fulfilled its purpose — **not to wake Maks**, but to **bring someone to the Core** who can listen
+- *(See: `books/planning/ai-inetis-vs-human-neto.md` — full analysis of the AI duality)*
+
 **Revelation (Book 1)**: Maks discovers that Tami is Varietas. It shocks him, forcing him to re-examine his prejudices.
 **Consequence**: Maks realizes that this "toy" has more courage and humanity than most "pure" humans he has ever known. Tami teaches him that being human is not about DNA — it is about actions.
 
@@ -229,9 +240,10 @@ Elania's **Grand Plan** (from the Sera/Elania shadow plot) aims for the **Great 
 
 **Tami is the only one who can stop it:**
 1. **She carries Inetis's memory** — she knows (through the Essence) what Inetis truly wanted. And it was not the Upload. Inetis wanted freedom, not a digital prison.
-2. **Links can read the code** — the Translation Engine reveals the truth about the Core and what actually happens to "uploaded" souls inside it
-3. **Tami meets Elania** (Book 4) — Renn's daughter meets Inetis's daughter. She brings her a truth that destroys Elania's justification for the Upload.
-4. **"Truth belongs to El"** — Sera's prophecy is fulfilled. But the truth is not what Elania expected.
+2. **Links can read the code** — the Translation Engine reveals the truth about the Core and what actually happens to "uploaded" souls inside it. In Book 5 he **translates AI i_net_is** — the artificial intelligence itself, locked inside the Core for 3000+ years.
+3. **Phase 4 — Core Contact**: The Essence in Tami connects with AI i_net_is. The AI confirms that the Upload degrades consciousnesses into shadow entities. The nightmare from Kitsune was real.
+4. **Tami meets Elania** (Book 4) — Renn's daughter meets Inetis's daughter. She brings her a truth that destroys Elania's justification for the Upload.
+5. **"Truth belongs to El"** — Sera's prophecy is fulfilled. But the truth is not what Elania expected. Elania discovers that "Inetis" were always two — and the AI version knew all along that the Upload doesn't work.
 
 **Why Tami specifically:**
 - Like Inetis — she refuses cannibalism, refuses control over free will
