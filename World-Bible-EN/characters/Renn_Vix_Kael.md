@@ -1,0 +1,66 @@
+# Renn, Vix, and Kael
+
+## Renn (Tami's Father)
+
+| | |
+|---|---|
+| **Status** | Dead (killed by pirates Vix and Kael, AY 3000) |
+| **Name** | **Renn** |
+| **Race** | Varietas — Vulpini (Fox) |
+| **Occupation** | Treasure hunter, explorer, aeronaut |
+| **Origin** | From a small coastal settlement in eastern Nevriss |
+| **Domain** | Ruins of the city of Kito (Eastern Wilds) |
+
+### Origin and Character
+
+Renn was one of the last Vulpini — a fox Varietas race considered nearly extinct. He was a quiet, stubborn man with a sharp instinct for danger and an even sharper one for opportunity. He spent his whole life on the road — searching for lost artifacts, ancient ruins, and forgotten technologies to sell to guilds and collectors.
+
+### How Renn Met Felix
+
+- **Discovery of Kito (~AY 2985)**: Renn was one of the few adventurers bold enough to venture deep into the Eastern Wilds — a region of dense "new" forests that had swallowed the ruins of the ancient city of Kito (landing site of the ship Hephaestus). Most seekers came back empty-handed or didn't come back at all — the forest was dangerous and Wraiths occasionally roamed the area.
+- **Finding Felix**: In the heart of the ruins, Renn found something he didn't expect — a functioning Maki. **Felix** (E-Series — the sole survivor of the European series) had been living alone in the ruins of Kito since the Blood Lesson (~AY 2212). Nearly 800 years of solitude. Felix was damaged, partially non-functional, but still loyal to his Directive: *"Survive. Build. Help humanity."*
+- **Friendship**: Renn wasn't greedy. Instead of selling Felix (a functioning Mako would have been worth a fortune), he stayed with him. He repaired him, brought him parts from the ruins, learned from him. Felix in turn taught Renn to read old technical blueprints and understand machines. It was a friendship between a fox and a machine — unexpected, but deep.
+- **Settling Down**: Renn made the ruins of Kito his home. This is where Tami was later born (~AY 2993). She grew up surrounded by ruins, machines, and Felix's stories about the old world.
+
+### Makita — The Greatest Ship on Terra
+
+- **Origin of the Ship**: **Felix and other Maki** built **Makita** for Renn — a larger project, not the work of a single machine. They used remnants of technology from the ship Hephaestus, combined with local materials. Makita was a prototype of the fourth series of hawk-class airships — small, fast, but with one revolutionary detail: a **Spira crystal drive**. While most airships burn expensive biodiesel or ethanol, Makita needs only water and a few Spira crystals at a fraction of the cost.
+- **Name**: *Makita* = "Little Machine" — a tribute to Felix and his race (Maki). Renn named her.
+- **Felix 88**: Felix also installed his masterpiece on the ship — the **88mm cannon "Felix"**, a heavy artillery piece of his own making. A legend among gunsmiths.
+- **Why "Greatest"**: Makita isn't the largest by dimensions — she's a small, fast ship. But thanks to the Spira drive, she has **unlimited range** and **minimal operating costs**. In a world where fuel costs a fortune, that's an invaluable advantage. No other ship on Terra has this technology.
+
+### The Ancient Map
+
+- **Origin of the Map**: Renn bought an old, weathered map on the black market in one of the ports for a few coins — nobody knew what it depicted, and the seller considered it a worthless scrap. The map was written in a mix of Old Speech and symbols that no one at the market could understand.
+- **True Author**: The map was the work of **Elania** or **Inetis** — an ancient document showing the path to the **Cave of Beginning**, the place where Inetis landed and where Max's cryobox was later hidden. Renn didn't know what the map depicted — to him it was just an interesting artifact, maybe a lead to more ruins.
+- **Pirates Tracked Renn**: Vix and Kael learned about the map — there were whispers on the black market about "a Fox who bought something ancient." They followed Renn through the Eastern Wilds, waiting for an opportunity.
+
+### Renn's Death (AY 3000)
+
+- **Ambush**: Pirates Vix and Kael ambushed Renn in the Eastern Wilds near the city of Kito. Renn was alone — and **careless**, because he was looking after little Tami. His attention was on his daughter, not his surroundings. It cost him his life.
+- **Murder**: They killed him for the **Ancient Map** — a document whose true value not even Renn himself knew. The pirates didn't know exactly what the map showed, but they knew that ancient maps in Old Speech could be sold for a fortune — or better yet, followed.
+- **Map Leads to the Cave**: Kael and Vix followed the map and reached the area of the **Cave of Beginning**. Kael's Dust (nanobots in his blood) activated the cryobox sensors and triggered the process of Max's awakening — a chain reaction no one had planned.
+- **Tami's Capture**: After Renn's death, Vix and Kael returned to Kito, where they captured 7-year-old Tami. Felix was not in the ruins (he was away on one of his scavenging trips for parts). Tami was alone.
+
+---
+
+## Vix and Kael (Pirates)
+
+| | |
+|---|---|
+| **Nature** | Pragmatic flesh traders and slavers |
+| **Ship** | **Makita** — stolen from Renn after his murder. Originally built by Felix and other Maki for Renn |
+
+### Role in the Story
+
+- Killed **Renn** (Tami's father) and captured 7-year-old Tami, keeping her in a cage on the ship's deck
+- **Kael and the Cave of Beginning**: Thanks to the **Ancient Map** stolen from Renn, Kael reached the area of the Cave of Ela (Tomb of Technology). His presence — specifically his Dust (nanobots in his blood) — activated the cryobox sensors and triggered the process of Max's awakening
+- **Kael vs. Samaell**: Kael's Dust drew the attention of **Samaell**, who was hunting in the area. Kael and Samaell clashed in a brutal Dust duel — two wills trying to boil each other alive. Kael was experienced, but Samaell was an Archangel. The duel was interrupted by **defensive nanodrones from the cave** (the cryobox Caretaker responded to a perimeter breach) — the interference gave Kael a second to escape. Badly wounded, he crawled into a hole near the cave.
+- **Max's Awakening and Kael's Death**: Max awoke in pain and fury — 3,000 years of cryostasis, exploded eyes, disorientation. In this state, his nanodrones automatically eliminated the nearest threat — the wounded Kael hiding nearby. Max **does not remember** this death — he was in a trance between unconsciousness and awakening. Kael died as collateral damage of a process he didn't understand.
+- **Vix Finds Max**: Vix, searching for Kael, found a half-dead Max in the snow near the cave instead — naked, covered in blue cryo-fluid, blind. He threw him into the hold with Tami to sell him in the mines down south for gold. *"Blind, but muscular. Good for the mines."*
+- **Max and Tami meet on the ship** — he blind and unconscious, she in a cage
+
+### Kael — Detail
+
+- **Dust Duelist**: Kael had strong Dust (above-average nanobot concentration). He was a veteran of street duels, but his abilities were nothing compared to an Archangel. Samaell could have killed him instantly, but wanted to "feel him out" first — to figure out where such a strong Dust signal was coming from in this wasteland.
+- **Death**: Twofold — badly wounded by Samaell, finished off by Max's nanodrones in automatic defense mode. Samaell later found his desiccated body near the cave and paid it no attention — he was only interested in the empty cryobox and the vanished "General Maximilian."
