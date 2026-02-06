@@ -76,6 +76,31 @@
 - **Departure**: After the rejected confession, she took the airship and left him in the middle of the wasteland
 - **5 years of silence**: They did not see or speak to each other
 - **Reunion**: The book's opening — tension, unresolved feelings, a new purpose (heist)
+- **Maks's death**: Maks falls from the airship during battle. He dies in flames and wreckage — Tami weeps over him, but he can no longer hear her. In his final seconds he sees a café in Kyiv, the year 2075, Inetis sitting across from him. The soldier came home.
+
+### Relationship with Links (Book 2+)
+
+**Context:**
+- After Maks's death, Tami is alone — with Sera's prophecy, the Antenna, and Inetis's Essence in her blood
+- Links finds her in Nevriss — saves her from Mormiel (hacks Mormiel's Gen 1)
+- First meeting: *"Who the fuck are you?!"* — *"Someone who followed you 3000 kilometers."*
+
+**Dynamic — Maks vs Links:**
+- **Maks was the shield** — soldier, cynical, stronger, protected her in combat. A partnership of equals.
+- **Links is the key** — scientist, naive, physically weaker, but understands the code of the gods. He can read the Essence in her blood, unlock what Sera started.
+- Maks **protected** her. Links **needs** her — and she needs him.
+
+**Development:**
+- At first Tami thinks Links is just a kid — vulnerable, nervous, impractical
+- But Links sees things she can't: code in her nanobots, patterns in Spira, traces of Inetis
+- She slowly realizes: Maks gave her the strength to survive. Links gives her the strength to **understand** — who she is, what she carries, why Sera was looking at her
+- **He's not a replacement for Maks.** He's something entirely different.
+
+**Tami's arc (Books 2-5):**
+- Book 1: Sidekick. The reader thinks the story is about Maks.
+- Book 2-3: Protagonist. Maks dead, Tami with Links and Kito. The Glass Tower (Ishtar/Zaya).
+- Book 4: Tower of the Lost. Tami meets Elania — Renn's daughter meets Inetis's daughter.
+- Book 5: Ynetis/Core. Tami delivers the truth. "Truth belongs to El."
 
 ### Speech and Thought Patterns
 

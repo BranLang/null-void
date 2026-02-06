@@ -76,6 +76,31 @@
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
+- **Maksova smrť**: Maks padne zo vzducholode počas boja. Umiera v plameňoch a troskách — Tami nad ním plače, ale on ju už nepočuje. V posledných sekundách vidí kaviareň v Kyjeve, rok 2075, Inetis oproti nemu. Vojak sa vrátil domov.
+
+### Vzťah s Linksom (Book 2+)
+
+**Kontext:**
+- Po Maksovej smrti je Tami sama — so Seriným proroctvom, Anténou, a Esenciou Inetis v krvi
+- Links ju nájde v Nevriss — zachráni ju pred Mormiel (hackne Mormielinu Gen 1)
+- Prvé stretnutie: *"Kto si, kurva, ty?!"* — *"Niekto, kto ťa sledoval 3000 kilometrov."*
+
+**Dynamika — Maks vs Links:**
+- **Maks bol štít** — vojak, cynický, silnejší, chránil ju v boji. Vzťah rovných partnerov.
+- **Links je kľúč** — vedec, naivný, slabší fyzicky, ale rozumie kódu bohov. Dokáže čítať Esenciu v jej krvi, odomknúť to čo Sera začala.
+- Maks ju **chránil**. Links ju **potrebuje** — a ona potrebuje jeho.
+
+**Vývoj:**
+- Tami si spočiatku myslí, že Links je len kid — zraniteľný, nervózny, nepraktický
+- Ale Links vidí veci, čo ona nevidí: kód v jej nanobotoch, vzory v Spire, stopy po Inetis
+- Pomaly si uvedomí: Maks jej dal silu prežiť. Links jej dá silu **pochopiť** — kto je, čo nesie, prečo sa Sera pozerala na ňu
+- **Nie je náhrada za Maksa.** Je niečo úplne iné.
+
+**Tamin arc (Books 2-5):**
+- Book 1: Sidekick. Čitateľ si myslí, že príbeh je o Maksovi.
+- Book 2-3: Protagonistka. Maks mŕtvy, Tami s Linksom a Kitom. Sklená Veža (Ishtar/Zaya).
+- Book 4: Veža Stratených. Tami stretne Elaniu — dcéra Renna stretne dcéru Inetis.
+- Book 5: Ynetis/Core. Tami donesie pravdu. "Pravda patrí El."
 
 ### Štýl reči a myslenia
 

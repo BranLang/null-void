@@ -270,16 +270,18 @@ Confident flirting (he's nervous)
 - He doesn't fight for her — he's just there when she needs him
 - *"You don't have to choose me. It's enough that you exist."*
 
-### Maks (Rival?)
+### Maks (Deceased — Predecessor)
 
 **Links's view of Maks:**
 - Legend. Sleeper. Immortal exorcist.
 - But also: *"He left her. Rejected her. Hurt her."*
 - Links respects him as a soldier — not as a partner for Tami
+- **After Maks's death:** Links inherits his place — not as a soldier, but as Tami's ally. They never meet. Links knows Maks only from legends and Tami's memories. He competes with a ghost.
 
-**Maks's view of Links:**
-- TBD — do they meet later?
-- Probably: *"Who is this kid?"*
+**Dynamic Maks → Links:**
+- Maks was the **shield** (protected Tami in combat). Links is the **key** (unlocks the code of the gods in her blood).
+- Maks was an equal partner. Links is physically weaker — but brings what Maks never had: the ability to read Inetis's Essence.
+- Tami must learn that she doesn't need a new Maks — she needs Links exactly as he is.
 
 ### Mormiel (Nemesis)
 
@@ -314,17 +316,33 @@ Confident flirting (he's nervous)
 
 ## Role in the Story
 
-### Book 2-3? (TBD)
+### Book 2+ — Tami's New Sidekick
+
+**After Maks's death (end of Book 1):**
+- Maks falls from the airship. Tami is left alone with the prophecy, the Antenna, and Inetis's Essence.
+- Links finds her in Nevriss — just in time to hack Mormiel and help Tami survive.
+- **Links replaces Maks** — but in a completely different way. Not as a soldier, but as a scientist. Not as a shield, but as a key.
+
+**What Links brings to the team:**
+- **Translation Engine** — can read Gen 1/2 code. Unlocks Inetis's Essence in Tami's blood.
+- **Inetis Laptop** — journals, source code, clues to the truth
+- **Analytical mind** — where Maks saw enemies, Links sees patterns and answers
+- **Humanity** — after a millennia-old soldier, a young idealistic scientist is something new for Tami
+
+**Arc:**
+- Book 2-3: Tami's sidekick. Journey to the Glass Tower. Links learns to survive in the real world.
+- Book 4: Tower of the Lost — Links meets Elania (his ruler, whom he has never seen)
+- Book 5: Ynetis/Core — Links is the Translation Engine between Tami and Core AI
 
 **Exposition:**
 - **Ludus:** Life under Elania, frustration of the young
-- **Institute:** Lore dumps about Wraiths, history, Linux
+- **Institute:** Lore about Wraiths, history, Linux
 - **Journey:** State of Graw after the war, consequences of Grond's defeat
 
 **Action:**
 - Saves Tami from Mormiel
 - Reveals the truth about the Blessed Mother
-- Becomes Tami's ally (and maybe more)
+- Becomes Tami's ally, partner, and gradually love interest
 
 **Butterfly Effect:**
 - His journey through Graw lets him witness the aftermath of war
