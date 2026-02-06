@@ -227,6 +227,21 @@
 - She is Elania's equal (just as strong, better in most things)
 - **But she WANTS to serve** — not out of subordination, but out of choice
 
+### Renn (Deceased — Former Core Team Member)
+
+**Dynamic:**
+- Sera and Renn served together in **Inetis's Core Team** for 150+ years (~AY 700-850)
+- Both Niktori — humans from Earth, same generation from ARK-11
+- Renn was a civilian, quiet, dependable — Sera respected him even though he wasn't a soldier
+- In certain circles, Renn was a legend — Sera knows exactly who he was
+- **Unforgettable blue eyes** — Sera remembers them even after millennia
+
+**Recognizing Tami:**
+- When Sera meets Tami — she sees **blue eyes** and understands
+- The same unforgettable eyes Renn had
+- OSINT + blue eyes + "fox captain from the east" = **Renn's daughter**
+- The Antenna scene gains enormous emotional weight — Sera isn't handing an artifact to a random pirate, but to the daughter of an old friend
+
 ### Inetis (Deceased — Former Friend)
 
 **Dynamic:**

@@ -76,6 +76,21 @@ By dawn, the Blessed Mother. By dark — a **predator**.
 - **Ishtar**: The most complicated relationship. Both are manipulators, both hide behind facades. A quiet rivalry over influence in the south.
 - **Elania**: Mormiel knows her true identity (daughter of Inetis). She fears her — Elania is the only being who could truly threaten her.
 
+### Renn (Deceased — Former Partner)
+
+- **Shared Past**: Both from Earth, both immortal, both lonely. They met at the Nevriss court during the empire's golden age (~AY 1000-1500).
+- **Physical Relationship**: Not love — warmth between two people who knew too much about the world. Intimacy born of necessity, not passion. Sometimes closer, sometimes distant — it shifted across the centuries.
+- **Fellow Hunters**: Mormiel taught Renn vampirism (his Gen 1 was degrading). They roamed the streets together at night — two hunters in one city. They spawned urban legends about nocturnal shadows.
+- **Departure**: Renn left one day — no drama, no explanation. Mormiel expected it. He had restless feet; she had ambitions. They weren't good together — just less bad.
+- **Renn's Blue Eyes**: Mormiel remembers them. Unforgettable. Human.
+- **When Mormiel Sees Tami** (AY 3013): She recognizes those eyes. Renn's blue eyes in a fox's face. Renn's daughter + Echo of Inetis = **the most valuable vessel for the Rite of Succession**. Personal history + power + hybrid heritage = an irresistible combination. Mormiel can't articulate it — but she feels that this girl is *something more*.
+- **Impact on Tami — Layers of the Ritual**: When Tami undergoes the Ritual, the impact will be two-layered:
+  1. **Echo of Inetis** — Tami senses Inetis's essence (primary technical reason for the selection)
+  2. **Father (Renn)** — through Inetis's memories, Tami **sees her father**. Renn was in Inetis's Core Team for 150+ years — Inetis remembers him. This impact will be **greater than the Echo** — Tami lost her father, and now she sees him through the eyes of someone who knew him 2000 years ago.
+  - *Note: Renn knew about Maks's origin, but it has no direct impact on Tami. The Elania/Maks relationship is a separate emotional line — it impacts Maks, not Tami.*
+
+---
+
 ### The Antenna — A Memory of Inetis
 
 Mormiel remembers Inetis. She saw her on the battlefield — where Shoraven now stands — walking away, leaning on a **black staff**. She always carried it with her. Mormiel never paid much attention to it — she had her own plans, her own ambitions. But she knew what it was.

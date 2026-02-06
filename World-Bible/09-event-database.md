@@ -201,6 +201,51 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Tagy: `náboženstvo`, `mýty`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
+### `evt.achilles.great_battle`
+- Názov: Veľká Bitka (Atra Narrows)
+- Čas: AY ~850
+- Zhrnutie: Triumvirát (Grond, Samaell, Zaiya/Ishtar) zaútočí na Varietas posilnených Spirou. Genocída líšok (Vulpini). Inetis sa objaví na bojisku. Bitka skončí paritou — ale líšky sú zdecimované.
+- Účastníci: `char.inetis`, `char.grond`, `char.samaell`, `char.ishtar`, `char.renn`, `fac.vulpini`
+- Lokácie: `place.atra_narrows`, `place.mainland`
+- Tagy: `vojna`, `genocída`, `bitka`
+- Zdroj: `10-inetis-chronicles.md`
+
+### `evt.achilles.fox_exodus`
+- Názov: Exodus líšok na východ
+- Čas: AY ~850
+- Zhrnutie: Posledné líščie rodiny utečú na východ. **Renn** (Niktori, člen Core Teamu Inetis) ich dobrovoľne eskortuje cez Divočinu. **Inetis ide s nimi** — nie sama, ako hovoria legendy. Inetis ukáže Rennovi Jaskyňu Ela a rozlúči sa s ním.
+- Účastníci: `char.renn`, `char.inetis`, `fac.vulpini`
+- Lokácie: `place.eastern_wilds`, `place.cave_ela`
+- Tagy: `migrácia`, `rozlúčka`, `tragédia`
+- Zdroj: `characters/Renn.md`, `10-inetis-chronicles.md`
+
+### `evt.achilles.kito_founded`
+- Názov: Založenie mesta Kitana (Kito)
+- Čas: AY ~850-950
+- Zhrnutie: Renn a líšky zakladajú mesto **Kitana** na tajných koordinátoch od Inetis. Čakáreň na Tretí Príchod — miesto, kde majú pristáť Maki. Renn sa stáva neoficiálnym vodcom.
+- Účastníci: `char.renn`, `fac.vulpini`
+- Lokácie: `place.kito`
+- Tagy: `založenie`, `mesto`
+- Zdroj: `characters/Renn.md`
+
+### `evt.achilles.blood_lesson`
+- Názov: Lekcia Krvi (Tretí Príchod)
+- Čas: AY 2212
+- Zhrnutie: Maki pristávajú na lodi **Hephaestus** v Kite. Spustia fúzny reaktor — signál pritiahne **obrovský cyklón Wraithov** od Elysia. Roj zničí všetko v ceste, zmasakruje Maki a zdevastuje miliónové Kitsune. Cyklón bol videný aj nad **Nyau**, ale neublížil mu — nebol tam elektrický signál. Nie všetci Wraithovia odišli — **na Terre zostalo veľa prachu vo vzduchu**. Od tej doby nikto neodváži zapnúť silnejší elektrický prúd. Prežije Séria-J a Felix (Séria E). Z Kitsune zostali ruiny, ale niekoľko tisíc líšok prežilo.
+- Účastníci: `fac.maki`, `char.felix`, `fac.vulpini`, `fac.wraiths`
+- Lokácie: `place.kito`, `place.nyau`
+- Tagy: `katastrofa`, `tretí_príchod`, `technológia`, `wraithy`
+- Zdroj: `01-timeline.md`, `characters/Renn.md`
+
+### `evt.achilles.renn_death`
+- Názov: Smrť Renna
+- Čas: AY 3000
+- Zhrnutie: Piráti Vix a Kael zabijú Renna (Niktori, ~3000+ rokov) kvôli Starobylej Mape — jeho vlastnej mape nakreslenej pred ~2000 rokmi. Renn bol na ceste splniť dávny sľub — pochovať priateľku Inetis. Zomiera oslabený (odmietol vampirizmus) a nepozorný (sledoval Tami, nie okolie). Piráti ukradnú mapu, Makitu, a zajmú 7-ročnú Tami.
+- Účastníci: `char.renn`, `char.vix`, `char.kael`, `char.tami`
+- Lokácie: `place.eastern_wilds`, `place.kito`
+- Tagy: `smrť`, `tragédia`, `inciting_incident`
+- Zdroj: `characters/Renn.md`, `characters/Renn_Vix_Kael.md`
+
 ### `evt.achilles.pentagram_protocol`
 - Názov: Protocol Pentagram (5 uzlov)
 - Čas: Éra Mýtov (presné určenie TBD)

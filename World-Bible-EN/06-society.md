@@ -134,13 +134,25 @@ Two fundamental approaches to Spira define the world:
 
 ## Caste System (Nevriss)
 
+### Visual Scale — From Human to Animal
+
+Varietas form a **spectrum** between human and animal appearance. The caste system reflects this spectrum:
+
+| Visual Type | Caste | Appearance |
+|------------|-------|------------|
+| **Neko** | Pursang | Human body + subtle animal traits (ears, eyes, teeth, tail). At first glance, almost human. |
+| **Mid-spectrum** | Mezra | Human body with more pronounced animal traits — ears, eyes, claws, sometimes light fur. Still predominantly human. |
+| **Anthropomorphic** | Ghorki | Strong animal traits — full fur, muzzles, scales, beaks. Anthropomorphic animals or intelligent beasts. |
+
+> **Rule:** The more "human" the appearance, the stronger the Spira. This is not coincidence — Inetis designed Spira v2.0 for the human genome. Pursang with the highest proportion of human DNA have the greatest nanobots compatibility.
+
 ### Overview
 
 | Caste | Description | Spira | Longevity |
 |-------|-------------|-------|-----------|
-| **Purebloods** *(Pursang)* | Elite families, generations of arranged unions. **Appearance:** Human with subtle animal traits (ears, eyes, teeth) | Extreme | Up to 50 winters (~250 years) |
-| **Middle caste** *(Mezra)* | Artisans, merchants, soldiers. **Appearance:** Human with more pronounced animal traits (ears, eyes, teeth). | Moderate | 15–25 winters (~75–125 years) |
-| **Low caste** *(Ghorki)* | Varietas without Spira. **Appearance:** Strong animal traits (fur, muzzles, tails), anthropomorphic animals. | None/minimal | 10–15 winters (~50–75 years) |
+| **Purebloods** *(Pursang)* | Elite families, generations of arranged unions. **Appearance:** Neko — human with subtle animal traits (ears, eyes, teeth) | Extreme | Up to 50 winters (~250 years) |
+| **Middle caste** *(Mezra)* | Artisans, merchants, soldiers. **Appearance:** Mid-spectrum — human with more pronounced animal traits (ears, eyes, claws). | Moderate | 15–25 winters (~75–125 years) |
+| **Low caste** *(Ghorki)* | Varietas without Spira. **Appearance:** Anthropomorphic — strong animal traits (fur, muzzles, tails), anthropomorphic animals. | None/minimal | 10–15 winters (~50–75 years) |
 
 ### Purebloods *(Pursang)*
 The top of the pyramid. Families that have climbed to the peak over generations through arranged unions.

@@ -134,13 +134,25 @@ Dva fundamentálne prístupy k Spire definujú svet:
 
 ## Kastový Systém (Nevriss)
 
+### Vizuálna Škála — Od Ľudského k Zvieraciemu
+
+Varietas tvoria **spektrum** medzi ľudským a zvieracím vzhľadom. Kastový systém toto spektrum odráža:
+
+| Vizuálny typ | Kasta | Popis vzhľadu |
+|-------------|-------|---------------|
+| **Neko** | Pursang | Ľudské telo + jemné zvieracie črty (uši, oči, zuby, chvost). Na prvý pohľad takmer ľudia. |
+| **Stredné spektrum** | Mezra | Ľudské telo s výraznejšími zvieracími črtami — uši, oči, pazúry, niekedy jemná srsť. Stále dominantne ľudskí. |
+| **Antropomorfný** | Ghorki | Silne zvieracie črty — úplná srsť, papule, šupiny, zobáky. Antropomorfné zvieratá alebo inteligentné šelmy. |
+
+> **Pravidlo:** Čím „ľudskejší" vzhľad, tým silnejšia Spira. Toto nie je náhoda — Inetis navrhla Spiru v2.0 pre ľudský genóm. Pursangi s najväčším podielom ľudskej DNA majú najvyššiu kompatibilitu s nanobotmi.
+
 ### Prehľad
 
 | Kasta | Popis | Spira | Dlhovekosť |
 |-------|-------|--------|------------|
-| **Čistokrvní** *(Pursang)* | Elitné rodiny, generácie dohodnutých zväzkov **Vzhľad:** Ľudský s jemnými zvieracími črtami (uši, oči, zuby)| Extrémna | Až 50 zím (~250 rokov) |
-| **Stredná kasta** *(Mezra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Ľudský s vyraznejsimi zvieracími črtami (uši, oči, zuby). | Stredná | 15-25 zím (~75-125 rokov) |
-| **Nízka kasta** *(Ghorki)* | Varietas bez Spiry. **Vzhľad:** Silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
+| **Čistokrvní** *(Pursang)* | Elitné rodiny, generácie dohodnutých zväzkov. **Vzhľad:** Neko — ľudský s jemnými zvieracími črtami (uši, oči, zuby) | Extrémna | Až 50 zím (~250 rokov) |
+| **Stredná kasta** *(Mezra)* | Remeselníci, obchodníci, vojaci. **Vzhľad:** Stredné spektrum — ľudský s výraznejšími zvieracími črtami (uši, oči, pazúry). | Stredná | 15-25 zím (~75-125 rokov) |
+| **Nízka kasta** *(Ghorki)* | Varietas bez Spiry. **Vzhľad:** Antropomorfný — silné zvieracie črty (srsť, papule, chvosty), antropomorfné zvieratá. | Žiadna/minimálna | 10-15 zím (~50-75 rokov) |
 
 ### Čistokrvní *(Pursang)*
 Vrchol pyramídy. Rodiny, ktoré sa po generácie pomocou dohodnutých zväzkov šplhali na vrchol.
