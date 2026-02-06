@@ -10,10 +10,17 @@
     - Maks je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
 - **Pôvod**: Vyrastala na východe, v **ruinách mesta Kito**.
-    - Jej otec (Renn) bol hľadač pokladov, ktorý objavil stratené mesto Kito.
-    - Spravili si tam domov. Žili tam s jej matkou a s **Felixom** (Mako, ktorý tam prežil).
+    - Jej otec (**Renn**) bol **Niktori** — človek zo Zeme, jeden z ~100 preživších z ARK-11. Člen Core Teamu Inetis, zakladateľ mesta Kito, tulák a hľadač pokladov, ktorý žil ~3000 rokov.
+    - Jej matka bola **100% Vulpini** — líščia žena, zomrela keď mala Tami 1 rok.
+    - Spravili si tam domov. Žili tam s **Felixom** (Mako, ktorý tam prežil).
     - Felix bol pre ňu ako strýko. Učil ju o strojoch, Maks ju učil bojovať.
 - **Rasa**: Vulpini (Líška). Líšky sú takmer vyhynutou vetvou Varietas, známe pre extrémnu inteligenciu. Tami má ako jedna z mála modré "ľudské" oči a schopnosť ovládať Spiru (hoci to tají).
+- **Dedičstvo (Heritage)**:
+    - **Líščie rysy** (uši, tvár, reflexy) = od matky (100% Vulpini)
+    - **Modré oči** = od otca (Niktori — ľudský marker zo Zeme). Nie anomália — dedičstvo.
+    - **„Čistejší" vzhľad** = ľudská krv zjemňuje Varietas rysy
+    - Tami **tuší** z Felixových narážok, že otec nebol úplne normálny — ale nemá celý obraz. Nevie o Gen 1, Inetis, nesmrteľnosti.
+- **Prečo na ňu v prístave čumeli**: Tami je **Pursang líška** — vizuálne na Neko konci spektra (ľudské telo, líščie uši, chvost). To samo o sebe je extrémne vzácne — líšky sú považované za vymreté. Ale k tomu má **modré ľudské oči** — farba, ktorú líšky nemajú. Kombinácia Pursang + líška + modré oči je niečo, čo väčšina ľudí nikdy nevidela a nikdy neuvidí. V prístave sa na ňu ohliadal každý.
 - **Neverkyňa**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu mentoringu dokáže využívať Spiru na 200% — jeho vedecký prístup k nanotechnológii jej otvoril možnosti, ktoré veriaci Varietas nedokážu, pretože sú zviazaní dogmou Cirkvi.
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
@@ -21,7 +28,7 @@
 
 | Rok | Vek | Udalosť |
 |-----|-----|---------|
-| **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12). Vyrastá v ruinách mesta Kito s otcom Rennom a Felixom (Mako) |
+| **AY 2993** | 0 | Narodenie. Otec: **Renn** (Niktori — človek zo Zeme, ARK-11). Matka: Vulpini žena (†~AY 2994). Vyrastá v ruinách mesta Kito s otcom a Felixom (Mako) |
 | **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna kvôli mape k Jaskyni Počiatku. Tami je zajatá a držaná v klietke na palube pirátskej lode |
 | **AY 3000** | 7 | Piráti nájdu Maksa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Maks a Tami sa stretnú — on v bezvedomí, ona v klietke |
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maksa |

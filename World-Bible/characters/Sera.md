@@ -227,6 +227,21 @@
 - Je seberovná s Elaniou (rovnako silná, lepšia vo väčšine vecí)
 - **Ale CHCE slúžiť** - nie z podriadenia, ale z voľby
 
+### Renn (Zosnulý — Bývalý Spolučlen Core Teamu)
+
+**Dynamic:**
+- Sera a Renn boli spolu v **Core Teame Inetis** 150+ rokov (~AY 700-850)
+- Obaja Niktori — ľudia zo Zeme, rovnaká generácia z ARK-11
+- Renn bol civilista, tichý, spoľahlivý — Sera ho rešpektovala, aj keď nebol vojak
+- V určitých kruhoch bol Renn legenda — Sera vie presne kto to bol
+- **Nezabudnuteľné modré oči** — Sera si ich pamätá aj po tisícročiach
+
+**Rozpoznanie Tami:**
+- Keď Sera stretne Tami — uvidí **modré oči** a pochopí
+- Tie isté nezabudnuteľné oči, čo mal Renn
+- OSINT + modré oči + "líščia kapitánka z východu" = **Rennova dcéra**
+- Scéna s Anténou dostáva obrovskú emocionálnu váhu — Sera nepodáva artefakt cudzej pirátke, ale dcére starého priateľa
+
 ### Inetis (Deceased - Former Friend)
 
 **Dynamic:**

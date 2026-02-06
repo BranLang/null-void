@@ -63,7 +63,7 @@ Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a m�
 Inetis nešírila Spiru hromadne. Každý príjemca musel byť **požehnaný osobne — dotykom**. Tento rituál nebol magický, ale technický: pri kontakte s kožou Inetis preniesla aktívne Gen 2 nanodrony, ktoré sa integrovali do hostiteľovho genómu a stali sa dedičnými.
 
 - **Dedičnosť:** Požehnanie sa prenáša z rodiča na dieťa. Potomkovia požehnaných sa rodia s aktívnou Spirou.
-- **Jej Tím z Elysium:** Keď Inetis opustila ruiny Elysia a vydala sa hľadať civilizáciu, nešla sama. Sprevádzala ju hŕstka preživších — **ľudís** — ktorí prežili Glitch Rot v tieni The Core. Títo boli prvými požehnanými.
+- **Jej Tím z Elysium:** Keď Inetis opustila ruiny Elysia a vydala sa hľadať civilizáciu, nešla sama. Sprevádzala ju hŕstka preživších (~20 členov) — **ľudia** — ktorí prežili Glitch Rot v tieni The Core. Títo boli prvými požehnanými. Medzi nimi boli **Renn** (civilista s nezabudnuteľnými modrými očami) a **Sera** (japonská veteránka). Tím pomáhal stavať školy a nemocnice, nosil zásoby do kolónie Neverice pred zimami.
 - **Ľudia so Spirou:** Medzi požehnanými boli aj ľudia (Homo Sapiens Sapiens). Pre nich Spira v2.0 fungovala rovnako ako pre Varietas — bola navrhnutá pre ľudský genóm a Varietas sú len geneticky modifikovaní ľudia. Tito ludia sa ale vzdali verzie 1.0 a presedlali na 2.0.
 - **Osud Tímu:** Po Veľkej Vojne väčšina jej ľudského tímu zostala v Nevriss. Ich potomkovia dodnes žijú  na **južnom pobreží Terry** — komunity „Požehnaných Ľudí" (Blessed Ones), ktorí majú Spiru ako Varietas, ale zachovali si čisté ľudské telá. 
 
@@ -81,7 +81,7 @@ Výpravu viedol Triumvirát: **Grond** (Sila), **Samaell** (Smrť) a **Zaiya/Ish
 
 Vojna bola brutálna. Ľudské légie (v1.0) narazili na Prvých Krotiteľov (v2.0).
 - **Genocída Líšok:** Líščí rod (Vulpes) boli **lídri a inteligencia** Varietas — najprefíkanejší stratégovia a najtalentovanejší programátori Spiry. Preto sa stali primárnym cieľom.
-    - **Exodus:** Po bitke, keď bol výsledok nejasný, posledné líščie rodiny ušli na Východ do neprebádaných pustatín.
+    - **Exodus:** Po bitke, keď bol výsledok nejasný, posledné líščie rodiny ušli na Východ do neprebádaných pustatín. Eskortoval ich **Renn** — člen Core Teamu Inetis, ktorý si počas návštev vybudoval hlboký vzťah s líškami a nemohol si predstaviť, že by dokázali prežiť cestu sami. **Inetis šla s nimi** — niektoré legendy hovoria, že na poslednú cestu šla sama, ale v skutočnosti šla s líškami a Rennom do Kita, kde sa ich cesty rozišli pri Jaskyni Ela.
     - **Proroctvo (Kito):** Neušli náhodne. Inetis im prezradila tajné súradnice. Povedala im, že na tomto mieste v ďalekej budúcnosti pristanú **Maki (Syntetickí)** — "**Tretí Príchod**" z nebies. Prvý boli Kolonisti, Druhý boli Ex Inferis. Tretí budú Stavitelia.
     - **Pôvod Maki:** Títo syntetickí boli vyslaní zo Zeme ešte **pred Hráčskou Revolúciou** (éra neskorého 21. storočia). Ich technológia je stará, "primitívna" (hardvér, nie nanotech), a ich cesta vesmírom trvá **2000 rokov**.
     - **Dedičstvo:** Založili mesto **Kitana** (Kito) ako **čakáreň**. Líšky prežívajú, aby privítali týchto pútnikov.

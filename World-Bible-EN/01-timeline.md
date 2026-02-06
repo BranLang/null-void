@@ -241,11 +241,19 @@ Varietas divide history religiously:
     - **Unification Pact**: Elania acknowledges their supremacy in exchange for saving her people. Together they found the **Citadels**: Tower of the Damned southwest of Elysia, and the Northern Citadel west of Neverice.
     - **Ex Inferis** begin raiding wars on Varietas territory — they need human (Varietas) sacrifices, food, or entertainment.
 
+### AY ~850: The Great Battle (Atra Narrows)
+- **The Great War**: The Triumvirate (Grond, Samaell, Zaiya/Ishtar) attacks the Varietas empowered by Spira. Inetis appears on the battlefield.
+- **Fox Genocide**: The foxes (Vulpini) — the best strategists and Spira programmers — were the primary target. Decimated.
+- **Fox Exodus to the East**: The last fox families flee east. **Renn** (Niktori, member of Inetis's Core Team) volunteers to escort them through the dangerous Wilds. **Inetis goes with them** — not alone, as the legends say.
+- **Founding of Kito (~AY 850-950)**: Renn and the foxes found the city of **Kitana** (later Kitsune, later Kito) at secret coordinates provided by Inetis — a waiting place for the Third Arrival (the Maki landing site).
+- **Elania and "the sleeping father"**: Elania told the Ex Inferis upon their arrival that her father (General Maksimilian) is sleeping. The legend spread — the Ex Inferis never tried to find him. Elania said it to inspire at least a measure of fear — so they would not cross a certain line. But they did, and Elania was powerless at the time.
+
 ### AY 2212: Third Coming (Expedition "Hephaestus")
 - **Landing of the Maki**: An automated "seed ship" arrives on Achilles carrying thousands of synthetic androids (**Maki**). It was an international crew (EU, CN, JP).
 - **Biblical event**: For Varietas, this marks the **beginning of the Age of the Messengers (RP 0)**. Maki are perceived as "Messengers of the Mother."
-- **Blood Lesson**: Maki begin building the city of Kito, where the Varietas (led by the fox nation) awaited them. Maki fire up a fusion reactor and attract Wraiths from across the continent. The Wraiths massacre them. Only **Series-J and Unit 734 (Japanese)** survive — because they were working deep underground on a water drainage system.
-- **Adaptation**: Maki realize electricity is the problem. They switch to **"Silent Technology"** (analog craftsmanship, mechanics, steam).
+- **Blood Lesson**: Maki begin building the city of Kito, where the Varietas (led by the fox nation) awaited them. Maki fire up a fusion reactor to supply power. The signal attracts a **massive cyclone of Wraiths** — a swarm that came from Elysium and destroyed everything in its path. It massacred the Maki and partially devastated Kitsune (a city of millions). The cyclone returned, but **not all Wraiths left — a great deal of dust remained in Terra's atmosphere**. From that day on, whenever someone switches on a strong electrical current, bad things happen. Only **Series-J and Unit 734 / Felix (Series E)** survive — because they were working deep underground. Kitsune was reduced to ruins, but **several thousand foxes survived**.
+- **Clouds over Nyau**: The Wraith cyclone was also seen over **Nyau** — clouds of dust passed above the city but did not harm it. There was no electrical signal, nothing to attract them. For the people of Nyau it was the day the sun went dark — and nobody knew why.
+- **Adaptation**: Maki realize electricity attracts Wraiths. They switch to **"Silent Technology"** (analog craftsmanship, mechanics, steam). No one on Terra dares to switch on a strong electrical current ever again.
 - **Integration into Society**: They begin cooperating with Varietas as quiet builders and engineers.
 
 ---
@@ -302,7 +310,7 @@ Varietas divide history religiously:
 ## Main Story Timeline
 
 - **AY 3000 (RP 788)**: **Awakening of Maksimilian**: Without memory, physically blind (**cryo-blindness**) and unable to communicate (**Old Speech**).
-    - Pirates **Vix and Kael** kill treasure hunter **Renn** (Tami's father). His young daughter **Tami** (7) is kept in a cage.
+    - Pirates **Vix and Kael** kill **Renn** (Niktori — human from Earth, founder of Kito, Tami's father). His young daughter **Tami** (7) is kept in a cage.
     - Kael awakens a Wraith of Inetis, which awakens Maks. The Inetis Wraith kills Kael.
     - Maks wakes physically blind (eyes exploded from frost), covered in blue cryo-fluid.
     - **Samaell** wanders the wilderness near the cave for years, sensing Inetis's trace, occasionally finding a stray nanodrone. But he never gets closer than 100 kilometers to the cave. Until he spots Makita in the sky and starts following it. Kael and Vix lead him straight to the cave.

@@ -63,7 +63,7 @@ So for Spira she chose **Japanese** — a language understood only by her and th
 Inetis did not distribute Spira en masse. Every recipient had to be **blessed personally — by touch**. This ritual was not magical but technical: upon skin contact, Inetis transferred active Gen 2 nanodrones that integrated into the host's genome and became heritable.
 
 - **Heredity:** The Blessing passes from parent to child. Descendants of the blessed are born with active Spira.
-- **Her Team from Elysium:** When Inetis left the ruins of Elysium and set out to find civilization, she did not go alone. She was accompanied by a handful of survivors — **humans** — who had survived Glitch Rot in the shadow of The Core. They were the first to be blessed.
+- **Her Team from Elysium:** When Inetis left the ruins of Elysium and set out to find civilization, she did not go alone. She was accompanied by a handful of survivors — **humans** — who had survived Glitch Rot in the shadow of The Core. They were the first to be blessed. The team numbered **~20 members**, among them **Renn** (a civilian from ARK-11) and **Sera** (a Japanese veteran). Together they built schools, hospitals, and carried supplies to the colony of Neverice (Nevriss).
 - **Humans with Spira:** Among the blessed were also humans (Homo Sapiens Sapiens). For them, Spira v2.0 functioned the same as for Varietas — it was designed for the human genome, and Varietas are simply genetically modified humans. These humans gave up version 1.0 and switched to 2.0.
 - **The Team's Fate:** After the Great War, most of her human team remained in Nevriss. Their descendants still live on the **southern coast of Terra** — communities of "Blessed Ones" who carry Spira like the Varietas but have preserved their pure human bodies.
 
@@ -81,7 +81,7 @@ The expedition was led by the Triumvirate: **Grond** (Strength), **Samaell** (De
 
 The war was brutal. Human legions (v1.0) collided with the First Tamers (v2.0).
 - **The Fox Genocide:** The Fox Clan (Vulpes) were the **leaders and intelligence** of the Varietas — the shrewdest strategists and most talented Spira programmers. That made them the primary target.
-    - **Exodus:** After a battle with an unclear outcome, the last fox families fled East into unexplored wastelands.
+    - **Exodus:** After a battle with an unclear outcome, the last fox families fled East into unexplored wastelands. **Renn** — a member of Inetis's Core Team — volunteered to escort them through the dangerous Wilds. **Inetis herself went with them** — not alone as some legends say, but with the foxes and Renn.
     - **The Prophecy (Kito):** They didn't flee randomly. Inetis had given them secret coordinates. She told them that in the distant future, the **Maki (Synthetics)** would land at this location — the "**Third Coming**" from the heavens. The First were the Colonists, the Second were the Ex Inferis. The Third would be the Builders.
     - **Origin of the Maki:** These synthetics were launched from Earth **before the Player Revolution** (late 21st century era). Their technology is old, "primitive" (hardware, not nanotech), and their journey through space takes **2,000 years**.
     - **Legacy:** They founded the city of **Kitana** (Kito) as a **waiting place**. The foxes survive to welcome these pilgrims.
