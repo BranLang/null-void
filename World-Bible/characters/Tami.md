@@ -20,6 +20,7 @@
     - **Modré oči** = od otca (Niktori — ľudský marker zo Zeme). Nie anomália — dedičstvo.
     - **„Čistejší" vzhľad** = ľudská krv zjemňuje Varietas rysy
     - Tami **tuší** z Felixových narážok, že otec nebol úplne normálny — ale nemá celý obraz. Nevie o Gen 1, Inetis, nesmrteľnosti.
+- **Prečo na ňu v prístave čumeli**: Tami je **Pursang líška** — vizuálne na Neko konci spektra (ľudské telo, líščie uši, chvost). To samo o sebe je extrémne vzácne — líšky sú považované za vymreté. Ale k tomu má **modré ľudské oči** — farba, ktorú líšky nemajú. Kombinácia Pursang + líška + modré oči je niečo, čo väčšina ľudí nikdy nevidela a nikdy neuvidí. V prístave sa na ňu ohliadal každý.
 - **Neverkyňa**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu mentoringu dokáže využívať Spiru na 200% — jeho vedecký prístup k nanotechnológii jej otvoril možnosti, ktoré veriaci Varietas nedokážu, pretože sú zviazaní dogmou Cirkvi.
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 

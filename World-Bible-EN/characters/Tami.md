@@ -20,6 +20,7 @@
     - **Blue eyes** = from her father (Niktori — a human marker from Earth). Not an anomaly — an inheritance.
     - **"Cleaner" appearance** = human blood softens Varietas features
     - Tami **suspects** from Felix's hints that her father was not entirely ordinary — but she does not have the full picture. She knows nothing about Gen 1, Inetis, or immortality.
+- **Why people stared at the port**: Tami is a **Pursang fox** — visually on the Neko end of the spectrum (human body, fox ears, tail). That alone is extremely rare — foxes are considered extinct. But on top of that she has **blue human eyes** — a color foxes do not have. The combination of Pursang + fox + blue eyes is something most people have never seen and never will. At the port, everyone turned to look.
 - **Non-believer**: One of the few Varietas who does not believe in the Mother. Thanks to Maks's mentoring, she can push her Spira to 200% — his scientific approach to nanotechnology opened possibilities that believing Varietas cannot access because they are bound by Church dogma.
 - **Unintentional deception**: Tami never explicitly tells him what she is, because she assumes he can see it (or that he does not care).
 

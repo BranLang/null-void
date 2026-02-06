@@ -165,10 +165,16 @@
 - After that conversation Samaell lost all hope — but he never stopped searching for Inetis
 - Renn did not reveal the cave's location — he protected Inetis's remains
 
-### Arrival of the Maki (AY 2212)
+### Arrival of the Maki (AY 2212) — Third Arrival and the Blood Lesson
 
 - Renn was there — he had waited **1300 years** for their arrival in Kito
-- But it did not fulfill him — something in his life was still missing
+- The Maki landed aboard the ship **Hephaestus** — thousands of synthetic androids, an international crew (EU, CN, JP)
+- Kitsune welcomed them — a city of millions, full of foxes who had been waiting for the "Messengers of the Mother"
+- **The Blood Lesson**: The Maki activated a fusion reactor to supply power. The signal attracted a **massive cyclone of Wraiths** from Elysium — a swarm that destroyed everything in its path. It came, massacred the Maki and part of the city, then returned. But not all Wraiths left — **a great deal of dust remained in Terra's atmosphere**. From that day on, no one dares to switch on a strong electrical current — whenever someone tries, bad things happen.
+- The cyclone was also seen over **Nyau**, but did not harm it — there was no electrical signal. For the people of Nyau it was the day the sun went dark.
+- Only **Series-J** survived (and unit 734 — Felix, Series E), because they were working deep underground
+- Kitsune was devastated — the city of millions was reduced to ruins. But **several thousand foxes survived** and continued living in the wreckage
+- But even the Arrival of the Maki did not fulfill Renn — something in his life was still missing
 - He changed identity. Continued traveling.
 
 ### Further centuries (AY 2212-2900)
@@ -177,7 +183,7 @@
 - **He did not know how to live.** He knew how to walk. He knew how to search. He did not know how to stay.
 - Needed victims (vampirism) once every few months — he would slip away occasionally
 - Never had children. Never. He had no reason — and no courage.
-- Kito meanwhile transformed into **Kitsune** — a thriving community had grown from it
+- Occasionally stopped by Kito — to check on the foxes and Felix, who remained in the ruins
 
 ---
 
@@ -185,9 +191,10 @@
 
 ### Return to Kito (~AY 2900)
 
-- News that the Wraiths destroyed Kitsune — Renn was in the north at the time
-- He returns — finds Felix in the ruins
-- **Felix and Renn** — both from Earth, both ancient. Felix is from ARK-11 (Maki series, AY 2212), understands the context. He knows who Renn is.
+- After centuries of wandering he decides to return permanently — to the ruins where he spent his best years
+- Kito is a shadow of what it once was — after the Blood Lesson (AY 2212) the city never fully recovered
+- He finds **Felix** — an old friend, still faithful to his Directive, still in the ruins
+- **Felix and Renn** — both from Earth, both ancient. Felix is from Hephaestus (Maki Series E, AY 2212), understands the context. He knows who Renn is. Has known him since the Third Arrival.
 - He decides to settle permanently in Kito
 
 ### Tami (AY 2993)

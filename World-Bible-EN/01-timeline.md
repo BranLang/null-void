@@ -251,8 +251,9 @@ Varietas divide history religiously:
 ### AY 2212: Third Coming (Expedition "Hephaestus")
 - **Landing of the Maki**: An automated "seed ship" arrives on Achilles carrying thousands of synthetic androids (**Maki**). It was an international crew (EU, CN, JP).
 - **Biblical event**: For Varietas, this marks the **beginning of the Age of the Messengers (RP 0)**. Maki are perceived as "Messengers of the Mother."
-- **Blood Lesson**: Maki begin building the city of Kito, where the Varietas (led by the fox nation) awaited them. Maki fire up a fusion reactor and attract Wraiths from across the continent. The Wraiths massacre them. Only **Series-J and Unit 734 (Japanese)** survive — because they were working deep underground on a water drainage system.
-- **Adaptation**: Maki realize electricity is the problem. They switch to **"Silent Technology"** (analog craftsmanship, mechanics, steam).
+- **Blood Lesson**: Maki begin building the city of Kito, where the Varietas (led by the fox nation) awaited them. Maki fire up a fusion reactor to supply power. The signal attracts a **massive cyclone of Wraiths** — a swarm that came from Elysium and destroyed everything in its path. It massacred the Maki and partially devastated Kitsune (a city of millions). The cyclone returned, but **not all Wraiths left — a great deal of dust remained in Terra's atmosphere**. From that day on, whenever someone switches on a strong electrical current, bad things happen. Only **Series-J and Unit 734 / Felix (Series E)** survive — because they were working deep underground. Kitsune was reduced to ruins, but **several thousand foxes survived**.
+- **Clouds over Nyau**: The Wraith cyclone was also seen over **Nyau** — clouds of dust passed above the city but did not harm it. There was no electrical signal, nothing to attract them. For the people of Nyau it was the day the sun went dark — and nobody knew why.
+- **Adaptation**: Maki realize electricity attracts Wraiths. They switch to **"Silent Technology"** (analog craftsmanship, mechanics, steam). No one on Terra dares to switch on a strong electrical current ever again.
 - **Integration into Society**: They begin cooperating with Varietas as quiet builders and engineers.
 
 ---

@@ -228,6 +228,15 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Tags: `founding`, `city`
 - Source: `characters/Renn.md`
 
+### `evt.achilles.blood_lesson`
+- Name: The Blood Lesson (Third Arrival)
+- Time: AY 2212
+- Summary: The Maki land aboard the ship **Hephaestus** in Kito. They fire up a fusion reactor — the signal attracts a **massive cyclone of Wraiths** from Elysium. The swarm destroys everything in its path, massacres the Maki, and devastates the city of millions that was Kitsune. The cyclone was also seen over **Nyau**, but did not harm it — there was no electrical signal. Not all Wraiths left — **a great deal of dust remained in Terra's atmosphere**. From that day on, no one dares to switch on a strong electrical current. Series-J and Felix (Series E) survive. Kitsune was reduced to ruins, but several thousand foxes survived.
+- Participants: `fac.maki`, `char.felix`, `fac.vulpini`, `fac.wraiths`
+- Locations: `place.kito`, `place.nyau`
+- Tags: `catastrophe`, `third_arrival`, `technology`, `wraiths`
+- Source: `01-timeline.md`, `characters/Renn.md`
+
 ### `evt.achilles.renn_death`
 - Name: Death of Renn
 - Time: AY 3000

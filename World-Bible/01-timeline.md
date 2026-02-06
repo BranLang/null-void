@@ -254,8 +254,9 @@ Varietas delia históriu nábožensky:
 ### AY 2212: Tretí Príchod (Expedícia "Hephaestus")
 - **Pristátie Makov**: Na Achilles dorazí automatizovaná „semenná loď“ (seed ship) s tisíckami syntetickych androidov (**Maki**). Išlo o medzinárodnú posádku (EU, CN, JP).
 - **Biblická udalosť**: Pre Varietas toto značí **začiatok Veku Poslov (RP 0)**. Maki sú vnímaní ako "Poslovia Matky".
-- **Lekcia Krvi**: Maki začnú budovať mesto Kito kde ich varietas vedeni liscim narodom ocakavali. Maki spustia fuzny reaktor a pritiahnu wraithov z celeho kontinentu. Wraithovia ich zmasakrujú. Prežije len **Séria-J a unit734(Japonská)** —  pretoze robili hlboko pod zemou system na odvadzanie vody.
-- **Adaptácia**: Maki pochopia, že elektrina je problem. Prechádzajú na **„Tichú Technológiu“** (analógové majstrovstvo, mechanika, para).
+- **Lekcia Krvi**: Maki začnú budovať mesto Kito, kde ich Varietas (vedení líščím národom) očakávali. Maki spustia fúzny reaktor, aby zabezpečili elektrinu. Signál pritiahne **obrovský cyklón Wraithov** — roj, ktorý prišiel od Elysia a zničil všetko v ceste. Zmasakroval Maki a čiastočne zdevastoval Kitsune (miliónové mesto). Cyklón sa vrátil, ale **nie všetci Wraithovia odišli — na Terre zostalo veľa prachu vo vzduchu**. Od tej doby vždy, keď niekto zapne silnejší elektrický prúd, dejú sa zlé veci. Prežije len **Séria-J a unit 734 / Felix (Séria E)** — pretože pracovali hlboko pod zemou. Z Kitsune zostali ruiny, ale **niekoľko tisíc líšok prežilo**.
+- **Oblaky nad Nyau**: Cyklón Wraithov bol videný aj nad **Nyau** — mraky prachu prešli nad mestom, ale neublížili mu. Nebol tam žiadny elektrický signál, nič čo by ich pritiahlo. Pre obyvateľov Nyau to bol deň, keď sa zatmelo slnko — a nikto nevedel prečo.
+- **Adaptácia**: Maki pochopia, že elektrina priťahuje Wraithov. Prechádzajú na **„Tichú Technológiu"** (analógové majstrovstvo, mechanika, para). Nikto na Terre sa už neodváži zapnúť silnejší elektrický prúd.
 - **Vstup do Spoločnosti**: Začínajú spolupracovať s Varietas ako tichí stavitelia a inžinieri.
 
 ---

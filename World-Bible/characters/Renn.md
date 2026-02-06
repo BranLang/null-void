@@ -165,10 +165,16 @@
 - Samaell po tom rozhovore stratil všetku nádej — ale nikdy neprestal hľadať Inetis
 - Renn neprezradil polohu jaskyne — chránil Inetisine pozostatky
 
-### Príchod Maki (AY 2212)
+### Príchod Maki (AY 2212) — Tretí Príchod a Lekcia Krvi
 
 - Renn bol pri tom — čakal **1300 rokov** na ich príchod do Kita
-- Ale nenaplnilo ho to — niečo mu v živote stále chýbalo
+- Maki pristáli na lodi **Hephaestus** — tisícky syntetických androidov, medzinárodná posádka (EU, CN, JP)
+- Kitsune ich privítalo — miliónové mesto plné líšok, čo čakali na „Poslov Matky"
+- **Lekcia Krvi**: Maki spustili fúzny reaktor, aby zabezpečili elektrinu. Signál pritiahol **obrovský cyklón Wraithov** od Elysia — roj, ktorý zničil všetko v ceste. Prišiel, zmasakroval Maki a časť mesta, a vrátil sa. Ale nie všetci Wraithovia odišli — **na Terre zostalo veľa prachu vo vzduchu**. Od tej doby nikto neodváži zapnúť silnejší elektrický prúd — vždy keď niekto skúsi, dejú sa zlé veci.
+- Cyklón bol videný aj nad **Nyau**, ale neublížil mu — nebol tam žiadny elektrický signál. Pre obyvateľov Nyau to bol deň, keď sa zatmelo slnko.
+- Z Maki prežila len **Séria-J** (a unit 734 — Felix, Séria E), pretože pracovali hlboko pod zemou
+- Kitsune bolo zdevastované — z miliónového mesta zostali ruiny. Ale **niekoľko tisíc líšok prežilo** a zostalo žiť v troskách
+- Ale ani Príchod Maki Renna nenaplnil — niečo mu v živote stále chýbalo
 - Zmenil identitu. Pokračoval v cestovaní.
 
 ### Ďalšie storočia (AY 2212-2900)
@@ -177,7 +183,7 @@
 - **Nevedel žiť.** Vedel chodiť. Vedel hľadať. Nevedel zostať.
 - Obete (vampirizmus) potreboval raz za pár mesiacov — občas si odskočil
 - Nikdy nemal deti. Nikdy. Nemal dôvod — a nemal odvahu.
-- Kito sa medzitým premenilo na **Kitsune** — vyrastla z neho živá komunita
+- Občas sa zastavil v Kite — skontrolovať líšky a Felixa, ktorý zostal v ruinách
 
 ---
 
@@ -185,9 +191,10 @@
 
 ### Návrat do Kita (~AY 2900)
 
-- Správy, že Wraithovia zničili Kitsune — Renn sa nachádzal na severe
-- Vracia sa — nachádza Felixa v ruinách
-- **Felix a Renn** — obaja zo Zeme, obaja starobylí. Felix je z ARK-11 (Maki séria, AY 2212), pozná kontext. Vie, kto je Renn.
+- Po storočiach putovania sa rozhodne vrátiť natrvalo — do ruín, kde strávil najlepšie roky
+- Kito je tieň toho, čím bývalo — od Lekcie Krvi (AY 2212) sa mesto nikdy celkom nespamätalo
+- Nachádza **Felixa** — starý priateľ, stále verný Direktíve, stále v ruinách
+- **Felix a Renn** — obaja zo Zeme, obaja starobylí. Felix je z Hephaestus (Maki séria E, AY 2212), pozná kontext. Vie, kto je Renn. Pozná ho od Tretieho Príchodu.
 - Rozhodne sa usadiť natrvalo v Kite
 
 ### Tami (AY 2993)

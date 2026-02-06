@@ -228,6 +228,15 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Tagy: `založenie`, `mesto`
 - Zdroj: `characters/Renn.md`
 
+### `evt.achilles.blood_lesson`
+- Názov: Lekcia Krvi (Tretí Príchod)
+- Čas: AY 2212
+- Zhrnutie: Maki pristávajú na lodi **Hephaestus** v Kite. Spustia fúzny reaktor — signál pritiahne **obrovský cyklón Wraithov** od Elysia. Roj zničí všetko v ceste, zmasakruje Maki a zdevastuje miliónové Kitsune. Cyklón bol videný aj nad **Nyau**, ale neublížil mu — nebol tam elektrický signál. Nie všetci Wraithovia odišli — **na Terre zostalo veľa prachu vo vzduchu**. Od tej doby nikto neodváži zapnúť silnejší elektrický prúd. Prežije Séria-J a Felix (Séria E). Z Kitsune zostali ruiny, ale niekoľko tisíc líšok prežilo.
+- Účastníci: `fac.maki`, `char.felix`, `fac.vulpini`, `fac.wraiths`
+- Lokácie: `place.kito`, `place.nyau`
+- Tagy: `katastrofa`, `tretí_príchod`, `technológia`, `wraithy`
+- Zdroj: `01-timeline.md`, `characters/Renn.md`
+
 ### `evt.achilles.renn_death`
 - Názov: Smrť Renna
 - Čas: AY 3000
