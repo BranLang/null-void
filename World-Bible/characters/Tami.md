@@ -37,9 +37,11 @@
 | **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
 | **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maksa v pustatine. 5 rokov sa neozve |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
-| **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
+| **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (**Fáza 1 — Seed/Semeno**). Malá dávka dormantných nanodronov. Tami nič necíti, nevie o tom. Efekty sú subtílne: nočné mory v cudzom jazyku, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi |
 | **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
 | **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maksom (podvedome ťahaná k nemu cez Echo Inetis) |
+| **AY 3013** | 20 | **Fáza 2 — Aktivácia:** Sera odomkne Artefakt v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — plné prebudenie. Schopnosti, spomienky, spojenie s Inetis |
+| **AY 3013** | 20 | **Fáza 3 — Zosilnenie:** Po Maksovej smrti sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis. Blízkosť Inetisiných pozostatkov zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film |
 
 ### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
@@ -155,10 +157,84 @@
 - Maks: *"Lead potvrdený. Pokračujeme."*
 - Tami: *"Takže ona VIE a NEPOVEDALA ti? To je hovno!"*
 
-### Premena & Zvrat
-- **Echo Inetis (pred Book 1)**: Kontakt s pozostatkami Inetis v Jaskyni Počiatku (~AY 3011) — „hladné" nanodrony prešli na Tami. Od tohto momentu nesie fragmenty Inetis: spomienky (nočné mory v cudzom jazyku), vedeckú terminológiu, latentné schopnosti (liečenie, regenerácia). Efekty sú spočiatku subtílne — Tami si ich vysvetľuje ako intuíciu alebo talent.
-- **Podvedomá motivácia**: Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maksa.
-- **Odhalenie (Kniha 1)**: Maks zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
-- **Dôsledok**: Maks zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
-- **Postupná premena**: Počas deja sa Echo Inetis zosilňuje — schopnosti sa stávajú výraznejšími, spomienky zreteľnejšími. Tami vie, že sa mení.
-- **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju.
+### Premena & Zvrat — Tri Fázy Esencie
+
+**Fáza 1 — Semeno (Seed) (~AY 3011, pred Book 1):**
+- Kontakt s pozostatkami Inetis v Jaskyni Ela — „hladné" nanodrony prešli na Tami
+- **Malá dávka** dormantných nanodronov — nie plný prenos, len semeno
+- Efekty sú **subtílne a podvedomé**: nočné mory v cudzom jazyku (japončina), vylepšená Spira intuícia (preto je taká dobrá — nad rámec toho, čo ju Maks naučil), podvedomé ťahanie k Maksovi
+- Tami si efekty vysvetľuje ako talent alebo intuíciu. **Nevie o Echo.**
+- **Podvedomá motivácia**: Echo ju ťahá k Maksovi. Myslí si, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť posledný plán — zobudiť Maksa.
+
+**Fáza 2 — Aktivácia (Book 1, tunely pod Šoravenom):**
+- **Sera odomkne Artefakt** a podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis prejde na Tami
+- Toto je **plné prebudenie** — schopnosti (liečenie, regenerácia), fragmenty spomienok, vedecká terminológia, spojenie s Inetis
+- Od tohto momentu sa Echo zosilňuje — Tami vie, že sa mení
+- **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju
+
+**Fáza 3 — Zosilnenie (po Maksovej smrti, Jaskyňa Ela):**
+- Tami sa vráti do Jaskyne Ela a pochová Maksa vedľa Inetis
+- V blízkosti Inetisiných pozostatkov sa Esencia **naplno zosilní** — plné flashbacky, Inetisine spomienky ako film
+- Tami pochopí, prečo ju to ťahalo k Maksovi — nebola to len láska. Bola to Esencia.
+
+**Odhalenie (Kniha 1)**: Maks zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
+**Dôsledok**: Maks zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
+
+---
+
+### Maksov 13-ročný oblúk — Vojak, ktorý dokončil misiu
+
+Maks bol v podstate **už mŕtvy** — spal vedľa Inetis v Jaskyni Ela, v pokoji. Pirát **Kael** prerušil jeho odpočinok (~AY 3000), keď s Vixom zabil Renna a ukradol mapu k jaskyni. Piráti našli Maksa v snehu — slepého, s amnéziou — a vytiahli ho von.
+
+Za 13 rokov (~AY 3000–3013) Maks **dal do pohybu veci, ktoré by Tami sama nedokázala**:
+- **Zabil Samaella** — odstranil jedného z posledných Archanjelov
+- **Zabil Gronda** — skoncoval s vojnou na severe
+- **Zabil pirátov Vixa a Kaela** — pomstil Renna (aj keď o tom nevedel)
+- **Vychoval Tami** — 7 rokov tréningu. Pripravil ju na jej veľkú rolu.
+- A potom sa **vrátil odpočívať** — Tami ho pochová v Jaskyni Ela, vedľa Inetis
+
+Inetis ho poprosila *"upratať ten neporiadok"* — a on to urobil. Len to trvalo 13 rokov namiesto jedného dňa. Vojak dokončil misiu a vrátil sa domov.
+
+---
+
+### Book 2 Opening — Kitsune, Nočná Mora, Nevriss
+
+**1. Kitsune — Návrat domov:**
+- Po pochovaní Maksa v Jaskyni Ela sa Tami vráti do **Kitsune** (ruiny mesta Kito)
+- Návrat k **Felixovi** — jedinej rodine, čo jej zostala
+- **Depresia** — Maks mŕtvy, Esencia v krvi, flashbacky z jaskyne. Tami sa uzavrie do seba.
+- **Felix prezradí veci o Rennovi** — tikajúca bomba, ktorá konečne vybuchne. Felix vie, že Renn bol zo Zeme, poznal Inetis, celý príbeh. Tami sa dozvie kúsky pravdy o svojom otcovi — nie všetko, ale dosť na to, aby začala chápať, čo je.
+
+**2. Nočná Mora (~2 týždne po návrate):**
+- Tami má **intenzívny sen** — nie bežná nočná mora, ale niečo iné. Esencia (Fáza 3) sa prejavuje naplno.
+- **Vízia**: Virtuálny svet plný **tieňových bytostí**. Čistý horror. Vidí, ako požierajú duše ľudí — nie metaforicky, ale doslova. Ľudia vstupujú do svetla a strácajú sa. Tieňové entity ich pohlcujú.
+- **Čo to je**: Buď spomienky Inetis z **Core/simulácie** (keď videla, čo sa deje s nahranými vedomíamiinside), alebo **preview Veľkého Uploadu** — to, čo čaká ľudstvo ak Elania uspeje
+- Tami sa **zobudí spotená**, s krikom. Vie, že to nebol obyčajný sen. Niečo jej Esencia ukazuje.
+- **Rozhodnutie**: Musí hľadať odpovede. A má ešte nevyrovnané účty.
+
+**3. Odchod do Nevriss:**
+- Tami berie **Makitu**, **Felixa** po svojom boku, a **čierny Artefakt** (Anténu) stále so sebou
+- Cieľ: **Nevriss City**
+- **Motivácie**:
+  - **Pomsta**: Nevyrovnané účty s Cirkvou za smrť Arkota, Yery a Flinta
+  - **Odpovede**: Čo znamená nočná mora? Čo je Esencia? Čo chce Inetis?
+  - **Politika**: Volí sa **nová Matka Cirkvi** — stará (Mormiel) je preč. Cirkev je v rozklade.
+- V Nevriss na ňu čaká **Links** — zamilovaný exorcista, ktorý ju sleduje už mesiace
+
+---
+
+### Tami vs Veľký Upload — Endgame
+
+Elaniina **Veľká Hra** (z tieňového plánu Sera/Elania) smeruje k **Veľkému Uploadu** — planetárna unifikácia nie vojnou, ale náboženstvom. Varietas sa *dobrovoľne* nahrá do Core.
+
+**Tami je jediná, kto to môže zastaviť:**
+1. **Nesie Inetisinu pamäť** — vie (cez Esenciu), čo Inetis skutočne chcela. A nebolo to Upload. Inetis chcela slobodu, nie digitálne väzenie.
+2. **Links dokáže čítať kód** — Translation Engine odhalí pravdu o Core a čo sa v ňom naozaj deje s "nahranými" dušami
+3. **Tami stretne Elaniu** (Book 4) — dcéra Renna stretne dcéru Inetis. Prinesie jej pravdu, ktorá zničí Elaniino ospravedlnenie pre Upload.
+4. **"Pravda patrí El"** — Serino proroctvo sa naplní. Ale pravda nie je to, čo Elania čakala.
+
+**Prečo práve Tami:**
+- Ako Inetis — odmieta kanibalizmus, odmieta kontrolu nad slobodnou vôľou
+- Ako Renn — odmieta vojnu, hľadá mier
+- Dcéra je presne ako otec a "babička" — **odmietne Upload**, aj keď to znamená postaviť sa proti Elanii a Sere
+- Elania si myslí, že robí správnu vec. Sera plánuje desaťročia dopredu. Ale nikto neráta s tým, že Tami **povie nie**.

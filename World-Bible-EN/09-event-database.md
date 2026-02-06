@@ -285,14 +285,32 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Tags: `twist`, `tragedy`
 - Source: `world-bible.md`, `null-void-saga.md`
 
-### `evt.story.tami_inherits_dust`
-- Name: Transfer of "Hungry" Nanodrones to Tami
-- Time: After `evt.story.inetis_body_found`
-- Summary: Nanodrones from Inetis's remains pass to Tami; she gains abilities and memories.
+### `evt.story.tami_inherits_dust_phase1`
+- Name: Phase 1 — Seed: First Contact with the Essence
+- Time: ~AY 3011
+- Summary: Tami touches the remains of Inetis in the Ela Cave. A small dose of dormant "hungry" nanodrones transfers to her. Effects are subtle and subconscious: nightmares in Japanese, enhanced Spira intuition, subconscious pull toward Maks. Tami does not know about the Echo.
+- Participants: `char.tami`, `char.inetis`
+- Locations: `place.cave_inetis`
+- Tags: `transformation`, `Spira`, `seed`
+- Source: `characters/Tami.md`, `10-inetis-chronicles.md`
+
+### `evt.story.tami_essence_activation`
+- Name: Phase 2 — Activation: Sera Delivers the Essence to Tami
+- Time: AY 3013 (Book 1, tunnels beneath Shoraven)
+- Summary: Sera unlocks the Artifact and hands it to Tami (NOT Maks). Concentrated Essence of Inetis transfers to Tami — full awakening of abilities, memories, and connection to Inetis.
+- Participants: `char.tami`, `char.sera`, `char.inetis`
+- Locations: `place.shoraven_tunnels`
+- Tags: `transformation`, `Spira`, `activation`, `twist`
+- Source: `characters/Tami.md`, `CHAPTER-NOTES.md`
+
+### `evt.story.tami_essence_amplification`
+- Name: Phase 3 — Amplification: Return to the Ela Cave
+- Time: AY 3013 (after Maks's death)
+- Summary: Tami buries Maks beside Inetis in the Ela Cave. Proximity to the remaining nanodrones on Inetis's remains amplifies the Essence — complete flashbacks, Inetis's memories like a film. Tami finally understands the truth about her pull toward Maks.
 - Participants: `char.tami`, `char.inetis`, `char.maksimilian`
 - Locations: `place.cave_inetis`
-- Tags: `transformation`, `Spira`
-- Source: `world-bible.md`, `null-void-saga.md`
+- Tags: `transformation`, `Spira`, `amplification`, `tragedy`
+- Source: `characters/Tami.md`
 
 ### `evt.story.samaell_confrontation`
 - Name: Confrontation with Samaell

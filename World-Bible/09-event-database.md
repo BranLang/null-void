@@ -285,14 +285,32 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Tagy: `twist`, `tragédia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
-### `evt.story.tami_inherits_dust`
-- Názov: Prenos „hladných“ nanodronov na Tami
-- Čas: po `evt.story.inetis_body_found`
-- Zhrnutie: Nanodrony z Inetisiných pozostatkov prejdú na Tami; získava schopnosti a spomienky.
+### `evt.story.tami_inherits_dust_phase1`
+- Názov: Fáza 1 — Semeno (Seed): Prvý kontakt s Esenciou
+- Čas: ~AY 3011
+- Zhrnutie: Tami sa dotkne pozostatkov Inetis v Jaskyni Ela. Malá dávka dormantných „hladných" nanodronov prejde na ňu. Efekty subtílne a podvedomé: nočné mory v japončine, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi. Tami nevie o Echo.
+- Účastníci: `char.tami`, `char.inetis`
+- Lokácie: `place.cave_inetis`
+- Tagy: `transformácia`, `Spira`, `semeno`
+- Zdroj: `characters/Tami.md`, `10-inetis-chronicles.md`
+
+### `evt.story.tami_essence_activation`
+- Názov: Fáza 2 — Aktivácia: Sera odovzdá Esenciu Tami
+- Čas: AY 3013 (Book 1, tunely pod Šoravenom)
+- Zhrnutie: Sera odomkne Artefakt a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — plné prebudenie schopností, spomienok a spojenia s Inetis.
+- Účastníci: `char.tami`, `char.sera`, `char.inetis`
+- Lokácie: `place.shoraven_tunnels`
+- Tagy: `transformácia`, `Spira`, `aktivácia`, `twist`
+- Zdroj: `characters/Tami.md`, `CHAPTER-NOTES.md`
+
+### `evt.story.tami_essence_amplification`
+- Názov: Fáza 3 — Zosilnenie: Návrat do Jaskyne Ela
+- Čas: AY 3013 (po Maksovej smrti)
+- Zhrnutie: Tami pochová Maksa vedľa Inetis v Jaskyni Ela. Blízkosť zostávajúcich nanodronov na Inetisiných pozostatkoch zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film. Tami pochopí pravdu o svojom ťahaní k Maksovi.
 - Účastníci: `char.tami`, `char.inetis`, `char.maksimilian`
 - Lokácie: `place.cave_inetis`
-- Tagy: `transformácia`, `Spira`
-- Zdroj: `world-bible.md`, `null-void-saga.md`
+- Tagy: `transformácia`, `Spira`, `zosilnenie`, `tragédia`
+- Zdroj: `characters/Tami.md`
 
 ### `evt.story.samaell_confrontation`
 - Názov: Konfrontácia s samaellom

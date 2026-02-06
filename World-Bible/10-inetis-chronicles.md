@@ -175,12 +175,21 @@ Jaskyňa Ela sa stala zabudnutym miestom na veľmi riedko osidlenej planete (nie
 
 Okolo roku **AY 3011** sa do jaskyne dostala expedícia hľadačov pokladov: **Arkot, Yera, Flint** — a s nimi **Tami**. Našli jaskyňu podľa starej mapy, ktorú pôvodne kúpil jej otec **Renn** na čiernom trhu — a stálo ho to život (piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila Makitu — ležala v útrobiach lode celé roky. Ako 7-ročná Tami nevedela, čo to je — našla ju a rozlúštila až o roky neskôr pri upratovaní Makity, keď už bola skúsená hľadačka pokladov.
 
-Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a prešli na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
+Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a **malá časť** z nich prešla na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
 
-**Dôsledky:**
-- Tami od tohto momentu nesie **Echo Inetis** — fragmenty spomienok, vedeckej terminológie a schopností (liečenie, regenerácia). Prejavujú sa pomaly, podvedome — nočné mory v cudzom jazyku, intuícia, ktorú nedokáže vysvetliť.
+**Fáza 1 — Semeno (Seed):**
+Toto je len **prvý kontakt** — malá dávka dormantných nanodronov, nie plný prenos. Väčšina Esencie zostáva na pozostatkoch Inetis v jaskyni.
+
+**Dôsledky Fázy 1:**
+- Tami nesie **Echo Inetis** — ale len fragmenty. Efekty sú **subtílne a podvedomé**: nočné mory v cudzom jazyku (japončina), vylepšená Spira intuícia (preto je taká výnimočná — nad rámec toho, čo ju Maks naučil), podvedomé ťahanie k Maksovi.
 - **Podvedomá motivácia:** Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá pre seba — pre nevyriešené city. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán: zobudiť Maksa.
-- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne — preto je taká výnimočná v práci so Spirou (nad rámec toho, čo ju Maks naučil).
+- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne.
+
+**Fáza 2 — Aktivácia (Book 1):**
+K plnému prebudeniu dôjde až keď **Sera odomkne Artefakt** v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — schopnosti (liečenie, regenerácia), fragmenty spomienok, vedecká terminológia, plné spojenie s Inetis.
+
+**Fáza 3 — Zosilnenie (po Maksovej smrti):**
+Keď sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis, blízkosť zostávajúcich nanodronov na Inetisiných pozostatkoch Esenciu **naplno zosilní** — plné flashbacky, Inetisine spomienky ako film.
 
 ### Osud expedície
 

@@ -175,12 +175,21 @@ The Ela Cave became a forgotten place on a very sparsely populated planet (somet
 
 Around the year **AY 3011**, a treasure-hunting expedition reached the cave: **Arkot, Yera, Flint** — and with them, **Tami**. They found the cave using an old map originally purchased by her father **Renn** on the black market — and it cost him his life (the pirates Vix and Kael killed him over it and stole Makita). The map never left Makita — it sat in the ship's hold for years. As a 7-year-old, Tami had no idea what it was — she found it and deciphered it years later while cleaning out Makita, by which time she was an experienced treasure hunter.
 
-Tami touched the remains of Inetis. In that moment, the "hungry" nanodrones recognized a compatible host — a Vulpini with an exceptionally strong Spira — and transferred to her. Tami felt nothing. No pain, no sign. Just cold dust on her fingertips.
+Tami touched the remains of Inetis. In that moment, the "hungry" nanodrones recognized a compatible host — a Vulpini with an exceptionally strong Spira — and **a small portion** of them transferred to her. Tami felt nothing. No pain, no sign. Just cold dust on her fingertips.
 
-**Consequences:**
-- From this moment on, Tami carries the **Echo of Inetis** — fragments of memories, scientific terminology, and abilities (healing, regeneration). They manifest slowly, subconsciously — nightmares in a foreign language, intuition she cannot explain.
+**Phase 1 — Seed:**
+This is only the **first contact** — a small dose of dormant nanodrones, not a full transfer. The majority of the Essence remains on Inetis's remains in the cave.
+
+**Phase 1 Consequences:**
+- Tami carries the **Echo of Inetis** — but only fragments. Effects are **subtle and subconscious**: nightmares in a foreign language (Japanese), enhanced Spira intuition (which is why she is so exceptional — beyond what Maks taught her), a subconscious pull toward Maks.
 - **Subconscious Motivation:** The Echo of Inetis pulls her toward Maks. Tami believes she seeks him for herself — for unresolved feelings. In truth, it is Inetis who, even after death, strives to fulfill her final plan: to wake Maks.
-- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle — which is why she is so exceptionally skilled with Spira (beyond what Maks taught her).
+- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle.
+
+**Phase 2 — Activation (Book 1):**
+The full awakening occurs only when **Sera unlocks the Artifact** in the tunnels beneath Shoraven and hands it to Tami (NOT Maks). Concentrated Essence of Inetis transfers to Tami — abilities (healing, regeneration), memory fragments, scientific terminology, full connection to Inetis.
+
+**Phase 3 — Amplification (after Maks's death):**
+When Tami returns to the Ela Cave and buries Maks beside Inetis, proximity to the remaining nanodrones on Inetis's remains **fully amplifies** the Essence — complete flashbacks, Inetis's memories like a film.
 
 ### Fate of the Expedition
 

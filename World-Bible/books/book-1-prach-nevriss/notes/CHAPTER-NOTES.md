@@ -148,7 +148,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - Tami + Kito stretnú Seru v tuneloch
 - **Sera otvára bránu** Haiku skriptom (Paladíni sa pokúsili a zlyhali)
 - **Sera vs Paladíni fight** (Sera = perfect counter, Yari vs Hard Light)
-- **Esencia transfer:** Sera odomkne Artefakt, podá ho Tami (NIE Maksovi) — Inetisina esencia prejde na Tami
+- **Esencia transfer (Fáza 2 — Aktivácia):** Sera odomkne Artefakt, podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis prejde na Tami. Toto je **plné prebudenie** — Tami už nesie Semeno (Fáza 1) z Jaskyne Ela (~AY 3011), ale až teraz sa Echo naplno aktivuje
 - Maks asks about Inetis → frustrácia (incomplete info)
 - **Sera's prophecy:** "Tri veže prejdeš" — Sera sa pozerá priamo na **Tami**, nie na Maksa. Maks si to nevšimne (frustrácia). Tami si to všimne, ale nechápe prečo.
 - Sera vanishes
