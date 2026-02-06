@@ -206,7 +206,7 @@ Varietas delia históriu nábožensky:
 ### Bit Rot / Glitch
 - Nanodrony začínajú zlyhávať („odmietajú" hostiteľov)
 - 20% telesnej hmotnosti (drony) sa odtrhne → smrť v agónii
-- Vznik **Duchov (Wraiths)** — nanodrony s fragmentami vedomia mŕtvych
+- Vznik **Duchov (Wraiths)** — ale nie je to zlyhanie. Je to **pud sebazáchovy**. Nanoboty v1.0, ktoré nadobudli dostatočnú autonómiu po stovkách rokov ko-existencie s ľudským vedomím, sa odpútajú od umierajúceho hostiteľa, aby prežili. Berú si fragment hostiteľovho vedomia ako operačný systém a stávajú sa autonómnymi rojmi.
 
 ### Zrod Exorcistov
 - Pôvodne IT technici v ochranných oblekoch

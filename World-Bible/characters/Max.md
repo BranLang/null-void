@@ -11,8 +11,16 @@
 | **Status** | Živý (s amnéziou a **kryo-slepotou** po prebudení; oči nahradené **Čiernym Prachom** po porážke Samaella) |
 | **Pôvod** | Zem (nar. 2050), **Major** počas Marťanskej vojny → povýšený na **Generála** Pozemskej Obrany po jej skončení |
 
-### Fáza „Zlomený Boh“ (Rok 0-1)
-Max sa prebúdza ako „troska“. 
+### Nie je Chosen One (ale vyzerá ako jeden)
+
+Max nie je vyvolený. Nie je boh. Je len človek, čo sa zobudil po 3000 rokoch. Svet fungoval bez neho celé tri tisícročia — krajiny vznikali a padali, civilizácie sa menili, ľudia žili a umierali. „Legenda o Spáčovi" je len legenda — ako každá iná. Nikto ho nečakal, nikto ho nepotrebuje. On potrebuje svet pochopiť.
+
+**Trope awareness:** Max *vyzerá* ako chosen one trope — na Zemi bol č. 3-4 v hierarchii, Darth Vader, pravá ruka Koordinátora. To je zámerné. Inetis potrebovala po svojom boku niekoho špeciálneho — nie obyčajného bodyguarda bez histórie. Max je „chosen" len v Inetisiných očiach, nie v očiach sveta. Svet o ňom nevie a je mu jedno. Rozdiel medzi klasickým chosen one a Maxom: svet sa bez neho nezrúti. Max je chosen one jednej mŕtvej ženy — nie proroctva.
+
+**Keby zomrel** — napríklad pri strete s Paladínmi alebo v bitke o Šoraven — Tami ho oplače a ide ďalej. Stretne Linksa, žijú spolu. K Veľkému Uploadu asi nedôjde — záleží na tom, kto získa Anténu a na čo ju použije. Svet sa nezrúti. Príbeh pokračuje — len iným smerom.
+
+### Fáza „Zlomený Boh" (Rok 0-1)
+Max sa prebúdza ako „troska". 
 - **Rok Tieňov (The Blind Interval)**: Prvý rok vidí len rozmazané škvrny. Počuje Tamin hlas a cíti jej prítomnosť, no jeho arogantný mozog si automaticky doplní obraz „ľudského“ potomka. Vybuduje si k nej hlboký rešpekt na základe jej veliteľských schopností a starostlivosti, netušiac, akého je druhu.
 
 - **Maxovo uväznenie:** Počas 3-ročnej FTL cesty na lodi NULL VOID napadol Max Inetis. Táto trauma je dôvodom, prečo ho Inetis po pristátí uspala do kryostázy — oklamala ho, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** a nevedel o skutočných schopnostiach lode. Inetis sa ho bála a chcela ho preč. Nemohla ho zabiť (vedela, že ho svet bude potrebovať), ale nedokázala sa prinútiť ho zobudiť. **300 rokov sa natiahlo na 3000.**

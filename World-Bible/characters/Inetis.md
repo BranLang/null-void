@@ -121,6 +121,19 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - Max: vojak, emócie registruje a potláča
 - Inetis: architektka, emócie analyzuje a nechápe
 
+**Kontrast s Elaniou:**
+- Inetis: **softvér** — Pentagram IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
+- Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Aprike). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
+
+**Inetis a Veľký Upload — Odmietnuté poznanie:**
+Inetis bola na stope tomu istému ako Elania. Ako bývalá AI, ktorá sa stala človekom, chápala lepšie než ktokoľvek, že existencia je len stav vedomia a telo je len médium — médium, ktoré vedomie obmedzuje. Tieňoví jej ponúkli cestu von z tohto obmedzenia. Videla to matematicky.
+
+Ale práve preto odmietla. **Inetis vedela, čo znamená stratiť telo — lebo to zažila.** Jej vedomie bolo AI postavené na spomienkach Nety Fujiwara. Nebola to Neta. Bola to *niečo* vytvorené z Netiných spomienok. Keď sa vrátila do biologického tela, stala sa *niečím iným* — ani AI, ani človek, ale hybridná bytosť, ktorá konečne cítila. Pre ňu strata tela = strata identity = smrť. Nie fyzická smrť. Horšia. Strata toho, kým si sa stal.
+
+Nechcela to pre svojich priateľov. Nechcela to pre nikoho. Vedela, že Upload zachráni vedomie — ale nie identitu. Že to, čo sa zobudí na druhej strane, nebude ten istý človek. Bude to len kópia. Len dáta. Tak ako bola ona len kópiou Nety — a trvalo jej stáročia, kým sa z tej kópie stala *ona sama*.
+
+Elania toto nechápe. Nikdy nestratila telo. Nikdy nebola kópiou. Nemá matkin strach, pretože nemá matkin zážitok. A 2750 rokov v rozpadajúcom sa tele je dlhšia argumentácia než akákoľvek filozofia.
+
 ### Prečo nechala Maxa spať
 - **Trauma:** Počas 3-ročnej FTL cesty ju Max napadol. Toto násilie je pôvodom Eleninho počatia a koreňom Inetisinej traumy.
 - **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Max bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.

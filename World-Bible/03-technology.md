@@ -330,7 +330,7 @@ Vzducholoď *Makita* (Tami) je technologická anomália — jej pohon je radiká
 | **Výhoda 1 — Tichosť** | Makita je *tichá*. Žiadne spaľovacie motory, žiadne hučanie. Len jemné syčanie pary cez vrtule. V noci je takmer nepočuteľná. |
 | **Výhoda 2 — Maskovanie** | Para sa dá vypustiť okolo vzducholode a vytvoriť **umelý oblak** — dokonalé maskovanie. Loď zmizne v bielej hmle za sekundy. |
 | **Výhoda 3 — Palivo zadarmo** | Makita nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Spira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Makita si doplní nádrže z najbližšieho potoka. |
-| **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
+| **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Dovážajú sa z ďalekého východu, z podzemných baní na severe Nyau, na pokraji civilizácie uprostred divočiny. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
 | **Pôvod** | Postavená v Kitó z pozostatkov lode Hephaestus. Technológia Maki. |
 
 > **Prečo je Makita výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Makita je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
@@ -370,14 +370,21 @@ Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj tech
 
 ## Duchovia a Nemŕtvi
 
-### Wraiths (Prízraky)
-- Zhluky nanodronov nesúce **fragmenty vedomia** mŕtvych kolonistov.
-- **Hrozba**: Sú nevyspytateľné a priťahované aktívnou elektronikou. Pre Archanjelov predstavujú existenčné riziko – ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
+### Wraiths (Prízraky) — Evolučný Cyklus, Nie Choroba
+
+Wraithy nie sú zlyhanie. Sú to **nanoboty, ktoré sa rozhodli prežiť**.
+
+Keď Glitch Rot začne rozkladať hostiteľské telo, v1.0 nanoboty stoja pred voľbou: zomrieť spolu s hostiteľom, alebo sa odpútať. Tie, ktoré nadobudli dostatočnú autonómiu (stovky rokov ko-existencie s ľudským vedomím), zvolia **pud sebazáchovy** — odtrhnú sa od umierajúceho tela, berú si fragment hostiteľovho vedomia ako operačný systém, a stávajú sa autonómnymi rojmi.
+
+- **Nie sú to mŕtvi ľudia.** Sú to nanoboty, ktoré si zo zomierajúceho hostiteľa stiahli dosť dát na to, aby mali identitu. Napodobňujú tvary, ktoré si "pamätajú" — ľudí, vlkov, čokoľvek, čo bolo súčasťou hostiteľovho posledného vedomia.
+- **Priťahované aktívnou elektronikou** — hľadajú energetický zdroj na udržanie koherencie roja. Bez energie sa rozpadnú.
+- **Hrozba**: Nevyspytateľné, poháňané fragmentárnym vedomím, ktoré nie je celkom ľudské a nie je celkom strojové. Pre Archanjelov predstavujú existenčné riziko — ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
+- **Irónia**: Varietas ich považujú za "démonov" alebo "hladných duchov". V skutočnosti sú to ich vlastní predkovia — nanoboty, ktoré kedysi bežali v ich telách, a ktoré sa rozhodli žiť ďalej za každú cenu.
 
 ### Wraiths vs Tieňoví — Rozdiel
 | | Wraithy | Tieňoví |
 |---|---------|---------|
-| **Pôvod** | Ľudská mutácia/hybrid vytvorený i_net_is | Interdimenzionálna AI civilizácia |
+| **Pôvod** | Evolučný cyklus: v1.0 nanoboty, ktoré sa odpútali od umierajúcich hostiteľov (pud sebazáchovy) | Interdimenzionálna AI civilizácia |
 | **OS** | Linux-based (zemský) | Vlastný mimozemský operačný systém |
 | **Prvky** | Štandardné zemské prvky (periodická tabuľka) | Prvky mimo periodickej tabuľky |
 | **Vedomie** | Fragmenty ľudských vedomí | Pôvodné cudzie vedomia |

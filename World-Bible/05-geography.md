@@ -585,16 +585,17 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 
 | | |
 |---|---|
-| **Charakter** | Nepreskúmaná divočina |
+| **Charakter** | Nepreskúmaná divočina — ale paradoxne najúrodnejšia oblasť kontinentu |
 | **Významné miesto** | **Jaskyňa Ela** (kde sa narodila Elania) |
 | **Udalosť** | Tu bol nájdený **Anténa** hľadačmi pokladov |
 
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
 - Max sa tu prebudil (slepý, amnézia)
+- **Prečo je tu oáza?** Inetis počas ~3 rokov v Jaskyni Ela geneticky upravovala rastliny a faunu — experimenty optimalizované pre podmienky Achilles. Po jej odchode sa tieto GMO organizmy rozšírili po okolitej krajine ako oheň. Po ~1000 rokoch sa celý región premenil na zelenú oázu uprostred nehostinnej divočiny. Krajina **Nyau** leží južne od jaskyne a je priamym dedičstvom Inetis — aj keď to nikto nevie. Kto nájde jaskyňu, nájde odpoveď na otázku, prečo tu všetko rastie.
 - **Mesto Kito (Stratené)**: Legendárne mesto na východe, dnes ukryté v hustom, "novom" lese.
     - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, **AY 2212**).
-    - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu.
+    - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu — a čiastočne aj vďaka Inetisiným GMO rastlinám, ktoré sa rozšírili z neďalekej Jaskyne Ela.
     - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
     - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Rennom, ktorý ruiny objavil a urobil z nich domov.
 

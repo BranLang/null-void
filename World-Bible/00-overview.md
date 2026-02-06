@@ -64,7 +64,7 @@ Drifting in the ocean all alone
 | **Názov ságy** | Null Void |
 | **Alternatívny názov** | Boj o Achilles |
 | **Formát** | Pentalógia (5 kníh) |
-| **Žáner** | Sci-Fi / Techno-Fantasy / Post-Apo |
+| **Žáner** | Anime Sci-Fi / Dieselpunk / Grimdark Light Novel |
 | **Autor** | Bran Lang |
 
 ---
@@ -111,6 +111,9 @@ Spiaci pozemstan sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techno
 
 ### História
 - [Éra Hráčov](04-prehistory-players.md) — VR hra Achilles, maXpowa & i_net_is
+
+### Identita
+- [Žánrové pozicionovanie](12-genre-positioning.md) — Žánrová definícia, tónový sprievodca, comp titles, sandbox filozofia
 
 ### Knihy
 - [Prehľad kníh](books/00-books-overview.md) — Všetkých 5 kníh

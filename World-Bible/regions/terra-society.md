@@ -57,12 +57,12 @@ Kontinent je rozdelený na tri hlavné sféry vplyvu:
     *   **Maki** (nuteni pracovat poid hrozbou smrti).
 
 ### 3. Fragmentované Kráľovstvá (The Shattered Lands)
-Pás územia medzi Severom a Juhom ("Stredozem"), kde neustále vznikajú a zanikajú menšie štáty. Podľa mapy sú najvýznamnejšie:
+Pás územia medzi Severom a Juhom ("Stredozem"), kde neustále vznikajú a zanikajú menšie štáty. **Všetky krajiny na Terre začali ako mestské štáty** — v divočine Super-Zeme bolo nemožné prežiť bez opevneného mesta (teplo, ochrana, komunita). Niektoré zostali mestami, iné (ako Nyau) vyrástli do rozľahlých krajín. Podľa mapy sú najvýznamnejšie:
 
 | Lokácia | Popis | Charakter |
 |---|---|---|
 | **Beladiss (Bella & Diss)** | "Dvojičky Pobrežia" | Dve sesterské mestá vzdialené tisíce km (ako NY-LA). Ovládajú námorné trasy na opačných koncoch kontinentu. |
-| **Nyau** | "Prekliate Nyau" | Obchodné mesto v terraformovanej oáze. Legenda hovorí, že keď prvý kapitán uvidel túto krásnu zem uprostred pustatiny, šokovane vyhŕkol: *"Kurva Nyau!"* — a názov už zostal. |
+| **Nyau** | "Prekliate Nyau" | Ako všetky krajiny na Terre, Nyau začalo ako mestský štát — v meste bolo jednoduchšie prežiť než v divočine (teplo, ochrana, komunita). Dnes je to rozľahlá krajina (rozlohou porovnateľná s Čínou), ale s riedkym osídlením (~25-35M obyvateľov). Väčšina územia je divočina. **Prečo oáza?** Severné od Nyau leží **Jaskyňa Ela** — miesto, kde Inetis pristála a strávila prvé 3 roky. Počas tohto obdobia geneticky upravovala rastliny a faunu v laboratóriu Ely ako experimenty, ktoré neskôr vzala so sebou do Elysia. Ale to, čo začala — GMO rastliny a organizmy optimalizované pre podmienky Achilles — sa po jej odchode rozšírilo po okolitej krajine ako oheň. Po tisíc rokoch sa celý región premenil na najúrodnejšiu oblasť kontinentu. Nyau je doslova **dedičstvo Inetis**, aj keď to nikto nevie. Legenda hovorí, že keď prvý kapitán uvidel túto krásnu zem uprostred pustatiny, šokovane vyhŕkol: *"Kurva Nyau!"* — a názov už zostal. **Spira kryštály**: Na severe Nyau, na pokraji civilizácie uprostred divočiny, sa nachádzajú podzemné bane na Spira kryštály — hlavný zdroj pre celý kontinent. Kryštály sa dovážajú z ďalekého východu a sú najnovším hitom na trhu luxusných komodít. |
 | **Raiju** | "Jazerný Prístav" | Významny obchodny uzol medzi Graw a rozdruženými kráľovstvami. |
 | **Ruins of Kitsune** | "Mesto Líšok" | **Pôvodne staroveké mesto Kito.** Keď ho Maki objavili, našli tam populáciu Ludi-líšok a premenovali ho na **Kitsune**. Líšky (Vulpini) si nové meno zamilovali a prijali ho. Dnes je to legendarne stratene mesto (kde ma Felix svoj workshop a domov Maxa). |
 | **Vlčí Priesmyk (Wolfs Pass)** | "Severná Brána" | Zamrznutá horská cesta strážená Vlkmi 2.0. Jediný prechod do Grawu cez hory. |
