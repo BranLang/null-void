@@ -1,3 +1,7 @@
+
+![World](../../../../assets/maps/map-canon.jpg)
+
+
 # Prológ
 
 Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň, aby o okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
@@ -28,4 +32,4 @@ Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hem
 
 *Makita* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
 
-![Tami](../../../assets/characters/Tami/tami_shoraven.jpeg)
+![Tami](../../../../assets/characters/Tami/tami_soraven.jpeg)
