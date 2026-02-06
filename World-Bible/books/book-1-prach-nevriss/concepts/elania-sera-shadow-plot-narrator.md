@@ -66,6 +66,12 @@ Líška zmení svet.
 
 Links nerozumie. Ale zapamätá si každé slovo.
 
+> **Poznámka — Sera má dve proroctvá:**
+> 1. **Pre Linksa:** *"Čítaj jazyk hviezd. Uzdrav jednu, nájdeš dve. Líška zmení svet."* — Líška = Tami.
+> 2. **Pre Tami (Book 1, v tuneloch):** *"Tri veže prejdeš. V poslednej pravda čaká. Pravda patrí El."* — Sera sa pozerá na Tami, nie na Maksa. Maks si myslí, že je pre neho. Nie je.
+>
+> Obe proroctvá ukazujú na **Tami** ako centrum celého plánu. Sera to vždy vedela — videla Rennove modré oči.
+
 *Všetko ide podľa plánu.*
 
 ---

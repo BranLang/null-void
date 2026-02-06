@@ -150,7 +150,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - **Sera vs Paladíni fight** (Sera = perfect counter, Yari vs Hard Light)
 - **Esencia transfer:** Sera odomkne Artefakt, podá ho Tami (NIE Maksovi) — Inetisina esencia prejde na Tami
 - Maks asks about Inetis → frustrácia (incomplete info)
-- **Sera's prophecy:** "Hľadaj veže"
+- **Sera's prophecy:** "Tri veže prejdeš" — Sera sa pozerá priamo na **Tami**, nie na Maksa. Maks si to nevšimne (frustrácia). Tami si to všimne, ale nechápe prečo.
 - Sera vanishes
 - **Kira self-destruct:** Ochromená Kira aktivuje autodestrukciu (Predator-style, 30s odpočítavanie)
 - **Kira-Rau farewell:** Kira sa rozlúči s Rauom v mutovanej angličtine (nikto nerozumie, Kito si myslí kliatbu, Tami rozpozná tón rozlúčky)
@@ -485,8 +485,12 @@ V poslednej pravda čaká.
 Pravda patrí El.
 ```
 - Spoken in TRUTH MODE voice (not business, not kawaii)
-- Ancient, beautiful, terrible - sends shivers through everyone
-- Setup for Book 4 (Maks + Elania confrontation in Věž Stratených)
+- Ancient, beautiful, terrible — sends shivers through everyone
+- **Sera sa pozerá na TAMI, nie na Maksa** — proroctvo patrí Tami
+- Maks si automaticky myslí, že je pre neho (ego + "El" = Elania = jeho dcéra)
+- Tami cíti Serin pohľad, ale nechápe. Zapamätá si to.
+- **Plot twist setup:** Celý Book 1 čitateľ predpokladá, že Maks je "chosen one". Proroctvo je pre Tami — dcéru Niktoriho, nosičku Esencie Inetis. Tami prejde tri veže: Sklená Veža (Book 2-3), Veža Stratených (Book 4), Ynetis/Core (Book 5). V poslednej nájde pravdu — a pravda patrí "El" (Elanii).
+- **Ak Maks zomrie:** Proroctvo pokračuje bez neho. Tami bola vždy centrom.
 
 **Character Knowledge States:**
 
@@ -500,16 +504,20 @@ Pravda patrí El.
 - Videla voice manipulation (uncanny valley, ale funguje)
 - Prvýkrát videla niekoho silnejšieho než Maks (v špecializácii)
 - Chápe že Sera je mimo jej ligy
+- **Sera sa na ňu pozerala.** Počas proroctva. Priamo do očí. Tami to cíti v kostiach, ale nedokáže to vysvetliť.
+- Drží Anténu — Sera jej ju dala, nie Maksovi. Prečo?
 
 **Kito:**
 - Religiózna skúsenosť - videl bohyňu naživo
 - Pozná Seru z Mako legends ("The Last Pure Human")
 
 **Sera:**
-- Získala viac než artefakt - **intel o Maksovi**
+- Získala viac než artefakt — **intel o Maksovi**
 - Analyzovala jeho nanodrony = kinetický swarm (jej counter)
 - Splnila misiu: Confirm Maks je nažive, reportovať Elanii
 - Nechala Artefakt Tami (súčasť Elaniiného plánu — Tami = nosička Esencie Inetis)
+- **Videla Rennove modré oči v Tami.** Sera vie, kto je Tami — dcéra Niktoriho, starého priateľa z Core Teamu. Proroctvo je pre ňu. Sera to vždy vedela.
+- **Maks je prostriedok, Tami je cieľ.** Celá misia nebola o Maksovi — bola o tom, dostať Esenciu k Tami.
 
 **Kira (Paladínka):**
 - Ochromená (Sera prerušila chrbticu), ale ruky funkčné
@@ -518,8 +526,8 @@ Pravda patrí El.
 - Posledný úsmev Maksovi = vojak na vojaka
 
 **Post-Chrám dopad:**
-- Maks: Bez samopalu, ale má stopu (Sera, tri veže)
-- Tami: Bez pištole, ale drží Anténu — jedinú vec, čo nestratili
+- Maks: Bez samopalu. Myslí si, že proroctvo je pre neho. Frustrácia — chce nájsť Inetis.
+- Tami: Bez pištole, ale drží Anténu — a v hlave Serin pohľad a slová "Tri veže prejdeš." Nevie prečo, ale cíti, že to bolo pre ňu.
 - Kito: Bez okuliarov, vidí na 3m rozmazane. Šok z kolapsu Chrámu (najsvätejšie miesto jeho viery)
 - Mesto: Obranné línie sa rúcajú, civilisti utekajú, kňažky na kolenách
 

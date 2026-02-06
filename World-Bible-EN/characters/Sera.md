@@ -334,13 +334,20 @@
 - **Catalyst** — brings information about Elania, the Paladins, the southern continent
 - **Mystery** — Tami/Maks must ask: "Who is Elania? Why is she looking for Maks?"
 - **Ally (tentative)** — not an enemy, but not fully trustworthy either
-- **Setup for Book 4** — Sera = bridge between Maks and Elania (father-daughter reunion)
+- **Prophecy bearer** — Sera speaks the prophecy "Three towers you shall pass" while looking at **Tami**, not Maks. The entire world (including the reader) assumes the prophecy is for Maks. It isn't.
+
+**The Prophecy belongs to Tami:**
+- Sera sees Renn's blue eyes in Tami — she knows Tami is Niktori's daughter
+- She gives the Artifact/Essence to Tami, not Maks — Tami is the carrier
+- Maks is the means (getting the team to Shoraven). Tami is the target.
+- **Three towers = Tami's arc:** The Glass Tower (Book 2-3), Tower of the Lost (Book 4), Ynetis/Core (Book 5)
+- **"Truth belongs to El"** — Tami will bring the truth to Elania. Renn's daughter meets Inetis's daughter.
 
 **Key Scenes (Book 1):**
-1. **Encounter with Tami** — introduction, not a fight
-2. **Reveal about Elania** — "someone who shares his blood"
-3. **Departure** — leaves with a mysterious message
-4. **Possible return** — when Maks encounters the Paladins again?
+1. **Encounter with Tami** — introduction, not a fight. Sera sees the blue eyes.
+2. **Essence transfer** — Sera unlocks the Artifact and hands it to Tami (NOT Maks)
+3. **Prophecy** — gaze fixed on Tami, not Maks. Tami feels it.
+4. **Departure** — she vanishes. Maks frustrated. Tami confused — why was she looking at her?
 
 ---
 
