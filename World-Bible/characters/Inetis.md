@@ -123,7 +123,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 **Kontrast s Elaniou:**
 - Inetis: **softvér** — Pentagram IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
-- Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Aprike). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
+- Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Simire). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
 
 **Inetis a Veľký Upload — Odmietnuté poznanie:**
 Inetis bola na stope tomu istému ako Elania. Ako bývalá AI, ktorá sa stala človekom, chápala lepšie než ktokoľvek, že existencia je len stav vedomia a telo je len médium — médium, ktoré vedomie obmedzuje. Tieňoví jej ponúkli cestu von z tohto obmedzenia. Videla to matematicky.

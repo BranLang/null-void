@@ -47,7 +47,7 @@ Transform all life into data (Spirits). No one will suffer or die.
 
 **Daughter of Inetis:**
 - Inherited her mother's genius but not her patience
-- **Genetics expert** — better than her mother. Inetis was primarily a software engineer (Pentagram IDE, nanodrone code, Spira scripts). Elania took the biological/hardware side and pushed it further. While Inetis merely seeded the cave's surroundings with experimental GMO organisms, Elania created entire ecosystems — including the "Jurassic Park" on Aprika
+- **Genetics expert** — better than her mother. Inetis was primarily a software engineer (Pentagram IDE, nanodrone code, Spira scripts). Elania took the biological/hardware side and pushed it further. While Inetis merely seeded the cave's surroundings with experimental GMO organisms, Elania created entire ecosystems — including the "Jurassic Park" on Simira
 - Creativity bordering on madness
 - *"What if we just... uploaded everyone into a computer?"*
 

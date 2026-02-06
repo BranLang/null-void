@@ -61,7 +61,7 @@
 
 ![Tami vs Paladins - Protecting the Antenna](../assets/characters/Tami/dungeon_battle.jpeg)
 
-*The moment strategy collapsed. Two "Paladins" — enormous Apes in heavy armor — guarded the gate behind which the Antenna lay. Energy shields (Hard Light) and vibro-axes that cut stone like butter. Maks could not hack them. Tami with the Needle briefly pierced a shield, but it was not enough. For the first time in millennia, Maks felt fear of the unknown and screamed at Tami to run. The Apes took the Antenna and left — to Aprika, to Caesar.*
+*The moment strategy collapsed. Two "Paladins" — enormous Apes in heavy armor — guarded the gate behind which the Antenna lay. Energy shields (Hard Light) and vibro-axes that cut stone like butter. Maks could not hack them. Tami with the Needle briefly pierced a shield, but it was not enough. For the first time in millennia, Maks felt fear of the unknown and screamed at Tami to run. The Apes took the Antenna and left — to Simira, to Caesar.*
 
 ### Relationship with Maks
 - **For Tami**: Maks was a mentor, but also something more — she fell in love

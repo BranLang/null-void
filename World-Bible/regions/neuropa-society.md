@@ -35,7 +35,7 @@ Nie sú to len zberači artefaktov. Majú funkčný priemysel, ale "čistý".
 
 ### 3. Populácia a Hierarchia (Efektivita Zdrojov)
 - **Varietas (Terra)**: Najpočetnejší (~200 Miliónov). Rýchlo sa množia, krátko žijú.
-- **Apes (Aprika)**: Stredná populácia (~50 Miliónov). Udržiavajú perfektný pomer medzi populáciou a zdrojmi. Žiadne slumy, žiadny hlad.
+- **Apes (Simira)**: Stredná populácia (~50 Miliónov). Udržiavajú perfektný pomer medzi populáciou a zdrojmi. Žiadne slumy, žiadny hlad.
 - **Ľudia (Neuropa)**: Elitná menšina (~5 Miliónov). Populácia je prísne kontrolovaná (1 dieťa na pár), aby sa zachovala "Solarpunk" utópia bez vyčerpania zdrojov.
 
 ### 4. História: Sera, Anjel Smrti

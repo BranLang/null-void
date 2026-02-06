@@ -13,7 +13,7 @@
 **Status:** Sú vzácni, ale držia si mocenské enklávy.
 - **Neuropa**: Domov "Starých Ľudí", ktorí si pamätajú Zem. Izolacionisti.
 - **Graw (Sever)**: Militantná ľudská kasta pod vládou Gronda.
-- **Aprika (Sklene Mesto)**: Dekadentný dvor okolo Ishtar.
+- **Simira (Sklene Mesto)**: Dekadentný dvor okolo Ishtar.
 Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
 - **Apex** - risa Opic kde vladne Cisar a je obklopeny paladinmi.
 
@@ -51,7 +51,7 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maksom v AY 3001).
     - **Grond:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
-    - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Aprike v Sklenom Meste.
+    - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Simire v Sklenom Meste.
     - **Elania:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Neurope.
 
 ### 2. "Tí Roztrúsení" (Ľudia medzi Varietas)
@@ -270,7 +270,7 @@ Gildy sú samosprávne organizácie remeselníkov, obchodníkov a profesionálov
 4. **Riečne parníky:** Nákladná doprava po riekach — relatívne bezpečné (rieky nemajú tsunami).
 5. **Geneticky modifikované Zvieratá:** Psy (náhrada koní) a mačky. Všetky sú inteligentné a vedia rozprávať.
 6. **Vlaky (Terra):** Na Terre existujú parné a dieselové vlaky — primitívne, ale funkčné. Koľajnice trpia zemetraseniami — údržba je neustála. Hlavne na trasách medzi veľkými mestami (Nevriss, Beladiss, Nyau).
-7. **Maglevové vlaky (Aprika):** Doména **Ishtar/Zaya** (Sklené Mesto) a **Apes** disponujú futuristickými maglevmi — technologicky ďaleko pred čímkoľvek na Terre. Pre Varietas by to vyzeralo ako Spira.
+7. **Maglevové vlaky (Simira):** Doména **Ishtar/Zaya** (Sklené Mesto) a **Apes** disponujú futuristickými maglevmi — technologicky ďaleko pred čímkoľvek na Terre. Pre Varietas by to vyzeralo ako Spira.
 
 ---
 

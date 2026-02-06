@@ -47,7 +47,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 **Dcéra Inetis:**
 - Zdedila matkin genius, ale nie jej trpezlivosť
-- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Aprike
+- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire
 - Kreativita hraničiaca so šialenstvom
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
 

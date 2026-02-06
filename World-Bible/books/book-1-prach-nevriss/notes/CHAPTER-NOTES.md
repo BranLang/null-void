@@ -197,7 +197,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - Kito si myslí, že je to kliatba; Tami rozpozná tón (rozlúčka) bez porozumenia slov
 
 ### Kito Knowledge Limits:
-- **Nevie** že južný kontinent sa volá Aprika
+- **Nevie** že južný kontinent sa volá Simira
 - **Nevie** že Apes sa volajú Apes
 - **Vie** len legendy z námorníckych denníkov: „obri z juhu" v nepriestrelnom brnení
 - Keď Sera povie „hlúpe opice" — Kito si mentálne zapíše: *Volá ich opice. Píšem si.*
@@ -654,7 +654,7 @@ Maks nedýchal.
   - Fixed: "zovretejšie" grammar error
   - Added: Kito reactions (Haiku gate fascination, Paladín examination)
   - Added: Maks arrival detail (krv, prázdny zásobník)
-- Kito knowledge fix: "Apes. Z Apriky." → "Obri z juhu" (nepozná terminológiu)
+- Kito knowledge fix: "Apes. Z Simiry." → "Obri z juhu" (nepozná terminológiu)
 - Added: Kito mental note ("Volá ich opice. Píšem si.")
 - Expanded: Kito Paladín examination (brnenie, vibro-sekera, Hard Light, gorilí skull)
 - **NEW Časť VIII: Odpočítavanie** — Kira self-destruct, Kira-Rau farewell, 30s countdown, útek z tunelov, kolaps Chrámu Matky, panika v meste

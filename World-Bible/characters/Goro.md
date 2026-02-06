@@ -7,7 +7,7 @@
 | **Druh** | Apes (Gorila) |
 | **Vek** | ~45 rokov (mladý na vodcu) |
 | **Výška** | ~220cm (masívny aj na gorilu) |
-| **Lokácia** | Apex (hlavné mesto Apes), Aprika (južný kontinent) |
+| **Lokácia** | Apex (hlavné mesto Apes), Simira (južný kontinent) |
 | **Rola** | Vodca Apes civilizácie, vedec-bojovník |
 
 ---
@@ -38,7 +38,7 @@
 
 ### Pôvod Apes
 - **ARK-11 kolonisti:** Apes sú potomkovia geneticky modifikovaných primátov z ARK-11 (šimpanzy, gorily, orangutany)
-- **Oddelili sa od ľudí** po pristátí (AY 0) — odišli na južný kontinent (Aprika)
+- **Oddelili sa od ľudí** po pristátí (AY 0) — odišli na južný kontinent (Simira)
 - **3000 rokov izolácie:** Budovali vlastnú civilizáciu bez kontaktu s Terrou
 - **Tri druhy:** Šimpanzy (väčšina populácie), gorily (vojaci, vedci), orangutany (inžinieri, filozofi)
 

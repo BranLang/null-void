@@ -116,11 +116,11 @@ Rozhodujúca bitka v **Atranskej Úžine (The Atra Narrows)** pod pohorím Hangr
 *   **Slzy v blate:** Kľakla si do krvavého blata k umierajúcim a plakala. Jej plač bol taký zúfalý, že zastavil rinčanie zbraní. Hanba z toho, že rozplakali Matku, zlomila morálku oboch strán.
 *   **Rozpad Triumvirátu:**
     *   **Grond** (zradený a rozzúrený) sa stiahol na Sever za hory.
-    *   **Zaiya** (v hanbe) ušla na Apriku.
+    *   **Zaiya** (v hanbe) ušla na Simiru.
     *   **Samaell** sa stal tulákom.
 *   **Dôsledok:** Na mieste, kde Matka plakala, bolo založené mesto **Shoraven** (Mesto Zmierenia/Zmluvy). Je to posvätná pôda. Najstaršie sochy tu zobrazujú Inetis ako *človeka* (bez uší), kľačiacu v blate — obraz, ktorý Cirkev neskôr "upravila" (pridali jej mačacie uši a zmenili slzy na pentagramy moci).
 
-### Terra vs. Aprika (Juh)
+### Terra vs. Simira (Juh)
 *   **Postoj:** Strach a Poverčivosť.
-*   **Dôvod:** Aprika je "Biely bod na mape". Varietas nevedia vobec nic. Iba legendy a krcmove kecy.
+*   **Dôvod:** Simira je "Biely bod na mape". Varietas nevedia vobec nic. Iba legendy a krcmove kecy.
 *   **Realita:** Netušia o civilizácii Apes. Ak Apes niekedy zaútočia (Paladíni), Terra bude v šoku.

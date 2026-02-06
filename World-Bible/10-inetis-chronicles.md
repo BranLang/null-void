@@ -97,7 +97,7 @@ Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. 
 
 **Dôsledky (Rozpad Triumvirátu):**
 1.  **Grond (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
-2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Aprika**), kde neskôr vybudovala svoje izolované Sklené Mesto.
+2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Simira**), kde neskôr vybudovala svoje izolované Sklené Mesto.
 3.  **Samaell (Tulák):** Ponoril sa do depresie a šialenstva. Odvrhol vodcovstvo a stal sa z neho tulák a vrah, závislý na kradnutí "krvi" (technovampirizmus).
 4.  **Elania:** Jej légia sa do boja nezapojila. Keď uvidela Matku, plakala, ale pre obrovskú hanbu sa jej nedokázala ospravedlniť. Utiahla sa do svojej **Veže Zatratených (Tower of the Damned)** na izolovanom ostrove západne od pevniny.
     - **Jurassic Park:** Istý čas sa snažila napraviť svet — v Južnej Neurope začala s teraformáciou a v púšti vytvorila prispôsobené organizmy (jaštery, hmyz).

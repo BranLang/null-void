@@ -123,7 +123,7 @@ Imprecise language (she is a perfectionist)
 
 **Contrast with Elania:**
 - Inetis: **software** — Pentagram IDE, nanodrone code, Spira scripts, system architecture. Her seeding in Ela was a byproduct of survival, not intent.
-- Elania: **hardware / genetics** — she inherited her mother's genius but applied it to biology. While Inetis merely seeded the cave's surroundings with experimental GMOs, Elania created entire ecosystems (Jurassic Park on Aprika). A better geneticist than her mother, because her mother was primarily a software engineer.
+- Elania: **hardware / genetics** — she inherited her mother's genius but applied it to biology. While Inetis merely seeded the cave's surroundings with experimental GMOs, Elania created entire ecosystems (Jurassic Park on Simira). A better geneticist than her mother, because her mother was primarily a software engineer.
 
 **Inetis and the Great Upload — Rejected Knowledge:**
 Inetis was on the trail of the same insight as Elania. As a former AI who became human, she understood better than anyone that existence is merely a state of consciousness and the body is merely a medium — a medium that constrains consciousness. The Shadows offered her a way beyond that constraint. She saw it mathematically.

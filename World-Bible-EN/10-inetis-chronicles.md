@@ -97,7 +97,7 @@ The Ex Inferis ignored her, convinced they could break through the narrows by br
 
 **Consequences (The Triumvirate Shatters):**
 1.  **Grond (North):** Retreated beyond the Hangravall mountains. Betrayed and enraged, he began building a new army (Graw), swearing vengeance.
-2.  **Zaiya/Ishtar (South):** Lost everything (her legion). In shame, she withdrew to the Southern continent (**Aprika**), where she later built her isolated Glass City.
+2.  **Zaiya/Ishtar (South):** Lost everything (her legion). In shame, she withdrew to the Southern continent (**Simira**), where she later built her isolated Glass City.
 3.  **Samaell (The Wanderer):** Sank into depression and madness. He cast off leadership and became a wanderer and killer, addicted to stealing "blood" (techno-vampirism).
 4.  **Elania:** Her legion never entered the battle. When she saw the Mother, she wept, but her shame was too great to face her. She withdrew to her **Tower of the Damned** on an isolated island west of the mainland.
     - **Jurassic Park:** For a time, she tried to make amends — in southern Neuropa she began terraforming and created adapted organisms in the desert (lizards, insects).

@@ -35,7 +35,7 @@ They are not mere artifact collectors. They have a functioning industry, but a "
 
 ### 3. Population and Hierarchy (Resource Efficiency)
 - **Varietas (Terra)**: Most numerous (~200 Million). Breed quickly, die young.
-- **Apes (Aprika)**: Medium population (~50 Million). Maintain a perfect ratio between population and resources. No slums, no hunger.
+- **Apes (Simira)**: Medium population (~50 Million). Maintain a perfect ratio between population and resources. No slums, no hunger.
 - **Humans (Neuropa)**: Elite minority (~5 Million). Population is strictly controlled (1 child per couple) to preserve the "Solarpunk" utopia without exhausting resources.
 
 ### 4. History: Sera, the Angel of Death

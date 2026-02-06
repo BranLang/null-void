@@ -53,7 +53,7 @@ Kito je prvý Varietas, ktorý pochopí, kým Maks naozaj je.
 - **Cestujúci člen tímu**: Kito je encyklopédia tohto sveta. Kdekoľvek tím príde, Kito poskytne historický kontext, preloží nápisy, vysvetlí tradície a odhalí skryté spojenia medzi lore a realitou. Je to „walking lore dump" — ale spôsobom, ktorý je organický, pretože je to archeológ v teréne.
 - **Lore-bearer**: Cez Kita sa čitateľ dozvedá o svete — o Doktrínach Štyroch Príchodov, o zakázaných textoch, o skutočnej histórii Kultu Matky, o Ynetis. Kito je most medzi Maxovým vedeckým pohľadom a náboženským svetom Varietas.
 - **Morálne svedomie**: Na rozdiel od Maksa (cynický vojak) a Tami (pragmatická pirátka), Kito sa stará o dôsledky. Kladie otázky, ktoré ostatní dvaja nechcú počuť: „Čo ak má proroctvo pravdu? Čo ak sme tí, čo otvoria dvere apokalypse?"
-- **Expert na Paladínov**: Jediný, kto vie o Apes Paladínoch z čítania starých námorníckych denníkov a zakázaných textov z Apriky. Vie, že ich štíty nie sú Spira, ale stará technológia (Hard Light), ktorá sa nedá hacknúť, ale dá sa preťažiť hrubou silou.
+- **Expert na Paladínov**: Jediný, kto vie o Apes Paladínoch z čítania starých námorníckych denníkov a zakázaných textov zo Simiry. Vie, že ich štíty nie sú Spira, ale stará technológia (Hard Light), ktorá sa nedá hacknúť, ale dá sa preťažiť hrubou silou.
 
 ### Vybavenie
 

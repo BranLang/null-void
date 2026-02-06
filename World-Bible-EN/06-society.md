@@ -13,7 +13,7 @@
 **Status:** They are rare, but maintain powerful enclaves.
 - **Neuropa**: Home of the "Old People" who remember Earth. Isolationists.
 - **Graw (North)**: A militant human caste under Grond's rule.
-- **Aprika (Glass City)**: A decadent court surrounding Ishtar.
+- **Simira (Glass City)**: A decadent court surrounding Ishtar.
 Most live in isolation as Archangels within their domains. Those who live among Varietas are seen as an untouchable elite, but are secretly despised for their immortality.
 - **Apex** — a realm of Apes where the Emperor rules, surrounded by paladins.
 
@@ -51,7 +51,7 @@ The ruling caste of immortal Homo Sapiens Sapiens. Founded by the four original 
 - **Rulers**:
     - **Samaell:** Shadow, secrecy, ancient technologies. **Dead** (killed by Maks in AY 3001).
     - **Grond:** War, industry, brute force. **Dead** (~AY 1200, Glitch Rot) — replaced by a dynasty of impostors in his Power Armor.
-    - **Zaya (Ishtar):** Pleasure, drugs, propaganda/illusions. Lives on Aprika in the Glass City.
+    - **Zaya (Ishtar):** Pleasure, drugs, propaganda/illusions. Lives on Simira in the Glass City.
     - **Elania:** The original leader, who acknowledged their supremacy in exchange for her people's survival. Serves as the "Gatekeeper." Lives on Neuropa.
 
 ### 2. "The Scattered" (Humans Among Varietas)
@@ -270,7 +270,7 @@ Guilds are self-governing organizations of artisans, merchants, and professional
 4. **River Steamers:** Cargo transport along rivers — relatively safe (rivers do not have tsunamis).
 5. **Genetically Modified Animals:** Dogs (replacing horses) and cats. All are intelligent and capable of speech.
 6. **Trains (Terra):** Steam and diesel trains exist on Terra — primitive but functional. Rails suffer from earthquakes — maintenance is constant. Mainly on routes between major cities (Nevriss, Beladiss, Nyau).
-7. **Maglev Trains (Aprika):** The domain of **Ishtar/Zaya** (Glass City) and **Apes** possesses futuristic maglevs — technologically far beyond anything on Terra. To Varietas, they would look like Spira.
+7. **Maglev Trains (Simira):** The domain of **Ishtar/Zaya** (Glass City) and **Apes** possesses futuristic maglevs — technologically far beyond anything on Terra. To Varietas, they would look like Spira.
 
 ---
 

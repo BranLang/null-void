@@ -61,7 +61,7 @@
 
 ![Tami vs Paladins - Ochrana Antény](../assets/characters/Tami/dungeon_battle.jpeg)
 
-*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Maks ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Maks pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Apriku, k Cézarovi.*
+*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Maks ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Maks pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Simiru, k Cézarovi.*
 
 ### Vzťah s Maksom
 - **Pre Tami**: Maks bol mentor, ale aj niečo viac — zamilovala sa
