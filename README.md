@@ -67,7 +67,7 @@ Nobody knows this. Except one man who just woke up.
 
 <div align="center">
 
-![Tami over Shoraven](World-Bible/assets/characters/Tami/tami_shoraven.jpeg)
+![Tami over Shoraven](/World-Bible/assets/characters/Tami/tami-soraven.jpeg)
 
 </div>
 
