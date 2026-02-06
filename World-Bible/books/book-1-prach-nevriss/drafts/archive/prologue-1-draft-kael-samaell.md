@@ -59,7 +59,7 @@ Nebolo to vedomé rozhodnutie. Bytosť, ktorá ich vyslala, ležala o päťdesia
 Kael zomrel ticho. Sneh ho zakryl do rána.
 
 
-SCÉNA 1: NÁKLAD (Z pohľadu Maxa s amnéziou)
+SCÉNA 1: NÁKLAD (Z pohľadu Maksa s amnéziou)
 Bolesť. To bolo prvé, čo existovalo.
 
 Nebola to len bolesť na jednom mieste. Bola to celotelová symfónia agónie, akoby každá bunka v jeho tele bola práve rozmrazená a znovu zmrazená. A potom bola tma. Hustá, lepkavá tma, ktorá mu tlačila na oči, aj keď ich mal otvorené.
@@ -141,8 +141,8 @@ Samaell vytrhol ruku z panelu.
 
 Zvrátil hlavu a zareval. Nebol to ľudský krik. Bol to zvuk frustrácie bytosti, ktorá čakala 2700 rokov na odpovede a práve jej ich ukradla banda tupých pirátov.
 
-"Maximilián," vydýchol to meno do mrazivého vzduchu.
+"Maksimilián," vydýchol to meno do mrazivého vzduchu.
 
 Nebol mŕtvy. Najväčší generál Zeme, Hrdina od Marsu, muž, ktorý mal zomrieť s domovskou planétou, bol nažive. A bol slepý a v rukách nejakých podradných Varietas.
 
-Samaell sa otočil a vybehol z jaskyne do búrky. Musí nájsť tú loď. Musí nájsť tých pirátov. A musí nájsť Maxa skôr, než si spomenie, kým vlastne je.
+Samaell sa otočil a vybehol z jaskyne do búrky. Musí nájsť tú loď. Musí nájsť tých pirátov. A musí nájsť Maksa skôr, než si spomenie, kým vlastne je.

@@ -55,8 +55,8 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.exodus.launch`
 - Name: EXODUS Launch (Escape from Earth)
 - Time: Immediately before AY 0
-- Summary: Experimental ship escapes Earth toward planet Achilles; Inetis and Maximilian aboard.
-- Participants: `char.inetis`, `char.maximilian`, `char.koordinator`
+- Summary: Experimental ship escapes Earth toward planet Achilles; Inetis and Maksimilian aboard.
+- Participants: `char.inetis`, `char.maksimilian`, `char.koordinator`
 - Locations: `place.earth`, `place.ship_ark_exodus`
 - Tags: `exodus`, `colonization`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -65,8 +65,8 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.exodus.silent_goodbye`
 - Name: Silent Goodbye (Turning Point)
 - Time: Immediately before AY 0
-- Summary: Inetis discovers her pregnancy. Cryosleep would kill the fetus, so she deceived Max and let him sleep in ignorance. She attempted genetic modification of the fetus for cryostasis, but the experiment failed.
-- Participants: `char.inetis`, `char.maximilian`, `char.elenia`
+- Summary: Inetis discovers her pregnancy. Cryosleep would kill the fetus, so she deceived Maks and let him sleep in ignorance. She attempted genetic modification of the fetus for cryostasis, but the experiment failed.
+- Participants: `char.inetis`, `char.maksimilian`, `char.elenia`
 - Locations: `place.ship_ark_exodus`
 - Tags: `family`, `tragedy`, `trigger`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -77,16 +77,16 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Landing on Achilles
 - Time: AY 0
 - Summary: Ship lands on planet Achilles; colonization begins.
-- Participants: `char.inetis`, `char.maximilian`
+- Participants: `char.inetis`, `char.maksimilian`
 - Locations: `place.achilles`
 - Tags: `colonization`
 - Source: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.achilles.max_cryo`
-- Name: Placing Max in Cryosleep
+- Name: Placing Maks in Cryosleep
 - Time: AY 0
-- Summary: Inetis deceives Max with a lie about insufficient supplies and places him in cryo. Max was just a passenger — he didn't know about the nanodrone ship NULL VOID's capabilities. True reason: Inetis wanted to keep him aside while she figured out what to do next (fear of his military ambitions). She never resolved it — the planned ~300-year sleep stretched to ~3,000.
-- Participants: `char.inetis`, `char.maximilian`
+- Summary: Inetis deceives Maks with a lie about insufficient supplies and places him in cryo. Maks was just a passenger — he didn't know about the nanodrone ship NULL VOID's capabilities. True reason: Inetis wanted to keep him aside while she figured out what to do next (fear of his military ambitions). She never resolved it — the planned ~300-year sleep stretched to ~3,000.
+- Participants: `char.inetis`, `char.maksimilian`
 - Locations: `place.ship_ark_exodus`, `place.cave_null_void`
 - Tags: `cryo`, `secret`, `family`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -104,7 +104,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Birth of Elania
 - Time: Before AY 0
 - Summary: Elania is born in the Null-Void cave after a failed genetic experiment. Due to the modification, she grows extremely slowly.
-- Participants: `char.elenia`, `char.inetis`, `char.maximilian`
+- Participants: `char.elenia`, `char.inetis`, `char.maksimilian`
 - Locations: `place.cave_null_void`
 - Tags: `family`, `legacy`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -185,7 +185,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.achilles.inetis_death_cave`
 - Name: Death of Inetis in Solitude
 - Time: AY ~700
-- Summary: Inetis hides in the Null-Void cave. She dies in agony beside Max's cryo-box (the only one in the cave), her hand resting on his sleeping prison. All that remains in the cave is the cryo-box and the glitched Antenna — everything else from the ship was long since reconfigured. She leaves behind a journal.
+- Summary: Inetis hides in the Null-Void cave. She dies in agony beside Maks's cryo-box (the only one in the cave), her hand resting on his sleeping prison. All that remains in the cave is the cryo-box and the glitched Antenna — everything else from the ship was long since reconfigured. She leaves behind a journal.
 - Participants: `char.inetis`
 - Locations: `place.cave_null_void`
 - Tags: `tragedy`, `sacrifice`
@@ -213,10 +213,10 @@ This file is the canonical event register. The chronological timeline is in `01-
 ## Pentalogy Plot (Story Events)
 
 ### `evt.story.max_awakens`
-- Name: Max's Awakening
+- Name: Maks's Awakening
 - Time: AY ~3000+
-- Summary: Max awakens from cryosleep; the ship is destroyed, Inetis's module empty.
-- Participants: `char.maximilian`
+- Summary: Maks awakens from cryosleep; the ship is destroyed, Inetis's module empty.
+- Participants: `char.maksimilian`
 - Locations: `place.ship_ark_exodus`, `place.achilles`
 - Tags: `inciting_incident`, `mystery`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -224,8 +224,8 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.story.meets_tami`
 - Name: Meeting Tami
 - Time: AY ~3000+
-- Summary: Tami (airship captain) becomes Max's guide in the post-apocalyptic world.
-- Participants: `char.maximilian`, `char.tami`
+- Summary: Tami (airship captain) becomes Maks's guide in the post-apocalyptic world.
+- Participants: `char.maksimilian`, `char.tami`
 - Locations: `place.mainland`
 - Tags: `alliance`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -234,8 +234,8 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.story.inetis_body_found`
 - Name: Discovery of Inetis's Body
 - Time: AY ~3000+
-- Summary: Max finds Inetis's skeleton and journals; discovers she let him sleep deliberately.
-- Participants: `char.maximilian`, `char.inetis`
+- Summary: Maks finds Inetis's skeleton and journals; discovers she let him sleep deliberately.
+- Participants: `char.maksimilian`, `char.inetis`
 - Locations: `place.cave_inetis`
 - Tags: `twist`, `tragedy`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -244,7 +244,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Transfer of "Hungry" Nanodrones to Tami
 - Time: After `evt.story.inetis_body_found`
 - Summary: Nanodrones from Inetis's remains pass to Tami; she gains abilities and memories.
-- Participants: `char.tami`, `char.inetis`, `char.maximilian`
+- Participants: `char.tami`, `char.inetis`, `char.maksimilian`
 - Locations: `place.cave_inetis`
 - Tags: `transformation`, `Spira`
 - Source: `world-bible.md`, `null-void-saga.md`
@@ -253,7 +253,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Confrontation with Samaell
 - Time: Book 1 (working)
 - Summary: Battle with Samaell in the ruins; before death, he hints at Elania's existence.
-- Participants: `char.maximilian`, `char.samaell`
+- Participants: `char.maksimilian`, `char.samaell`
 - Locations: `place.labs_ruins`
 - Tags: `boss_fight`, `revelation`
 - Source: `world-bible.md`
@@ -262,7 +262,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Northern Campaign (Grond)
 - Time: Book 2 (working)
 - Summary: Journey north and conflict with Grond; war and responsibility as theme.
-- Participants: `char.maximilian`, `char.tami`, `char.grom`
+- Participants: `char.maksimilian`, `char.tami`, `char.grom`
 - Locations: `place.north`
 - Tags: `war`
 - Source: `world-bible.md`
@@ -270,8 +270,8 @@ This file is the canonical event register. The chronological timeline is in `01-
 ### `evt.story.ishtar_campaign`
 - Name: Southern Campaign (Ishtar)
 - Time: Book 3 (working)
-- Summary: Ishtar tortures Max with illusions; revelation that the 4th Archangel is Elania.
-- Participants: `char.maximilian`, `char.tami`, `char.ishtar`, `char.elenia`
+- Summary: Ishtar tortures Maks with illusions; revelation that the 4th Archangel is Elania.
+- Participants: `char.maksimilian`, `char.tami`, `char.ishtar`, `char.elenia`
 - Locations: `place.south`
 - Tags: `psychological_warfare`, `revelation`
 - Source: `world-bible.md`
@@ -280,7 +280,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Open War with Elania
 - Time: Book 4 (working)
 - Summary: Elania activates a Wraith army; Father vs. Daughter conflict.
-- Participants: `char.maximilian`, `char.tami`, `char.elenia`, `fac.wraiths`
+- Participants: `char.maksimilian`, `char.tami`, `char.elenia`, `fac.wraiths`
 - Locations: `place.achilles`
 - Tags: `war`, `family`
 - Source: `world-bible.md`
@@ -304,10 +304,10 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Source: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.story.max_upload`
-- Name: Max's Upload (Sacrifice)
+- Name: Maks's Upload (Sacrifice)
 - Time: Book 5 (working)
-- Summary: Final battle in "Cyberspace"; Max uploads his consciousness and rewrites the AI's code.
-- Participants: `char.maximilian`, `char.tami`, `char.elenia`, `char.the_void`
+- Summary: Final battle in "Cyberspace"; Maks uploads his consciousness and rewrites the AI's code.
+- Participants: `char.maksimilian`, `char.tami`, `char.elenia`, `char.the_void`
 - Locations: `place.core`, `concept.cyberspace`
 - Tags: `sacrifice`, `finale`
 - Source: `world-bible.md`
@@ -316,7 +316,7 @@ This file is the canonical event register. The chronological timeline is in `01-
 - Name: Reconciliation and New Beginning
 - Time: After Book 5
 - Summary: Technology and nature intertwine; Tami leads the new society; Elania survives (redemption or mortality).
-- Participants: `char.tami`, `char.elenia`, `char.maximilian`
+- Participants: `char.tami`, `char.elenia`, `char.maksimilian`
 - Locations: `place.achilles`
 - Tags: `epilogue`
 - Source: `world-bible.md`

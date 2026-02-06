@@ -6,19 +6,19 @@ Tento dokument popisuje kľúčový moment, keď Sera odomkne Anténu a prenesie
 
 ## Scéna: Sera a Anténa ("Gollum Moment")
 
-**Kontext:** Po boji s Paladínmi. Sera, Max a Tami stoja v komore, kde leží Anténa.
+**Kontext:** Po boji s Paladínmi. Sera, Maks a Tami stoja v komore, kde leží Anténa.
 
 ---
 
 ### Sera vzala Anténu
 
-Sera prešla okolo Maxa. Jej kroky boli tiché, plynulé. Prišla k podstavcu kde ležala Anténa.
+Sera prešla okolo Maksa. Jej kroky boli tiché, plynulé. Prišla k podstavcu kde ležala Anténa.
 
 A zdvihla ju.
 
 Kovová palica. Jeden a pol metra. Studená a ťažká.
 
-A potom sa stalo niečo, čo Max a Tami nečakali.
+A potom sa stalo niečo, čo Maks a Tami nečakali.
 
 **Sera zastala.**
 
@@ -26,15 +26,15 @@ Hladela na Anténu. Oči — tie čierne, prázdne, tisícročné oči — sa ro
 
 Držala ju v rukách ako relikviu. Ako dieťa objíma hračku, na ktorú celý život čakalo. Prsty sa jej jemne chveli — prvýkrát za celý večer.
 
-Max a Tami sa na seba pozreli.
+Maks a Tami sa na seba pozreli.
 
 *Čo to robí?*
 
-Vzduch stuhol. Napätie bolo takmer hmatateľné. Práve porazili dvoch brutálnych bossov — Paladínov z južných morí, najnebezpečnejšie stvorenia, aké kedy videli. A teraz táto neznáma žena drží ich artefakt. Jedinú stopu k Inetis. Jedinú vec, pre ktorú Max prišiel.
+Vzduch stuhol. Napätie bolo takmer hmatateľné. Práve porazili dvoch brutálnych bossov — Paladínov z južných morí, najnebezpečnejšie stvorenia, aké kedy videli. A teraz táto neznáma žena drží ich artefakt. Jedinú stopu k Inetis. Jedinú vec, pre ktorú Maks prišiel.
 
 Tami zovretejšie ruky na Nadeli. *Ak zmizne s tým...*
 
-Max stuhol. Jeho nanodrony sa automaticky prebudili, pripravené na boj.
+Maks stuhol. Jeho nanodrony sa automaticky prebudili, pripravené na boj.
 
 **Sera to cítila.**
 
@@ -50,13 +50,13 @@ A potom — po pätnástich sekundách, ktoré trvali večnosť — sa otočila.
 
 Sera podala Anténu Tami.
 
-Nie Maxovi. **Tami.**
+Nie Maksovi. **Tami.**
 
 A pri tom urobila **kawaii úsmev**. Ten falošný, ten príliš sladký. Ten, čo posielal zimomriavky po chrbte.
 
 > *"Pre teba, líška~"*
 
-Tami nevedela, čo robiť. Pozrela na Maxa. Max mal tvrdý výraz — ale neprotestoval.
+Tami nevedela, čo robiť. Pozrela na Maksa. Maks mal tvrdý výraz — ale neprotestoval.
 
 Tami vzala Anténu.
 

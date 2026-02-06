@@ -22,5 +22,5 @@
 
 ### Pád Zeme (EY ~2300)
 - Architekt pozemskej „utópie" i jej pádu
-- Pri mimozemskej invázii poslal i_net_is (teraz Inetis) a Maxa na únik
+- Pri mimozemskej invázii poslal i_net_is (teraz Inetis) a Maksa na únik
 - Zomrel pri obrane Zeme

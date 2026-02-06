@@ -103,7 +103,7 @@ Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven 
 
 **Súkromná tvár (Archanjel):**
 - Chladná, chirurgická presnosť
-- Pragmatická ako Max, ale bez emócií
+- Pragmatická ako Maks, ale bez emócií
 - *"Dvadsaťtri tiel. Dvadsaťtri rodín. Nikto sa nepýta."*
 
 **SPRÁVNE:**
@@ -126,5 +126,5 @@ Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven 
 
 ### Rola v príbehu
 
-- **Kniha 1 (Zem)**: Požehnaná Matka je prítomná v pozadí — jej kňazi strážia Anténu v Shoravene, jej slovo riadi politiku Nevriss. Max a Tami o nej počujú, ale nestretávajú ju priamo.
-- **Odhalenie**: Jej pravá identita ako 4. Archanjel bude odhalená neskôr v príbehu — keď Max pochopí, že nepriateľ nesedí len na severe a východe, ale aj v srdci spojeneckého mesta.
+- **Kniha 1 (Zem)**: Požehnaná Matka je prítomná v pozadí — jej kňazi strážia Anténu v Shoravene, jej slovo riadi politiku Nevriss. Maks a Tami o nej počujú, ale nestretávajú ju priamo.
+- **Odhalenie**: Jej pravá identita ako 4. Archanjel bude odhalená neskôr v príbehu — keď Maks pochopí, že nepriateľ nesedí len na severe a východe, ale aj v srdci spojeneckého mesta.

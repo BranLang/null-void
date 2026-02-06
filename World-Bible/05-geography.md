@@ -330,7 +330,7 @@ Nevriss City je hlavné mesto a srdce celého Nevriss. Leží na južnom pobrež
 - **Poloha**: Mesto na vysokých útesoch nad južným morom. K lodiam a prístavu sa zostupuje cez **masívny výťahový systém a tunely vytesané v skale** — impozantná inžinierska stavba, ktorá spája horné mesto s dokami pri hladine mora. Strategicky bezpečná pozícia — útočník by musel najprv prekonať Shoraven a celý sever Nevriss, alebo pristáť pod útesmi.
 - **Prístav**: Pod útesmi sa nachádza prístavný komplex — doky, sklady, lodenice. Prístup len cez výťahy a tunely v skale. Južné pobrežie nikdy nezamŕza, takže prístav je funkčný celoročne.
 - **Veľký Maják**: Obrovský maják na okraji útesov — **symbol Nevriss City po tisíce rokov**. Pôvodne slúžil ako **komunikačná anténa**, vytlačený **3D tlačou** z nanodronov ešte v časoch Zlatého veku. Dnes ho Varietas vnímajú len ako majestátny maják a symbol mesta. Jeho skutočný pôvod (3D tlač, komunikačná technológia) je zabudnutý — pre obyvateľov je to pradávna stavba, stará ako samotné mesto.
-  - **Rola v príbehu (Triangulácia)**: Max tu aktivuje Anténu a využije Maják ako **prvý bod trigonometrickej triangulácie** na nájdenie strateného mesta Ynetis. Na výpočet presnej polohy potrebuje tri vysoké body pri mori — Veľký Maják v Nevriss, **Sklenú Vežu** u Zayi a **Vežu Zatratených** Elenie.
+  - **Rola v príbehu (Triangulácia)**: Maks tu aktivuje Anténu a využije Maják ako **prvý bod trigonometrickej triangulácie** na nájdenie strateného mesta Ynetis. Na výpočet presnej polohy potrebuje tri vysoké body pri mori — Veľký Maják v Nevriss, **Sklenú Vežu** u Zayi a **Vežu Zatratených** Elenie.
 - **Chrám**: Hlavný Chrám Vševedúcej Matky — najväčší a najokázalejší na celom kontinente. Sídlo Rady Veľkňažiek. Zlaté kupoly viditeľné z mora aj z vnútrozemia.
 - **Gildové sídla**: Všetky hlavné gildy (Kováčov, Kupcov, Aeronautov, Hodinárov...) majú centrálne haly v Nevriss City. Tu sa prijímajú zákony, uzatvárajú zmluvy a rozhoduje o ekonomike krajiny.
 - **Obranná pozícia**: Útesy sú prirodzená pevnosť z juhu — more a skaly sú neprekonateľné. Zo severu mesto chránia hradby a vzdialenosť od frontu. Mesto sa spolieha na to, že Shoraven a severné pevnosti zadržia nepriateľa.
@@ -492,7 +492,7 @@ Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani pro
 - Sklené Mesto leží **pri pobreží Apriky** — nie na ňom, ale v jeho tesnej blízkosti. Na mape viditeľné ako výrazná ružovo-fialová štruktúra — architektonicky úplne odlišná od čohokoľvek iného na planéte.
 - **Tichá dohoda s Apes**: Ishtar a Apes majú neformálnu dohodu o vzájomnom neútočení. Apes tolerujú jej prítomnosť na svojom pobreží výmenou za pokoj. Nikto na severe o tejto dohode nevie.
 - Má vlastnú, uzavretú civilizáciu
-- **Rola v príbehu (Triangulácia)**: Sklená Veža je **druhý bod** Maxovej trigonometrickej triangulácie na nájdenie Ynetis. Max musí získať prístup k najvyššiemu bodu Skleného Mesta — čo znamená konfrontáciu s Ishtar/Zayou (Kniha 3).
+- **Rola v príbehu (Triangulácia)**: Sklená Veža je **druhý bod** Maksovej trigonometrickej triangulácie na nájdenie Ynetis. Maks musí získať prístup k najvyššiemu bodu Skleného Mesta — čo znamená konfrontáciu s Ishtar/Zayou (Kniha 3).
 
 ### Neuropa — Západný Kontinent (Doména Elenie)
 
@@ -511,7 +511,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Obyvatelia**: Ľudia, ktorí prežili Glitch Rot — pretože **obmedzili používanie nanotechnológie na minimum**. Používajú nanotech len na predlžovanie životov. Nič viac.
 - **Mentalita**: Spomínajú na minulosť a neplánujú budúcnosť. Stagnujúca civilizácia — technologicky schopná, ale bez vôle niečo meniť. Žijú v tieni toho, čo bolo.
 - **Tajomstvo**: Elania nevie o osude ostatných Archanjelov.
-- **Rola v príbehu (Triangulácia)**: Veža Zatratených je **tretí a posledný bod** Maxovej trigonometrickej triangulácie. Po získaní meraní z Veľkého Majáku (Nevriss) a Sklenej Veže (Zaya) tu Max dokončí výpočet presnej polohy Ynetis — strateného mesta za morom (Kniha 4).
+- **Rola v príbehu (Triangulácia)**: Veža Zatratených je **tretí a posledný bod** Maksovej trigonometrickej triangulácie. Po získaní meraní z Veľkého Majáku (Nevriss) a Sklenej Veže (Zaya) tu Maks dokončí výpočet presnej polohy Ynetis — strateného mesta za morom (Kniha 4).
 
 #### Ludus — Mesto Ľudí
 
@@ -591,7 +591,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 
 - Ďaleko od civilizácie
 - Blízko hranice medzi Severom a Juhom
-- Max sa tu prebudil (slepý, amnézia)
+- Maks sa tu prebudil (slepý, amnézia)
 - **Prečo je tu oáza?** Inetis počas ~3 rokov v Jaskyni Ela geneticky upravovala rastliny a faunu — experimenty optimalizované pre podmienky Achilles. Po jej odchode sa tieto GMO organizmy rozšírili po okolitej krajine ako oheň. Po ~1000 rokoch sa celý región premenil na zelenú oázu uprostred nehostinnej divočiny. Krajina **Nyau** leží južne od jaskyne a je priamym dedičstvom Inetis — aj keď to nikto nevie. Kto nájde jaskyňu, nájde odpoveď na otázku, prečo tu všetko rastie.
 - **Mesto Kito (Stratené)**: Legendárne mesto na východe, dnes ukryté v hustom, "novom" lese.
     - **Pôvod**: Tu pristála loď expedície *Hephaestus* (Tretí Príchod / Maki, **AY 2212**).
@@ -613,7 +613,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 
 - **Zem**: Domovská planéta ľudstva; pod vládou Koordinátora.
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
-- **Jaskyňa Inetis / Jaskyňa Ela**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maxov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~3 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maxovom kryoboxe. Po Maxovom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
+- **Jaskyňa Inetis / Jaskyňa Ela**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maksov kryobox (minimálna konfigurácia) a glitchnutá Anténa. Po ~3 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maksom kryoboxe. Po Maksom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
 - **Shoraven**: Strategické hraničné mesto na severe Nevriss; severný prístav na hranici s Graw (nezamŕza vďaka termálnym prúdom); Hlavný Chrám (pobočka) s Anténa v kobkách; 3. rok Dlhej Zimy; prvá línia obrany proti grawskej invázii.
 - **Nevriss City**: Hlavné mesto Nevriss; prístavné mesto na vysokých útesoch nad južným morom. Prežilo Veľkú Potopu (~AY 1500) — tsunami sa rozbíjali o útesy, ale flotila bola zničená. K prístavu pod útesmi vedie masívny výťahový systém a tunely v skale. Dominanta: **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta po tisíce rokov). Sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza. **Tajomstvo**: Požehnaná Matka je v skutočnosti **Mormiel** — 4. Archanjel z ARK-13. Každých ~100 rokov vykoná Rituál Nástupníctva (pohltí mladú kandidátku a preberie jej podobu). Za ~2300 rokov prešla cez ~23 identít. Nočná lovkyňa („Nočný Tieň").
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.

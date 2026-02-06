@@ -52,8 +52,8 @@ Každá postava musí konať podľa:
  
 **PRÍKLAD SPRÁVNEHO PRÍSTUPU**:
 ```
-❌ ZLE: "Max zabil Varietas, lebo bol naštvaný"
-✅ DOBRE: "Max zabil Varietas v afekte - jeho vojenský tréning
+❌ ZLE: "Maks zabil Varietas, lebo bol naštvaný"
+✅ DOBRE: "Maks zabil Varietas v afekte - jeho vojenský tréning
    prevzal kontrolu keď uvidel 'zvieracie' črty. Okamžite toho
    ľutoval, čo odhaľuje vnútorný konflikt medzi ingrained
    xenofóbiou a novonájdenými hodnotami."
@@ -92,8 +92,8 @@ Každá postava musí konať podľa:
  
 **ZAKÁZANÉ**:
 ```
-❌ "Tami bola smutná kvôli Maxovi."
-❌ "Max bol silný bojovník."
+❌ "Tami bola smutná kvôli Maksovi."
+❌ "Maks bol silný bojovník."
 ❌ "Anténa bola mocná zbraň."
 ```
  
@@ -102,11 +102,11 @@ Každá postava musí konať podľa:
 ✅ "Tami stisla päste, pazúry sa jej zaryli do dlaní.
    Nechcela, aby videl, ako sa jej chveje chvost."
  
-✅ "Max sa pohyboval cez davčavy ako tieň - veterán
+✅ "Maks sa pohyboval cez davčavy ako tieň - veterán
    dvoch vojen nemusel rozmýšľať. Jeho telo reagovalo
    prv, než mozog stihol prikázať."
  
-✅ "Anténa zavibrovala. Vzduch okolo Maxa sa zvlnil,
+✅ "Anténa zavibrovala. Vzduch okolo Maksa sa zvlnil,
    nanodrony v jeho krvi sa zrazu odmlčali - ako keby
    niekto vypol rádio uprostred pesničky."
 ```
@@ -335,7 +335,7 @@ Každá postava musí konať podľa:
 ### Pravidlá pre prirodzené dialógy:
  
 1. **Každá postava = jedinečný hlas**
-   - Max: Vojenské frázy, strohý, Staroreč (cez prekladateľa)
+   - Maks: Vojenské frázy, strohý, Staroreč (cez prekladateľa)
    - Tami: Pouličný slang, priamy, občas zvieracie metafory
    - Unit 734: RP English, formálny, žiadne kontrakcie
    - Elenia: Technický jazyk, chladný, filozofický
@@ -359,8 +359,8 @@ Každá postava musí konať podľa:
  
 5. **Akčné tagy vs. dialogue tags**:
    ```
-   ✅ "Nerozumieš." Max stisol Anténu.
-   ❌ "Nerozumieš," povedal Max nahnevane.
+   ✅ "Nerozumieš." Maks stisol Anténu.
+   ❌ "Nerozumieš," povedal Maks nahnevane.
    ```
  
 ---
@@ -407,7 +407,7 @@ Každá postava musí konať podľa:
  
 1. **Chekhov's Gun**
    ```
-   Kniha 1: "Max si všimol škrabnutie na Anténe."
+   Kniha 1: "Maks si všimol škrabnutie na Anténe."
    Kniha 3: [Odhalí sa, že Inetis tam nechala správu]
    ```
  
@@ -417,7 +417,7 @@ Každá postava musí konať podľa:
    - Spánok vs. smrť (kryostáza, digitálna existencia)
  
 3. **Proroctvá a legendy**
-   - "Spáč sa prebudí" → Max
+   - "Spáč sa prebudí" → Maks
    - "Súdny deň" → Protocol Null
  
 4. **Red herrings** (falošné stopy)
@@ -464,7 +464,7 @@ Každá postava musí konať podľa:
  
 ### Typy akcií:
  
-1. **Nano-combat** (Max, Elenia, Archanjeli):
+1. **Nano-combat** (Maks, Elenia, Archanjeli):
    - FPV drony ako zbrane
    - Hackovanie nepriateľských dronov
    - Anténa (ovládanie Wraithov)
@@ -517,7 +517,7 @@ spôsobiť explóziu, preto existuje Pakt Vodíka, kde..."
 "Položil ruku na pažbu revolveru.
 'To by som na tvojom mieste nerobil,' zaškŕňal sa kapitán.
 'Pokiaľ nechceš, aby sme všetci vyleteli do vzduchu.'
-Max sa zarazil. Vodík. Samozrejme."
+Maks sa zarazil. Vodík. Samozrejme."
 ```
  
 ---
@@ -526,9 +526,9 @@ Max sa zarazil. Vodík. Samozrejme."
  
 ### Multi-POV štruktúra NULL VOID:
  
-**Kniha 1-2**: Hlavne Max POV (+ Tami v kľúčových momentoch)
-**Kniha 3**: 50% Inetis (flashbacky), 50% Max/Tami
-**Kniha 4**: Max, Tami, Elenia (trojitá perspektíva konfliktu)
+**Kniha 1-2**: Hlavne Maks POV (+ Tami v kľúčových momentoch)
+**Kniha 3**: 50% Inetis (flashbacky), 50% Maks/Tami
+**Kniha 4**: Maks, Tami, Elenia (trojitá perspektíva konfliktu)
 **Kniha 5**: Všetci hlavní (finale)
  
 ### Pravidlá pre POV:
@@ -545,7 +545,7 @@ Max sa zarazil. Vodík. Samozrejme."
  
 ### POV Voice Guide:
  
-**Max** (3. osoba, limited):
+**Maks** (3. osoba, limited):
 - Vojenský, taktický
 - Krátke vety v akcii
 - Dlhšie introspekcie v downtime
@@ -560,7 +560,7 @@ Max sa zarazil. Vodík. Samozrejme."
 **Inetis** (1. osoba, denníky/flashbacky):
 - Vedecký, analytický
 - Tragický tón (vie, že umiera)
-- Materinský k Elenii, romantický k Maxovi
+- Materinský k Elenii, romantický k Maksovi
 - Vina za svoje rozhodnutia
  
 **Elenia** (3. osoba, limited):
@@ -579,7 +579,7 @@ Max sa zarazil. Vodík. Samozrejme."
  
 1. **YA elementy**:
    - Coming of age (Tami)
-   - Prvá láska (Tami → Max)
+   - Prvá láska (Tami → Maks)
    - Hľadanie identity
    - Rebelie proti autoritám
    - Nádej aj v tme
@@ -604,8 +604,8 @@ Max sa zarazil. Vodík. Samozrejme."
    - Neznámo
  
 3. **Love** (láska)
-   - Romantická (Max/Tami slow burn)
-   - Rodičovská (Max/Elenia tragédia)
+   - Romantická (Maks/Tami slow burn)
+   - Rodičovská (Maks/Elenia tragédia)
    - Priateľská (posádka Makita)
  
 4. **Grief** (žiaľ)
@@ -642,7 +642,7 @@ Max sa zarazil. Vodík. Samozrejme."
 **Kniha 3 - VODA (Čas)**:
 - Téma: Pamäť, prúdenie času, ilúzie
 - Tone: Psychologický thriller
-- Ending: Max sa dozvedá, že Elenia je jeho dcéra
+- Ending: Maks sa dozvedá, že Elenia je jeho dcéra
  
 **Kniha 4 - VZDUCH (Priestor)**:
 - Téma: Vojna, vzdialené vzťahy, priestor medzi otcom a dcérou
@@ -652,25 +652,25 @@ Max sa zarazil. Vodík. Samozrejme."
 **Kniha 5 - KVINTESENCIA (Vedomie)**:
 - Téma: Čo znamená byť živý? Digitál vs. mäso
 - Tone: Filozofický + apokalyptický
-- Ending: Maxova obeta, nový začiatok
+- Ending: Maksova obeta, nový začiatok
  
 ### Kľúčové vzťahy (arc cez knihy):
  
-**Max → Tami**:
+**Maks → Tami**:
 - K1: Záchrana → mentor/učeň
 - K2: Rast → rešpekt + atrakcia (popieraná)
 - K3: Odlúčenie → znovuzjednotenie + tension
 - K4: Partners in war → lovers
 - K5: Obeta pre jej budúcnosť
  
-**Max → Elenia**:
+**Maks → Elenia**:
 - K1: Nevie o nej
 - K2: Naznaky existencie
 - K3: Odhalenie + šok
 - K4: Pokus o reconciliation → zlyhanie → boj
 - K5: Porozumenie + tragická obeta
  
-**Max → Inetis**:
+**Maks → Inetis**:
 - K1: Hľadanie → nájdenie mŕtvoly
 - K2: Flashbacky (ich láska na Zemi)
 - K3: Jej POV (pravda o rozhodnutiach)
@@ -787,16 +787,16 @@ Max sa zarazil. Vodík. Samozrejme."
 - EY 2300: Pád Zeme
 - AY 0: Pristátie ARK-11
 - AY 700: Príchod Archanjelov
-- AY 3000: Maxovo prebudenie
+- AY 3000: Maksovo prebudenie
 - AY 3013: Hlavný dej (Kniha 1)
  
 ### Character quick ref:
-- **Max**: Voják, xenofób→tolerantný, hľadá Inetis
+- **Maks**: Voják, xenofób→tolerantný, hľadá Inetis
 - **Tami**: Líška (utajená), zamilovaná, stráca identitu
 - **Elenia**: Dcéra (antagonista), nihilistka, digitálna utópia
 - **Inetis**: Mŕtva (kostra), jej legacy drives plot
 - **Unit 734**: Mako prekladateľ, lojalista, RP English
-- **Samaell**: Mŕtvy (zabil Max AY 3001)
+- **Samaell**: Mŕtvy (zabil Maks AY 3001)
 - **Grom**: Podvodník v Power Armor
 - **Zaya/Ishtar**: Živá, Iluzionistka, Pôžitok
  
@@ -866,7 +866,7 @@ Podporované príkazy:
 **Príklad**:
 ```
 /null-void-writer write chapter 4
-/null-void-writer brainstorm Max vs Elenia first meeting
+/null-void-writer brainstorm Maks vs Elenia first meeting
 /null-void-writer develop Tami arc in book 3
 ```
  
@@ -901,7 +901,7 @@ Teraz som pripravený pomôcť vytvoriť najlepší sci-fi/fantasy epos, aký sv
 ✅ "Kinetický roj." (konštatovanie, nie obdiv)
 ✅ "Keby sme bojovali..." (nedokončené — obaja vedia)
 ✅ "Poznala som ju." (minulý čas — váha tisícročí)
-✅ "Vie. A nepovie." (Max po stretnutí so Serou)
+✅ "Vie. A nepovie." (Maks po stretnutí so Serou)
 ```
 
 **SERA — špecifické pravidlá:**
@@ -911,10 +911,10 @@ Teraz som pripravený pomôcť vytvoriť najlepší sci-fi/fantasy epos, aký sv
 - **3467 rokov skúseností** = každá veta je destilovaná múdrosť
 
 **MAX vs SERA — experience gap:**
-- Max: ~3000 rokov v LADE (nulový rast), predtým generál (~100 rokov aktívnych skúseností)
+- Maks: ~3000 rokov v LADE (nulový rast), predtým generál (~100 rokov aktívnych skúseností)
 - Sera: 3467 rokov AKTÍVNYCH (neustály rast, social engineering mastery)
-- Max je taktický veterán, ale Sera je MAJSTER komunikácie
-- Max môže byť priamočiarejší, menej sofistikovaný v reči
+- Maks je taktický veterán, ale Sera je MAJSTER komunikácie
+- Maks môže byť priamočiarejší, menej sofistikovaný v reči
 - Sera čaká, pozoruje, hovorí len keď musí
 
 ### 🔴 SERA DIALÓG — POVINNÉ POZNÁMKY POD ČIAROU
@@ -941,20 +941,20 @@ nesnaží skrývať. Kalkulácia: Tami je opatrná, toto ju zmätie.]
 
 „Poznala som ju."
 [HLAS PRAVDY. Minulý čas — váha tisícročí. Nehovorí viac
-než musí. Nechce prezradiť detaily. Kalkulácia: dať Maxovi
+než musí. Nechce prezradiť detaily. Kalkulácia: dať Maksovi
 dosť na to, aby pochopil vážnosť, nie dosť na odpovede.]
 ```
 
-**Príklad správneho kontrastu Max vs Sera:**
+**Príklad správneho kontrastu Maks vs Sera:**
 ```
-Max: "Kto ťa učil Haiku?"
-[Max je priamy. Vojenský. Chce informácie.]
+Maks: "Kto ťa učil Haiku?"
+[Maks je priamy. Vojenský. Chce informácie.]
 
 Sera: "Inetis." [pauza] "A ty?"
 [HLBOKÝ HLAS. Odpovedá jedným slovom. Potom otočí otázku.
-Kalkulácia: testuje, či Max je ten, za koho ho pokladá.]
+Kalkulácia: testuje, či Maks je ten, za koho ho pokladá.]
 
-Max: "...Inetis."
+Maks: "...Inetis."
 [Pauza pred odpoveďou = emocionálna reakcia. Sera si to všimla.]
 
 [Sera prikýva — jedno gesto stačí, veterán veteranovi]

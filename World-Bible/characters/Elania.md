@@ -4,7 +4,7 @@
 |---|---|
 | **Status** | Živá (nesmrteľná / corrupted) |
 | **Vek** | ~2750 (chronologicky), vyzerá ~30 |
-| **Rola** | Hlavný antagonista, dcéra Maxa a Inetis |
+| **Rola** | Hlavný antagonista, dcéra Maksa a Inetis |
 | **Titul** | Gatekeeper |
 
 ![Elania](../assets/Elania.png)
@@ -64,13 +64,13 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 **ZAKÁZANÉ:**
 ```
-❌ Vojenský žargón (to je Max)
+❌ Vojenský žargón (to je Maks)
 ❌ Stabilná nálada (má ADHD + depresie)
 ❌ Jednoznačné vyhlásenia (vždy je tam "ale...")
 ```
 
-**Kontrast s Maxom:**
-- Max: pragmatik, vojak, fakty
+**Kontrast s Maksom:**
+- Maks: pragmatik, vojak, fakty
 - Elania: vizionárka, umelkyňa, emócie
 
 ### Zrkadlenie: Aká matka, taká dcéra
@@ -81,8 +81,8 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 | **Preferencia** | Ženská spoločnosť | Ženská spoločnosť |
 | **"Jej umelkyňa"** | Helena (maliarka, poetka, duša skupiny) | Sera (tajná ecchi kresliarka, tsundere bohyňa) |
 | **Vzťah** | Najlepšia priateľka, emocionálna kotva | Ochrankyňa, jediná konštanta 2500 rokov |
-| **Strata** | Helena zostala na Zemi — zomrela | Sera zomrie v dueli s Maxom |
-| **Príčina straty** | Rozkaz otca (Koordinátor) oddelil Inetis od Heleny | Rozhodnutie otca (Max) zastaviť Elaniu → zabije Seru |
+| **Strata** | Helena zostala na Zemi — zomrela | Sera zomrie v dueli s Maksom |
+| **Príčina straty** | Rozkaz otca (Koordinátor) oddelil Inetis od Heleny | Rozhodnutie otca (Maks) zastaviť Elaniu → zabije Seru |
 
 > **Dvakrát ten istý príbeh, dve generácie.** Inetis stratila svoju umelkyňu kvôli rozhodnutiu svojho otca. Elania stratí svoju umelkyňu kvôli rozhodnutiu svojho otca. Grécka tragédia v kruhu — dcéra opakuje matkin osud bez toho, aby to vedela.
 
@@ -96,6 +96,6 @@ Elania túto hranicu prekročila. Nie preto, že je zlá — ale preto, že **ni
 
 Matka mala pravdu — a nemala odvahu konať. Dcéra koná — a nemá matkin zážitok, ktorý by ju zastavil. Obe vidia rovnakú rovnicu. Jedna odmietla riešenie, lebo vedela čo sa stráca. Druhá ho prijme, lebo nikdy nič nestratila — len trpela. A čitateľ by mal cítiť, že **nevie, kto z nich má pravdu**.
 
-### Konflikt s Maxom
-- Max: Bolesť je cena za to, že sme nažive
+### Konflikt s Maksom
+- Maks: Bolesť je cena za to, že sme nažive
 - Elania: Digitálna existencia je čistá a večná

@@ -68,9 +68,9 @@ Links pripojil laptop k Mayinmu Spira modulu. Káble boli improvizované — sta
 
 „Potrebujem tvoju pomoc," povedal nahlas. „Sensei povedal, že ty máš odpovede. Že poznáš tú Líšku. Tami."
 
-Kito si sadol vedľa neho. Dlho mlčal. Potom začal rozprávať. O Maxovi, ktorého našli v jaskyni. O Tami, sirote, ktorá sa stala jeho dcérou. O bitke pod Chrámom.
+Kito si sadol vedľa neho. Dlho mlčal. Potom začal rozprávať. O Maksovi, ktorého našli v jaskyni. O Tami, sirote, ktorá sa stala jeho dcérou. O bitke pod Chrámom.
 
-„Sera jej dala Anténu," povedal Kito. „Tej líške. Max ju nesie — je ťažká ako hriech — ale Sera povedala, že je *pre ňu*."
+„Sera jej dala Anténu," povedal Kito. „Tej líške. Maks ju nesie — je ťažká ako hriech — ale Sera povedala, že je *pre ňu*."
 
 Links počúval a zároveň analyzoval kód. A potom to uvidel.
 

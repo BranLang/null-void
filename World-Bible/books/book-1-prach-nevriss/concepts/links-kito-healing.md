@@ -28,7 +28,7 @@
 ### Kito rozpráva VŠETKO
 Kito je osamelý, vyčerpaný, a niekto ho konečne počúva. Povie viac, než by mal:
 
-**O Maxovi:**
+**O Maksovi:**
 - Ako ho našli v jaskyni (slepého, pokrytého modrou tekutinou)
 - Jeho podivné schopnosti
 - Jazyk, ktorému nikto nerozumie
@@ -37,14 +37,14 @@ Kito je osamelý, vyčerpaný, a niekto ho konečne počúva. Povie viac, než b
 **O Tami:**
 - Líška! Vymierajúci druh!
 - Jej schopnosti s Spirou (neobvyklé, neortodoxné)
-- Jej vzťah s Maxom
+- Jej vzťah s Maksom
 - Prečo odišla
 
 **Teórie a konšpirácie:**
-- Kito verí, že Max je z **Éry Založenia**
+- Kito verí, že Maks je z **Éry Založenia**
 - Že tá „palica" je starobylá technológia
 - Že Cirkev klame o histórii
-- Že Inetis bola skutočná a Max ju poznal
+- Že Inetis bola skutočná a Maks ju poznal
 
 > **Links** (vnútorne): *Také bomby nedávali ani v škole...*
 
@@ -98,13 +98,13 @@ Celá Linksova cesta je súčasťou **Elaniinho grandiózneho plánu** na prevza
 **Jej predpovede (ktoré sa plnia na 100%):**
 1.  **Cesta**: Links pôjde severnou cestou cez Graw do Shoravenu.
 2.  **Oprava (Hidden Setup)**:
-    *   **Noc Hrdinov**: Počas obliehania Shoravenu (keď Max a Tami porazili Paladínov a obrátili priebeh vojny), Sera tajne navštívila **Maka J-Seven**.
+    *   **Noc Hrdinov**: Počas obliehania Shoravenu (keď Maks a Tami porazili Paladínov a obrátili priebeh vojny), Sera tajne navštívila **Maka J-Seven**.
     *   **Zadanie #1**: Nechala mu plány na **Spira batériu** s inštrukciou: *"Zastaví sa tu mladík s týmto laptopom. Priprav to."*
     *   **Zadanie #2**: *"Pošli ho vyšetriť podivnú Spira chorobu. Žije tam muž menom Kito — jeho žena má problémy. Mladík bude vedieť pomôcť."*
     *   **Výsledok**: Keď Links o týždne neskôr dorazí, J-Seven má batériu hotovú a pošle ho za Kitom.
 3.  **Kito**: Links stretne Kita, ktorý má chorú manželku. Tam Links prvýkrát použije opravený laptop a jej poznámky na "zázrak".
 4.  **Tami (The Matchmaking)**:
-    *   Kito je **loremaster** — povie Linksovi všetko o Maxovi a Tami.
+    *   Kito je **loremaster** — povie Linksovi všetko o Maksovi a Tami.
     *   Tami je teraz v Shoravene **legendou** — jej krása, inteligencia a hrdinstvo sú známe medzi mužmi.
     *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them.
     *   **Politický cieľ**: Nechať ich vládnuť v Nevriss = politické víťazstvo + začiatok **unifikácie kontinentov** (Links je zo Západu/Ludus, Tami z Juhu).

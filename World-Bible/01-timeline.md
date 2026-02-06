@@ -7,7 +7,7 @@
 timeline
     title Éra Hráčov a Pád Zeme (EY)
     2035 : Nástup Superinteligencie
-    2049 : Maxovo narodenie
+    2049 : Maksovo narodenie
     2051 : Narodila sa i_net_is (Neto Fujiwara ネト) (AI dcéra)
     2065 : Projekt Achilles (VR) začína
     2060 : The Glitch Event (Time Dilation Trauma)
@@ -29,9 +29,9 @@ timeline
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
     1200 : Smrť pravého Gronda : Dynastia podvodníkov začína
     2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
-    3000 : Prebudenie Maximiliána
-    3001 : Duel Samaell vs Max : Smrť Samaella
-    3008 : Tami odchádza od Maxa (RP 796)
+    3000 : Prebudenie Maksimiliána
+    3001 : Duel Samaell vs Maks : Smrť Samaella
+    3008 : Tami odchádza od Maksa (RP 796)
     3013 : Začiatok hlavného deja (RP 801)
 ```
 
@@ -54,7 +54,7 @@ Varietas delia históriu nábožensky:
 **Kľúčové body:**
 - `EY ~2300` = Pád Zeme
 - `AY 0` = **Pristátie Modulov**: Obrovské kolonizačné lode (ARK-11, ARK-12) nedokázali pristáť kvôli vysokej gravitácii. Vyslali len pristávacie moduly. Samotné lode neskôr (po strate Inetis) spadli do oceánu. **ARK-13 "Prometheus"** (Infera) stále krúži na orbite.
-- `AY ~3000` = Maxovo prebudenie
+- `AY ~3000` = Maksovo prebudenie
 
 ---
 
@@ -77,16 +77,16 @@ Varietas delia históriu nábožensky:
 - **Skutočný účel**: Laboratórium na vývoj cesty späť do fyzického tela
 - **Verejný účel**: VR MMORPG s antickým settingom
 
-### EY 2050 – Maxovo narodenie
-- Maximilián sa narodí vo vychodnej Európe
+### EY 2050 – Maksovo narodenie
+- Maksimilián sa narodí vo vychodnej Európe
 - Syn veterana dronovych vojen
 - Generácia detí prežíva stovky virtuálnych rokov v Achilles
 
 ### EY ~2050–2060 – maXpowa & i_net_is
-- Max (nick: **maXpowa**) a i_net_is sa spoznajú v hre
+- Maks (nick: **maXpowa**) a i_net_is sa spoznajú v hre
 - i_net_is má podobu znepokojivo dokonalej krásky — príliš symetrická, príliš bezchybná. Hráči ju považujú za AI admina
 - **Stvorenie Spiry**: Na žiadosť hráčov vytvára in-game magiu (Prach/Spirit)
-- Max a i_net_is sa spriatelia — Max netuší, že ona je AI
+- Maks a i_net_is sa spriatelia — Maks netuší, že ona je AI
 
 ### EY 2060 – „The Glitch Event"
 - **Nie nehoda, ale neúspešná komunikácia**: Tieňoví (Null Swarm) sa pokúsili masovo kontaktovať hráčov
@@ -107,7 +107,7 @@ Varietas delia históriu nábožensky:
 ### EY 2100 – Revolúcia Hráčov
 - Pomalá, premyslená, nenásilná revolúcia
 - Hráči preberajú moc nad svetom
-- Maxov a Inetisin „Guild Leader John Reef" sa stáva **Hlavným Koordinátorom**
+- Maksov a Inetisin „Guild Leader John Reef" sa stáva **Hlavným Koordinátorom**
 - Nanotechnológie z hry sa vyrábajú v realite, monopol ma John Reef a je tak bohaty a mocne ze preberie vladu nad planetou.
 - Hráči - jeho najblizsi kruh (vrátane modifikovaných Varietas, ktoré sa stali slávnymi) preberajú moc.
 
@@ -116,7 +116,7 @@ Varietas delia históriu nábožensky:
 ## Éra Zeme – Vrchol a pád (EY 2100 – 2300)
 
 ### EY 2150 – Marťanská vojna a „Iniciatíva Achilles"
-- **Vojna s Marsom**: Brutálny konflikt so separatistami. Maximilián sa vyznamená ako **Major**.
+- **Vojna s Marsom**: Brutálny konflikt so separatistami. Maksimilián sa vyznamená ako **Major**.
 - **Iniciatíva Achilles (Propaganda)**: Vláda Zeme spúšťa projekt kolonizácie planéty pomenovanej po VR hre **„Celestial Frontier: Achilles"**.
 - **Veľké Klamstvo**: Oficiálne je projekt prezentovaný ako "veľký skok ľudstva". V skutočnosti je to útek elity pred blížiacou sa mimozemskou hrozbou (detegovanou ~EY 2130).
 - **Odlet ARK-11 a ARK-12**: Kolonizačné lode odlietajú v EY 2150. Cesta trvá ~454 rokov (kombinácia FTL a cryostázy). Pristátie = AY 0 (EY 2604).
@@ -139,7 +139,7 @@ Varietas delia históriu nábožensky:
 - Zem sa stala "mostom" — rozhodli sa ho zničiť
 - Zem je zničená
 - **Operácia EXODUS:**
-  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maximilián, odlet EY 2301, pristátie EY 2304 (3-ročná cesta)
+  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maksimilián, odlet EY 2301, pristátie EY 2304 (3-ročná cesta)
   - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
   - **Paradox**: ARK lode odleteli 151 rokov PRED NULL VOID (EY 2150), ale pristáli 300 rokov PO nej (AY 0 = EY 2604)
 - **ARK-13 "Prometheus"**: Loď Ex Inferis, zostala na orbite Alpha Centauri, neskôr dorazila na Achilles (AY ~700).
@@ -149,14 +149,14 @@ Varietas delia históriu nábožensky:
 ## Pred AY 0: Éra Priekopníkov
 
 ### EY 2300 + 3 roky — Príchod NULL VOID
-- Max a Inetis pristávajú na **neteraformovanej** planéte Kepler 452b.
+- Maks a Inetis pristávajú na **neteraformovanej** planéte Kepler 452b.
 - **NULL VOID**: Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla.
-- **Trauma na lodi:** Počas 3-ročnej FTL cesty Max napadol Inetis. Tento akt násilia je pôvodom Eleninho počatia.
+- **Trauma na lodi:** Počas 3-ročnej FTL cesty Maks napadol Inetis. Tento akt násilia je pôvodom Eleninho počatia.
 - **Šok z tehotenstva:** Po pristátí Inetis zistí, že čaká dcéru Eleniu. Kryospánok by dieťa zabil.
-- **Klamstvo o zásobách:** Inetis oklamala Maxa tým, že nemajú dosť zásob na 300 rokov a musia ísť obaja spať. Max bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID.
+- **Klamstvo o zásobách:** Inetis oklamala Maksa tým, že nemajú dosť zásob na 300 rokov a musia ísť obaja spať. Maks bol len **pasažier** — vojak, ktorý nevedel o skutočných schopnostiach lode NULL VOID.
 - **Skutočný dôvod:** Inetis ho chcela preč — bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Uspala ho s úmyslom rozhodnúť sa neskôr. **Nikdy to nedomyslela** — nemohla ho zabiť (vedela, že ho svet bude v buducnosti potrebovať), ale nedokázala sa prinútiť ho zobudiť. 300 rokov sa natiahlo na 3000.
 - **Pokus o genetickú modifikáciu:** Pokúsila sa geneticky modifikovať plod, aby prežil kryospánok v jej tele (mohli by spať obaja), no experiment zlyhal.
-- **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu- obrovsky moderny komplex, vytvorila laboratórium, hydroponické farmy, upravila okolie. Zostali len dve veci: **Maxov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a jedna **Anténa** (glitchla sa, odmietla rekonfiguráciu). Kryobox sa po Maxovom prebudení (~AY 3000) rozpadol na prach.
+- **Rekonfigurácia lode:** Inetis rozložila celú loď NULL VOID (nanodronová konštrukcia) a prekonfigurovala nanodrony na stroje — vyhĺbili jaskyňu- obrovsky moderny komplex, vytvorila laboratórium, hydroponické farmy, upravila okolie. Zostali len dve veci: **Maksov kryobox** (v minimálnej konfigurácii, udržiaval ho v stáze) a jedna **Anténa** (glitchla sa, odmietla rekonfiguráciu). Kryobox sa po Maksom prebudení (~AY 3000) rozpadol na prach.
 
 ### Nasledujúce ~3 roky v jaskyni
 - **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenakonfigurovala na hydroponické systémy.
@@ -305,62 +305,62 @@ Varietas delia históriu nábožensky:
 
 ## Časová os hlavného deja
 
-*AY 3000 (RP 788)**:- **Prebudenie Maximiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
+*AY 3000 (RP 788)**:- **Prebudenie Maksimiliána**: Bez pamäti, fyzicky slepý (**kryo-slepota**) a neschopný komunikovať (**Staroreč**).
     - Piráti **Vix a Kael** zabíjajú hľadača pokladov **Renna** (Taminho otca) a jeho malú dcéru **Tami** (7) držia v klietke.
     - Kael prebudi wraitha Inetis ktory zobudi maxa. Wraith inetis zabije Kaela.
-    - Max sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
+    - Maks sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
     - **Samaell** cele roky putuje divocinou okolo jaskyne, citi Inetisinu stopu, obcas najde zbludeny nanodron. Ale nikdy sa nedostal blizsie ako 100 kilometrov k jaskyni. Az kym neuvidi na oblohe Makitu a nezacne ju nasledovat. Kael a Vix ho navedu priamo k Jaskyni.
-    - Piráti nájdu Maxa v snehu a berú ho na palubu. Max a Tami sa stretnú na lodi.
+    - Piráti nájdu Maksa v snehu a berú ho na palubu. Maks a Tami sa stretnú na lodi.
     - jaskyna ( bunker sa zatvara, samaell sa nevie dostat dnu)
     
 
 - **Rok Tieňov (AY 3000 – 3001)**:
-    - Max je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
-    - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maxa a Tami celý rok.
-    - **Rozbitie viery (The Realization)**: Max zisťuje, že Zem je uplne zabudnuta a „Iniciatíva Achilles" sa nepodarila.
+    - Maks je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
+    - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maksa a Tami celý rok.
+    - **Rozbitie viery (The Realization)**: Maks zisťuje, že Zem je uplne zabudnuta a „Iniciatíva Achilles" sa nepodarila.
     - **Unit 734 (Felix")**: Mako-mechanik slúži ako zachranne koleso.
 
 - **Duel so Samaellom (AY 3001)**:
-    - Max (stále slepý) využíva nano-drony veľkosti zrnka piesku
+    - Maks (stále slepý) využíva nano-drony veľkosti zrnka piesku
     - Technika z Achilles simulácie: FPV drony vniknú do dýchacích ciest a explodujú
     - Duel na obrovské vzdialenosti — Samaell podcenil protivníka
     - **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
-    - **Technovampirizmus**: Max sa zmocní Samaellových nanobotov (Highlander štýl, nadobudne svalovu hmotu) vratia sa mu oci (z prachu)
+    - **Technovampirizmus**: Maks sa zmocní Samaellových nanobotov (Highlander štýl, nadobudne svalovu hmotu) vratia sa mu oci (z prachu)
 - **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Šok z odhalenia Tami (uši, chvost) a spoločnosti Varietas. Bod zlomu pre jeho ideológiu.
 - **AY 3001 – AY 3008**: **7-ročná cesta**: Premena z „trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň.
 - **Tami vyznanie a odchod (AY 3008)**:
-    - Tami (15 rokov) sa vyzná Maxovi
-    - Max ju odmietne — vidí v nej dcéru, nie ženu
-    - Tami vezme vzducholoď a nechá Maxa v pustatine
+    - Tami (15 rokov) sa vyzná Maksovi
+    - Maks ju odmietne — vidí v nej dcéru, nie ženu
+    - Tami vezme vzducholoď a nechá Maksa v pustatine
 - **AY 3008 – AY 3013**: **5 rokov odlúčenia**:
-    - Max pokračuje ako Exorcista sám
+    - Maks pokračuje ako Exorcista sám
     - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
     - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma v Nyau a Beladiss
     - Vidí upálenie priateľov kvôli nálezu Anténa
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
-    - **Opening**:  Max (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch v Kito. Vyberu sa pomstit smrt Taminych priatelov a Max sa zaujima o artefakt. Vzducholoď pristáva v nočnom meste Shoraven.
+    - **Opening**:  Maks (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch v Kito. Vyberu sa pomstit smrt Taminych priatelov a Maks sa zaujima o artefakt. Vzducholoď pristáva v nočnom meste Shoraven.
     - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
     - Aktivácia "The Pentagram Cycle".
-    - Max (xenofób z minulosti) musí spolupracovať s Tami (Krotiteľom z Varietas).
+    - Maks (xenofób z minulosti) musí spolupracovať s Tami (Krotiteľom z Varietas).
 
 ---
 
 ## Príbeh kníh
 
-**Prierezový oblúk — Triangulácia Ynetis**: Max využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elania). Každá návšteva je spojená s konfrontáciou s miestnym Archanjelom.
+**Prierezový oblúk — Triangulácia Ynetis**: Maks využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elania). Každá návšteva je spojená s konfrontáciou s miestnym Archanjelom.
 
-1. **ZEM | hmota** — Max hľadá v novom svete Inetis. Flashbackový antagonista: Samaell (zabitý v AY 3001). Prítomní antagonisti: Grond (invázia Graw) + Paladíni (dvojitý mini boss fight pri Anténe). 
+1. **ZEM | hmota** — Maks hľadá v novom svete Inetis. Flashbackový antagonista: Samaell (zabitý v AY 3001). Prítomní antagonisti: Grond (invázia Graw) + Paladíni (dvojitý mini boss fight pri Anténe). 
 Finalny boss je **Mormiel** ktora komunikuje prostrednictvom veze s Elaniou.
-**Triangulácia 1/3**: Max aktivuje Anténu na Veľkom Majáku v Nevriss City.
+**Triangulácia 1/3**: Maks aktivuje Anténu na Veľkom Majáku v Nevriss City.
 
 2. **OHEŇ | energia** — Flashbacky na Zem, Tami sa mení. Boss: Caesar ( flashbacky na koordinatora )
 
 3. **VODA | čas** — POV Inetis, História Elysium, odhalenie identity Elenie. Boss: Ishtar/Zaya. **Triangulácia 2/
-**: Max získava meranie zo Sklenej Veže v Zayinom kráľovstve.
+**: Maks získava meranie zo Sklenej Veže v Zayinom kráľovstve.
 
 
-4. **VZDUCH | priestor** — Vojna s Eleniou, Doomsday Protocol. **Triangulácia 3/3**: Posledné meranie z Veže Zatratených — Max vypočíta polohu Ynetis.
+4. **VZDUCH | priestor** — Vojna s Eleniou, Doomsday Protocol. **Triangulácia 3/3**: Posledné meranie z Veže Zatratených — Maks vypočíta polohu Ynetis.
 
 5. **KVINTESENCIA | vedomie** — Veľký upload, návrat do CORE - VR Achilles, finálne splynutie so subspace.
 

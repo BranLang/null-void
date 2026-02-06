@@ -55,8 +55,8 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.exodus.launch`
 - Názov: Štart EXODUS (útek zo Zeme)
 - Čas: bezprostredne pred AY 0
-- Zhrnutie: Experimentálna loď uniká zo Zeme smerom k planéte Achilles; na palube Inetis a Maximilián.
-- Účastníci: `char.inetis`, `char.maximilian`, `char.koordinator`
+- Zhrnutie: Experimentálna loď uniká zo Zeme smerom k planéte Achilles; na palube Inetis a Maksimilián.
+- Účastníci: `char.inetis`, `char.maksimilian`, `char.koordinator`
 - Lokácie: `place.earth`, `place.ship_ark_exodus`
 - Tagy: `exodus`, `kolonizácia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -65,8 +65,8 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.exodus.silent_goodbye`
 - Názov: Tiché zbohom (bod zlomu)
 - Čas: bezprostredne pred AY 0
-- Zhrnutie: Inetis zistí tehotenstvo. Kryospánok by zabil plod, preto oklamala Maxa a nechala ho spať v nevedomosti. Pokúsila sa o genetickú modifikáciu plodu pre kryostázu, no experiment zlyhal.
-- Účastníci: `char.inetis`, `char.maximilian`, `char.elenia`
+- Zhrnutie: Inetis zistí tehotenstvo. Kryospánok by zabil plod, preto oklamala Maksa a nechala ho spať v nevedomosti. Pokúsila sa o genetickú modifikáciu plodu pre kryostázu, no experiment zlyhal.
+- Účastníci: `char.inetis`, `char.maksimilian`, `char.elenia`
 - Lokácie: `place.ship_ark_exodus`
 - Tagy: `rodina`, `tragédia`, `spúšťač`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -77,16 +77,16 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Pristátie na Achille
 - Čas: AY 0
 - Zhrnutie: Loď pristane na planéte Achilles; začína osídľovanie.
-- Účastníci: `char.inetis`, `char.maximilian`
+- Účastníci: `char.inetis`, `char.maksimilian`
 - Lokácie: `place.achilles`
 - Tagy: `kolonizácia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.achilles.max_cryo`
-- Názov: Uloženie Maxa do kryospánku
+- Názov: Uloženie Maksa do kryospánku
 - Čas: AY 0
-- Zhrnutie: Inetis oklame Maxa klamstvom o nedostatku zásob a uloží ho do krya. Max je len pasažier — nevedel o schopnostiach nanodronovej lode NULL VOID. Skutočný dôvod: Inetis ho chcela držať bokom kým si premyslí čo ďalej (strach z jeho vojenských ambícií). Nikdy to nedomyslela — plánovaný spánok ~300 rokov sa natiahne na ~3000.
-- Účastníci: `char.inetis`, `char.maximilian`
+- Zhrnutie: Inetis oklame Maksa klamstvom o nedostatku zásob a uloží ho do krya. Maks je len pasažier — nevedel o schopnostiach nanodronovej lode NULL VOID. Skutočný dôvod: Inetis ho chcela držať bokom kým si premyslí čo ďalej (strach z jeho vojenských ambícií). Nikdy to nedomyslela — plánovaný spánok ~300 rokov sa natiahne na ~3000.
+- Účastníci: `char.inetis`, `char.maksimilian`
 - Lokácie: `place.ship_ark_exodus`, `place.cave_null_void`
 - Tagy: `kryo`, `tajomstvo`, `rodina`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -104,7 +104,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Narodenie Elenie
 - Čas: pred AY 0
 - Zhrnutie: Elania sa narodí v jaskyni Null-Void po neúspešnom genetickom experimente. Kvôli modifikácii rastie extrémne pomaly.
-- Účastníci: `char.elenia`, `char.inetis`, `char.maximilian`
+- Účastníci: `char.elenia`, `char.inetis`, `char.maksimilian`
 - Lokácie: `place.cave_null_void`
 - Tagy: `rodina`, `dedičstvo`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -185,7 +185,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.inetis_death_cave`
 - Názov: Smrť Inetis v samote
 - Čas: AY ~700
-- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maxovom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a glitchnutá Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
+- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maksom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a glitchnutá Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
 - Účastníci: `char.inetis`
 - Lokácie: `place.cave_null_void`
 - Tagy: `tragédia`, `obeta`
@@ -213,10 +213,10 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ## Dej pentalógie (príbehové udalosti)
 
 ### `evt.story.max_awakens`
-- Názov: Prebudenie Maxa
+- Názov: Prebudenie Maksa
 - Čas: AY ~3000+
-- Zhrnutie: Max sa prebúdza z kryospánku; loď je zničená, modul Inetis prázdny.
-- Účastníci: `char.maximilian`
+- Zhrnutie: Maks sa prebúdza z kryospánku; loď je zničená, modul Inetis prázdny.
+- Účastníci: `char.maksimilian`
 - Lokácie: `place.ship_ark_exodus`, `place.achilles`
 - Tagy: `inciting_incident`, `mystery`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -224,8 +224,8 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.meets_tami`
 - Názov: Stretnutie s Tami
 - Čas: AY ~3000+
-- Zhrnutie: Tami (kapitánka vzducholode) sa stáva sprievodkyňou Maxa v post-apo svete.
-- Účastníci: `char.maximilian`, `char.tami`
+- Zhrnutie: Tami (kapitánka vzducholode) sa stáva sprievodkyňou Maksa v post-apo svete.
+- Účastníci: `char.maksimilian`, `char.tami`
 - Lokácie: `place.mainland`
 - Tagy: `spojenectvo`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -234,8 +234,8 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.inetis_body_found`
 - Názov: Nájdenie tela Inetis
 - Čas: AY ~3000+
-- Zhrnutie: Max nájde Inetisinu kostru a denníky; zistí, že ho nechala spať zámerne.
-- Účastníci: `char.maximilian`, `char.inetis`
+- Zhrnutie: Maks nájde Inetisinu kostru a denníky; zistí, že ho nechala spať zámerne.
+- Účastníci: `char.maksimilian`, `char.inetis`
 - Lokácie: `place.cave_inetis`
 - Tagy: `twist`, `tragédia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -244,7 +244,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Prenos „hladných“ nanodronov na Tami
 - Čas: po `evt.story.inetis_body_found`
 - Zhrnutie: Nanodrony z Inetisiných pozostatkov prejdú na Tami; získava schopnosti a spomienky.
-- Účastníci: `char.tami`, `char.inetis`, `char.maximilian`
+- Účastníci: `char.tami`, `char.inetis`, `char.maksimilian`
 - Lokácie: `place.cave_inetis`
 - Tagy: `transformácia`, `Spira`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -253,7 +253,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Konfrontácia s samaellom
 - Čas: Kniha 1 (pracovne)
 - Zhrnutie: Boj s samaellom v ruinách; pred smrťou naznačí existenciu Elenie.
-- Účastníci: `char.maximilian`, `char.samaell`
+- Účastníci: `char.maksimilian`, `char.samaell`
 - Lokácie: `place.labs_ruins`
 - Tagy: `boss_fight`, `odhalenie`
 - Zdroj: `world-bible.md`
@@ -262,7 +262,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Severná kampaň (Grond)
 - Čas: Kniha 2 (pracovne)
 - Zhrnutie: Cesta na sever a konflikt s Grondom; vojna a zodpovednosť ako téma.
-- Účastníci: `char.maximilian`, `char.tami`, `char.grom`
+- Účastníci: `char.maksimilian`, `char.tami`, `char.grom`
 - Lokácie: `place.north`
 - Tagy: `vojna`
 - Zdroj: `world-bible.md`
@@ -270,8 +270,8 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.ishtar_campaign`
 - Názov: Južná kampaň (Ishtar)
 - Čas: Kniha 3 (pracovne)
-- Zhrnutie: Ishtar mučí Maxa ilúziami; odhalenie, že 4. Archanjel je Elania.
-- Účastníci: `char.maximilian`, `char.tami`, `char.ishtar`, `char.elenia`
+- Zhrnutie: Ishtar mučí Maksa ilúziami; odhalenie, že 4. Archanjel je Elania.
+- Účastníci: `char.maksimilian`, `char.tami`, `char.ishtar`, `char.elenia`
 - Lokácie: `place.south`
 - Tagy: `psychologická_vojna`, `odhalenie`
 - Zdroj: `world-bible.md`
@@ -280,7 +280,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Otvorená vojna s Eleniou
 - Čas: Kniha 4 (pracovne)
 - Zhrnutie: Elania aktivuje armádu Duchov; konflikt Otec vs. Dcéra.
-- Účastníci: `char.maximilian`, `char.tami`, `char.elenia`, `fac.wraiths`
+- Účastníci: `char.maksimilian`, `char.tami`, `char.elenia`, `fac.wraiths`
 - Lokácie: `place.achilles`
 - Tagy: `vojna`, `rodina`
 - Zdroj: `world-bible.md`
@@ -304,10 +304,10 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.story.max_upload`
-- Názov: Maxov upload (obeta)
+- Názov: Maksov upload (obeta)
 - Čas: Kniha 5 (pracovne)
-- Zhrnutie: Finálny boj v „Cyberspace“; Max uploadne vedomie a prepíše kód AI.
-- Účastníci: `char.maximilian`, `char.tami`, `char.elenia`, `char.the_void`
+- Zhrnutie: Finálny boj v „Cyberspace“; Maks uploadne vedomie a prepíše kód AI.
+- Účastníci: `char.maksimilian`, `char.tami`, `char.elenia`, `char.the_void`
 - Lokácie: `place.core`, `concept.cyberspace`
 - Tagy: `obeta`, `finále`
 - Zdroj: `world-bible.md`
@@ -316,7 +316,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Zmier a nový začiatok
 - Čas: po Knihe 5
 - Zhrnutie: Technológia a príroda sa prepájajú; Tami vedie novú spoločnosť; Elania prežije (vykúpenie alebo smrteľnosť).
-- Účastníci: `char.tami`, `char.elenia`, `char.maximilian`
+- Účastníci: `char.tami`, `char.elenia`, `char.maksimilian`
 - Lokácie: `place.achilles`
 - Tagy: `epilóg`
 - Zdroj: `world-bible.md`

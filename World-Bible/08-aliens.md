@@ -100,7 +100,7 @@ Loď získala svoje meno podľa princípu, ktorý využíva na dosiahnutie nadsv
 | **Cesta** | Zem → Achilles za **3 roky** (vs. 300 rokov pre ARK lode) |
 
 ### Posádka
-- **Maximilián (EX-INF-003)**: Vojenský veliteľ, Ex Inferis
+- **Maksimilián (EX-INF-003)**: Vojenský veliteľ, Ex Inferis
 - **Inetis**: AI/hybrid, jediná schopná ovládať nanotechnológiu lode
 
 ### Prečo jediný exemplár?
@@ -128,5 +128,5 @@ Loď získala svoje meno podľa princípu, ktorý využíva na dosiahnutie nadsv
 ---
 
 ## Otázky do budúcna
-- Nájde Max v priebehu ságy nejaké stopy o iných lodiach?
+- Nájde Maks v priebehu ságy nejaké stopy o iných lodiach?
 - Bude FTL pohon opäť vynájdený/aktivovaný, čo privolá hrozbu?

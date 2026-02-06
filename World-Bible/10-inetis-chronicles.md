@@ -117,51 +117,51 @@ Inetis nezomrela v boji. Zomrela vnútorne v ten deň v Atranskej úžine, keď 
 
 ---
 
-## Posledná Cesta (Hľadanie Maxa)
+## Posledná Cesta (Hľadanie Maksa)
 
 Po vojne, zlomená a umierajúca na Glitch Rot (ktorý chytila pri práci na Gen 2 v Core), sa rozhodla pre posledný zúfalý čin, aj keď vedela, že pravdepodobne tak nikdy nedôjde.
 Bála sa, že vojny nikdy neskončia. Že jej deti nikdy neprestanú bojovať.
 Potrebovala niekoho, kto dokáže urobiť to, čo ona nedokázala. Niekoho, kto nastolí poriadok.
-Cestou do jaskyne veľa spomínala na minulosť a uvedomila si, že Max nebol až tak zlý. To, čo sa medzi nimi stalo, jej už nepripadalo také strašné. Dokonca si nahovorila, že to bola jej chyba.
+Cestou do jaskyne veľa spomínala na minulosť a uvedomila si, že Maks nebol až tak zlý. To, čo sa medzi nimi stalo, jej už nepripadalo také strašné. Dokonca si nahovorila, že to bola jej chyba.
 
 ### Prečo odmietla liečbu
 Inetis mala Gen 2 Spiru. Mohla sa liečiť — postupne, pomaly, ale mohla. **Odmietla.**
 - **Unavená zo života** — Stáročia samoty. Strata Elenie. Vina za Glitch Event a milióny mŕtvych na Zemi. Vina za vojny na Achille. Nechcela žiť večne.
 - **Cítila, že si nezaslúži byť zachránená** — Vytvorila technológiu, ktorá zmenila svet na bojisko. Jej dcéra sa stala monštrom. Jej milovaný spal v ľade kvôli jej strachu.
-- **Vedome sa rozhodla zomrieť pri Maxovi** — Nešla do jaskyne, aby ho zobudila. Šla tam, aby zomrela vedľa neho. Chcela, aby posledná vec, čo uvidí, bol on. Chcela ho poprosit o odpustenie. A poprosit ho nech zachrani Eleniu od ex inferis.
+- **Vedome sa rozhodla zomrieť pri Maksovi** — Nešla do jaskyne, aby ho zobudila. Šla tam, aby zomrela vedľa neho. Chcela, aby posledná vec, čo uvidí, bol on. Chcela ho poprosit o odpustenie. A poprosit ho nech zachrani Eleniu od ex inferis.
 
 **Pre ňu bola smrť vykúpením.** Cítila sa stará a unavená. Tisíc rokov je príliš dlho na to, aby človek — alebo čokoľvek, čím sa stala — ešte chcel žiť.
 
-**Prečo zomrela po 1000 rokoch, keď iní žijú 3000+?** Archanjeli a Elania prežívajú — ale za cenu kanibalizmu a straty ľudskosti. Požierajú iných, aby nahradili svoje rotujúce nanoboty. Inetis **nikdy túto hranicu neprekročila**. Nikdy nepožierala. Zostala ľudská. A práve toto svedomie — vina za Glitch Event, za milióny mŕtvych, za Eleniu, za Maxa v ľade — ju nakoniec zabilo. Ostatní prežili, pretože sa stali monštrami. **Inetis zomrela, pretože ním odmietla byť.**
-**Misia:** Nájsť Maxa.
+**Prečo zomrela po 1000 rokoch, keď iní žijú 3000+?** Archanjeli a Elania prežívajú — ale za cenu kanibalizmu a straty ľudskosti. Požierajú iných, aby nahradili svoje rotujúce nanoboty. Inetis **nikdy túto hranicu neprekročila**. Nikdy nepožierala. Zostala ľudská. A práve toto svedomie — vina za Glitch Event, za milióny mŕtvych, za Eleniu, za Maksa v ľade — ju nakoniec zabilo. Ostatní prežili, pretože sa stali monštrami. **Inetis zomrela, pretože ním odmietla byť.**
+**Misia:** Nájsť Maksa.
 
 ### Prečo pešo, v utajení
 - **Ex Inferis chcú Spiru** — zostávajúci Ex Inferis (Archanjeli a ich spojenci) vedeli, že Inetis má Gen 2 Spiru. Keby použila dopravný prostriedok, vystopovali by ju.
 - **Vedela, že ju budú sledovať** — preto vyrazila sama, pešo, len s Anténou (antena ju robila neviditelnou pre nanodrony a iné technológie, fungovala aj ako rušička ak sa otocila subspace polarita). Žiadne signály, žiadna technológia, ktorú by mohli zachytiť.
-- **Zistila, že potrebuje Maxa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archanjeli ovládajú.
+- **Zistila, že potrebuje Maksa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archanjeli ovládajú.
 
-Vedela, kde pôvodne pristáli — Jaskyňa Ela vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maxov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
+Vedela, kde pôvodne pristáli — Jaskyňa Ela vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maksov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
 **Vzala so sebou Anténu** — svoju vernú palicu, nástroj, ktorým postavila Elysium a ktorý ju chránil počas všetkých jej ciest. Bez nej by cestu neprežila.
 Cesta trvala dva roky. Išla pešo. Jej nanotechnologické batérie zlyhávali. Každý krok bol bolesť.
 - Prešla cez snehové búrky Severu.
 - Prežila útoky divej zveri len vďaka posledným zvyškom Spiry a **Anténe**, ktorá odpudzovala Wraithov.
 
 ### Myšlienky počas cesty
-Cestou do jaskyne veľa rozmýšľala a spomínala. Predstavovala si, ako by sa veci diali, keby boli spolu. Či by Elania vyrástla inak, keby mala otca. Či by vojny vôbec vypukli, keby Max stál po jej boku. Čím dlhšie kráčala, tým viac si uvedomovala, že to, čo kedysi vnímala ako jeho brutalitu, bolo možno len jeho spôsob lásky. A možno — možno — to, čo sa medzi nimi stalo na lodi, nebolo len jeho vina. Stále viac bola rozhodnutá zobudiť ho. Povedať mu všetko. Poprosiť o odpustenie.
+Cestou do jaskyne veľa rozmýšľala a spomínala. Predstavovala si, ako by sa veci diali, keby boli spolu. Či by Elania vyrástla inak, keby mala otca. Či by vojny vôbec vypukli, keby Maks stál po jej boku. Čím dlhšie kráčala, tým viac si uvedomovala, že to, čo kedysi vnímala ako jeho brutalitu, bolo možno len jeho spôsob lásky. A možno — možno — to, čo sa medzi nimi stalo na lodi, nebolo len jeho vina. Stále viac bola rozhodnutá zobudiť ho. Povedať mu všetko. Poprosiť o odpustenie.
 
 ### Smrť v Jaskyni
 Keď dorazila do jaskyne(alebo bunker - bludisko ktore poznala len ona vytesane do zulovej skaly), našla zvyšky svojho dávneho domova — steny pokryté kresbami (Eleniina práca), pozostatky hydroponických fariem, terminály, čo kedysi riadili ich život.
-- **Maxov kryobox:** Jediný modul v jaskyni, v minimálnej konfigurácii. Po 1000 rokoch prevádzky boli nanodrony na hranici kolapsu. Kontrolky blikali na zeleno —  Max vo vnútri bol  nažive: nanodrony udržiavali jeho základné funkcie, ale telo platilo dan.
+- **Maksov kryobox:** Jediný modul v jaskyni, v minimálnej konfigurácii. Po 1000 rokoch prevádzky boli nanodrony na hranici kolapsu. Kontrolky blikali na zeleno —  Maks vo vnútri bol  nažive: nanodrony udržiavali jeho základné funkcie, ale telo platilo dan.
 - **Jej plán:** Pôvodne ho chcela zobudiť a vysvetliť mu všetko. Ale nemala silu ani na samotný proces prebúdzania. A možno, po celých tých stáročiach, sa stále bála toho momentu.
 
 
 
 Sadla si k jeho modulu. Oprela si čelo o studené sklo.
-*„Prepáč, Max. Nechala som ťa spať príliš dlho. Teraz to budeš musieť upratať sám."*
+*„Prepáč, Maks. Nechala som ťa spať príliš dlho. Teraz to budeš musieť upratať sám."*
 
 Zomrela tam, v tichu jaskyne.
 Jej telo sa sa premenilo na onyxovu sochu a rozpadlo sa na prach (nanoboty sa deaktivovali a opustili hostiteľa). Ostali len jej denníky (kožené zväzky, ktoré písala celé roky), kosti — a **Anténa**, položená vedľa nej ako verný strážca.
-Max spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho tváre.
+Maks spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho tváre.
 
 ---
 
@@ -179,8 +179,8 @@ Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznal
 
 **Dôsledky:**
 - Tami od tohto momentu nesie **Echo Inetis** — fragmenty spomienok, vedeckej terminológie a schopností (liečenie, regenerácia). Prejavujú sa pomaly, podvedome — nočné mory v cudzom jazyku, intuícia, ktorú nedokáže vysvetliť.
-- **Podvedomá motivácia:** Echo Inetis ju ťahá k Maxovi. Tami si myslí, že ho hľadá pre seba — pre nevyriešené city. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán: zobudiť Maxa.
-- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne — preto je taká výnimočná v práci so Spirou (nad rámec toho, čo ju Max naučil).
+- **Podvedomá motivácia:** Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá pre seba — pre nevyriešené city. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán: zobudiť Maksa.
+- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne — preto je taká výnimočná v práci so Spirou (nad rámec toho, čo ju Maks naučil).
 
 ### Osud expedície
 

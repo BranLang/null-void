@@ -7,7 +7,7 @@
 timeline
     title Era of the Players and the Fall of Earth (EY)
     2035 : Rise of Superintelligence
-    2049 : Max's birth
+    2049 : Maks's birth
     2051 : i_net_is born (Neto Fujiwara ネト) (AI daughter)
     2065 : Project Achilles (VR) begins
     2060 : The Glitch Event (Time Dilation Trauma)
@@ -29,9 +29,9 @@ timeline
     700 : Second Coming (ARK-13) : Arrival of the Archangels
     1200 : Death of the real Grond : Dynasty of impostors begins
     2212 : Third Coming (Maki) : Blood Lesson : Silent Technology
-    3000 : Awakening of Maximilian
-    3001 : Duel Samaell vs Max : Death of Samaell
-    3008 : Tami leaves Max (RP 796)
+    3000 : Awakening of Maksimilian
+    3001 : Duel Samaell vs Maks : Death of Samaell
+    3008 : Tami leaves Maks (RP 796)
     3013 : Start of main story (RP 801)
 ```
 
@@ -54,7 +54,7 @@ Varietas divide history religiously:
 **Key reference points:**
 - `EY ~2300` = Fall of Earth
 - `AY 0` = **Module Landing**: The massive colony ships (ARK-11, ARK-12) couldn't land due to high gravity. They deployed only descent modules. The ships themselves later (after losing Inetis) crashed into the ocean. **ARK-13 "Prometheus"** (Infera) still orbits.
-- `AY ~3000` = Max's awakening
+- `AY ~3000` = Maks's awakening
 
 ---
 
@@ -77,16 +77,16 @@ Varietas divide history religiously:
 - **True purpose**: A laboratory for developing a path back into a physical body.
 - **Public purpose**: VR MMORPG with an ancient setting.
 
-### EY 2050 — Max's Birth
-- Maximilian is born in Eastern Europe.
+### EY 2050 — Maks's Birth
+- Maksimilian is born in Eastern Europe.
 - Son of a drone warfare veteran.
 - His generation of children lives hundreds of virtual years inside Achilles.
 
 ### EY ~2050–2060 — maXpowa & i_net_is
-- Max (nick: **maXpowa**) and i_net_is meet in the game.
+- Maks (nick: **maXpowa**) and i_net_is meet in the game.
 - i_net_is takes the form of a disturbingly perfect beauty — too symmetrical, too flawless. Players assume she's an AI admin.
 - **Creation of Spira**: At players' request, she creates in-game magic (Dust/Spirit).
-- Max and i_net_is become friends — Max has no idea she's an AI.
+- Maks and i_net_is become friends — Maks has no idea she's an AI.
 
 ### EY 2060 — "The Glitch Event"
 - **Not an accident, but failed communication**: The Shadows (Null Swarm) attempted mass contact with players.
@@ -107,7 +107,7 @@ Varietas divide history religiously:
 ### EY 2100 — Revolution of the Players
 - Slow, deliberate, nonviolent revolution.
 - Players seize power over the world.
-- Max and Inetis's guild leader, John Reef, becomes **Chief Coordinator**.
+- Maks and Inetis's guild leader, John Reef, becomes **Chief Coordinator**.
 - Nanotechnologies from the game are manufactured in reality. John Reef holds a monopoly and becomes wealthy and powerful enough to take over planetary governance.
 - Players — his inner circle (including modified Varietas who became famous) — assume power.
 
@@ -116,7 +116,7 @@ Varietas divide history religiously:
 ## Earth Era — Apex and Fall (EY 2100 – 2300)
 
 ### EY 2150 — Martian War and "Achilles Initiative"
-- **War with Mars**: Brutal conflict with separatists. Maximilian distinguishes himself as a **Major**.
+- **War with Mars**: Brutal conflict with separatists. Maksimilian distinguishes himself as a **Major**.
 - **Achilles Initiative (Propaganda)**: Earth's government launches a colonization project for a planet named after the VR game **"Celestial Frontier: Achilles"**.
 - **The Great Deception**: Officially presented as "humanity's great leap." In reality, it's the elite's escape from an approaching alien threat (detected ~EY 2130).
 - **Departure of ARK-11 and ARK-12**: Colony ships depart in EY 2150. Journey takes ~454 years (combination of FTL and cryostasis). Landing = AY 0 (EY 2604).
@@ -138,7 +138,7 @@ Varietas divide history religiously:
 - Earth became a "bridge" — they decided to destroy it.
 - Earth is destroyed.
 - **Operation EXODUS:**
-  - `NULL VOID` (FTL Prototype) — escape ship, Inetis + Maximilian, departure EY 2301, landing EY 2304 (3-year journey).
+  - `NULL VOID` (FTL Prototype) — escape ship, Inetis + Maksimilian, departure EY 2301, landing EY 2304 (3-year journey).
   - NULL VOID uses Shadow technology to achieve zero mass → FTL.
   - **Paradox**: ARK ships departed 151 years BEFORE NULL VOID (EY 2150), but landed 300 years AFTER it (AY 0 = EY 2604).
 - **ARK-13 "Prometheus"**: Ex Inferis ship, remained in orbit at Alpha Centauri, later arrived at Achilles (AY ~700).
@@ -148,14 +148,14 @@ Varietas divide history religiously:
 ## Before AY 0: Era of Pioneers
 
 ### EY 2300 + 3 years — Arrival of NULL VOID
-- Max and Inetis land on an **unterraformed** planet Kepler 452b.
+- Maks and Inetis land on an **unterraformed** planet Kepler 452b.
 - **NULL VOID**: Ship made **100% of nanodrones**, using Shadow technology — at zero mass it exceeded the speed of light.
-- **Trauma aboard the ship:** During the 3-year FTL journey, Max attacked Inetis. This act of violence is the origin of Elania's conception.
+- **Trauma aboard the ship:** During the 3-year FTL journey, Maks attacked Inetis. This act of violence is the origin of Elania's conception.
 - **Pregnancy shock:** After landing, Inetis discovers she's carrying a daughter, Elania. Cryosleep would kill the child.
-- **The lie about supplies:** Inetis deceived Max, telling him they didn't have enough supplies for 300 years and both had to go into cryosleep. Max was only a **passenger** — a soldier who didn't know about NULL VOID's true capabilities.
+- **The lie about supplies:** Inetis deceived Maks, telling him they didn't have enough supplies for 300 years and both had to go into cryosleep. Maks was only a **passenger** — a soldier who didn't know about NULL VOID's true capabilities.
 - **True reason:** Inetis wanted him gone — she was afraid of him. Trauma mixed with fear of his military ambitions and unpredictability. She put him to sleep intending to decide later. **She never resolved it** — couldn't kill him (knew the world would need him in the future), but couldn't bring herself to wake him. 300 years stretched to 3,000.
 - **Genetic modification attempt:** Tried to genetically modify the fetus to survive cryosleep in her body (so they could both sleep), but the experiment failed.
-- **Ship reconfiguration:** Inetis disassembled the entire NULL VOID ship (nanodrone construction) and reconfigured the nanodrones into machines — they carved out a cave-turned-massive-modern-complex, created a laboratory, hydroponic farms, modified the surroundings. Only two things remained: **Max's cryobox** (in minimal configuration, keeping him in stasis) and one **Antenna** (which glitched — it refused reconfiguration). The cryobox disintegrated to dust after Max's awakening (~AY 3000).
+- **Ship reconfiguration:** Inetis disassembled the entire NULL VOID ship (nanodrone construction) and reconfigured the nanodrones into machines — they carved out a cave-turned-massive-modern-complex, created a laboratory, hydroponic farms, modified the surroundings. Only two things remained: **Maks's cryobox** (in minimal configuration, keeping him in stasis) and one **Antenna** (which glitched — it refused reconfiguration). The cryobox disintegrated to dust after Maks's awakening (~AY 3000).
 
 ### The Next ~3 Years in the Cave
 - **Survival struggle:** Inetis nearly starved before she configured the nanobots into hydroponic systems.
@@ -269,8 +269,8 @@ Varietas divide history religiously:
 - Inetis cannot reach the core to solve Glitch Rot.
 
 ### Death of Inetis
-- Wants to awaken Max so he can help her reach the core of Elysium.
-- Dies from Glitch Rot. On the journey to Max.
+- Wants to awaken Maks so he can help her reach the core of Elysium.
+- Dies from Glitch Rot. On the journey to Maks.
 
 ### First Mainland Visit and the Gift of the Mother (~AY 700+)
 - **After returning from the simulation**: Inetis encounters a group of survivors in the ruins of Elysium.
@@ -301,63 +301,63 @@ Varietas divide history religiously:
 
 ## Main Story Timeline
 
-- **AY 3000 (RP 788)**: **Awakening of Maximilian**: Without memory, physically blind (**cryo-blindness**) and unable to communicate (**Old Speech**).
+- **AY 3000 (RP 788)**: **Awakening of Maksimilian**: Without memory, physically blind (**cryo-blindness**) and unable to communicate (**Old Speech**).
     - Pirates **Vix and Kael** kill treasure hunter **Renn** (Tami's father). His young daughter **Tami** (7) is kept in a cage.
-    - Kael awakens a Wraith of Inetis, which awakens Max. The Inetis Wraith kills Kael.
-    - Max wakes physically blind (eyes exploded from frost), covered in blue cryo-fluid.
+    - Kael awakens a Wraith of Inetis, which awakens Maks. The Inetis Wraith kills Kael.
+    - Maks wakes physically blind (eyes exploded from frost), covered in blue cryo-fluid.
     - **Samaell** wanders the wilderness near the cave for years, sensing Inetis's trace, occasionally finding a stray nanodrone. But he never gets closer than 100 kilometers to the cave. Until he spots Makita in the sky and starts following it. Kael and Vix lead him straight to the cave.
-    - Pirates find Max in the snow and take him aboard. Max and Tami meet on the ship.
+    - Pirates find Maks in the snow and take him aboard. Maks and Tami meet on the ship.
     - The cave (bunker) seals itself. Samaell cannot get in.
 
 - **Year of Shadows (AY 3000 – 3001)**:
-    - Max spends the first year physically dependent on 7-year-old Tami. He develops deep respect for her.
-    - **Chase with Samaell**: The Shadow Archangel hunts Max and Tami for the entire year.
-    - **Shattering of belief (The Realization)**: Max discovers that Earth is completely forgotten and the "Achilles Initiative" failed.
+    - Maks spends the first year physically dependent on 7-year-old Tami. He develops deep respect for her.
+    - **Chase with Samaell**: The Shadow Archangel hunts Maks and Tami for the entire year.
+    - **Shattering of belief (The Realization)**: Maks discovers that Earth is completely forgotten and the "Achilles Initiative" failed.
     - **Unit 734 ("Felix")**: Mako mechanic serves as a lifeline.
 
 - **Duel with Samaell (AY 3001)**:
-    - Max (still blind) uses nanodrones the size of grains of sand.
+    - Maks (still blind) uses nanodrones the size of grains of sand.
     - Technique from the Achilles simulation: FPV drones infiltrate the respiratory tract and explode.
     - Duel at enormous range — Samaell underestimated his opponent.
     - **Death of Samaell**: First Archangel killed since the arrival of ARK-13.
-    - **Techno-vampirism**: Max seizes Samaell's nanobots (Highlander style, gains muscle mass). His eyes return (from Dust).
+    - **Techno-vampirism**: Maks seizes Samaell's nanobots (Highlander style, gains muscle mass). His eyes return (from Dust).
 
 - **Great Revelation (AY 3001)**: End of the first year. Shock of discovering Tami (ears, tail) and Varietas society. Turning point for his ideology.
 
 - **AY 3001 – AY 3008**: **7-year journey**: Transformation from "wreck" to legendary Exorcist. Wandering with Tami as mentor and apprentice.
 
 - **Tami's confession and departure (AY 3008)**:
-    - Tami (15 years old) confesses her love to Max.
-    - Max rejects her — he sees a daughter in her, not a woman.
-    - Tami takes the airship and leaves Max in the wasteland.
+    - Tami (15 years old) confesses her love to Maks.
+    - Maks rejects her — he sees a daughter in her, not a woman.
+    - Tami takes the airship and leaves Maks in the wasteland.
 
 - **AY 3008 – AY 3013**: **5 years of separation**:
-    - Max continues as a solo Exorcist.
+    - Maks continues as a solo Exorcist.
     - Tami becomes a pirate, smuggler, treasure hunter.
     - Rapid rise to the top of the pyramid — a massive bounty in Nyau and Beladiss on her head.
     - Witnesses the burning of friends over an Antenna discovery.
 
 - **AY 3013**: **Start of main story** (Book 1).
-    - **Opening**: Max (tipsy) and Tami (20, captain) reunite after 5 years in Kito. They set out to avenge the death of Tami's friends, and Max takes interest in the artifact. The airship lands in the night city of Shoraven.
+    - **Opening**: Maks (tipsy) and Tami (20, captain) reunite after 5 years in Kito. They set out to avenge the death of Tami's friends, and Maks takes interest in the artifact. The airship lands in the night city of Shoraven.
     - **Heist plot**: Antenna hidden in the vaults beneath the Main Cathedral in Shoraven.
     - **War**: Graw (North) attacks Nevriss (South) — chaos they plan to exploit.
     - Activation of "The Pentagram Cycle."
-    - Max (a xenophobe from the past) must cooperate with Tami (a Tamer from the Varietas).
+    - Maks (a xenophobe from the past) must cooperate with Tami (a Tamer from the Varietas).
 
 ---
 
 ## Story of the Books
 
-**Cross-cutting arc — Ynetis Triangulation**: Max uses the Antenna for trigonometric triangulation of the lost city of Ynetis. He needs three high points by the sea: **Great Lighthouse** (Nevriss), **Glass Tower** (Zaya), and **Tower of the Damned** (Elania). Each visit is tied to a confrontation with a local Archangel.
+**Cross-cutting arc — Ynetis Triangulation**: Maks uses the Antenna for trigonometric triangulation of the lost city of Ynetis. He needs three high points by the sea: **Great Lighthouse** (Nevriss), **Glass Tower** (Zaya), and **Tower of the Damned** (Elania). Each visit is tied to a confrontation with a local Archangel.
 
-1. **EARTH | matter** — Max searches for Inetis in the new world. Flashback antagonist: Samaell (killed in AY 3001). Present antagonists: Grond (Graw invasion) + Paladins (double mini-boss fight at the Antenna).
+1. **EARTH | matter** — Maks searches for Inetis in the new world. Flashback antagonist: Samaell (killed in AY 3001). Present antagonists: Grond (Graw invasion) + Paladins (double mini-boss fight at the Antenna).
 Final boss is **Mormiel**, who communicates with Elania through the tower.
-**Triangulation 1/3**: Max activates the Antenna at the Great Lighthouse in Nevriss City.
+**Triangulation 1/3**: Maks activates the Antenna at the Great Lighthouse in Nevriss City.
 
 2. **FIRE | energy** — Flashbacks to Earth, Tami changes. Boss: Caesar (flashbacks to the Coordinator).
 
-3. **WATER | time** — Inetis POV, History of Elysium, revelation of Elania's identity. Boss: Ishtar/Zaya. **Triangulation 2/3**: Max obtains a reading from the Glass Tower in Zaya's kingdom.
+3. **WATER | time** — Inetis POV, History of Elysium, revelation of Elania's identity. Boss: Ishtar/Zaya. **Triangulation 2/3**: Maks obtains a reading from the Glass Tower in Zaya's kingdom.
 
-4. **AIR | space** — War with Elania, Doomsday Protocol. **Triangulation 3/3**: Final reading from the Tower of the Damned — Max calculates Ynetis's location.
+4. **AIR | space** — War with Elania, Doomsday Protocol. **Triangulation 3/3**: Final reading from the Tower of the Damned — Maks calculates Ynetis's location.
 
 5. **QUINTESSENCE | consciousness** — The Great Upload, return to The Core — VR Achilles, final merging with subspace.

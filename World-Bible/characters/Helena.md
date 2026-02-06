@@ -34,7 +34,7 @@ Potom prišiel rozkaz.
 
 **Koordinátor (John Reef)** — Inetisín otec — vydal Maximilánovi priamy rozkaz: *„Evakuuj moju dcéru. Postaraj sa o ňu. Toto je tvoja nová misia."*
 
-Max bol vojak. Nemohol rozkaz odmietnuť. A Koordinátor vedel, koho poslať — jediného muža, ktorému Inetis dôverovala.
+Maks bol vojak. Nemohol rozkaz odmietnuť. A Koordinátor vedel, koho poslať — jediného muža, ktorému Inetis dôverovala.
 
 > *„Ela, prepáč."*
 >
@@ -77,4 +77,4 @@ Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam a dívala sa, 
 - [ ] Jej úloha v komunite Ex Inferis
 - [ ] Detaily o vojne, v ktorej zahynula
 - [ ] Flashbacky spoločných momentov s Inetis
-- [ ] Helenin vzťah s Maxom (ak existoval)
+- [ ] Helenin vzťah s Maksom (ak existoval)

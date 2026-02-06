@@ -5,14 +5,14 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená), **nedoučená Exorcistka** (Maxov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
+- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená), **nedoučená Exorcistka** (Maksov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
-    - Max je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
+    - Maks je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
 - **Pôvod**: Vyrastala na východe, v **ruinách mesta Kito**.
     - Jej otec (Renn) bol hľadač pokladov, ktorý objavil stratené mesto Kito.
     - Spravili si tam domov. Žili tam s jej matkou a s **Felixom** (Mako, ktorý tam prežil).
-    - Felix bol pre ňu ako strýko. Učil ju o strojoch, Max ju učil bojovať.
+    - Felix bol pre ňu ako strýko. Učil ju o strojoch, Maks ju učil bojovať.
 - **Rasa**: Vulpini (Líška). Líšky sú takmer vyhynutou vetvou Varietas, známe pre extrémnu inteligenciu. Tami má ako jedna z mála modré "ľudské" oči a schopnosť ovládať Spiru (hoci to tají).
 - **Neverkyňa**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu mentoringu dokáže využívať Spiru na 200% — jeho vedecký prístup k nanotechnológii jej otvoril možnosti, ktoré veriaci Varietas nedokážu, pretože sú zviazaní dogmou Cirkvi.
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
@@ -23,18 +23,18 @@
 |-----|-----|---------|
 | **AY 2993** | 0 | Narodenie (potomok kolonistov z ARK-12). Vyrastá v ruinách mesta Kito s otcom Rennom a Felixom (Mako) |
 | **AY 3000** | 7 | Piráti (Vix a Kael) zabijú jej otca Renna kvôli mape k Jaskyni Počiatku. Tami je zajatá a držaná v klietke na palube pirátskej lode |
-| **AY 3000** | 7 | Piráti nájdu Maxa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Max a Tami sa stretnú — on v bezvedomí, ona v klietke |
-| **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maxa |
-| **AY 3001** | 8 | Max zabije Samaella v dueli |
-| **AY 3001-3008** | 8-15 | Putovanie s Maxom — Tami sa stáva jeho padavanom. Max ju trénuje ako Exorcistku: boj, zbrane, prežitie, duchovia a kostry v ruinách sú rutina — vie na ducha spraviť `sudo kill`. 7 rokov terénneho výcviku (ale bez teórie, hackingu, Linuxu — nedoučená, odišla pred dokončením) |
-| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maxovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
-| **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maxa v pustatine. 5 rokov sa neozve |
+| **AY 3000** | 7 | Piráti nájdu Maksa (slepého, s amnéziou) v snehu pri Jaskyni Počiatku. Vezmú ho na palubu. Maks a Tami sa stretnú — on v bezvedomí, ona v klietke |
+| **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maksa |
+| **AY 3001** | 8 | Maks zabije Samaella v dueli |
+| **AY 3001-3008** | 8-15 | Putovanie s Maksom — Tami sa stáva jeho padavanom. Maks ju trénuje ako Exorcistku: boj, zbrane, prežitie, duchovia a kostry v ruinách sú rutina — vie na ducha spraviť `sudo kill`. 7 rokov terénneho výcviku (ale bez teórie, hackingu, Linuxu — nedoučená, odišla pred dokončením) |
+| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
+| **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maksa v pustatine. 5 rokov sa neozve |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
 | **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
 | **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
-| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maxom (podvedome ťahaná k nemu cez Echo Inetis) |
+| **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maksom (podvedome ťahaná k nemu cez Echo Inetis) |
 
-### Tami po odchode od Maxa (AY 3008-3013)
+### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
 - **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
 - **Loď**: Vlastní vzducholoď **Makita** (trieda Jastrab, 4. kus).
@@ -54,17 +54,17 @@
 
 ![Tami vs Paladins - Ochrana Antény](../assets/characters/Tami/dungeon_battle.jpeg)
 
-*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Max ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Max pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Apriku, k Cézarovi.*
+*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Maks ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Maks pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Apriku, k Cézarovi.*
 
-### Vzťah s Maxom
-- **Pre Tami**: Max bol mentor, ale aj niečo viac — zamilovala sa
-- **Internal Nanotech (Passive)**: Max má v krvi "pasívne" nanoboty.
+### Vzťah s Maksom
+- **Pre Tami**: Maks bol mentor, ale aj niečo viac — zamilovala sa
+- **Internal Nanotech (Passive)**: Maks má v krvi "pasívne" nanoboty.
     - **Funkcia**: Regenerácia, zvýšená sila/rýchlosť, a hlavne **Osobný Asistent (AI)**. Beží mu v hlave, vedie s ním monológ, prehráva spomienky ako video súbory. Nedokážu však zregenerovať zničené oči (príliš komplexný orgán).
 - **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
-    - **Pôvod**: Vyrobila ich Inetis pre Maxa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
-    - **Funkcia**: Nahrádzajú mu zrak (kamery). Max ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
+    - **Pôvod**: Vyrobila ich Inetis pre Maksa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
+    - **Funkcia**: Nahrádzajú mu zrak (kamery). Maks ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
 - **Anténa (Húľ)**: Komunikačná anténa z lode NULL VOID.
-    - **Funkcia**: Teoreticky ovláda goo roje Wraithov a dokáže prijímať signály zo Zeme. Max je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
+    - **Funkcia**: Teoreticky ovláda goo roje Wraithov a dokáže prijímať signály zo Zeme. Maks je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
     - **Význam**: Varietas ju považujú za Palicu Súdneho Dňa — najsvätejšiu relikviu sveta.
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
@@ -85,30 +85,30 @@
 **Inteligentná manipulátorka:**
 - Social engineering expert — vie, ako ľudia fungujú
 - S cudzími: vypočítavá, šarmantná, nebezpečná
-- S Maxom: pravdivá, zraniteľná, niekedy detinská
+- S Maksom: pravdivá, zraniteľná, niekedy detinská
 
 **SPRÁVNE:**
 ```
-✅ "Max, čo kurva robíš?!"
+✅ "Maks, čo kurva robíš?!"
 ✅ "Dobre. Takže ideme kradnúť relikviu z chrámu. Super."
 ✅ Sarkastické komentáre, ostrý humor
 ```
 
 **ZAKÁZANÉ:**
 ```
-❌ Filozofické úvahy (to je Max/Kito)
-❌ Vojenský žargón (to je Max)
+❌ Filozofické úvahy (to je Maks/Kito)
+❌ Vojenský žargón (to je Maks)
 ❌ Formálna reč (je to pirátka, nie princezná)
 ```
 
-**Kontrast s Maxom:**
-- Max: *"Lead potvrdený. Pokračujeme."*
+**Kontrast s Maksom:**
+- Maks: *"Lead potvrdený. Pokračujeme."*
 - Tami: *"Takže ona VIE a NEPOVEDALA ti? To je hovno!"*
 
 ### Premena & Zvrat
 - **Echo Inetis (pred Book 1)**: Kontakt s pozostatkami Inetis v Jaskyni Počiatku (~AY 3011) — „hladné" nanodrony prešli na Tami. Od tohto momentu nesie fragmenty Inetis: spomienky (nočné mory v cudzom jazyku), vedeckú terminológiu, latentné schopnosti (liečenie, regenerácia). Efekty sú spočiatku subtílne — Tami si ich vysvetľuje ako intuíciu alebo talent.
-- **Podvedomá motivácia**: Echo Inetis ju ťahá k Maxovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maxa.
-- **Odhalenie (Kniha 1)**: Max zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
-- **Dôsledok**: Max zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
+- **Podvedomá motivácia**: Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maksa.
+- **Odhalenie (Kniha 1)**: Maks zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
+- **Dôsledok**: Maks zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
 - **Postupná premena**: Počas deja sa Echo Inetis zosilňuje — schopnosti sa stávajú výraznejšími, spomienky zreteľnejšími. Tami vie, že sa mení.
-- **Tragédia**: Bojí sa, že Maxa to teší — že v nej vidí mŕtvu Inetis, nie ju.
+- **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju.

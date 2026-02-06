@@ -78,7 +78,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 |-----------|--------|---------|
 | Boj / prežitie | 2-4 | Paladíni v kanáloch. Mercy-kill experimentov. Bombardovanie Šoravenu. |
 | Worldbuilding / prieskum | 4-6 | Mako workshop s čajovým rituálom. Tržnica v Šoravene. |
-| Bonding / oddych | 6-8 | Tami snark na palube Makity. Max „turista" na colnici. |
+| Bonding / oddych | 6-8 | Tami snark na palube Makity. Maks „turista" na colnici. |
 | Politika / náboženstvo | 3-5 | Goro Interlude. Cirkev exorcizmy. Sera/Elania dialóg. |
 | Sera scény | 2-8 | Zámerne nepredvídateľné — JE to jej charakter. Kawaii hlas → brutálny boj. |
 
@@ -88,7 +88,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 - **Typy:**
   - Slovenský wordplay — „Šo" = hovno v líščom jazyku (Ch1)
   - Japonské kultúrne humory — Mako rituály, Tami nesprávny úklon, „Kowai"
-  - Tami irreverentnosť vs. Maxov stoicizmus
+  - Tami irreverentnosť vs. Maksov stoicizmus
   - Sera kawaii hlas ako unsettling komika
 - **Pravidlo:** Humor nikdy nepodkopáva stávky — existuje VEDĽA tmy, nie namiesto nej.
 - **Príklad z Ch1:** Tami myslí „Šo?" o Šoravene, zatiaľ čo mesto je pod obliehaním a jej mŕtvi priatelia boli upálení na námestí.
@@ -99,7 +99,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 - **Typy:**
   - Inštitucionálne násilie — verejné upálenia, kastový systém, Blood Harvest Archanjelov
   - Body horror — Maya kryštalizácia, Glitch Rot, Blood Ritual sebazranenie
-  - Morálny kompromis — Max zabíja rutinne, Tami pragmaticky akceptuje násilie
+  - Morálny kompromis — Maks zabíja rutinne, Tami pragmaticky akceptuje násilie
   - Psychologická tma — Elania nihilizmus, 2750 rokov samoty
 - **Pravidlo:** Grimdark nikdy nie je gratuitný — vždy odhaľuje charakter alebo posúva tému.
 - **Príklad z Ch3:** Blood Ritual nie je torture porn — je to vojak obetujúci vlastné telo, lebo matematika hovorí, že iná cesta neexistuje.
@@ -122,10 +122,10 @@ NULL VOID nie je uzavretý príbeh s definovaným koncom. Je to **živý svet** 
 
 ### Základné princípy
 
-- **Svet funguje aj bez Maxa a Tami** — 3000 rokov žil vlastným životom. Legenda o konci sveta je len legenda. Max nie je „chosen one" — je len človek, čo sa zobudil. Žiadny boh, žiadne proroctvo. Svet ho nepotrebuje. On potrebuje svet pochopiť.
-- **Nikto nemá plot armor** — Keby Max zomrel pri strete s Paladínmi alebo v bitke o Šoraven, Tami ho oplače a ide ďalej. Stretne Linksa, žijú spolu. K Veľkému Uploadu asi nedôjde — záleží na tom, kto získa Anténu a na čo ju použije. Svet sa neotáča okolo jedného človeka. Anténa je MacGuffin, nie Max.
+- **Svet funguje aj bez Maksa a Tami** — 3000 rokov žil vlastným životom. Legenda o konci sveta je len legenda. Maks nie je „chosen one" — je len človek, čo sa zobudil. Žiadny boh, žiadne proroctvo. Svet ho nepotrebuje. On potrebuje svet pochopiť.
+- **Nikto nemá plot armor** — Keby Maks zomrel pri strete s Paladínmi alebo v bitke o Šoraven, Tami ho oplače a ide ďalej. Stretne Linksa, žijú spolu. K Veľkému Uploadu asi nedôjde — záleží na tom, kto získa Anténu a na čo ju použije. Svet sa neotáča okolo jedného človeka. Anténa je MacGuffin, nie Maks.
 - **Lore > Plot** — Svet je hlavná postava. Príbeh je len okno do sveta.
-- **Postavy prežijú** — Max Upload nie je nutné finále. Postavy môžu ísť ďalej.
+- **Postavy prežijú** — Maks Upload nie je nutné finále. Postavy môžu ísť ďalej.
 - **Nikdy nekončiaci sa príbeh** — Pentalógia je len prvý oblúk. Nie koniec.
 
 ### Rozšíriteľnosť
@@ -134,7 +134,7 @@ NULL VOID nie je uzavretý príbeh s definovaným koncom. Je to **živý svet** 
 |------|---------|
 | **Návrat na Zem** | Cyberpunk verzia rovnakého univerza. Čo sa stalo po Exode? |
 | **Nové kontinenty** | Achilles je super-Zem. Mapa ukazuje 4 kontinenty. Koľko ich je celkovo? |
-| **Nové éry** | Pred-Maxov Achilles. Éra Hráčov. Inetisine storočia. |
+| **Nové éry** | Pred-Maksov Achilles. Éra Hráčov. Inetisine storočia. |
 | **Nové postavy** | Každá krajina, každé mesto, každá loď má príbehy. |
 | **Iný žáner v rovnakom svete** | Detektívka v Nevriss. Horor v Ynetis. Political thriller v Graw. |
 | **What If línie** | Alternatívne verzie rovnakého univerza. Čo keby sa veci vyvinuli inak? |
@@ -143,12 +143,12 @@ NULL VOID nie je uzavretý príbeh s definovaným koncom. Je to **živý svet** 
 
 Sandbox znamená, že každé „čo keby" je legitímny príbeh:
 
-- **Keby Max nezomrel na Zemi:** Max a Inetis zakladajú dynastiu po tom, čo Koordinátor odíde do dôchodku. Žiadny Achilles. Žiadna Spira. Politický thriller na Zemi.
-- **Keby Max zomrel v Šoravene:** Tami + Links. Anténa sa dostane niekomu inému. Upload sa možno nikdy nestane.
-- **Keby Inetis zobudila Maxa po 300 rokoch:** Iný Achilles — menší, mladší svet. Max a Inetis spolu budujú civilizáciu. Elania vyrastá s oboma rodičmi.
+- **Keby Maks nezomrel na Zemi:** Maks a Inetis zakladajú dynastiu po tom, čo Koordinátor odíde do dôchodku. Žiadny Achilles. Žiadna Spira. Politický thriller na Zemi.
+- **Keby Maks zomrel v Šoravene:** Tami + Links. Anténa sa dostane niekomu inému. Upload sa možno nikdy nestane.
+- **Keby Inetis zobudila Maksa po 300 rokoch:** Iný Achilles — menší, mladší svet. Maks a Inetis spolu budujú civilizáciu. Elania vyrastá s oboma rodičmi.
 - **Keby Elania nikdy neodišla z Elysia:** Svet bez Upload hrozby. Wraithy sú najväčší problém. Sera nemá pána.
 
-**What If ako naratívny nástroj:** V Knihe 5 Elania použije What If priamo ako zbraň — ukáže Maxovi simuláciu Kieva, kde sa stretne s Inetis ako obyčajnou ženou. Idú na rande. Ako smrteľníci. Toto je najťažšie pokušenie ságy — nie moc, nie raj, ale normálny život, o ktorom vždy sníval.
+**What If ako naratívny nástroj:** V Knihe 5 Elania použije What If priamo ako zbraň — ukáže Maksovi simuláciu Kieva, kde sa stretne s Inetis ako obyčajnou ženou. Idú na rande. Ako smrteľníci. Toto je najťažšie pokušenie ságy — nie moc, nie raj, ale normálny život, o ktorom vždy sníval.
 
 Žiadna z alternatívnych línií nie je „nekanonická" — sú to okná do iných verzií rovnakého sveta. Každá má potenciál na vlastný príbeh.
 

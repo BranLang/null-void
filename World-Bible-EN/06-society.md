@@ -49,7 +49,7 @@ The ruling caste of immortal Homo Sapiens Sapiens. Founded by the four original 
 - **Harvesting (The Collection)**: Archangel hunters track down Varietas with the "Gift of the Mother." The process is brutal — the Archangels drain the nanobots from their bodies, killing the victim and leaving behind only a "dried-out husk."
 - **Consequence for Society**: Spira is viewed among the Varietas with hope but also extreme fear. Having abilities means becoming a target for the "Gods." This leads families to often hide their gifted children or suppress their abilities.
 - **Rulers**:
-    - **Samaell:** Shadow, secrecy, ancient technologies. **Dead** (killed by Max in AY 3001).
+    - **Samaell:** Shadow, secrecy, ancient technologies. **Dead** (killed by Maks in AY 3001).
     - **Grond:** War, industry, brute force. **Dead** (~AY 1200, Glitch Rot) — replaced by a dynasty of impostors in his Power Armor.
     - **Zaya (Ishtar):** Pleasure, drugs, propaganda/illusions. Lives on Aprika in the Glass City.
     - **Elania:** The original leader, who acknowledged their supremacy in exchange for her people's survival. Serves as the "Gatekeeper." Lives on Neuropa.
@@ -106,9 +106,9 @@ For Varietas, Spira is a mystical force, but in reality it functions as programm
 
 ### Gen 1 vs. Varietas — Two Languages of Spira
 The contrast between nanotechnology generations defines the entire world:
-- **Gen 1 (Max/Humans)**: Military nanotechnology controlled directly — English Linux commands, CLI interface, raw data streams. When Max issues a command to his drones, it sounds like an incomprehensible prayer in a foreign tongue. To Varietas, his words are an *alien incantation* — terrifying and powerful.
+- **Gen 1 (Maks/Humans)**: Military nanotechnology controlled directly — English Linux commands, CLI interface, raw data streams. When Maks issues a command to his drones, it sounds like an incomprehensible prayer in a foreign tongue. To Varietas, his words are an *alien incantation* — terrifying and powerful.
 - **Varietas (Haiku Syntax)**: Inetis disguised the Spira code within Japanese Haiku. Prayers to the Mother are actually macros and scripts — rhythmic, poetic commands that activate nanobots. A Varietas recites a Haiku to invoke a "spell." The Church teaches that poetry is the language of the Mother. The truth is that it is a programming language.
-- **Why It Works**: Gen 1 nanotech responds to English CLI commands (Old Speech). Varietas nanotech (designed by Inetis) responds to Haiku syntax. Both systems are programming — just in different languages. When Max and a Varietas meet in battle, it looks like a clash of two entirely different "schools" — as if one were casting spells in Latin and the other in Japanese.
+- **Why It Works**: Gen 1 nanotech responds to English CLI commands (Old Speech). Varietas nanotech (designed by Inetis) responds to Haiku syntax. Both systems are programming — just in different languages. When Maks and a Varietas meet in battle, it looks like a clash of two entirely different "schools" — as if one were casting spells in Latin and the other in Japanese.
 
 ### WaSpira (War Spira)
 A militant application of Spira, focused on destruction and combat.
@@ -119,9 +119,9 @@ A militant application of Spira, focused on destruction and combat.
 ### The Enlightened vs. Believers
 Two fundamental approaches to Spira define the world:
 - **Believing Varietas**: They are convinced that only strong faith in the Mother enables control of Spira. And they are partially right — Inetis designed the IDE system so that Spira's "syntax" requires mental discipline and rituals that religion naturally provides.
-- **The Enlightened (Unblessed Humans/Max)**: Humans like Max, who were not blessed by Inetis, see religion as a psychological weapon of mass control. Max understands Spira as pure technology and teaches Tami the same approach — even though he himself has no Spira.
+- **The Enlightened (Unblessed Humans/Maks)**: Humans like Maks, who were not blessed by Inetis, see religion as a psychological weapon of mass control. Maks understands Spira as pure technology and teaches Tami the same approach — even though he himself has no Spira.
 - **Blessed Ones (Blessed Ones)**: Descendants of Inetis's human team who were blessed by her touch alongside the early Varietas. They live on the **southern coast of Terra** in communities. They have Spira like Varietas but retained pure human bodies.
-- **Tami (Exception)**: One of the few Varietas who does not believe in the Mother. Thanks to Max's scientific mentorship, she can utilize Spira at 200% — she is not bound by Church dogma and experiments freely. The Church considers her a heretic.
+- **Tami (Exception)**: One of the few Varietas who does not believe in the Mother. Thanks to Maks's scientific mentorship, she can utilize Spira at 200% — she is not bound by Church dogma and experiments freely. The Church considers her a heretic.
 
 ### Usage in Speech
 - *"She has strong Spira"* = she has many nanobots in her blood
@@ -208,8 +208,8 @@ The Synths introduced a third side to the conflict.
 
 ### 4. Prejudice vs. Experience (Identity Crisis)
 The deepest psychological conflict of the world.
-- **Truth in Darkness**: Max's example shows that respect can be built even between mortal enemies when visual perception is suppressed.
-- **Consequence of Revelation**: When prejudice meets positive personal experience (e.g., Max discovers that his savior is a Varietas), identity shatters. The individual either accepts the new reality or retreats into even more aggressive hatred to protect their old worldview.
+- **Truth in Darkness**: Maks's example shows that respect can be built even between mortal enemies when visual perception is suppressed.
+- **Consequence of Revelation**: When prejudice meets positive personal experience (e.g., Maks discovers that his savior is a Varietas), identity shatters. The individual either accepts the new reality or retreats into even more aggressive hatred to protect their old worldview.
 
 ### 5. Achilles: The Myth of Fortress vs. The Reality of Rust
 The planet's name reflects the world's greatest irony.
@@ -331,7 +331,7 @@ The Cult of the Mother is the dominant religion in the south and east of the con
 >
 > **Why Everyone Wants It:** The Antenna is the only object on the planet capable of controlling large nanobot swarms. In the context of a world where goo swarms devour cities, it is the most powerful tool on the planet. **The Archangels**, **the Church**, **Grond**, **Apes** — all major players know about it and all of them want it.
 >
-> **Max's Interface:** Max (as a former military operator) is the only being on Achilles with a compatible interface to use it. For him, it is not Spira. It is hardware.
+> **Maks's Interface:** Maks (as a former military operator) is the only being on Achilles with a compatible interface to use it. For him, it is not Spira. It is hardware.
 
 ### Cult of the Immortal Grond (North — Graw)
 

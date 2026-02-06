@@ -128,7 +128,7 @@
 **OSINT mission:**
 - Collects every piece of information about Tami
 - Where she's been, what she's done, who she's talked to
-- Knows more about her than anyone — except Max
+- Knows more about her than anyone — except Maks
 - **Stalker? No. Fanboy? Maybe. In love? Definitely.**
 
 ---
@@ -168,7 +168,7 @@
 
 **Mormiel vs Tami:**
 - Without Gen 1 support, Mormiel has only Spira
-- Tami is young, but her teacher was **Max**
+- Tami is young, but her teacher was **Maks**
 - A long, exhausting duel
 - Tami wins — *just barely*
 
@@ -190,7 +190,7 @@
 - **Insecure:** Not a hero — just... a person
 
 ### Contrasts
-- **Vs Max:** Max is a veteran, cynical, numbed. Links is young, eager, vulnerable.
+- **Vs Maks:** Maks is a veteran, cynical, numbed. Links is young, eager, vulnerable.
 - **Vs Tami:** Tami acts on impulse. Links plans, analyzes, hesitates.
 - **Vs Sera:** Sera is a legend, 3200 years old. Links is nobody, 22 years old.
 
@@ -223,13 +223,13 @@ Technical explanations interrupted by nervousness
 
 **FORBIDDEN:**
 ```
-Military jargon (that's Max)
+Military jargon (that's Maks)
 Cool one-liners (he's not an action hero)
 Confident flirting (he's nervous)
 ```
 
 **Contrast:**
-- Max: *"Lead. Continuing."*
+- Maks: *"Lead. Continuing."*
 - Tami: *"What the fuck was that?!"*
 - Links: *"According to my data... hold on... yes, that was exactly what I was afraid it would be."*
 
@@ -261,23 +261,23 @@ Confident flirting (he's nervous)
 **Development:**
 - Links doesn't insult her, doesn't criticize her, doesn't judge her
 - He listens, helps, lets her lead
-- He's the **opposite of Max** — young, vulnerable, open
-- Tami slowly realizes that Max isn't the only option
+- He's the **opposite of Maks** — young, vulnerable, open
+- Tami slowly realizes that Maks isn't the only option
 
 **Conflict:**
-- Tami still loves Max (or the idea of him)
+- Tami still loves Maks (or the idea of him)
 - Links knows it — he read everything, heard every story
 - He doesn't fight for her — he's just there when she needs him
 - *"You don't have to choose me. It's enough that you exist."*
 
-### Max (Rival?)
+### Maks (Rival?)
 
-**Links's view of Max:**
+**Links's view of Maks:**
 - Legend. Sleeper. Immortal exorcist.
 - But also: *"He left her. Rejected her. Hurt her."*
 - Links respects him as a soldier — not as a partner for Tami
 
-**Max's view of Links:**
+**Maks's view of Links:**
 - TBD — do they meet later?
 - Probably: *"Who is this kid?"*
 
@@ -339,16 +339,16 @@ Confident flirting (he's nervous)
 - He's not a hero — he's a **normal person** in a world of legends
 - His strength is in his **brain**, not his muscles
 - Nervous around Tami — but not pathetic, just human
-- Counterpoint to Max — youth vs experience
+- Counterpoint to Maks — youth vs experience
 
 **Contrast with others:**
-- Max: 3000 years, cynical, numbed, rejected Tami
+- Maks: 3000 years, cynical, numbed, rejected Tami
 - Links: 22 years, idealistic, vulnerable, seeking Tami
 - Sera: legend, untouchable
 - Links: nobody, mortal
 
 **Avoid:**
-- Don't make him a "better Max" — he's different, not better
+- Don't make him a "better Maks" — he's different, not better
 - Don't make him a damsel-saver — Tami saves herself, he just helps
 - Don't make him a perfect boyfriend — he has flaws, he's insecure
 
