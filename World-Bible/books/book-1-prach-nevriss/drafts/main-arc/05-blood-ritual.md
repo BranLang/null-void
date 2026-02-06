@@ -8,17 +8,17 @@
 
 Piata noc obliehania. Šoraven horel.
 
-Nie celý. Nie naraz. Grawské delostrelectvo pracovalo metodicky — sektor po sektore, blok po bloku. Najprv svetlice na padákoch, potom zápalné granáty, potom ťažké kalibry na všetko, čo sa ešte hýbalo. Stará doktrína opotrebovania. Max ju poznal. Na Zemi sa volala *Verdun*. Tu nemala meno. Tu to bola len noc, ďalšia z mnohých, v ktorej ľudia horeli a generáli počítali.
+Nie celý. Nie naraz. Grawské delostrelectvo pracovalo metodicky — sektor po sektore, blok po bloku. Najprv svetlice na padákoch, potom zápalné granáty, potom ťažké kalibry na všetko, čo sa ešte hýbalo. Stará doktrína opotrebovania. Maks ju poznal. Na Zemi sa volala *Verdun*. Tu nemala meno. Tu to bola len noc, ďalšia z mnohých, v ktorej ľudia horeli a generáli počítali.
 
-Vzduch vonial spáleninou a mokrým kameňom. Sladká, olejovitá chuť sadží sa usádzala na jazyku pri každom nádychu — pach horiacich trámov a koženej strešnej krytiny, zmiešaný so sírou z delostrelectva a niečím organickým, o čom bolo lepšie nepremýšľať. Max dýchal plytko. Cez ústa. Starý návyk z bitiek, kde vzduch klamal nos a zabíjal morálku.
+Vzduch vonial spáleninou a mokrým kameňom. Sladká, olejovitá chuť sadží sa usádzala na jazyku pri každom nádychu — pach horiacich trámov a koženej strešnej krytiny, zmiešaný so sírou z delostrelectva a niečím organickým, o čom bolo lepšie nepremýšľať. Maks dýchal plytko. Cez ústa. Starý návyk z bitiek, kde vzduch klamal nos a zabíjal morálku.
 
 Z predmestia zostali kostry domov. Obhorené trámy trčali do nočnej oblohy ako zlomené rebrá. Prázdne okná zívali do tmy. V uliciach sa tehly miešali s rozbitým nábytkom, s potrasenými obrazmi svätých a s telami, na ktoré si už nikto nepamätal. Obranné línie Šoravenu sa stiahli na Tretiu hradbu — poslednú pred centrom mesta a prístavom. Za ňou už bola len voda.
 
-Nad strechami krúžili tiene. Tri Grawské dvojplošníky — ťažkopádne stroje z dreva a plátna, s motormi, ktoré chrčali ako starci na smrteľnej posteli. Smradeli spáleným olejom a smolou. Keď preleteli nízko, Max počul škrípanie výstuží a cítil prúd teplého, mastného vzduchu, akoby sa nad mestom prehnalo obrovské chorľavé vtáča. Občas niektorý klesol a z pozorovateľného sedadla vyhodili dymovú bombu na označenie cieľa — červený dym, ktorý sa v nočnom vzduchu rozplynul ako kvapka krvi vo vode. Boli to vzácne stroje. Drahé. Graw si ich mohol dovoliť tri, možno štyri na celú kampaň. Ale aj tri stačili na to, aby obrancovia nemali kam sa skryť.
+Nad strechami krúžili tiene. Tri Grawské dvojplošníky — ťažkopádne stroje z dreva a plátna, s motormi, ktoré chrčali ako starci na smrteľnej posteli. Smradeli spáleným olejom a smolou. Keď preleteli nízko, Maks počul škrípanie výstuží a cítil prúd teplého, mastného vzduchu, akoby sa nad mestom prehnalo obrovské chorľavé vtáča. Občas niektorý klesol a z pozorovateľného sedadla vyhodili dymovú bombu na označenie cieľa — červený dym, ktorý sa v nočnom vzduchu rozplynul ako kvapka krvi vo vode. Boli to vzácne stroje. Drahé. Graw si ich mohol dovoliť tri, možno štyri na celú kampaň. Ale aj tri stačili na to, aby obrancovia nemali kam sa skryť.
 
 *Vzdušný prieskum: 3 dvojplošníky, obežná dráha 800m nad mestom. Rotácia: 12 minút. Vyzbrojenie: pozorovateľ + signálne bomby. Nemajú guľomety — len oči.*
 
-Max ležal na bruchu na streche vyhorenej mäsiarskej dielne. Škridly pod ním boli ešte teplé od požiaru, čo zúril predchádzajúcu noc. Cítil ich teplo cez kabát — príjemné, keby ignoroval dôvod. Kito mu ráno doniesol pušku — starú opakovačku z Grawského mŕtveho, s pažbou rozštiepnutou šrapnelom. Páchnala iným mužom — potom, koženým remienkom, trochou niečoho sladkého, čo si asi dával do vody. Vedľa nej ležali ďalšie tri — pozbierané z tiel, vyčistené, nabité. Zásoby sa tu nenosili. Zásoby sa tu zdedili.
+Maks ležal na bruchu na streche vyhorenej mäsiarskej dielne. Škridly pod ním boli ešte teplé od požiaru, čo zúril predchádzajúcu noc. Cítil ich teplo cez kabát — príjemné, keby ignoroval dôvod. Kito mu ráno doniesol pušku — starú opakovačku z Grawského mŕtveho, s pažbou rozštiepnutou šrapnelom. Páchnala iným mužom — potom, koženým remienkom, trochou niečoho sladkého, čo si asi dával do vody. Vedľa nej ležali ďalšie tri — pozbierané z tiel, vyčistené, nabité. Zásoby sa tu nenosili. Zásoby sa tu zdedili.
 
 *Žiadny samopal. Žiadna nanomunícia. Pušky zo storočia, ktoré by na Zemi neprešli cez kontrolu kvality.*
 
@@ -30,13 +30,13 @@ Nanoboty mu kreslili mapu v reálnom čase. Každú tepelnú signatúru, každý
 
 *Grawská línia: 2.4 km od pozície. Ťažké delostrelectvo: 6 km. Veliteľský stan: neidentifikovaný. Pechota: odhadom 8000, rozložená v troch prúdoch. Smer: JV, J, JZ. Kliešťový manéver. Parné tanky: 5, koncentrované na južnom prúde. Pozor: vysokotlaké kotly — pri prieniku strely detonácia parou.*
 
-Na predmestí stáli ruiny toho, čo bývalo mýtnou stanicou. Teraz tam ležal prevrátený parný tank — masívna oceľová krabica na húsenicovom podvozku, z ktorej trčala deformovaná hlaveň. Obrancom sa podarilo trafiť ho do kotla. Výsledok vyzeral ako výbuch parného hrnca veľkosti domu. Oceľové pláty sa roztvorili ako lupienky kvetu a zvnútra vyrazil gejzír vriacej pary, ktorý uvaril posádku zaživa. V rannom svetle bolo vidieť hnedé škvrny na zvnútra obnaženom kove. Max ten pohľad poznal. Na Marse vyzerali tanky rovnako, keď posádka nestihla ujsť. Iná planéta, iné storočie, rovnaký pach.
+Na predmestí stáli ruiny toho, čo bývalo mýtnou stanicou. Teraz tam ležal prevrátený parný tank — masívna oceľová krabica na húsenicovom podvozku, z ktorej trčala deformovaná hlaveň. Obrancom sa podarilo trafiť ho do kotla. Výsledok vyzeral ako výbuch parného hrnca veľkosti domu. Oceľové pláty sa roztvorili ako lupienky kvetu a zvnútra vyrazil gejzír vriacej pary, ktorý uvaril posádku zaživa. V rannom svetle bolo vidieť hnedé škvrny na zvnútra obnaženom kove. Maks ten pohľad poznal. Na Marse vyzerali tanky rovnako, keď posádka nestihla ujsť. Iná planéta, iné storočie, rovnaký pach.
 
 Ďalšie štyri tanky postupovali opatrnejšie.
 
 Tami bola v prístave. Opravovala kompresor na Felixovi — kanón, ktorý mohol zmeniť priebeh noci, ak bude fungovať. Kito bol pri Maye. Bez okuliarov, takmer slepý, ale stále užitočný — jeho mapy tunelov zachránili desiatky civilistov, ktorí cez ne utiekli z horiacich štvrtí.
 
-Max bol sám. Tam, kde patril.
+Maks bol sám. Tam, kde patril.
 
 *Velenie. Trinásť rokov bez neho. Ako jazyk, ktorý si zabudol — a potom ti niekto povie jedno slovo a ty si pamätáš celé vety.*
 
@@ -48,13 +48,13 @@ Max bol sám. Tam, kde patril.
 
 Prvý kontakt prišiel o šiestej večer.
 
-Max to počul skôr, než to videl. Dunenie krokov na zamrznutej zemi — tisícky podkovaných čižiem na dlažbe, rytmické, ťažké, ako tep obrovského srdca. Potom zvonenie výstroja — bajonety o pušky, granáty o opasky, remeň o remeň. A cez to všetko — parné motory tankov. Nie rev, nie hukot. Chrčanie. Astmatické, vlhké chrčanie starých strojov, z ktorých unikala para v nepravidelných obláčkoch.
+Maks to počul skôr, než to videl. Dunenie krokov na zamrznutej zemi — tisícky podkovaných čižiem na dlažbe, rytmické, ťažké, ako tep obrovského srdca. Potom zvonenie výstroja — bajonety o pušky, granáty o opasky, remeň o remeň. A cez to všetko — parné motory tankov. Nie rev, nie hukot. Chrčanie. Astmatické, vlhké chrčanie starých strojov, z ktorých unikala para v nepravidelných obláčkoch.
 
-Grawská pechota prešla cez ruiny Rybárskeho predmestia. Dva prápory v sivých kabátoch — vlhkých od snehu, na nich škvrny od bahna a jedla a niečoho tmavého, čo mohla byť krv. Bajonety na puškách blysli v žiari svetlíc. Pred sebou hádzali dymovnice — žltkastý, sírnatý dym, od ktorého pálili oči a dráždilo hrdlo. Za nimi ťažké guľomety na vozíkoch ťahaných oslami — unavenými zvieratami s hlavami sklopenými k zemi, z nozdrí im stúpala para. Za nimi, v bezpečnej vzdialenosti, chrčali dva parné tanky — plátmi pokryté monštrá, z ktorých šľahala para cez výfukové ventily. Z jedného kvapkalo niečo tmavé na sneh. Olej alebo kondenzát. Max cítil ten pach — ropný, mastný, horký — aj na dvesto metrov.
+Grawská pechota prešla cez ruiny Rybárskeho predmestia. Dva prápory v sivých kabátoch — vlhkých od snehu, na nich škvrny od bahna a jedla a niečoho tmavého, čo mohla byť krv. Bajonety na puškách blysli v žiari svetlíc. Pred sebou hádzali dymovnice — žltkastý, sírnatý dym, od ktorého pálili oči a dráždilo hrdlo. Za nimi ťažké guľomety na vozíkoch ťahaných oslami — unavenými zvieratami s hlavami sklopenými k zemi, z nozdrí im stúpala para. Za nimi, v bezpečnej vzdialenosti, chrčali dva parné tanky — plátmi pokryté monštrá, z ktorých šľahala para cez výfukové ventily. Z jedného kvapkalo niečo tmavé na sneh. Olej alebo kondenzát. Maks cítil ten pach — ropný, mastný, horký — aj na dvesto metrov.
 
-Na Tretej hradbe ich čakali obrancovia. Dobrovoľníci — rybári s dlhými nožmi zastrčenými za opaskom, kováči s rukami ako lopaty, traja kňazi s puškami a modlitebnými vrkolikmi na krku, a dvadsaťpäť žoldnierov, ktorí zostali, lebo nemali kam utiecť. Hradba smrdela potom a strachom — tá špecifická kyslá vôňa, ktorú Max poznal z tisícov nocí pred bitkou. Vôňa ľudí, ktorí vedia, že ráno nemusí prísť. Velil im seržant — Mezra s jedným okom a chýbajúcou čeľusťou. Spodnú časť tváre mal zakrytú koženým chráničom, spod ktorého mu pri každom slove unikala slina. Veterán z poslednej vojny, ktorý velil preto, že všetci dôstojníci boli mŕtvi.
+Na Tretej hradbe ich čakali obrancovia. Dobrovoľníci — rybári s dlhými nožmi zastrčenými za opaskom, kováči s rukami ako lopaty, traja kňazi s puškami a modlitebnými vrkolikmi na krku, a dvadsaťpäť žoldnierov, ktorí zostali, lebo nemali kam utiecť. Hradba smrdela potom a strachom — tá špecifická kyslá vôňa, ktorú Maks poznal z tisícov nocí pred bitkou. Vôňa ľudí, ktorí vedia, že ráno nemusí prísť. Velil im seržant — Mezra s jedným okom a chýbajúcou čeľusťou. Spodnú časť tváre mal zakrytú koženým chráničom, spod ktorého mu pri každom slove unikala slina. Veterán z poslednej vojny, ktorý velil preto, že všetci dôstojníci boli mŕtvi.
 
-Max ich sledoval zo strechy. Videl, ako sa seržantovi triasú ruky — nie celé, len konečky prstov, tam kde sa stretali s puškou. Videl, ako mladí dobrovoľníci zvierajú pušky tak kŕčovito, až im bieleli kĺby. Jeden z nich — chlapec, sotva šestnásť, s líščím nosom a očami pristarými na tú tvár — opakovane prehĺtal. Videl paniku, ktorá sa šírila tichými pohľadmi — ten druh paniky, čo nezačne krikom, ale tým, že ľudia prestanú rozprávať.
+Maks ich sledoval zo strechy. Videl, ako sa seržantovi triasú ruky — nie celé, len konečky prstov, tam kde sa stretali s puškou. Videl, ako mladí dobrovoľníci zvierajú pušky tak kŕčovito, až im bieleli kĺby. Jeden z nich — chlapec, sotva šestnásť, s líščím nosom a očami pristarými na tú tvár — opakovane prehĺtal. Videl paniku, ktorá sa šírila tichými pohľadmi — ten druh paniky, čo nezačne krikom, ale tým, že ľudia prestanú rozprávať.
 
 *Poznal ten výraz. Videl ho na tisícke tvárí pred Olympom. Profesionáli, trénovaní roky, vybavení tým najlepším — a tváre mali rovnaké. Rovnaká biela okolo očí. Rovnaký prázdny pohľad do zeme medzi rozkazmi. Strach nerozlišoval medzi storočiami.*
 
@@ -64,7 +64,7 @@ Tridsať sekúnd. Potom prvý granát.
 
 *Šesťdesiat obrancov proti osemsto. Žiadna podpora. Žiadne zálohy.*
 
-Max vstal. Zošmykol sa zo strechy — škridly pod nohami zaškrípali, jedna sa odlomila a rozbila sa o dlažbu dolu. Prebehol ulicou, preskočil barikádu z vriec s pieskom a pristál na hradbe vedľa seržanta. Z blízka cítil jeho dych — pálenku, nevyčistené zuby a niečo metalické, čo mohla byť krv z ďasien.
+Maks vstal. Zošmykol sa zo strechy — škridly pod nohami zaškrípali, jedna sa odlomila a rozbila sa o dlažbu dolu. Prebehol ulicou, preskočil barikádu z vriec s pieskom a pristál na hradbe vedľa seržanta. Z blízka cítil jeho dych — pálenku, nevyčistené zuby a niečo metalické, čo mohla byť krv z ďasien.
 
 „Kto velí?" spýtal sa.
 
@@ -74,7 +74,7 @@ Seržant naňho pozrel jedným okom. Druhé bolo zakryté špinavou páskou, na 
 
 Slovo prebehlo hradbou ako elektrický šok. Hlavy sa otočili. Oči sa rozšírili. Jeden z kňazov si pritlačil vrkolík k hrudi. *Exorcista.* Muž bez Spiry, bez požehnania, bez ničoho — a predsa niečo, z čoho mali ľudia väčší strach než z Graw.
 
-Max ignoroval pohľady. Pozrel cez okraj hradby. Videl to, čo ostatní nie.
+Maks ignoroval pohľady. Pozrel cez okraj hradby. Videl to, čo ostatní nie.
 
 „Presúvajú guľomety na severné krídlo. Chcú vás pripichnúť k múru a potom obísť z boku cez námestie." Ukázal. „Tamtie tri okná — vidíte tú budovu s červenou strechou? Tam budú za desať minút. Ak im necháte to námestie, ste v obkľúčení."
 
@@ -84,7 +84,7 @@ Seržant Bran naňho zízal. „Odkiaľ to vieš?"
 
 „Cez celé predmestie? Cez dym a tmu?"
 
-Max sa naňho pozrel. Bez okuliarov. Čierne oči — nie ľudské, nie zvieracie — *stroje* v prázdnych očných jamkách, v ktorých sa mihali mikroskopické body svetla. Bran sa zachvel. Max to videl — jemný záchvev svalov na krku, primitívna reakcia na niečo, čo mozog zaradil do kategórie *predátor*.
+Maks sa naňho pozrel. Bez okuliarov. Čierne oči — nie ľudské, nie zvieracie — *stroje* v prázdnych očných jamkách, v ktorých sa mihali mikroskopické body svetla. Bran sa zachvel. Maks to videl — jemný záchvev svalov na krku, primitívna reakcia na niečo, čo mozog zaradil do kategórie *predátor*.
 
 Seržant cúvol. Potom sa zastavil. Pozrel na svojich ľudí. Na chlapcov s puškami, ktorým sa triasli ruky. Na kňaza, čo sa modlil s očami otvorenými a nábojmi na kolenách.
 
@@ -96,7 +96,7 @@ Dve slová. Kapitulačné a zároveň najodvážnejšie, čo za celú noc poveda
 
 ---
 
-Max nevyhlásil, že preberá velenie. Nemusel. Hovoril ticho. Jasne. Každé slovo bolo rozkaz, aj keď znelo ako návrh.
+Maks nevyhlásil, že preberá velenie. Nemusel. Hovoril ticho. Jasne. Každé slovo bolo rozkaz, aj keď znelo ako návrh.
 
 „Desať ľudí do budovy oproti — druhé poschodie, okná na sever. Palba na guľometné pozície, keď prejdú námestie. Nie skôr. Počkajte, kým budú v strede — tam nemajú krytie."
 
@@ -106,7 +106,7 @@ Seržant prikývol. „Ešte?"
 
 Bran si ho premeral. „Odkiaľ vieš, ako bojujú?"
 
-Max neodpovedal.
+Maks neodpovedal.
 
 *Pretože na Zemi som velil desaťtisíc mužom proti Marťanom, ktorí nás presne takto obkľúčili pri Olympe. A prežilo nás sedemsto.*
 
@@ -116,7 +116,7 @@ A niečo sa zmenilo.
 
 Bol to nepatrný posun. Nie v stratégii — v *energii*. Muži, ktorí pred chvíľou vyzerali ako ovce čakajúce na porážku, zrazu mali *plán*. Plán menil všetko. Plán znamenal, že niekto premýšľa. Že nie sú sami. Že existuje mozog, ktorý vidí to, čo oni nie.
 
-Max to cítil. Poznal to. Starý pocit, ktorý nemal trinásť rokov. Pocit tisícov nervových zakončení napojených na jeden účel. Ako keď si oblečieš starý kabát a nájdeš v ňom kľúče od bytu, v ktorom si dávno nebýval.
+Maks to cítil. Poznal to. Starý pocit, ktorý nemal trinásť rokov. Pocit tisícov nervových zakončení napojených na jeden účel. Ako keď si oblečieš starý kabát a nájdeš v ňom kľúče od bytu, v ktorom si dávno nebýval.
 
 *Velenie.*
 
@@ -128,15 +128,15 @@ Ryba vo vode. A to bolo to desivé. Že po trinástich rokoch, po všetkom, čo 
 
 Prvý nápor odrazili.
 
-Grawská pechota prešla cez námestie presne tam, kde Max predpovedal. Desať strelcov z budovy oproti otvorilo paľbu v momente, keď boli v strede — bez krytia, na otvorenom priestranstve. Ozveny výstrelov sa odrážali od stien a splývali do jedného dlhého hrmenia. Sivé kabáty padali do snehu, ktorý tmavel pod nimi. Niektorí kričali. Väčšina nie.
+Grawská pechota prešla cez námestie presne tam, kde Maks predpovedal. Desať strelcov z budovy oproti otvorilo paľbu v momente, keď boli v strede — bez krytia, na otvorenom priestranstve. Ozveny výstrelov sa odrážali od stien a splývali do jedného dlhého hrmenia. Sivé kabáty padali do snehu, ktorý tmavel pod nimi. Niektorí kričali. Väčšina nie.
 
-Zvyšok preskočil hradbu. Seržant Bran spustil paľbu zvrchu, do chrbátov tých, čo sa práve vyťahovali — Max počul škrabanie nechtov o kameň, namáhavé funenie, a potom zvuk, aký vydáva ľudské telo, keď doň vojde guľka z troch krokov. Mokrý, mäsitý. Trvalo to štyri minúty. Dvadsaťšesť mŕtvych Graw. Traja obrancovia.
+Zvyšok preskočil hradbu. Seržant Bran spustil paľbu zvrchu, do chrbátov tých, čo sa práve vyťahovali — Maks počul škrabanie nechtov o kameň, namáhavé funenie, a potom zvuk, aký vydáva ľudské telo, keď doň vojde guľka z troch krokov. Mokrý, mäsitý. Trvalo to štyri minúty. Dvadsaťšesť mŕtvych Graw. Traja obrancovia.
 
-„Dobrý pomer," konštatoval Max bez emócie.
+„Dobrý pomer," konštatoval Maks bez emócie.
 
 „*Dobrý pomer*?" Bran na neho zízal. Koženým chráničom na čeľusti mu presakovala slina. „Traja z mojich—"
 
-„Šesťdesiat proti osemsto," prerušil ho Max. „Za hodinu ich bude dvetisíc. Potrebuješ každú guľku, každého muža a každú sekundu, ktorú ti ten pomer kúpi."
+„Šesťdesiat proti osemsto," prerušil ho Maks. „Za hodinu ich bude dvetisíc. Potrebuješ každú guľku, každého muža a každú sekundu, ktorú ti ten pomer kúpi."
 
 Bran stíchol. Pochopil.
 
@@ -146,11 +146,11 @@ Bran stíchol. Pochopil.
 
 Boj sa presunul do ulíc.
 
-Tu sa veľké vzdialenosti skončili. Tu vládli nože, bajonety a pušky na tri kroky. Tu si cítil dych nepriateľa na tvári, skôr než si ho uvidel. Grawská doktrína bola jednoduchá — plameňomety na prízemie, granáty do okien, bajonety na všetko, čo prežije. Vzduch smrdel benzínom a spáleným mäsom — plameňomety nezanechávali len popol, zanechávali *pach*, ktorý sa usadil do stien a z ktorého sa žalúdok obracal ešte hodiny potom. Parné tanky sa motali na križovatkách — príliš veľké na úzke uličky, príliš pomalé na prepady. Jeden sa zasekol medzi dvoma domami. Motory mu revali, húsenice drali dlažbu, z pásov odletovali iskry. Obrancovia ho poliali olejom a zapálili. Kotol vybuchol o tri minúty neskôr — stĺp vriacej pary a oceľových úlomkov, ktorý zabil posádku a dvoch Grawčanov, čo sa snažili pomôcť. Krik posádky trval osem sekúnd. Max počítal.
+Tu sa veľké vzdialenosti skončili. Tu vládli nože, bajonety a pušky na tri kroky. Tu si cítil dych nepriateľa na tvári, skôr než si ho uvidel. Grawská doktrína bola jednoduchá — plameňomety na prízemie, granáty do okien, bajonety na všetko, čo prežije. Vzduch smrdel benzínom a spáleným mäsom — plameňomety nezanechávali len popol, zanechávali *pach*, ktorý sa usadil do stien a z ktorého sa žalúdok obracal ešte hodiny potom. Parné tanky sa motali na križovatkách — príliš veľké na úzke uličky, príliš pomalé na prepady. Jeden sa zasekol medzi dvoma domami. Motory mu revali, húsenice drali dlažbu, z pásov odletovali iskry. Obrancovia ho poliali olejom a zapálili. Kotol vybuchol o tri minúty neskôr — stĺp vriacej pary a oceľových úlomkov, ktorý zabil posádku a dvoch Grawčanov, čo sa snažili pomôcť. Krik posádky trval osem sekúnd. Maks počítal.
 
 *Parné tanky v uliciach: neefektívne. Ale na otvorenom priestranstve: problém.*
 
-Max sa pohyboval medzi skupinami obrancov ako tieň. Nikde nezostal dlhšie než päť minút. Inštrukcie. Presun. Inštrukcie. Pod nohami mu chrastili nábojnice, kusy tehál a sklo z vybitých okien. Prechádzal cez dvory, kde na šnúrach ešte viselo zamrznuté prádlo, a cez kuchyne, kde na sporáku chladol hrniec polievky, ktorú nikto nedojedol. V jednej z nich sa zastavil. Nie preto, že musel. Preto, že kuchyňa vyzerala *normálne*. Stolička odsunutá od stola. Na stole miska s lyžicou — lyžica ešte vnútri, naklonená o okraj, akoby ten, čo jedol, len odskočil a chcel sa vrátiť. Na parapete okna kvetináč s niečím hnedým a mŕtvym. Na stene kríž s vrkolíkom.
+Maks sa pohyboval medzi skupinami obrancov ako tieň. Nikde nezostal dlhšie než päť minút. Inštrukcie. Presun. Inštrukcie. Pod nohami mu chrastili nábojnice, kusy tehál a sklo z vybitých okien. Prechádzal cez dvory, kde na šnúrach ešte viselo zamrznuté prádlo, a cez kuchyne, kde na sporáku chladol hrniec polievky, ktorú nikto nedojedol. V jednej z nich sa zastavil. Nie preto, že musel. Preto, že kuchyňa vyzerala *normálne*. Stolička odsunutá od stola. Na stole miska s lyžicou — lyžica ešte vnútri, naklonená o okraj, akoby ten, čo jedol, len odskočil a chcel sa vrátiť. Na parapete okna kvetináč s niečím hnedým a mŕtvym. Na stene kríž s vrkolíkom.
 
 Chvíľu stál. Počúval. Nič — len ďaleké dunenie a praskanie požiarov. Vonku sa bojovalo o ulice. Tu visela utierka na háčiku a z hrnca stúpala posledná nitka pary.
 
@@ -168,25 +168,25 @@ Dva razy strieľal. Raz z pušky — Grawský poddôstojník, ktorý viedol čat
 
 Druhý raz z pištole zdvihnutej z mŕtveho. Dva výstrely do tmy pivnice, kde sa ukrývali traja prieskumníci. Nanoboty mu ukázali ich presné pozície cez tri steny — tepelné škvrny, pulzujúce, živé. Po výstreloch prestali pulzovať. Šetrili muníciu, nie životy.
 
-Max Prach nepoužil.
+Maks Prach nepoužil.
 
 *Záloha: 72%. Dostatočné na senzoriku a regeneráciu. Útočný režim: Nie. Ešte nie.*
 
-Hodiny plynuli. Graw tlačil. Obrancovia ustupovali — kontrolovane, blok po bloku, ako im Max povedal. Ale za každým ustúpeným blokom bolo menej mužov, menej munície a viac tiel na dlažbe. V jednej uličke prekročil telo mladého kňaza — toho, čo sa modlil s nábojmi na kolenách. Ešte stále zvieral pušku. Vrkolík mu visol na rozstrieľanom krku.
+Hodiny plynuli. Graw tlačil. Obrancovia ustupovali — kontrolovane, blok po bloku, ako im Maks povedal. Ale za každým ustúpeným blokom bolo menej mužov, menej munície a viac tiel na dlažbe. V jednej uličke prekročil telo mladého kňaza — toho, čo sa modlil s nábojmi na kolenách. Ešte stále zvieral pušku. Vrkolík mu visol na rozstrieľanom krku.
 
-Max sa zastavil. Len na sekundu. Pozrel sa na tvár — mladú, udivenú, s otvorenými očami, v ktorých sa odrážalo oranžové svetlo požiarov. Ústa pootvorené v strede slova, ktoré nikdy nedokončil. Modlitba, alebo nadávka — nikto sa nikdy nedozvie.
+Maks sa zastavil. Len na sekundu. Pozrel sa na tvár — mladú, udivenú, s otvorenými očami, v ktorých sa odrážalo oranžové svetlo požiarov. Ústa pootvorené v strede slova, ktoré nikdy nedokončil. Modlitba, alebo nadávka — nikto sa nikdy nedozvie.
 
 *Nepoznám tvoje meno. Budem si pamätať tvoju tvár.*
 
 Kráčal ďalej.
 
-Nad hlavami krúžili dvojplošníky. Hádzali svetlice, ktoré svietili cez nočnú oblohu ako falošné mesiace — oranžovobiely žiar, pri ktorom sa tiene obrancov náhle natiahli po celej ulici, a potom zhasli, keď svetlica dohorela. Vždy, keď sa červená dymovnica zapálila na streche, do tridsiatich sekúnd nasledoval granát z delostrelectva. Max sa naučil rozoznávať zvuk motorov — keď dvojplošník klesol, znamenalo to *bež*.
+Nad hlavami krúžili dvojplošníky. Hádzali svetlice, ktoré svietili cez nočnú oblohu ako falošné mesiace — oranžovobiely žiar, pri ktorom sa tiene obrancov náhle natiahli po celej ulici, a potom zhasli, keď svetlica dohorela. Vždy, keď sa červená dymovnica zapálila na streche, do tridsiatich sekúnd nasledoval granát z delostrelectva. Maks sa naučil rozoznávať zvuk motorov — keď dvojplošník klesol, znamenalo to *bež*.
 
 O polnoci prišiel posol od Brana. Mladý chlapec — Ghorki, sotva pätnásť, s krátkou psou srsťou na tvári a ustrašenými hnedými očami — predieral sa ulicou plnou trosiek. Zakrvácaný. Udýchaný. Pri každom nádychu mu z úst vychádzal obláčik pary, rýchly a nepravidelný ako srdce vtáka.
 
 „Exorcista!" kričal do tmy. „Seržant Bran posiela správu! Severné krídlo padlo! Nemáme muníciu! Sťahujeme sa k radnici!"
 
-Max stál na streche a díval sa na mesto, ktoré pomaly zomieralo. Oranžové svetlá požiarov, biely dym, zelené svetlice Graw, ktoré padali na padákoch a osvetľovali ulice mŕtvolným svetlom. Niekde dole sa rozpadla strecha a do noci vyleteli iskry — tisícky oranžových bodiek, ktoré stúpali k hviezdam a hasli.
+Maks stál na streche a díval sa na mesto, ktoré pomaly zomieralo. Oranžové svetlá požiarov, biely dym, zelené svetlice Graw, ktoré padali na padákoch a osvetľovali ulice mŕtvolným svetlom. Niekde dole sa rozpadla strecha a do noci vyleteli iskry — tisícky oranžových bodiek, ktoré stúpali k hviezdam a hasli.
 
 *Matematika: neprežiteľná. Pri súčasnom tempe strát padne Tretia hradba do svitania. Potom centrum. Potom prístav. Potom Makita.*
 
@@ -262,7 +262,7 @@ Trinásť rokov sa tváril, že je normálny. Trinásť rokov s Prachom pod kož
 
 *Grond.*
 
-Vedel o ňom od prvého dňa. Komandér Grond — obor v čiernej zbroji, muž, čo sa smial, keď jeho vojaci vypaľovali dediny. Velil z bezpečnej vzdialenosti — nie zbabelo, ale *správne*. Generál, nie voják. Max to rešpektoval. Rešpektoval to ako rešpektoval rýchlosť padajúceho granátu.
+Vedel o ňom od prvého dňa. Komandér Grond — obor v čiernej zbroji, muž, čo sa smial, keď jeho vojaci vypaľovali dediny. Velil z bezpečnej vzdialenosti — nie zbabelo, ale *správne*. Generál, nie voják. Maks to rešpektoval. Rešpektoval to ako rešpektoval rýchlosť padajúceho granátu.
 
 *Pozícia Gronda: 6.2 km severozápad. Pri hlavnej batérii delostrelectva. Ťažko strážený. Osobný energetický štít.*
 
@@ -270,7 +270,7 @@ Vedel o ňom od prvého dňa. Komandér Grond — obor v čiernej zbroji, muž, 
 
 Ale Prach áno.
 
-Max zišiel zo strechy. Našiel prázdnu pivnicu pod vyhoreným obchodom s kožušinami. Dvere boli vyrazené z pántov — vykopol zvyšky a vošiel. Vnútri smrdelo mokrým popolom a spálenou kožou — tou zvieracou, z kožušín, nie ľudskou. Aspoň dúfal. Zamkol to, čo zostalo z dverí. Zabarikádoval okná sudom a prehnitým dreveným regálom.
+Maks zišiel zo strechy. Našiel prázdnu pivnicu pod vyhoreným obchodom s kožušinami. Dvere boli vyrazené z pántov — vykopol zvyšky a vošiel. Vnútri smrdelo mokrým popolom a spálenou kožou — tou zvieracou, z kožušín, nie ľudskou. Aspoň dúfal. Zamkol to, čo zostalo z dverí. Zabarikádoval okná sudom a prehnitým dreveným regálom.
 
 Sadol si na studenú dlažbu. Kameň bol ľadový — chlad mu okamžite prenikol cez nohavice, do stehien, do kosti. Zavrel oči.
 
@@ -296,7 +296,7 @@ Jemné pichanie — najprv v končekoch, pod nechtami, tam kde je koža najtenš
 
 *Opustiť hostiteľa.*
 
-Max zaťal zuby. Chuť kovu a žlče mu zaplavila ústa. Z pórov na predlaktiach vyrazili drobné kvapky — nie pot. Krv zmiešaná so striebornou hmotou, ktorá sa iskrivá leskla v slabom svetle prenikajúcom cez škáry v oknách. Nanoboty sa drali von cez kapiláry, cez dermis, cez epidermis. Každý jeden zanechal za sebou mikroskopickú ranu — ako keď z tkaniny vytiahneš niť a ostane po nej drobná dierka. Tisíce mikroskopických rán. Tisíce nití.
+Maks zaťal zuby. Chuť kovu a žlče mu zaplavila ústa. Z pórov na predlaktiach vyrazili drobné kvapky — nie pot. Krv zmiešaná so striebornou hmotou, ktorá sa iskrivá leskla v slabom svetle prenikajúcom cez škáry v oknách. Nanoboty sa drali von cez kapiláry, cez dermis, cez epidermis. Každý jeden zanechal za sebou mikroskopickú ranu — ako keď z tkaniny vytiahneš niť a ostane po nej drobná dierka. Tisíce mikroskopických rán. Tisíce nití.
 
 Krv mu stiekala po rukách na dlažbu. Teplá. Hustá. Veľa. Kvapkala na studený kameň s tým jemným, pravidelným zvukom, ktorý sa v tichu pivnice zdal ohlušujúci. *Kvap. Kvap. Kvap.*
 
@@ -316,15 +316,15 @@ Pred očami sa mu zatemňovalo. Nie preto, že by strácal vedomie. Preto, že n
 
 *92%.*
 
-Max padol na kolená. Dlane sa mu zarazili do kaluže na dlažbe — teplej, lepkavej, jeho vlastnej. Telo mŕtve. Oči takmer slepé. Okolo neho kaluž krvi a strieborného prachu, v ktorom sa odrádzal slabý, umierajúci lesk.
+Maks padol na kolená. Dlane sa mu zarazili do kaluže na dlažbe — teplej, lepkavej, jeho vlastnej. Telo mŕtve. Oči takmer slepé. Okolo neho kaluž krvi a strieborného prachu, v ktorom sa odrádzal slabý, umierajúci lesk.
 
 *97%. Extrakcia dokončená. Zostatok v hostiteľovi: 3%. Minimum pre udržanie životných funkcií.*
 
 *Upozornenie: Hostiteľ v kritickom stave. Imunita: kolaps. Regenerácia: nulová. Odhadovaná doba prežitia bez návratu: 4 hodiny.*
 
-Nad ním sa zhromaždil oblak. Neviditeľný voľným okom — miliarda mikroskopických strojov, ktoré sa od neho odpojili a teraz sa vznášali v tmavej pivnici ako inteligentná hmla. Vzduch v miestnosti sa zachvel. Zmenila sa teplota — sotva, ledva, ale Max to cítil na holej koži predlaktí — niečo ho obklopovalo, čo nebolo vidieť a čo dýchalo.
+Nad ním sa zhromaždil oblak. Neviditeľný voľným okom — miliarda mikroskopických strojov, ktoré sa od neho odpojili a teraz sa vznášali v tmavej pivnici ako inteligentná hmla. Vzduch v miestnosti sa zachvel. Zmenila sa teplota — sotva, ledva, ale Maks to cítil na holej koži predlaktí — niečo ho obklopovalo, čo nebolo vidieť a čo dýchalo.
 
-Max otvoril ústa. Z hrdla mu vyšiel zvuk, ktorý nebol slovo. Viac zachrčanie než rozkaz. Ale hmla ho počula.
+Maks otvoril ústa. Z hrdla mu vyšiel zvuk, ktorý nebol slovo. Viac zachrčanie než rozkaz. Ale hmla ho počula.
 
 *Nájdi ho.*
 
@@ -334,7 +334,7 @@ Max otvoril ústa. Z hrdla mu vyšiel zvuk, ktorý nebol slovo. Viac zachrčanie
 
 Svet sa zmenil.
 
-Max už nebol v pivnici. Bol *všade*.
+Maks už nebol v pivnici. Bol *všade*.
 
 Telo v pivnici — mŕtve mäso na studenom kameni, kvapkajúce krvou. Myseľ — oslobodená. Rozprestretá. Taká ľahká, až to bolelo. Ako keby celý život chodil s reťazou na nohách a práve mu ju niekto sňal. Ale vedel — *vedel* — že tá ľahkosť je lož. Že telo ho čaká. Že sa bude musieť vrátiť do toho krvavého vreca na podlahe a znova cítiť každý kĺb, každú ranu, každú sekundu bolesti, ktorú teraz necítil. A čím dlhšie bude vonku, tým ťažší bude návrat.
 
@@ -366,7 +366,7 @@ Veľký. Dôstojnícky. Z hrubého čierneho plátna, s Grawskou vlajkou — še
 
 Roj obkľúčil stan ako neviditeľná hmla. Žiadna stráž nezareagovala. Žiadny pes nezavyl. Nanoboty boli menšie než peľové zrnká, tichšie než prach a neviditeľnejšie než spomienky.
 
-V pivnici pod Šoravenom ležal Max v kaluži vlastnej krvi. Oči prázdne — sivé, vodové, takmer ľudské bez čierneho Prachu. Telo mŕtve. Ruky rozhodené po bokoch, dlane otvorené, v nich kalužky červenej a striebornej tekutiny, ktorá pomaly chladla na kamennej dlažbe. Ale myseľ —
+V pivnici pod Šoravenom ležal Maks v kaluži vlastnej krvi. Oči prázdne — sivé, vodové, takmer ľudské bez čierneho Prachu. Telo mŕtve. Ruky rozhodené po bokoch, dlane otvorené, v nich kalužky červenej a striebornej tekutiny, ktorá pomaly chladla na kamennej dlažbe. Ale myseľ —
 
 Myseľ bola *tam*.
 
@@ -430,15 +430,15 @@ V pivnici pod Šoravenom sa strieborná hmla vrátila.
 
 Cítil to skôr, než to videl — jemné chvenie vzduchu na koži, potom pichanie, potom *bolesť*. Návrat. Z nekonečna späť do mäsa. Z tisícky očí späť do dvoch prázdnych jamiek. Z čistej myšlienky späť do tela, ktoré kričalo zo všetkých strán naraz. Nanoboty sa vracali cez tie isté rany, cez tie isté póry, a každý návrat bol ako ihla zabodnutá zvnútra. Vsiakali späť do žíl, do svalov, do kostí — teplé, cudzie, akoby mu niekto vlieval roztavené olovo pod kožu.
 
-Nie všetky. Nanoboty, ktoré zostali v Grondovom tele — v krvi, v srdci, v mozgu mŕtveho obra — sa nevrátili. Tie, čo sa rozplynuli vo vetre nad poľami medzi mestom a kopcom, sa nevrátili. Tie, čo stratili signál na šiestich kilometroch, sa nevrátili. Max cítil ich neprítomnosť ako fantómovú bolesť — miesta v tele, kam sa mali vrátiť a kde teraz bola len prázdnota.
+Nie všetky. Nanoboty, ktoré zostali v Grondovom tele — v krvi, v srdci, v mozgu mŕtveho obra — sa nevrátili. Tie, čo sa rozplynuli vo vetre nad poľami medzi mestom a kopcom, sa nevrátili. Tie, čo stratili signál na šiestich kilometroch, sa nevrátili. Maks cítil ich neprítomnosť ako fantómovú bolesť — miesta v tele, kam sa mali vrátiť a kde teraz bola len prázdnota.
 
-Max ležal na zemi. Koža pokrytá modrinami a prasklinami, ako keď vysychá jazero — suché, biele línie na predlaktiach, na krku, na tvári. Krvácal z nosa — pomalý, teplý prúd na hornej pere, chuť medi na jazyku. Z uší, z kútikov očí. Žily na krku sa pomaly menili z čiernych späť na modré — ale pomaly. Príliš pomaly. Ako keby sa krv vracala po kvapkách tam, kde patrila.
+Maks ležal na zemi. Koža pokrytá modrinami a prasklinami, ako keď vysychá jazero — suché, biele línie na predlaktiach, na krku, na tvári. Krvácal z nosa — pomalý, teplý prúd na hornej pere, chuť medi na jazyku. Z uší, z kútikov očí. Žily na krku sa pomaly menili z čiernych späť na modré — ale pomaly. Príliš pomaly. Ako keby sa krv vracala po kvapkách tam, kde patrila.
 
 *Návrat: 49% z pôvodnej kapacity. Strata: 23% trvale. Zvyšok uviaznutý v cieli — potenciálne obnoviteľné.*
 
 *Upozornenie: Hostiteľ v kritickom stave. Regenerácia: minimálna. Imunitný systém: kompromitovaný.*
 
-Max sa pokúsil zdvihnúť. Ruky sa mu podlomili — dlane skĺzli v kaluži vlastnej krvi, prsty nenašli úchop na mokrom kameni. Skúsil to znova. Podlomili sa znova. Cítil každý sval — každý jeden, od stehen po šiju — a všetky kričali to isté: *dosť*.
+Maks sa pokúsil zdvihnúť. Ruky sa mu podlomili — dlane skĺzli v kaluži vlastnej krvi, prsty nenašli úchop na mokrom kameni. Skúsil to znova. Podlomili sa znova. Cítil každý sval — každý jeden, od stehen po šiju — a všetky kričali to isté: *dosť*.
 
 Na tretí pokus sa posadil. Oprel sa o stenu. Studený kameň mu pálil cez nasiaknulý kabát. Dýchal plytko. Rýchlo. Ako zviera, ktoré sa práve vyhrabalo z pasce.
 
@@ -454,13 +454,13 @@ Nikto mu neodpovedal. Len kvapkanie vody niekde v rohu a ďaleké dunenie výbuc
 
 Z mesta sa ozývali výstrely. Výbuchy. Krik.
 
-Max počúval. Cez polofunkčné senzory — šedé, riedke, ako pozerať cez špinavé okno — sledoval zmenu.
+Maks počúval. Cez polofunkčné senzory — šedé, riedke, ako pozerať cez špinavé okno — sledoval zmenu.
 
 Niečo sa zmenilo. Niečo v rytme boja — menej organizované, viac chaotické. Ako orchester, ktorému práve zomrel dirigent. Grawská pechota stratila hlavu. Dôstojníci čakali na rozkazy, ktoré nikdy neprídu. Batéria na kopci stíchla — obsluha stála okolo mŕtveho veliteľa a nevedela, kto má povedať *paľ*.
 
 Ale nezastavili sa.
 
-Max to počul. Paľba pokračovala. Výbuchy pokračovali. Grawská armáda nemala jedného veliteľa — mala desiatky poľných dôstojníkov, seržantov, poddôstojníkov, z ktorých každý velil svojej časti. Smrť Gronda odstrihla hlavu, ale telo sa ešte hýbalo. Zotrvačnosť. Hnev. Chaos namiesto stratégie, ale chaos s osemtisíc puškami bol stále smrteľnejší než poriadok so šesťdesiatimi.
+Maks to počul. Paľba pokračovala. Výbuchy pokračovali. Grawská armáda nemala jedného veliteľa — mala desiatky poľných dôstojníkov, seržantov, poddôstojníkov, z ktorých každý velil svojej časti. Smrť Gronda odstrihla hlavu, ale telo sa ešte hýbalo. Zotrvačnosť. Hnev. Chaos namiesto stratégie, ale chaos s osemtisíc puškami bol stále smrteľnejší než poriadok so šesťdesiatimi.
 
 *Hodina. Možno dve. Potom si zvolia nového veliteľa.*
 
@@ -474,9 +474,9 @@ Dvaja vojaci — obrancovia, podľa červených pások na rukáve — ho našli 
 
 „Exorcista!" Vyvalené oči. „Krvácate! Čo sa—"
 
-„Prístav," povedal Max. Hlas mal ako štrk. „Odneste ma do prístavu. K vzduchulodi v doku sedem."
+„Prístav," povedal Maks. Hlas mal ako štrk. „Odneste ma do prístavu. K vzduchulodi v doku sedem."
 
-Vojaci si vymenili pohľady — rýchly, bezdechý, ľudský výpočet. Potom ho zdvihli — každý pod jednou pažou — a bežali. Max visel medzi nimi ako handry na vešiaku. Nohy sa mu vláčili po dlažbe. Ulice sa mihali okolo neho v rozmazaných škvrnách — oranžová oheň, čierne trosky, biele telá, sivý sneh. Cítil krv, ktorá mu stekala po brade a kvapkala na dlažbu za nimi — tmavá stopa na sivej dlažbe, bodka za bodkou, veta bez konca.
+Vojaci si vymenili pohľady — rýchly, bezdechý, ľudský výpočet. Potom ho zdvihli — každý pod jednou pažou — a bežali. Maks visel medzi nimi ako handry na vešiaku. Nohy sa mu vláčili po dlažbe. Ulice sa mihali okolo neho v rozmazaných škvrnách — oranžová oheň, čierne trosky, biele telá, sivý sneh. Cítil krv, ktorá mu stekala po brade a kvapkala na dlažbu za nimi — tmavá stopa na sivej dlažbe, bodka za bodkou, veta bez konca.
 
 *Asistent: Odporúčanie: nehýbať sa. Riziko zlyhania srdca: 34%.*
 
@@ -508,7 +508,7 @@ Zahrčal. Zachrastal. A potom — rovnomerný, hlboký hukot, ktorý sa prenáš
 
 Posádka reagovala. Balón sa začal pomaly dvíhať — plátno sa napínalo, švy praskali pod tlakom, vzduch zapáchal gumou a ozónom. Makita sa odlepila od vody — centimeter, dva, pol metra. Trup zavŕzgal, keď opustil hladinu.
 
-V tom momente prišli vojaci s Maxom.
+V tom momente prišli vojaci s Maksom.
 
 Tami ho takmer nespoznala. Bledý ako stena — nie bielý, *sivý*, farba popola a starého vosku. Tvárou mu stekali čiernocervené pruhy — krv zmiešaná s Prachom, ako vojnová maľba, ktorú si nevybral. Visel medzi dvoma vojakmi ako mŕtvy. Oči — zvyčajne nepreniknuteľná čerň — boli teraz riedke, sivé, akoby do nich niekto nalial vodu. A páchal. Krvou a striebrom a niečím chemickým, čo sa nedalo pomenovať.
 
@@ -518,7 +518,7 @@ Tami ho takmer nespoznala. Bledý ako stena — nie bielý, *sivý*, farba popol
 
 „Položte ho na palubu," povedala Tami. Hlas jej neznel ako otázka.
 
-Vojaci ho vytiahli po lávke — jeho topánky sa vláčili po mokrom dreve — a zložili na palubu. Max sa oprel o stožiar. Drevo mu tlačilo do chrbtice. Dýchal plytko. Rýchlo. Každý nádych bol viditeľný — biely obláčik v mrazivom vzduchu.
+Vojaci ho vytiahli po lávke — jeho topánky sa vláčili po mokrom dreve — a zložili na palubu. Maks sa oprel o stožiar. Drevo mu tlačilo do chrbtice. Dýchal plytko. Rýchlo. Každý nádych bol viditeľný — biely obláčik v mrazivom vzduchu.
 
 „Felix," povedal. Hlas mal ako štrk. „Funguje?"
 
@@ -532,7 +532,7 @@ Tami stíchla. Poznala ten tón. Nie žiadosť. Rozkaz. Cez trinásť rokov, cez
 
 „Stačí."
 
-Max sa pokúsil vstať. Nohy sa mu podlomili. Chytil sa lana — konopné vlákna sa mu zarezali do krvavej dlane — a zdvihol sa.
+Maks sa pokúsil vstať. Nohy sa mu podlomili. Chytil sa lana — konopné vlákna sa mu zarezali do krvavej dlane — a zdvihol sa.
 
 *Asistent: Aktuálny stav: kritický. Nanobotická kapacita: 49%. Senzorický režim: funkčný. Bojový režim: neaktívny.*
 
@@ -542,13 +542,13 @@ Tami naňho pozrela. Tyrkysové oči, úzke ako štrbiny. „Si sotva pri vedom�
 
 „Moje nanoboty stále fungujú ako senzory. Ukážem ti presne kam strieľať."
 
-Balón sa plnil. Makita stúpala. Pod nimi sa zmenšoval prístav — tmavé doky, rybárske lode, roztrúsení civilisti — malé, pomalé, bezmocné postavičky na okraji vojny. Pred nimi — mesto v plameňoch. Vzduch chladol s každým metrom výšky. Vietor zosilnel — studený, čistý, bez sadzí. Prvýkrát za hodiny Max dýchal vzduch, ktorý nevoňal smrťou.
+Balón sa plnil. Makita stúpala. Pod nimi sa zmenšoval prístav — tmavé doky, rybárske lode, roztrúsení civilisti — malé, pomalé, bezmocné postavičky na okraji vojny. Pred nimi — mesto v plameňoch. Vzduch chladol s každým metrom výšky. Vietor zosilnel — studený, čistý, bez sadzí. Prvýkrát za hodiny Maks dýchal vzduch, ktorý nevoňal smrťou.
 
 A nad nimi — dvojplošníky.
 
-Max ich videl skôr, než ich počul. Dva stroje sa odtrhli z obežnej dráhy a zamierili priamo k Makite. Motory zavýjali — ten ostrý, chrapľavý zvuk rozostavaných piestov, ktorý sa niesol nočným vzduchom ako výkrik dravca.
+Maks ich videl skôr, než ich počul. Dva stroje sa odtrhli z obežnej dráhy a zamierili priamo k Makite. Motory zavýjali — ten ostrý, chrapľavý zvuk rozostavaných piestov, ktorý sa niesol nočným vzduchom ako výkrik dravca.
 
-„Strieľajú!" kričal Max. „Para! Vypusť paru!"
+„Strieľajú!" kričal Maks. „Para! Vypusť paru!"
 
 Tami reagovala inštinktívne. Otočila ventilom na parnom kotli Makity — a z bočných výpustí vyrazili dva mohutné stĺpy bielej pary. Horúca, hustá, nepriehľadná. Syčala tak, až ju bolo počuť cez streľbu. Zmiešala sa s nočným vzduchom a vytvorila oblak, v ktorom Makita zmizla ako loď v hmle. Vlhkosť sa im okamžite usadila na koži, na vlasoch, na kove zbraní — všetko bolo naraz mokré a teplé.
 
@@ -556,27 +556,27 @@ Guľomety dvojplošníkov zaštekali. Strieľali naslepo — strely prešli paro
 
 *Senzorický režim: aktívny. Vidím obidva stroje. Pilot 1: stáča doprava. Pilot 2: stúpa. Vzdialenosť: 180m a 220m.*
 
-„Nevidia nás," povedal Max. „Ale ja vidím ich."
+„Nevidia nás," povedal Maks. „Ale ja vidím ich."
 
-Makita stúpala cez vlastný parný oblak. Zvonka — nepriehľadná biela hmla, v ktorej sa mihal oranžový odlesk požiarov zdola. Zvnútra — Max stál s rukou na stožiari, oči sivé a neprirodené, a *videl*. Svet okolo nich bol mliečna prázdnota, ale v jeho hlave — jasná mapa bodov, vektorov, trajektórií.
+Makita stúpala cez vlastný parný oblak. Zvonka — nepriehľadná biela hmla, v ktorej sa mihal oranžový odlesk požiarov zdola. Zvnútra — Maks stál s rukou na stožiari, oči sivé a neprirodené, a *videl*. Svet okolo nich bol mliečna prázdnota, ale v jeho hlave — jasná mapa bodov, vektorov, trajektórií.
 
 „Prvý je sto metrov vpravo. Ide priamo na nás."
 
-Posádka reagovala. Z bočných otvorov trupu vystrčili hlavne rotačných guľometov a otvorili paľbu do smeru, ktorý im Max udal. Chrčanie kovu a oheň do bielej hmly — výstrely osvetľovali paru oranžovými bleskami.
+Posádka reagovala. Z bočných otvorov trupu vystrčili hlavne rotačných guľometov a otvorili paľbu do smeru, ktorý im Maks udal. Chrčanie kovu a oheň do bielej hmly — výstrely osvetľovali paru oranžovými bleskami.
 
 Ozval sa praskot. Drevo. Plátno. Motor, ktorý zakašľal a stíchol. Niečo ťažké prefrčalo nad nimi — tak blízko, že cítili prúd vzduchu, pach oleja a teplo motora — a zmizlo v pare.
 
-„Zasiahnutý," povedal Max. „Klesá."
+„Zasiahnutý," povedal Maks. „Klesá."
 
 „A ten druhý?" Tamin hlas. Napätý. Ruky na kormidlách, kĺby biele.
 
-Max mlčal. Sledoval tepelný podpis druhého stroja. Letel hore — snažil sa dostať nad parný oblak, odkiaľ by mohol vidieť. Ale v hmle, v tme, v chaose—
+Maks mlčal. Sledoval tepelný podpis druhého stroja. Letel hore — snažil sa dostať nad parný oblak, odkiaľ by mohol vidieť. Ale v hmle, v tme, v chaose—
 
 Praskot. Ostrý, krátky, kovový. A potom — rev dvoch motorov, ktoré sa stretli.
 
 Druhý dvojplošník narazil do prvého. V hmle, naslepo, v panike. Plátno sa trhalo, drevo praskalo, motory sa zapletli do seba — kov do dreva, drevo do kovu, krídla sa ohýbali ako zlomené prsty. Oba stroje sa zrútili v spleti krídel a drôtov — nie výbuch, len ťažký, mokrý zvuk niečoho, čo padá dlho a dopadne natvrdo.
 
-„Oba dole," povedal Max.
+„Oba dole," povedal Maks.
 
 Tami vydýchla. Ruky sa jej triasli na pákach. Kvapka potu — alebo pary — jej stekla po spánku.
 
@@ -584,7 +584,7 @@ Makita vystúpila z parného oblaku do čistého nočného vzduchu. Prechod bol 
 
 „Sme hore," povedala Tami. Ruky na pákach Felixa. Oči na meste pod nimi.
 
-Max sa oprel o stožiar. Svet sa mu točil. Z nosa mu kvapkala krv na palubu — tmavé bodky na svetlom dreve. Ale nanoboty — tých zvyšných 49 percent — stále fungovali. Stále videli. Stále kreslili svet v jeho hlave — červený, modrý, ostrý.
+Maks sa oprel o stožiar. Svet sa mu točil. Z nosa mu kvapkala krv na palubu — tmavé bodky na svetlom dreve. Ale nanoboty — tých zvyšných 49 percent — stále fungovali. Stále videli. Stále kreslili svet v jeho hlave — červený, modrý, ostrý.
 
 „Sektor juh," povedal. „Vidíš tú križovatku pri fontáne? Tri bloky od radnice."
 
@@ -594,7 +594,7 @@ Max sa oprel o stožiar. Svet sa mu točil. Z nosa mu kvapkala krv na palubu —
 
 Tami priložila oko k zameriavaču. Studený kov na lícnej kosti. Ruky na pákach. Celá Makita sa naklonila, keď hydraulika otočila monštruóznu hlaveň — zaškrípala, kovovo, pomaly, ako kĺb starého obra.
 
-„Elevácia 38. Dva stupne doprava," povedal Max.
+„Elevácia 38. Dva stupne doprava," povedal Maks.
 
 Tami doladila. Nádych. Výdych. Medzi nimi — ticho. Celý svet sa scvrkol na jednu ruku a jednu spúšť.
 
@@ -606,11 +606,11 @@ Makita sa vo vzduchu posunula o tri metre dozadu spätným rázom. Z hlavne vyš
 
 Strela dopadla na križovatku. Nie priamo do zhlukov — vedľa. Do budovy, za ktorou sa ukrývali zásoby munície. Sekundárna explózia roztrhla celý blok. Stĺp ohňa a dymu vyrazil do neba. Tlaková vlna im doletela na palubu — hrejivá, jemná, zďaleka.
 
-„Zásah," povedal Max. „Nabíjaj."
+„Zásah," povedal Maks. „Nabíjaj."
 
 Posádka sa potila pri nabíjaní. 122-milimetrové náboje vážili tridsať kíl. Bolo počuť funenie, škrípanie kovu, nadávky cez zaťaté zuby.
 
-„Sektor západ," povedal Max. „Most. Tanková kolóna."
+„Sektor západ," povedal Maks. „Most. Tanková kolóna."
 
 Dva parné tanky na moste. Pomalé, ťažké. Čakali na rozkaz, ktorý nepríde.
 
@@ -620,9 +620,9 @@ Dva parné tanky na moste. Pomalé, ťažké. Čakali na rozkaz, ktorý nepríde
 
 Most sa zrútil. Tanky spadli do rieky aj s posádkami — mohutný, basový splash, po ktorom nasledoval gejzír vriacej pary z rozbitých kotlov, stúpajúci do nočného vzduchu ako biely duch.
 
-„Dva náboje. Dva zásahy," povedala Tami. V hlase mala niečo, čo Max nedokázal identifikovať. Nie radosť. Niečo dravé, staré, inštinktívne. Niečo, čo mala po otcovi, alebo po tisícročiach Vulpini krvi. *Lov.* A niekde hlboko — v časti seba, ktorú ukazovala len Maxovi a tmavým nociam na palube — strach z toho, ako veľmi jej to šlo. Ako veľmi sa jej *páčilo*.
+„Dva náboje. Dva zásahy," povedala Tami. V hlase mala niečo, čo Maks nedokázal identifikovať. Nie radosť. Niečo dravé, staré, inštinktívne. Niečo, čo mala po otcovi, alebo po tisícročiach Vulpini krvi. *Lov.* A niekde hlboko — v časti seba, ktorú ukazovala len Maksovi a tmavým nociam na palube — strach z toho, ako veľmi jej to šlo. Ako veľmi sa jej *páčilo*.
 
-„Ešte štyri," povedal Max. „Presúvajú zálohy na Severný bulvár. Ak rozstrieľame ten úsek, odstrihneme prielom od zvyšku armády. Útočníci v meste ostanú uväznení bez podpory."
+„Ešte štyri," povedal Maks. „Presúvajú zálohy na Severný bulvár. Ak rozstrieľame ten úsek, odstrihneme prielom od zvyšku armády. Útočníci v meste ostanú uväznení bez podpory."
 
 ---
 
@@ -632,7 +632,7 @@ Tretí výstrel. Štvrtý.
 
 Každý výstrel bol zemetrasenie. Makita sa zakývala, trup zavŕzgal, rebrá lode zapraskali. Dym z hlavne — sírnatý, ostrý, od ktorého pálili oči — sa valil cez palubu a nútil posádku kašľať. Uši tíchli po každom výstrele — tupý, bzučiaci tlak, cez ktorý bolo počuť len dunenie vlastného srdca.
 
-Grawské pozície na Severnom bulvári sa zmenili na krátery. Zálohy — čerstvé jednotky, ktoré ešte neboli v boji — sa rozutekali do polí. Max ich videl cez senzory — červené bodky, rozbehnuté do všetkých smerov, bez formácie, bez smeru, bez veliteľa. Dôstojníci kričali na mužov, ale mužovia nepočúvali, pretože nikto im nevedel povedať, na koho rozkaz čakajú.
+Grawské pozície na Severnom bulvári sa zmenili na krátery. Zálohy — čerstvé jednotky, ktoré ešte neboli v boji — sa rozutekali do polí. Maks ich videl cez senzory — červené bodky, rozbehnuté do všetkých smerov, bez formácie, bez smeru, bez veliteľa. Dôstojníci kričali na mužov, ale mužovia nepočúvali, pretože nikto im nevedel povedať, na koho rozkaz čakajú.
 
 Piaty výstrel zasiahol muničný sklad na kopci. Ten istý kopec, kde pred hodinou stál Grondov stan. Reťazová explózia — granáty, bariéle s prachom, zápalné zmesi — vyslala do neba ohnivý stĺp, ktorý bolo vidieť z celého mesta. Oranžový hríb s čiernym kmeňom, stúpajúci do mrazu nočnej oblohy. Tlaková vlna doletela až k Makite — jemné zachvenie, teplý prúd vzduchu, pach korditu a horiacej smoly.
 
@@ -640,7 +640,7 @@ Obrancovia na radnici to videli. Seržant Bran to videl — jedným okom, spoza 
 
 „Nebeské kladivo!" kričal niekto na hradbe. Hlas prepukol slzami a smiechom naraz. „Tá vzducholoď! Hore! Vidíte?"
 
-A slovo sa šírilo rýchlejšie než oheň. Od radnice po prístav, z ulice do ulice, šepotom cez barikády a krikom cez strechy: *Grond je mŕtvy. Veliteľ je mŕtvy. Nebeské kladivo*. Max to počul cez senzory — tisícky hlasov, tisícky sŕdc, všetky bijúce rýchlejšie. Zvuk nádeje, ktorá bolí viac než strach.
+A slovo sa šírilo rýchlejšie než oheň. Od radnice po prístav, z ulice do ulice, šepotom cez barikády a krikom cez strechy: *Grond je mŕtvy. Veliteľ je mŕtvy. Nebeské kladivo*. Maks to počul cez senzory — tisícky hlasov, tisícky sŕdc, všetky bijúce rýchlejšie. Zvuk nádeje, ktorá bolí viac než strach.
 
 Grawskí vojaci v meste to nepočuli. Ale niečo cítili. Zmenu v rytme boja. Delostrelectvo, ktoré ich celú noc krylo, teraz mlčalo. Zálohy, na ktoré čakali, neprišli. Most, cez ktorý sa mali stiahnuť, bol v rieke.
 
@@ -656,7 +656,7 @@ Tami na to hľadela zhora. Vietor jej šľahal vlasy do tváre. Líščie uši s
 
 *Šiesty náboj.*
 
-„Sektor východ," povedal Max. Hlas mal šepot. Sotva ho bolo počuť cez vietor. „V dome pri prístave. Silný odpor. Naši ľudia sú zatlačení."
+„Sektor východ," povedal Maks. Hlas mal šepot. Sotva ho bolo počuť cez vietor. „V dome pri prístave. Silný odpor. Naši ľudia sú zatlačení."
 
 Tami priložila oko k zameriavaču. Videla budovu — tmavú, s oknami ako vyhasnuté oči. Za ňou prístav. Za prístavom more — čierne, nehybné, ľahostajné. A v budove — pohyb. Graw. Ale aj—
 
@@ -664,7 +664,7 @@ Tami priložila oko k zameriavaču. Videla budovu — tmavú, s oknami ako vyhas
 
 Pauza.
 
-„Korekcia: dva stupne doprava," povedal Max. „Do dvora za budovou. Nie do budovy."
+„Korekcia: dva stupne doprava," povedal Maks. „Do dvora za budovou. Nie do budovy."
 
 Tami sa dívala cez zameriavač. Ruky na pákach. Dvor za budovou — prázdny, pokiaľ vedela. Ale aj blízko. Šrapnely. Tlaková vlna. Okná susednej budovy — tie okná so svetlom, za ktorými niekto čakal—
 
@@ -688,7 +688,7 @@ Tami pustila páky. Ruky sa jej triasli. Na prstoch mala odtlačky od pák — h
 
 Varietas mali v boji zblízka navrch.
 
-Keď sa Graw vzdali otvorených pozícií a stočili sa do ulíc, zmenili pravidlá. V uliciach nefungovali línie a formácie. V uliciach fungovali drápiky, zuby, reflexy a instinkty, čo mali Varietas v krvi tisíce rokov. Pursang so Spirou, čo dokázal cítiť nepriateľa cez stenu. Rybári s rukami veľkými ako lopaty, ktorí dvíhali Grawčanov za goliere a hádzali nimi o steny. Kňažky, ktoré sa modlili jednou rukou a druhou bodali bajonetom — a Max si bol istý, že modlitba a bod prichádzali v rovnakom rytme.
+Keď sa Graw vzdali otvorených pozícií a stočili sa do ulíc, zmenili pravidlá. V uliciach nefungovali línie a formácie. V uliciach fungovali drápiky, zuby, reflexy a instinkty, čo mali Varietas v krvi tisíce rokov. Pursang so Spirou, čo dokázal cítiť nepriateľa cez stenu. Rybári s rukami veľkými ako lopaty, ktorí dvíhali Grawčanov za goliere a hádzali nimi o steny. Kňažky, ktoré sa modlili jednou rukou a druhou bodali bajonetom — a Maks si bol istý, že modlitba a bod prichádzali v rovnakom rytme.
 
 Graw sa hromadne vzdávali. Skupiny po piatich, po desiatich, celé čaty. Kládli zbrane na dlažbu a dvíhali ruky. Niektorí plakali — tí mladí, tí čerstvo naverbovaní, ktorí ráno ešte mali matky a teraz nemali nič. Väčšina len stála a nevedela, čo robiť, keď nemal kto povedať, čo robiť.
 
@@ -702,11 +702,11 @@ Prvé svetlo prišlo zo severovýchodu.
 
 Tenké, ružové, nesmelé — ako keby sa slnko bálo pozrieť na to, čo noc napáchala. Osvetlilo trosky. Dymiace ruiny. Telá v sivých kabátoch aj v rybárskych zásterách, pohádzané vedľa seba na dlažbe, v pozíciách, ktoré nedávali zmysel živým. Jeden Grawčan a jeden rybár ležali obaja tvárou hore, rameno pri ramene, ako starí priatelia, čo zaspali na lavičke.
 
-Max stál pri zábradlí Makity a díval sa dolu. Vzduch bol studený — ten ostrý, ranný chlad, čo pálil v nozdrách. Vonial spáleninou a meďou a niečím novým — čerstvosťou, rozmrzajúcim snehom, dychom rána, ktoré sa nechcelo narodiť.
+Maks stál pri zábradlí Makity a díval sa dolu. Vzduch bol studený — ten ostrý, ranný chlad, čo pálil v nozdrách. Vonial spáleninou a meďou a niečím novým — čerstvosťou, rozmrzajúcim snehom, dychom rána, ktoré sa nechcelo narodiť.
 
 *Bitka končí. Grawská armáda v dezintegrácii. Zvyšky odporu: lokálne, izolované. Obrancovia: 31 funkčných. Civilné straty: neodhadnuteľné.*
 
-„Max." Tamin hlas. Ticho, unavené. „Myslím, že je to—"
+„Maks." Tamin hlas. Ticho, unavené. „Myslím, že je to—"
 
 Nepočul koniec vety.
 
@@ -718,27 +718,27 @@ Zvuk prišiel zo severovýchodu. Motor — chrčivý, kašľavý, nerovnomerný.
 
 Prišiel pomaly. Kašľavo. Ale prišiel. V rannom svetle bol vidieť celý — drevená kostra, plátnom pokrytá, s olejovými škvrnami na boku a záplatami na krídlach. Vojnový vrak, ktorý si myslel, že je lietadlo.
 
-Guľomety zaštekali. Projektily prešili plátno balóna ako papier — Max počul ten zvuk: *ťap-ťap-ťap* — ako keď dáždnik prerazí krupobíjanie. Hélium začalo syčať z trhlín. Teplý plyn mu prešiel cez tvár — suchý, bez zápachu, mŕtvy vzduch unikajúci z mŕtveho balóna.
+Guľomety zaštekali. Projektily prešili plátno balóna ako papier — Maks počul ten zvuk: *ťap-ťap-ťap* — ako keď dáždnik prerazí krupobíjanie. Hélium začalo syčať z trhlín. Teplý plyn mu prešiel cez tvár — suchý, bez zápachu, mŕtvy vzduch unikajúci z mŕtveho balóna.
 
 Posádka reagovala — rotačné guľomety chrčali, ale pilot sa stočil za dymový stĺp z horiaceho mesta a zmizol v šedej hmle.
 
 „Balón!" kričal niekto z posádky. „Hélium uniká! Klesáme!"
 
-Makita sa zakývala. Začala padať — nie rýchlo, nie katastroficky, ale nezvratne. Plátno balóna sa krčilo, syčalo, mŕtvelo. Pod nohami Max cítil, ako sa paluba nakláňa — pomaly, plynulo, ako keby sa celá loď otáčala na boku.
+Makita sa zakývala. Začala padať — nie rýchlo, nie katastroficky, ale nezvratne. Plátno balóna sa krčilo, syčalo, mŕtvelo. Pod nohami Maks cítil, ako sa paluba nakláňa — pomaly, plynulo, ako keby sa celá loď otáčala na boku.
 
-Max stál pri zábradlí. Prsty zovreté okolo kovu — studený, mokrý od rannej rosy. Videl, ako sa dvojplošník vracia — úzky oblúk, motor kašľal a pľul čierny dym, ale pilot bol odhodlaný.
+Maks stál pri zábradlí. Prsty zovreté okolo kovu — studený, mokrý od rannej rosy. Videl, ako sa dvojplošník vracia — úzky oblúk, motor kašľal a pľul čierny dym, ale pilot bol odhodlaný.
 
 *Druhý nálet. Vzdialenosť: 400m. Čas do kontaktu: 12 sekúnd.*
 
 Guľomety znova zaštekali. Tentokrát do trupu. Drevo praskalo, kusy paluby lietali — štiepky, ostré ako nože, mu prefrčali okolo hlavy. Niekto z posádky bol zasiahnutý — pád na palubu, mokrý zvuk, skrčenie.
 
-Strela prešla cez zábradlie pol metra od Maxa. Cítil prúd vzduchu na líci. Teplo trenia.
+Strela prešla cez zábradlie pol metra od Maksa. Cítil prúd vzduchu na líci. Teplo trenia.
 
 A potom — náraz.
 
-Nie strela. Makita narazila bokom do strechy radnice. Klesajúca loď sa zachytila o vežičku — kov a drevo zaškrípali, zvuk, od ktorého boleli zuby, balón sa prevrátil, celý svet sa naklonil. Max cítil, ako mu nohy strácajú kontakt s palubou — gravitácia ho ťahala nabok, prsty sa mu skĺzli z mokrého zábradlia.
+Nie strela. Makita narazila bokom do strechy radnice. Klesajúca loď sa zachytila o vežičku — kov a drevo zaškrípali, zvuk, od ktorého boleli zuby, balón sa prevrátil, celý svet sa naklonil. Maks cítil, ako mu nohy strácajú kontakt s palubou — gravitácia ho ťahala nabok, prsty sa mu skĺzli z mokrého zábradlia.
 
-Max stratil rovnováhu.
+Maks stratil rovnováhu.
 
 Na okamih videl oblohu — ružovú, čistú, krásnú — a pod ňou mesto v plameňoch. Na jeden dlhý, tichý okamih bol len vzduch a svetlo a nekonečný pád.
 
@@ -750,7 +750,7 @@ A potom padal.
 
 ## Časť XII: Sneh
 
-Pád netrval dlho. Ale pre Maxa to bola večnosť.
+Pád netrval dlho. Ale pre Maksa to bola večnosť.
 
 Videl strechy, ktoré sa točili. Videl oblohu, ako sa vzďaľuje — tá ružová, tá krásna, tá ľahostajná. Videl Makitu — naklonenú, dymiacu, s balónom, čo sa rútil ako strhnutá plachta. Počul vietor. Počul vlastný dych.
 
@@ -776,7 +776,7 @@ Inetis. Ale nie tá Inetis z kryoboxu. Iná. Mladšia. Živá. S bielymi vlasmi 
 
 Usmievala sa.
 
-„Spíš, Max?" opýtala sa. Hlas mala teplý. Teplý ako nič v tomto svete. „Alebo sa len bojíš zobudiť?"
+„Spíš, Maks?" opýtala sa. Hlas mala teplý. Teplý ako nič v tomto svete. „Alebo sa len bojíš zobudiť?"
 
 *Záblesk.*
 
@@ -808,7 +808,7 @@ A potom kroky.
 
 Rýchle. Ľahké. Bežali — nie ťažké vojenské čižmy, ale ľahké topánky, v ktorých Tami bežala celú noc po olejom zmazanej palube.
 
-„Max!"
+„Maks!"
 
 Hlas, ktorý poznal lepšie než svoj vlastný. Hlas, pre ktorý zaplatil kus seba — doslovne, nanobotmi a krvou, na studenom kameni pivnice. Hlas, ktorý mu na sekundu vrátil chuť do života — nie radosť, nie nádej, len *smer*. Ako kompas v hmle. Ako svetlo v okne, na ktoré Tami pred hodinou odmietla strieľať.
 
@@ -820,7 +820,7 @@ Jej ruky mu chytili tvár. Teplé. Živé. Triasli sa. Prsty jemné a drsné zá
 
 „Nedochádzaj mi," vzlykala. „Počuješ? Nedochádzaj."
 
-Max otvoril ústa. Chcel povedať, že je to v poriadku. Že vyhrali. Že mesto stojí. Cítil na perách jej dych — teplý, rýchly, voňajúci strojovým olejom a strachom.
+Maks otvoril ústa. Chcel povedať, že je to v poriadku. Že vyhrali. Že mesto stojí. Cítil na perách jej dych — teplý, rýchly, voňajúci strojovým olejom a strachom.
 
 Z úst mu vyšlo len zachrčanie. Krv mu bublala v hrdle.
 
@@ -830,7 +830,7 @@ Z úst mu vyšlo len zachrčanie. Krv mu bublala v hrdle.
 
 Hlas sa jej zlomil. Zvuk, aký vydáva drevo tesne predtým, než praskne. Nie plač. Niečo staršie. Niečo, čo nemalo meno.
 
-Max cítil, ako sa tma okolo neho sťahuje. Zvuky tíchli — najprv diaľkové výstrely, potom vietor, potom Tamin hlas. Obraz sa rozmazával — z jasnej do šedej, zo šedej do bielej. Tamina tvár sa strácala v hmle — najprv obrysy, potom farby, potom oči — tie tyrkysové oči boli posledné, čo videl.
+Maks cítil, ako sa tma okolo neho sťahuje. Zvuky tíchli — najprv diaľkové výstrely, potom vietor, potom Tamin hlas. Obraz sa rozmazával — z jasnej do šedej, zo šedej do bielej. Tamina tvár sa strácala v hmle — najprv obrysy, potom farby, potom oči — tie tyrkysové oči boli posledné, čo videl.
 
 A potom — sneh.
 
@@ -838,7 +838,7 @@ Začal padať potichu, bez varovania, ako keby sa obloha rozhodla zakryť všetk
 
 Sneh, plamene, krv a slzy.
 
-Max sa díval na Tami cez závoj bielych vločiek. Videl jej ústa, ako sa hýbali — hovorila niečo, kričala niečo — ale nepočul. Počul len tichý šum snehu a ďaleký, ďaleký zvuk, ktorý mohol byť vietor, alebo mohol byť motor lode, alebo mohol byť ženský hlas, ktorý povedal jeho meno pred tromi tisíckami rokov.
+Maks sa díval na Tami cez závoj bielych vločiek. Videl jej ústa, ako sa hýbali — hovorila niečo, kričala niečo — ale nepočul. Počul len tichý šum snehu a ďaleký, ďaleký zvuk, ktorý mohol byť vietor, alebo mohol byť motor lode, alebo mohol byť ženský hlas, ktorý povedal jeho meno pred tromi tisíckami rokov.
 
 „Líška..." vydýchol naposledy. Nie *Tami*. *Líška.* To meno, ktoré používal len v tme, len keď boli sami, len keď jej chcel povedať niečo, na čo nemal slová. Slovo mu vyšlo z úst spolu s posledným obláčkom pary, ktorý stúpol do mrazivého vzduchu a zmizol medzi vločkami.
 

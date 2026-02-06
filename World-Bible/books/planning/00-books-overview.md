@@ -41,14 +41,14 @@ graph TD
 ## Kniha 1: ZEM-hmota – Prach Nevriss
 
 ### Dej
-- Max sa prebúdza z 3000-ročného kryospánku
+- Maks sa prebúdza z 3000-ročného kryospánku
 - Loď zničená, modul Inetis prázdny
 - Stretáva Tami (7-ročnú zachráni, o 13 rokov sa stretnú znova)
 - Hľadá Inetis v post-apo svete
 
 ### Konflikt
 - Boj s divochmi a Kultom Matky
-- Max si uvedomuje, že „Matka" je Inetis
+- Maks si uvedomuje, že „Matka" je Inetis
 
 ### Finále
 - Nájdenie jaskyne a **tela Inetis** (kostra + denníky)
@@ -63,18 +63,18 @@ graph TD
 ### Dej (dvojitá línia)
 
 **Flashbacky (Zem):**
-- **ex inferis:** Maxovo uväznenie vo VR pekle Achilles.
-- **Vojna s Marsom (2150):** Max ako elitný zabijak Koordinátora.
+- **ex inferis:** Maksovo uväznenie vo VR pekle Achilles.
+- **Vojna s Marsom (2150):** Maks ako elitný zabijak Koordinátora.
 - **Pád Zeme (2300):** Dramatický útek s Inetis na lodi Null-Void.
 
 **Prítomnosť:**
-- Max a 7-ročná Tami putujú na Juh cez Severné pustatiny.
+- Maks a 7-ročná Tami putujú na Juh cez Severné pustatiny.
 - Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
 - Prvé strety s jednotkami Gronda.
-- **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Max nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
+- **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Maks nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
 
 ### Konflikt
-- Maxov boj s vlastnou tieňovou minulosťou zabijaka.
+- Maksov boj s vlastnou tieňovou minulosťou zabijaka.
 - **Grond** (Archanjel Vojny) vs. relikt starej éry.
 
 ---
@@ -92,11 +92,11 @@ graph TD
 - **Ynetis (Mesto Duchov):** Čiastočne zarastený ostrov plný rogue AI (Duchovia).
 
 ### Konflikt
-- **Ishtar** a her útok na Maxovu psychiku cez obraz dokonalej rodiny.
+- **Ishtar** a her útok na Maksovu psychiku cez obraz dokonalej rodiny.
 - Odhalenie pravdy o **Bit Rot Glitchi** (Elaniina zrada).
 
 ### Finále
-- Archív v Ynetis odhalí Maxovi najväčšie tajomstvo: Elania je jeho dcéra.
+- Archív v Ynetis odhalí Maksovi najväčšie tajomstvo: Elania je jeho dcéra.
 
 ---
 
@@ -104,17 +104,17 @@ graph TD
 > Detailná osnova: [04-vzduch.md](04-vzduch.md)
 
 ### Dej
-- Otvorená konfrontácia Max vs. Elania.
+- Otvorená konfrontácia Maks vs. Elania.
 - Infiltrácia ku **Kráteru** (vykopávky lode Exodus).
 - Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
 
 ### Mechaniky
-- **Signálové pole (The Breach Spike):** Maxova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
-- **Vákuová Spira:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Max neovláda.
+- **Signálové pole (The Breach Spike):** Maksova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
+- **Vákuová Spira:** Tisícročné skúsenosti kolonistov umožňujú ohýbať vzduch a drony spôsobom, ktorý Maks neovláda.
 
 ### Konflikt
 - **Otec vs. Dcéra:** Stret dvoch pohľadov na spásu (Biológia vs. Digitálna utópia).
-- Maxova neochota zabiť dcéru vs. Elaniina chladná logika "spásy".
+- Maksova neochota zabiť dcéru vs. Elaniina chladná logika "spásy".
 
 ### Finále
 - Elania aktivuje **Protokol Null** v Jadrue.
@@ -128,12 +128,12 @@ graph TD
 
 ### Dej
 - Protokol Null aktívny, svet sa rozpadá
-- Max a Tami vstupujú do Jadra lode Exodus
-- Max sa pripojí do virtuálnej reality
+- Maks a Tami vstupujú do Jadra lode Exodus
+- Maks sa pripojí do virtuálnej reality
 
 ### Nový Achilles
 - Elania vytvorila rekonštrukciu pôvodnej hry
-- Ponúka Maxovi dokonalý raj + digitálnu Inetis
+- Ponúka Maksovi dokonalý raj + digitálnu Inetis
 
 ### Odhalenie
 - Glitch Entities sa prebúdzajú
@@ -141,10 +141,10 @@ graph TD
 
 ### Finále
 - **maXpowa & i_net_is** spolu naposledy
-- Max obetuje svoje vedomie ako „záplatu"
+- Maks obetuje svoje vedomie ako „záplatu"
 - Protokol sa zastaví
 
 ### Epilóg
-- Max = Duch v Stroji (strážca)
+- Maks = Duch v Stroji (strážca)
 - Elania = smrteľná, zlomená
 - Tami = vodkyňa novej éry

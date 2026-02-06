@@ -128,7 +128,7 @@
 **OSINT misia:**
 - Zbiera každú informáciu o Tami
 - Kde bola, čo robila, s kým hovorila
-- Vie o nej viac než ktokoľvek — okrem Maxa
+- Vie o nej viac než ktokoľvek — okrem Maksa
 - **Stalker? Nie. Fanboy? Možno. Zamilovaný? Určite.**
 
 ---
@@ -168,7 +168,7 @@
 
 **Mormiel vs Tami:**
 - Bez Gen 1 podpory má Mormiel len Spiru
-- Tami je mladá, ale jej učiteľ bol **Max**
+- Tami je mladá, ale jej učiteľ bol **Maks**
 - Dlhý, vyčerpávajúci súboj
 - Tami vyhrá — *len tesne*
 
@@ -190,7 +190,7 @@
 - **Neistý:** Nie je hrdina — je len... človek
 
 ### Kontrasty
-- **Vs Max:** Max je veterán, cynický, otupený. Links je mladý, nadšený, zraniteľný.
+- **Vs Maks:** Maks je veterán, cynický, otupený. Links je mladý, nadšený, zraniteľný.
 - **Vs Tami:** Tami koná impulzívne. Links plánuje, analyzuje, váha.
 - **Vs Sera:** Sera je legenda, 3200 rokov. Links je nikto, 22 rokov.
 
@@ -223,13 +223,13 @@
 
 **ZAKÁZANÉ:**
 ```
-❌ Vojenský žargón (to je Max)
+❌ Vojenský žargón (to je Maks)
 ❌ Cool one-linery (nie je akčný hrdina)
 ❌ Sebavedomé flirtovanie (je nervózny)
 ```
 
 **Kontrast:**
-- Max: *"Lead. Pokračujeme."*
+- Maks: *"Lead. Pokračujeme."*
 - Tami: *"Čo to kurva bolo?!"*
 - Links: *"Podľa mojich dát... momentík... áno, to bolo presne to, čo som sa bál, že to bude."*
 
@@ -261,23 +261,23 @@
 **Vývoj:**
 - Links ju neurazí, nekritizuje, neodsudzuje
 - Počúva, pomáha, necháva ju viesť
-- Je **opak Maxa** — mladý, zraniteľný, otvorený
-- Tami si pomaly uvedomuje, že Max nie je jediná možnosť
+- Je **opak Maksa** — mladý, zraniteľný, otvorený
+- Tami si pomaly uvedomuje, že Maks nie je jediná možnosť
 
 **Konflikt:**
-- Tami stále miluje Maxa (alebo jeho ideu)
+- Tami stále miluje Maksa (alebo jeho ideu)
 - Links to vie — čítal všetko, počul všetky príbehy
 - Nebojuje o ňu — len je tam, keď ho potrebuje
 - *"Nemusíš si ma vybrať. Stačí, že existuješ."*
 
-### Max (Rival?)
+### Maks (Rival?)
 
-**Linksov pohľad na Maxa:**
+**Linksov pohľad na Maksa:**
 - Legenda. Spáč. Nesmrteľný exorcista.
 - Ale tiež: *"Nechal ju. Odmietol ju. Zranil ju."*
 - Links ho rešpektuje ako vojaka — nie ako partnera pre Tami
 
-**Maxov pohľad na Linksa:**
+**Maksov pohľad na Linksa:**
 - TBD — stretnú sa neskôr?
 - Pravdepodobne: *"Kto je tento kid?"*
 
@@ -339,16 +339,16 @@
 - Nie je hrdina — je **normálny človek** v svete legiend
 - Jeho sila je v **mozgu**, nie v svaloch
 - Nervózny okolo Tami — ale nie patetický, len ľudský
-- Kontrapunkt k Maxovi — mladosť vs skúsenosť
+- Kontrapunkt k Maksovi — mladosť vs skúsenosť
 
 **Kontrast s ostatnými:**
-- Max: 3000 rokov, cynický, otupený, odmietol Tami
+- Maks: 3000 rokov, cynický, otupený, odmietol Tami
 - Links: 22 rokov, idealistický, zraniteľný, hľadá Tami
 - Sera: legenda, nedotknuteľná
 - Links: nikto, smrteľný
 
 **Avoid:**
-- Nerob z neho "lepšieho Maxa" — je iný, nie lepší
+- Nerob z neho "lepšieho Maksa" — je iný, nie lepší
 - Nerob z neho damsel-saver — Tami sa zachráni sama, on len pomôže
 - Nerob z neho perfect boyfriend — má chyby, je neistý
 

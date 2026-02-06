@@ -100,7 +100,7 @@ The ship was named after the principle it uses to achieve faster-than-light spee
 | **Journey** | Earth → Achilles in **3 years** (vs. 300 years for ARK ships) |
 
 ### Crew
-- **Maximilian (EX-INF-003)**: Military commander, Ex Inferis
+- **Maksimilian (EX-INF-003)**: Military commander, Ex Inferis
 - **Inetis**: AI/hybrid, the only one capable of controlling the ship's nanotechnology
 
 ### Why Only One?
@@ -128,5 +128,5 @@ The ship was named after the principle it uses to achieve faster-than-light spee
 ---
 
 ## Questions for the Future
-- Will Max find any traces of other ships during the saga?
+- Will Maks find any traces of other ships during the saga?
 - Will FTL drive be reinvented/reactivated, summoning the threat?

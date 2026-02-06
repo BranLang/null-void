@@ -10,14 +10,14 @@
 
 ### Prologue: Príchod (Hotovo)
 **Súbor:** `drafts/main-arc/00-prologue.md`
-*   **Dej:** Max a Tami prilietajú do Shoraven na lodi *Makita*.
+*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Makita*.
 
 ### Kapitola 1: Karakuri (Hotovo)
 **Súbor:** `drafts/main-arc/01-karakuri.md`
-*   **Dej:** Max a Tami prilietajú do Shoraven na lodi *Makita*.
+*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Makita*.
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
-    *   Max hrá "Turistu" na colnici - používa humor ako masku.
+    *   Maks hrá "Turistu" na colnici - používa humor ako masku.
     *   Tami vybavuje opravu u miestneho Maka.
 
 ### Interlúdium: Ďaleko od Snehu (Hotovo)
@@ -27,52 +27,52 @@
 
 ### Kapitola 2: Ulica Mŕtvych zvonov (Hotovo)
 **Súbor:** `drafts/main-arc/02-dead-bells.md`
-*   **Dej:** Pátranie po Kitovi, odhalenie Maxovej identity a začiatok vojny.
+*   **Dej:** Pátranie po Kitovi, odhalenie Maksovej identity a začiatok vojny.
 *   **Kľúčové momenty:**
-    *   Kito spoznáva Maxa ako "Spáča".
+    *   Kito spoznáva Maksa ako "Spáča".
     *   Graw spúšťa ostreľovanie mesta.
     *   Útek do kanalizácie ("Črevá").
-    *   **Flashback 1:** Maxovo prebudenie v kryo-tekutine (iniciované pádom do splaškov).
+    *   **Flashback 1:** Maksovo prebudenie v kryo-tekutine (iniciované pádom do splaškov).
 
 ### Kapitola 3: Elaniiná Čepeľ (Hotovo)
 **Súbor:** `drafts/main-arc/03-elanias-blade.md`
 *   **The Sewers**: Cesta cez zatopené technické tunely (geotermálne parovody z čias Inetis).
 *   **The Hazard**: Environmentálne nebezpečenstvo (voda, plyn). Graw zasiahol prečerpávačku.
-*   **The Conversation**: Max a Kito — budovanie vzťahu. Max zachráni Kita pred utopením.
+*   **The Conversation**: Maks a Kito — budovanie vzťahu. Maks zachráni Kita pred utopením.
 *   **The Temple**: Nález Chrámu cez trhlinu v podlahe.
 *   **The Gate**: Kobky pod Chrámom — masívna brána z nanokompozitu. **Apes Paladíni (Rau a Kira)** strážia Anténu.
-*   **The Fight**: Max a Tami vs Paladíni. Sera vs Paladíni. Esencia transfer na Tami.
+*   **The Fight**: Maks a Tami vs Paladíni. Sera vs Paladíni. Esencia transfer na Tami.
 *   **The Defeat**: Apes otvoria bránu, vezmú Anténu. Sera vanishes.
 
 ### Kapitola 4: Matka a Oheň (Hotovo)
 **Súbor:** `drafts/main-arc/04-mother-and-fire.md`
-*   **The Tunnels**: Zranený Max a Kito utekajú hlbšie do tunelov pod Chrámom.
+*   **The Tunnels**: Zranený Maks a Kito utekajú hlbšie do tunelov pod Chrámom.
 *   **The Discovery**: Nájdu starobylú kaplnku — staršiu než Chrám. Steny z nanokompozitu (technológia NULL VOID).
 *   **The True Inetis**: Pôvodná socha Inetis — **ľudská žena** kľačiaca v blate. Biele vlasy. Fialové oči so špirálami galaxií. Bez uší, bez chvosta.
 *   **The Revelation**: Kito pochopí, že Cirkev zmenila pravú podobu Matky.
-*   **Max pozná tvár** — videl ju naposledy cez námrazu kryoboxu. Inetis.
-*   **The Warning**: Max varuje Kita — ak sa Cirkev dozvie o pravej soche, upália ho.
+*   **Maks pozná tvár** — videl ju naposledy cez námrazu kryoboxu. Inetis.
+*   **The Warning**: Maks varuje Kita — ak sa Cirkev dozvie o pravej soche, upália ho.
 
 ### Kapitola 5: Krvavý Rituál (Hotovo)
 **Súbor:** `drafts/main-arc/05-blood-ritual.md`
-*   **The Decision**: Max sa rozhodne skoncovať s Grawom pred odchodom.
-*   **The Blood Ritual**: Max uvoľní plnú vojenskú kapacitu nanodronového swarmu. **Max zabije Gronda.**
-*   **The Price**: 30% nanobotov sa nevráti. Max na hranici smrti.
+*   **The Decision**: Maks sa rozhodne skoncovať s Grawom pred odchodom.
+*   **The Blood Ritual**: Maks uvoľní plnú vojenskú kapacitu nanodronového swarmu. **Maks zabije Gronda.**
+*   **The Price**: 30% nanobotov sa nevráti. Maks na hranici smrti.
 
 ### Kapitola 6: Nebeské Kladivo (Hotovo)
 **Súbor:** `drafts/main-arc/06-sky-hammer.md`
 *   **The Counter-Attack**: *Makita* vzlietne ako vojnová loď. Felix (122mm) čistí cestu.
-*   **Dogfight**: Grawská Valkýra zostrelí veži — Max padá.
+*   **Dogfight**: Grawská Valkýra zostrelí veži — Maks padá.
 
 ### Kapitola 7: Prebudenie (Hotovo)
 **Súbor:** `drafts/main-arc/07-awakening.md`
-*   **The Fall**: Max padá do snehu, flashback vízie, na hranici smrti.
+*   **The Fall**: Maks padá do snehu, flashback vízie, na hranici smrti.
 *   **The Rescue**: Tami ho nájde.
-*   **Archive materiál:** `drafts/archive/prologue-1-draft-kael-samaell.md` obsahuje Kael/Samaell duel + Max-v-klietke scénu na integráciu.
+*   **Archive materiál:** `drafts/archive/prologue-1-draft-kael-samaell.md` obsahuje Kael/Samaell duel + Maks-v-klietke scénu na integráciu.
 
 ### Epilóg: Pasca v Zálive (Hotovo)
 **Súbor:** `drafts/main-arc/08-epilogue-blockade-run.md`
-*   **Rozlúčka**: Kito ostáva s Mayou. Max, Tami, Links na Druhú Šancu.
+*   **Rozlúčka**: Kito ostáva s Mayou. Maks, Tami, Links na Druhú Šancu.
 *   **The Run**: Links naviguje cez mínové pole. Kraken ako diversia.
 *   **Smer Juh**: Nevriss.
 
@@ -102,8 +102,8 @@
 *   **Flashbacky sú integrované**:
     *   Awakening -> Ch 2 & Ch7
     *   Samaell Duel -> Archive (na integráciu do Ch5 alebo Ch7)
-    *   Pôvod (Origin) -> Ch 7 (Max v klietke + baby Tami)
+    *   Pôvod (Origin) -> Ch 7 (Maks v klietke + baby Tami)
 *   **Paladíni**: Energetické štíty (Hard Light) + vibro-sekery. Žiadne fyzické štíty, žiadne kopije.
-*   **Anténa**: Apes ju získajú v Ch3 a odnesú na Apriku. Max ju v Knihe 1 NEZÍSKA.
+*   **Anténa**: Apes ju získajú v Ch3 a odnesú na Apriku. Maks ju v Knihe 1 NEZÍSKA.
 *   **Grond**: Zomiera v Ch5 (Blood Ritual). Graw stráca veliteľa.
 *   **Felix**: 122mm kanón (nie 88mm). Ukradnutý z vraku krížnika.

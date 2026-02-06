@@ -37,7 +37,7 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 - **Dôkaz, že Gen 1 bola chyba**
 
 **Kto trpí Gen 1 kliatbou:**
-- **Max** — vedome obetuje nanoboty (Blood Ritual), stráca spomienky a IQ
+- **Maks** — vedome obetuje nanoboty (Blood Ritual), stráca spomienky a IQ
 - **Sera** — udržiava Gen 1 vampirizmom, disciplinovane, ale s odporom
 - **Renn** — prestal praktizovať vampirizmus po smrti manželky, Gen 1 degradovali → zomrel slabý
 - **Elania** — uväznená v Gen 1/1.5, Glitch Rot ju požiera, preto musí požierať iných
@@ -97,11 +97,11 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 
 Gen 1 HUD je **čisto interný** — vidí ho len majiteľ, vo vlastnej hlave. Pre okolie je neviditeľný. Nie je to hologram, nie je to projekcia. Je to priamy vstup do vizuálneho kortexu cez nanoboty v očných jamkách.
 
-**Problém pre rozprávanie:** Max to nedokáže popísať slovami. Keď Tami vysvetľoval, ako jeho senzory fungujú, prirovnával to k „snívaniu s otvorenými očami" — vidíš normálny svet, ale cez neho bežia vrstvy informácií, ktoré nikto iný nevidí. Signatúry, teploty, vzdialenosti, analýzy. Všetko vo forme, ktorú jeho mozog interpretuje po svojom — nie v tabuľkách, ale v *pocitoch* s presnosťou. Vie, že niečo je 80 metrov ďaleko, nie preto, že vidí číslo, ale preto, že to *cíti* s presnosťou na meter.
+**Problém pre rozprávanie:** Maks to nedokáže popísať slovami. Keď Tami vysvetľoval, ako jeho senzory fungujú, prirovnával to k „snívaniu s otvorenými očami" — vidíš normálny svet, ale cez neho bežia vrstvy informácií, ktoré nikto iný nevidí. Signatúry, teploty, vzdialenosti, analýzy. Všetko vo forme, ktorú jeho mozog interpretuje po svojom — nie v tabuľkách, ale v *pocitoch* s presnosťou. Vie, že niečo je 80 metrov ďaleko, nie preto, že vidí číslo, ale preto, že to *cíti* s presnosťou na meter.
 
-Asistent (AI) komunikuje rovnako — nie textom, nie hlasom. Myšlienkami, ktoré sa objavia v hlave a Max vie, že nie sú jeho. Po 3000 rokoch spolužitia je hranica medzi „Max myslí" a „Asistent hovorí" niekedy nejasná.
+Asistent (AI) komunikuje rovnako — nie textom, nie hlasom. Myšlienkami, ktoré sa objavia v hlave a Maks vie, že nie sú jeho. Po 3000 rokoch spolužitia je hranica medzi „Maks myslí" a „Asistent hovorí" niekedy nejasná.
 
-**Pravidlo pre prózu:** Max nikdy nehovorí v scan reportoch. Informácie z HUD prekladá do vlastných slov, vlastných myšlienok. Čitateľ vidí výsledok, nie rozhranie.
+**Pravidlo pre prózu:** Maks nikdy nehovorí v scan reportoch. Informácie z HUD prekladá do vlastných slov, vlastných myšlienok. Čitateľ vidí výsledok, nie rozhranie.
 
 ### Gen 2: Pentagramový kruh (IDE)
 
@@ -111,7 +111,7 @@ Gen 2 Pentagram je **externý a vizuálny** — viditeľný pre všetkých. Keď
 
 **Cirkev to interpretuje ako:** Sväté znamenie. Dôkaz požehnania Matky. Vizuálny znak milosti.
 
-**Max to vidí ako:** Debug overlay. Vizuálne rozhranie nanobotového systému. Ako keby sa niekto díval na terminál a myslel si, že číta modlitby.
+**Maks to vidí ako:** Debug overlay. Vizuálne rozhranie nanobotového systému. Ako keby sa niekto díval na terminál a myslel si, že číta modlitby.
 
 **Kľúčový rozdiel:** Gen 1 HUD je v hlave, súkromný, neviditeľný. Gen 2 Pentagram je vonku, verejný, viditeľný. Gen 1 je rozšírenie vedomia. Gen 2 je nástroj v ruke.
 
@@ -124,4 +124,4 @@ Gen 2 Pentagram je **externý a vizuálny** — viditeľný pre všetkých. Keď
 - [ ] Čo sa stane, keď Varietas stratí Spiru? Aké sú dôsledky?
 - [ ] Existujú ľudia, čo odmietajú Gen 2 / Spiru? Prečo?
 - [ ] Ako vníma Sera rozdiel medzi Gen 1 a Gen 2? Závidí Varietas ich slobodu?
-- [ ] Ako Tami vysvetlí Linksovi Maxov HUD? (Kniha 2+ moment — „vidí veci vo svojej hlave, ale ťažko to opísať slovami")
+- [ ] Ako Tami vysvetlí Linksovi Maksov HUD? (Kniha 2+ moment — „vidí veci vo svojej hlave, ale ťažko to opísať slovami")

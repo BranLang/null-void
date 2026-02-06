@@ -49,7 +49,7 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Odber (Zber)**: Lovci Archanjelov pátrajú po Varietas s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
 - **Dôsledok pre spoločnosť**: Spira je medzi Varietas vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
-    - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maxom v AY 3001).
+    - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maksom v AY 3001).
     - **Grond:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
     - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Aprike v Sklenom Meste.
     - **Elania:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Neurope.
@@ -106,9 +106,9 @@ Pre Varietas je Spira mystická sila, ale v skutočnosti funguje ako programovan
 
 ### Gen 1 vs. Varietas — Dva Jazyky Spiry
 Kontrast medzi generáciami nanotechnológie definuje celý svet:
-- **Gen 1 (Max/Ľudia)**: Vojenská nanotechnológia ovládaná priamo — anglické Linux príkazy, CLI rozhranie, surové dátové streamy. Keď Max vydá príkaz svojim dronom, znie to ako nezrozumiteľná modlitba v cudzom jazyku. Pre Varietas sú jeho slová *mimozemskou inkantáciou* — desivou a mocnou.
+- **Gen 1 (Maks/Ľudia)**: Vojenská nanotechnológia ovládaná priamo — anglické Linux príkazy, CLI rozhranie, surové dátové streamy. Keď Maks vydá príkaz svojim dronom, znie to ako nezrozumiteľná modlitba v cudzom jazyku. Pre Varietas sú jeho slová *mimozemskou inkantáciou* — desivou a mocnou.
 - **Varietas (Haiku Syntax)**: Inetis zamaskovala kód Spiry do japonských Haiku. Modlitby k Matke sú v skutočnosti makrá a skripty — rytmické, poetické príkazy, ktoré aktivujú nanoboty. Varietas odrieka Haiku, aby vyvolal "kúzlo". Cirkev učí, že poézia je jazyk Matky. Pravda je, že je to programovací jazyk.
-- **Prečo to funguje**: Gen 1 nanotech reaguje na anglické CLI príkazy (Staroreč). Varietas nanotech (navrhnutý Inetis) reaguje na Haiku syntax. Oba systémy sú programovanie — len iným jazykom. Keď sa Max a Varietas stretnú v boji, vyzerá to ako stret dvoch úplne odlišných "škôl" — ako keby jeden čaroval po latinsky a druhý po japonsky.
+- **Prečo to funguje**: Gen 1 nanotech reaguje na anglické CLI príkazy (Staroreč). Varietas nanotech (navrhnutý Inetis) reaguje na Haiku syntax. Oba systémy sú programovanie — len iným jazykom. Keď sa Maks a Varietas stretnú v boji, vyzerá to ako stret dvoch úplne odlišných "škôl" — ako keby jeden čaroval po latinsky a druhý po japonsky.
 
 ### WaSpira (Vojnová Spira)
 Militantná aplikácia Spiry, zameraná na deštrukciu a boj.
@@ -119,7 +119,7 @@ Militantná aplikácia Spiry, zameraná na deštrukciu a boj.
 ### Osvietení vs. Veriaci
 Dva fundamentálne prístupy k Spire definujú svet:
 - **Veriaci Varietas**: Sú presvedčení, že len silná viera v Matku umožňuje ovládať Spiru. A majú čiastočne pravdu — Inetis navrhla IDE systém tak, že „syntax" Spiry vyžaduje mentálnu disciplínu a rituály, ktoré náboženstvo prirodzene poskytuje.
-- **Osvietení (Nepožehnaní Ľudia/Max)**: Ľudia ako Max, ktorí neboli požehnaní Inetis, vidia náboženstvo ako psychologickú zbraň hromadného ovládania. Max chápe Spiru ako čistú technológiu a učí Tami rovnaký prístup — aj keď sám Spiru nemá.
+- **Osvietení (Nepožehnaní Ľudia/Maks)**: Ľudia ako Maks, ktorí neboli požehnaní Inetis, vidia náboženstvo ako psychologickú zbraň hromadného ovládania. Maks chápe Spiru ako čistú technológiu a učí Tami rovnaký prístup — aj keď sám Spiru nemá.
 - **Požehnaní Ľudia (Blessed Ones)**: Potomkovia ľudského tímu Inetis, ktorí boli požehnaní dotykom spolu s ranými Varietas. Žijú na **južnom pobreží Terry** v komunitách. Majú Spiru ako Varietas, ale zachovali si čisté ľudské telá. 
 - **Tami (Výnimka)**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu vedeckému mentoringu dokáže využívať Spiru na 200% — nie je zviazaná dogmou Cirkvi, experimentuje slobodne. Pre Cirkev je kacírka.
 
@@ -208,8 +208,8 @@ Synths priniesli tretiu stranu konfliktu.
 
 ### 4. Predsudky vs. Skúsenosť (Kríza identity)
 Najhlbší psychologický konflikt sveta.
-- **Pravda v tme**: Maxov príklad ukazuje, že rešpekt sa dá vybudovať aj medzi úhlavnými nepriateľmi, ak je potlačený vizuálny vnem.
-- **Dôsledok Zjavenia**: Keď sa predsudok stretne s pozitívnou osobnou skúsenosťou (napr. Max zistí, že jeho záchranca je Varietas), dochádza k rozbitiu identity. Buď jedinec prijme novú realitu, alebo sa stiahne do ešte agresívnejšej nenávisti, aby ochránil svoje staré vnímanie sveta.
+- **Pravda v tme**: Maksov príklad ukazuje, že rešpekt sa dá vybudovať aj medzi úhlavnými nepriateľmi, ak je potlačený vizuálny vnem.
+- **Dôsledok Zjavenia**: Keď sa predsudok stretne s pozitívnou osobnou skúsenosťou (napr. Maks zistí, že jeho záchranca je Varietas), dochádza k rozbitiu identity. Buď jedinec prijme novú realitu, alebo sa stiahne do ešte agresívnejšej nenávisti, aby ochránil svoje staré vnímanie sveta.
 
 ### 5. Achilles: Mýtus o Pevnosti vs. Realita Hrdze
 Názov planéty odráža najväčšiu iróniu sveta.
@@ -331,7 +331,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 >
 > **Prečo ju chcú všetci:** Anténa je jediná vec na planéte, ktorá dokáže ovládať veľké roje nanobotov. V kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte. **Archanjeli**, **Cirkev**, **Grond**, **Apes** — všetci veľkí hráči o nej vedia a všetci ju chcú.
 >
-> **Maxov Interface:** Max (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
+> **Maksov Interface:** Maks (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
 
 ### Kult Nesmrteľného Gronda (Sever - Graw)
 

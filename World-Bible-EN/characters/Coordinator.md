@@ -22,5 +22,5 @@
 
 ### The Fall of Earth (EY ~2300)
 - Architect of Earth's "utopia" and its downfall
-- During the alien invasion, he sent i_net_is (now Inetis) and Max to escape
+- During the alien invasion, he sent i_net_is (now Inetis) and Maks to escape
 - Died defending Earth

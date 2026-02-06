@@ -48,7 +48,7 @@ V noci generálneho útoku, keď je všetko stratené:
 
 ### A. The Decapitation Strike (Grondov Pád)
 - Grawská armáda je unavená a hladná. Drží ich pokope len strach z Gronda a sľub plienenia.
-- **Maxov cieľ:** Zabiť Gronda (Generála v Power Armor) priamo na bojisku, pred očami jeho mužov.
+- **Maksov cieľ:** Zabiť Gronda (Generála v Power Armor) priamo na bojisku, pred očami jeho mužov.
 - **Efekt:** Keď "Boh" padne, strach zmizne. Hladní žoldnieri nemajú dôvod umierať.
 
 ### B. Psychologický Obrat (Líška)
@@ -56,7 +56,7 @@ V noci generálneho útoku, keď je všetko stratené:
 - Obrancovia, ktorí utekal, sa otočia a bojujú.
 
 ### C. Grawská Logistika sa Zríti
-- Keď Max/Tami zničia velenie, koordinácia útoku zlyhá.
+- Keď Maks/Tami zničia velenie, koordinácia útoku zlyhá.
 - Jednotky v meste sa ocitnú v pasci (mestský boj).
 - Bez velenia a s vidinou zimy v horách, Grawská armáda spanikári a začne ústup.
 
@@ -68,13 +68,13 @@ V noci generálneho útoku, keď je všetko stratené:
 
 V stredovekej/industriálnej vojne nerozhoduje len počet, ale **morálka** a **ničenie kľúčových cieľov** (Command & Control).
 
-Tami a Max nezabijú 40,000 vojakov. To je nemožné.
+Tami a Maks nezabijú 40,000 vojakov. To je nemožné.
 Urobia toto:
 
 ### A. Strategický Úder (Decapitation Strike)
 - **Cieľ:** **Grond** (Generalissimus v Power Armor).
 - **Efekt:** Armáda Graw je vedená strachom. Ak padne "Nesmrteľný Boh", morálka sa zrúti. Žoldnieri nebudú umierať za mŕtvy žold.
-- **Maxova rola:** Max (Exorcista) je jediný, kto dokáže preraziť Grondov Power Armor (Gen 1 technológia vs Dieselpunk armor).
+- **Maksova rola:** Maks (Exorcista) je jediný, kto dokáže preraziť Grondov Power Armor (Gen 1 technológia vs Dieselpunk armor).
 
 ### B. Psychologická Vojna (The Legend)
 - **Tami:** Zjednotí obranu. Keď vojaci vidia "Líšku s ohnivým chvostom", bojujú s fanatizmom.
@@ -85,7 +85,7 @@ Urobia toto:
 - Maxove **kinetické roje** v úzkej uličke sú devastating.
 
 ### D. Blood Ritual (Massacre)
-- V kritickom momente Tami/Max použijú niečo, čo spôsobí masívnu stratu v radoch nepriateľa (explózia munície, pád časti hradieb na elitu, alebo Blood Ritual).
+- V kritickom momente Tami/Maks použijú niečo, čo spôsobí masívnu stratu v radoch nepriateľa (explózia munície, pád časti hradieb na elitu, alebo Blood Ritual).
 - Toto zlomí vôľu nepriateľa. Armáda neuteká, keď zomrú všetci — uteká, keď stratí **nádej**.
 
 ---
@@ -97,7 +97,7 @@ Je to *Game of Thrones + Metal Gear Solid*.
 
 - **Armáda Graw (40k)** oblieha mesto.
 - **Obrana (8k)** krváca.
-- **Hrdinovia (Max + Tami)** preniknú za línie / udržia bránu, zabijú veliteľa (Gronda) a zničia obliehacie stroje.
+- **Hrdinovia (Maks + Tami)** preniknú za línie / udržia bránu, zabijú veliteľa (Gronda) a zničia obliehacie stroje.
 - **Výsledok:** Grawská armáda bez velenia a ťažkých zbraní sa stiahne späť do hôr.
 
 Toto je logicky uveriteľné víťazstvo.

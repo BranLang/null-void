@@ -116,7 +116,7 @@
 
 ### Reakcie postáv (keď sa pravda odhalí):
 - **Sera**: Spozná niečo familiárne — ľudské rysy, modré oči, niečo čo jej pripomenie Zem
-- **Max**: Cíti niečo neuchopiteľné — možno preto si ju vzal za padavana, podvedome
+- **Maks**: Cíti niečo neuchopiteľné — možno preto si ju vzal za padavana, podvedome
 - **Links**: Všimne si, že nie je ako ostatní Pursangi — ako Exorcista by vedel analyzovať
 - **Elania**: Hybrid = zaujímavý experiment pre jej ADHD genius myseľ
 
@@ -126,10 +126,10 @@
 
 | Starý svet (rozdelenie) | Nový svet (zmierenie) |
 |---|---|
-| Inetis + Max (človek + človek) → Elania | Renn (človek) + matka (Vulpini) → Tami |
+| Inetis + Maks (človek + človek) → Elania | Renn (človek) + matka (Vulpini) → Tami |
 | Elania chce zničiť biológiu (Veľký Upload) | Tami je živý dôkaz, že biológia funguje |
 | Archanjeli vs Varietas — večná vojna | Tami + Links — celebritný pár novej éry |
-| Sera vs Max — dvaja vojaci v lojalite | Tami + Links — dvaja ľudia, čo si vybrali lásku |
+| Sera vs Maks — dvaja vojaci v lojalite | Tami + Links — dvaja ľudia, čo si vybrali lásku |
 
 > **Celý príbeh ide od vojny k zmiereniu.** Archanjeli, Paladíni, Veľký Upload — to všetko je starý svet, ktorý sa drží rozdelenia. Tami a Links sú nový svet, kde na tom nezáleží.
 
@@ -147,5 +147,5 @@
 - [ ] Prečo Renn odišiel od Inetis/komunity? Čo ho viedlo k životu hľadača pokladov?
 - [ ] Kedy sa odhalí pravda o Rennovom pôvode? Book 2? 3?
 - [ ] Ako reaguje Tami, keď sa dozvie, že jej otec bol človek zo Zeme?
-- [ ] Mení to niečo na jej vzťahu s Maxom? (Obaja sú "ľudia medzi Varietas")
+- [ ] Mení to niečo na jej vzťahu s Maksom? (Obaja sú "ľudia medzi Varietas")
 - [ ] Prepísať Renn_Vix_Kael.md z "Vulpini" na "Niktori" — alebo nechať Vulpini ako kryciu identitu?

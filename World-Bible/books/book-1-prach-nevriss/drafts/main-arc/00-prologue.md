@@ -18,7 +18,7 @@ Jej zrak spočinul na kresle za veľkým dreveným stolom. Pri pohľade na tmav�
 
 „Tami," ozval sa hlas spoza stola.
 
-„Max, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky," poznamenala s úctihodnou dávkou irónie. „Sme na mieste. Daj sa dokopy," dodala pre zmenu so súcitom v hlase.
+„Maks, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky," poznamenala s úctihodnou dávkou irónie. „Sme na mieste. Daj sa dokopy," dodala pre zmenu so súcitom v hlase.
 
 Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?"
 

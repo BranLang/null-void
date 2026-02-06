@@ -12,42 +12,42 @@
 ---
 
 ## II. Mechanika: Signálové pole (The Breach Spike)
-*   **Funkcia:** Maxova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči Spire.
-*   **Cena:** Pole odrezáva Maxa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
-*   **Taktika:** Max musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný Spirou).
+*   **Funkcia:** Maksova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči Spire.
+*   **Cena:** Pole odrezáva Maksa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
+*   **Taktika:** Maks musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný Spirou).
 
 ---
 
 ## III. Dejstvo: Cesta ku Kráteru
 *   **Kráter:** Miesto vykopávok lode Exodus. Elania tu odkrýva Jadro.
-*   **Priebeh:** Max a Tami sledujú stopy "Protokolu Ticha" (AI vraždy vedcov). 
-*   **Infiltrácia:** Max sa zakráda tieňmi (Anténa zapnutý), zatiaľ čo ho Tami naviguje.
+*   **Priebeh:** Maks a Tami sledujú stopy "Protokolu Ticha" (AI vraždy vedcov). 
+*   **Infiltrácia:** Maks sa zakráda tieňmi (Anténa zapnutý), zatiaľ čo ho Tami naviguje.
 
 ---
 
 ## IV. Dejstvo: Boj v Bahnách
 *   **Odhalenie:** V hĺbke vykopávok ich Nesmrteľní odhalia. 
-*   **Súboj:** Maxova hrubá military sila vs. tisícročné skúsenosti Krotiteľov. Max vyhráva s ťažkými zraneniami, ktoré sa mu bez aktívnych dronov (kvôli štítu pre Tami) nehoja.
+*   **Súboj:** Maksova hrubá military sila vs. tisícročné skúsenosti Krotiteľov. Maks vyhráva s ťažkými zraneniami, ktoré sa mu bez aktívnych dronov (kvôli štítu pre Tami) nehoja.
 
 ---
 
 ## V. Dejstvo: Konfrontácia Otec vs. Dcéra
 *   **Filozofický Stret:**
     *   **Elania:** Biológia je bolesť a kliatba. Jediná spása je "Veľký Upload" do digitálnej rajskej záhrady.
-    *   **Max:** Bolesť je cena za život. Sterilná nesmrteľnosť v stroji je strata ľudskej podstaty.
-*   **Prehra:** Elania Maxa premôže (využije jeho otcovskú slabosť a zranenia). 
+    *   **Maks:** Bolesť je cena za život. Sterilná nesmrteľnosť v stroji je strata ľudskej podstaty.
+*   **Prehra:** Elania Maksa premôže (využije jeho otcovskú slabosť a zranenia). 
 
 ---
 
 ## Cliffhanger
-Elania použije Maxovu ruku (kódy Koordinátora) na otvorenie brány Jadra. Deaktivuje "Protokol Ticha". Nastáva hlboké ticho – Duchovia prestávajú útočiť. Elania vstupuje do tmy Jadra, aby spustila Upload. Svet sa začína meniť.
+Elania použije Maksovu ruku (kódy Koordinátora) na otvorenie brány Jadra. Deaktivuje "Protokol Ticha". Nastáva hlboké ticho – Duchovia prestávajú útočiť. Elania vstupuje do tmy Jadra, aby spustila Upload. Svet sa začína meniť.
 
 ---
 
 ## Vizuál (Návrh obalu)
 *   **Scéna:** Priemyselný výkop v Kráteri.
 *   **Dominanta:** Obrovská brána Jadra lode Exodus.
-*   **Postavy:** Max v centre, obklopený Starou Gardou. Elania v pozadí vchádza do brány.
+*   **Postavy:** Maks v centre, obklopený Starou Gardou. Elania v pozadí vchádza do brány.
 *   **Element:** Búrkové mraky, prach a technický smog.
 
 ## Referencie

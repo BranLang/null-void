@@ -4,11 +4,11 @@
 
 **Centrum Šoravenu. O hodinu neskôr.**
 
-Max sa prebral na studenej dlažbe. Hlava mu trešťala, akoby v nej mal zbíjačku. Ale žil. Nanoboty pracovali — pomaly, zúfalo — na oprave poškodených tkanív.
+Maks sa prebral na studenej dlažbe. Hlava mu trešťala, akoby v nej mal zbíjačku. Ale žil. Nanoboty pracovali — pomaly, zúfalo — na oprave poškodených tkanív.
 
 „Vstávaj, Spáč," ozval sa Tamin hlas z vysielačky. Znel inak. Ostro. Už žiadny strach. „Si na rade. Mako hlási, že motor je na 60%. Balón drží tlak — zázrakom. Sme vo vzduchu."
 
-Max sa posadil. Zobral zo zeme ďalekohľad a samopal *Vigilant*, ktorý zobral mŕtvemu vojakovi Graw pri úteku z katedrály.
+Maks sa posadil. Zobral zo zeme ďalekohľad a samopal *Vigilant*, ktorý zobral mŕtvemu vojakovi Graw pri úteku z katedrály.
 
 Vyšplhal sa na zvyšok veže.
 
@@ -16,7 +16,7 @@ Pohľad, ktorý sa mu naskytol, bol apokalyptický.
 
 Grawská armáda sa po smrti Gronda nezrútila, ako dúfal. Zmrzla, áno, ale len na chvíľu. Teraz, pod velením poľných dôstojníkov, sa začala preskupovať. Hnev nahradil disciplínu. Chceli pomstu.
 
-„Vidím ich," povedal Max do vysielačky. Hlas sa mu triasol bolesťou, ale myseľ bola jasná. „Presúvajú ťažké delostrelectvo na Severný Bulvár. Ak tam rozložia mažiari, zrovnajú štvrť so zemou."
+„Vidím ich," povedal Maks do vysielačky. Hlas sa mu triasol bolesťou, ale myseľ bola jasná. „Presúvajú ťažké delostrelectvo na Severný Bulvár. Ak tam rozložia mažiari, zrovnajú štvrť so zemou."
 
 „Nie, ak ich 'pozdravíme' prví," povedala Tami.
 
@@ -28,17 +28,17 @@ Ale to hlavné bolo pod provou.
 
 Kryt sa odsunul a odhalil **Felixa**. Ťažký 122mm kanón, ukradnutý z vraku krížnika, bol teraz primontovaný k trupu *Makity* ako obrovský oceľový prst ukazujúci na nepriateľa.
 
-„Si pripravená?" opýtal sa Max.
+„Si pripravená?" opýtal sa Maks.
 
-„Ja som sa tak narodila," odvrkla Tami. Sedela v streleckej veži, ruky na pákach. „Daj mi súradnice, Max. Buď moje oči."
+„Ja som sa tak narodila," odvrkla Tami. Sedela v streleckej veži, ruky na pákach. „Daj mi súradnice, Maks. Buď moje oči."
 
-Max aktivoval zvyšné nanoboty. Už ich nemohol poslať útočiť, ale mohol ich použiť ako senzorickú sieť.
+Maks aktivoval zvyšné nanoboty. Už ich nemohol poslať útočiť, ale mohol ich použiť ako senzorickú sieť.
 
 *Targeting System: Online.*
 *Distance: 1200 meters.*
 *Wind: North-West, 15 m/s.*
 
-„Sektor 4," hlásil Max. „Muničný sklad za radnicou. Vidíš ten komín?"
+„Sektor 4," hlásil Maks. „Muničný sklad za radnicou. Vidíš ten komín?"
 
 „Vidím."
 
@@ -58,7 +58,7 @@ Dopadla presne.
 
 Muničný sklad Graw explodoval. Nebola to obyčajná explózia. Bola to reťazová reakcia. Sudy s korditom, granáty, palivo — všetko vyletelo do vzduchu v obrovskej ohnivej guli, ktorá pohltila dva bloky domov a tri roty Grawskej pechoty.
 
-„Zásah!" kričal Max, prekričujúc rev explózie. „Priamy zásah! Grawská línia je prelomená!"
+„Zásah!" kričal Maks, prekričujúc rev explózie. „Priamy zásah! Grawská línia je prelomená!"
 
 „Nekončíme!" kričala Tami. „Nabíjaj! Ďalší cieľ!"
 
@@ -76,17 +76,17 @@ Grawská armáda prepadla panike. Toto nečakali. Mysleli si, že bojujú proti 
 
 „Ústup!" kričali dôstojníci Graw do vysielačiek. „Majú vzdušnú podporu! Opakujem, ťažká vzdušná podpora!"
 
-Max sledoval, ako sa sivé uniformy začínajú sťahovať. Hádzali zbrane, utekali do uličiek.
+Maks sledoval, ako sa sivé uniformy začínajú sťahovať. Hádzali zbrane, utekali do uličiek.
 
-„Dokázali sme to," vydýchol Max, opierajúc sa o stenu veže. „Tami... dokázali sme to."
+„Dokázali sme to," vydýchol Maks, opierajúc sa o stenu veže. „Tami... dokázali sme to."
 
 „Ešte nie," povedala Tami. Hlas mala napätý. „Počujem niečo."
 
-Max stíchol. Načúval.
+Maks stíchol. Načúval.
 
 Najprv to bolo len chvenie. Niečo hlboko v hrudníku — nie zvuk, ale vibrácia, akoby sa triasol samotný vzduch. Potom prišiel bas. Hlboký, dunivy, taký nízky, že ho človek necítil ušami, ale bránicou. Rezonoval v rebrách, v zuboch, v kostiach lebky. Zvuk veľkých piestových motorov — nie hladké predenie turbín, ale surové, rytmické búchanie valcov, desiatky explózií za sekundu, každá z nich otrasie strojom tak, že sa chveje celý drak.
 
-Max stuhol. Poznal ten zvuk. Nie z vojny — z detstva. Mal štyri roky, keď ho dedo vzal na leteckú šou. Messerschmitt preletel nad tribúnou tak nízko, že malý Max prestal dýchať. Nie od strachu. Od niečoho hlbšieho. Ten bas sa mu vypálil do mozgu navždy — a teraz, po troch tisíc rokoch, ho znova cítil v bránici, v zuboch, v kostiach.
+Maks stuhol. Poznal ten zvuk. Nie z vojny — z detstva. Mal štyri roky, keď ho dedo vzal na leteckú šou. Messerschmitt preletel nad tribúnou tak nízko, že malý Maks prestal dýchať. Nie od strachu. Od niečoho hlbšieho. Ten bas sa mu vypálil do mozgu navždy — a teraz, po troch tisíc rokoch, ho znova cítil v bránici, v zuboch, v kostiach.
 
 Dunenie sa odrážalo od striech a stien, menilo sa na steny zvuku, ktoré prichádzali zo všetkých strán naraz. Nebolo možné určiť smer. Len to, že sa blíži.
 
@@ -94,19 +94,19 @@ Dunenie sa odrážalo od striech a stien, menilo sa na steny zvuku, ktoré prich
 
 Tamin hlas prišiel okamžite. Ostrý. Praktický.
 
-„Odchádzame. Max, Makita proti stíhačkám je samovražda. Nemáme čím, nemáme ako. Klesáme na juh, pod strechy, zmiznem v uličkách. Viem kadiaľ."
+„Odchádzame. Maks, Makita proti stíhačkám je samovražda. Nemáme čím, nemáme ako. Klesáme na juh, pod strechy, zmiznem v uličkách. Viem kadiaľ."
 
 „A civili?"
 
 „Civili nie sú moja starosť. Ja mám posádku, deravú loď a teba. To mi stačí."
 
-Nebola zbabelá. Max to vedel. Tami jednoducho rozumela svetu — ako naozaj funguje, nie ako by mal. Česť, spravodlivosť, zomrieť za ideály — to boli slová pre ľudí, čo nikdy nemali prázdny žalúdok. Tami mala. A prežila, lebo vedela kedy odísť.
+Nebola zbabelá. Maks to vedel. Tami jednoducho rozumela svetu — ako naozaj funguje, nie ako by mal. Česť, spravodlivosť, zomrieť za ideály — to boli slová pre ľudí, čo nikdy nemali prázdny žalúdok. Tami mala. A prežila, lebo vedela kedy odísť.
 
 „Nemáme kam, Tami," povedal ticho. „Vonku je zima. S deravým balónom sa nedostaneme ani za hradby. Graw nám bude v pätách. Aj keby sme ušli — kam? Do snehu?"
 
 „Vymyslím niečo. Vždy vymyslím."
 
-„Nie tentokrát." Maxov hlas stuhol. „Ja viem, aké to je odísť. Odišiel som na Zemi. S Inetis. Nechal som ľudí za sebou — vojak, ktorý ušiel. Žijem s tým tri tisíc rokov."
+„Nie tentokrát." Maksov hlas stuhol. „Ja viem, aké to je odísť. Odišiel som na Zemi. S Inetis. Nechal som ľudí za sebou — vojak, ktorý ušiel. Žijem s tým tri tisíc rokov."
 
 Praskanie vo vysielačke.
 
@@ -114,11 +114,11 @@ Praskanie vo vysielačke.
 
 Dlhé ticho. Dunenie stíhačiek zosilnelo.
 
-„Do čerta," povedala Tami. Kovový zvuk. Páky. Hlaveň Felixa sa pootočila. „Nechcem zomrieť za tvoje svedomie, Max."
+„Do čerta," povedala Tami. Kovový zvuk. Páky. Hlaveň Felixa sa pootočila. „Nechcem zomrieť za tvoje svedomie, Maks."
 
 „Nechcem, aby si zomrela. Chcem, aby si strieľala."
 
-Dunenie zosilnelo. Už to nebola vibrácia — bol to rev. Vzduch sa triasol. Okná v domoch pod nimi rezonovali a praskali. Zvuk prenikal cez steny, cez drevo paluby, cez kosti. Max ho cítil v žalúdku — hlboký, primitívny strach, aký vyvoláva len zvuk veľkého piestového motora v strmhlavom lete.
+Dunenie zosilnelo. Už to nebola vibrácia — bol to rev. Vzduch sa triasol. Okná v domoch pod nimi rezonovali a praskali. Zvuk prenikal cez steny, cez drevo paluby, cez kosti. Maks ho cítil v žalúdku — hlboký, primitívny strach, aký vyvoláva len zvuk veľkého piestového motora v strmhlavom lete.
 
 Tri **Valkýry** — Grawské stíhačky v trojuholníkovej formácii — sa predierali cez mračná nad mestom. Nevideli *Makitu*. V tejto tme nemohli. Nemali nočné videnie — len vlastné oči, a tie boli slepé. Strieľali podľa záchytných bodov: záblesky tracerových striel z Gatlingov, oranžová žiara požiarov dole v uliciach, plameň z Felixovej hlavne.
 
@@ -126,7 +126,7 @@ Prvá Valkýra spustila paľbu naslepo. Dávka prešla desať metrov od trupu �
 
 „Nevidia nás!" vykríkol Mako z paluby.
 
-„Ale počujú nás," povedal Max. „A vidia záblesky. Každý výstrel z Felixa im ukáže, kde sme."
+„Ale počujú nás," povedal Maks. „A vidia záblesky. Každý výstrel z Felixa im ukáže, kde sme."
 
 Tami stisla zuby. „Takže nemôžeme strieľať."
 
@@ -140,15 +140,15 @@ Tretia mierila na oranžovú žiaru požiaru pod nimi — myslela si, že je to 
 
 Balón *Makity* bol komorovaný — rozdelený na osem nezávislých sekcií. Dva prierazy ho nezničia. Ale spomaľujú. A loď klesá.
 
-Max zatvoril oči. Zvyšné nanoboty — posledné, čo mu ostali — vysypal do vzduchu. Nie ako zbrane. Ako oči. Senzorická sieť sa rozprestrela nad mestom ako neviditeľná pavučina.
+Maks zatvoril oči. Zvyšné nanoboty — posledné, čo mu ostali — vysypal do vzduchu. Nie ako zbrane. Ako oči. Senzorická sieť sa rozprestrela nad mestom ako neviditeľná pavučina.
 
 Videl ich. Tri tepelné podpisy. Dieselové motory sálali žiarou v chladnom nočnom vzduchu. Trajektórie. Rýchlosť. Uhly.
 
 Prvá Valkýra zatáčala na ďalší nálot. Druhá stúpala. Tretia — tretia sa vracala. Priamo na nich.
 
-„Tami," povedal Max. Hlas bol tichý. Pokojný. „Elevácia 62. Štyri stupne doprava."
+„Tami," povedal Maks. Hlas bol tichý. Pokojný. „Elevácia 62. Štyri stupne doprava."
 
-„Nevidím ju, Max!"
+„Nevidím ju, Maks!"
 
 „Viem. Dôveruj mi."
 
@@ -156,7 +156,7 @@ Tami stisla zuby. Potiahla páky. Hlaveň Felixa sa zdvihla do tmy — naslepo, 
 
 Ticho.
 
-Max počítal. Nanoboty mu vykresľovali trajektóriu Valkýry ako svetelnú čiaru v hlave. Bližšie. Bližšie.
+Maks počítal. Nanoboty mu vykresľovali trajektóriu Valkýry ako svetelnú čiaru v hlave. Bližšie. Bližšie.
 
 „**Teraz!**"
 
@@ -166,7 +166,7 @@ Max počítal. Nanoboty mu vykresľovali trajektóriu Valkýry ako svetelnú či
 
 A potom — výbuch. Vysoko nad mestom rozkvetol oranžový kvet. Horúce trosky padali na strechy ako ohnivý dážď.
 
-„Zásah!" vydýchol Max. „Prvá dole."
+„Zásah!" vydýchol Maks. „Prvá dole."
 
 „Naslepo," zašepkala Tami. Ruky sa jej triasli na pákach.
 
@@ -180,7 +180,7 @@ Guľomety zaburácali. Tentoraz nie naslepo — piloti videli záblesk z hlavne 
 
 *Makita* sa naklonila. Prova klesla. Loď sa začala pomaly zosúvať k strechám.
 
-A vtedy Max pozrel na východ.
+A vtedy Maks pozrel na východ.
 
 Obloha nad horami bola iná. Už nie čierna. Tmavosivá. Prvý náznak svitania.
 
@@ -238,12 +238,12 @@ Vysielačka zapraskala.
 
 Tami sa zasmiala. Slzy. Úľava. „Tu *Makita*. Kapitánka Tami."
 
-Max sa oprel o stenu veže. Svitanie mu osvetľovalo tvár. Vyhrali.
+Maks sa oprel o stenu veže. Svitanie mu osvetľovalo tvár. Vyhrali.
 
 A vtedy to prišlo.
 
 Trosky druhej Valkýry — horeli, padali, a jeden z kusov — kus krídla, rozpálený kov otáčajúci sa vzduchom — trafil vežu.
 
-Kameň pod Maxom explodoval. Stratil rovnováhu. Svet sa zatočil.
+Kameň pod Maksom explodoval. Stratil rovnováhu. Svet sa zatočil.
 
 A potom padal.

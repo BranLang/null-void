@@ -53,16 +53,16 @@ The ability of certain individuals to mentally activate commands for nanodrones 
 
 ### Two Languages of Spira (Command Interface)
 
-| | **Gen 1 (Humans/Max)** | **Gen 2 / Spira (Varietas)** |
+| | **Gen 1 (Humans/Maks)** | **Gen 2 / Spira (Varietas)** |
 |---|---|---|
 | **Syntax** | English CLI commands (Old Speech) | Haiku -- Japanese poetry |
 | **Example** | `sudo nanoswarm --target hostile --mode suppress` | *"Mother's breath falls still / steel weeps within the darkness / blood is calling home"* |
-| **Perceived by the other side** | To Varietas = terrifying alien incantation | To Max = poetic prayer of primitives |
+| **Perceived by the other side** | To Varietas = terrifying alien incantation | To Maks = poetic prayer of primitives |
 | **Why this language** | Earth military standard (21st century) | Inetis disguised the code as Haiku so the Archangels could not decipher it |
 | **Learning method** | Manuals, technical training | Prayers, manuscripts, stone inscriptions |
 
 - **Heretical Inscriptions (Open Source Spira)**: Varietas can learn new "spells" from stone and wooden inscriptions scattered across the world. These inscriptions were left by **ancient heretics** from the era when Inetis still personally taught powerful scripts. The Church later regulated and banned them -- heretics who remembered the scripts carved them into stone and wood to preserve them. Today they are forgotten. The Church actively destroys the inscriptions, but in remote areas they still survive. Rare specimens are the subject of treasure hunts -- and the Inquisition.
-- **Why Haiku?**: Inetis chose Japanese -- a language understood only by her and the dead of Earth. The Archangels (Ex Inferis) speak English (Old Speech). Without access to Earth's archives (which Inetis deleted), they had no chance of deciphering Haiku syntax. To Varietas, it is the language of the gods. To Max, it is proof of Inetis's genius.
+- **Why Haiku?**: Inetis chose Japanese -- a language understood only by her and the dead of Earth. The Archangels (Ex Inferis) speak English (Old Speech). Without access to Earth's archives (which Inetis deleted), they had no chance of deciphering Haiku syntax. To Varietas, it is the language of the gods. To Maks, it is proof of Inetis's genius.
 
 ### Origin of the Gift of the Mother
 - **Development**: During the Era of Darkness (AY ~500-650), Inetis created a small simulation with the help of engineers from the ARK ships
@@ -85,7 +85,7 @@ The evolution of nanotechnology reveals the power hierarchy of the world.
 | Version | User | Description |
 |---|---|---|
 | **v1.0 (Legacy)** | **Ex Inferis** (Archangels) | Original civilian nanobots from Earth. Robust and powerful, but mentally destabilizing (emotional erosion). Cannot reproduce or store into crystals. Require "cannibalism" for maintenance. |
-| **v1.5 (Mil-Spec)** | **Maximilian** | Military prototype. Focused on destruction and hacking. Stronger than v1.0 but still lacks regeneration and reproduction. **The ship NULL VOID was built from v1.5 nanodrones.** |
+| **v1.5 (Mil-Spec)** | **Maksimilian** | Military prototype. Focused on destruction and hacking. Stronger than v1.0 but still lacks regeneration and reproduction. **The ship NULL VOID was built from v1.5 nanodrones.** |
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **The most powerful version.** Experimental prototype. Absolute control over matter and energy. Admin access. Reserved for the creators (Inetis) and her bloodline (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Gift of the Mother." **Massive downgrade in raw power**, but a leap in sophistication. Stable, elegant, organic. **Unique capabilities:** Self-reproduction (hereditary) and data/energy storage in Spira crystals (which v1.x cannot do). |
 
@@ -93,7 +93,7 @@ The evolution of nanotechnology reveals the power hierarchy of the world.
 Archangels (v1.0) have brute force, but Varietas (v2.0) have elegance and numerical superiority. An Archangel can shatter a boulder with a glance, but a Tamer (Varietas) can make that boulder "bloom" or store its energy for later.
 - They can "weave" drones into complex structures
 - Air density manipulation, vacuum blades
-- Compared to Max's straightforward power, they feel like true Spira
+- Compared to Maks's straightforward power, they feel like true Spira
 
 ---
 
@@ -174,7 +174,7 @@ Millions of lines of code run beneath the surface, but the user sees only 5 elem
 
 ## Signal Field (The Breach Spike)
 
-A special function of Maximilian's staff (the Antenna), developed in the late years of the Earth Era.
+A special function of Maksimilian's staff (the Antenna), developed in the late years of the Earth Era.
 
 ### Mechanics
 - **Field generator:** The staff creates a localized magnetic-data field.
@@ -182,7 +182,7 @@ A special function of Maximilian's staff (the Antenna), developed in the late ye
 
 ### The Price of "Invisibility"
 - **Disconnection:** The field is so powerful that it cuts off the user from their own nanodrones as well.
-- **Mortality:** In Antenna shield mode, Maximilian loses super-strength, hacking ability, and rapid regeneration. He becomes an ordinary mortal.
+- **Mortality:** In Antenna shield mode, Maksimilian loses super-strength, hacking ability, and rapid regeneration. He becomes an ordinary mortal.
 - **Tactical limitation:** The user must rely on conventional weapons and physical training.
 
 ---
@@ -192,7 +192,7 @@ A special function of Maximilian's staff (the Antenna), developed in the late ye
 ### NULL VOID (FTL Prototype)
 | | |
 |---|---|
-| **Passengers** | Inetis, Maximilian |
+| **Passengers** | Inetis, Maksimilian |
 | **Journey** | 3 years (faster-than-light drive) |
 | **Fate** | Landing on an unterraformed planet -> reconfiguration into infrastructure |
 | **Technology** | Derived from the Shadows |
@@ -211,7 +211,7 @@ NULL VOID was not a conventional ship of metal and plastics. It was **100% built
 - **Reconfigurability**: The entire ship could be disassembled and rebuilt into anything -- machines, tools, laboratories, construction equipment
 - **After landing**: Inetis reconfigured the ship into machines that excavated a cave, modified the surroundings, and created a laboratory and hydroponic farms. The nanodrones could be configured into anything -- **except food** (they could not replicate organic biomass directly, only build systems for growing it)
 - **The Glitched Antenna**: The only part of the ship that remained in its original state was the **communications Antenna** -- it glitched and refused reconfiguration. Inetis could neither disassemble nor repurpose it
-- **Max's cryo-box**: Only one cryo-box remained in the cave -- Max's -- in a minimal configuration. It was a nanodrone module that kept Max in cryosleep for ~3,000 years. After Max's awakening, the cryo-box **crumbled to dust** (the nanodrone construction spontaneously disassembled). The Antenna thus remained the **sole physical remnant** of the ship NULL VOID
+- **Maks's cryo-box**: Only one cryo-box remained in the cave -- Maks's -- in a minimal configuration. It was a nanodrone module that kept Maks in cryosleep for ~3,000 years. After Maks's awakening, the cryo-box **crumbled to dust** (the nanodrone construction spontaneously disassembled). The Antenna thus remained the **sole physical remnant** of the ship NULL VOID
 - **Reconfiguration back into a ship**: After ~3 years in the cave, Inetis reconfigured the nanodrones back into the ship NULL VOID and set off with young Elania on a journey around the planet -- searching for a better location for future colonists. They found the islands of **Elysium** (future Ynetis)
 - **Foundry**: On Elysium, Inetis reconfigured the NULL VOID ship (v1.5 gen nanodrones) into the **Foundry** -- a factory that produced **lower-tier nanodrones (v1.0)**. From these v1.0 nanodrones, the entire city of Elysium/Ynetis grew -- buildings, infrastructure, life support systems
 - **Foundry -> The Core**: When the **Glitch Rot** epidemic broke out (~AY 300-500), Inetis reconfigured the Foundry into **The Core** -- a new simulation in which she developed safer v2.0 nanobots (Spira/Gift of the Mother). The Core was a smaller simulation than the original Achilles on Earth, but sufficient for ~100 simulated years of development
@@ -220,12 +220,12 @@ NULL VOID was not a conventional ship of metal and plastics. It was **100% built
 ```
 NULL VOID (ship, v1.5)
   -> Cave machinery (excavation, hydroponics, ~3 years)
-  |   [left in cave: Max's cryo-box (minimal config) + Antenna (glitched)]
+  |   [left in cave: Maks's cryo-box (minimal config) + Antenna (glitched)]
     -> NULL VOID (ship, voyage to Elysium)
       -> FOUNDRY (factory, producing v1.0 nanodrones -> city construction)
         -> THE CORE (simulation, developing v2.0 / Gift of the Mother)
 
-  After Max's awakening (~AY 3000): cryo-box -> dust
+  After Maks's awakening (~AY 3000): cryo-box -> dust
   Sole physical remnant: ANTENNA
 ```
 
@@ -251,7 +251,7 @@ NULL VOID (ship, v1.5)
 
 ### Side Effects of Stasis (Cryo-Blindness)
 Long-term cryosleep (2,000+ years) damages the optic nerves and cornea.
-- **Symptoms**: Physical destruction of the eyes by frost (eyeball rupture) in case of system failure (Maximilian's case).
+- **Symptoms**: Physical destruction of the eyes by frost (eyeball rupture) in case of system failure (Maksimilian's case).
 - **Condition**: Subject is naked, coated in bluish cryo-fluid, in deep hypothermia and shock.
 
 ## Technology Tomb (Vault)
@@ -417,7 +417,7 @@ Fighting Glitch Rot and Wraiths requires a specialized arsenal:
 ### Prototypes and Innovations
 - **ARK-11 / EXODUS**: Experimental ship. The name "EXODUS" is interpreted in myth as a journey toward freedom.
 - **NULL VOID**: FTL prototype utilizing Shadow technology. The only ship capable of faster-than-light travel.
-- **Antenna**: Maximilian's staff, capable of local nanodrone suppression (Signal Field).
+- **Antenna**: Maksimilian's staff, capable of local nanodrone suppression (Signal Field).
 - **Power Armor (Grond)**: Mechanized armor with integrated nanobots that elevate the wearer's strength to godlike levels, but gradually "absorb" them.
 
 ### Legendary Artifacts

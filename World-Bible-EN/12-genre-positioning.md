@@ -78,7 +78,7 @@ GRIMDARK         NEUTRAL         ANIME HUMOR
 |-----------|--------|---------|
 | Combat / survival | 2-4 | Paladins in the sewers. Mercy-kill of experiments. Bombardment of Shoraven. |
 | Worldbuilding / exploration | 4-6 | Mako workshop with tea ceremony. Shoraven marketplace. |
-| Bonding / downtime | 6-8 | Tami snark aboard the Makita. Max the "tourist" at customs. |
+| Bonding / downtime | 6-8 | Tami snark aboard the Makita. Maks the "tourist" at customs. |
 | Politics / religion | 3-5 | Goro Interlude. Church exorcisms. Sera/Elania dialogue. |
 | Sera scenes | 2-8 | Deliberately unpredictable — that IS her character. Kawaii voice → brutal combat. |
 
@@ -88,7 +88,7 @@ GRIMDARK         NEUTRAL         ANIME HUMOR
 - **Types:**
   - Slovak wordplay — "Šo" = shit in fox language (Ch1)
   - Japanese cultural humor — Mako rituals, Tami's wrong bow, "Kowai"
-  - Tami's irreverence vs. Max's stoicism
+  - Tami's irreverence vs. Maks's stoicism
   - Sera's kawaii voice as unsettling comedy
 - **Rule:** Humor never undermines stakes — it exists ALONGSIDE darkness, not instead of it.
 - **Example from Ch1:** Tami thinks "Šo?" about Shoraven, while the city is under siege and her dead friends were burned at the square.
@@ -99,7 +99,7 @@ GRIMDARK         NEUTRAL         ANIME HUMOR
 - **Types:**
   - Institutional violence — public burnings, caste system, Blood Harvest by Archangels
   - Body horror — Maya crystallization, Glitch Rot, Blood Ritual self-harm
-  - Moral compromise — Max kills routinely, Tami pragmatically accepts violence
+  - Moral compromise — Maks kills routinely, Tami pragmatically accepts violence
   - Psychological darkness — Elania's nihilism, 2,750 years of solitude
 - **Rule:** Grimdark is never gratuitous — it always reveals character or advances theme.
 - **Example from Ch3:** The Blood Ritual isn't torture porn — it's a soldier sacrificing his own body, because the math says there's no other way.
@@ -122,10 +122,10 @@ NULL VOID is not a closed story with a defined ending. It's a **living world** �
 
 ### Core Principles
 
-- **The world works without Max and Tami** — it lived its own life for 3,000 years. The legend of the world's end is just a legend. Max isn't the "chosen one" — he's just a man who woke up. No god, no prophecy. The world doesn't need him. He needs to understand the world.
-- **Nobody has plot armor** — If Max died fighting the Paladins or in the Battle of Shoraven, Tami mourns him and moves on. She meets Links, they live together. The Great Upload probably doesn't happen — it depends on who gets the Antenna and what they use it for. The world doesn't revolve around one person. The Antenna is the MacGuffin, not Max.
+- **The world works without Maks and Tami** — it lived its own life for 3,000 years. The legend of the world's end is just a legend. Maks isn't the "chosen one" — he's just a man who woke up. No god, no prophecy. The world doesn't need him. He needs to understand the world.
+- **Nobody has plot armor** — If Maks died fighting the Paladins or in the Battle of Shoraven, Tami mourns him and moves on. She meets Links, they live together. The Great Upload probably doesn't happen — it depends on who gets the Antenna and what they use it for. The world doesn't revolve around one person. The Antenna is the MacGuffin, not Maks.
 - **Lore > Plot** — The world is the main character. The story is just a window into the world.
-- **Characters survive** — Max's Upload isn't a necessary finale. Characters can go on.
+- **Characters survive** — Maks's Upload isn't a necessary finale. Characters can go on.
 - **Never-ending story** — The pentalogy is just the first arc. Not the end.
 
 ### Expandability
@@ -134,7 +134,7 @@ NULL VOID is not a closed story with a defined ending. It's a **living world** �
 |------|---------|
 | **Return to Earth** | Cyberpunk version of the same universe. What happened after the Exodus? |
 | **New continents** | Achilles is a super-Earth. The map shows 4 continents. How many are there in total? |
-| **New eras** | Pre-Max Achilles. Era of the Players. Inetis's centuries. |
+| **New eras** | Pre-Maks Achilles. Era of the Players. Inetis's centuries. |
 | **New characters** | Every country, every city, every ship has stories. |
 | **Different genre in the same world** | Detective fiction in Nevriss. Horror in Ynetis. Political thriller in Graw. |
 | **What If lines** | Alternative versions of the same universe. What if things had turned out differently? |
@@ -143,12 +143,12 @@ NULL VOID is not a closed story with a defined ending. It's a **living world** �
 
 Sandbox means every "what if" is a legitimate story:
 
-- **If Max hadn't died on Earth:** Max and Inetis found a dynasty after the Coordinator retires. No Achilles. No Spira. Political thriller on Earth.
-- **If Max died in Shoraven:** Tami + Links. The Antenna goes to someone else. The Upload may never happen.
-- **If Inetis had woken Max after 300 years:** A different Achilles — smaller, younger world. Max and Inetis build civilization together. Elania grows up with both parents.
+- **If Maks hadn't died on Earth:** Maks and Inetis found a dynasty after the Coordinator retires. No Achilles. No Spira. Political thriller on Earth.
+- **If Maks died in Shoraven:** Tami + Links. The Antenna goes to someone else. The Upload may never happen.
+- **If Inetis had woken Maks after 300 years:** A different Achilles — smaller, younger world. Maks and Inetis build civilization together. Elania grows up with both parents.
 - **If Elania had never left Elysium:** A world without the Upload threat. Wraiths are the biggest problem. Sera has no master.
 
-**What If as a narrative tool:** In Book 5, Elania uses What If directly as a weapon — she shows Max a simulation of Kyiv where he meets Inetis as an ordinary woman. They go on a date. As mortals. This is the hardest temptation of the saga — not power, not paradise, but the ordinary life he always dreamed of.
+**What If as a narrative tool:** In Book 5, Elania uses What If directly as a weapon — she shows Maks a simulation of Kyiv where he meets Inetis as an ordinary woman. They go on a date. As mortals. This is the hardest temptation of the saga — not power, not paradise, but the ordinary life he always dreamed of.
 
 None of the alternative storylines are "non-canonical" — they are windows into other versions of the same world. Each has the potential for its own story.
 

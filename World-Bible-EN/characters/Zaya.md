@@ -6,7 +6,7 @@
 | **Ability** | Illusions, mind control, Death Fog (Gray Goo) |
 | **Boss** | Book 3 |
 
-The most dangerous Archangel — she attacks the mind. Zaya (originally Ishtar) attempted to manipulate Max through an illusion of his daughter. Ultimately neutralized by Max and consumed by her own slaves.
+The most dangerous Archangel — she attacks the mind. Zaya (originally Ishtar) attempted to manipulate Maks through an illusion of his daughter. Ultimately neutralized by Maks and consumed by her own slaves.
 
 ### Speech and Thought Patterns
 

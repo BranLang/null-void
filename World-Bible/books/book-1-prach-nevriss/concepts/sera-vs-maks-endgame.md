@@ -1,4 +1,4 @@
-# Sera vs Max — Endgame Concept (Brainstorm)
+# Sera vs Maks — Endgame Concept (Brainstorm)
 
 > STATUS: Brainstorm, nie finálne lore. Nápady na rozpracovanie.
 
@@ -6,11 +6,11 @@
 
 ## Setup: Foreshadowing po Paladínoch (Book 1)
 
-Po bitke s Paladínmi (Rau & Kira) sa Max a Sera stretnú. Sera ho hodnotí — videla ho bojovať, analyzovala jeho schopnosti. Padne niečo ako:
+Po bitke s Paladínmi (Rau & Kira) sa Maks a Sera stretnú. Sera ho hodnotí — videla ho bojovať, analyzovala jeho schopnosti. Padne niečo ako:
 
 > *"Keby sme bojovali..."* — nedokončí.
 
-Implikácia je jasná: Max by asi vyhral. Sera to vie. Max to vie. Rešpekt medzi dvoma vojakmi, ktorí dúfajú, že na to nikdy nedôjde.
+Implikácia je jasná: Maks by asi vyhral. Sera to vie. Maks to vie. Rešpekt medzi dvoma vojakmi, ktorí dúfajú, že na to nikdy nedôjde.
 
 **Čitateľ si to zapamätá. A neskôr pochopí.**
 
@@ -31,23 +31,23 @@ Implikácia je jasná: Max by asi vyhral. Sera to vie. Max to vie. Rešpekt medz
 
 ### Prečo to robí:
 - **Grief + ADHD + 2750 rokov** = nebezpečná kombinácia
-- Stratila matku (Inetis), nikdy nemala otca (Max), Sera je jej jediná konštanta
+- Stratila matku (Inetis), nikdy nemala otca (Maks), Sera je jej jediná konštanta
 - Glitch Rot ju pomaly požiera — zúfalstvo rastie
 - Tieňové bytosti v Core ju manipulujú — sľubujú, že Upload je riešenie
 - **Nie je to filozofia ("mäso je slabé"). Je to trauma ("mäso mi všetkých vzalo").**
 
 ---
 
-## Sera vs Max — Duel, ktorý nikto nechce
+## Sera vs Maks — Duel, ktorý nikto nechce
 
 ### Sera:
 - **Sľub Inetis**: *"Postaraj sa o moju dcéru."*
 - Vidí, že Elania sa pomýlila. Vie, že experimenty sú zlo.
 - Ale sľub je sľub. Inetis nepovedala "zastav ju ak sa zblázni." Povedala "postaraj sa."
 - 2500 rokov lojality. Nemôže to len tak hodiť za hlavu.
-- **Bojuje proti Maxovi nie preto, že chce, ale preto, že nemá inú voľbu.**
+- **Bojuje proti Maksovi nie preto, že chce, ale preto, že nemá inú voľbu.**
 
-### Max:
+### Maks:
 - Musí zastaviť Elaniu — jej experimenty zabíjajú nevinných Varietas
 - Stojí oproti Sere — žene, ktorú rešpektuje. Veteránke, ktorá mu je rovná.
 - Vie, že Sera nechce bojovať. Vie, že robí to isté čo on — plní príkaz za každú cenu.
@@ -56,11 +56,11 @@ Implikácia je jasná: Max by asi vyhral. Sera to vie. Max to vie. Rešpekt medz
 ### Priebeh:
 - Nie je to anime power-up fight. Je to **unavený, bolestivý, osobný** súboj.
 - Obaja vedia, kto asi vyhrá. Sera to povedala v Book 1.
-- Ale Sera nebojuje aby vyhrala — bojuje aby Maxovi dala čas. Čas na čo? Na premýšľanie? Na to, aby Elania dokončila? Na to, aby si uvedomila, že sľub Inetis neznamená chrániť Elaniu pred následkami?
+- Ale Sera nebojuje aby vyhrala — bojuje aby Maksovi dala čas. Čas na čo? Na premýšľanie? Na to, aby Elania dokončila? Na to, aby si uvedomila, že sľub Inetis neznamená chrániť Elaniu pred následkami?
 - **Sera možno chce prehrať.** Ale nedokáže sa len tak vzdať — 3200 rokov disciplíny jej to nedovolí.
 
 ### Smrť Sery:
-- Max vyhráva. Tesne. Bolestivo.
+- Maks vyhráva. Tesne. Bolestivo.
 - Sera zomiera. Posledné slová? Možno niečo o Inetis. Možno nič — len úľava.
 - **Posledný čistý človek, čo videl Japonsko, je mŕtvy.**
 
@@ -75,7 +75,7 @@ Implikácia je jasná: Max by asi vyhral. Sera to vie. Max to vie. Rešpekt medz
 - ADHD genius v režime zúfalstva + Tieňové bytosti v Core, ktoré ju manipulujú = najnebezpečnejšia vec na planéte
 - *"Nechcem ti ublížiť, otec. Chcem ťa zbaviť bolesti."* — toto už nie je filozofia. Je to šialenstvo prezlečené za lásku.
 
-### Max po dueli:
+### Maks po dueli:
 - Zabil ženu, ktorú rešpektoval. Ženu, ktorá chránila jeho dcéru.
 - A jeho dcéra sa kvôli tomu definitívne zblázni.
 - **Chcel zachrániť nevinných. Namiesto toho vytvoril apokalypsu.**

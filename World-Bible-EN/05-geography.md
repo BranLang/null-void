@@ -330,7 +330,7 @@ Nevriss City is the capital and heart of all Nevriss. It sits on the southern co
 - **Position**: A city on high cliffs above the southern sea. Descent to ships and port via a **massive elevator system and tunnels carved into the rock** — an imposing feat of engineering connecting the upper city with the docks at sea level. A strategically safe position — an attacker would first have to overcome Shoraven and all of northern Nevriss, or land beneath the cliffs.
 - **Port**: Below the cliffs lies the port complex — docks, warehouses, shipyards. Access only via elevators and tunnels in the rock. The southern coast never freezes, so the port operates year-round.
 - **The Great Lighthouse**: An enormous lighthouse on the cliff's edge — **a symbol of Nevriss City for thousands of years**. Originally served as a **communication antenna**, **3D-printed** from nanodrones during the Golden Age. Today, Varietas perceive it only as a majestic lighthouse and city symbol. Its true origin (3D printing, communication technology) is forgotten — for the inhabitants, it's an ancient structure as old as the city itself.
-  - **Story role (Triangulation)**: Max activates the Antenna here and uses the Lighthouse as the **first point of trigonometric triangulation** to find the lost city Ynetis. For the precise calculation, he needs three high points by the sea — the Great Lighthouse in Nevriss, **the Glass Tower** at Zaya's, and **the Tower of the Damned** at Elania's.
+  - **Story role (Triangulation)**: Maks activates the Antenna here and uses the Lighthouse as the **first point of trigonometric triangulation** to find the lost city Ynetis. For the precise calculation, he needs three high points by the sea — the Great Lighthouse in Nevriss, **the Glass Tower** at Zaya's, and **the Tower of the Damned** at Elania's.
 - **Temple**: Main Temple of the All-Knowing Mother — the largest and most lavish on the entire continent. Seat of the Council of High Priestesses. Golden domes visible from the sea and the interior.
 - **Guild headquarters**: All major guilds (Smiths, Merchants, Aeronauts, Clockmakers...) have central halls in Nevriss City. This is where laws are passed, contracts signed, and the economy decided.
 - **Defensive position**: The cliffs are a natural fortress from the south — sea and rocks are insurmountable. From the north, walls and distance from the front protect the city. The city relies on Shoraven and northern fortresses to hold the enemy.
@@ -491,7 +491,7 @@ Almost nothing. Aprika is separated by sea, and Varietas from Terra have neither
 - The Glass City lies **near Aprika's coast** — not on it, but in close proximity. Visible on the map as a striking pink-purple structure — architecturally completely different from anything else on the planet.
 - **Silent agreement with Apes**: Ishtar and the Apes have an informal non-aggression pact. The Apes tolerate her presence on their coast in exchange for peace. Nobody in the north knows about this agreement.
 - She has her own closed civilization
-- **Story role (Triangulation)**: The Glass Tower is the **second point** of Max's trigonometric triangulation to find Ynetis. Max must gain access to the highest point of the Glass City — which means confrontation with Ishtar/Zaya (Book 3).
+- **Story role (Triangulation)**: The Glass Tower is the **second point** of Maks's trigonometric triangulation to find Ynetis. Maks must gain access to the highest point of the Glass City — which means confrontation with Ishtar/Zaya (Book 3).
 
 ### Neuropa — Western Continent (Elania's Domain)
 
@@ -510,7 +510,7 @@ A vast continent southwest of Terra. Humans call it **Neuropa** — a nostalgic 
 - **Inhabitants**: Humans who survived Glitch Rot — because **they limited nanotechnology use to a minimum**. They use nanotech only for life extension. Nothing more.
 - **Mentality**: They reminisce about the past and plan no future. A stagnant civilization — technologically capable but lacking the will to change anything. They live in the shadow of what was.
 - **Secret**: Elania doesn't know the fate of the other Archangels.
-- **Story role (Triangulation)**: The Tower of the Damned is the **third and final point** of Max's trigonometric triangulation. After obtaining measurements from the Great Lighthouse (Nevriss) and the Glass Tower (Zaya), Max completes the calculation of Ynetis's exact position here — the lost city beyond the sea (Book 4).
+- **Story role (Triangulation)**: The Tower of the Damned is the **third and final point** of Maks's trigonometric triangulation. After obtaining measurements from the Great Lighthouse (Nevriss) and the Glass Tower (Zaya), Maks completes the calculation of Ynetis's exact position here — the lost city beyond the sea (Book 4).
 
 #### Ludus — City of Humans
 
@@ -590,7 +590,7 @@ A vast continent southwest of Terra. Humans call it **Neuropa** — a nostalgic 
 
 - Far from civilization
 - Near the border between North and South
-- Max awoke here (blind, amnesia)
+- Maks awoke here (blind, amnesia)
 - **Why is there an oasis here?** During her ~3 years in Ela's Cave, Inetis genetically modified plants and fauna — experiments optimized for Achilles conditions. After her departure, these GMO organisms spread across the surrounding land like wildfire. After ~1,000 years, the entire region transformed into a green oasis amid inhospitable wilderness. The country of **Nyau** lies south of the cave and is a direct legacy of Inetis — though nobody knows it. Whoever finds the cave finds the answer to why everything grows here.
 - **City of Kito (Lost)**: A legendary city in the east, now hidden in dense, "new" forest.
     - **Origin**: This is where the expedition ship *Hephaestus* landed (Third Coming / Maki, **AY 2212**).
@@ -612,7 +612,7 @@ Ruins from the "Players" era (Golden Age) resemble **ancient Greece**.
 
 - **Earth**: Humanity's homeworld; under the Coordinator's rule.
 - **Ynetis (Lost city)**: Golden Age center; now flooded with Wraiths. Location unknown — generally believed to have sunk. In reality, it stands on an equatorial archipelago, but no expedition has returned.
-- **Inetis's Cave / Ela's Cave**: Landing site of the ship NULL VOID — Inetis reconfigured the entire ship into infrastructure (cave, hydroponics, laboratory). Only two things remained: Max's cryo-box (minimal configuration) and the glitched Antenna. After ~3 years, she departed with Elania for Elysium. Later returned here to die beside Max's cryo-box. After Max's awakening (~AY 3000), the cryo-box crumbled to dust — only the Antenna remained. Site of her final rest and where her journals were found.
+- **Inetis's Cave / Ela's Cave**: Landing site of the ship NULL VOID — Inetis reconfigured the entire ship into infrastructure (cave, hydroponics, laboratory). Only two things remained: Maks's cryo-box (minimal configuration) and the glitched Antenna. After ~3 years, she departed with Elania for Elysium. Later returned here to die beside Maks's cryo-box. After Maks's awakening (~AY 3000), the cryo-box crumbled to dust — only the Antenna remained. Site of her final rest and where her journals were found.
 - **Shoraven**: Strategic border city on Nevriss's northern frontier; northern port on the border with Graw (doesn't freeze thanks to thermal currents); Main Temple (branch) with the Antenna in the vaults; 3rd year of the Long Winter; first line of defense against Graw invasion.
 - **Nevriss City**: Capital of Nevriss; port city on high cliffs above the southern sea. Survived the Great Flood (~AY 1500) — tsunami broke against the cliffs, but the fleet was destroyed. A massive elevator system and tunnels in the rock lead to the port below. Landmark: **The Great Lighthouse** (3D-printed communication antenna, city symbol for thousands of years). Seat of the Council of High Priestesses and the central Main Temple of the All-Knowing Mother; guild headquarters and central exchange. **Secret**: The Blessed Mother is actually **Mormiel** — the 4th Archangel from ARK-13. Every ~100 years she performs the Succession Ritual (absorbs a young candidate and takes her appearance). Over ~2,300 years, she has passed through ~23 identities. Nocturnal predator ("Night Shadow").
 - **Magma City**: Graw's capital beneath the mountain massif; heated by magma chambers.

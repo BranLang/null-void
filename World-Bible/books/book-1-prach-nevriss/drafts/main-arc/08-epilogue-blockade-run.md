@@ -12,9 +12,9 @@ Bola to prerobená bojová krovka. Nízka, široká, s trupom zosilneným oceľo
 
 Na móle stála postava v dlhom koženom kabáte. Kapitánka Vex. Bola Varietas — Felis. Krátke, rozstrapatené vlasy, páska cez jedno oko a na opasku dva ťažké blastery. Pleť mala ošľahanú vetrom do farby starého dubu a v ústach žuvala vyhasnutú cigaru.
 
-„Meškáte," zavrčala, keď sa Max, Tami a Links vynorili z tmy. „Príliv nečaká na nikoho. A Grawské hliadky už vôbec nie."
+„Meškáte," zavrčala, keď sa Maks, Tami a Links vynorili z tmy. „Príliv nečaká na nikoho. A Grawské hliadky už vôbec nie."
 
-„Mali sme... komplikácie," povedal Max stroho.
+„Mali sme... komplikácie," povedal Maks stroho.
 
 Vex si ich premerala. Jej pohľad sa zastavil na Linksovi. Mladý Scholaris v svojom čiernom solárnom plášti a s hyper-modernou pištoľou pri páse vyzeral v tomto prostredí ako päsť na oko.
 
@@ -24,7 +24,7 @@ Links sa narovnal. „Som Scholaris Links z Observatória. A tento 'kostým' dok
 
 Vex sa uchechtla. „Radarové vlny. Chlapče, Graw nepoužíva radary. Používajú oči, svetlice a míny, ktoré ti odtrhnú zadok skôr, než povieš 'Scholaris'. Ale ak máš peniaze..."
 
-„Zaplatí za seba," povedal Max a hodil Vex ťažký mešec. „A je užitočný. Vyzná sa v technike."
+„Zaplatí za seba," povedal Maks a hodil Vex ťažký mešec. „A je užitočný. Vyzná sa v technike."
 
 Vex poťažkala mešec. Zlato cinklo.
 
@@ -54,11 +54,11 @@ Tami sa usmiala — smutne, ale úprimne. „Zbohom, Ciferník. A... vďaka za m
 
 Na mostíku to páchlo olejom a lacnou kávou. Vex stála za kormidlom, ruky pevne zovreté na drevenom kolese. Vedľa nej stála Tami a sledovala sonar — primitívnu obrazovku so zeleným rastrom, ktorá pípala v rytme vĺn.
 
-Max a Links stáli pri bočnom priezore.
+Maks a Links stáli pri bočnom priezore.
 
 Záliv bol mínové pole. Doslova. Grawské lode zablokovali výjazd na otvorené more reťazou námorných mín a hliadkovými člnmi.
 
-„Vidím tri fregaty," povedal Max, pozerajúc sa do tmy. Nepotreboval ďalekohľad. Jeho nanoboty vykresľovali siluety lodí v diaľke ako jasné kontúry. „Trieda *Ironclad*. Sú pomalé, ale majú ťažké kanóny. Ak nás zbadajú, sme mŕtvi."
+„Vidím tri fregaty," povedal Maks, pozerajúc sa do tmy. Nepotreboval ďalekohľad. Jeho nanoboty vykresľovali siluety lodí v diaľke ako jasné kontúry. „Trieda *Ironclad*. Sú pomalé, ale majú ťažké kanóny. Ak nás zbadajú, sme mŕtvi."
 
 „Nezbadajú," zavrčala Vex. „Táto kráska má trup natretý zmesou grafitu a... no, povedzme, že to funguje. Prejdeme popri útesoch, kde je voda príliš plytká pre nich."
 
@@ -74,7 +74,7 @@ Tma nad zálivom sa roztrhla. Svetlica. Biela, oslepujúca fosforová žiara vys
 
 „Do čerta," zasyčala Vex. „Videli nás."
 
-„Nie nás," povedal Max. „Pozrite."
+„Nie nás," povedal Maks. „Pozrite."
 
 Ukázal na vodu. Asi tristo metrov od nich sa čerila hladina. Niečo tam bolo. Nie loď. Niečo organické. Obrovské.
 
@@ -84,7 +84,7 @@ Z vody sa vynorilo chápadlo veľké ako kmeň stromu. Potom druhé.
 
 More začalo vrieť. Fregaty spustili paľbu. Ťažké projektily dopadali do vody okolo monštra, dvíhajúc stĺpy vody do výšky desiatich metrov. Kraken reval — zvuk, ktorý rozochvel palubu *Druhej Šance*.
 
-„Toto je naša šanca," povedal Max. „Kým bojujú s týmto, nepozerajú sa na útesy. Vex, plný výkon. Teraz."
+„Toto je naša šanca," povedal Maks. „Kým bojujú s týmto, nepozerajú sa na útesy. Vex, plný výkon. Teraz."
 
 „Zbláznil si sa? V tej plytčine pri takej rýchlosti..."
 
@@ -118,11 +118,11 @@ Vex pustila kormidlo a zapálila si cigaru. Ruky sa jej triasli, ale tvár mala 
 
 „Nie je na predaj," usmial sa Links a zaklapol kryt. Batéria ukazovala 98%. J-Sevenova práca bola dokonalá.
 
-Max stál na prove. Vietor mu ťahal kabát. Pozeral sa na juh.
+Maks stál na prove. Vietor mu ťahal kabát. Pozeral sa na juh.
 
 „Nevriss," povedal ticho.
 
-Tami prišla k nemu. „Zvládli sme to, Max. Sme vonku."
+Tami prišla k nemu. „Zvládli sme to, Maks. Sme vonku."
 
 „Toto bol len začiatok," odpovedal. „To, čo nás čaká tam dole... Kraken je oproti tomu len domáce zvieratko."
 

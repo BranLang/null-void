@@ -2,7 +2,7 @@
 
 **STATUS: ZRUŠENÁ — kaplnka scéna presunutá na koniec knihy (cliffhanger)**
 
-Pôvodný obsah (Max + Kito nájdu pravú sochu Inetis pod Chrámom) bol archivovaný do:
+Pôvodný obsah (Maks + Kito nájdu pravú sochu Inetis pod Chrámom) bol archivovaný do:
 `archive/04-kaplnka-original.md`
 
 **Dôvod:** Ch3 teraz končí kolapsom Chrámu Matky (Paladín self-destruct). Kobky sú zasypané. Nie je možné sa tam vrátiť. Kaplnka scéna bude použitá na inom mieste — koniec knihy, cliffhanger.

@@ -32,7 +32,7 @@ Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná
 ### Starobylá Mapa
 
 - **Pôvod mapy**: Renn kúpil na čiernom trhu v jednom z prístavov starú, zvetranú mapu za pár mincí — nikto nevedel, čo zobrazuje, predavač ju považoval za bezcenný zdrap. Mapa bola napísaná v zmesi Staroreči a symbolov, ktorým nikto na trhu nerozumel.
-- **Skutočný autor**: Mapa bola dielom **Elenie** alebo **Inetis** — starobylý dokument zobrazujúci cestu k **Jaskyni Počiatku** (Cave of Beginning), miestu kde Inetis pristála a kde bol neskôr ukrytý Maxov kryobox. Renn nevedel, čo mapa zobrazuje — pre neho to bol len zaujímavý artefakt, možno vodítko k ďalším ruinám.
+- **Skutočný autor**: Mapa bola dielom **Elenie** alebo **Inetis** — starobylý dokument zobrazujúci cestu k **Jaskyni Počiatku** (Cave of Beginning), miestu kde Inetis pristála a kde bol neskôr ukrytý Maksov kryobox. Renn nevedel, čo mapa zobrazuje — pre neho to bol len zaujímavý artefakt, možno vodítko k ďalším ruinám.
 - **Piráti sledovali Renna**: Vix a Kael sa o mape dozvedeli — na čiernom trhu sa šuškalo o „Líškovi, čo kúpil niečo starobylé." Sledovali Renna cez Východnú Divočinu, čakali na príležitosť.
 
 ### Smrť Renna (AY 3000)
@@ -54,13 +54,13 @@ Renn bol jedným z posledných Vulpini — líščí Varietas, rasa považovaná
 ### Rola v príbehu
 
 - Zabili **Renna** (Taminho otca) a zajali 7-ročnú Tami, ktorú držali v klietke na palube lode
-- **Kael a Jaskyňa Počiatku**: Vďaka **Starobylej Mape** ukradnutej Rennovi sa Kael dostal do oblasti Jaskyne Ela (Hrobka technológie). Jeho prítomnosť — konkrétne jeho Prach (nanoboty v krvi) — aktivovala senzory kryoboxu a spustila proces prebudenia Maxa
+- **Kael a Jaskyňa Počiatku**: Vďaka **Starobylej Mape** ukradnutej Rennovi sa Kael dostal do oblasti Jaskyne Ela (Hrobka technológie). Jeho prítomnosť — konkrétne jeho Prach (nanoboty v krvi) — aktivovala senzory kryoboxu a spustila proces prebudenia Maksa
 - **Kael vs. Samaell**: Kaelov Prach upútal pozornosť **Samaella**, ktorý lovil v okolí. Kael a Samaell sa stretli v brutálnom dueli Prachu — dvoch vôlí, ktoré sa snažili navzájom uvariť. Kael bol skúsený, ale Samaell bol Archanjel. Duel prerušili **obranné nanodrony z jaskyne** (Opatrovateľka kryoboxu reagovala na narušenie perimetra) — interferencia dala Kaelovi sekundu na útek. Ťažko zranený sa odplazil do diery v blízkosti jaskyne.
-- **Maxovo prebudenie a Kaelova smrť**: Max sa prebudil v bolesti a zúrivosti — 3000 rokov kryostázy, explodované oči, dezorientácia. V tomto stave jeho nanodrony automaticky eliminovali najbližšiu hrozbu — zraneného Kaela, ktorý sa skrýval neďaleko. Max si túto smrť **nepamätá** — bol v tranze medzi bezvedomím a prebudením. Kael zomrel ako vedľajšia obeť procesu, ktorému nerozumel.
-- **Vix nájde Maxa**: Vix, hľadajúc Kaela, našiel namiesto neho polomŕtveho Maxa v snehu pri jaskyni — nahého, pokrytého modrou kryo-tekutinou, slepého. Hodil ho do podpalubia k Tami, aby ho predal v baňiach na juhu za zlato. *„Slepý, ale svalnatý. Do baní dobrý."*
-- **Max a Tami sa stretnú na lodi** — on slepý v bezvedomí, ona v klietke
+- **Maksovo prebudenie a Kaelova smrť**: Maks sa prebudil v bolesti a zúrivosti — 3000 rokov kryostázy, explodované oči, dezorientácia. V tomto stave jeho nanodrony automaticky eliminovali najbližšiu hrozbu — zraneného Kaela, ktorý sa skrýval neďaleko. Maks si túto smrť **nepamätá** — bol v tranze medzi bezvedomím a prebudením. Kael zomrel ako vedľajšia obeť procesu, ktorému nerozumel.
+- **Vix nájde Maksa**: Vix, hľadajúc Kaela, našiel namiesto neho polomŕtveho Maksa v snehu pri jaskyni — nahého, pokrytého modrou kryo-tekutinou, slepého. Hodil ho do podpalubia k Tami, aby ho predal v baňiach na juhu za zlato. *„Slepý, ale svalnatý. Do baní dobrý."*
+- **Maks a Tami sa stretnú na lodi** — on slepý v bezvedomí, ona v klietke
 
 ### Kael — Detail
 
 - **Prach-duelant**: Kael mal silný Prach (nadpriemerná koncentrácia nanobotov). Bol to veterán pouličných duelov, ale jeho schopnosti boli ničím v porovnaní s Archanjelom. Samaell ho mohol zabiť okamžite, ale chcel ho najprv „ohmatať" — zistiť, odkiaľ sa vzal silný Prach-signál v tejto pustatine.
-- **Smrť**: Dvojitá — ťažko zranený Samaellom, dobitý Maxovými nanodrónmi v automatickom obrannom režime. Samaell neskôr našiel jeho vysušené telo pri jaskyni a nevenoval mu pozornosť — zaujímal ho len prázdny kryobox a zmiznutý „Generál Maximilian".
+- **Smrť**: Dvojitá — ťažko zranený Samaellom, dobitý Maxovými nanodrónmi v automatickom obrannom režime. Samaell neskôr našiel jeho vysušené telo pri jaskyni a nevenoval mu pozornosť — zaujímal ho len prázdny kryobox a zmiznutý „Generál Maksimilian".

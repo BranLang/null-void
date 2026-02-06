@@ -2,7 +2,7 @@
 
 All character profiles have been moved to the `characters` directory.
 
-- [Maximilian](./characters/Max.md)
+- [Maksimilian](./characters/Maks.md)
 - [Tami](./characters/Tami.md)
 - [Inetis](./characters/Inetis.md)
 - [Kito](./characters/Kito.md)

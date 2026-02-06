@@ -32,14 +32,14 @@ Renn was one of the last Vulpini — a fox Varietas race considered nearly extin
 ### The Ancient Map
 
 - **Origin of the Map**: Renn bought an old, weathered map on the black market in one of the ports for a few coins — nobody knew what it depicted, and the seller considered it a worthless scrap. The map was written in a mix of Old Speech and symbols that no one at the market could understand.
-- **True Author**: The map was the work of **Elania** or **Inetis** — an ancient document showing the path to the **Cave of Beginning**, the place where Inetis landed and where Max's cryobox was later hidden. Renn didn't know what the map depicted — to him it was just an interesting artifact, maybe a lead to more ruins.
+- **True Author**: The map was the work of **Elania** or **Inetis** — an ancient document showing the path to the **Cave of Beginning**, the place where Inetis landed and where Maks's cryobox was later hidden. Renn didn't know what the map depicted — to him it was just an interesting artifact, maybe a lead to more ruins.
 - **Pirates Tracked Renn**: Vix and Kael learned about the map — there were whispers on the black market about "a Fox who bought something ancient." They followed Renn through the Eastern Wilds, waiting for an opportunity.
 
 ### Renn's Death (AY 3000)
 
 - **Ambush**: Pirates Vix and Kael ambushed Renn in the Eastern Wilds near the city of Kito. Renn was alone — and **careless**, because he was looking after little Tami. His attention was on his daughter, not his surroundings. It cost him his life.
 - **Murder**: They killed him for the **Ancient Map** — a document whose true value not even Renn himself knew. The pirates didn't know exactly what the map showed, but they knew that ancient maps in Old Speech could be sold for a fortune — or better yet, followed.
-- **Map Leads to the Cave**: Kael and Vix followed the map and reached the area of the **Cave of Beginning**. Kael's Dust (nanobots in his blood) activated the cryobox sensors and triggered the process of Max's awakening — a chain reaction no one had planned.
+- **Map Leads to the Cave**: Kael and Vix followed the map and reached the area of the **Cave of Beginning**. Kael's Dust (nanobots in his blood) activated the cryobox sensors and triggered the process of Maks's awakening — a chain reaction no one had planned.
 - **Tami's Capture**: After Renn's death, Vix and Kael returned to Kito, where they captured 7-year-old Tami. Felix was not in the ruins (he was away on one of his scavenging trips for parts). Tami was alone.
 
 ---
@@ -54,13 +54,13 @@ Renn was one of the last Vulpini — a fox Varietas race considered nearly extin
 ### Role in the Story
 
 - Killed **Renn** (Tami's father) and captured 7-year-old Tami, keeping her in a cage on the ship's deck
-- **Kael and the Cave of Beginning**: Thanks to the **Ancient Map** stolen from Renn, Kael reached the area of the Cave of Ela (Tomb of Technology). His presence — specifically his Dust (nanobots in his blood) — activated the cryobox sensors and triggered the process of Max's awakening
+- **Kael and the Cave of Beginning**: Thanks to the **Ancient Map** stolen from Renn, Kael reached the area of the Cave of Ela (Tomb of Technology). His presence — specifically his Dust (nanobots in his blood) — activated the cryobox sensors and triggered the process of Maks's awakening
 - **Kael vs. Samaell**: Kael's Dust drew the attention of **Samaell**, who was hunting in the area. Kael and Samaell clashed in a brutal Dust duel — two wills trying to boil each other alive. Kael was experienced, but Samaell was an Archangel. The duel was interrupted by **defensive nanodrones from the cave** (the cryobox Caretaker responded to a perimeter breach) — the interference gave Kael a second to escape. Badly wounded, he crawled into a hole near the cave.
-- **Max's Awakening and Kael's Death**: Max awoke in pain and fury — 3,000 years of cryostasis, exploded eyes, disorientation. In this state, his nanodrones automatically eliminated the nearest threat — the wounded Kael hiding nearby. Max **does not remember** this death — he was in a trance between unconsciousness and awakening. Kael died as collateral damage of a process he didn't understand.
-- **Vix Finds Max**: Vix, searching for Kael, found a half-dead Max in the snow near the cave instead — naked, covered in blue cryo-fluid, blind. He threw him into the hold with Tami to sell him in the mines down south for gold. *"Blind, but muscular. Good for the mines."*
-- **Max and Tami meet on the ship** — he blind and unconscious, she in a cage
+- **Maks's Awakening and Kael's Death**: Maks awoke in pain and fury — 3,000 years of cryostasis, exploded eyes, disorientation. In this state, his nanodrones automatically eliminated the nearest threat — the wounded Kael hiding nearby. Maks **does not remember** this death — he was in a trance between unconsciousness and awakening. Kael died as collateral damage of a process he didn't understand.
+- **Vix Finds Maks**: Vix, searching for Kael, found a half-dead Maks in the snow near the cave instead — naked, covered in blue cryo-fluid, blind. He threw him into the hold with Tami to sell him in the mines down south for gold. *"Blind, but muscular. Good for the mines."*
+- **Maks and Tami meet on the ship** — he blind and unconscious, she in a cage
 
 ### Kael — Detail
 
 - **Dust Duelist**: Kael had strong Dust (above-average nanobot concentration). He was a veteran of street duels, but his abilities were nothing compared to an Archangel. Samaell could have killed him instantly, but wanted to "feel him out" first — to figure out where such a strong Dust signal was coming from in this wasteland.
-- **Death**: Twofold — badly wounded by Samaell, finished off by Max's nanodrones in automatic defense mode. Samaell later found his desiccated body near the cave and paid it no attention — he was only interested in the empty cryobox and the vanished "General Maximilian."
+- **Death**: Twofold — badly wounded by Samaell, finished off by Maks's nanodrones in automatic defense mode. Samaell later found his desiccated body near the cave and paid it no attention — he was only interested in the empty cryobox and the vanished "General Maksimilian."
