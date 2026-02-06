@@ -78,6 +78,24 @@
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
 - **Maksova smrť**: Maks padne zo vzducholode počas boja. Umiera v plameňoch a troskách — Tami nad ním plače, ale on ju už nepočuje. V posledných sekundách vidí kaviareň v Kyjeve, rok 2075, Inetis oproti nemu. Vojak sa vrátil domov.
 
+### Návrat do Jaskyne Ela — Pochovanie Maksa
+
+**Kontext:**
+- Po Maksovej smrti Tami odmietne nechať jeho telo na bojisku
+- Odnesie ho na Makite späť do **Jaskyne Ela** (Null-Void Cave) — tam, kde sa pred rokmi dotkla kostí Inetis
+- Pochová Maksa **vedľa kostí Inetis** — vojak sa vráti k žene, na ktorú čakal 3000 rokov
+
+**Esencia sa prebúdza:**
+- V jaskyni, v blízkosti Inetisiných pozostatkov, sa Esencia v Taminej krvi naplno prebudí
+- Tami začne mať **flashbacky** — Inetisine spomienky: jaskyňa za čias, keď bola nová. Malá Elania kreslí na steny. Inetis programuje Pentagram IDE. Pohľad na spiaceho Maksa v kryoboxe. Hviezdy nad Achillesom.
+- **Tami vidí Maksa cez Inetisine oči** — nie ako vojaka, ale ako muža, ktorého Inetis milovala. Mladého, s očami. Smejúceho sa v kaviarni v Kyjeve.
+- Prvýkrát pochopí, prečo ju to ťahalo k Maksovi — nebola to len láska. Bola to Esencia. Inetis ho hľadala aj po smrti.
+
+**Symbolika:**
+- Maks a Inetis sú konečne spolu — v jaskyni, kde sa ich príbeh začal
+- Tami ich pochová a odíde — nesie ich odkaz ďalej. Dcéra Renna dokončí, čo Inetis začala.
+- Jaskyňa Ela sa stáva hrobkou dvoch zakladateľov sveta
+
 ### Vzťah s Linksom (Book 2+)
 
 **Kontext:**

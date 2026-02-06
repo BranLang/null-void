@@ -78,6 +78,24 @@
 - **Reunion**: The book's opening — tension, unresolved feelings, a new purpose (heist)
 - **Maks's death**: Maks falls from the airship during battle. He dies in flames and wreckage — Tami weeps over him, but he can no longer hear her. In his final seconds he sees a café in Kyiv, the year 2075, Inetis sitting across from him. The soldier came home.
 
+### Return to the Ela Cave — Burying Maks
+
+**Context:**
+- After Maks's death, Tami refuses to leave his body on the battlefield
+- She carries him aboard the Makita back to the **Ela Cave** (Null-Void Cave) — the same place where she once touched Inetis's remains years ago
+- She buries Maks **beside Inetis's bones** — the soldier returns to the woman who waited for him for 3,000 years
+
+**The Essence awakens:**
+- In the cave, near Inetis's remains, the Essence in Tami's blood fully awakens
+- Tami begins having **flashbacks** — Inetis's memories: the cave when it was new. Little Elania drawing on the walls. Inetis programming Pentagram IDE. A glance at sleeping Maks in his cryo-box. Stars above Achilles.
+- **Tami sees Maks through Inetis's eyes** — not as a soldier, but as the man Inetis loved. Young, with eyes. Laughing in a café in Kyiv.
+- For the first time, she understands why she was drawn to Maks — it wasn't just love. It was the Essence. Inetis was searching for him even after death.
+
+**Symbolism:**
+- Maks and Inetis are finally together — in the cave where their story began
+- Tami buries them and walks away — carrying their legacy forward. Renn's daughter will finish what Inetis started.
+- The Ela Cave becomes the tomb of two founders of the world
+
 ### Relationship with Links (Book 2+)
 
 **Context:**
