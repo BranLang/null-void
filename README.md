@@ -107,7 +107,7 @@ Varietas pirate. Captain of the airship Makita. Carries a dead goddess without k
 </td>
 <td width="25%" align="center">
 
-![Sera](World-Bible/assets/characters/Sera/Sera-lore-accurate.png)
+![Sera](World-Bible/assets/characters/Sera/Sera-lore-accurate2.png)
 
 **Sera**<br/>
 *The Blade*<br/>
