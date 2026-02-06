@@ -89,7 +89,7 @@ The heist goes wrong. The city falls. And what they pull from the rubble changes
 <tr>
 <td width="25%" align="center">
 
-![Maks](World-Bible/assets/characters/Maks/max-lore-accurate.png)
+![Maks](World-Bible/assets/characters/Max/max-lore-accurate.png)
 
 **Maks**<br/>
 *The Sleeper*<br/>
