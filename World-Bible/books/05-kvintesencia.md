@@ -72,6 +72,16 @@ Stojí na nádhernej, slnkom zaliatej **antickej akropole**. Je to dokonalá rek
 
 **Obrovské pokušenie.**
 
+### What If moment — Kyjev (Emocionálny climax pokušenia)
+
+Elania vie, čo Maxa zlomí. Nie moc. Nie raj. **Normálnosť.**
+
+Prepne simuláciu. Max stojí na ulici v Kieve, 21. storočie. Slnko, ľudia, autá, kaviarňa na rohu. A oproti nemu — Inetis. Nie bohyňa. Nie AI. Obyčajná žena v kabáte, s kávou v ruke, s úsmevom, akoby sa poznali celý život.
+
+Idú na rande. Ako smrteľníci. Žiadne nanoboty, žiadna Anténa, žiadne 3000 rokov. Len dvaja ľudia v meste, ktoré už neexistuje.
+
+**Toto je najťažší moment celej ságy** — nie boj s Entitami, nie Upload. Ale Max, ktorý musí odmietnuť život, o ktorom vždy sníval, pretože vie, že nie je skutočný.
+
 ---
 
 ## Dejstvo 3: Súboj o dušu

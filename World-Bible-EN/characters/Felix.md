@@ -1,0 +1,16 @@
+### Felix (Unit 734 / "The Gunsmith" / "Der Gluckliche")
+- **Series**: **Einstein v4.2** — a series inspired by Albert Einstein. Visually a younger version, but the creators drew heavily on Albert's personality and intellect. Felix is the last functioning unit of the series.
+- **Specialization**: Heavy kinetic weapons, artillery, linguistics.
+- **Signature Weapon**:
+    - **Cannon "Felix"**: Magazine-fed cannon on the ship *Makita*. Brass casings, **Spira ammunition** as propellant -> violet flashes on firing.
+    - **"Die Nadel" (The Needle)**: A strictly utilitarian rapier made from tungsten alloy. No ornamentation, just penetrating power. Owned by Tami.
+- **Status**: Legendary Mako, lives in the **ruins of the city of Kito** in the East.
+- **Relationship to the Party**:
+    - **Tami**: "Uncle." Raised her alongside Renn. Taught her everything about machines and Maki etiquette.
+    - **Max**: "Old friend." During the years in Kito (AY 3001-3008), served as Max's translator (Rosetta Stone Protocol) and taught him the modern language.
+- **Personality**:
+    - **Advanced AI Core (LLM)**: Felix is not just a machine with pre-programmed phrases. He is an advanced synthetic intelligence (essentially an "LLM in a robot body").
+        - **Linguistic Fluidity**: Switches languages and personalities depending on context or mood. Seamlessly transitions from archaic **RP English** (when he wants to sound important/educational) to rough **German** (in combat or when cursing at subpar steel) to **Japanese** (when communicating with other Maki).
+        - *Note*: His "personality" is a sophisticated simulation he developed himself over centuries of solitude.
+    - **Logical Silence**: Never told Max that Tami is a fox (Varietas). He considered it an irrelevant visual detail.
+- **Name**: He chose the name Felix (Lucky) because he survived the extermination of his series. Irony.

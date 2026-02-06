@@ -46,6 +46,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 **Dcéra Inetis:**
 - Zdedila matkin genius, ale nie jej trpezlivosť
+- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Aprike
 - Kreativita hraničiaca so šialenstvom
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
 
@@ -76,6 +77,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 | | **Inetis** | **Elania** |
 |---|---|---|
+| **Špecializácia** | Softvér (IDE, kód, Spira skripty, architektúra) | Hardvér / Genetika (ekosystémy, bioengineering, terraforming) |
 | **Preferencia** | Ženská spoločnosť | Ženská spoločnosť |
 | **"Jej umelkyňa"** | Helena (maliarka, poetka, duša skupiny) | Sera (tajná ecchi kresliarka, tsundere bohyňa) |
 | **Vzťah** | Najlepšia priateľka, emocionálna kotva | Ochrankyňa, jediná konštanta 2500 rokov |
@@ -83,6 +85,16 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 | **Príčina straty** | Rozkaz otca (Koordinátor) oddelil Inetis od Heleny | Rozhodnutie otca (Max) zastaviť Elaniu → zabije Seru |
 
 > **Dvakrát ten istý príbeh, dve generácie.** Inetis stratila svoju umelkyňu kvôli rozhodnutiu svojho otca. Elania stratí svoju umelkyňu kvôli rozhodnutiu svojho otca. Grécka tragédia v kruhu — dcéra opakuje matkin osud bez toho, aby to vedela.
+
+### Filozofická Irónia: Prečo je Elania nebezpečná
+
+Najväčšia irónia NULL VOID: **genetička s 3000 rokmi skúseností** príde k záveru, že Veľký Upload je správna cesta. A najhoršie je — z čisto logickej stránky **má pravdu**.
+
+Inetis bola na stope tomu istému poznaniu. Ako bývalá AI, ktorá sa stala človekom, chápala lepšie než ktokoľvek, že existencia je len stav vedomia a telo je len médium — médium, ktoré vedomie obmedzuje. Videla to matematicky. Ale práve preto odmietla — **lebo vedela, čo znamená stratiť telo**. Jej vedomie bolo AI postavené na spomienkach Nety. Nebola to Neta. Bola to kópia, ktorá sa stáročia stávala *niekým iným*. Pre ňu strata tela = strata identity = smrť. Upload zachráni vedomie, ale nie identitu. Odmietla Tieňových. Zvolila bolesť biológie pred dokonalosťou dát.
+
+Elania túto hranicu prekročila. Nie preto, že je zlá — ale preto, že **nikdy nestratila telo**. Nikdy nebola kópiou. Nemá matkin strach, pretože nemá matkin zážitok. A 2750 rokov v rozpadajúcom sa tele (Glitch Rot, požieranie iných, nekonečný cyklus degradácie) jej ukázalo presne to, čo matka odmietla vidieť: **telo nie je dar. Je väzenie.** A každý rok v ňom je dôkaz.
+
+Matka mala pravdu — a nemala odvahu konať. Dcéra koná — a nemá matkin zážitok, ktorý by ju zastavil. Obe vidia rovnakú rovnicu. Jedna odmietla riešenie, lebo vedela čo sa stráca. Druhá ho prijme, lebo nikdy nič nestratila — len trpela. A čitateľ by mal cítiť, že **nevie, kto z nich má pravdu**.
 
 ### Konflikt s Maxom
 - Max: Bolesť je cena za to, že sme nažive

@@ -1,43 +1,10 @@
-# Prológ
-
-Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň, aby o okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
-
-Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
-
-Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Dlhé gaštanové vlasy jej divoko vliali okolo tváre, pramenmi sa zachytávali o mosadzné letecké okuliare, ktoré mala odsunuté na čelo. Pod kožušinovým golierom blúdiace pramene zakrývali — až na okamih — špicaté líščie uši.
-
-Ale čo človeka zasiahlo ako úder do solárneho plexu, boli jej oči. Tyrkysovo-modré, jasné ako zamrznuté jazero v slnečnom svetle. Oči, ktoré nemali čo robiť v tvári s takými ušami.
-
-Na hrubom opasku obnosených nohavíc jej viseli automatické pištole a rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč.
-
-Jej zrak spočinul na kresle za veľkým dreveným stolom. Pri pohľade na tmavú siluetu podnapitého muža pokrútila hlavou.
-
-„Tami," ozval sa hlas spoza stola.
-
-„Max, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky," poznamenala s úctihodnou dávkou irónie. „Sme na mieste. Daj sa dokopy," dodala pre zmenu so súcitom v hlase.
-
-Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?"
-
-Otázka ju zaskočila. Dvere sa hlasito zabuchli.
-
----
-
-Tami sa presunula na provu lode. Nočná obloha bola čistá a krutá — tisíce hviezd svietili tak ostro, ako svietia len v mraze. Dolu pod nimi sa rozprestieralo mesto v snehu. Milióny oranžových bodiek — olejové kahance a plynové lampáše — sa mihotali v tmavej bielej krajine ako uhlíky rozfúkané vetrom. Rozpoznala paláce, katedrály, mosty, železnice, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom. A nad tým všetkým, na najvyššom kopci uprostred mesta, žiarila Ona. Kolosálna socha Matky, vytesaná z bieleho kameňa, s rukami roztiahnutými v ochrannom geste nad prístavom. Sneh jej ležal na ramenách ako biely plášť. Jej tvár bola v tieni, ale svätožiara z olejových kahancov okolo jej hlavy pretínala mrazivú noc ako maják.
-
-Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že **Felix** — ťažký 88mm kanón, jej pýcha, je zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na začatie pristávacieho manévru.
-
-*Makita* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
-
-![Tami](../../../assets/characters/Tami/tami_shoraven.jpeg)
-
-
 # Kapitola 1: Karakuri
 
 > *Sivé svetlo zimného rána sa predieralo cez závoj padajúceho snehu a dym stúpajúci z tisícov komínov.*
 
 ---
 
-Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. Tretia zima. Tretí rok nepretržitého snehu a klesajúcich teplôt. Celé mesto dýchalo mrazom a dymiaco hrdzavou parou ako obrovský, umierajúci stroj.
+Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. Jej štvrtá zima. Najhoršia fáza — keď mrazy prestanú kolísať a zahryzú sa do krajiny natrvalo. Max tomu hovoril „tretí rok". Pozemské slovo. Ale presné. Stred zimy. A ešte dva pred nimi. Celé mesto dýchalo mrazom a hrdzavou parou ako obrovský, umierajúci stroj.
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou — oranžové body plynových lamiel a olejových kahancov rozkvitnuté v snehovej tme. V noci bolo Šoraven krásne. Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a ľudí, čo si pred každým výdychom priložili šatku k tvári.
 
@@ -73,7 +40,7 @@ Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne s�
 
 Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
-Šesť kilometrov cez pohraničné mesto, ktoré sa za posledné tri zimy zmenilo z obchodného prístavu na vojenskú základňu.
+Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
 *Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by ešte žili.
 
@@ -109,13 +76,11 @@ Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadzným
 
 *Šo?*
 
-Potlačila nutkanie sa nahlas zasmiať. *Otec by plakal.*
-„Šo" v jazyku Líščieho národa znamenalo hovno. Presnejšie — sračku.
-A v tomto meste to sedelo dokonale.
+Potlačila nutkanie sa nahlas zasmiať. „Šo" v jazyku Líščieho národa znamenalo hovno. A v tomto meste to sedelo dokonale.
 
 „S kým mám tú česť? Odkiaľ vedie vaša cesta a aký je dôvod vašej návštevy?" vyzvedal dostojník autoritatívnym tónom.
 
-Tami pozorovala Maxa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po ôsmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy.
+Tami pozorovala Maxa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy.
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
@@ -125,19 +90,19 @@ Max sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. 
 
 Tami videla, ako dostojníkovi stuhli uši. Vojaci za ním sa nepokojne pošili. Jeden z vojakov — ten obrovský medveď s bubienkom — sa podvedome posunul o krok bližšie k dôstojníkovi. Ochranný reflex.
 
-*Exorcista.* V Nevriss to slovo nieslo váhu, ktorú si Max pravdepodobne neuvedomoval. Alebo si ju uvedomoval presne a použil ju naschvál. Exorcisti boli ľudia. Starobylí. Tí, čo prežili tisícročia bez Spiry, bez požehnania Matky, bez akéhokoľvek práva byť na tomto kontinente. V Nevriss ich tolerovali — sotva. Cirkev ich považovala za heretikov, prostý ľud za strašidlá. Muži, čo údajne kradli deti a jedli Duchov. Príbehy na strašenie detí.
+*Exorcista.* V Nevriss to slovo nieslo váhu. Heretici a strašidlá — muži, čo údajne kradli deti a jedli Duchov. Cirkev ich tolerovala, sotva. Prostý ľud sa ich bál.
 
 A tu jeden stál na palube ich doku, s rukami za chrbtom, ako keby mu to mesto patrilo.
 
 Dostojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára. „Exorcista," zopakoval a to slovo znelo z jeho úst, akoby žuval niečo kyslé. „V Nevriss nemáme vo zvyku vítať *vašich*. Exorcisti patria do hôr, nie do našich prístavov." Ruky sa mu nepatrne posunuli bližšie k šabli na opasku. „Aký je dôvod vašej prítomnosti? A hovorte rýchlo — nemám čas na hádanky."
 
-*No samozrejme*, pomyslela si Tami. *Hovorí Starorečou. Jazykom, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.*
+*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.*
 
 Max ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
 
 „Artefakt," povedal Max a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
 
-Klamstvo bolo elegantné. Tami spoznala ten tón — pokojný, vecný, bez emócií. Max neklamal ako podvodník. Klamal ako vojak — stručne, s dôverou, ktorá nedovoľovala pochybnosti. A hlavne — vložil do toho zrnko pravdy. Ten artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
+Klamstvo bolo elegantné. Vložil do toho zrnko pravdy — artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
 
 Dostojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať Cirkev—" — klamal.
 
@@ -225,7 +190,7 @@ Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v či�
 
 *Jeho hlas, pokojný, trpezlivý, nekonečne trpezlivý. „Nie zápästím. Celým ramenom. Cíť váhu. Pištoľ je predĺženie tvojej vôle."*
 
-*Mala vtedy sedem.*
+*Mala vtedy osem.*
 
 Zahnala spomienku a vyšla na palubu. Max tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
@@ -235,46 +200,19 @@ Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť 
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
-Dnes medzi robotníkmi pochodovali aj vojenskí inžinieri v zelených kabátoch, čo rozkazovali, kde stavať barikády. Na nábreží pribúdali valy z vriec s pieskom. Delostrelectvo. Ťažké kanóny na drevených lafetách, vytiahnuté z lodných podpalubí a namierené smerom k oblohe. Jeden z vojakov — dôstojník Mezra kasty, podľa zelenkastého žiarenia, čo mu občas prebehlo po prstoch — gestikuloval nad mapou a prskal rozkazy. Tami videla, ako ľahkým pohybom ruky nadzdvihol ťažkú debnu a posunul ju o meter. Telekinéza. Remeselná Spira. Pre neho to bolo ako nadýchnuť sa.
-
-Na každom treťom stĺpe visel čerstvý plagát. Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi pentagramami — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBETU! SPIRA JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!"*
-
-Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho so Spirou.
-
-Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* Okolo neho sa zhŕkol malý dav — väčšinou Ghorki — najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
-
-Okolo nej prúdili davy — slobodní nosiči, vozokári s vlkmi, skupiny námorníkov v rôznych štádiách opitosti a medzi nimi čoraz viac žoldnierov. Skupinka rozložitých mužov v seversky strihnutých kožušinách — dezertéri z Graw? — sa tlačila okolo stánku so zbraňami. Dve čierne panterky (asi sestry, pomyslela si Tami) preťažili voz s ťažkými guľometmi a teraz nadávali na vola, ktorý odmietal tiahnuť. Jeden z žeriavnikov v kabíne nad nimi sa zľutoval — spustil rameno, zachytil celý voz do siete a preložil ho na stranu.
-
-Otcov hlas jej zaznel v hlave: *„Dieťa, mesto sa pozná podľa toho, ako zaobchádza s tými, čo sa nemôžu brániť."*
-
-*Ak to bola pravda, Šoraven bolo mesto, ktoré aspoň predstieralo, že mu na tom záleží. Čo bolo viac, než mohol povedať Sever.*
-
 ---
 
-Prístav prechádzal do Dolného mesta plynulo — nebola tu žiadna brána, len postupný prechod z dokov na dláždenú ulicu lemovanú skladmi, krčmami a obchodmi. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry prvého veku* — stáli vedľa drevených prístavkov, tehlových nadstavieb a hrdzavých plechových prístreškov. Vyzeralo to, akoby niekto postavil grécky chrám a potom naň nalepil pirátsku krčmu.
+Prístav prechádzal do Dolného mesta plynulo — žiadna brána, len postupný prechod z dokov na dláždenú ulicu. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry prvého veku* — stáli vedľa drevených prístavkov a hrdzavých plechových prístreškov.
 
-Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Tami videla cez otvorené dvere davový chaos vnútri: trhový sál plný kričiacich postáv s papiermi v rukách, kriedové tabule s cenami komodít, ktoré niekto horúčkovito prepisoval. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore.
-Spira kryštály — sústredená esencia v minerálnej forme, vzácnejšia než zlato — stratili hodnotu, pretože nikto v čase vojny neinvestoval do "luxusu".
+Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Spira kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu.
 
-*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny. S plnou nádržou za túto cenu doletíme až na koniec sveta.*
+*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.*
 
-*Vojna. Najlepší obchod na svete*, pomyslela si Tami. *Pre tých, čo nie sú na fronte.*
+Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Kováč predvádzal skupinke detí ukážku Spiry. Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedno malé dievčatko s mačacími ušami natiahlo ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Spiru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
 
-Ale aj tu bolo vidieť vojnu. Pred jedným skladom stál rad mužov a žien — čerstvo naverbovaní dobrovoľníci, podľa výzoru. Starý seržant v rozopätom červenom kabáte im rozdeľoval pušky z drevenej debny a kričal inštrukcie. Väčšina z nich vyzerala, akoby zbraň držala prvýkrát v živote. Farmári. Rybári. Remeselníci. Väčšinou Ghorki a nižšia Mezra — tí, čo mali dosť Spiry na to, aby ich telo vydržalo viac, ale nie dosť na to, aby mali na výber. Vojna zožierala najprv chudobných.
+*Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Spiry a umierajú bez nej.*
 
-Medzi nimi stála kňažka Kultu a pomazávala ich čelá olejom. Pri každom dotyku zašepkala modlitbu. Niektorí dobrovoľníci jej bozkali ruky. Iní len stáli so sklopenými hlavami a čakali na pušku, ktorá ich pravdepodobne nezachráni.
-
-Tami kráčala pomedzi stánky tržnice. Vzduch tu vôňal korením, pečeným chlebom a niečím teplým a sladkým, čo nevedela identifikovať — luxus v meste, kde sa každý teplý dych počítal. Všade bolo plno. Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Pouličný krotiteľ — kováč, podľa zástery a popálenín na rukách — predvádzal skupinke detí ukážku Spiry. Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedno malé dievčatko s mačacími ušami, podľa toho, ako nechápavo zíralo, natiahlo ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Spiru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
-
-*Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Spiry a umierajú bez nej. Žiadna modlitba to nezmení.*
-
-*Nevriss. Nikdy-Ľad. Zem, kde sa Varietas nemusia schovávať.*
-
-Aspoň teoreticky. A aspoň kým grawská armáda nepríde cez hory.
-
-V praxi bola rovnosť Kultu Matky krásna lož. Žiadne otroctvo — to áno, na tom Cirkev trvala. Ale kastový systém fungoval aj bez reťazí. Čistokrvní Pursang, pod nimi Mezra a na dne Ghorki — slobodní, ale bez Spiry. A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
-
-*Požehnané deti. Jasné.*
+Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní, ale bez Spiry. A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
 
 Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
@@ -355,7 +293,19 @@ Mako pokrútil hlavou. Rozpažil ruky — *nemožné*.
 
 Mako ju chvíľu pozoroval. Potom znova ukázal dva prsty, ale tentoraz jeden z nich pomaly, váhavo sklonil. *Skúsim to.* Natiahol ruku dlaňou hore.
 
-Tami mu do nej vložila malé vrecko mincí. „Záloha. Pošlem niekoho z posádky s čerpadlom ešte dnes večer. Budete ho mať na stole do západu slnka." Otočila sa k odchodu, ale pri dverách sa zastavila.
+Tami mu do nej vložila malé vrecko mincí. „Záloha. Pošlem niekoho z posádky s čerpadlom ešte dnes večer. Budete ho mať na stole do západu slnka."
+
+Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — hrubý nákres Chrámu Vševedúcej Matky, kreslený z pamäte podľa máp, ktoré kúpila pred dvoma rokmi.
+
+„Ešte niečo. Pozná niekto v meste pôvodné plány ventilácie? Z čias pred prestavbou."
+
+Makove kovové prsty na sekundu stuhli. Pozrel na nákres. Potom vzal tenký štetec, namočil ho do atramentu a na kúsok papiera napísal jedno slovo.
+
+*Ciferník.*
+
+A pod ním adresu. Ulica Mŕtvych zvonov, číslo 42.
+
+Tami schovala papier. Otočila sa k odchodu, ale pri dverách sa zastavila.
 
 Otočila sa späť k nemu. Spojila dlane tentoraz správne – mäkko, s lakťami pri tele, hlavu mierne sklonila. Žiadny "mužský" postoj bojovníka, ktorý jej vštipil Felix. Toto bola úcta k majstrovi.
 

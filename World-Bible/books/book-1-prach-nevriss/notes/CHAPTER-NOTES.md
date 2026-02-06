@@ -9,17 +9,17 @@ Tento súbor obsahuje dôležité poznámky, lore clarifications a character kno
 ```
 drafts/
 ├── CHAPTER-NOTES.md          (tento súbor)
-├── main-arc/                  (Max & Tami — Heist cez Night of Heroes)
-│   ├── 00-prologue.md
-│   ├── 01-karakuri.md
-│   ├── 01.1-interlude-far-from-snow.md
-│   ├── 02-dead-bells.md
-│   ├── 03-elanias-blade.md
-│   ├── 04-mother-and-fire.md
-│   ├── 05-blood-ritual.md
-│   ├── 06-sky-hammer.md
-│   ├── 07-awakening.md
-│   └── 08-epilogue-blockade-run.md
+├── main-arc/
+│   ├── 00-prologue.md              ─┐
+│   ├── 01-karakuri.md               │ ARC 1: HEIST
+│   ├── 01.1-interlude-far-from-snow.md │
+│   ├── 02-dead-bells.md             │
+│   ├── 03-elanias-blade.md         ─┘ (končí kolapsom Chrámu)
+│   ├── 04-mother-and-fire.md        (ZRUŠENÁ → cliffhanger)
+│   ├── 05-blood-ritual.md         ─┐
+│   ├── 06-sky-hammer.md            │ ARC 2: NOC HRDINOV
+│   ├── 07-awakening.md             │
+│   └── 08-epilogue-blockade-run.md─┘
 ├── links-arc/                 (Links — paralelná línia)
 │   ├── 01-golden-cage.md
 │   ├── 02-desolation.md
@@ -31,12 +31,32 @@ drafts/
     └── chapter-7-draft-stub.md
 ```
 
-**Reading Order:** Prologue → Ch1 → Interlude → Ch2 → Ch3 → Ch4 → Ch5 → Ch6 → Ch7 → Epilogue
-**Links Arc** prebieha paralelne (chronologicky po Night of Heroes, ale čítané preložené medzi hlavnými kapitolami)
+**Reading Order:**
+ARC 1 (Heist): Prologue → Ch1 → Interlude → Ch2 → Ch3
+LINKS ARC: Links Ch1 → Links Ch2 → Links Ch3
+ARC 2 (Noc Hrdinov): Ch5 → Ch6 → Ch7 → Epilogue (Ch8)
+
+Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva týždne PO oboch arcoch, ale čitateľ ho číta pred Nocou Hrdinov. Kito rozpráva Linksovi o bitke len z pohľadu civilistu — detaily Blood Ritualu a Sky Hammer nepozná.
 
 ---
 
 ## MAIN ARC
+
+**Kniha 1 má dva samostatné ARCy:**
+
+### ARC 1: HEIST (Kapitoly 0-3)
+- Prologue → Karakuri → Dead Bells → Elaniiná Čepeľ
+- Cieľ: Ukradnúť Anténu z kobiek pod Chrámom Matky
+- Vyvrcholenie: Esencia transfer na Tami + kolaps Chrámu
+- Koniec: Chrám sa zrúti, team bez zbraní, mesto v panike
+
+### ARC 2: NOC HRDINOV (Kapitoly 5-8)
+- Blood Ritual → Sky Hammer → Awakening → Epilogue (Blockade Run)
+- Cieľ: Prežiť obliehanie Šoravenu a uniknúť na juh
+- Vyvrcholenie: Blood Ritual (Max zabije Gronda) + Nebeské Kladivo (Makita + Nevriské posily)
+- Koniec: Únik loďou *Druhá Šanca*, smer Nevriss
+
+*(Ch4 Matka a Oheň = ZRUŠENÁ, presunutá na koniec knihy ako cliffhanger)*
 
 ---
 
@@ -262,8 +282,10 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 
 **Character Knowledge States:**
 - **Max:** Velenie = jeho element. Ale vie, že pušky nestačia. Blood Ritual = posledná možnosť.
-- **Obrancovia:** Nevedia, čo Max urobil. Len vedia, že Graw sa zastavil.
+- **Obrancovia:** Nevedia, čo Max urobil. Len vedia, že Graw sa zastavil. Grondova smrť je záhada.
 - **Grawská armáda:** Grond zomrel "z ničoho nič" — žiadne vysvetlenie, žiadny nepriateľ
+- **Nikto:** Max sa nikdy nepriznal. Nie je jasné ani *že* Gronda niekto zabil — mohol to byť infarkt, jed, kliatba. Záhada zostáva záhadou.
+- **Maxova krv po rituáli:** Obrancovia videli zakrvaveného Maxa a mysleli si, že ho zasiahli šrapnely a sklo z bombardovania. Dokonalé krytie — nemusel klamať, len mlčať.
 
 **Status:** HOTOVO (plná próza, rev 3 rewrite — 366 riadkov, 7 častí)
 
@@ -276,10 +298,17 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 - Max naviguje Tami ako targeting system (zvyšné nanoboty ako senzory)
 - Tami ničí Grawský muničný sklad a tankovú kolónu
 - Grawská armáda ustupuje v panike
-- **Valkýra** (Grawská stíhačka) zasiahne Makitu
-- Max padá z veže
+- **3 Valkýry** (Grawské stíhačky) útočia na Makitu
+- **Tami zostrelí prvú Valkýru kanónom naslepo** — Max jej dá koordináty a načasuje "Teraz!"
+- **Nevriské posily na svitaní** — 3 dieselpunkové bojové lietadlá (volací znak *Jarná Búrka*) zostrelí zvyšné 2 Valkýry
+- Trosky poslednej Valkýry trafia vežu — Max padá
 
-**Status:** HOTOVO (plná próza, 108 riadkov)
+**Lore Notes:**
+- **Felix = zásobníkový kanón** — 122mm, zásobníkový pás, 6 rán za minútu. Medené nábojnice padajú z lode pri streľbe.
+- **Fialové záblesky** — výstrely z Felixa svietia na nočnej oblohe fialovým zábleskom. Spira munícia ako propelent = fialový plameň. Z ulíc to vyzerá ako blesky bohov. Preto "Nebeské Kladivo".
+- **Pohľad zdola (civili/obrancovia):** Nevideli Makitu (tma), len fialové záblesky a explózie na Grawských pozíciách. Medené nábojnice padali na strechy ako kovový dážď.
+
+**Status:** HOTOVO (plná próza, rewrite — rozšírená vzdušná bitka)
 
 ---
 
@@ -386,13 +415,21 @@ Draft `03-antiquarian.md` obsahuje Kito + Maya healing + Vex/Second Chance odcho
 
 **Key Events:**
 - Meets **Kito** (Antiquarian) and dying wife **Maya**
-- Kito tells story of Max & Tami (Eyewitness account)
+- Kito tells story of Max & Tami — **NIE eyewitness bitky, ale civilista v zóne**
+  - Kito počas Noci Hrdinov niesol Mayu na rukách cez horiace ulice
+  - Videl: granáty, plamene, zranených volajúcich o pomoc, chaos evakuácie
+  - **Čo videl z ulíc:** Fialové záblesky na nočnej oblohe — Felix strieľal na Grawské pozície (Spira munícia = fialový plameň). Medené nábojnice padali z neba. Kito nevedel čo to je — len videl svetlo a počul explózie. "Nebeské Kladivo" z pohľadu civilistu.
+  - **NEVIE** detaily Blood Ritualu (bol v úkryte/utekajúc, nie na fronte)
+  - **NEVIE** čo robili Max a Tami počas Sky Hammer (nebol na Makite)
+  - Vie len z klebiet: "Generál zomrel. Nikto nevie ako ani prečo." / "Líška strieľala z neba."
+  - **Nikto nevie kto zabil Gronda** — Max sa nepriznal, nie je jasné ani *že* ho niekto zabil. Záhada.
+  - Jeho príbeh je **vojnový zážitok civilistu** — surový, emocionálny, neúplný
 - **The Miracle:** Links hacks Spira (Growth_Rate) using Sera's Haiku book
 - Maya is saved
 - Kito gives map to **Nevriss** (Captain Vex, ship *Second Chance*)
 
 **Lore Notes:**
-- **Kito:** Eyewitness to Max's battles
+- **Kito:** NIE eyewitness bitiek — civilista, niesol Mayu cez horiace ulice. Vie len z klebiet a fialových zábleskov na oblohe.
 - **Spira Hack:** It's code manipulation, not magic
 - **Captain Vex:** Smuggler contact for next chapter
 - **Links' Arc:** Witness -> Participant (Healer)

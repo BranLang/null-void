@@ -55,9 +55,12 @@ Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie intel
 
 ## Nanodronové Monštrá
 
-### Wraiths (Duchovia)
-- Nie sú biologické. Sú to zhluky nanodronov s fragmentami vedomia.
-- Napodobňujú tvary, ktoré si pamätajú (ľudí, vlkov).
+### Wraiths (Duchovia) — Evolučný Cyklus
+- Nie sú biologické. Nie sú ani choroba. Sú to **nanoboty v1.0, ktoré sa rozhodli prežiť**.
+- Keď Glitch Rot začne rozkladať hostiteľa, nanoboty sa odpútajú — **pud sebazáchovy**. Berú si fragment hostiteľovho vedomia ako OS a stávajú sa autonómnymi rojmi.
+- Napodobňujú tvary, ktoré si "pamätajú" (ľudí, vlkov — posledné vedomie hostiteľa).
+- Priťahované aktívnou elektronikou (hľadajú energiu na udržanie koherencie).
+- Varietas ich považujú za démonov. V skutočnosti sú to nanoboty ich vlastných predkov.
 
 ### Hollows (Dutí)
 - Oživené kostry zvierat alebo ľudí (techno-nekromancia).
