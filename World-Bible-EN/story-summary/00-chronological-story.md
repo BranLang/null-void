@@ -96,7 +96,7 @@ ARK-13 finds Alpha Centauri uninhabitable. Four Ex Inferis (**Samaell, Grond, Is
 After returning from simulation, Inetis visits the mainland. Gives Varietas new nanotechnology (Mother's Gift). Returns periodically every 5-10 years. Works on project to save Wraiths — wants to upload their memories into Core. Needs a special Antenna but lacks resources for a new one. [→ 01-timeline.md: Mother's Gift]
 
 ### AY ~850 — Great Battle (Atra Narrows)
-Archangel Triumvirate attacks Varietas empowered by Spira. **Fox Genocide** — the best strategists and Spira programmers decimated. **Renn** (Niktori, Inetis Core Team member, Earth human) escorts last fox families east. Inetis goes with them. They found **Kitana** (later Kitsune/Kito). Elania tells Ex Inferis that her father "sleeps" — a legend to inspire fear. [→ 01-timeline.md: AY 850]
+Archangel Triumvirate attacks Varietas empowered by Spira. **Fox Genocide** — the best strategists and Spira programmers decimated. **Renn** (human from Earth, Inetis Core Team member, Earth human) escorts last fox families east. Inetis goes with them. They found **Kitana** (later Kitsune/Kito). Elania tells Ex Inferis that her father "sleeps" — a legend to inspire fear. [→ 01-timeline.md: AY 850]
 
 ### AY 2212 — Third Coming (Hephaestus Expedition)
 Seed ship arrives with thousands of **Maki** (Gen 2 androids). For Varietas, it's a biblical event — beginning of the **Age of Messengers (RP 0)**. Maki activate a fusion reactor. Signal attracts massive Wraith cyclone — massacres Maki and partially devastates Kitsune. Only **Series-J and Unit 734 / Felix (Series E)** survive. Maki learn: electricity attracts Wraiths. Switch to **Silent Technology** — analog mastery, steam, mechanics. [→ 01-timeline.md: AY 2212] [→ 03-technology.md: Hephaestus]
@@ -112,7 +112,7 @@ Wants to wake Maks to help her reach Elysium Core. Dies of Glitch Rot **on the w
 ## V. AY 3000 – 3013: AWAKENING AND JOURNEY
 
 ### AY 3000 — Maximilian's Awakening
-Pirates **Vix and Kael** kill **Renn** (Niktori, founder of Kito, Tami's future father) and hold his 7-year-old daughter **Tami** in a cage. Kael awakens an Inetis wraith in the cave — wraith kills Kael and wakes Maks. Maks awakens physically blind (cryo-blindness — eyes exploded from frost), covered in blue cryo-fluid. **Samaell** had been wandering near the cave for years, tracking Inetis's trace. Pirates lead him to the cave, but bunker seals shut. Pirates find Maks in the snow and take him aboard. Maks and Tami meet on the ship. [→ 01-timeline.md: AY 3000]
+Pirates **Vix and Kael** kill **Renn** (human from Earth, founder of Kito, Tami's future father) and hold his 7-year-old daughter **Tami** in a cage. Kael awakens an Inetis wraith in the cave — wraith kills Kael and wakes Maks. Maks awakens physically blind (cryo-blindness — eyes exploded from frost), covered in blue cryo-fluid. **Samaell** had been wandering near the cave for years, tracking Inetis's trace. Pirates lead him to the cave, but bunker seals shut. Pirates find Maks in the snow and take him aboard. Maks and Tami meet on the ship. [→ 01-timeline.md: AY 3000]
 
 ### AY 3000-3001 — Year of Shadows
 Maks spends the first year physically dependent on 7-year-old Tami. Chase with Samaell — Archangel hunts them all year. **Unit 734 / Felix** (Mako mechanic) serves as lifeline. Maks discovers Earth is forgotten — the "Achilles Initiative" failed. [→ 01-timeline.md: Year of Shadows]

@@ -101,6 +101,39 @@ Elania túto hranicu prekročila. Nie preto, že je zlá — ale preto, že **ni
 
 Matka mala pravdu — a nemala odvahu konať. Dcéra koná — a nemá matkin zážitok, ktorý by ju zastavil. Obe vidia rovnakú rovnicu. Jedna odmietla riešenie, lebo vedela čo sa stráca. Druhá ho prijme, lebo nikdy nič nestratila — len trpela. A čitateľ by mal cítiť, že **nevie, kto z nich má pravdu**.
 
+### Fialové oči — Signatúra i_net_is 🟣
+
+Elania má **fialové oči so špirálami galaxií** — nie po Maksovi (modré), nie po fyzickej Inetis (hnedé pred transformáciou). Po **i_net_is** — po digitálnej bohyni, po VR avatarovi, po kóde.
+
+Fialové oči sú **vizuálna signatúra prítomnosti i_net_is**:
+- **Inetis pred Core** — obe fialové galaxie (kontakt s Tieňovými v subspace)
+- **Inetis po Core** — jedno fialová galaxia, druhé **žltý pentagram** (synchronizácia s AI i_net_is) [→ inetis-three-identities.md]
+- **Elania** — fialové od narodenia. Echo matky. Fragment digitálneho sveta, ktorý jej matka opustila, ale ktorý sa v dcére nikdy nevypol.
+- **Tami** — modré oči (Rennove) → po transfere esencie cez Anténu sa zmenia na fialové galaxie [→ antenna-essence-transfer.md]
+- **Tami aj Elania po synchronizácii v Core** — jedno fialová galaxia, druhé **žltý pentagram**. Rovnaká heterochromia ako Inetis. Synchronizácia s i_net_is = pentagram sa objaví. Obe to ťahá do jadra — a obe tam nájdu rovnakú cenu.
+
+**Volanie do Core:**
+
+Elaniine fialové oči nie sú len kozmetické dedičstvo. Sú **signál** — fragment i_net_is v nej, ktorý ju 2000+ rokov ťahá späť do jadra. Nie je to racionálne rozhodnutie vedkyne. Je to **volanie kódu**. Echo virtuálneho sveta, z ktorého jej matka odišla, ale ktorý v dcére nikdy neprestal volať domov.
+
+A potom sa objaví Tami — líška s fialovými galaxiami v očiach. Rovnakými ako Elaniine. A Elania pochopí: **tá líška v sebe nesie matku.**
+
+> [!IMPORTANT]
+> **Dve fialovo-oké bytosti — dve cesty do Core:**
+> - **Elania** (2000+ rokov): Nemôže sa dostať cez cyklón Wraithov okolo Elysium. Fialové oči ju volajú dovnútra, ale planéta ju nepustí. Achilles ju **odmieta**.
+> - **Tami** (po transfere): Nesie v sebe Inetisinu esenciu — kľúč, ktorý Elania nikdy nemala. Achilles ju **pozýva**.
+>
+> Obe to ťahá do jadra. Jedna nemôže vojsť. Druhá netuší, že môže.
+>
+> **Farby očí v NULL VOID:**
+> - 🔵 Modré = biológia, Renn, Achilles, planéta (Tami pred transferom)
+> - 🟣 Fialové galaxie = i_net_is, kód, Core, volanie do VR (Inetis, Elania, Tami po transfere)
+> - 🟡 Žltý pentagram = synchronizácia s AI i_net_is. Syntetický vzor, neexistuje v prírode. Objaví sa po kontakte s Core. (Inetis po Core, Elania po Core, Tami po Core)
+> - 🟣🟡 Heterochromia = fialová galaxia + žltý pentagram = plná synchronizácia. Tri ženy, tri generácie, rovnaká cena.
+> - ⚫ Čierne = prach, Maks, Gen 1 nanotech v rozpadnutých očných jamkách
+>
+> *Japonská symbolika:* 🤍 biela = smrť/pohreb (i_net_is je *yūrei* — duch Nety), 🔵 modrá = démoni/nadprirodzené (Taminy oči), 🟣 fialová = prechod medzi svetmi. [→ inetis-three-identities.md: Japonská symbolika farieb]
+
 ### Konflikt s Maksom
 - Maks: Bolesť je cena za to, že sme nažive
 - Elania: Digitálna existencia je čistá a večná

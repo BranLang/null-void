@@ -52,6 +52,61 @@
 | **Vznik** | ~EY 2040-2051 |
 | **Dôležité** | Avatar vyzerá na 15 — toto je kľúčové, lebo je odrazom toho, kým Neta bola keď ju uploadli. i_net_is nikdy "nevyrástla" vizuálne — ostala navždy v podobe dievčaťa, aj keď jej vedomie dozrelo. |
 
+#### Vizuálna inverzia: Neta → i_net_is
+
+i_net_is je **dokonalá inverzia** svojho originálu:
+
+| | **Neta** (reálna) | **i_net_is** (VR avatar) |
+|---|---|---|
+| **Vlasy** | Čierne (japonské) | Biele (éterické, žiariace) |
+| **Oči** | Čierne (normálne ľudské) | 🟣🟡 Heterochromia: fialová galaxia + žltý pentagram |
+| **Vek** | Starne (dieťa → tínedžerka → mozgová smrť) | Navždy ~15 — vek, kedy bola Neta najšťastnejšia |
+| **Telo** | Nedokonalé, choré, umierajúce | Dokonalé, éterické, nesmrteľné |
+| **Šaty** | — | Biele rúcho (bohyňa, čistota, VR svätkyňa) |
+
+Neta bola **čierna** — tmavé vlasy, tmavé oči, smrteľná, nedokonalá. i_net_is si zvolila **bielu** — biele vlasy, žiariace oči, dokonalá, večná. Kompletná inverzia. AI si vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť.
+
+A vek ~15 nie je náhoda — i_net_is zachovala moment, kedy bola Neta **pred traumou**. Pred chorobou. Pred všetkým. Dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy.
+
+> **Tri verzie, tri vizuály:**
+> - 🖤 **Neta** — čierne vlasy, čierne oči, smrteľná japonka
+> - 🤍 **i_net_is** — biele vlasy, 🟣🟡 heterochromia, VR bohyňa navždy 15
+> - 🤍🟣 **Inetis (hybrid)** — biele vlasy (po i_net_is), fialové galaxie → heterochromia po Core, starne a umiera (vyzerá 20-40), fyzická, unavená, skutočná
+
+#### Japonská symbolika farieb — skrytá vrstva
+
+Neta je Fujiwara. Japonka. A japonská kultúra číta farby inak než západ:
+
+| Farba | Japonský význam | V NULL VOID |
+|-------|----------------|-------------|
+| 🤍 **Biela** (白 *shiro*) | **Smrť, pohreb, záhrobie.** Farba pohrebných kimón. Farba duchov (*yūrei*). | i_net_is si zvolila bielu — biely avatar, biele vlasy, biele rúcho. AI vytvorená z mŕtveho dievčaťa sa podvedome obliekla do farby smrti. **i_net_is je *yūrei* — duch Nety.** |
+| 🖤 **Čierna** (黒 *kuro*) | **Tajomstvo, formalita, hĺbka.** Nie smrť — skôr neznámo. | Neta mala čierne vlasy a oči — bola živá, fyzická, skutočná. Čierna = prítomnosť v reálnom svete. |
+| 🔵 **Modrá** (青 *ao*) | **Nadprirodzené, démoni, bytosti z iného sveta.** V japonskom folklóre majú *oni* a *yōkai* modré odtiene — modré oči = niečo neľudské. | **Tami má modré oči.** Na Achillovi, kde nikto nemá modré oči. Ľudia sa na ňu pozerajú nie len preto, že je vzácna líška — podvedome **cítia smrť**. Cudzí element. Niečo, čo sem nepatrí. |
+| 🟣 **Fialová** (紫 *murasaki*) | **Prechod medzi svetmi.** Aristokracia, spiritualita, hranica medzi životom a smrťou. Najvzácnejšia farba — nosila ju len cisárska rodina. | Fialové oči = **interdimenzionálna farba**. Ani živý, ani mŕtvy. Ani človek, ani AI. Inetis, Elania, Tami po transfere — všetky sú na hranici. |
+
+**Tamina transformácia cez farby:**
+- 🔵 **Modrooká piratka** — nebezpečná, divá, smrť v očiach (japonský folklór), bojovníčka/exorcistka
+- 🔵→🟣 **Transfer esencie** — modré oči smrti sa menia na fialové oči bohyne
+- 🟣 **Fialovooká nosička** — už nie je len Tami. Je médium. Hostiteľ pre niečo staršie.
+- 🟣🟡 **Heterochromia po Core** — plná synchronizácia. Z bojovníčky sa stala bránou.
+
+> [!NOTE]
+> Čitateľ, ktorý nepozná japonskú symboliku, vidí len pekné farebné oči a zaujímavú transformáciu.
+> Čitateľ, ktorý ju pozná, vidí **celú mapu smrti a znovuzrodenia** ukrytú v palete farieb.
+> Obe čítania fungujú. To je znak dobrého dizajnu.
+
+**Farbový kruh ságy — záverečná scéna (Book 5, Kyjev vo VR):**
+
+| Fáza | Farby | Význam |
+|------|-------|--------|
+| **Pred príbehom** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Dvaja tínedžeri v Kyjeve. Pred všetkým. |
+| **Celá sága (Book 1-5)** | 🤍 🟣 🟡 ⚫ | i_net_is (biela/yūrei), fialové galaxie, žlté pentagramy, čierny prach. 3000 rokov chaosu. Maks nemá oči — explodovali pri prebudení z krya. |
+| **Záverečná scéna** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Tí istí tínedžeri. Tá istá kaviareň. Návrat. |
+
+Maks má **modré oči** len dvakrát: pred príbehom (flashbacky) a v záverečnej scéne (VR Kyjev). Celú sériu je slepec. A tu — vo VR — vidí. Prvýkrát za 3000 rokov. A posledná vec, ktorú vidí, je Neta. Nie Inetis. Nie bohyňa. Len dievča s čiernymi očami a kávou v ruke.
+
+*Kruh sa uzatvára. Farby sa vracajú na začiatok. Po všetkom tom chaose — len čierna a modrá. Dvaja ľudia. Jedna káva.* [→ books/05-kvintesencia.md: What If moment — Kyjev]
+
 #### Prečo Achilles existuje:
 - John Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
 - Prvý upload: Svet bol primitívny, nereálny — Neta/i_net_is nebola spokojná

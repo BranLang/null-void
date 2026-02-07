@@ -1,16 +1,26 @@
-# Renn — The Last of the First
+# Renn Ólafsson — The Last of the First
 
 | | |
 |---|---|
 | **Status** | Dead (killed by pirates Vix and Kael, AY 3000) |
-| **Name** | **Renn** |
-| **Race** | **Niktori** — Homo Sapiens Sapiens (human from Earth) |
+| **Full Name** | **Renn Ólafsson** |
+| **Race** | Homo Sapiens Sapiens (human from Earth) |
+| **Nationality** | Icelandic 🇮🇸 |
 | **Age** | ~3000+ years chronologically; biologically appeared ~40 at time of death |
-| **Origin** | Earth → ARK-11 → Elysium → Core Team Inetis |
+| **Origin** | Iceland (Earth) → ARK-11 → Elysium → Core Team Inetis |
 | **Occupation** | Civilian, member of Core Team Inetis, founder of Kito, treasure hunter, wanderer |
 | **Domain** | Ruins of the city of Kito (Eastern Wilds) — last home |
-| **Daughter** | Tami (~AY 2993) |
+| **Daughter** | **Tami Rennsdóttir** (~AY 2993) |
 | **Legacy** | Makita, the Ancient Map, Tami, the city of Kito, the tricorn hat |
+
+> [!IMPORTANT]
+> **Name etymology:**
+> **Renn** — Old Norse origin. Means *"swift"* (rýchly), *"runner"* (bežec), and *"counsel"* (rádca/spovedník).
+> - **Runner** — he ran his whole life. From Kito, from Mormiel, from memories of Inetis, from the Cave of Ela, from himself.
+> - **Counsel** — confessor to Inetis during her darkest moments. A quiet man who knew how to listen.
+> - **Swift** — when he finally decided, he was fast. It just took him 2000 years to decide.
+>
+> **Tami Rennsdóttir** — Icelandic patronymic system. Not a surname, but **the father's name within the name**. Daughter of Renn. She carries him with her, even though she lost him at age seven.
 
 ---
 
@@ -45,10 +55,10 @@
 
 ## Backstory
 
-### Earth and ARK-11 (EY ~2100-2150)
+### Iceland and ARK-11 (EY ~2100-2150)
 
-- Renn was a **civilian** — one of ~100 "tourists, teachers, doctors" aboard ARK-11
-- An ordinary person, not a soldier or a scientist
+- Renn Ólafsson — **Icelandic**, civilian from ARK-11
+- One of ~100 "tourists, teachers, doctors" aboard the ship — an ordinary person, not a soldier or a scientist
 - A young man with blue eyes and an unforgettable face
 - On Earth he had Gen 1 nanobots (v1.0) — standard issue for citizens of the Era of the Players
 - Departed on ARK-11 heading for Kepler 452b (Achilles)
@@ -391,7 +401,7 @@
 
 ## Trivia
 
-- **One of ~100 survivors from Earth** — Niktori, civilian from ARK-11
+- **One of ~100 survivors from Earth** — human from Earth, civilian from ARK-11
 - **Member of the Core Team of Inetis** — 150+ years at her side
 - **Founder of the city of Kito** (~AY 850) — led the foxes to a safe place
 - **Lived with Mormiel** — a physical relationship between two immortals; she taught him vampirism

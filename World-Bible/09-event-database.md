@@ -213,7 +213,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.fox_exodus`
 - Názov: Exodus líšok na východ
 - Čas: AY ~850
-- Zhrnutie: Posledné líščie rodiny utečú na východ. **Renn** (Niktori, člen Core Teamu Inetis) ich dobrovoľne eskortuje cez Divočinu. **Inetis ide s nimi** — nie sama, ako hovoria legendy. Inetis ukáže Rennovi Jaskyňu Ela a rozlúči sa s ním.
+- Zhrnutie: Posledné líščie rodiny utečú na východ. **Renn** (Islanďan, člen Core Teamu Inetis) ich dobrovoľne eskortuje cez Divočinu. **Inetis ide s nimi** — nie sama, ako hovoria legendy. Inetis ukáže Rennovi Jaskyňu Ela a rozlúči sa s ním.
 - Účastníci: `char.renn`, `char.inetis`, `fac.vulpini`
 - Lokácie: `place.eastern_wilds`, `place.cave_ela`
 - Tagy: `migrácia`, `rozlúčka`, `tragédia`
@@ -240,7 +240,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.renn_death`
 - Názov: Smrť Renna
 - Čas: AY 3000
-- Zhrnutie: Piráti Vix a Kael zabijú Renna (Niktori, ~3000+ rokov) kvôli Starobylej Mape — jeho vlastnej mape nakreslenej pred ~2000 rokmi. Renn bol na ceste splniť dávny sľub — pochovať priateľku Inetis. Zomiera oslabený (odmietol vampirizmus) a nepozorný (sledoval Tami, nie okolie). Piráti ukradnú mapu, Makitu, a zajmú 7-ročnú Tami.
+- Zhrnutie: Piráti Vix a Kael zabijú Renna (Islanďan, ~3000+ rokov) kvôli Starobylej Mape — jeho vlastnej mape nakreslenej pred ~2000 rokmi. Renn bol na ceste splniť dávny sľub — pochovať priateľku Inetis. Zomiera oslabený (odmietol vampirizmus) a nepozorný (sledoval Tami, nie okolie). Piráti ukradnú mapu, Makitu, a zajmú 7-ročnú Tami.
 - Účastníci: `char.renn`, `char.vix`, `char.kael`, `char.tami`
 - Lokácie: `place.eastern_wilds`, `place.kito`
 - Tagy: `smrť`, `tragédia`, `inciting_incident`

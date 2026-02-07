@@ -84,6 +84,29 @@ Spiaci pozemstan sa prebúdza po 3000 rokoch na planéte Achilles, kde sa techno
 
 ---
 
+## Protagonista: Achilles 🌐
+
+Hlavný hrdina NULL VOID nie je Maks. Nie je to Tami. Nie je to Elania.
+
+**Hlavný hrdina je planéta Achilles.**
+
+Achilles nie je setting — je živý organizmus. Spira ekosystém preniká pôdou, vodou, vzduchom. Nanoboty v krvi planéty, Wraithy v jej tieňoch, bioluminiscentné lesy ako jej nervový systém. Planéta dýcha.
+
+Každá postava je len jedna kapitola v príbehu Achilla:
+- **Inetis** prišla, vytvorila, zomrela — ale jej Spira žije ďalej v tele planéty
+- **Maks** spal 3000 rokov — Achilles medzitým rástol, menil sa, žil
+- **Elania** chce všetko uploading — zabiť planétu zvnútra
+- **Tami** hľadá — a netuší, že je súčasťou imunitnej reakcie
+- **Sera** čaká — trpezlivá ako samotná zem
+
+5 kníh = 5 elementov transformácie **planéty**, nie postáv. Maks, Tami, Elania, Sera — to sú bunky v tele Achilla. Každý konflikt je imunitná reakcia. Každá vojna je horúčka.
+
+> **Mytologická paralela:** Achilles bol bojovník, takmer nesmrteľný — ale mal jednu zraniteľnú pätu. Planéta Achilles je rovnaká: obrovská, mocná, takmer nezničiteľná. Ale má **Core**. A v Core je niečo, čo ju môže zabiť.
+
+*Helena spustila vojnu na starej Zemi. Jej odkaz žije na novom svete. A ten nový svet je skutočný protagonista.*
+
+---
+
 ## Štruktúra pentalógie (Pentagram)
 
 | Kniha | Element | Názov | Téma |
