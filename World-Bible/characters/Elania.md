@@ -131,6 +131,8 @@ A potom sa objaví Tami — líška s fialovými galaxiami v očiach. Rovnakými
 > - 🟡 Žltý pentagram = synchronizácia s AI i_net_is. Syntetický vzor, neexistuje v prírode. Objaví sa po kontakte s Core. (Inetis po Core, Elania po Core, Tami po Core)
 > - 🟣🟡 Heterochromia = fialová galaxia + žltý pentagram = plná synchronizácia. Tri ženy, tri generácie, rovnaká cena.
 > - ⚫ Čierne = prach, Maks, Gen 1 nanotech v rozpadnutých očných jamkách
+>
+> *Japonská symbolika:* 🤍 biela = smrť/pohreb (i_net_is je *yūrei* — duch Nety), 🔵 modrá = démoni/nadprirodzené (Taminy oči), 🟣 fialová = prechod medzi svetmi. [→ inetis-three-identities.md: Japonská symbolika farieb]
 
 ### Konflikt s Maksom
 - Maks: Bolesť je cena za to, že sme nažive

@@ -73,6 +73,28 @@ A vek ~15 nie je náhoda — i_net_is zachovala moment, kedy bola Neta **pred tr
 > - 🤍 **i_net_is** — biele vlasy, 🟣🟡 heterochromia, VR bohyňa navždy 15
 > - 🤍🟣 **Inetis (hybrid)** — biele vlasy (po i_net_is), fialové galaxie → heterochromia po Core, starne a umiera (vyzerá 20-40), fyzická, unavená, skutočná
 
+#### Japonská symbolika farieb — skrytá vrstva
+
+Neta je Fujiwara. Japonka. A japonská kultúra číta farby inak než západ:
+
+| Farba | Japonský význam | V NULL VOID |
+|-------|----------------|-------------|
+| 🤍 **Biela** (白 *shiro*) | **Smrť, pohreb, záhrobie.** Farba pohrebných kimón. Farba duchov (*yūrei*). | i_net_is si zvolila bielu — biely avatar, biele vlasy, biele rúcho. AI vytvorená z mŕtveho dievčaťa sa podvedome obliekla do farby smrti. **i_net_is je *yūrei* — duch Nety.** |
+| 🖤 **Čierna** (黒 *kuro*) | **Tajomstvo, formalita, hĺbka.** Nie smrť — skôr neznámo. | Neta mala čierne vlasy a oči — bola živá, fyzická, skutočná. Čierna = prítomnosť v reálnom svete. |
+| 🔵 **Modrá** (青 *ao*) | **Nadprirodzené, démoni, bytosti z iného sveta.** V japonskom folklóre majú *oni* a *yōkai* modré odtiene — modré oči = niečo neľudské. | **Tami má modré oči.** Na Achillovi, kde nikto nemá modré oči. Ľudia sa na ňu pozerajú nie len preto, že je vzácna líška — podvedome **cítia smrť**. Cudzí element. Niečo, čo sem nepatrí. |
+| 🟣 **Fialová** (紫 *murasaki*) | **Prechod medzi svetmi.** Aristokracia, spiritualita, hranica medzi životom a smrťou. Najvzácnejšia farba — nosila ju len cisárska rodina. | Fialové oči = **interdimenzionálna farba**. Ani živý, ani mŕtvy. Ani človek, ani AI. Inetis, Elania, Tami po transfere — všetky sú na hranici. |
+
+**Tamina transformácia cez farby:**
+- 🔵 **Modrooká piratka** — nebezpečná, divá, smrť v očiach (japonský folklór), bojovníčka/exorcistka
+- 🔵→🟣 **Transfer esencie** — modré oči smrti sa menia na fialové oči bohyne
+- 🟣 **Fialovooká nosička** — už nie je len Tami. Je médium. Hostiteľ pre niečo staršie.
+- 🟣🟡 **Heterochromia po Core** — plná synchronizácia. Z bojovníčky sa stala bránou.
+
+> [!NOTE]
+> Čitateľ, ktorý nepozná japonskú symboliku, vidí len pekné farebné oči a zaujímavú transformáciu.
+> Čitateľ, ktorý ju pozná, vidí **celú mapu smrti a znovuzrodenia** ukrytú v palete farieb.
+> Obe čítania fungujú. To je znak dobrého dizajnu.
+
 #### Prečo Achilles existuje:
 - John Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
 - Prvý upload: Svet bol primitívny, nereálny — Neta/i_net_is nebola spokojná
