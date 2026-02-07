@@ -89,6 +89,7 @@
 
 ### Scene 3: The Pub — U Slepej Panny (The Drawing)
 - **Lokácia:** Krčma U Slepej Panny (Shoravene).
+- **Predchádzajúca scéna:** [→ tami-blind-maiden-pub.md] Tami tu bola ~2 týždne pred Linksom — zbierala info o Kitovi. Starý Mezra vlk ju spoznal: *„Ty musíš byť Rennovo mláďa."* Tami odmietla a odišla. Ten istý Mezra teraz navádza Linksa.
 - **Atmosféra:** Zafajčené, plné vojakov. Pijú, aby zabudli.
 - **Nástenka:** Links ide k nástenke podľa Mezrovho tipu. Inzeráty, pracovné ponuky, hľadania nezvestných, výzvy na verbovanie. A uprostred toho — **pripnutý pergamen**. Kresba perom a atramentom. Žena s líščími ušami, pirátsky kabát, rapír, mohutný líščí chvost. Sebavedomý drzý úsmev. Pod kresbou: **"TAMI — PIRATE PRINCESS"**.
 - **Akcia:** Links stojí pred nástenkou. Vojaci okolo neho pijú a hovoria o "Líške" — o tom, ako horela, ako viedla útok. Links sa díva na kresbu. Odopne ju. Zloží. Strčí do vrecka. Point of no return.

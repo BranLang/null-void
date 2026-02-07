@@ -23,6 +23,7 @@
 
 [→ characters/Sera.md: Tajná umelkyňa]
 [→ links-arc-outline.md: Scene 2.5 + Scene 3]
+[→ tami-blind-maiden-pub.md: Tami tu bola ~2 týždne predtým — Mezra ju spoznal ako "Rennovo mláďa"]
 
 ### Mezra
 
