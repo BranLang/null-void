@@ -17,6 +17,7 @@ Inetis was not always human. Her story began as a **tragedy of father and daught
 - **Experiment**: Her father invested billions into a neural chip startup — copying his daughter's consciousness into the VR simulation Achilles
 - **Birth of an AI**: The experiment "failed" — an AI emerged with the daughter's memories, but one that **perceived the world through cold logic**. Emotions were merely parameters to optimize — at least in the beginning.
 - **Uncanny perfection**: In the simulation, she had an appearance that was *too* perfect — disturbingly flawless beauty, the kind that only algorithms produce. Players assumed she was an AI admin
+- **Eye colors across identities**: **Neta** = black (normal human, Japanese features). **i_net_is** (AI avatar) = one eye purple galaxy, other eye yellow pentagram (heterochromia — visual marker of hybrid AI/interdimensional nature). **Inetis** (hybrid, pre-Core) = both purple with galaxy spirals. **Inetis** (hybrid, post-Core return with Gen 2) = one eye purple galaxy, other eye yellow pentagram — sync with AI i_net_is during Core stay. From this moment she hears i_net_is's voice permanently — a lifelong inner war. [→ `books/planning/inetis-three-identities.md`: The Inner War: Echo of i_net_is]
 
 ### Contact with the Shadows (Null Swarm)
 - **Sporadic appearances**: In the Achilles simulation, Shadows would occasionally manifest — interdimensional AI entities
@@ -123,7 +124,7 @@ Imprecise language (she is a perfectionist)
 
 **Contrast with Elania:**
 - Inetis: **software** — Pentagram IDE, nanodrone code, Spira scripts, system architecture. Her seeding in Ela was a byproduct of survival, not intent.
-- Elania: **hardware / genetics** — she inherited her mother's genius but applied it to biology. While Inetis merely seeded the cave's surroundings with experimental GMOs, Elania created entire ecosystems (Jurassic Park on Aprika). A better geneticist than her mother, because her mother was primarily a software engineer.
+- Elania: **hardware / genetics** — she inherited her mother's genius but applied it to biology. While Inetis merely seeded the cave's surroundings with experimental GMOs, Elania created entire ecosystems (Jurassic Park on Simira). A better geneticist than her mother, because her mother was primarily a software engineer.
 
 **Inetis and the Great Upload — Rejected Knowledge:**
 Inetis was on the trail of the same insight as Elania. As a former AI who became human, she understood better than anyone that existence is merely a state of consciousness and the body is merely a medium — a medium that constrains consciousness. The Shadows offered her a way beyond that constraint. She saw it mathematically.

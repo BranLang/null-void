@@ -6,7 +6,7 @@
 
 ![NULL VOID: Prach Achilla](World-Bible/assets/books/book-1-cover-sleeper.png)
 
-**An anime-dieselpunk grimdark light novel set on a super-Earth where nanotechnology is mistaken for magic, prayers are code, and ghosts are just nanobots that chose to survive.**
+**An anime-dieselpunk grimdark novel set on a super-Earth where nanotechnology is mistaken for magic, prayers are code, and ghosts are just nanobots that chose to survive.**
 
 *Written in Slovak | by Bran Lang*
 
@@ -32,7 +32,7 @@
 |-----------|-----------|--------|
 | **Terra** | The heartland. 80% of the world's population. Steampunk cities, eternal war between North and South, 20 fragmented kingdoms. | What they call "magic" is actually nanotech left behind by their forgotten creator. |
 | **Neuropa** | The forbidden West. Sealed behind impenetrable barriers. No one enters, no one leaves. | Home to the original human colonists who never changed — and technology far beyond Terra's comprehension. |
-| **Aprika** | The white spot on the map. No one knows what's there. Only legends and tavern gossip. | A hidden civilization of genetically engineered apes with hard-light shields and ancient technology. |
+| **Simira** | The white spot on the map. No one knows what's there. Only legends and tavern gossip. | A hidden civilization of genetically engineered apes with hard-light shields and ancient technology. |
 | **Ynetis** | The lost island city at the equator, swallowed by a hurricane of Wraiths. | Contains The Core — an AI prison holding an interdimensional entity. The place where everything began. |
 
 ### Terra — Where the Story Lives
@@ -177,7 +177,7 @@ NULL VOID lives at the intersection of four strands:
 
 | Strand | What It Brings |
 |--------|----------------|
-| **Anime / Light Novel** | Short chapters with hooks, visual character design, tonal shifts between horror and humor |
+| **Anime** | Visual character design, tonal shifts between horror and humor, worldbuilding through action and atmosphere |
 | **Sci-Fi (Hard)** | Clarke's Third Law as plot engine — the entire "magic" system IS nanotechnology |
 | **Dieselpunk** | Hydrogen airships, revolvers, art deco, steam engines — no electronics, no internet |
 | **Grimdark** | Public burnings, body horror, no plot armor — consequences are permanent |
@@ -214,4 +214,4 @@ The irony: the Varietas in the story use a Pentagram IDE to "pray" — they thin
 
 ---
 
-*Language: Slovak (SK) | Genre: Anime Sci-Fi Dieselpunk Grimdark | Format: Light Novel Pentalogy*
+*Language: Slovak (SK) | Genre: Anime Sci-Fi Dieselpunk Grimdark | Format: Novel Pentalogy*

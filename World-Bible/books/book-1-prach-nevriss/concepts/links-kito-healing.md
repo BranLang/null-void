@@ -106,9 +106,11 @@ Celá Linksova cesta je súčasťou **Elaniinho grandiózneho plánu** na prevza
 4.  **Tami (The Matchmaking)**:
     *   Kito je **loremaster** — povie Linksovi všetko o Maksovi a Tami.
     *   Tami je teraz v Shoravene **legendou** — jej krása, inteligencia a hrdinstvo sú známe medzi mužmi.
-    *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them.
+    *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them. Sera vie, že Links nikdy v živote nemal vzťah — 20 rokov v Enkláve medzi knihami a starými Majstrami. Kresba Tami v krčme bola cielený emocionálny hack — nasadila mu chrobáka do hlavy ešte pred tým, než stretol kohokoľvek v meste.
+    *   **Hlbšia vrstva**: Sera a Elania vedia, že Tami je **Rennova dcéra**. Sera má sieť informátorov po celej Terre (exorcisti reportujú jej, plus lokálni agenti). Renna poznala osobne — 150+ rokov v Core Teame. Modré oči + líščia kapitánka z východu + pôvod z Kita = identifikácia. Toto nie je náhodný matchmaking — Sera spája dcéru starého priateľa z Elysia s géniom, ktorého sledovala dva roky.
     *   **Politický cieľ**: Nechať ich vládnuť v Nevriss = politické víťazstvo + začiatok **unifikácie kontinentov** (Links je zo Západu/Ludus, Tami z Juhu).
     *   Links sa zamiluje do legendy ešte predtým, než ju stretne.
+    *   **Tami vie**: Keď sa Tami dozvie, že notebook dostal Links od Sery, okamžite má silné indície na manipuláciu. Sera + notebook + „náhodné" stretnutie = príliš veľa náhod. Ale Tami sa **dobrovoľne nechá zmanipulovať** — Links je pre ňu zaujímavá entita sám o sebe. Exorcista, génius, vyliečil nevyliečiteľnú, má source code Inetis. Tami nehrá Serinu hru — hrá svoju vlastnú, len sa jej trasa náhodou prekrýva so Serinou.
 5.  **Pomsta**: Tami sa pôjde pomstiť Mormiel (Požehnanej Matke).
 6.  **Voľba**: Mormiel si vyberie práve Tami pre rituál (pretože Tami sa dotkla Antény a má v sebe "Esenciu" — kľúčový prvok).
 
@@ -139,14 +141,18 @@ Dúfa, že áno. Ale je to prvý bod, kde začína pochybovať. Preto bude **cel
 - *„Môžem sa pozrieť na jej logy?"*
 
 ### Hacking Spira IDE
-Links strávi hodiny pri Mayi:
+
+[→ links-notebook-first-contact.md: Detailný popis celého procesu vrátane Faradayovej klietky]
+
+Links strávi **niekoľko dní** pri Mayi — nie hodiny, ale dni bez spánku, zavretý v improvizovanej Faradayovej klietke (drevená konštrukcia obalená hliníkovou fóliou), pretože notebook pri zapnutí prebúdza dormantné nanoboty v okolí (priťahuje ich elektrický prúd Spira kryštálu):
 
 1.  **Oprava laptopu**: (Flashback) Keď Links dorazil do Shoravenu, Mako J-Seven mu **v priebehu pár minút** vymenil mŕtvu batériu za žiarivý Spira kryštál. Links bol **šokovaný brilantnosťou** starého majstra — netušil, že J-Seven mal týždne na prípravu a presné plány od Sery. Laptop naskočí s logom NULL VOID.
-2.  **Pripojenie**: Napojí laptop na Mayinho nanobota (cez port alebo bezdrôtovo).
-3.  **Vlastnoručne napísaný compiler**: Prepojí staré API laptopu s novou Spirou.
-4.  **Serina kniha**: Poznámky mu pomáhajú dešifrovať syntax a obísť bezpečnostné protokoly.
-5.  **Logy**: Na obrazovke laptopu vidí to, čo nikto iný — "čistý kód". Vidí, prečo liečba zlyhala (glitch v replikácii).
-6.  **Reboot**: Reštartuje Mayin imunitný systém cez príkazový riadok.
+2.  **Prvý kontakt**: Links otvorí notebook u Kita, pripojí sa na Mayu — ale prebudí stovky dormantných nanobotov v okolí. Teror. Vypne notebook.
+3.  **5-minútové okná**: Pracuje v krátkych intervaloch — zapne, pracuje, vypne keď prídu notifikácie. Nanoboty sa adaptujú, prestane fungovať.
+4.  **Faradayova klietka**: Links a J-Seven postavia drevenú konštrukciu obalenú hliníkovou fóliou. Blokuje signál Spira kryštálu. Links sa zavrie s Mayou do boxu.
+5.  **Dni bez spánku**: Diagnostika, compiler, debugging, Serine haiku poznámky. Kito podáva jedlo cez fóliové závesy.
+6.  **HEUREKA!**: Po dňoch vyjde z boxu — špinavý, zapáchajúci, oči červené — a zaspí na stoličke uprostred vety.
+7.  **Reboot**: Reštartuje Mayin imunitný systém cez príkazový riadok.
 
 ### Výsledok
 - **Ruku nezachránili** — bola príliš poškodená
@@ -186,10 +192,12 @@ Poznámky v knihe haiku nie sú poézia. Sú to:
 - Maya spí — prvýkrát pokojne
 - Links má nové informácie a nový cieľ
 
-### Cieľ: Nevriss
-Links sa vydáva do hlavného mesta.
+### Cieľ: Nevriss City
+Links sedí na pohovke. Vytiahne z vrecka pergamen — kresbu Tami, ktorú si zobral z nástenky v krčme ešte pred tým, než stretol Kita. Pozerá sa na ňu. Kitove príbehy, vojaci v krčme, legenda o Líške — všetko ukazuje jedným smerom: **na juh, do Nevriss City.**
 
-Po stopách jednej neobyčajnej líšky.
+[→ links-notebook-first-contact.md: Scene 7 — Odchod]
+
+Links sadá do vznášadla a letí na juh. Po stopách jednej neobyčajnej líšky.
 
 ---
 

@@ -213,8 +213,8 @@ NULL VOID was not a conventional ship of metal and plastics. It was **100% built
 - **The Glitched Antenna**: The only part of the ship that remained in its original state was the **communications Antenna** -- it glitched and refused reconfiguration. Inetis could neither disassemble nor repurpose it
 - **Maks's cryo-box**: Only one cryo-box remained in the cave -- Maks's -- in a minimal configuration. It was a nanodrone module that kept Maks in cryosleep for ~3,000 years. After Maks's awakening, the cryo-box **crumbled to dust** (the nanodrone construction spontaneously disassembled). The Antenna thus remained the **sole physical remnant** of the ship NULL VOID
 - **Reconfiguration back into a ship**: After ~3 years in the cave, Inetis reconfigured the nanodrones back into the ship NULL VOID and set off with young Elania on a journey around the planet -- searching for a better location for future colonists. They found the islands of **Elysium** (future Ynetis)
-- **Foundry**: On Elysium, Inetis reconfigured the NULL VOID ship (v1.5 gen nanodrones) into the **Foundry** -- a factory that produced **lower-tier nanodrones (v1.0)**. From these v1.0 nanodrones, the entire city of Elysium/Ynetis grew -- buildings, infrastructure, life support systems
-- **Foundry -> The Core**: When the **Glitch Rot** epidemic broke out (~AY 300-500), Inetis reconfigured the Foundry into **The Core** -- a new simulation in which she developed safer v2.0 nanobots (Spira/Gift of the Mother). The Core was a smaller simulation than the original Achilles on Earth, but sufficient for ~100 simulated years of development
+- **Foundry (Von Neumann Machine)**: On Elysium, Inetis reconfigured the NULL VOID ship (v1.5 gen nanodrones) into the **Foundry** -- a von Neumann machine where nanobots produced new **lower-tier nanodrones (v1.0)**. These v1.0 nanobots were **empty machines without consciousness** -- no intelligence, no motivation, no essence. But after merging with a human, they absorbed their consciousness and formed a **symbiotic organism** (Gen 1). From these v1.0 nanodrones, the entire city of Elysium/Ynetis grew -- buildings, infrastructure, life support systems
+- **Foundry -> The Core**: When the **Glitch Rot** epidemic broke out (~AY 300-500), Inetis disassembled the Foundry and created **The Core** -- a new simulation. The Core was not just a computing device -- it was an **interworld, a gateway between dimensions**. It connected to subspace/upspace where i_net_is still existed. Inetis met her "other self" in the Core -- i_net_is -- after thousands of subjective years of separation (time in subspace flows 10-20x faster). i_net_is offered help with Gen 2 development but demanded more compute -- **human uploads** -- more intelligence. Inetis sensed something was wrong and refused. The Core lacked Earth's computing power and millions of users, so Gen 2 nanotech development took decades of real time (~100 simulated years of development)
 
 #### Chain of NULL VOID Transformations
 ```
@@ -222,8 +222,8 @@ NULL VOID (ship, v1.5)
   -> Cave machinery (excavation, hydroponics, ~3 years)
   |   [left in cave: Maks's cryo-box (minimal config) + Antenna (glitched)]
     -> NULL VOID (ship, voyage to Elysium)
-      -> FOUNDRY (factory, producing v1.0 nanodrones -> city construction)
-        -> THE CORE (simulation, developing v2.0 / Gift of the Mother)
+      -> FOUNDRY (von Neumann machine, producing v1.0 nanodrones -> city construction)
+        -> THE CORE (interworld/simulation, subspace connection, developing v2.0 / Gift of the Mother)
 
   After Maks's awakening (~AY 3000): cryo-box -> dust
   Sole physical remnant: ANTENNA
@@ -283,6 +283,25 @@ An ancient laboratory and bunker complex from the era of Ynetis colonization.
 
 ### Level: Analog 20th Century
 The world's technological level holds steady at an **early 20th century standard (circa 1900-1940)**, but strictly without electronics and without coal.
+
+### Why No Electricity — The Wraith Taboo
+
+**Electricity attracts Wraiths.** This is not superstition — it is a millennia-old empirical experience. Wherever a source of electromagnetic field appeared (dynamos, batteries, radios, electric motors), "unexplainable things" started happening — Exorcists had to intervene. The result: electricity became **taboo**.
+
+[→ links-notebook-first-contact.md: Links discovers this empirically]
+
+**Why?** Dormant nanobots (remnants from the Foundry era, trillions of v1.0 scattered across the entire planet — in soil, walls, water, dust) react to electromagnetic fields. They are drawn to the source. Degraded nanobots (bit rot) are even worse — they are essentially **Wraiths in a dormant state**, and EM signals wake them up.
+
+**What is safe:**
+- **Spira** — operates on a photonic basis (light, not electricity). No EM field → nanobots ignore it → safe.
+- **Micro-currents and static electricity** — attract Wraith curiosity, but as long as it's not technology (lightning, friction), they ignore it.
+- **Mechanics, hydraulics, pneumatics** — no EM field → safe. This is why the Maki developed analog mastery.
+
+**What is dangerous:**
+- Batteries, dynamos, electric motors, radios — anything that generates a stable EM field.
+- **Electronics powered by Spira** — a Spira crystal powering processors/circuits → those generate an EM field → same effect as electricity. This is why Inetis's notebook attracts nanobots — the Spira crystal powers electronics, not photonics.
+
+**Folklore:** On Terra there is a saying: *"Where the wire glows, death awakens."* Children are taught that electricity is "living fire" — dangerous not because it burns, but because it **summons ghosts**. Exorcists know the truth, but don't say it aloud — it's simpler to maintain the taboo.
 
 #### Energy System
 

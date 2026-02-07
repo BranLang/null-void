@@ -113,7 +113,7 @@
 - **Lojálna** - sľub Inetis drží dodnes (chrániť Elaniu)
 - **Bez ambícií** - nechce vládnuť, nechce moc — chce len slúžiť niekomu zaujímavému
 - **Čistá hlava** - vie kto je, čo robí, a prečo. Žiadne ilúzie o sebe.
-- **Tsundere** - navonok hra ľadovej bohyne, „Anjel Smrti", nedotknuteľná. V súkromí? Kreslí **ecchi obrázky**. Skicár plný kreseb, o ktorých by sa Makovia modlili, keby vedeli. Nikto to nevie — okrem Elanie, ktorá sa z toho zabáva. (Links neskôr získa jeden z týchto obrázkov — kresbu Tami — a bude to pre neho point of no return.)
+- **Tsundere** - navonok hra ľadovej bohyne, „Anjel Smrti", nedotknuteľná. V súkromí? Kreslí **ecchi obrázky**. Skicár plný kreseb, o ktorých by sa Makovia modlili, keby vedeli. Nikto to nevie — okrem Elanie, ktorá sa z toho zabáva. Jednu kresbu Tami ("Pirate Princess" — pero a atrament na pergamene) nechá nastražnú na nástenke v krčme v Shoravene, medzi inzerátmi a pracovnými ponukami, presne v deň pred príchodom Linksa. Links si ju odopne a zoberie. Point of no return.
 
 **Similar to Mormiel:**
 - Veteránka tisícročí
@@ -323,7 +323,7 @@
 - **Praktizuje vampirizmus** (nie zo zla, z nutnosti - udržiava Gen 1+2 nanoboty)
 - **Geneticky upravená** - ARK program enhancement (výška, sila, reflexy)
 - **Uncanny valley effect** - vyzerá príliš dokonale, nie prirodzene
-- **Tajná umelkyňa** - v súkromí kreslí ecchi obrázky (tsundere gap moe). Elania vie a baví sa na tom. Jeden z obrázkov (kresba Tami) sa neskôr dostane k Linksovi cez Seru v Shorehaven — a stane sa pre neho posadnutosťou
+- **Tajná umelkyňa** - v súkromí kreslí ecchi obrázky (tsundere gap moe). Elania vie a baví sa na tom. Jednu kresbu Tami ("Pirate Princess") nechá nastražnú na nástenke v krčme v Shoravene, medzi inzerátmi — Links si ju odopne a zoberie. Stane sa pre neho posadnutosťou. [→ links-notebook-first-contact.md]
 - **Zrkadlenie Heleny** — Sera je pre Elaniu tým, čím bola Helena pre Inetis: umelkyňa, emocionálna kotva, ženská spoločníčka. Aká matka, taká dcéra — obe preferujú ženskú spoločnosť a obe si vybrali umelkyňu (Helena maľovala, Sera kreslí). A obe o ňu prídu kvôli rozhodnutiu otca.
 
 ---
@@ -331,16 +331,23 @@
 ## Story Role (Book 1: Prach Nevriss)
 
 **Function:**
-- **Catalyst** - prináša informácie o Elanii, Paladínoch, južnom kontinente
-- **Mystery** - Tami/Maks sa musia pýtať: "Kto je Elania? Prečo hľadá Maksa?"
-- **Ally (tentative)** - nie nepriateľ, ale ani nie plne dôveryhodná
-- **Setup for Book 4** - Sera = bridge medzi Maks a Elania (otec-dcéra reunion)
+- **Catalyst** — prináša informácie o Elanii, Paladínoch, južnom kontinente
+- **Mystery** — Tami/Maks sa musia pýtať: "Kto je Elania? Prečo hľadá Maksa?"
+- **Ally (tentative)** — nie nepriateľ, ale ani nie plne dôveryhodná
+- **Nosička proroctva** — Sera hovorí proroctvo "Tri veže prejdeš" a pozerá sa na **Tami**, nie na Maksa. Celý svet (vrátane čitateľa) predpokladá, že proroctvo je pre Maksa. Nie je.
+
+**Proroctvo patrí Tami:**
+- Sera vidí Rennove modré oči v Tami — vie, že je dcéra Niktoriho
+- Artefakt/Esenciu dáva Tami, nie Maksovi — Tami je nosička
+- Maks je prostriedok (dostať tím do Shoravenu). Tami je cieľ.
+- **Tri veže = Tamin arc:** Sklená Veža (Book 2-3), Veža Stratených (Book 4), Ynetis/Core (Book 5)
+- **"Pravda patrí El"** — Tami donesie pravdu Elanii. Dcéra Renna stretne dcéru Inetis.
 
 **Key Scenes (Book 1):**
-1. **Encounter s Tami** - spoznávačka, nie fight
-2. **Reveal o Elanii** - "niekto, kto má jeho krv"
-3. **Departure** - odchádza s mysterióznym odkazom
-4. **Possible return** - keď Maks stretne Paladínov znova?
+1. **Encounter s Tami** — spoznávačka, nie fight. Sera uvidí modré oči.
+2. **Esencia transfer** — Sera odomkne Artefakt a podá ho Tami (NIE Maksovi)
+3. **Proroctvo** — pohľad na Tami, nie na Maksa. Tami to cíti.
+4. **Departure** — odchádza. Maks frustrovaný. Tami zmatená — prečo sa na ňu pozerala?
 
 ---
 

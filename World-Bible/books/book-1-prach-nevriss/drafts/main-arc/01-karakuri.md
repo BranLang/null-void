@@ -4,13 +4,13 @@
 
 ---
 
-Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. Jej štvrtá zima. Najhoršia fáza — keď mrazy prestanú kolísať a zahryzú sa do krajiny natrvalo. Maks tomu hovoril „tretí rok". Pozemské slovo. Ale presné. Stred zimy. A ešte dva pred nimi. Celé mesto dýchalo mrazom a hrdzavou parou ako obrovský, umierajúci stroj.
+Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a pálil v pľúcach — mráz zmiešaný s etanolovým smogom a sírnymi výparmi z geotermálnych prameňov, ktoré vyhrievali prístav. [→ 05-geography.md: Šoraven, geotermálne pramene] Jej štvrtá zima. Najhoršia fáza — keď mrazy prestanú kolísať a zahryzú sa do krajiny natrvalo. Maks tomu hovoril „tretí rok". Pozemské slovo. Ale presné. Stred zimy. A ešte dva pred nimi. [→ characters/Maks.md: pozemský pôvod] Celé mesto dýchalo mrazom a hrdzavou parou ako obrovský, umierajúci stroj.
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou — oranžové body plynových lamiel a olejových kahancov rozkvitnuté v snehovej tme. V noci bolo Šoraven krásne. Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a ľudí, čo si pred každým výdychom priložili šatku k tvári.
 
-Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. Ich hlasy zosilňovali obrovské mosadzné zvony. *„Spira Matky prúdi v nás. Spira Matky nás ochráni."* Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Šoraven bolo už týždeň v obkľúčení.
+Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. [→ 06-society.md: Kult Matky, kňažky] Ich hlasy zosilňovali obrovské mosadzné zvony. *„Spira Matky prúdi v nás. Spira Matky nás ochráni."* [→ 03-technology.md: Spira = nanotech ekosystém] Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Šoraven bolo už týždeň v obkľúčení.
 
-Grawská armáda obsadila priesmyky Atra a ťažké delostrelectvo začalo "mäkčiť" predmestia. Obloha na severe bola šedá od dymu horiacich dedín. Blokáda prístavu nebola ešte úplná — Grawskí admiráli čakali na hlavnú flotilu — ale zvedy už krúžili nad zálivom ako supy.
+Grawská armáda obsadila priesmyky Atra a ťažké delostrelectvo začalo "mäkčiť" predmestia. [→ concepts/battle-logistics.md: obliehanie Šoraven] Obloha na severe bola šedá od dymu horiacich dedín. Blokáda prístavu nebola ešte úplná — Grawskí admiráli čakali na hlavnú flotilu — ale zvedy už krúžili nad zálivom ako supy. [→ 06-society.md: Graw vs Nevriss konflikt]
 
 Mesto to vedelo. A mesto sa pripravovalo na posledný úder.
 
@@ -20,17 +20,17 @@ Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žer
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto mrazivom pekle.
 
-Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Spira.* Stará kňažka požehnávala každú zbraň dotykom Spiry — posvätnej sily, o ktorej verila, že je dych Matky.
+Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou [→ 03-technology.md: Mezra = stredná kasta, čiastočná Spira] — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Spira.* Stará kňažka požehnávala každú zbraň dotykom Spiry — posvätnej sily, o ktorej verila, že je dych Matky. [→ 03-technology.md: Spira = nanotechnológia, nie mágia]
 
 Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Spira je s vami!"*
 
 A medzi tým všetkým — žoldnieri. Tami ich spoznala na prvý pohľad. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina s guľometmi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
 
-Niektorí z nich mali okolo zápästí mystické tetovanie — Wa-Spira, dôkaz bojových schopností Spiry. Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Spira bola v čase vojny mena drahšia než zlato.
+Niektorí z nich mali okolo zápästí mystické tetovanie — Wa-Spira, dôkaz bojových schopností Spiry. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Spira bola v čase vojny mena drahšia než zlato.
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
-Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
+Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-technology.md: Makita, dieselpunk technológia] Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. [→ concepts/battle-logistics.md: Graw vzdušné sily] Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
@@ -44,9 +44,9 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 *Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by ešte žili.
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
 
-A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky.
+A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
 
 Tami bola v tom čase na východe. Dopočula o tom až o tri týždne. Do prístavu sa vrátila príliš neskoro — zostal len prach a popol na námestí a meno „Ynetis" šepkané v krčmách ako kliatba.
 
@@ -80,7 +80,7 @@ Potlačila nutkanie sa nahlas zasmiať. „Šo" v jazyku Líščieho národa zna
 
 „S kým mám tú česť? Odkiaľ vedie vaša cesta a aký je dôvod vašej návštevy?" vyzvedal dostojník autoritatívnym tónom.
 
-Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy.
+Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy. [→ characters/Tami.md: vzťah Tami-Maks, 7 rokov spolu + 5 odlúčenia]
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
@@ -90,17 +90,17 @@ Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná.
 
 Tami videla, ako dostojníkovi stuhli uši. Vojaci za ním sa nepokojne pošili. Jeden z vojakov — ten obrovský medveď s bubienkom — sa podvedome posunul o krok bližšie k dôstojníkovi. Ochranný reflex.
 
-*Exorcista.* V Nevriss to slovo nieslo váhu. Heretici a strašidlá — muži, čo údajne kradli deti a jedli Duchov. Cirkev ich tolerovala, sotva. Prostý ľud sa ich bál.
+*Exorcista.* V Nevriss to slovo nieslo váhu. Heretici a strašidlá — muži, čo údajne kradli deti a jedli Duchov. Cirkev ich tolerovala, sotva. Prostý ľud sa ich bál. [→ 06-society.md: Exorcisti, status v spoločnosti] [→ 03-technology.md: Duchovia = Wraithy = nanoboty s pudom sebazáchovy]
 
 A tu jeden stál na palube ich doku, s rukami za chrbtom, ako keby mu to mesto patrilo.
 
 Dostojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára. „Exorcista," zopakoval a to slovo znelo z jeho úst, akoby žuval niečo kyslé. „V Nevriss nemáme vo zvyku vítať *vašich*. Exorcisti patria do hôr, nie do našich prístavov." Ruky sa mu nepatrne posunuli bližšie k šabli na opasku. „Aký je dôvod vašej prítomnosti? A hovorte rýchlo — nemám čas na hádanky."
 
-*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.*
+*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.* [→ characters/Maks.md: pozemský pôvod, Staroreč = angličtina/ukrajinčina] [→ concepts/maks-ukraine-origin.md]
 
 Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
 
-„Artefakt," povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
+„Artefakt," povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." [→ concepts/antenna-essence-transfer.md: Anténa v kobkách Chrámu] Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
 
 Klamstvo bolo elegantné. Vložil do toho zrnko pravdy — artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
 
@@ -120,7 +120,7 @@ Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
 *V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
 
-Zdvihla handru k tvári a jedným pohybom stiahla šatku. Gaštanové vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — tyrkysovo-modré, ostré ako úlomky ľadu.
+Zdvihla handru k tvári a jedným pohybom stiahla šatku. Gaštanové vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — tyrkysovo-modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
 
 Olejové fľaky na líci ju nerobili menej krásnou. Skôr naopak.
 
@@ -130,11 +130,11 @@ Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší vedľa 
 
 Líščie uši. Gaštanové, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
 
-Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom.
+Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plná Spira] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
 
 A tá tvár. Mladá, ostrá, s tým šibalským polomsievom, ktorý hovoril: *Viem, čo robím s tvojou hlavou.*
 
-V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny o Spiru a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
+V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny o Spiru a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
 
 *Niet divu, že tak zízajú. Pre nich sme cirkusové číslo.*
 
@@ -182,11 +182,11 @@ Vnútorný mechanizmus bol rozbitý na kusy. Nie len prasknutý kryt — *doska 
 
 *Takmer.*
 
-Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technológmi na kontinente. Ak v Šoraven existoval jediný mechanik schopný takej presnosti, bol to jeden z nich.
+Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technológmi na kontinente. [→ 03-technology.md: Maki = Gen 2 androidy, Karakuri séria] Ak v Šoraven existoval jediný mechanik schopný takej presnosti, bol to jeden z nich.
 
 Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss nepotrebovala zbytočnú pozornosť. Nie dnes.
 
-Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maksov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí.
+Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maksov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí. [→ characters/Tami.md: vojenský výcvik od Maksa]
 
 *Jeho hlas, pokojný, trpezlivý, nekonečne trpezlivý. „Nie zápästím. Celým ramenom. Cíť váhu. Pištoľ je predĺženie tvojej vôle."*
 
@@ -196,23 +196,29 @@ Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky ako miniaturní duchovia.
 
-Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Spiry. Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili Spiru. Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky.
+Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Spiry. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili Spiru. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
+Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matky, propaganda] Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi pentagramami [→ 03-technology.md: pentagram = IDE interface pre Spiru] — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBETU! SPIRA JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!"*
+
+Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho so Spirou.
+
+Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou Ghorki — najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
+
 ---
 
-Prístav prechádzal do Dolného mesta plynulo — žiadna brána, len postupný prechod z dokov na dláždenú ulicu. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry prvého veku* — stáli vedľa drevených prístavkov a hrdzavých plechových prístreškov.
+Prístav prechádzal do Dolného mesta plynulo — žiadna brána, len postupný prechod z dokov na dláždenú ulicu. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry prvého veku* [→ 01-timeline.md: Éra prvého veku, pôvodná civilizácia] — stáli vedľa drevených prístavkov a hrdzavých plechových prístreškov.
 
-Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Spira kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu.
+Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Spira kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu. [→ 03-technology.md: Spira kryštály, koncentrovaná esencia]
 
-*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.*
+*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.* [→ 03-technology.md: Makita, Spira pohon vs biodiesel]
 
-Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Kováč predvádzal skupinke detí ukážku Spiry. Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedno malé dievčatko s mačacími ušami natiahlo ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Spiru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
+Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Kováč predvádzal skupinke detí ukážku Spiry. [→ 03-technology.md: Spira aplikácie, Mezra kasta] Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedno malé dievčatko s mačacími ušami natiahlo ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Spiru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
 
 *Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Spiry a umierajú bez nej.*
 
-Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní, ale bez Spiry. A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
+Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní, ale bez Spiry. [→ 03-technology.md: kastový systém, nanotech stratifikácia] A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
 
 Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
@@ -224,9 +230,9 @@ Pravidelné, presné údery kladiva na kov. Nie hrubé dunenie miestnych kováč
 
 *Mako.*
 
-Tami zastala pred dverami. Nad nimi visela starobylá biela vlajka s červeným plným kruhom uprostred.
+Tami zastala pred dverami. Nad nimi visela starobylá biela vlajka s červeným plným kruhom uprostred. [→ 03-technology.md: Maki, japonská kultúrna DNA]
 
-*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."*
+*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."* [→ characters/Felix.md: Tamin mentor, Gen 2 android]
 
 Zložila si letecké okuliare z čela a zavesila ich na krk. Rozopla ťažký kabát a zložila ho na úhľadnú kôpku vedľa vchodu do *genkanu*, hoci to znamenalo odhaliť zbrane na opasku. Pištole boli súčasťou jej duše, tie neodloží, ale prach ulice áno.
 
@@ -234,14 +240,14 @@ Jemne pootvorila dvere. „*Gomen kudasai!*" zvolala do ticha, hlasom pevným, n
 
 Vyzula si ťažké vojenské čižmy, položila ich k stene a otočila špičkami smerom von. Až potom, v hrubých vlnených ponožkách, prekročila prah do samotnej dielne. „*Shitsurei shimasu.*"
 
-Priestor bol prekvapivo, až neprirodzene čistý. Žiadny typický chaos kováčskej dielne, žiadny popol na podlahe. Nástroje viseli na stenách v geometricky dokonalom poriadku. Čo však udrelo do očí, boli steny samotné. Boli popísané hiraganou — stovky riadkov drobného, precízneho písma.
+Priestor bol prekvapivo, až neprirodzene čistý. Žiadny typický chaos kováčskej dielne, žiadny popol na podlahe. Nástroje viseli na stenách v geometricky dokonalom poriadku. Čo však udrelo do očí, boli steny samotné. Boli popísané hiraganou — stovky riadkov drobného, precízneho písma. [→ 03-technology.md: Písmo Matky = japonské písmo, pôvodný programovací jazyk]
 
-Pre bežného smrteľníka v Nevriss to bolo *Písmo Matky*. Posvätné znaky, ktorými Vševedúca prepísala realitu. Tami však vedela lepšie. Felix ju naučil čítať podstatu. Pre neho a jeho bratov to nebola modlitba, ale *logika*.
+Pre bežného smrteľníka v Nevriss to bolo *Písmo Matky*. Posvätné znaky, ktorými Vševedúca prepísala realitu. Tami však vedela lepšie. Felix ju naučil čítať podstatu. Pre neho a jeho bratov to nebola modlitba, ale *logika*. [→ 03-technology.md: modlitby = voice-activated skripty]
 
 A to, čo bolo na stenách, boli Haiku. Nekonečné stĺpce poézie o tichu, oceli a strate, ktorou si tento *Karakuri* krátil tisícročnú samotu.
 Vzduch voňal inak. Nie kvasiacou kukuricou a sírou, ale čistým olejom a ozónom. Na pracovnom stole ležali rozložené súčiastky hodinového stroja so symetriou, ktorá bolela oči.
 
-Za vyhňou stála postava pripomínajúca muža stredného veku. Čierne vlasy, zvláštne čierne oči, vyblednutá tvár, kožená zástera. Nič výnimočné. Až na tú absolútnu nehybnosť, keď nepracoval, a tie oči. Oči Makov boli vždy *príliš pokojné*.
+Za vyhňou stála postava pripomínajúca muža stredného veku. Čierne vlasy, zvláštne čierne oči, vyblednutá tvár, kožená zástera. Nič výnimočné. Až na tú absolútnu nehybnosť, keď nepracoval, a tie oči. Oči Makov boli vždy *príliš pokojné*. [→ 03-technology.md: Mako = Karakuri séria, Gen 2 android, tisícročné bytosti]
 
 Tami zostala stáť. Ruky vystrela pozdĺž tela, prsty spojené, presne ako ju to učil Felix. *„Ako bojovník, Tami. Nie ako služobná,"* prízvukoval jej vždy. *„Ruky pri tele. Ukáž, že sa nebojíš, ale že preukazuješ úctu."*
 
@@ -277,7 +283,7 @@ Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaž
 
 „Nový prototyp?"
 
-„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Makita*."
+„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Makita*." [→ 03-technology.md: Makita, Hephaestus] [→ 05-geography.md: Kitsune, ostrovná krajina]
 
 Pri tom slove Mako stuhol. Ak bolo možné, aby sa socha stala ešte nehybnejšou, stalo sa to práve teraz. Hľadel na ňu, akoby sa pred ním zjavil duch jeho vlastnej minulosti. Potom sa hlboko, takmer až po pás, uklonil smerom k dverám, kde tušil loď.
 
@@ -297,11 +303,11 @@ Tami mu do nej vložila malé vrecko mincí. „Záloha. Pošlem niekoho z posá
 
 Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — hrubý nákres Chrámu Vševedúcej Matky, kreslený z pamäte podľa máp, ktoré kúpila pred dvoma rokmi.
 
-„Ešte niečo. Pozná niekto v meste pôvodné plány ventilácie? Z čias pred prestavbou."
+„Ešte niečo. Pozná niekto v meste pôvodné plány ventilácie? Z čias pred prestavbou." [→ planning/01-prach-nevriss.md: heist plán, ventilácia Chrámu]
 
 Makove kovové prsty na sekundu stuhli. Pozrel na nákres. Potom vzal tenký štetec, namočil ho do atramentu a na kúsok papiera napísal jedno slovo.
 
-*Ciferník.*
+*Ciferník.* [→ notes/CHAPTER-NOTES.md: Ciferník, postava v Ch2]
 
 A pod ním adresu. Ulica Mŕtvych zvonov, číslo 42.
 
@@ -319,7 +325,7 @@ Keď vyšla na ulicu, slnko sa predieralo cez sivé oblaky a sneh na strechách 
 
 Prešla okolo skupiny žoldnierov, ktorí si pred krčmou čistili zbrane. Jeden z nich — obrovský chlap s jazvou cez celú tvár — ju sledoval pohľadom. Tami ho ignorovala. Nebezpečnejší boli tí, čo sa nepozerali.
 
-Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vševedúcej Matky, ležal on. **Artefakt**. Vec, ktorá by nemala existovať.
+Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vševedúcej Matky, ležal on. **Artefakt**. Vec, ktorá by nemala existovať. [→ concepts/antenna-essence-transfer.md: Anténa, hlavný McGuffin Book 1]
 
 *Šesť kilometrov*, pomyslela si. *Šesť kilometrov, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vziať to a zmiznúť skôr, než nás chytia, zabiť pri tom čo najmenej ľudí.*
 
@@ -332,12 +338,13 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 ***
 
 ## Outro: Tieň v Dielni
+[→ concepts/elania-sera-shadow-plot-narrator.md: Sera ako tieňový antagonista, sleduje Tami od Ch1]
 
 Zvonček nad dverami cinkol. Jemne, takmer nebadane, keď sa dvere za Tami zavreli.
 
 Ticho, ktoré ostalo v zaprášenej dielni v Šoravene, bolo ťažké. Voňalo po čaji, starom papieri a... *strachu*.
 
-Majster sedel nehybne za nízkym stolom. Jeho optické senzory – staré, ale dokonale vyleštené – sledovali dvere, hoci Tami už bola dávno preč. Vedel to. Jeho procesory to vypočítali ešte predtým, než sa kľučka pohla.
+Majster sedel nehybne za nízkym stolom. Jeho optické senzory – staré, ale dokonale vyleštené – sledovali dvere, hoci Tami už bola dávno preč. [→ 03-technology.md: Gen 2 senzory, android fyziológia] Vedel to. Jeho procesory to vypočítali ešte predtým, než sa kľučka pohla.
 
 Nebol v miestnosti sám.
 
@@ -349,13 +356,13 @@ Z tmavého kúta, kde ešte pred milisekundou viseli len staré zvitky a prach, 
 
 Majster sa neotočil prudko. To by bolo neefektívne a nezdvorilé. Jeho pohyb bol plynulý, ako voda v potoku. Vstal a hlboko sa uklonil. Čelom sa takmer dotkol tatami rohože, ktorú si v tejto betónovej kobke udržiaval.
 
-„Sera-sama," povedal. Jeho hlas bol melodický, archaická japončina z čias pred Pádom. „Je to česť. A prekvapenie."
+„Sera-sama," povedal. Jeho hlas bol melodický, archaická japončina z čias pred Pádom. „Je to česť. A prekvapenie." [→ characters/Sera.md: Sera, Gen 1 android, najstarší aktívny systém]
 
 „Vstaň, Karakuri-sama," povedala. Hlas mala ako ľad praskajúci na jazere.
 
 Podišla k stolu, kde Tami pred chvíľou sedela a pila čaj. Prstom v čiernej rukavici prešla po keramickej šálke. Zdvihla ju a privoňala.
 
-„Je to dieťa, Sera-sama," odpovedal Majster, stále s hlavou mierne sklonenou. „*Mayoigo*. Stratená duša."
+„Je to dieťa, Sera-sama," odpovedal Majster, stále s hlavou mierne sklonenou. „*Mayoigo*. Stratená duša." [NOTE: Mako vie, kto je Tami — ale nechce povedať Sere]
 
 Sera sa naňho pozrela. V tom pohľade nebola hrozba. Bolo tam niečo horšie. Absolútna istota.
 
@@ -389,4 +396,4 @@ Majster stál v tichu dielne. Jeho vnútorné logy bežali šialenou rýchlosťo
 
 Pomaly, veľmi pomaly, sa otočil späť k svojmu čaju. Jeho kovové prsty, pokryté tisícročnou patinou, sa jemne zachveli.
 
-„*Kowai*," zašepkal do ticha. *Desivá.*
+„*Kowai*," zašepkal do ticha. *Desivá.* [→ characters/Sera.md: „Kowai" = jej signature, kawaii hlas + desivý obsah] [→ 12-genre-positioning.md: anime tónový shift]

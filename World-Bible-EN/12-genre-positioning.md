@@ -6,22 +6,34 @@
 
 ## 1. What It Is
 
-**Anime Sci-Fi Dieselpunk Grimdark Light Novel**
+**Anime Sci-Fi Dieselpunk Grimdark Novel**
 
 It's not one genre with flavoring from another. It's a **DNA helix** — four strands twisted into a single organism:
 
 | Strand | What It Brings | Example in NULL VOID |
 |--------|------------|---------------------|
-| **Anime / Light Novel** | Format, pacing, archetypes, tonal shifts, visual character design | Short chapters with hooks. Tami = tsundere pirate. Sera = kawaii voice in a killer's body. "Kowai." |
+| **Anime** | Archetypes, tonal shifts, visual character design, worldbuilding through action | Tami = tsundere pirate. Sera = kawaii voice in a killer's body. "Kowai." Goat-horned agitator with a pentagram necklace = black metal vibe. |
 | **Sci-Fi (Hard)** | Rules, limits, logic, Clarke's Law as plot engine | Pentagram = IDE. Prayers = voice-activated scripts. Wraiths = nanobots with self-preservation instinct. |
 | **Dieselpunk** | Aesthetic, technological level, atmosphere | Hydrogen airships, revolvers, art deco, no electronics. Pipes, gears, steam. |
 | **Grimdark** | Consequences, moral complexity, no plot armor | Public burnings. Body horror (Maya → crystal). Caste system. Death is permanent. |
 
+### Format: Authorial, Not Conventional
+
+NULL VOID **is not a light novel**. It has no format constraints of traditional light novels. It's an **authorial series** that takes archetypes and aesthetics from anime, but writes by its own rules:
+
+- **Chapters are as long as they need to be** — if a scene needs space, it gets it
+- **Atmospheric "fat" stays** — a goat-horned agitator preaching about false gods isn't filler, it's worldbuilding. A black humanoid goat with a pentagram on his neck = a visual that defines the tone of the world.
+- **Trimming fat** = removing redundant exposition and over-explanation, **NOT** atmosphere, worldbuilding and visuals that build the world
+- **Genre conventions are inspiration, not boundaries** — if a scene works, it stays, regardless of format
+
+#### Why strong atmosphere is not "fat":
+Light novel style is, in the author's view, too simple for this project. NULL VOID is a world that lives through details — recruitment posters with pentagrams, a fanatic preacher on the street corner, a blacksmith showing fire-mice to children. These things are not trimmable. **They're the reason the reader believes the world exists.** If a scene builds atmosphere, a sense of place and the tone of the world, it's meat, not fat. Trim redundancy, not worldbuilding.
+
 ### Why This Combination Doesn't Exist
 
-Anime and grimdark don't typically mix — anime resets consequences (power-up solves everything), grimdark lacks levity. Dieselpunk is a rare genre in itself. And hard sci-fi beneath a fantasy surface is rarer still — few do it well (Wolfe, Vance, Banks — none of them wrote light novels).
+Anime and grimdark don't typically mix — anime resets consequences (power-up solves everything), grimdark lacks levity. Dieselpunk is a rare genre in itself. And hard sci-fi beneath a fantasy surface is rarer still — few do it well (Wolfe, Vance, Banks).
 
-NULL VOID is the answer to the question: "What if Nausicaä had Fullmetal's lore, Tanya's brutality, and the format of a light novel?"
+NULL VOID is the answer to the question: "What if Nausicaä had Fullmetal's lore, Tanya's brutality, and its own voice?"
 
 ---
 

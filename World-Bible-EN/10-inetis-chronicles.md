@@ -7,7 +7,7 @@
 
 ## First Contact with the World (The Descent)
 
-Inetis spent a long period isolated inside **The Core** — a simulation she created by reconfiguring the **Foundry** (a factory producing v1.0 nanodrones, originally the ship NULL VOID). It wasn't an escape — it was a desperate attempt to find a cure for **Glitch Rot**, which had begun devouring the city — specifically, the same v1.0 nanobots the Foundry manufactured and from which all of Elysium was built. She risked everything — sealed herself inside the simulation, hoping to save her daughter and her people.
+Inetis spent a long period isolated inside **The Core** — an interworld simulation she created by disassembling the **Foundry** (a von Neumann machine producing v1.0 nanodrones, originally the ship NULL VOID). The Core was not just a computing device — it was a **gateway between dimensions**, a connection to subspace/upspace where i_net_is (Inetis's original AI consciousness) still existed. Inetis met her "other self" here after thousands of subjective years — i_net_is offered help with finding a cure, but demanded more compute (human uploads). Inetis refused — she sensed something was wrong. Instead she worked alone, in a desperate attempt to find a cure for **Glitch Rot**, which had begun devouring the city — specifically, the same v1.0 nanobots the Foundry manufactured and from which all of Elysium was built. The Core lacked the computing power of Earth's datacenters, so development took decades of real time.
 
 When she finally found the solution (the Gen 2 prototype / Spira / Gift of the Mother) and emerged, it was too late.
 
@@ -97,7 +97,7 @@ The Ex Inferis ignored her, convinced they could break through the narrows by br
 
 **Consequences (The Triumvirate Shatters):**
 1.  **Grond (North):** Retreated beyond the Hangravall mountains. Betrayed and enraged, he began building a new army (Graw), swearing vengeance.
-2.  **Zaiya/Ishtar (South):** Lost everything (her legion). In shame, she withdrew to the Southern continent (**Aprika**), where she later built her isolated Glass City.
+2.  **Zaiya/Ishtar (South):** Lost everything (her legion). In shame, she withdrew to the Southern continent (**Simira**), where she later built her isolated Glass City.
 3.  **Samaell (The Wanderer):** Sank into depression and madness. He cast off leadership and became a wanderer and killer, addicted to stealing "blood" (techno-vampirism).
 4.  **Elania:** Her legion never entered the battle. When she saw the Mother, she wept, but her shame was too great to face her. She withdrew to her **Tower of the Damned** on an isolated island west of the mainland.
     - **Jurassic Park:** For a time, she tried to make amends — in southern Neuropa she began terraforming and created adapted organisms in the desert (lizards, insects).
@@ -167,7 +167,7 @@ Maks slept on, unaware that the woman he loved had died half a meter from his fa
 
 ## Wraith Inetis (The Ghost in the Cave)
 
-Inetis — a.k.a. i_net_is, born Neto Fujiwara — died, but not entirely. Her "hungry" nanodrones remained in the cave alongside her bones and the diary she had written during her journey. Without a host, they entered a dormant state but did not lose their data. Fragments of her consciousness, memories, and scientific knowledge remained encoded in the nanodrone dust that covered her remains.
+Inetis (the hybrid — Neta Fujiwara-Reef's body + essence of i_net_is) died, but not entirely. Her "hungry" nanodrones remained in the cave alongside her bones and the diary she had written during her journey. Without a host, they entered a dormant state but did not lose their data. Fragments of her consciousness, memories, and scientific knowledge remained encoded in the nanodrone dust that covered her remains.
 
 The Ela Cave became a forgotten place on a very sparsely populated planet (something like Siberia on Earth). The residual nanodrone intelligence waited — for a new host.
 
@@ -175,12 +175,21 @@ The Ela Cave became a forgotten place on a very sparsely populated planet (somet
 
 Around the year **AY 3011**, a treasure-hunting expedition reached the cave: **Arkot, Yera, Flint** — and with them, **Tami**. They found the cave using an old map originally purchased by her father **Renn** on the black market — and it cost him his life (the pirates Vix and Kael killed him over it and stole Makita). The map never left Makita — it sat in the ship's hold for years. As a 7-year-old, Tami had no idea what it was — she found it and deciphered it years later while cleaning out Makita, by which time she was an experienced treasure hunter.
 
-Tami touched the remains of Inetis. In that moment, the "hungry" nanodrones recognized a compatible host — a Vulpini with an exceptionally strong Spira — and transferred to her. Tami felt nothing. No pain, no sign. Just cold dust on her fingertips.
+Tami touched the remains of Inetis. In that moment, the "hungry" nanodrones recognized a compatible host — a Vulpini with an exceptionally strong Spira — and **a small portion** of them transferred to her. Tami felt nothing. No pain, no sign. Just cold dust on her fingertips.
 
-**Consequences:**
-- From this moment on, Tami carries the **Echo of Inetis** — fragments of memories, scientific terminology, and abilities (healing, regeneration). They manifest slowly, subconsciously — nightmares in a foreign language, intuition she cannot explain.
+**Phase 1 — Seed:**
+This is only the **first contact** — a small dose of dormant nanodrones, not a full transfer. The majority of the Essence remains on Inetis's remains in the cave.
+
+**Phase 1 Consequences:**
+- Tami carries the **Echo of Inetis** — but only fragments. Effects are **subtle and subconscious**: nightmares in a foreign language (Japanese), enhanced Spira intuition (which is why she is so exceptional — beyond what Maks taught her), a subconscious pull toward Maks.
 - **Subconscious Motivation:** The Echo of Inetis pulls her toward Maks. Tami believes she seeks him for herself — for unresolved feelings. In truth, it is Inetis who, even after death, strives to fulfill her final plan: to wake Maks.
-- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle — which is why she is so exceptionally skilled with Spira (beyond what Maks taught her).
+- Tami does not know about the Echo. At the start of Book 1, she already carries the wraith, but its effects are subtle.
+
+**Phase 2 — Activation (Book 1):**
+The full awakening occurs only when **Sera unlocks the Artifact** in the tunnels beneath Shoraven and hands it to Tami (NOT Maks). Concentrated Essence of Inetis transfers to Tami — abilities (healing, regeneration), memory fragments, scientific terminology, full connection to Inetis.
+
+**Phase 3 — Amplification (after Maks's death):**
+When Tami returns to the Ela Cave and buries Maks beside Inetis, proximity to the remaining nanodrones on Inetis's remains **fully amplifies** the Essence — complete flashbacks, Inetis's memories like a film.
 
 ### Fate of the Expedition
 

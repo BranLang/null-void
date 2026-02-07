@@ -30,7 +30,7 @@ The planet underwent partial terraforming (Inetis and nanodrones), but most of t
 ### General Climate — A Frozen World
 - **Nearly the entire planet is frozen.** Achilles is an ice world — the surface is almost completely covered in ice, snow, and permafrost.
 - **The only habitable zone** is a narrow belt around the **equator**, where a combination of solar radiation, geothermal activity, and residual terraforming maintains temperatures above freezing.
-- This equatorial belt is **all that Varietas civilization knows** — the rest of the planet is their "White Edge of the World." The three discovered continents — Terra, Aprika, and Neuropa — lie within this belt.
+- This equatorial belt is **all that Varietas civilization knows** — the rest of the planet is their "White Edge of the World." The three discovered continents — Terra, Simira, and Neuropa — lie within this belt.
 - The belt is no tropical paradise — it's a harsh, cold landscape of boreal forests, tundra, and occasional warmer valleys. Jungles exist only in the equatorial core (geothermal springs + terraforming remnants).
 
 ### Seasonal Cycle
@@ -101,7 +101,7 @@ Three main continents lie in the equatorial belt. Each race knows them by differ
 | Continent | Name | Original form | Origin |
 |-----------|------|---------------|--------|
 | **Main** | **Terra** | **Terra Nova** | The first Varietas colonists couldn't agree on a name for their new home. They ultimately chose the simplest solution — an ancient word from a dead language: *Terra Nova* ("New Earth"). It gradually shortened to **Terra**. Nevriss is just one of ~20 countries on Terra. |
-| **Southern** | **Aprika** | **Apes + Africa** | The Apes spoke English, and their first leader — whom they began calling **Caesar** after a legendary film — invented the name by combining *Apes* + *Africa*. Originally a joke. Then it became the name. And "Caesar" became a hereditary title — every ruler of the Apes bears the title **Caesar**. An internal meme that survived 3,000 years. |
+| **Southern** | **Simira** | **Simian + Mira** | The Apes spoke English, and their first leader — whom they began calling **Caesar** after a legendary film — invented the name by combining *Simian* (ape, lat.) + *Mira* (peace/wonder). It was meant to be a dignified name for their new home — a continent where primates would finally find peace. And "Caesar" became a hereditary title — every ruler of the Apes bears the title **Caesar**. An internal meme that survived 3,000 years. |
 | **Western** | **Neuropa** | **Neo Europa** | A nostalgic reference to old Europe — the continent that human ancestors left behind. Originally *Neo Europa*, gradually shortened to **Neuropa**. Humans remember Earth — unlike Varietas and Apes, several hundred original Earthlings still live and speak the old language. |
 
 ### Languages by Continent
@@ -109,10 +109,10 @@ Three main continents lie in the equatorial belt. Each race knows them by differ
 | Continent | Language | Note |
 |-----------|----------|------|
 | **Terra** | **Varietas language** | Evolution of English mixed with animal sounds. Completely unintelligible to other races. Script inspired by Hiragana. |
-| **Aprika** | **English (old)** | Apes preserved English — their language is closer to the original than anything on Terra. Caesar and the first leaders spoke fluent English. After 3,000 years it evolved, but the base remains recognizable. |
+| **Simira** | **English (old)** | Apes preserved English — their language is closer to the original than anything on Terra. Caesar and the first leaders spoke fluent English. After 3,000 years it evolved, but the base remains recognizable. |
 | **Neuropa** | **English + slangs** | Several hundred immortal Earthlings speak original English (old language). But over 3,000 years, **multiple slangs and sub-languages** evolved in Neuropa — each city, tribe, or community has its own variation. The base is recognizable, but dialects vary. |
 
-> **Note:** Varietas from Nevriss mainly know their own continent — Terra. About Aprika and Neuropa, they know only from legends and sailors' tales. Apes and Humans have their own names, which Varietas don't know or use.
+> **Note:** Varietas from Nevriss mainly know their own continent — Terra. About Simira and Neuropa, they know only from legends and sailors' tales. Apes and Humans have their own names, which Varietas don't know or use.
 
 ---
 
@@ -448,33 +448,33 @@ Ynetis was once the heart of civilization — the greatest city of the Golden Ag
 
 > All inhabited continents lie within the equatorial belt. Beyond this belt, there is only ice.
 
-### Aprika — Southern Continent (Apes)
+### Simira — Southern Continent (Apes)
 
 | | |
 |---|---|
-| **Continent** | **Aprika** |
+| **Continent** | **Simira** |
 | **Civilization name** | **Apes** |
 | **Inhabitants** | Genetically uplifted apes — fusion of chimpanzees, gorillas, and orangutans |
 | **Landscape** | Dense swamps, jungles, rainforests. Very humid. |
 | **Civilization** | Advanced — likely the most advanced on the planet |
 | **Contact with the North** | Minimal — only sailors occasionally report sightings |
-| **Wraiths** | **None.** Humans never colonized Aprika — there are no human remains or nanotech remnants from which Wraiths could form. |
+| **Wraiths** | **None.** Humans never colonized Simira — there are no human remains or nanotech remnants from which Wraiths could form. |
 
 #### Origin of the Apes
 
-The Apes were one of the races genetically modified and uplifted to higher intelligence on Earth. They were part of the Exodus mission. When Ynetis was being founded, however, they decided to go **their own way** — they separated from the other races, terraformed their own piece of land — today's Aprika — and built an independent civilization.
+The Apes were one of the races genetically modified and uplifted to higher intelligence on Earth. They were part of the Exodus mission. When Ynetis was being founded, however, they decided to go **their own way** — they separated from the other races, terraformed their own piece of land — today's Simira — and built an independent civilization.
 
 - **First race to leave Ynetis**: The Apes departed **before the events of Glitch Rot** — before civilization's fall, before the Wraiths, before everything. This decision saved their existence.
-- **Without nanotechnology**: The Apes never received nanotech — **humans didn't consider them Homo Sapiens** and refused to provide it. The Apes remember this humiliation to this day. They have no Spira. And since humans never colonized Aprika, there are no human remains or nanotech residue — Wraiths simply have nothing to form from. (Wraiths are concentrated on Terra, around Ynetis, and on Neuropa, where Exorcists deal with them.)
+- **Without nanotechnology**: The Apes never received nanotech — **humans didn't consider them Homo Sapiens** and refused to provide it. The Apes remember this humiliation to this day. They have no Spira. And since humans never colonized Simira, there are no human remains or nanotech residue — Wraiths simply have nothing to form from. (Wraiths are concentrated on Terra, around Ynetis, and on Neuropa, where Exorcists deal with them.)
 - **Fusion of races**: The original races — chimpanzees, gorillas, orangutans — merged over 3,000 years into one. Unified civilization, unified language, unified culture.
 - **Advanced civilization**: Without Wraiths, without Glitch Rot, without wars over Spira — the Apes had 3,000 years of peaceful development. Their culture and technology may be **far more advanced** than anything in the north. It's said they possess things that Varietas would consider Spira — but it's just technology.
 
 #### What Varietas Know About the Apes
 
-Almost nothing. Aprika is separated by sea, and Varietas from Terra have neither reason nor means to travel there. But occasionally, something trickles through:
+Almost nothing. Simira is separated by sea, and Varietas from Terra have neither reason nor means to travel there. But occasionally, something trickles through:
 
 - **Sailors tell stories**: Those who strayed too far south speak of **"Paladins"** — an elite Apes caste. They are "absolute professionals." **They don't speak.** They communicate only through rapid, military gestures. No roaring, no anger. Just quiet, brutal efficiency, energy shields, and terrifying speed for such massive bodies.
-- **Dense swamps and jungles**: Aprika is covered in impenetrable jungle. Humid, hot, teeming with life. For Varietas accustomed to cold forests and smog, it's an alien world.
+- **Dense swamps and jungles**: Simira is covered in impenetrable jungle. Humid, hot, teeming with life. For Varietas accustomed to cold forests and smog, it's an alien world.
 - **No contact**: The Apes apparently have no interest in contact with Terra. Whether because they don't need it, or because they consider Terra primitive.
 
 #### Ishtar/Zaya — The Glass City
@@ -483,12 +483,12 @@ Almost nothing. Aprika is separated by sea, and Varietas from Terra have neither
 |---|---|
 | **Ruler** | **Ishtar** (also known as Zaya) |
 | **Seat** | **The Glass City** / City of Mirrors |
-| **Location** | Small island/peninsula on Aprika's southwestern coast |
+| **Location** | Small island/peninsula on Simira's southwestern coast |
 | **Character** | Isolationist, decadent |
 | **Transport** | The only functional trains on the planet |
 
 - Ishtar has no interest in the other Archangels
-- The Glass City lies **near Aprika's coast** — not on it, but in close proximity. Visible on the map as a striking pink-purple structure — architecturally completely different from anything else on the planet.
+- The Glass City lies **near Simira's coast** — not on it, but in close proximity. Visible on the map as a striking pink-purple structure — architecturally completely different from anything else on the planet.
 - **Silent agreement with Apes**: Ishtar and the Apes have an informal non-aggression pact. The Apes tolerate her presence on their coast in exchange for peace. Nobody in the north knows about this agreement.
 - She has her own closed civilization
 - **Story role (Triangulation)**: The Glass Tower is the **second point** of Maks's trigonometric triangulation to find Ynetis. Maks must gain access to the highest point of the Glass City — which means confrontation with Ishtar/Zaya (Book 3).

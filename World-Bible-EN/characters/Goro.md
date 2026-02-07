@@ -7,7 +7,7 @@
 | **Species** | Apes (Gorilla) |
 | **Age** | ~45 years (young for a leader) |
 | **Height** | ~220cm (massive even for a gorilla) |
-| **Location** | Apex (capital of the Apes), Aprika (southern continent) |
+| **Location** | Apex (capital of the Apes), Simira (southern continent) |
 | **Role** | Leader of the Apes civilization, scientist-warrior |
 
 ---
@@ -38,7 +38,7 @@
 
 ### Origin of the Apes
 - **ARK-11 colonists:** The Apes are descendants of genetically modified primates from ARK-11 (chimpanzees, gorillas, orangutans)
-- **Separated from humans** after landing (AY 0) — left for the southern continent (Aprika)
+- **Separated from humans** after landing (AY 0) — left for the southern continent (Simira)
 - **3000 years of isolation:** Built their own civilization without contact with Terra
 - **Three species:** Chimpanzees (majority of the population), gorillas (soldiers, scientists), orangutans (engineers, philosophers)
 

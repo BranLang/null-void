@@ -22,7 +22,7 @@
 
 ### Interlúdium: Ďaleko od Snehu (Hotovo)
 **Súbor:** `drafts/main-arc/01.1-interlude-far-from-snow.md`
-*   **I. Sklené Mesto (Aprika)**: Cézar a Zaya. Zaya informuje Cézara o Anténe v Shoravene. Cézar vysiela Raua a Kiru. Zaya varuje pred Požehnanou Matkou.
+*   **I. Sklené Mesto (Simira)**: Cézar a Zaya. Zaya informuje Cézara o Anténe v Shoravene. Cézar vysiela Raua a Kiru. Zaya varuje pred Požehnanou Matkou.
 *   **II. Južné Územia (Neuropa)**: Elania dostáva správu o NULL VOID. Sera — jej špiónka — odchádza do Shoravenu.
 
 ### Kapitola 2: Ulica Mŕtvych zvonov (Hotovo)
@@ -104,6 +104,6 @@
     *   Samaell Duel -> Archive (na integráciu do Ch5 alebo Ch7)
     *   Pôvod (Origin) -> Ch 7 (Maks v klietke + baby Tami)
 *   **Paladíni**: Energetické štíty (Hard Light) + vibro-sekery. Žiadne fyzické štíty, žiadne kopije.
-*   **Anténa**: Apes ju získajú v Ch3 a odnesú na Apriku. Maks ju v Knihe 1 NEZÍSKA.
+*   **Anténa**: Apes ju získajú v Ch3 a odnesú na Simiru. Maks ju v Knihe 1 NEZÍSKA.
 *   **Grond**: Zomiera v Ch5 (Blood Ritual). Graw stráca veliteľa.
 *   **Felix**: 122mm kanón (nie 88mm). Ukradnutý z vraku krížnika.

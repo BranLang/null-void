@@ -64,7 +64,7 @@ Drifting in the ocean all alone
 | **Názov ságy** | Null Void |
 | **Alternatívny názov** | Boj o Achilles |
 | **Formát** | Pentalógia (5 kníh) |
-| **Žáner** | Anime Sci-Fi / Dieselpunk / Grimdark Light Novel |
+| **Žáner** | Anime Sci-Fi / Dieselpunk / Grimdark Novel |
 | **Autor** | Bran Lang |
 
 ---

@@ -1,11 +1,11 @@
-# Aprika — The Silent Continent
+# Simira — The Silent Continent
 
 > *"We are their children. But we are not their slaves."* — Goro, Caesar of the Apes
 
 ---
 
 ## Overview
-**Aprika** (the Southern Continent) is home to the **Apes** civilization — intelligent primates descended from genetically modified animals aboard the colonization ship ARK-11. To the rest of the world (Terra), it is a wild jungle inhabited by "animals." In truth, it is a **military technocracy** hiding in plain sight.
+**Simira** (the Southern Continent) is home to the **Apes** civilization — intelligent primates descended from genetically modified animals aboard the colonization ship ARK-11. To the rest of the world (Terra), it is a wild jungle inhabited by "animals." In truth, it is a **military technocracy** hiding in plain sight.
 
 | Attribute | Details |
 |---|---|
@@ -69,7 +69,7 @@ Paladins are distinguished by the color of their plume and armor detailing:
 
 The Apes evolved separately from Terra, which is why their technologies are entirely different:
 
-| Category | Apes (Aprika) | Terra (Nevriss/Graw) |
+| Category | Apes (Simira) | Terra (Nevriss/Graw) |
 |---|---|---|
 | **Energy** | **Fusion** (clean, unlimited) | Combustion engines (Diesel) / Steam |
 | **Materials** | Advanced metallurgy, composites | Steel, recycled scrap |

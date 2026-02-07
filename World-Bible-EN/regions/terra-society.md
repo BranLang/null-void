@@ -116,11 +116,11 @@ The decisive battle in the **Atra Narrows** beneath the Hangravall mountains (th
 *   **Tears in the Mud:** She knelt in the bloody mud beside the dying and wept. Her crying was so desperate that it silenced the clash of arms. The shame of having made the Mother weep broke the morale of both sides.
 *   **Collapse of the Triumvirate:**
     *   **Grond** (betrayed and enraged) withdrew to the North, beyond the mountains.
-    *   **Zaya** (in shame) fled to Aprika.
+    *   **Zaya** (in shame) fled to Simira.
     *   **Samaell** became a wanderer.
 *   **Aftermath:** On the spot where the Mother wept, the city of **Shoraven** (City of Reconciliation/Treaty) was founded. It is sacred ground. The oldest statues here depict Inetis as a *human* (without ears), kneeling in the mud — an image the Church later "corrected" (adding cat ears and replacing her tears with pentagrams of power).
 
-### Terra vs. Aprika (South)
+### Terra vs. Simira (South)
 *   **Attitude:** Fear and Superstition.
-*   **Reason:** Aprika is "the white spot on the map." Varietas know absolutely nothing. Only legends and tavern talk.
+*   **Reason:** Simira is "the white spot on the map." Varietas know absolutely nothing. Only legends and tavern talk.
 *   **Reality:** They have no idea about the Apes civilization. If the Apes ever attack (Paladins), Terra will be in shock.

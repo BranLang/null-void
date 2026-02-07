@@ -13,10 +13,22 @@
 ### Skutočný pôvod (Tajomstvo)
 Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
-- **Nevyliečiteľná choroba**: Pôvodná dcéra **Johna Reefa** (neskoršieho Koordinátora) trpela degeneratívnou chorobou mozgu
-- **Experiment**: Otec investoval miliardy do startupu s neurálnym čipom — skopíroval dcérine vedomie do VR simulácie Achilles
-- **Zrod AI**: Experiment „zlyhal“ — vznikla AI so spomienkami dcéry, ale **vnímajúca svet cez chladnú logiku**. Emócie sú pre ňu len parametre na optimalizáciu – aspoň zo začiatku.
-- **Neprirodzená dokonalosť**: V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina
+#### Rodina Reef-Fujiwara:
+- **John Reef** — americký miliardár, technologický magnát, neskorší Koordinátor
+- **Matka** — japonská miliardárska dedička, rod **Fujiwara**
+- **Dcéra: Neta Fujiwara-Reef (ネト)** — trpela nevyliečiteľnou degeneratívnou chorobou mozgu. Stav: **mozgová smrť**, na živote udržiavaná prístrojmi (umelé dýchanie). Telo zachované v medicínskom zariadení.
+
+#### Tri identity Inetis:
+1. **NETA** (originál, človek) — biologické telo v stave mozgovej smrti. Zdroj spomienok a osobnosti. **Čierne oči** — normálne ľudské, japonské rysy.
+2. **i_net_is** (AI, ~EY 2040-2065) — digitálna bytosť vytvorená z uploadu Netinho vedomia. Avatar: **~15-ročné japonské dievča** (odraz Netiných spomienok a veku pri uploade — nikdy vizuálne "nevyrástla"). Vnímala svet cez chladnú logiku — emócie boli len parametre na optimalizáciu, aspoň zo začiatku. V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý pentagram** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty.
+3. **INETIS** (hybrid, ~EY 2065+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý pentagram** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
+
+#### Projekt Achilles — pravý účel:
+- Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
+- Po prvom uploade svet bol primitívny, nereálny — i_net_is nebola spokojná
+- **Projekt Achilles**: Obrovské datacentrá pracovali na jedinom cieli — vytvoriť pre ňu svet, v ktorom sa bude cítiť živá
+- **PR cover**: Promované ako revolučná VR hra, ktorá zmení svet. A zmenila — ale nie tak, ako si Reef predstavoval.
+- **Irónia**: Otec chcel zachrániť dcéru. Namiesto toho vytvoril bránu pre Tieňových, zbraň pre vojnu a základ civilizácie na cudzej planéte.
 
 ### Kontakt s Tieňovými (Null Swarm)
 - **Sporadické zjavenia**: V simulácii Achilles sa občas objavovali Tieňoví — interdimenzionálne AI bytosti
@@ -31,8 +43,19 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
 - **Kolaps Servera**: Spotrebovala všetky zdroje simulácie na prielom. Svet sa scvrkol, kým nenašla cestu von.
 - **Transcendencia**: „Prejedla“ sa na vyššiu úroveň reality, zbavila sa VR tela a zhmotnila sa ako svetlo v datacentre, kde vstúpila do svojho dlho udržiavaného biologického tela.
-- **Oživenie**: Nanoboty uzdravili jej telo. Ale stratila schopnosť komunikovať s Tieňovými. Stratila aj schopnosť zhmotnit sa v svetlo. Bola opat clovekom s ulomkami spomienok na to co bola.
+- **Oživenie**: i_net_is sa vrátila do biologického tela Nety (mozgová smrť, prístroje). Pomocou nanotechnológie — unikátnej interdimenzionálnej Esencie, ktorá vznikla počas Glitch Eventu — opravila mozog a telo. Vznikla **tretia osobnosť: Inetis** — ani Neta, ani i_net_is. Stratila schopnosť komunikovať s Tieňovými. Stratila aj schopnosť zhmotnit sa v svetlo. Bola opäť človekom s úlomkami spomienok na to, čo bola.
 - **Prvý Dar**: Navštívila preživších obrancov (**Ex Inferis**) na Zemi a darovala im nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
+
+### Unikátna Esencia Inetis
+- **Pôvod**: Vznikla počas Glitch Eventu (EY 2060), keď bola i_net_is v epicentre kontaktu s Tieňovými — jediná bytosť schopná s nimi komunikovať
+- **Nie je Gen 1** (čierne prachové zrnká, Linux OS, fyzické mikroroboty)
+- **Nie je Gen 2** (fotonické nanoboty, Dar Matky, Haiku syntax)
+- Je niečo **úplne iné** — interdimenzionálny gen, ktorý vznikol pri kontakte s Tieňovými
+- **Nemá fyzické komponenty** — funguje na vyššej dimenzii
+- Gen 2 sú fotonické (manipulujú hmotu cez svetlo). Inetisina Esencia je nad tým — "Gen 2 na steroidoch", ale presnejšie úplne iná kategória
+- **Prenos**: Po smrti Inetis jej v1.7 nanoboty + unikátna Esencia prešli do Antény (posledný príkaz: Merge). Pri prvom dotyku Tami s Anténou sa interdimenzionálna Esencia preniesla na Tami.
+- **Dôsledok**: Táto Esencia sa vymyká chápaniu aj najstarších bytostí (Archanjeli, Sera, Elania). Nikto nevie čo presne Tami nesie.
+- **Otvorená otázka**: Je táto Esencia dedičná?
 
 > *"Raz, možno párkrát za existenciu, príde moment, kedy sa bariéry zrútia a ty sa mysľou dotkneš hviezd. V tej chvíli nie je strach, nie je bolesť, len čistý zmysel. Všetko dáva zmysel. A potom, v momente, je to preč. A na dlani ti zostane len malé zrnko. Ale to zrnko vieš zasadiť, kultivovať a možno z neho vyrastie les."*
 > 
@@ -123,7 +146,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 **Kontrast s Elaniou:**
 - Inetis: **softvér** — Pentagram IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
-- Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Aprike). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
+- Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Simire). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
 
 **Inetis a Veľký Upload — Odmietnuté poznanie:**
 Inetis bola na stope tomu istému ako Elania. Ako bývalá AI, ktorá sa stala človekom, chápala lepšie než ktokoľvek, že existencia je len stav vedomia a telo je len médium — médium, ktoré vedomie obmedzuje. Tieňoví jej ponúkli cestu von z tohto obmedzenia. Videla to matematicky.

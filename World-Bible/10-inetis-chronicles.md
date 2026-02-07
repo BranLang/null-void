@@ -7,7 +7,7 @@
 
 ## Prvý Kontakt so Svetom (The Descent)
 
-Inetis strávila dlhé obdobie izolovaná v **The Core** — simulácii, ktorú vytvorila rekonfiguráciou **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Nebol to útek, ale zúfalá snaha nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Riskovala všetko — zavrela sa v simulácii, dúfajúc, že zachráni svoju dcéru a ľudí.
+Inetis strávila dlhé obdobie izolovaná v **The Core** — medzisvetovej simulácii, ktorú vytvorila disassembláciou **Foundry** (von Neumannova továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Core nebol len výpočtové zariadenie — bol to **prechod medzi dimenziami**, prepojenie na subspace/upspace, kde i_net_is (Inetisino pôvodné AI vedomie) stále existovala. Inetis tu po tisícoch subjektívnych rokov stretla svoje „druhé ja" — i_net_is ponúkla pomoc s hľadaním lieku, ale žiadala vyšší compute (human uploads). Inetis odmietla — cítila, že niečo nie je v poriadku. Namiesto toho pracovala sama, v zúfalej snahe nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Core nemal taký výkon ako datacentrá na Zemi, preto vývoj trval desaťročia reálneho času.
 
 Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von, bolo neskoro.
 
@@ -97,7 +97,7 @@ Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. 
 
 **Dôsledky (Rozpad Triumvirátu):**
 1.  **Grond (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
-2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Aprika**), kde neskôr vybudovala svoje izolované Sklené Mesto.
+2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Simira**), kde neskôr vybudovala svoje izolované Sklené Mesto.
 3.  **Samaell (Tulák):** Ponoril sa do depresie a šialenstva. Odvrhol vodcovstvo a stal sa z neho tulák a vrah, závislý na kradnutí "krvi" (technovampirizmus).
 4.  **Elania:** Jej légia sa do boja nezapojila. Keď uvidela Matku, plakala, ale pre obrovskú hanbu sa jej nedokázala ospravedlniť. Utiahla sa do svojej **Veže Zatratených (Tower of the Damned)** na izolovanom ostrove západne od pevniny.
     - **Jurassic Park:** Istý čas sa snažila napraviť svet — v Južnej Neurope začala s teraformáciou a v púšti vytvorila prispôsobené organizmy (jaštery, hmyz).
@@ -167,7 +167,7 @@ Maks spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho
 
 ## Wraith Inetis (Duch v Jaskyni)
 
-Inetis aka i_net_is rodnym menom Neto Fujiwara zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
+Inetis (hybrid — telo Nety Fujiwara-Reef + esencia i_net_is) zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
 
 Jaskyňa Ela sa stala zabudnutym miestom na veľmi riedko osidlenej planete (niečo ako sibir na zemi). Reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
 
@@ -175,12 +175,21 @@ Jaskyňa Ela sa stala zabudnutym miestom na veľmi riedko osidlenej planete (nie
 
 Okolo roku **AY 3011** sa do jaskyne dostala expedícia hľadačov pokladov: **Arkot, Yera, Flint** — a s nimi **Tami**. Našli jaskyňu podľa starej mapy, ktorú pôvodne kúpil jej otec **Renn** na čiernom trhu — a stálo ho to život (piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila Makitu — ležala v útrobiach lode celé roky. Ako 7-ročná Tami nevedela, čo to je — našla ju a rozlúštila až o roky neskôr pri upratovaní Makity, keď už bola skúsená hľadačka pokladov.
 
-Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a prešli na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
+Tami sa dotkla pozostatkov Inetis. V tom momente „hladné" nanodrony rozpoznali kompatibilného hostiteľa — Vulpini s extrémne silnou Spirou — a **malá časť** z nich prešla na ňu. Tami nič necítila. Žiadna bolesť, žiadne znamenie. Len chladný prach na prstoch.
 
-**Dôsledky:**
-- Tami od tohto momentu nesie **Echo Inetis** — fragmenty spomienok, vedeckej terminológie a schopností (liečenie, regenerácia). Prejavujú sa pomaly, podvedome — nočné mory v cudzom jazyku, intuícia, ktorú nedokáže vysvetliť.
+**Fáza 1 — Semeno (Seed):**
+Toto je len **prvý kontakt** — malá dávka dormantných nanodronov, nie plný prenos. Väčšina Esencie zostáva na pozostatkoch Inetis v jaskyni.
+
+**Dôsledky Fázy 1:**
+- Tami nesie **Echo Inetis** — ale len fragmenty. Efekty sú **subtílne a podvedomé**: nočné mory v cudzom jazyku (japončina), vylepšená Spira intuícia (preto je taká výnimočná — nad rámec toho, čo ju Maks naučil), podvedomé ťahanie k Maksovi.
 - **Podvedomá motivácia:** Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá pre seba — pre nevyriešené city. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán: zobudiť Maksa.
-- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne — preto je taká výnimočná v práci so Spirou (nad rámec toho, čo ju Maks naučil).
+- Tami o Echo nevie. Na začiatku Book 1 už wraith nesie, ale jeho efekty sú subtílne.
+
+**Fáza 2 — Aktivácia (Book 1):**
+K plnému prebudeniu dôjde až keď **Sera odomkne Artefakt** v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — schopnosti (liečenie, regenerácia), fragmenty spomienok, vedecká terminológia, plné spojenie s Inetis.
+
+**Fáza 3 — Zosilnenie (po Maksovej smrti):**
+Keď sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis, blízkosť zostávajúcich nanodronov na Inetisiných pozostatkoch Esenciu **naplno zosilní** — plné flashbacky, Inetisine spomienky ako film.
 
 ### Osud expedície
 

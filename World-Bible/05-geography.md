@@ -30,7 +30,7 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 ### Všeobecná klíma — Zamrznutý svet
 - **Skoro celá planéta je zamrznutá.** Achilles je ľadový svet — povrch je takmer úplne pokrytý ľadom, snehom a permafrostom.
 - **Jediná obyvateľná zóna** je úzky pás okolo **rovníka**, kde kombinácia slnečného žiarenia, geotermálnej aktivity a zvyškovej teraformácie udržiava teploty nad bodom mrazu.
-- Tento rovníkový pás je **všetko, čo civilizácia Varietas pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri objavene kontinenty — Terra, Aprika a Neuropa — ležia v tomto páse.
+- Tento rovníkový pás je **všetko, čo civilizácia Varietas pozná** — zvyšok planéty je pre nich "Biely Koniec Sveta". Tri objavene kontinenty — Terra, Simira a Neuropa — ležia v tomto páse.
 - Pas nie je tropický raj — je to drsná, chladná krajina s boreálnymi lesmi, tundrou a občasnými teplejšími údoliami. Džungle existujú len v rovnikovej oblasti (geotermálne pramene + zvyšky terraformingu).
 
 ### Sezónny cyklus
@@ -101,7 +101,7 @@ Tri hlavné kontinenty ležia v rovníkovom páse. Každá rasa ich pozná pod i
 | Kontinent | Názov | Pôvodný tvar | Pôvod |
 |-----------|-------|-------------|-------|
 | **Hlavný** | **Terra** | **Terra Nova** | Prví kolonisti Varietas sa nevedeli dohodnúť na názve pre svoj nový domov. Nakoniec zvolili najjednoduchšie riešenie — prastaré slovo z mŕtveho jazyka: *Terra Nova* ("Nová Zem"). Postupne sa skrátilo na **Terra**. Nevriss je len jednou z ~20 krajín na Terre. |
-| **Južný** | **Aprika** | **Apes + Africa** | Opice hovorili angličtinou a ich prvý vodca — ktorého začali volať **Cézar** podľa kultového filmu — vymyslel meno spojením *Apes* + *Africa*. Pôvodne to bol vtip. Potom sa z toho stal názov. A z "Cézara" sa stal dedičný titul — každý vládca Apes nesie titul **Cézar**. Interný meme, ktorý prežil 3000 rokov. |
+| **Južný** | **Simira** | **Simian + Mira** | Opice hovorili angličtinou a ich prvý vodca — ktorého začali volať **Cézar** podľa kultového filmu — vymyslel meno spojením *Simian* (opica, lat.) + *Mira* (pokoj/obdiv). Pôvodne to mal byť vznešený názov pre ich nový domov — kontinent, kde primáty konečne nájdu pokoj. A z "Cézara" sa stal dedičný titul — každý vládca Apes nesie titul **Cézar**. Interný meme, ktorý prežil 3000 rokov. |
 | **Západný** | **Neuropa** | **Neo Europa** | Nostalgický odkaz na starú Európu — kontinent, ktorý ľudskí predkovia opustili. Pôvodne *Neo Europa*, postupne skrátené na **Neuropa**. Ľudia si pamätajú Zem — na rozdiel od Varietas a Apes, niekoľko stoviek pôvodných pozemšťanov ešte žije a hovorí starým jazykom. |
 
 ### Jazyky podľa kontinentov
@@ -109,10 +109,10 @@ Tri hlavné kontinenty ležia v rovníkovom páse. Každá rasa ich pozná pod i
 | Kontinent | Jazyk | Poznámka |
 |-----------|-------|----------|
 | **Terra** | **Jazyk Varietas** | Evolúcia angličtiny zmiešaná so zvieracími zvukmi. Úplne nezrozumiteľná pre ostatné rasy. Písmo inšpirované Hiraganou. |
-| **Aprika** | **Angličtina (stará)** | Apes si zachovali angličtinu — ich jazyk je bližší originálu než čokoľvek na Terre. Cézar a prví vodcovia hovorili plynulou angličtinou. Po 3000 rokoch sa vyvinula, ale základ zostáva rozpoznateľný. |
+| **Simira** | **Angličtina (stará)** | Apes si zachovali angličtinu — ich jazyk je bližší originálu než čokoľvek na Terre. Cézar a prví vodcovia hovorili plynulou angličtinou. Po 3000 rokoch sa vyvinula, ale základ zostáva rozpoznateľný. |
 | **Neuropa** | **Angličtina + slangy** | Niekoľko stoviek nesmrteľných pozemšťanov hovorí pôvodnou angličtinou (starý jazyk). Ale za 3000 rokov sa v Neurope vyvinulo **viacero slangov a podjazykov** — každé mesto, kmeň či komunita má vlastnú variáciu. Základ je rozpoznateľný, ale dialekty sa líšia. |
 
-> **Poznámka:** Varietas z Nevriss poznajú hlavne svoj kontinent — Terru. O Aprike a Neurope vedia len z legiend a námorníckych príbehov. Apes a Ľudia majú vlastné názvy, ktoré Varietas nepoznajú alebo nepoužívajú.
+> **Poznámka:** Varietas z Nevriss poznajú hlavne svoj kontinent — Terru. O Simire a Neurope vedia len z legiend a námorníckych príbehov. Apes a Ľudia majú vlastné názvy, ktoré Varietas nepoznajú alebo nepoužívajú.
 
 ---
 
@@ -449,33 +449,33 @@ Ynetis bolo kedysi srdcom civilizácie — najväčšie mesto Zlatého veku, cen
 
 > Všetky obývané kontinenty sa nachádzajú v rovníkovom páse. Mimo tohto pásu je len ľad.
 
-### Aprika — Južný Kontinent (Apes)
+### Simira — Južný Kontinent (Apes)
 
 | | |
 |---|---|
-| **Kontinent** | **Aprika** |
+| **Kontinent** | **Simira** |
 | **Názov civilizácie** | **Apes** |
 | **Obyvatelia** | Geneticky pozdvihnuté opice — splynutie šimpanzov, goríl a orangutanov |
 | **Krajina** | Husté močiare, pralesy, džungle. Veľmi vlhko. |
 | **Civilizácia** | Rozvinutá — pravdepodobne najrozvinutejšia na planéte |
 | **Kontakt so Severom** | Minimálny — len námorníci občas hlásia pozorovania |
-| **Wraithy** | **Žiadne.** Ľudia nikdy nekolonizovali Apriku — nie sú tu žiadne ľudské pozostatky ani nanotech zvyšky, z ktorých by Wraithy vznikli. |
+| **Wraithy** | **Žiadne.** Ľudia nikdy nekolonizovali Simiru — nie sú tu žiadne ľudské pozostatky ani nanotech zvyšky, z ktorých by Wraithy vznikli. |
 
 #### Pôvod Apes
 
-Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnuté na vyššiu úroveň inteligencie. Boli súčasťou misie Exodus. Pri zakladaní mesta Ynetis sa však rozhodli ísť **vlastnou cestou** — oddelili sa od ostatných rás, teraformovali si vlastný kus zeme — dnešnú Apriku — a vybudovali nezávislú civilizáciu.
+Apes boli jednou z rás, ktoré boli na Zemi geneticky modifikované a pozdvihnuté na vyššiu úroveň inteligencie. Boli súčasťou misie Exodus. Pri zakladaní mesta Ynetis sa však rozhodli ísť **vlastnou cestou** — oddelili sa od ostatných rás, teraformovali si vlastný kus zeme — dnešnú Simiru — a vybudovali nezávislú civilizáciu.
 
 - **Prvá rasa, ktorá opustila Ynetis**: Apes odišli ešte **pred udalosťami Glitch Rotu** — pred pádom civilizácie, pred Wraithy, pred všetkým. Toto rozhodnutie im zachránilo existenciu.
-- **Bez nanotechnológie**: Apes nikdy nedostali nanotech — **ľudia ich nepovažovali za Homo Sapiens** a odmietli im ho poskytnúť. Apes si toto poníženie dodnes pamätajú. Nemajú Spiru. A keďže ľudia nikdy nekolonizovali Apriku, nie sú tu ani žiadne ľudské pozostatky či nanotech zvyšky — Wraithy tu jednoducho nemajú z čoho vzniknúť. (Wraithy sú sústredené na Terre, okolo Ynetis a na Neurope, kde ich riešia Exorcisti.)
+- **Bez nanotechnológie**: Apes nikdy nedostali nanotech — **ľudia ich nepovažovali za Homo Sapiens** a odmietli im ho poskytnúť. Apes si toto poníženie dodnes pamätajú. Nemajú Spiru. A keďže ľudia nikdy nekolonizovali Simiru, nie sú tu ani žiadne ľudské pozostatky či nanotech zvyšky — Wraithy tu jednoducho nemajú z čoho vzniknúť. (Wraithy sú sústredené na Terre, okolo Ynetis a na Neurope, kde ich riešia Exorcisti.)
 - **Splynutie rás**: Pôvodné rasy — šimpanzy, gorily, orangutany — splynuli počas 3000 rokov do jednej rasy. Jednotná civilizácia, jednotný jazyk, jednotná kultúra.
 - **Rozvinutá civilizácia**: Bez Wraiths, bez Glitch Rotu, bez vojen o Spiru — Apes mali 3000 rokov pokojného vývoja. Ich kultúra a technológia môže byť **ďaleko rozvinutejšia** než čokoľvek na severe. Hovorieva sa, že majú veci, ktoré Varietas považujú za Spiru — ale je to len technológia.
 
 #### Čo vedia Varietas o Apes
 
-Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
+Takmer nič. Simira je oddelená morom a Varietas z Terry nemajú dôvod ani prostriedky tam cestovať. Ale občas sa niečo donesie:
 
 - **Námorníci rozprávajú**: Tí, čo sa zatúlali príliš ďaleko na juh, hovoria o **"Paladínoch"** — elitnej kaste Apes. Sú to "absolútni profesionáli". **Nerozprávajú.** Komunikujú len rýchlymi, vojenskými gestami. Žiadne revanie, žiadny hnev. Len tichá, brutálna efektivita, energetické štíty a desivá rýchlosť na tak obrovské telá.
-- **Husté močiare a pralesy**: Aprika je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Varietas zvyknuté na chladné lesy a smog to je cudzí svet.
+- **Husté močiare a pralesy**: Simira je pokrytá nepreniknuteľnou džungľou. Vlhký, horúci, plný života. Pre Varietas zvyknuté na chladné lesy a smog to je cudzí svet.
 - **Žiadny kontakt**: Apes zjavne nemajú záujem o kontakt s Terrou. Či už preto, že to nepotrebujú, alebo preto, že Terru považujú za primitívnu.
 
 #### Ishtar/Zaya — Sklené Mesto
@@ -484,12 +484,12 @@ Takmer nič. Aprika je oddelená morom a Varietas z Terry nemajú dôvod ani pro
 |---|---|
 | **Vládkyňa** | **Ishtar** (tiež známa ako Zaya) |
 | **Sídlo** | **Sklené Mesto** / Mesto Zrkadiel |
-| **Lokácia** | Malý ostrov/poloostrov na juhozápadnom pobreží Apriky |
+| **Lokácia** | Malý ostrov/poloostrov na juhozápadnom pobreží Simiry |
 | **Charakter** | Izolacionistická, dekadentná |
 | **Doprava** | Jediné funkčné vlaky na planéte |
 
 - Ishtar sa nezaujíma o ostatných Archanjelov
-- Sklené Mesto leží **pri pobreží Apriky** — nie na ňom, ale v jeho tesnej blízkosti. Na mape viditeľné ako výrazná ružovo-fialová štruktúra — architektonicky úplne odlišná od čohokoľvek iného na planéte.
+- Sklené Mesto leží **pri pobreží Simiry** — nie na ňom, ale v jeho tesnej blízkosti. Na mape viditeľné ako výrazná ružovo-fialová štruktúra — architektonicky úplne odlišná od čohokoľvek iného na planéte.
 - **Tichá dohoda s Apes**: Ishtar a Apes majú neformálnu dohodu o vzájomnom neútočení. Apes tolerujú jej prítomnosť na svojom pobreží výmenou za pokoj. Nikto na severe o tejto dohode nevie.
 - Má vlastnú, uzavretú civilizáciu
 - **Rola v príbehu (Triangulácia)**: Sklená Veža je **druhý bod** Maksovej trigonometrickej triangulácie na nájdenie Ynetis. Maks musí získať prístup k najvyššiemu bodu Skleného Mesta — čo znamená konfrontáciu s Ishtar/Zayou (Kniha 3).

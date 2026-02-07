@@ -89,6 +89,27 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
+### Gen 1 Vizuálny Opis (Pravidlo pre text)
+Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
+- **Neaktívne**: Vyzerajú ako **čierny prach** — jemné tmavé zrnká, takmer neviditeľné
+- **Aktívne**: Pri zvýšenej aktivite vyzarujú **fialové svetlo** (ultrafialové) — jemné záblesky, nie žiara. Čím väčšia aktivita, tým intenzívnejšie fialové pulzovanie.
+- **Mikroskopické**: Malé čierne prachové zrnká, ktoré sa na mikroskopickom leveli spájajú a formujú zariadenia
+- **OS**: Bežia na Linuxe
+- **V tele**: Prepletené prachové uzly — pri detailnom pohľade vyzerajú ako **hniezdo hadov**, hýbu sa, preplietajú sa a svetielkujú na fialovo
+- **Maksove oči**: Čierny Prach v očných jamkách — prachové uzly poprepletané ako hniezdo hadov, neustále sa hýbu a preplietajú, pri aktivite **jemne fialovo svetielkujú**
+
+> **Pravidlo pre popis Gen 1 nanotech v texte:**
+> Vždy keď popisujeme Gen 1 nanotech v akcii: **čierny prach** + **fialové svetielka/záblesky** (jemné, nie dramatické). Toto je konzistentná vizuálna signatúra celej série.
+
+### Inetisina Unikátna Esencia
+Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
+- **Pôvod**: Vznikla počas Glitch Eventu (EY 2060), keď bola i_net_is v epicentre kontaktu s Tieňovými
+- **Nie je Gen 1 ani Gen 2** — je to interdimenzionálny gen z kontaktu s Tieňovými
+- **Nemá fyzické komponenty** — funguje na vyššej dimenzii než fotonické Gen 2
+- Po smrti Inetis prešla cez Anténu na Tami (prvý dotyk)
+- Vymyká sa chápaniu aj najstarších bytostí na Achillovi
+- Viď `characters/Inetis.md` → Unikátna Esencia Inetis
+
 ### Paradox skúseností
 Archanjeli (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archanjel dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
 - Vedia drony „tkať" do komplexných štruktúr
@@ -213,8 +234,8 @@ NULL VOID nebola konvenčná loď z kovu a plastov. Bola **100% postavená z nan
 - **Glitchnutá Anténa**: Jediná vec, ktorá z lode zostala v pôvodnom stave, bola **komunikačná Anténa** — glitchla sa a odmietla rekonfiguráciu. Inetis ju nemohla rozložiť ani prestaviť
 - **Maksov kryobox**: V jaskyni ostal len jeden kryobox — Maksov — v minimálnej konfigurácii. Bol to nanodronový modul, ktorý udržiaval Maksa v kryostáze ~3000 rokov. Po Maksom prebudení sa kryobox **rozpadol na prach** (nanodronová konštrukcia sa spontánne rozložila). Anténa tak ostala **jedinou fyzickou pozostalosťou** lode NULL VOID
 - **Opätovná rekonfigurácia na loď**: Po ~3 rokoch v jaskyni Inetis nanodronov prekonfigurovala naspäť na loď NULL VOID a s malou Eleniou sa vydala na cestu okolo planéty — hľadali vhodnejšie miesto pre budúcich kolonistov. Našli ostrovy **Elysium** (budúce Ynetis)
-- **Foundry (Továreň)**: Na Elysiu Inetis loď NULL VOID (v1.5 gen nanodrony) prekonfigurovala na **Foundry** — továreň, ktorá vyrábala nanodrony **nižšej úrovne (v1.0)**. Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium/Ynetis — budovy, infraštruktúra, životné systémy
-- **Foundry → The Core**: Keď vypukla epidémia **Glitch Rot** (~AY 300-500), Inetis rekonfigurovala Foundry na **The Core** — novú simuláciu, v ktorej vyvíjala bezpečnejšie nanoboty v2.0 (Spira/Dar Matky). Core bola menšia simulácia než pôvodný Achilles na Zemi, ale stačila na ~100 simulovaných rokov vývoja
+- **Foundry (Továreň / Von Neumann Machine)**: Na Elysiu Inetis loď NULL VOID (v1.5 gen nanodrony) prekonfigurovala na **Foundry** — von Neumannovu továreň, kde nanoboty vyrábali nové nanodrony **nižšej úrovne (v1.0)**. Tieto v1.0 nanoboty boli **prázdne stroje bez vedomia** — bez inteligencie, bez motivácie, bez esencie. Ale po zlúčení (merge) s človekom absorbovali jeho vedomie a vytvorili **symbiotický organizmus** (Gen 1). Z týchto v1.0 nanodronov vyrástlo celé mesto Elysium/Ynetis — budovy, infraštruktúra, životné systémy
+- **Foundry → The Core**: Keď vypukla epidémia **Glitch Rot** (~AY 300-500), Inetis disassemblovala Foundry a vytvorila **The Core** — novú simuláciu. Core nebol len výpočtové zariadenie — bol to **medzisvet, prechod medzi dimenziami**. Pripojil sa na subspace/upspace, kde i_net_is stále existovala. Inetis v Core stretla svoje „druhé ja" — i_net_is — po tisícoch subjektívnych rokov odlúčenia (čas v subspace plynie 10-20x rýchlejšie). i_net_is ponúkla pomoc s vývojom Gen 2, ale vyžadovala vyšší compute — **human uploads** — viac inteligencie. Inetis cítila, že niečo je v neporiadku, a odmietla. The Core nemal taký výpočtový výkon ako datacentrá na Zemi ani milióny userov, preto výroba Gen 2 nanotech trvala desaťročia reálneho času (~100 simulovaných rokov vývoja)
 
 #### Reťaz transformácií NULL VOID
 ```
@@ -222,8 +243,8 @@ NULL VOID (loď, v1.5)
   → Stroje v jaskyni (vyhĺbenie, hydroponika, ~3 roky)
   │   [v jaskyni zostali: Maksov kryobox (minimálna konfigurácia) + Anténa (glitch)]
     → NULL VOID (loď, cesta na Elysium)
-      → FOUNDRY (továreň, výroba v1.0 nanodronov → stavba mesta)
-        → THE CORE (simulácia, vývoj v2.0 / Dar Matky)
+      → FOUNDRY (von Neumann machine, výroba v1.0 nanodronov → stavba mesta)
+        → THE CORE (medzisvet/simulácia, prepojenie na subspace, vývoj v2.0 / Dar Matky)
 
   Po Maksom prebudení (~AY 3000): kryobox → prach
   Jediná fyzická pozostalosť: ANTÉNA
@@ -283,6 +304,25 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 
 ### Úroveň: Analógové 20. storočie
 Technologická úroveň sveta sa drží na štandarde **ranného 20. storočia (cca 1900-1940)**, ale striktne bez elektroniky a bez uhlia.
+
+### Prečo žiadna elektrika — Wraith Tabu
+
+**Elektrina priťahuje Wraithy.** Toto nie je poverčivosť — je to tisícročná empirická skúsenosť. Kdekoľvek sa objavil zdroj elektromagnetického poľa (dynamo, batéria, vysielačka, elektromotor), začali sa diať "nevysvetliteľné veci" — Exorcisti museli zasahovať. Výsledok: elektrika sa stala **tabu**.
+
+[→ links-notebook-first-contact.md: Links to zistí empiricky]
+
+**Prečo?** Dormantné nanoboty (zvyšky z éry Foundry, bilióny v1.0 po celej planéte — v pôde, stenách, vode, prachu) reagujú na elektromagnetické pole. Priťahuje ich k zdroju. Degradované nanoboty (bit rot) sú ešte horšie — sú to v podstate **Wraithy v dormantnom stave**, a EM signál ich prebúdza.
+
+**Čo je bezpečné:**
+- **Spira** — funguje na fotonickej báze (svetlo, nie elektrina). Žiadne EM pole → nanoboty ju ignorujú → bezpečná.
+- **Mikroprudy a statická elektrina** — priťahujú zvedavosť Wraithov, ale pokiaľ to nie je technológia (blesk, trenie), ignorujú to.
+- **Mechanika, hydraulika, pneumatika** — žiadne EM pole → bezpečné. Preto Maki vyvinuli analógové majstrovstvo.
+
+**Čo je nebezpečné:**
+- Batérie, dynama, elektromotory, vysielačky — čokoľvek, čo generuje stabilné EM pole.
+- **Elektronika napájaná Spirou** — Spira kryštál napája procesory/obvody → tie generujú EM pole → rovnaký efekt ako elektrika. Toto je dôvod, prečo Inetis notebook priťahuje nanoboty — Spira kryštál napája elektroniku, nie fotoniku.
+
+**Folklór:** Na Terre existuje príslovie: *"Kde svieti drôt, tam sa budí smrť."* Deti sa učia, že elektrika je "živý oheň" — nebezpečný nie preto, že popáli, ale preto, že **privoláva duchov**. Exorcisti vedia pravdu, ale nehovoria ju nahlas — jednoduchšie je udržať tabu.
 
 #### Energetický systém
 

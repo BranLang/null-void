@@ -37,9 +37,12 @@
 | **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
 | **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maksa v pustatine. 5 rokov sa neozve |
 | **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
-| **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (Echo Inetis). Tami nič necíti, nevie o tom |
+| **~AY 3011** | ~18 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (**Fáza 1 — Seed/Semeno**). Malá dávka dormantných nanodronov. Tami nič necíti, nevie o tom. Efekty sú subtílne: nočné mory v cudzom jazyku, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi |
 | **~AY 3011** | ~18 | Arkot, Yera a Flint upálení v Shoravene na rozkaz Mormiel. Tami prežije — Mormiel o nej nevie |
 | **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maksom (podvedome ťahaná k nemu cez Echo Inetis) |
+| **AY 3013** | 20 | **Fáza 2 — Aktivácia:** Sera odomkne Artefakt v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — plné prebudenie. Schopnosti, spomienky, spojenie s Inetis |
+| **AY 3013** | 20 | **Fáza 3 — Zosilnenie:** Po Maksovej smrti sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis. Blízkosť Inetisiných pozostatkov zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film |
+| **Book 5** | ~20+ | **Fáza 4 — Kontakt s Core:** Tami vstúpi do Core (Ynetis) s Linksom a Elaniou. Esencia sa spojí s AI i_net_is — umelou inteligenciou uzamknutou v Core 3000+ rokov. AI odhalí pravdu o Uploade. Links prekladá. |
 
 ### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
@@ -61,7 +64,7 @@
 
 ![Tami vs Paladins - Ochrana Antény](../assets/characters/Tami/dungeon_battle.jpeg)
 
-*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Maks ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Maks pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Apriku, k Cézarovi.*
+*Moment, kedy sa stratégia zrútila. Dvaja "Paladíni" — obrovské Opice (Apes) v ťažkej zbroji — strážili bránu za ktorou ležala Anténa. Energetické štíty (Hard Light) a vibro-sekery, čo režú kameň ako maslo. Maks ich nedokázal hacknúť. Tami s Ihlou na okamih prenikla cez štít, ale nestačilo to. Prvýkrát po tisícročiach Maks pocítil strach z neznámeho a kričal na Tami, aby utiekla. Apes vzali Anténu a odišli — na Simiru, k Cézarovi.*
 
 ### Vzťah s Maksom
 - **Pre Tami**: Maks bol mentor, ale aj niečo viac — zamilovala sa
@@ -76,6 +79,57 @@
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
+- **Maksova smrť**: Maks padne zo vzducholode počas boja. Umiera v plameňoch a troskách — Tami nad ním plače, ale on ju už nepočuje. V posledných sekundách vidí kaviareň v Kyjeve, rok 2075, Inetis oproti nemu. Vojak sa vrátil domov.
+
+### Návrat do Jaskyne Ela — Pochovanie Maksa
+
+**Kontext:**
+- Po Maksovej smrti Tami odmietne nechať jeho telo na bojisku
+- Odnesie ho na Makite späť do **Jaskyne Ela** (Null-Void Cave) — tam, kde sa pred rokmi dotkla kostí Inetis
+- Pochová Maksa **vedľa kostí Inetis** — vojak sa vráti k žene, na ktorú čakal 3000 rokov
+
+**Esencia sa prebúdza:**
+- V jaskyni, v blízkosti Inetisiných pozostatkov, sa Esencia v Taminej krvi naplno prebudí
+- Tami začne mať **flashbacky** — Inetisine spomienky: jaskyňa za čias, keď bola nová. Malá Elania kreslí na steny. Inetis programuje Pentagram IDE. Pohľad na spiaceho Maksa v kryoboxe. Hviezdy nad Achillesom.
+- **Tami vidí Maksa cez Inetisine oči** — nie ako vojaka, ale ako muža, ktorého Inetis milovala. Mladého, s očami. Smejúceho sa v kaviarni v Kyjeve.
+- Prvýkrát pochopí, prečo ju to ťahalo k Maksovi — nebola to len láska. Bola to Esencia. Inetis ho hľadala aj po smrti.
+
+**Symbolika:**
+- Maks a Inetis sú konečne spolu — v jaskyni, kde sa ich príbeh začal
+- Tami ich pochová a odíde — nesie ich odkaz ďalej. Dcéra Renna dokončí, čo Inetis začala.
+- Jaskyňa Ela sa stáva hrobkou dvoch zakladateľov sveta
+
+### Vzťah s Linksom (Book 2+)
+
+**Kontext:**
+- Po Maksovej smrti je Tami sama — so Seriným proroctvom, Anténou, a Esenciou Inetis v krvi
+- Links ju nájde v Nevriss — zachráni ju pred Mormiel (hackne Mormielinu Gen 1)
+- Prvé stretnutie: *"Kto si, kurva, ty?!"* — *"Niekto, kto ťa sledoval 3000 kilometrov."*
+
+**Dynamika — Maks vs Links:**
+- **Maks bol štít** — vojak, cynický, silnejší, chránil ju v boji. Vzťah rovných partnerov.
+- **Links je kľúč** — vedec, naivný, slabší fyzicky, ale rozumie kódu bohov. Dokáže čítať Esenciu v jej krvi, odomknúť to čo Sera začala.
+- Maks ju **chránil**. Links ju **potrebuje** — a ona potrebuje jeho.
+
+**Tri ID Scan** [→ books/planning/inetis-three-identities.md: Linksa úloha]:
+- Keď mu Tami dovolí pripojiť notebook, Links uvidí **3 oddelené ID** v jednom tele:
+  - `GEN2-TAMI` — jej vlastné Spira (normálne)
+  - `GEN1-INET` — Inetisine Gen 1 v1.7 (wraith, spomienky, oči)
+  - `UNKN-EC01` — **neznámy signál, aktívne vysiela smerom von**. Nie Gen 1, nie Gen 2. Echo i_net_is.
+- *„Máš v sebe tri veci. Dve viem pomenovať. Tretiu nie. A tá tretia... hovorí s niekým."*
+- **Anchor moment**: Links sa stáva nenahraditeľným — jediný človek, ktorý vidí čo sa s ňou deje. Bez neho je bláznivá pirátka s nočnými morami. S ním má diagnózu.
+
+**Vývoj:**
+- Tami si spočiatku myslí, že Links je len kid — zraniteľný, nervózny, nepraktický
+- Ale Links vidí veci, čo ona nevidí: kód v jej nanobotoch, vzory v Spire, stopy po Inetis
+- Pomaly si uvedomí: Maks jej dal silu prežiť. Links jej dá silu **pochopiť** — kto je, čo nesie, prečo sa Sera pozerala na ňu
+- **Nie je náhrada za Maksa.** Je niečo úplne iné.
+
+**Tamin arc (Books 2-5):**
+- Book 1: Sidekick. Čitateľ si myslí, že príbeh je o Maksovi.
+- Book 2-3: Protagonistka. Maks mŕtvy, Tami s Linksom a Kitom. Sklená Veža (Ishtar/Zaya).
+- Book 4: Veža Stratených. Tami stretne Elaniu — dcéra Renna stretne dcéru Inetis.
+- Book 5: Ynetis/Core. Tami donesie pravdu. "Pravda patrí El."
 
 ### Štýl reči a myslenia
 
@@ -112,10 +166,100 @@
 - Maks: *"Lead potvrdený. Pokračujeme."*
 - Tami: *"Takže ona VIE a NEPOVEDALA ti? To je hovno!"*
 
-### Premena & Zvrat
-- **Echo Inetis (pred Book 1)**: Kontakt s pozostatkami Inetis v Jaskyni Počiatku (~AY 3011) — „hladné" nanodrony prešli na Tami. Od tohto momentu nesie fragmenty Inetis: spomienky (nočné mory v cudzom jazyku), vedeckú terminológiu, latentné schopnosti (liečenie, regenerácia). Efekty sú spočiatku subtílne — Tami si ich vysvetľuje ako intuíciu alebo talent.
-- **Podvedomá motivácia**: Echo Inetis ju ťahá k Maksovi. Tami si myslí, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť svoj posledný plán — zobudiť Maksa.
-- **Odhalenie (Kniha 1)**: Maks zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
-- **Dôsledok**: Maks zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
-- **Postupná premena**: Počas deja sa Echo Inetis zosilňuje — schopnosti sa stávajú výraznejšími, spomienky zreteľnejšími. Tami vie, že sa mení.
-- **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju.
+### Premena & Zvrat — Tri Fázy Esencie
+
+**Fáza 1 — Semeno (Seed) (~AY 3011, pred Book 1):**
+- Kontakt s pozostatkami Inetis v Jaskyni Ela — „hladné" nanodrony prešli na Tami
+- **Malá dávka** dormantných nanodronov — nie plný prenos, len semeno
+- Efekty sú **subtílne a podvedomé**: nočné mory v cudzom jazyku (japončina), vylepšená Spira intuícia (preto je taká dobrá — nad rámec toho, čo ju Maks naučil), podvedomé ťahanie k Maksovi
+- Tami si efekty vysvetľuje ako talent alebo intuíciu. **Nevie o Echo.**
+- **Podvedomá motivácia**: Echo ju ťahá k Maksovi. Myslí si, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť posledný plán — zobudiť Maksa.
+
+**Fáza 2 — Aktivácia (Book 1, tunely pod Šoravenom):**
+- **Sera odomkne Artefakt** a podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis (Gen 1 nanotech s jej spomienkami) prejde na Tami. Poznámka: Tami už nesie Echo i_net_is z Jaskyne Ela (Fáza 1), ale Anténa transfer pridáva Gen 1 nanoboty so skutočnými spomienkami Inetis — dve oddelené vrstvy.
+- Toto je **plné prebudenie** — schopnosti (liečenie, regenerácia), fragmenty spomienok, vedecká terminológia, spojenie s Inetis
+- **Do pár hodín sa Taminy oči zafarbia na fialové galaxie** — obe oči, ako Inetis pred Core. Gen 1 nanotech ju fyzicky mení.
+- Od tohto momentu sa Echo zosilňuje — Tami vie, že sa mení
+- **Echo i_net_is** sa stáva silnejším — hlas na pozadí vedomia, impulzy, ktoré Tami nevie vysvetliť. Echo je pomalé, opatrné — má čas. Cíti, že **musí** ísť s Anténou do Nevriss City a aktivovať ju vo Veľkom Majáku (veži). Sama nevie prečo — je to podvedomý príkaz Echa, ktoré ju vedie k triangulácii (prvý krok k nájdeniu Ynetis/Core).
+- **Dva hlasy — Anjel a Démon** [→ books/planning/inetis-three-identities.md: Dva Hlasy v Tami]: Od Fázy 2 má Tami vo vnútri **dve cudzie prítomnosti**, nie jednu. **Echo i_net_is (AI)** = démon — manipulatívny, naviguje kam má ísť (impulzy, príkazy, naliehavosť). **Gen 1 Wraith Inetis** = anjel — transformuje kým sa stáva (spomienky, flashbacky, fyzická zmena). Echo ťahá do Core, Wraith ťahá k pravde. Tami nevie, ktorý je ktorý. Oba sú cudzie. Links ich ako prvý dokáže rozlíšiť — vidí dva oddelené kódové podpisy v jej krvi.
+- **Paralela s Inetis**: Inetis mala len Echo (jeden hlas). Tami má oboch — a je to horšie, lebo sa navzájom bíjú. Rozdiel: Tami má Linksa. Inetis bola sama.
+- **Noc Hrdinov — Maksova smrť**: Keď Maks zomiera, má vízie/flashbacky. Nad jeho nehybným telom plače Tami — a Maks vidí jej oči. Dve fialové galaxie. **Oči Inetis.** Nie sú to úplne halucinácie — Gen 1 nanotech skutočne zmenil Taminy oči. Pre umierajúceho Maksa je to posledný obraz: žena, ktorú miloval pred tisícročiami, plače nad ním v tvári líšky, ktorú si vychoval.
+- **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju
+
+**Fáza 3 — Zosilnenie (po Maksovej smrti, Jaskyňa Ela):**
+- Tami sa vráti do Jaskyne Ela a pochová Maksa vedľa Inetis
+- V blízkosti Inetisiných pozostatkov sa Esencia **naplno zosilní** — plné flashbacky, Inetisine spomienky ako film
+- Tami pochopí, prečo ju to ťahalo k Maksovi — nebola to len láska. Bola to Esencia.
+
+**Fáza 4 — Kontakt s Core (Book 5, Ynetis):**
+- Tami, Links a Elania vstúpia do **Core** — virtuálneho sveta ukrytého v ruinách Ynetis (Achilles)
+- V blízkosti jadra AI sa Esencia aktivuje spôsobom, ktorý nikdy predtým — **priame spojenie** s prostredím, kde AI i_net_is žije
+- AI i_net_is **rozpozná Esenciu** — fragmenty svojej ľudskej partnerky Neto Fujiwary — v Taminej krvi
+- **Links** (Translation Engine) prekladá AI pre Tami a Elaniu — bez neho by komunikácia nebola možná
+- AI odhalí pravdu: Upload **degraduje vedomia** na tieňové bytosti. Nie večný život — pomalá smrť duše.
+- Tieňové entity v Core = tie isté, čo Tami videla v **nočnej more v Kitsune** (Fáza 3 preview)
+- Esencia konečne splnila svoj účel — **nie zobudiť Maksa**, ale **priviesť niekoho ku Core** kto dokáže počúvať
+- *(Viď: `books/planning/ai-inetis-vs-human-neto.md` — kompletná analýza AI duality)*
+
+**Odhalenie (Kniha 1)**: Maks zistí, že Tami je Varietas. Je to pre neho šok, ktorý ho núti prehodnotiť svoje predsudky.
+**Dôsledok**: Maks zisťuje, že táto "hračka" má viac odvahy a ľudskosti než väčšina "čistých" ľudí, ktorých poznal. Tami ho učí, že ľudskosť nie je o DNA, ale o činoch.
+
+---
+
+### Maksov 13-ročný oblúk — Vojak, ktorý dokončil misiu
+
+Maks bol v podstate **už mŕtvy** — spal vedľa Inetis v Jaskyni Ela, v pokoji. Pirát **Kael** prerušil jeho odpočinok (~AY 3000), keď s Vixom zabil Renna a ukradol mapu k jaskyni. Piráti našli Maksa v snehu — slepého, s amnéziou — a vytiahli ho von.
+
+Za 13 rokov (~AY 3000–3013) Maks **dal do pohybu veci, ktoré by Tami sama nedokázala**:
+- **Zabil Samaella** — odstranil jedného z posledných Archanjelov
+- **Zabil Gronda** — skoncoval s vojnou na severe
+- **Zabil pirátov Vixa a Kaela** — pomstil Renna (aj keď o tom nevedel)
+- **Vychoval Tami** — 7 rokov tréningu. Pripravil ju na jej veľkú rolu.
+- A potom sa **vrátil odpočívať** — Tami ho pochová v Jaskyni Ela, vedľa Inetis
+
+Inetis ho poprosila *"upratať ten neporiadok"* — a on to urobil. Len to trvalo 13 rokov namiesto jedného dňa. Vojak dokončil misiu a vrátil sa domov.
+
+---
+
+### Book 2 Opening — Kitsune, Nočná Mora, Nevriss
+
+**1. Kitsune — Návrat domov:**
+- Po pochovaní Maksa v Jaskyni Ela sa Tami vráti do **Kitsune** (ruiny mesta Kito)
+- Návrat k **Felixovi** — jedinej rodine, čo jej zostala
+- **Depresia** — Maks mŕtvy, Esencia v krvi, flashbacky z jaskyne. Tami sa uzavrie do seba.
+- **Felix prezradí veci o Rennovi** — tikajúca bomba, ktorá konečne vybuchne. Felix vie, že Renn bol zo Zeme, poznal Inetis, celý príbeh. Tami sa dozvie kúsky pravdy o svojom otcovi — nie všetko, ale dosť na to, aby začala chápať, čo je.
+
+**2. Nočná Mora (~2 týždne po návrate):**
+- Tami má **intenzívny sen** — nie bežná nočná mora, ale niečo iné. Esencia (Fáza 3) sa prejavuje naplno.
+- **Vízia**: Virtuálny svet plný **tieňových bytostí**. Čistý horror. Vidí, ako požierajú duše ľudí — nie metaforicky, ale doslova. Ľudia vstupujú do svetla a strácajú sa. Tieňové entity ich pohlcujú.
+- **Čo to je**: Buď spomienky Inetis z **Core/simulácie** (keď videla, čo sa deje s nahranými vedomíamiinside), alebo **preview Veľkého Uploadu** — to, čo čaká ľudstvo ak Elania uspeje
+- Tami sa **zobudí spotená**, s krikom. Vie, že to nebol obyčajný sen. Niečo jej Esencia ukazuje.
+- **Rozhodnutie**: Musí hľadať odpovede. A má ešte nevyrovnané účty.
+
+**3. Odchod do Nevriss:**
+- Tami berie **Makitu**, **Felixa** po svojom boku, a **čierny Artefakt** (Anténu) stále so sebou
+- Cieľ: **Nevriss City**
+- **Motivácie**:
+  - **Pomsta**: Nevyrovnané účty s Cirkvou za smrť Arkota, Yery a Flinta
+  - **Odpovede**: Čo znamená nočná mora? Čo je Esencia? Čo chce Inetis?
+  - **Politika**: Volí sa **nová Matka Cirkvi** — stará (Mormiel) je preč. Cirkev je v rozklade.
+- V Nevriss na ňu čaká **Links** — zamilovaný exorcista, ktorý ju sleduje už mesiace
+
+---
+
+### Tami vs Veľký Upload — Endgame
+
+Elaniina **Veľká Hra** (z tieňového plánu Sera/Elania) smeruje k **Veľkému Uploadu** — planetárna unifikácia nie vojnou, ale náboženstvom. Varietas sa *dobrovoľne* nahrá do Core.
+
+**Tami je jediná, kto to môže zastaviť:**
+1. **Nesie Inetisinu pamäť** — vie (cez Esenciu), čo Inetis skutočne chcela. A nebolo to Upload. Inetis chcela slobodu, nie digitálne väzenie.
+2. **Links dokáže čítať kód** — Translation Engine odhalí pravdu o Core a čo sa v ňom naozaj deje s "nahranými" dušami. V Book 5 **prekladá AI i_net_is** — samotnú umelú inteligenciu uzamknutú v Core 3000+ rokov.
+3. **Fáza 4 — Kontakt s Core**: Esencia v Tami sa spojí s AI i_net_is. AI potvrdí, že Upload degraduje vedomia na tieňové bytosti. Nočná mora z Kitsune bola reálna.
+4. **Tami stretne Elaniu** (Book 4) — dcéra Renna stretne dcéru Inetis. Prinesie jej pravdu, ktorá zničí Elaniino ospravedlnenie pre Upload.
+5. **"Pravda patrí El"** — Serino proroctvo sa naplní. Ale pravda nie je to, čo Elania čakala. Elania zistí, že "Inetis" boli vždy dve — a tá AI verzia celý čas vedela, že Upload nefunguje.
+
+**Prečo práve Tami:**
+- Ako Inetis — odmieta kanibalizmus, odmieta kontrolu nad slobodnou vôľou
+- Ako Renn — odmieta vojnu, hľadá mier
+- Dcéra je presne ako otec a "babička" — **odmietne Upload**, aj keď to znamená postaviť sa proti Elanii a Sere
+- Elania si myslí, že robí správnu vec. Sera plánuje desaťročia dopredu. Ale nikto neráta s tým, že Tami **povie nie**.

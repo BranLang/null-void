@@ -53,7 +53,7 @@ Kito is the first Varietas to understand who Maks truly is.
 - **Traveling team member**: Kito is the encyclopedia of this world. Wherever the team goes, Kito provides historical context, translates inscriptions, explains traditions, and reveals hidden connections between lore and reality. He is the "walking lore dump" — but in a way that feels organic, because he is an archaeologist in the field.
 - **Lore-bearer**: Through Kito, the reader learns about the world — the Doctrines of the Four Arrivals, the forbidden texts, the true history of the Cult of the Mother, Ynetis. Kito is the bridge between Maks's scientific worldview and the religious world of the Varietas.
 - **Moral conscience**: Unlike Maks (cynical soldier) and Tami (pragmatic pirate), Kito cares about consequences. He asks the questions the other two do not want to hear: "What if the prophecy is true? What if we are the ones who open the doors to the apocalypse?"
-- **Expert on the Paladins**: The only one who knows about the Apes Paladins from reading old sailors' logs and forbidden texts from Aprika. He knows that their shields are not Spira but ancient technology (Hard Light) that cannot be hacked — but can be overloaded with brute force.
+- **Expert on the Paladins**: The only one who knows about the Apes Paladins from reading old sailors' logs and forbidden texts from Simira. He knows that their shields are not Spira but ancient technology (Hard Light) that cannot be hacked — but can be overloaded with brute force.
 
 ### Equipment
 

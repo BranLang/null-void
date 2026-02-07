@@ -270,16 +270,18 @@
 - Nebojuje o ňu — len je tam, keď ho potrebuje
 - *"Nemusíš si ma vybrať. Stačí, že existuješ."*
 
-### Maks (Rival?)
+### Maks (Deceased — Predchodca)
 
 **Linksov pohľad na Maksa:**
 - Legenda. Spáč. Nesmrteľný exorcista.
 - Ale tiež: *"Nechal ju. Odmietol ju. Zranil ju."*
 - Links ho rešpektuje ako vojaka — nie ako partnera pre Tami
+- **Po Maksovej smrti:** Links zdedí miesto po ňom — nie ako vojak, ale ako Tamin spojenec. Nikdy sa nestretnú. Links pozná Maksa len z legiend a z Taminých spomienok. Súperí s duchom.
 
-**Maksov pohľad na Linksa:**
-- TBD — stretnú sa neskôr?
-- Pravdepodobne: *"Kto je tento kid?"*
+**Dynamika Maks → Links:**
+- Maks bol **štít** (chránil Tami v boji). Links je **kľúč** (odomyká kód bohov v jej krvi).
+- Maks bol rovný partner. Links je slabší fyzicky — ale prináša to, čo Maks nemal: schopnosť čítať Esenciu Inetis.
+- Tami sa musí naučiť, že nepotrebuje nového Maksa — potrebuje Linksa presne takého, aký je.
 
 ### Mormiel (Nemesis)
 
@@ -314,17 +316,33 @@
 
 ## Rola v príbehu
 
-### Kniha 2-3? (TBD)
+### Book 2+ — Tamin nový sidekick
+
+**Po Maksovej smrti (koniec Book 1):**
+- Maks padne zo vzducholode. Tami zostáva sama s proroctvom, Anténou a Esenciou Inetis.
+- Links ju nájde v Nevriss — práve včas, aby hackol Mormiel a pomohol Tami prežiť.
+- **Links nahradí Maksa** — ale úplne inak. Nie ako vojak, ale ako vedec. Nie ako štít, ale ako kľúč.
+
+**Čo Links prináša do tímu:**
+- **Translation Engine** — dokáže čítať Gen 1/2 kód. Odomyká Esenciu Inetis v Taminej krvi.
+- **Inetis Laptop** — denníky, source code, stopy k pravde
+- **Analytický mozog** — kde Maks videl nepriateľov, Links vidí vzory a odpovede
+- **Ľudskosť** — po tisícročnom vojakovi, mladý idealistický vedec je pre Tami niečo nové
+
+**Arc:**
+- Book 2-3: Sidekick Tami. Cesta ku Sklenej Veži. Links sa učí prežiť v reálnom svete.
+- Book 4: Veža Stratených — Links stretne Elaniu (svoju vládkyňu, ktorú nikdy nevidel)
+- Book 5: Ynetis/Core — Links je Translation Engine medzi Tami a Core AI
 
 **Expozícia:**
 - **Ludus:** Život pod Elaniou, frustrácia mladých
-- **Inštitút:** Lore dumpy o Wraithoch, histórii, Linuxe
+- **Inštitút:** Lore o Wraithoch, histórii, Linuxe
 - **Cesta:** Stav Graw po vojne, dôsledky Grondovej porážky
 
 **Akcia:**
 - Zachráni Tami pred Mormiel
 - Odhalí pravdu o Požehnanej Matke
-- Stane sa Tamiho spojencom (a možno viac)
+- Stane sa Taminým spojencom, partnerom, a postupne love interestom
 
 **Butterfly Effect:**
 - Jeho cesta cez Graw → vidí dôsledky vojny

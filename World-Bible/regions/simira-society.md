@@ -1,11 +1,11 @@
-# Aprika — The Silent Continent
+# Simira — The Silent Continent
 
 > *"Sme ich deti. Ale nie sme ich otroci."* — Goro, Cézar Apes
 
 ---
 
 ## Prehľad
-**Aprika** (Južný kontinent) je domovom civilizácie **Apes** — inteligentných primátov, potomkov geneticky modifikovaných zvierat z kolonizačnej lode ARK-11. Pre zvyšok sveta (Terra) je to divoká džungľa obývaná "zvieratami". V skutočnosti je to **vojenská technokracia**, ktorá sa ukrýva pred zrakom sveta.
+**Simira** (Južný kontinent) je domovom civilizácie **Apes** — inteligentných primátov, potomkov geneticky modifikovaných zvierat z kolonizačnej lode ARK-11. Pre zvyšok sveta (Terra) je to divoká džungľa obývaná "zvieratami". V skutočnosti je to **vojenská technokracia**, ktorá sa ukrýva pred zrakom sveta.
 
 | Atribút | Detaily |
 |---|---|
@@ -69,7 +69,7 @@ Paladíni sa rozlišujú farbou chochola (Plume) a detailov na zbroji:
 
 Apes sa vyvíjali oddelene od Terry, preto majú úplne iné technológie:
 
-| Kategória | Apes (Aprika) | Terra (Nevriss/Graw) |
+| Kategória | Apes (Simira) | Terra (Nevriss/Graw) |
 |---|---|---|
 | **Energia** | **Fúzia** (čistá, neobmedzená) | Spalovacie motory (Diesel) / Pára |
 | **Materiály** | Pokročilá metalurgia, kompozity | Oceľ, recyklovaný šrot |
