@@ -14,7 +14,7 @@
 | **Saga Title** | Null Void |
 | **Alternative Title** | Battle for Achilles |
 | **Format** | Pentalogy (5 books) |
-| **Genre** | Anime Sci-Fi / Dieselpunk / Grimdark Light Novel |
+| **Genre** | Anime Sci-Fi / Dieselpunk / Grimdark Novel |
 | **Author** | Bran Lang |
 
 ---

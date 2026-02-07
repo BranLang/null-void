@@ -6,22 +6,31 @@
 
 ## 1. Čo to je
 
-**Anime Sci-Fi Dieselpunk Grimdark Light Novel**
+**Anime Sci-Fi Dieselpunk Grimdark Novel**
 
 Nie je to jeden žáner s príchuťou iného. Je to **DNA helix** — štyri vlákna skrútené do jedného organizmu:
 
 | Vlákno | Čo prináša | Príklad v NULL VOID |
 |--------|------------|---------------------|
-| **Anime / Light Novel** | Formát, pacing, archetypy, tónové shifty, vizuálny dizajn postáv | Krátke kapitoly s hookom. Tami = tsundere pirátka. Sera = kawaii hlas v tele zabijaka. „Kowai." |
+| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere pirátka. Sera = kawaii hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
 | **Sci-Fi (Hard)** | Pravidlá, limity, logika, Clarke's Law ako motor deja | Pentagram = IDE. Modlitby = voice-activated skripty. Wraithy = nanoboty s pudom sebazáchovy. |
 | **Dieselpunk** | Estetika, technologická úroveň, atmosphere | Vodíkové vzducholode, revolvery, art deco, žiadna elektronika. Rúry, ozubené kolesá, para. |
 | **Grimdark** | Dôsledky, morálna komplexita, žiadny plot armor | Verejné upálenia. Body horror (Maya → kryštál). Kastový systém. Smrť je permanentná. |
 
+### Formát: Autorský, nie konvenčný
+
+NULL VOID **nie je light novel**. Nemá formátové obmedzenia tradičných light novel. Je to **autorská séria**, ktorá si berie z anime estetiku a archetypy, ale píše sa vlastnými pravidlami:
+
+- **Kapitoly majú dĺžku, akú potrebujú** — ak scéna vyžaduje priestor, dostane ho
+- **Atmosférický "fat" zostáva** — agitátor s kozačími rohami nie je filler, je to worldbuilding. Čierny humanoidný cap s pentagramom na krku = vizuál, ktorý definuje tón sveta.
+- **Strihanie tuku** = odstraňovanie redundantných expozícií a vysvetľovania, **NIE** atmosféry, worldbuildingu a vizuálov, ktoré budujú svet
+- **Konvencie žánrov sú inšpirácia, nie mantinely** — ak scéna funguje, zostáva, bez ohľadu na formát
+
 ### Prečo táto kombinácia neexistuje
 
-Anime a grimdark sa bežne nemixujú — anime resetuje dôsledky (power-up vyrieši všetko), grimdark nemá levity. Dieselpunk je vzácny žáner sám o sebe. A hard sci-fi pod fantasy povrchom je vzácnejší ako ľudia, čo to robia dobre (Wolfe, Vance, Banks — nikto z nich nepísal light novel).
+Anime a grimdark sa bežne nemixujú — anime resetuje dôsledky (power-up vyrieši všetko), grimdark nemá levity. Dieselpunk je vzácny žáner sám o sebe. A hard sci-fi pod fantasy povrchom je vzácnejší ako ľudia, čo to robia dobre (Wolfe, Vance, Banks).
 
-NULL VOID je odpoveď na otázku: „Čo keby Nausicaä mala Fullmetalov lore, Tanyinu brutalitu, a formát light novely?"
+NULL VOID je odpoveď na otázku: „Čo keby Nausicaä mala Fullmetalov lore, Tanyinu brutalitu, a vlastný hlas?"
 
 ---
 

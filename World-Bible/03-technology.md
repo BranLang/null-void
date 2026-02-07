@@ -89,6 +89,27 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
+### Gen 1 Vizuálny Opis (Pravidlo pre text)
+Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
+- **Neaktívne**: Vyzerajú ako **čierny prach** — jemné tmavé zrnká, takmer neviditeľné
+- **Aktívne**: Pri zvýšenej aktivite vyzarujú **fialové svetlo** (ultrafialové) — jemné záblesky, nie žiara. Čím väčšia aktivita, tým intenzívnejšie fialové pulzovanie.
+- **Mikroskopické**: Malé čierne prachové zrnká, ktoré sa na mikroskopickom leveli spájajú a formujú zariadenia
+- **OS**: Bežia na Linuxe
+- **V tele**: Prepletené prachové uzly — pri detailnom pohľade vyzerajú ako **hniezdo hadov**, hýbu sa, preplietajú sa a svetielkujú na fialovo
+- **Maksove oči**: Čierny Prach v očných jamkách — prachové uzly poprepletané ako hniezdo hadov, neustále sa hýbu a preplietajú, pri aktivite **jemne fialovo svetielkujú**
+
+> **Pravidlo pre popis Gen 1 nanotech v texte:**
+> Vždy keď popisujeme Gen 1 nanotech v akcii: **čierny prach** + **fialové svetielka/záblesky** (jemné, nie dramatické). Toto je konzistentná vizuálna signatúra celej série.
+
+### Inetisina Unikátna Esencia
+Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
+- **Pôvod**: Vznikla počas Glitch Eventu (EY 2060), keď bola i_net_is v epicentre kontaktu s Tieňovými
+- **Nie je Gen 1 ani Gen 2** — je to interdimenzionálny gen z kontaktu s Tieňovými
+- **Nemá fyzické komponenty** — funguje na vyššej dimenzii než fotonické Gen 2
+- Po smrti Inetis prešla cez Anténu na Tami (prvý dotyk)
+- Vymyká sa chápaniu aj najstarších bytostí na Achillovi
+- Viď `characters/Inetis.md` → Unikátna Esencia Inetis
+
 ### Paradox skúseností
 Archanjeli (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archanjel dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
 - Vedia drony „tkať" do komplexných štruktúr
