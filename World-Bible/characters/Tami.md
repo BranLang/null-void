@@ -111,6 +111,14 @@
 - **Links je kľúč** — vedec, naivný, slabší fyzicky, ale rozumie kódu bohov. Dokáže čítať Esenciu v jej krvi, odomknúť to čo Sera začala.
 - Maks ju **chránil**. Links ju **potrebuje** — a ona potrebuje jeho.
 
+**Tri ID Scan** [→ books/planning/inetis-three-identities.md: Linksa úloha]:
+- Keď mu Tami dovolí pripojiť notebook, Links uvidí **3 oddelené ID** v jednom tele:
+  - `GEN2-TAMI` — jej vlastné Spira (normálne)
+  - `GEN1-INET` — Inetisine Gen 1 v1.7 (wraith, spomienky, oči)
+  - `UNKN-EC01` — **neznámy signál, aktívne vysiela smerom von**. Nie Gen 1, nie Gen 2. Echo i_net_is.
+- *„Máš v sebe tri veci. Dve viem pomenovať. Tretiu nie. A tá tretia... hovorí s niekým."*
+- **Anchor moment**: Links sa stáva nenahraditeľným — jediný človek, ktorý vidí čo sa s ňou deje. Bez neho je bláznivá pirátka s nočnými morami. S ním má diagnózu.
+
 **Vývoj:**
 - Tami si spočiatku myslí, že Links je len kid — zraniteľný, nervózny, nepraktický
 - Ale Links vidí veci, čo ona nevidí: kód v jej nanobotoch, vzory v Spire, stopy po Inetis

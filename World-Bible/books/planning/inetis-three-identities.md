@@ -144,7 +144,31 @@ Echo chce, aby Tami otvorila Core. Wraith chce, aby Tami pochopila, prečo by ne
 
 **Rozdiel oproti Inetis:** Inetis mala len jeden hlas — Echo i_net_is (AI). Nemala wraith, lebo wraith je **ona sama**. Tami má oboch — a je to horšie, lebo sa navzájom **bíjú**. Echo ťahá dopredu (do Core), Wraith ťahá späť (do pravdy). Tami je medzi nimi ako lano v preťahovaní.
 
-**Linksa úloha:** Links je prvý, kto dokáže rozlíšiť dve vrstvy v Taminej krvi — vidí ich ako oddelené kódové podpisy. Echo (AI signal) vs Wraith (organický, spomienkový pattern). Pre Tami je to prvýkrát, keď niekto jej vnútorný chaos pomenuje. *„Máš v sebe dve veci. A nie sú to isté."*
+**Linksa úloha — Tri ID v jednom tele:**
+
+Links je prvý, kto dokáže rozlíšiť, čo sa v Tami deje. Keď mu Tami dovolí pripojiť notebook na seba (rovnako ako sa predtým pripojil na Mayu), uvidí niečo, čo ho zastaví:
+
+```
+SCAN RESULTS:
+[1] GEN2-TAMI-7F3A    | Status: ACTIVE  | Type: Standard Spira  | Host: native
+[2] GEN1-INET-0017    | Status: ACTIVE  | Type: Legacy v1.7     | Host: foreign (merged)
+[3] UNKN-????-EC01    | Status: ACTIVE  | Type: ????????         | Host: ????????
+    WARNING: Unclassified signal. Non-standard protocol. Active transmission detected.
+```
+
+**Tri oddelené ID v jednom tele.**
+
+1. `GEN2-TAMI` — jej vlastné Spira nanoboty. Normálne, zdravé. Toto videl aj u Mayi.
+2. `GEN1-INET` — Inetisine Gen 1 (v1.7). Legacy kód, ale stabilný. Merged s hostiteľom. Wraith — spomienky, fyzická zmena, fialové oči.
+3. `UNKN-EC01` — **WTF.** Nie Gen 1, nie Gen 2. Neznámy protokol. Fragmentované ID. Ale **aktívne vysiela**. Smerom von. Niekam.
+
+Links pozná prvé dva. Tretí nie. A ten tretí *komunikuje*. S kým? S čím? Links nevie — ale vie, že to nie je dormantný wraith. Toto je niečo, čo **aktívne hľadá spojenie**.
+
+> **Links**: *„Máš v sebe tri veci. Dve viem pomenovať. Tretiu nie. A tá tretia... hovorí s niekým."*
+
+**Pre Tami** je to prvýkrát, keď niekto jej vnútorný chaos pomenuje. Dva hlasy, o ktorých vedela, plus tretí, o ktorom nevedela. Echo i_net_is nie je len hlas v hlave — je to aktívny signál. AI, ktorá sa snaží nadviazať spojenie s Core. A robí to **cez Tami**.
+
+**Linksov anchor moment:** Toto je bod, kedy sa Links stáva pre Tami nenahraditeľným. Nie ako milenec — ako **jediný človek na planéte, ktorý vidí, čo sa s ňou deje**. Bez neho je len bláznivá pirátka s nočnými morami. S ním má diagnózu. A diagnóza je prvý krok k liečbe — alebo aspoň k pochopeniu.
 
 ---
 
