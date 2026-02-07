@@ -70,11 +70,11 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maksa
 3. **EY 2060**: Glitch Event — Tieňoví sa pokúsia masovo komunikovať, fatálne pre ľudské mozgy; i_net_is núdzovo vypne simuláciu
 4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
-5. **EY 2065-2100**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis, vzťah s Maksom
+5. **EY 2065-2100+**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis. Romantické vzťahy s Helenou aj Maksom (~230 rokov on-off). Maks ju úprimne miloval. Ona ho odmietala — nemohla mu odpustiť, že nahradil Helenu. Nie jeho vina (rozkaz Koordinátora), ale emocionálne bol náhradou. Helena a Maks neboli rivali — boli dve rôzne časti jej života.
 6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
-7. Unikla zo Zeme s Maksom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových)
-8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie viedlo k počatiu Elenie
-9. Po pristátí zistila tehotenstvo, uspala Maksa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť
+7. Unikla zo Zeme s Maksom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových). Helena zostala na Zemi so zbalenými kuframi. Posledné slová: *„Takto je to správne. Choď a vybuduj niečo pekné pre nás obe."* [→ characters/Helena.md]
+8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie viedlo k počatiu Elanie. Nanoboty detekovali fertilizáciu a dali Inetis voľbu cez HUD popup (24. storočie — žena rozhoduje PRED, nie PO). Inetis bez váhania odmietla tehotenstvo. Systém vyžadoval server autorizáciu — server bol 4.6 ly ďaleko. Submit zlyhal. Default = pokračovať. Inetis bola tehotná napriek svojej jednoznačnej voľbe. [→ books/planning/inetis-conception-popup.md]
+9. Po pristátí uspala Maksa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť. Toto je dôvod, prečo ho nezobudila. Nie pomsta — strach.
 9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maksov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
 
 > [!NOTE]
@@ -99,7 +99,18 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 13. Na Elysiu prekonfigurovala NULL VOID na **Foundry** (továreň) — vyrábala v1.0 nanodrony, z ktorých vyrástlo celé mesto. **Anténa bola kľúčová** — bez nej by nedokázala ovládať veľké roje nanodronov potrebné na stavbu mesta
 14. Založila mesto **Elysium** (neskôr Ynetis) — postavené z v1.0 nanodronov z Foundry. **Anténa** sa stala jej hlavným nástrojom a zbraňou — zosilňovač schopný ovládať milióny nanobotov naraz. **Anténa bola umiestnená na najvyššom bode Elysia** — na vrchole vežovej citadely — kde odpudzovala Wraithov od jadra a vytvárala bezpečnú zónu okolo mesta. Preto k nej Elania nemala prístup — bola strážená a nedostupná.
 15. Keď vypukol **Glitch Rot**, rekonfigurovala Foundry na **The Core** (simulácia) — vyvíjala nové, bezpečnejšie nanoboty v2.0 / Dar Matky (~100 simulovaných rokov)
-16. Po návrate našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archanjelmi)
+
+> [!NOTE]
+> **Odpustenie (~1000 rokov po pristátí):**
+> Inetis cestovala pešo 2 roky k Maksovmu sarkofágu v jaskyni Ela. V hlave už mala neporiadok (Echo i_net_is naberalo na sile). Vyspovedala sa Rennovi — jedinému, komu dôverovala.
+>
+> **Odpustila Maksovi.** Nehnevala sa. Začala sa obviňovať — boli možno poslední dvaja ľudia vo vesmíre (nevedeli, či mimozemšťania nezničili aj kolonizačné lode). Maks ju úprimne miloval 230 rokov. Ona ho odmietala. Helena jej povedala "choď, je to tak správne" — a Inetis strávila storočia odmietaním toho, čo Helena pre ňu obetovala.
+>
+> **Nevieme presne, čo sa stalo na lodi.** Inetis to vnímala ako napadnutie. Maks to možno vnímal inak. 230 rokov odmietania, izolácia, dvaja ľudia v plechovej konzerve 3 roky. Toto nie je čiernobiely príbeh. Ale Inetis po 1000 rokoch dospela k mieru — nie k zabudnutiu, ale k pochopeniu.
+>
+> Nezobudila ho. Ale odpustila mu. A zomrela opretá o jeho kryobox.
+
+16. Po návrate z Core našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archanjelmi)
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
