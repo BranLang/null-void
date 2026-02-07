@@ -72,6 +72,49 @@ Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam so zbalenými 
 
 ---
 
+## Helena Trójska — Katalyzátor pádu civilizácie
+
+Helena nechcela vojnu. Chcela len lásku. A práve tým spustila reťaz udalostí, ktorá zničila všetko.
+
+### Reťaz príčin a následkov
+
+1. **Helena + Inetis = pár** → plán odletieť spolu na NULL VOID, nový začiatok
+2. **Koordinátor vidí problém**: jeho dcéra letí s umelkyňou, nie s vojakom. Na neznámej planéte. Žiadna ochrana.
+3. **Koordinátor pošle Maksa** → Helena zostane so zbalenými kuframi na Zemi
+4. **Inetis + Maks sami na lodi** → trauma [→ planning/inetis-conception-popup.md] → Elania
+5. **Inetis nenávidí Maksa** → uspí ho do kryospánku → žiadny leader pre novú civilizáciu
+6. **Inetis sama** → vedkyňa, nie vodkyňa → buduje systémy, nie spoločnosť
+7. **Bit rot, Glitch, rozpad** → Varietas upadnú do doby kamennej → 3000 rokov temný vek
+
+### Čo keby Helena neexistovala?
+
+Keby nebolo Heleny, Maks a Inetis letia spolu — ako pár, nie ako obete rozkazu. Žiadna trauma na lodi. Zdravý vzťah.
+
+- **Maks je generál** — vie viesť ľudí, organizovať, bojovať, rozhodovať v kríze
+- **Inetis je architektka** — vie stavať systémy, technológiu, infraštruktúru
+- **Spolu** sú kompletný tím: on vedie, ona tvorí
+- Bit rot? Maks organizuje obranu a evakuáciu, Inetis hľadá riešenie. Nie jedna vyčerpaná žena proti všetkému.
+- Varietas by mali technológiu **A** leadership. Nie dobu kamennú.
+
+Koordinátor nenahradil Helenu — **nahradil lásku rozkazom**. A z rozkazu sa narodila trauma, nie partnerstvo.
+
+### Helena to vedela
+
+> *„Nie. Nemôžeš. A neodmietneš. Si architektka, nie bojovníčka. On ťa dokáže ochrániť. Ja nie."*
+
+Vedela, že Maks je pragmaticky lepšia voľba. Vedela, že ona je — z vojenskej perspektívy — slabý článok. A pustila ju. Dobrovoľne. Pretože milovala Inetis viac, než milovala seba.
+
+A práve to bola chyba. Nie Helenina — **Koordinátorova**. Pretože Inetis nepotrebovala ochrancu. Potrebovala partnerku. A bez partnerky sa rozpadla. A s ňou sa rozpadlo všetko.
+
+> [!IMPORTANT]
+> **Helena Trójska — plná paralela:**
+> Helena Trójska nechcela vojnu — chcela lásku. A padlo Trójsko.
+> Helena (Ex Inferis) nechcela katastrofu — chcela Inetis. A padla celá civilizácia na Achillovi.
+>
+> Obidve Heleny zničili svety nie zbraňou, ale neprítomnosťou. Trójsko padlo, lebo Helena odišla. Achilles padol, lebo Helena **zostala**.
+
+---
+
 ## Na rozšírenie (TBD)
 
 - [ ] Helenin pôvod pred Glitch Eventom
