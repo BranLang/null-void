@@ -231,7 +231,7 @@
 
 **Dynamic:**
 - Sera a Renn boli spolu v **Core Teame Inetis** 150+ rokov (~AY 700-850)
-- Obaja Niktori — ľudia zo Zeme, rovnaká generácia z ARK-11
+- Obaja ľudia zo Zeme, rovnaká generácia z ARK-11 (Sera Japonka, Renn Islanďan)
 - Renn bol civilista, tichý, spoľahlivý — Sera ho rešpektovala, aj keď nebol vojak
 - V určitých kruhoch bol Renn legenda — Sera vie presne kto to bol
 - **Nezabudnuteľné modré oči** — Sera si ich pamätá aj po tisícročiach
@@ -315,7 +315,7 @@
 
 ## Trivia
 
-- **Jedna z ~100 preživších zo Zeme** — Ex Inferis (4), Niktori na Západe (~100: učitelia, lekári, "turisti"), Sera
+- **Jedna z ~100 preživších zo Zeme** — Ex Inferis (4), človek zo Zeme na Západe (~100: učitelia, lekári, "turisti"), Sera
 - **Posledný, čto videl Japonsko** pred zánikom Zeme
 - **Ovláda Haiku skript** (rodný jazyk Inetis/Elanie = Japanese)
 - **Yari = posledná vec z Japonska** vo vesmíre
@@ -337,7 +337,7 @@
 - **Nosička proroctva** — Sera hovorí proroctvo "Tri veže prejdeš" a pozerá sa na **Tami**, nie na Maksa. Celý svet (vrátane čitateľa) predpokladá, že proroctvo je pre Maksa. Nie je.
 
 **Proroctvo patrí Tami:**
-- Sera vidí Rennove modré oči v Tami — vie, že je dcéra Niktoriho
+- Sera vidí Rennove modré oči v Tami — vie, že je dcéra Renna Ólafssona
 - Artefakt/Esenciu dáva Tami, nie Maksovi — Tami je nosička
 - Maks je prostriedok (dostať tím do Shoravenu). Tami je cieľ.
 - **Tri veže = Tamin arc:** Sklená Veža (Book 2-3), Veža Stratených (Book 4), Ynetis/Core (Book 5)

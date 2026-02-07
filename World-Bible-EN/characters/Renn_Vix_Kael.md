@@ -5,22 +5,23 @@
 | | |
 |---|---|
 | **Status** | Dead (killed by pirates Vix and Kael, AY 3000) |
-| **Name** | **Renn** |
-| **Race** | **Niktori** — Homo Sapiens Sapiens (human from Earth) |
+| **Full Name** | **Renn Ólafsson** |
+| **Race** | Homo Sapiens Sapiens (human from Earth) |
+| **Nationality** | Icelandic 🇮🇸 |
 | **Occupation** | Treasure hunter, explorer, aeronaut, founder of Kito |
 | **Origin** | Earth → ARK-11 → Elysium → Inetis Core Team → Kito |
 | **Domain** | Ruins of the city of Kito (Eastern Wilds) |
 
 ### Origin and Character
 
-Renn was a **Niktori** — a human from Earth, one of ~100 survivors from ARK-11. A member of Inetis's Core Team and founder of the city of Kito. He was a quiet, stubborn man with unforgettable blue eyes, a sharp instinct for danger and an even sharper one for opportunity. He spent his whole life on the road — searching for lost artifacts, ancient ruins, and forgotten technologies to sell to guilds and collectors.
+Renn was **Renn Ólafsson** — an Icelander, a human from Earth, one of ~100 survivors from ARK-11. A member of Inetis's Core Team and founder of the city of Kito. He was a quiet, stubborn man with unforgettable blue eyes, a sharp instinct for danger and an even sharper one for opportunity. He spent his whole life on the road — searching for lost artifacts, ancient ruins, and forgotten technologies to sell to guilds and collectors.
 
 ### Renn and Felix — A Millennial Friendship
 
 - **Founding of Kito (~AY 850)**: Renn **founded** the city of Kito (Kitana) — he led the surviving fox families to secret coordinates given by Inetis after the Great Battle. The city grew, prospered. Renn was its unofficial leader.
 - **Third Arrival (AY 2212)**: The ship **Hephaestus** landed at the site carrying thousands of Maki. The foxes welcomed them as "Messengers of the Mother." Among the Maki was **Felix** (E-Series — European series). Renn was there — he had been waiting for this moment for 1300 years.
 - **The Blood Lesson (AY 2212)**: The Maki activated a fusion reactor. It attracted a massive cyclone of Wraiths that devastated the city. The city of millions was reduced to ruins. Felix survived — he had been working deep underground. Several thousand foxes survived.
-- **Friendship**: Renn and Felix have known each other since the Third Arrival. Both from Earth — Renn as a Niktori (human from ARK-11), Felix as a Mako (from Hephaestus). Felix knows who Renn is, where he came from, his entire story. It was a friendship between a man and a machine — unexpected, but deep.
+- **Friendship**: Renn and Felix have known each other since the Third Arrival. Both from Earth — Renn as a human from Earth (human from ARK-11), Felix as a Mako (from Hephaestus). Felix knows who Renn is, where he came from, his entire story. It was a friendship between a man and a machine — unexpected, but deep.
 - **Felix's solitude**: After the Blood Lesson and Renn's renewed departure into the world, Felix remained in the ruins of Kito alone — centuries of solitude, faithful to his Directive: *"Survive. Build. Help humanity."* Renn visited him occasionally.
 - **Return (~AY 2900)**: Renn returned permanently. Felix repaired him, Renn brought parts. Together they made a home in the ruins. This is where Tami was later born (~AY 2993). She grew up surrounded by ruins, machines, and Felix's stories about the old world.
 

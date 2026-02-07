@@ -489,7 +489,7 @@ Pravda patrí El.
 - **Sera sa pozerá na TAMI, nie na Maksa** — proroctvo patrí Tami
 - Maks si automaticky myslí, že je pre neho (ego + "El" = Elania = jeho dcéra)
 - Tami cíti Serin pohľad, ale nechápe. Zapamätá si to.
-- **Plot twist setup:** Celý Book 1 čitateľ predpokladá, že Maks je "chosen one". Proroctvo je pre Tami — dcéru Niktoriho, nosičku Esencie Inetis. Tami prejde tri veže: Sklená Veža (Book 2-3), Veža Stratených (Book 4), Ynetis/Core (Book 5). V poslednej nájde pravdu — a pravda patrí "El" (Elanii).
+- **Plot twist setup:** Celý Book 1 čitateľ predpokladá, že Maks je "chosen one". Proroctvo je pre Tami — dcéru Renna Ólafssona, nosičku Esencie Inetis. Tami prejde tri veže: Sklená Veža (Book 2-3), Veža Stratených (Book 4), Ynetis/Core (Book 5). V poslednej nájde pravdu — a pravda patrí "El" (Elanii).
 - **Ak Maks zomrie:** Proroctvo pokračuje bez neho. Tami bola vždy centrom.
 
 **Character Knowledge States:**
@@ -516,7 +516,7 @@ Pravda patrí El.
 - Analyzovala jeho nanodrony = kinetický swarm (jej counter)
 - Splnila misiu: Confirm Maks je nažive, reportovať Elanii
 - Nechala Artefakt Tami (súčasť Elaniiného plánu — Tami = nosička Esencie Inetis)
-- **Videla Rennove modré oči v Tami.** Sera vie, kto je Tami — dcéra Niktoriho, starého priateľa z Core Teamu. Proroctvo je pre ňu. Sera to vždy vedela.
+- **Videla Rennove modré oči v Tami.** Sera vie, kto je Tami — dcéra Renna Ólafssona, starého priateľa z Core Teamu. Proroctvo je pre ňu. Sera to vždy vedela.
 - **Maks je prostriedok, Tami je cieľ.** Celá misia nebola o Maksovi — bola o tom, dostať Esenciu k Tami.
 
 **Kira (Paladínka):**

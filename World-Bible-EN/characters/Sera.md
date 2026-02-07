@@ -231,7 +231,7 @@
 
 **Dynamic:**
 - Sera and Renn served together in **Inetis's Core Team** for 150+ years (~AY 700-850)
-- Both Niktori — humans from Earth, same generation from ARK-11
+- Both humans from Earth, same generation from ARK-11 (Sera Japanese, Renn Icelandic)
 - Renn was a civilian, quiet, dependable — Sera respected him even though he wasn't a soldier
 - In certain circles, Renn was a legend — Sera knows exactly who he was
 - **Unforgettable blue eyes** — Sera remembers them even after millennia
@@ -315,7 +315,7 @@
 
 ## Trivia
 
-- **One of ~100 survivors from Earth** — Ex Inferis (4), Niktori in the West (~100: teachers, doctors, "tourists"), Sera
+- **One of ~100 survivors from Earth** — Ex Inferis (4), human from Earth in the West (~100: teachers, doctors, "tourists"), Sera
 - **The last person to have seen Japan** before Earth's destruction
 - **Masters Haiku script** (native language of Inetis/Elania = Japanese)
 - **The Yari = the last artifact from Japan** in the universe
@@ -337,7 +337,7 @@
 - **Prophecy bearer** — Sera speaks the prophecy "Three towers you shall pass" while looking at **Tami**, not Maks. The entire world (including the reader) assumes the prophecy is for Maks. It isn't.
 
 **The Prophecy belongs to Tami:**
-- Sera sees Renn's blue eyes in Tami — she knows Tami is Niktori's daughter
+- Sera sees Renn's blue eyes in Tami — she knows Tami is Renn Ólafsson's daughter
 - She gives the Artifact/Essence to Tami, not Maks — Tami is the carrier
 - Maks is the means (getting the team to Shoraven). Tami is the target.
 - **Three towers = Tami's arc:** The Glass Tower (Book 2-3), Tower of the Lost (Book 4), Ynetis/Core (Book 5)

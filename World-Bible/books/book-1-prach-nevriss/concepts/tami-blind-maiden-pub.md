@@ -90,7 +90,7 @@ Odíde. Pri dverách si nasadí kapucňu. Na ulici, keď je z dosahu:
 
 **Nevie:**
 - Že Renn bol zo Zeme / nesmrteľný / 3000 rokov starý
-- Že Tami je dcéra Niktoriho (len tuší, že je "mláďa")
+- Že Tami je dcéra Renna Ólafssona (len tuší, že je "mláďa")
 - Že za mincami stojí Sera
 - Že kresba na nástenke je cielená manipulácia
 

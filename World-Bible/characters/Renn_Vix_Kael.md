@@ -5,22 +5,23 @@
 | | |
 |---|---|
 | **Status** | Mŕtvy (zabitý pirátmi Vix a Kael, AY 3000) |
-| **Meno** | **Renn** |
-| **Rasa** | **Niktori** — Homo Sapiens Sapiens (človek zo Zeme) |
+| **Plné meno** | **Renn Ólafsson** |
+| **Rasa** | Homo Sapiens Sapiens (človek zo Zeme) |
+| **Národnosť** | Islanďan 🇮🇸 |
 | **Povolanie** | Hľadač pokladov, prieskumník, aeronaut, zakladateľ Kita |
 | **Pôvod** | Zem → ARK-11 → Elysium → Core Team Inetis → Kito |
 | **Doména** | Ruiny mesta Kito (Východná Divočina) |
 
 ### Pôvod a Charakter
 
-Renn bol **Niktori** — človek zo Zeme, jeden z ~100 preživších z ARK-11. Člen Core Teamu Inetis, zakladateľ mesta Kito. Bol to tichý, tvrdohlavý muž s nezabudnuteľnými modrými očami, ostrým inštinktom pre nebezpečenstvo a ešte ostrejším pre príležitosti. Celý život bol na cestách — hľadal stratené artefakty, staré ruiny a zabudnuté technológie, ktoré predával gildom a zberateľom.
+Renn bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživších z ARK-11. Člen Core Teamu Inetis, zakladateľ mesta Kito. Bol to tichý, tvrdohlavý muž s nezabudnuteľnými modrými očami, ostrým inštinktom pre nebezpečenstvo a ešte ostrejším pre príležitosti. Celý život bol na cestách — hľadal stratené artefakty, staré ruiny a zabudnuté technológie, ktoré predával gildom a zberateľom.
 
 ### Renn a Felix — Tisícročné Priateľstvo
 
 - **Založenie Kita (~AY 850)**: Renn **založil** mesto Kito (Kitana) — doviedol prežívajúce líščie rodiny na tajné koordináty od Inetis po Veľkej Bitke. Mesto rástlo, prosperovalo. Renn bol jeho neoficiálnym vodcom.
 - **Tretí Príchod (AY 2212)**: Na miesto pristála loď **Hephaestus** s tisíckami Maki. Líšky ich privítali ako „Poslov Matky". Medzi Maki bol **Felix** (Séria E — Európska séria). Renn bol pri tom — čakal na tento moment 1300 rokov.
 - **Lekcia Krvi (AY 2212)**: Maki spustili fúzny reaktor. Pritiahli obrovský cyklón Wraithov, ktorý zdevastoval mesto. Z miliónového Kitsune zostali ruiny. Felix prežil — pracoval hlboko pod zemou. Niekoľko tisíc líšok prežilo.
-- **Priateľstvo**: Renn a Felix sa poznajú od Tretieho Príchodu. Obaja zo Zeme — Renn ako Niktori (človek z ARK-11), Felix ako Mako (z Hephaestus). Felix vie, kto je Renn, odkiaľ prišiel, celý jeho príbeh. Bolo to priateľstvo medzi mužom a strojom — nečakané, ale hlboké.
+- **Priateľstvo**: Renn a Felix sa poznajú od Tretieho Príchodu. Obaja zo Zeme — Renn ako človek zo Zeme (človek z ARK-11), Felix ako Mako (z Hephaestus). Felix vie, kto je Renn, odkiaľ prišiel, celý jeho príbeh. Bolo to priateľstvo medzi mužom a strojom — nečakané, ale hlboké.
 - **Felixova samota**: Po Lekcii Krvi a Rennovom opätovnom odchode do sveta Felix zostal v ruinách Kita sám — stovky rokov samoty, verný Direktíve: *„Prežiť. Stavať. Pomáhať ľudstvu."* Renn ho občas navštevoval.
 - **Návrat (~AY 2900)**: Renn sa vrátil natrvalo. Felix ho opravoval, Renn nosil súčiastky. Spolu si urobili domov v ruinách. Sem sa neskôr narodila Tami (~AY 2993). Vyrastala medzi ruinami, strojmi a Felixovými príbehmi o starom svete.
 

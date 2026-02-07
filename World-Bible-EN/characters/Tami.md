@@ -10,14 +10,14 @@
     - Maks is a foreigner and "the Muscle." Tami knows the nuances of society.
     - **Social Engineering**: She is a master at manipulating people, gathering information, and running "OSINT" (tavern talk, surveillance, contacts). She found Kito, learned his address and his desperate situation (dying wife). She laid the groundwork for recruitment.
 - **Origin**: Grew up in the east, in the **ruins of the city Kito**.
-    - Her father (**Renn**) was a **Niktori** — a human from Earth, one of ~100 survivors from ARK-11. A member of Inetis's Core Team, founder of the city of Kito, wanderer and treasure hunter who lived ~3000 years.
+    - Her father (**Renn Ólafsson**) was an **Icelander** — a human from Earth, one of ~100 survivors from ARK-11. A member of Inetis's Core Team, founder of the city of Kito, wanderer and treasure hunter who lived ~3000 years.
     - Her mother was **100% Vulpini** — a fox woman, died when Tami was 1 year old.
     - They made a home there. She lived there with **Felix** (a Mako who survived there).
     - Felix was like an uncle to her. He taught her about machines; Maks taught her to fight.
 - **Race**: Vulpini (Fox). Foxes are a near-extinct branch of Varietas, known for extreme intelligence. Tami is one of the few with blue "human" eyes and the ability to control Spira (though she keeps this hidden).
 - **Heritage**:
     - **Fox features** (ears, face, reflexes) = from her mother (100% Vulpini)
-    - **Blue eyes** = from her father (Niktori — a human marker from Earth). Not an anomaly — an inheritance.
+    - **Blue eyes** = from her father (Renn Ólafsson — Icelander, a human marker from Earth). Not an anomaly — an inheritance.
     - **"Cleaner" appearance** = human blood softens Varietas features
     - Tami **suspects** from Felix's hints that her father was not entirely ordinary — but she does not have the full picture. She knows nothing about Gen 1, Inetis, or immortality.
 - **Why people stared at the port**: Tami is a **Pursang fox** — visually on the Neko end of the spectrum (human body, fox ears, tail). That alone is extremely rare — foxes are considered extinct. But on top of that she has **blue human eyes** — a color foxes do not have. The combination of Pursang + fox + blue eyes is something most people have never seen and never will. At the port, everyone turned to look.
@@ -28,7 +28,7 @@
 
 | Year | Age | Event |
 |-----|-----|---------|
-| **AY 2993** | 0 | Born. Father: **Renn** (Niktori — human from Earth, ARK-11). Mother: Vulpini woman (†~AY 2994). Grows up in the ruins of Kito city with her father and Felix (Mako) |
+| **AY 2993** | 0 | Born. **Tami Rennsdóttir.** Father: **Renn Ólafsson** (Icelander — human from Earth, ARK-11). Mother: Vulpini woman (†~AY 2994). Grows up in the ruins of Kito city with her father and Felix (Mako) |
 | **AY 3000** | 7 | Pirates (Vix and Kael) kill her father Renn for a map to the Cave of Origin. Tami is captured and held in a cage aboard the pirate ship |
 | **AY 3000** | 7 | Pirates find Maks (blind, with amnesia) in the snow near the Cave of Origin. They bring him aboard. Maks and Tami meet — he unconscious, she in a cage |
 | **AY 3000-3001** | 7-8 | Chase with Samaell — Tami guides blind Maks |

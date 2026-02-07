@@ -1,12 +1,15 @@
-# Renn = Niktori — Tami ako hybrid (Brainstorm)
+# Renn Ólafsson — Tami ako hybrid (Brainstorm → Kanonický)
 
-> STATUS: **KANONICKÉ LORE** (schválené). Renn = Niktori je oficiálne potvrdený.
+> STATUS: **KANONICKÉ LORE** (schválené). Renn Ólafsson = človek zo Zeme (Islanďan) je oficiálne potvrdený.
 
 ---
 
 ## Základná premisa
 
-**Renn nebol Vulpini.** Bol **Niktori** — človek zo Zeme, jeden z ~100 preživších, ktorí prišli na ARK-11 (učitelia, lekári, "turisti"). Rovnaká generácia ako Sera.
+**Renn nebol Vulpini.** Bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživších, ktorí prišli na ARK-11 (učitelia, lekári, "turisti"). Rovnaká generácia ako Sera.
+
+> **Meno:** Old Norse pôvod — *swift* (rýchly), *runner* (bežec), *counsel* (rádca). Celý jeho arc v jednom slove: celý život utekal (runner), a celý život počúval Inetis v najťažších chvíľach (counsel).
+> **Dcéra:** **Tami Rennsdóttir** — islandský patronymický systém. Otcovo meno v mene.
 
 ### Čo to znamená pre Renna:
 - Mal **Gen 1 + Gen 2** nanoboty (dostal "Prvý Dar" od Inetis, ako všetci z jej tímu)
@@ -71,7 +74,7 @@
 - To je asi tak všetko
 
 ### Nevie:
-- Detaily o otcovom pôvode (Niktori, ARK-11, Gen 1+2 nanoboty)
+- Detaily o otcovom pôvode (človek zo Zeme, ARK-11, Gen 1+2 nanoboty)
 - Prečo mal modré oči (len vie, že ich zdedila po ňom)
 - Čo sa stalo s matkou (len vie, že zomrela keď bola malá)
 - Že otcove nanoboty degradovali (netuší o Gen 1/Gen 2 systéme)
@@ -81,7 +84,7 @@
 ### Prečo vie tak málo:
 - Renn nestihol — zabili ho, keď mala Tami 7 rokov
 - Matka zomrela ešte skôr — keď bola Tami veľmi malá
-- **Felix vie.** Je z ARK-11, poznal by Niktoriho. Vie kto bol Renn, vie odkiaľ prišiel. Ale **nepovedal Tami** — prečo, to je otázka. Možno sa to dozvieme.
+- **Felix vie.** Je z ARK-11, poznal by človek zo Zemeho. Vie kto bol Renn, vie odkiaľ prišiel. Ale **nepovedal Tami** — prečo, to je otázka. Možno sa to dozvieme.
 
 ---
 
@@ -143,9 +146,9 @@
 ## Otázky na rozpracovanie
 
 - [ ] Kto bola Tamina matka? Meno, príbeh, prečo si vybrala Renna?
-- [x] Vedel Felix, že Renn je Niktori? **Áno, vie.** Ale nepovedal Tami. Možno sa dozvieme prečo.
+- [x] Vedel Felix, že Renn je človek zo Zeme? **Áno, vie.** Ale nepovedal Tami. Možno sa dozvieme prečo.
 - [ ] Prečo Renn odišiel od Inetis/komunity? Čo ho viedlo k životu hľadača pokladov?
 - [ ] Kedy sa odhalí pravda o Rennovom pôvode? Book 2? 3?
 - [ ] Ako reaguje Tami, keď sa dozvie, že jej otec bol človek zo Zeme?
 - [ ] Mení to niečo na jej vzťahu s Maksom? (Obaja sú "ľudia medzi Varietas")
-- [x] Prepísať Renn_Vix_Kael.md z "Vulpini" na "Niktori" — alebo nechať Vulpini ako kryciu identitu?
+- [x] Prepísať Renn_Vix_Kael.md z "Vulpini" na "človek zo Zeme" — alebo nechať Vulpini ako kryciu identitu?

@@ -96,7 +96,7 @@ ARK-13 nájde Alpha Centauri neobývateľnú. Štyria Ex Inferis (**Samaell, Gro
 Po návrate zo simulácie Inetis navštívi kontinent. Odovzdá Varietas nové nanotechnológie (Dar Matky). Periodicky sa vracia raz za 5-10 rokov. Pracuje na projekte záchrany Wraithov — chce uploadnúť ich spomienky do Core. Potrebuje špeciálnu Anténu, ale nemá zdroje na výrobu novej. [→ 01-timeline.md: Dar Matky]
 
 ### AY ~850 — Veľká Bitka (Atra Narrows)
-Triumvirát Archanjelov zaútočí na Varietas. **Genocída líšok** — najlepší stratégovia a Spira programátori zdecimovaní. **Renn** (Niktori, člen Core Teamu Inetis, človek zo Zeme) eskortuje posledné líščie rodiny na východ. Inetis ide s nimi. Zakladajú **Kitanu** (budúce Kitsune/Kito). Elania Ex Inferis hovorí, že jej otec "spí" — legenda, aby v nich vzbudila strach. [→ 01-timeline.md: AY 850]
+Triumvirát Archanjelov zaútočí na Varietas. **Genocída líšok** — najlepší stratégovia a Spira programátori zdecimovaní. **Renn** (človek zo Zeme, člen Core Teamu Inetis, človek zo Zeme) eskortuje posledné líščie rodiny na východ. Inetis ide s nimi. Zakladajú **Kitanu** (budúce Kitsune/Kito). Elania Ex Inferis hovorí, že jej otec "spí" — legenda, aby v nich vzbudila strach. [→ 01-timeline.md: AY 850]
 
 ### AY 2212 — Tretí Príchod (Expedícia Hephaestus)
 Na Achilles dorazí semenná loď s tisíckami **Maki** (Gen 2 androidy). Pre Varietas to je biblická udalosť — začiatok **Veku Poslov (RP 0)**. Maki spustia fúzny reaktor. Signál pritiahne obrovský cyklón Wraithov — zmasakruje Maki a čiastočne zdevastuje Kitsune. Prežije len **Séria-J a unit 734 / Felix (Séria E)**. Maki pochopia: elektrina priťahuje Wraithov. Prechádzajú na **Tichú Technológiu** — analógové majstrovstvo, para, mechanika. [→ 01-timeline.md: AY 2212] [→ 03-technology.md: Hephaestus]
@@ -112,7 +112,7 @@ Chce prebudiť Maksa, aby jej pomohol dostať sa k Jadru Elysium. Zomiera na Gli
 ## V. AY 3000 – 3013: PREBUDENIE A CESTA
 
 ### AY 3000 — Prebudenie Maksimiliána
-Piráti **Vix a Kael** zabíjajú **Renna** (Niktori, zakladateľ Kita, budúci otec Tami) a držia jeho 7-ročnú dcéru **Tami** v klietke. Kael prebudí wraith Inetis v jaskyni — wraith zabije Kaela a zobudí Maksa. Maks sa prebúdza fyzicky slepý (kryo-slepota — explodované oči mrazom), pokrytý modrou kryo-tekutinou. **Samaell** roky putoval okolo jaskyne, hľadajúc Inetisin stopu. Piráti ho navedú k jaskyni, ale bunker sa uzavrie. Piráti nájdu Maksa v snehu a berú ho na palubu. Maks a Tami sa stretnú na lodi. [→ 01-timeline.md: AY 3000]
+Piráti **Vix a Kael** zabíjajú **Renna** (človek zo Zeme, zakladateľ Kita, budúci otec Tami) a držia jeho 7-ročnú dcéru **Tami** v klietke. Kael prebudí wraith Inetis v jaskyni — wraith zabije Kaela a zobudí Maksa. Maks sa prebúdza fyzicky slepý (kryo-slepota — explodované oči mrazom), pokrytý modrou kryo-tekutinou. **Samaell** roky putoval okolo jaskyne, hľadajúc Inetisin stopu. Piráti ho navedú k jaskyni, ale bunker sa uzavrie. Piráti nájdu Maksa v snehu a berú ho na palubu. Maks a Tami sa stretnú na lodi. [→ 01-timeline.md: AY 3000]
 
 ### AY 3000-3001 — Rok Tieňov
 Maks je prvý rok fyzicky závislý na 7-ročnej Tami. Naháňačka so Samaellom — Archanjel ich loví celý rok. **Unit 734 / Felix** (Mako-mechanik) slúži ako záchranné koleso. Maks zisťuje, že Zem je zabudnutá — "Iniciatíva Achilles" zlyhala. [→ 01-timeline.md: Rok Tieňov]

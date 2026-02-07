@@ -1,16 +1,26 @@
-# Renn — Posledný z Prvých
+# Renn Ólafsson — Posledný z Prvých
 
 | | |
 |---|---|
 | **Status** | Mŕtvy (zabitý pirátmi Vix a Kael, AY 3000) |
-| **Meno** | **Renn** |
-| **Rasa** | **Niktori** — Homo Sapiens Sapiens (človek zo Zeme) |
+| **Plné meno** | **Renn Ólafsson** |
+| **Rasa** | Homo Sapiens Sapiens (človek zo Zeme) |
+| **Národnosť** | Islanďan 🇮🇸 |
 | **Vek** | ~3000+ rokov chronologicky; biologicky vyzeral ~40 v čase smrti |
-| **Pôvod** | Zem → ARK-11 → Elysium → Core Team Inetis |
+| **Pôvod** | Island (Zem) → ARK-11 → Elysium → Core Team Inetis |
 | **Povolanie** | Civilista, člen Core Teamu Inetis, zakladateľ Kita, hľadač pokladov, tulák |
 | **Doména** | Ruiny mesta Kito (Východná Divočina) — posledný domov |
-| **Dcéra** | Tami (~AY 2993) |
+| **Dcéra** | **Tami Rennsdóttir** (~AY 2993) |
 | **Odkaz** | Makita, Starobylá Mapa, Tami, mesto Kito, trojhranný klobúk |
+
+> [!IMPORTANT]
+> **Etymológia mena:**
+> **Renn** — Old Norse pôvod. Znamená *„swift"* (rýchly), *„runner"* (bežec) a *„counsel"* (rádca/spovedník).
+> - **Runner** — celý život utekal. Z Kita, od Mormiel, od spomienok na Inetis, od jaskyne Ela, od seba samého.
+> - **Counsel** — spovedník Inetis v najťažších chvíľach. Tichý muž, ktorý vedel počúvať.
+> - **Swift** — keď sa konečne rozhodol, bol rýchly. Len sa rozhodoval 2000 rokov.
+>
+> **Tami Rennsdóttir** — islandský patronymický systém. Nie priezvisko, ale **otcovo meno v mene**. Dcéra Renna. Nosí ho so sebou, aj keď ho stratila v siedmich rokoch.
 
 ---
 
@@ -45,10 +55,10 @@
 
 ## Backstory
 
-### Zem a ARK-11 (EY ~2100-2150)
+### Island a ARK-11 (EY ~2100-2150)
 
-- Renn bol **civilista** — jeden z ~100 „turistov, učiteľov, lekárov" na ARK-11
-- Bežný človek, nie vojak ani vedec
+- Renn Ólafsson — **Islanďan**, civilista z ARK-11
+- Jeden z ~100 „turistov, učiteľov, lekárov" na lodi — bežný človek, nie vojak ani vedec
 - Mladý muž s modrými očami a nezabudnuteľnou tvárou
 - Na Zemi mal Gen 1 nanoboty (v1.0) — štandard pre občanov éry Hráčov
 - Odletel na ARK-11 smerom k Kepler 452b (Achilles)
@@ -391,7 +401,7 @@
 
 ## Trivia
 
-- **Jeden z ~100 preživších zo Zeme** — Niktori, civilista z ARK-11
+- **Jeden z ~100 preživších zo Zeme** — človek zo Zeme, civilista z ARK-11
 - **Člen Core Teamu Inetis** — 150+ rokov po jej boku
 - **Zakladateľ mesta Kito** (~AY 850) — doviedol líšky na bezpečné miesto
 - **Žil s Mormiel** — fyzický vzťah medzi dvoma nesmrteľnými; učila ho vampirizmus
