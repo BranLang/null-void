@@ -2,7 +2,7 @@
 
 ## Časť I: Krčma na konci sveta
 
-Krčma sa volala *U Posledného Zvonu* a bola presne taká, ako znela — miesto, kde chodili ľudia, čo nemali kam iné ísť.
+Krčma sa volala *U Slepej Panny* a bola presne taká, ako znela — miesto, kde chodili ľudia, čo nemali kam iné ísť.
 
 Tami sedela v rohu pri okne, zatiahnutá do kapucne, s korbľom lacného piva pred sebou, z ktorého nepila. Uši mala schované pod šatkou. Pištole pod kabátom. Oči na celej miestnosti.
 

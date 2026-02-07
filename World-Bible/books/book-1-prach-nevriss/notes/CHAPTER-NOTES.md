@@ -103,7 +103,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 ## Chapter 02: Ulica Mŕtvych zvonov (main-arc/02-dead-bells.md)
 
 **Key Events:**
-- **Tami v krčme** — intelligence gathering, zisťuje info o Kitovi
+- **Tami v krčme U Slepej Panny** — intelligence gathering, zisťuje info o Kitovi. [→ tami-blind-maiden-pub.md: Mezra seed — "Rennovo mláďa"]. Rovnaká krčma, kde Links o ~2 týždne nájde kresbu Tami.
 - Kito stretnutie (č. 42, starožitníctvo)
 - Maya reveal (Spira premena — mäso na kameň, nekonečná modlitba)
 - **Spáč reveal** — Maks hovorí Starorečou (mŕtvy jazyk = nesmrteľný)

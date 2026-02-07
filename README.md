@@ -73,7 +73,7 @@ Nobody knows this. Except one man who just woke up.
 
 **Maksimilian** wakes up in a cave after 3,000 years of cryosleep. No memories. No allies. Eyes replaced by stolen military nanodrones that see the world in data overlays. The woman who put him to sleep is dead — her skeleton still clutching a metal rod against his cryo-chamber.
 
-He doesn't know she was the love of his life. He doesn't know the rod is the most powerful weapon on the planet. And he doesn't know she had a daughter — now a 2,750-year-old immortal who wants to upload all consciousness into a digital void.
+He doesn't know she was the love of his life. He doesn't know the rod is the most powerful weapon on the planet. And he doesn't know she had a daughter — conceived aboard a starship during FTL, born on alien soil — now a 3,000-year-old immortal who wants to upload all consciousness into a digital void.
 
 **Tami** is a 20-year-old fox-girl pirate, smuggler, and treasure hunter. She carries two pistols, a rapier, and fragments of a dead goddess in her blood that she doesn't understand. She's been searching for Maks for five years — she thinks it's because she loves him. It's actually because the dead goddess inside her is still trying to complete her final mission.
 
@@ -120,7 +120,7 @@ Ancient warrior. Three voices. Serves a master she'll never betray. The most dan
 
 **Elania**<br/>
 *The Daughter*<br/>
-Maks's child he never knew. 2,750 years old. Wants to end biological suffering — by ending biology.
+Maks's child he never knew. ~3,000 years old. Conceived during FTL. Wants to end biological suffering — by ending biology.
 
 </td>
 </tr>

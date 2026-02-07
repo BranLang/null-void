@@ -6,13 +6,13 @@
 | **Meno** | **Helena** (prezývka: **Ela**) |
 | **Pôvod** | Ex Inferis — preživší Glitch Eventu |
 | **Vek pri smrti** | Neznámy (~30-50 rokov subjektívne) |
-| **Rola** | Najlepšia priateľka Inetis, umelec, emocionálna kotva |
+| **Rola** | Partnerka Inetis, umelec, emocionálna kotva |
 
 ---
 
 ## Kto bola Helena?
 
-Helena bola jednou z **Ex Inferis** — preživších Glitch Eventu (~EY 2065), ktorí dostali od Inetis „Prvý Dar" (nanoboty). Bola Inetisinou **najlepšou priateľkou** — jedna z mála bytostí, ku ktorým si Inetis vytvorila skutočné puto. Nebola vojakom, bola jej srdcom.
+Helena bola jednou z **Ex Inferis** — preživších Glitch Eventu (~EY 2065), ktorí dostali od Inetis „Prvý Dar" (nanoboty). Bola Inetisinou **partnerkou** — jedna z mála bytostí, ku ktorým si Inetis vytvorila skutočné puto. Nebola vojakom, bola jej srdcom.
 
 ### Osobnosť
 - **Umelec**: Zatiaľ čo Inetis bola architektka a tvorca systémov, Helena bola tvorca krásy. Bola maliarka, poetka, duša skupiny.
@@ -20,15 +20,16 @@ Helena bola jednou z **Ex Inferis** — preživších Glitch Eventu (~EY 2065), 
 - **Jemná a Starostlivá**: Nebojovala zbraňami, ale empatiou. Starala sa o ostatných, keď boli zranení na tele alebo na duši.
 
 ### Vzťah s Inetis
-- **Najlepšie priateľky**: V komunite Ex Inferis boli neoddeliteľné. Helena bola tá, ktorá Inetis "uzemnila" — pripomínala jej, že život nie je len o prežití, ale aj o prežívaní.
+- **Romantická partnerka**: Helena a Inetis boli pár. V komunite Ex Inferis boli neoddeliteľné — Helena bola tá, ktorá Inetis "uzemnila", pripomínala jej, že život nie je len o prežití, ale aj o prežívaní.
+- **On-off dynamika**: Počas ~200 rokov na Zemi sa Inetis schádzala a rozhádzala s Helenou aj s Maksom. Nebolo to jednoduché ani čisté — tri bytosti s extrémne dlhými životmi, trauma, izolácia. Helena a Maks neboli rivali — boli dve rôzne časti Inetisinho života.
 - **Ochrankyňa**: Helena sa stávala medzi Inetis a svet nie fyzickou silou, ale emocionálnou podporou. Chránila jej ľudskosť.
-- **Konflikt**: Keď Maximilán prišiel evakuovať Inetis, Helena povedala, že tomu rozumie a že je to tak správne. Ale zlomilo jej to srdce. Bola to osobná tragédia.
+- **Konflikt**: Keď Maximilán prišiel evakuovať Inetis, Helena povedala, že tomu rozumie a že je to tak správne. Ale zlomilo jej to srdce. Stratila partnerku aj priateľku naraz.
 
 ---
 
 ## Posledné stretnutie — Stratený sen
 
-Loď **NULL VOID** bola pôvodne určená pre **Helenu a Inetis**. Dve najlepšie priateľky, spolu na novej planéte, ďaleko od vojny, ďaleko od chaosu. Bol to ich plán. Ich únik.
+Loď **NULL VOID** bola pôvodne určená pre **Helenu a Inetis**. Partnerky, spolu na novej planéte, ďaleko od vojny, ďaleko od chaosu. Bol to ich plán. Ich únik. Helena mala zbalené kufre.
 
 Potom prišiel rozkaz.
 
@@ -50,7 +51,7 @@ Maks bol vojak. Nemohol rozkaz odmietnuť. A Koordinátor vedel, koho poslať �
 >
 > — Posledný rozhovor Heleny a Inetis
 
-Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam a dívala sa, ako jej najlepšia priateľka odchádza s mužom, ktorého sotva poznala.
+Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam so zbalenými kuframi a dívala sa, ako jej partnerka odchádza s mužom, s ktorým sa Inetis pred rokmi rozišla — a ktorého jej teraz nanútil jej vlastný otec.
 
 
 
@@ -77,4 +78,4 @@ Helena sa neusmievala. Nepraktizovala hrdinskú pózu. Stála tam a dívala sa, 
 - [ ] Jej úloha v komunite Ex Inferis
 - [ ] Detaily o vojne, v ktorej zahynula
 - [ ] Flashbacky spoločných momentov s Inetis
-- [ ] Helenin vzťah s Maksom (ak existoval)
+- [ ] Helenin vzťah s Maksom (vedeli o sebe? Rivalita alebo rešpekt?)
