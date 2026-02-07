@@ -52,6 +52,27 @@
 | **Vznik** | ~EY 2040-2051 |
 | **Dôležité** | Avatar vyzerá na 15 — toto je kľúčové, lebo je odrazom toho, kým Neta bola keď ju uploadli. i_net_is nikdy "nevyrástla" vizuálne — ostala navždy v podobe dievčaťa, aj keď jej vedomie dozrelo. |
 
+#### Vizuálna inverzia: Neta → i_net_is
+
+i_net_is je **dokonalá inverzia** svojho originálu:
+
+| | **Neta** (reálna) | **i_net_is** (VR avatar) |
+|---|---|---|
+| **Vlasy** | Čierne (japonské) | Biele (éterické, žiariace) |
+| **Oči** | Čierne (normálne ľudské) | 🟣🟡 Heterochromia: fialová galaxia + žltý pentagram |
+| **Vek** | Starne (dieťa → tínedžerka → mozgová smrť) | Navždy ~15 — vek, kedy bola Neta najšťastnejšia |
+| **Telo** | Nedokonalé, choré, umierajúce | Dokonalé, éterické, nesmrteľné |
+| **Šaty** | — | Biele rúcho (bohyňa, čistota, VR svätkyňa) |
+
+Neta bola **čierna** — tmavé vlasy, tmavé oči, smrteľná, nedokonalá. i_net_is si zvolila **bielu** — biele vlasy, žiariace oči, dokonalá, večná. Kompletná inverzia. AI si vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť.
+
+A vek ~15 nie je náhoda — i_net_is zachovala moment, kedy bola Neta **pred traumou**. Pred chorobou. Pred všetkým. Dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy.
+
+> **Tri verzie, tri vizuály:**
+> - 🖤 **Neta** — čierne vlasy, čierne oči, smrteľná japonka
+> - 🤍 **i_net_is** — biele vlasy, 🟣🟡 heterochromia, VR bohyňa navždy 15
+> - 🤍🟣 **Inetis (hybrid)** — biele vlasy (po i_net_is), fialové galaxie → heterochromia po Core, starne a umiera (vyzerá 20-40), fyzická, unavená, skutočná
+
 #### Prečo Achilles existuje:
 - John Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
 - Prvý upload: Svet bol primitívny, nereálny — Neta/i_net_is nebola spokojná
