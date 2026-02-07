@@ -92,7 +92,7 @@
 - **Atmosféra:** Zafajčené, plné vojakov. Pijú, aby zabudli.
 - **Nástenka:** Links ide k nástenke podľa Mezrovho tipu. Inzeráty, pracovné ponuky, hľadania nezvestných, výzvy na verbovanie. A uprostred toho — **pripnutý pergamen**. Kresba perom a atramentom. Žena s líščími ušami, pirátsky kabát, rapír, mohutný líščí chvost. Sebavedomý drzý úsmev. Pod kresbou: **"TAMI — PIRATE PRINCESS"**.
 - **Akcia:** Links stojí pred nástenkou. Vojaci okolo neho pijú a hovoria o "Líške" — o tom, ako horela, ako viedla útok. Links sa díva na kresbu. Odopne ju. Zloží. Strčí do vrecka. Point of no return.
-- **Pozadie:** [→ characters/Sera.md: Tajná umelkyňa] Sera kresbu pripla na nástenku deň pred Linksovým príchodom. Tri vrstvy oddelenia medzi ňou a Linksom.
+- **Pozadie:** [→ characters/Sera.md: Tajná umelkyňa] Sera kresbu pripla na nástenku deň pred Linksovým príchodom. Tri vrstvy oddelenia medzi ňou a Linksom. Sera vie, že Links nikdy nemal vzťah — 20 rokov v Enkláve medzi knihami. Kresba je cielený emocionálny hack na emocionálne neskúseného človeka. **Sera a Elania vedia, že Tami je Rennova dcéra** — Sera má sieť informátorov po celej Terre, Renna poznala osobne z Core Teamu (150+ rokov). Modré oči sú nezameniteľné.
 - **Dialóg:** Links sa pýta na technológiu. Kto tu vie opraviť veci?
 - **Odpoveď:** Vysmejú ho. *"Tu sa veci neopravujú, chlapče. Tu sa veci míňajú. Ale ak chceš zázrak... choď za tým plecháčom v prístave. J-Seven."*
 
@@ -123,6 +123,13 @@
 - **Klimax:** *„HEUREKA!"* — Links vyjde z boxu, špinavý, oči červené, zaspí na stoličke uprostred vety.
 - **Výsledok:** Ruku nezachránili, ale Maya sa zotavila. Kito plače.
 - **Význam:** Prvý úspešný exorcizmus na Gen 2 v histórii. Ego boost. Links myslí na kresbu Tami. *„Zaujímalo by ma, čo by na to povedala Tami."*
+
+### Scene 7: South (Odchod)
+- **Lokácia:** Kitov antikvariát. Maya spí. Kito v kuchyni.
+- **Akcia:** Links vytiahne pergamen s kresbou Tami. Pozerá sa na ňu. Skladá si v hlave všetko — Kitove príbehy, vojakov v krčme, legendu o Líške. Všetko ukazuje jedným smerom.
+- **Rozhodnutie:** *Nevriss City. Tam je ona.* Links má jasný cieľ. Notebook, source code, schopnosti — a na juhu čaká líška z obrázku.
+- **Odchod:** Rozlúčka s Kitom (slzy). Maya spí pokojne. Links sadá do vznášadla a letí na juh, smerom k hlavnému mestu.
+- **Foreshadowing:** Sera sleduje. Plán funguje.
 
 ---
 

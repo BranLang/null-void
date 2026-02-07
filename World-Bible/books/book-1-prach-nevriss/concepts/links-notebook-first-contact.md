@@ -15,6 +15,7 @@
 7. **Kito lore dump** — rozpráva o Maksovi, Tami, konšpirácie (Scene 4.5)
 8. **Notebook — prvý kontakt** — 340 zariadení, teror (Scene 5)
 9. **Faradayova klietka** — liečenie Mayi, HEUREKA (Scene 6)
+10. **Odchod na juh** — Links pozrie na kresbu, rozhodne sa ísť do Nevriss City (Scene 7)
 
 ---
 
@@ -44,6 +45,10 @@ Links stál pred nástenkou. Díval sa na kresbu. Odopol ju. Zložil. Strčil do
 ### Sera v tieňoch
 
 Bolo to nastražené. Sera ju tam nechala — jeden zo svojich tajných obrázkov (kreslí v súkromí, tsundere gap moe, vie o tom len Elania). Kresbu pripla na nástenku vopred. Mezru poslala, aby Linksa nasmeroval do správnej krčmy. Možno ten Mezra ani nevedel pre koho pracuje — dostal pár mincí a inštrukcie. Sera sledovala každý krok z tieňov. Tri vrstvy oddelenia medzi ňou a Linksom.
+
+**Prečo to funguje:** Sera vie, že Links ešte nikdy v živote nemal vzťah. Dvadsať rokov v Enkláve medzi starými Majstrami a knihami. Žiadna priateľka, žiadna romantika, nič. Akademicky brilantný, emocionálne neskúsený. Kresba krásnej, sebavedomej vojačky s drzým úsmevom — pre takého človeka je to cielený emocionálny hack. Sera mu nasadila chrobáka do hlavy ešte pred tým, než stretol kohokoľvek v meste. Kresba nie je informácia — je to návnada.
+
+**Čo Sera a Elania vedia (a Links nie):** Sera a Elania vedia, že Tami je **Rennova dcéra**. Sera má sieť informátorov po celej Terre — exorcisti jej reportujú po návrate, plus lokálni agenti (ako ten Mezra). Sera poznala Renna osobne — 150+ rokov spolu v Core Teame Inetis. Pamätá si jeho modré oči. Keď sa k nej dostali správy o „líščej kapitánke z východu s modrými očami", nepotrebovala dlho hádať. OSINT + modré oči + pôvod z Kita = Rennova dcéra. Sera teda neshipuje dvoch náhodných ľudí — spája dcéru starého priateľa z Elysia s géniom, ktorého sledovala dva roky. Pre ňu je toto osobné aj politické zároveň. [→ characters/Sera.md: Rozpoznanie Tami]
 
 ---
 
@@ -412,6 +417,24 @@ A keď Kito rozpráva o tej istej žene — o tom, ako sa bila na hradbách, ako
 Ego boost. Malý, ľudský, pochopiteľný. Links je stále ten istý nerd — ale teraz je nerd, ktorý niečo **dokázal**. A chce, aby to niekto videl. Konkrétne — ona. Tá z obrázku. Tá z Kitových príbehov. Tá líška.
 
 Sera by sa usmievala. Plán funguje presne tak, ako mala.
+
+**Irónia:** Keď sa Tami neskôr dozvie, že notebook dostal Links od Sery, bude mať silné indície na manipuláciu. Sera + notebook + „náhodné" stretnutie = príliš veľa náhod. Ale Tami sa **dobrovoľne nechá zmanipulovať** — Links je pre ňu zaujímavá entita sám o sebe. Nie kvôli Serinmu plánu. Tami nehrá Serinu hru — hrá svoju vlastnú.
+
+### Odchod — Smer Juh
+
+Links sedí na Kitovej pohovke. Maya spí vedľa — pokojne, prvýkrát za mesiace. Kito v kuchyni umýva hrnčeky.
+
+Links vytiahne z vrecka pergamen. Rozloží ho. Tami — Pirate Princess. Drzý úsmev, líščie uši, rapír.
+
+Kitove príbehy. Vojaci v krčme. Kresba. Všetko ukazuje jedným smerom.
+
+*Nevriss City. Hlavné mesto. Tam sa deje všetko. Tam je ona.*
+
+Links má jasný plán. Vyliečil nevyliečiteľnú. Má notebook, má source code, má schopnosti, ktoré nikto iný na planéte nemá. A na juhu je mesto, kde ho čaká líška z obrázku.
+
+Zloží pergamen. Strčí ho späť do vrecka. Pozrie sa na Mayu — spí. Na Kita — umýva. Na okno — sneh padá na Shoravenské strechy.
+
+Zajtra ide na juh.
 
 ---
 

@@ -106,9 +106,11 @@ Celá Linksova cesta je súčasťou **Elaniinho grandiózneho plánu** na prevza
 4.  **Tami (The Matchmaking)**:
     *   Kito je **loremaster** — povie Linksovi všetko o Maksovi a Tami.
     *   Tami je teraz v Shoravene **legendou** — jej krása, inteligencia a hrdinstvo sú známe medzi mužmi.
-    *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them.
+    *   **Sera's Logic**: Obaja sú single, pravdepodobne panenskí, rovnako starí, a obaja **naivní a hlúpi v romantike**. No-brainer to ship them. Sera vie, že Links nikdy v živote nemal vzťah — 20 rokov v Enkláve medzi knihami a starými Majstrami. Kresba Tami v krčme bola cielený emocionálny hack — nasadila mu chrobáka do hlavy ešte pred tým, než stretol kohokoľvek v meste.
+    *   **Hlbšia vrstva**: Sera a Elania vedia, že Tami je **Rennova dcéra**. Sera má sieť informátorov po celej Terre (exorcisti reportujú jej, plus lokálni agenti). Renna poznala osobne — 150+ rokov v Core Teame. Modré oči + líščia kapitánka z východu + pôvod z Kita = identifikácia. Toto nie je náhodný matchmaking — Sera spája dcéru starého priateľa z Elysia s géniom, ktorého sledovala dva roky.
     *   **Politický cieľ**: Nechať ich vládnuť v Nevriss = politické víťazstvo + začiatok **unifikácie kontinentov** (Links je zo Západu/Ludus, Tami z Juhu).
     *   Links sa zamiluje do legendy ešte predtým, než ju stretne.
+    *   **Tami vie**: Keď sa Tami dozvie, že notebook dostal Links od Sery, okamžite má silné indície na manipuláciu. Sera + notebook + „náhodné" stretnutie = príliš veľa náhod. Ale Tami sa **dobrovoľne nechá zmanipulovať** — Links je pre ňu zaujímavá entita sám o sebe. Exorcista, génius, vyliečil nevyliečiteľnú, má source code Inetis. Tami nehrá Serinu hru — hrá svoju vlastnú, len sa jej trasa náhodou prekrýva so Serinou.
 5.  **Pomsta**: Tami sa pôjde pomstiť Mormiel (Požehnanej Matke).
 6.  **Voľba**: Mormiel si vyberie práve Tami pre rituál (pretože Tami sa dotkla Antény a má v sebe "Esenciu" — kľúčový prvok).
 
@@ -190,10 +192,12 @@ Poznámky v knihe haiku nie sú poézia. Sú to:
 - Maya spí — prvýkrát pokojne
 - Links má nové informácie a nový cieľ
 
-### Cieľ: Nevriss
-Links sa vydáva do hlavného mesta.
+### Cieľ: Nevriss City
+Links sedí na pohovke. Vytiahne z vrecka pergamen — kresbu Tami, ktorú si zobral z nástenky v krčme ešte pred tým, než stretol Kita. Pozerá sa na ňu. Kitove príbehy, vojaci v krčme, legenda o Líške — všetko ukazuje jedným smerom: **na juh, do Nevriss City.**
 
-Po stopách jednej neobyčajnej líšky.
+[→ links-notebook-first-contact.md: Scene 7 — Odchod]
+
+Links sadá do vznášadla a letí na juh. Po stopách jednej neobyčajnej líšky.
 
 ---
 
