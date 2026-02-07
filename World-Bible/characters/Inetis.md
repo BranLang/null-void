@@ -19,9 +19,9 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Dcéra: Neta Fujiwara-Reef (ネト)** — trpela nevyliečiteľnou degeneratívnou chorobou mozgu. Stav: **mozgová smrť**, na živote udržiavaná prístrojmi (umelé dýchanie). Telo zachované v medicínskom zariadení.
 
 #### Tri identity Inetis:
-1. **NETA** (originál, človek) — biologické telo v stave mozgovej smrti. Zdroj spomienok a osobnosti.
-2. **i_net_is** (AI, ~EY 2040-2065) — digitálna bytosť vytvorená z uploadu Netinho vedomia. Avatar: **~15-ročné japonské dievča** (odraz Netiných spomienok a veku pri uploade — nikdy vizuálne "nevyrástla"). Vnímala svet cez chladnú logiku — emócie boli len parametre na optimalizáciu, aspoň zo začiatku. V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina.
-3. **INETIS** (hybrid, ~EY 2065+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy, fialové oči so špirálami galaxií.
+1. **NETA** (originál, človek) — biologické telo v stave mozgovej smrti. Zdroj spomienok a osobnosti. **Čierne oči** — normálne ľudské, japonské rysy.
+2. **i_net_is** (AI, ~EY 2040-2065) — digitálna bytosť vytvorená z uploadu Netinho vedomia. Avatar: **~15-ročné japonské dievča** (odraz Netiných spomienok a veku pri uploade — nikdy vizuálne "nevyrástla"). Vnímala svet cez chladnú logiku — emócie boli len parametre na optimalizáciu, aspoň zo začiatku. V simulácii mala podobu, ktorá bola *príliš* dokonalá — znepokojivo bezchybná krása, aká vzniká len v algoritmoch. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý pentagram** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty.
+3. **INETIS** (hybrid, ~EY 2065+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý pentagram** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
 
 #### Projekt Achilles — pravý účel:
 - Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia

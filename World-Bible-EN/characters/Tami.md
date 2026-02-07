@@ -168,9 +168,13 @@ Formal speech (she's a pirate, not a princess)
 - **Subconscious motivation**: The Echo draws her toward Maks. She thinks she seeks him because of unresolved feelings. In truth, it is Inetis — still trying, even after death, to fulfill her final plan: to wake Maks.
 
 **Phase 2 — Activation (Book 1, tunnels beneath Shoraven):**
-- **Sera unlocks the Artifact** and hands it to Tami (NOT Maks) — concentrated Essence of Inetis transfers to Tami
+- **Sera unlocks the Artifact** and hands it to Tami (NOT Maks) — concentrated Essence of Inetis (Gen 1 nanotech with her memories) transfers to Tami. Note: Tami already carries the Echo of i_net_is from the Ela Cave (Phase 1), but the Antenna transfer adds Gen 1 nanobots with Inetis's actual memories — two separate layers.
 - This is the **full awakening** — abilities (healing, regeneration), memory fragments, scientific terminology, connection to Inetis
+- **Within hours, Tami's eyes change to purple galaxies** — both eyes, like Inetis pre-Core. The Gen 1 nanotech physically transforms her.
 - From this moment, the Echo intensifies — Tami knows she is changing
+- **Echo of i_net_is** grows stronger — a voice in the background of consciousness, impulses Tami cannot explain. She feels she **must** take the Antenna to Nevriss City and activate it in the Great Lighthouse (tower). She doesn't know why — it is a subconscious command from the Echo, guiding her toward triangulation (the first step to finding Ynetis/Core).
+- **Parallel with Inetis**: Same pattern — AI i_net_is manipulated Inetis via a background voice after Core return. Now it does the same to Tami through the Echo in the Essence. The difference: Tami has Links. Inetis was alone.
+- **Night of Heroes — Maks's death**: When Maks is dying, he has visions/flashbacks. Tami cries over his motionless body — and Maks sees her eyes. Two purple galaxies. **Inetis's eyes.** These are not pure hallucinations — the Gen 1 nanotech actually changed Tami's eyes. For the dying Maks, this is his final image: the woman he loved millennia ago, crying over him in the face of the fox he raised.
 - **Tragedy**: She is afraid that Maks is glad about it — that he sees the dead Inetis in her, not her
 
 **Phase 3 — Amplification (after Maks's death, Ela Cave):**

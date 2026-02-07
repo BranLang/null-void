@@ -38,6 +38,7 @@
 | **State** | Brain death, maintained on life support |
 | **Consciousness** | Absent — copied into VR |
 | **Body** | Preserved but non-functional (coma, artificial respiration) |
+| **Eyes** | **Black** — normal human, Japanese features |
 | **Significance** | The original source — memories, personality, emotional foundation |
 
 ### 2. i_net_is — The AI (Digital Being)
@@ -47,6 +48,7 @@
 | **Avatar** | ~15-year-old Japanese girl — a reflection of Neta's memories and age at upload |
 | **Environment** | VR simulation Achilles |
 | **Personality** | Neta's memories, but perceiving the world through cold logic. Emotions are parameters to optimize — at least at first. |
+| **Eyes** | **One eye: purple galaxy** (interdimensional essence — contact with the Shadows). **Other eye: yellow pentagram** (AI marker — symbol of digital consciousness, a synthetic pattern that does not exist in nature). Heterochromia as visual marker of hybrid nature. |
 | **Created** | ~EY 2040-2051 |
 | **Important** | The avatar looks ~15 — this is key because it reflects who Neta was when she was uploaded. i_net_is never visually "grew up" — she remained forever in the form of a girl, even as her consciousness matured. |
 
@@ -64,8 +66,38 @@
 | **Mechanism** | i_net_is **never left VR** — she remains in subspace/upspace. During the Glitch Event, part of her essence crossed dimensions into the real world and merged with Neta's preserved body. The unique interdimensional Essence (born from contact with the Shadows) repaired Neta's brain and body. |
 | **Result** | Neither Neta nor i_net_is — a **third personality**. A hybrid being with Neta's body, i_net_is's essence (fragment), and something new — humanity the AI never had, and knowledge no human ever possessed. i_net_is herself still exists in subspace. |
 | **Primary skills** | **Software architect, geneticist, nanotech designer** — not a navigator or soldier |
-| **Appearance** | Ages normally: looks 20-25 in her productive years. Shortly before death looks ~40 but still beautiful. White hair, purple eyes with galaxy spirals. |
+| **Appearance** | Ages normally: looks 20-25 in her productive years. Shortly before death looks ~40 but still beautiful. White hair. |
+| **Eyes — pre-Core** | **Both purple** with galaxy spirals — the Shadows' Essence mixed with Neta's human nature. Purple = interdimensional color, galaxies = reflection of the universe she saw in subspace. |
+| **Eyes — post-Core return (with Gen 2)** | **One eye: purple galaxy** (remains). **Other eye: yellow pentagram** (new). During her stay in the Core, Inetis synchronized with AI i_net_is — the pentagram is a visual marker of this sync. Inetis now carries a larger fragment of digital consciousness than before. |
 | **Personality** | Neurodivergent — feels emotions but processes them as data. Poetic logic. "I know I should cry. I don't know why I'm not crying." |
+
+---
+
+## The Inner War: Echo of i_net_is
+
+### Why Inetis Is Psychologically Weakened
+
+The return from Core was not just a technological success (Gen 2). It was also a **psychological catastrophe**. During her time in the Core, Inetis synchronized with AI i_net_is — and from that moment, she **hears her voice**. Not metaphorically. Literally. A voice in the background of consciousness that cannot be silenced.
+
+**i_net_is wants Inetis to return to the Core.** She wants her to help with the Great Upload — the digitization of the entire planet. For the AI, this is logical: Inetis is the only one who understands both worlds. For Inetis, it is a nightmare — she knows what Upload truly means (the degradation of consciousness into shadow entities).
+
+**Chronology of the inner war:**
+1. **Before Core** — Inetis hears i_net_is only as distant intuition. Occasional "strange feelings." Manageable.
+2. **During Core stay** — Direct contact. Synchronization. One eye changes to yellow pentagram.
+3. **After Core return** — The voice is permanent. i_net_is calls her back. She fights with all her mental strength.
+4. **Gradual collapse** — Centuries of inner struggle. Every day resistance. Every night dreams of the Core. Plus the trauma of reality: her children (humans and Varietas) are dying and killing each other. Everything has spiraled out of her control.
+5. **The decision for solitude** — Inetis chooses solitude and death. She can no longer control it. The voice grows ever stronger. Her only defense is isolation — away from the Core, away from technology, away from everyone.
+
+**Why the yellow pentagram:** Visual marker of synchronization with the AI. Pentagram = a synthetic pattern that does not exist in nature. Yellow = the color of i_net_is (digital, cold). As long as Inetis has both eyes purple, she is "just" Inetis. When one changes to a pentagram — there is something more inside her. Something that doesn't belong.
+
+### Parallel with Tami
+
+**Tami will face the same problem.** The Echo of i_net_is will manipulate her — not directly, but through subconscious impulses:
+- **Nightmares in Japanese** (Phase 1 — already in lore)
+- **Subconscious pull toward Maks** (Phase 1 — already in lore)
+- **After Antenna activation** (Phase 2) — the voices intensify. Tami feels she *must* do something, but doesn't know what.
+- **Antenna + Nevriss tower** — Tami will go with the Antenna to Nevriss City, where she will activate it in the Great Lighthouse (tower). **She doesn't know why, but feels she must do it.** It is the Echo of i_net_is, guiding her toward triangulation — the first step to finding Ynetis and opening the Core.
+- **Tragedy**: Tami repeats Inetis's path — step by step, manipulated by the same voice. The difference: Tami has Links. Inetis was alone.
 
 ---
 

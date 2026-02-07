@@ -168,9 +168,13 @@
 - **Podvedomá motivácia**: Echo ju ťahá k Maksovi. Myslí si, že ho hľadá kvôli nevyriešeným citom. V skutočnosti je to Inetis, ktorá sa aj po smrti snaží splniť posledný plán — zobudiť Maksa.
 
 **Fáza 2 — Aktivácia (Book 1, tunely pod Šoravenom):**
-- **Sera odomkne Artefakt** a podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis prejde na Tami
+- **Sera odomkne Artefakt** a podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis (Gen 1 nanotech s jej spomienkami) prejde na Tami. Poznámka: Tami už nesie Echo i_net_is z Jaskyne Ela (Fáza 1), ale Anténa transfer pridáva Gen 1 nanoboty so skutočnými spomienkami Inetis — dve oddelené vrstvy.
 - Toto je **plné prebudenie** — schopnosti (liečenie, regenerácia), fragmenty spomienok, vedecká terminológia, spojenie s Inetis
+- **Do pár hodín sa Taminy oči zafarbia na fialové galaxie** — obe oči, ako Inetis pred Core. Gen 1 nanotech ju fyzicky mení.
 - Od tohto momentu sa Echo zosilňuje — Tami vie, že sa mení
+- **Echo i_net_is** sa stáva silnejším — hlas na pozadí vedomia, impulzy, ktoré Tami nevie vysvetliť. Echo je pomalé, opatrné — má čas. Cíti, že **musí** ísť s Anténou do Nevriss City a aktivovať ju vo Veľkom Majáku (veži). Sama nevie prečo — je to podvedomý príkaz Echa, ktoré ju vedie k triangulácii (prvý krok k nájdeniu Ynetis/Core).
+- **Paralela s Inetis**: Rovnaký vzor — AI i_net_is manipulovala Inetis cez hlas na pozadí po návrate z Core. Teraz robí to isté Tami cez Echo v Esencii. Rozdiel: Tami má Linksa. Inetis bola sama.
+- **Noc Hrdinov — Maksova smrť**: Keď Maks zomiera, má vízie/flashbacky. Nad jeho nehybným telom plače Tami — a Maks vidí jej oči. Dve fialové galaxie. **Oči Inetis.** Nie sú to úplne halucinácie — Gen 1 nanotech skutočne zmenil Taminy oči. Pre umierajúceho Maksa je to posledný obraz: žena, ktorú miloval pred tisícročiami, plače nad ním v tvári líšky, ktorú si vychoval.
 - **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju
 
 **Fáza 3 — Zosilnenie (po Maksovej smrti, Jaskyňa Ela):**

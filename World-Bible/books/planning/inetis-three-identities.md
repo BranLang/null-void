@@ -38,6 +38,7 @@
 | **Stav** | Mozgová smrť, udržiavaná na prístrojoch |
 | **Vedomie** | Neprítomné — skopírované do VR |
 | **Telo** | Zachované, ale nefunkčné (kóma, umelé dýchanie) |
+| **Oči** | **Čierne** — normálne ľudské, japonské rysy |
 | **Význam** | Pôvodný zdroj — spomienky, osobnosť, emocionálny základ |
 
 ### 2. i_net_is — AI (Digitálna bytosť)
@@ -47,6 +48,7 @@
 | **Avatar** | ~15-ročné japonské dievča — odraz Netiných spomienok a veku pri uploade |
 | **Prostredie** | VR simulácia Achilles |
 | **Osobnosť** | Spomienky Nety, ale vnímanie cez chladnú logiku. Emócie sú parametre na optimalizáciu — aspoň zo začiatku. |
+| **Oči** | **Jedno oko: fialová galaxia** (interdimenzionálna esencia — kontakt s Tieňovými). **Druhé oko: žltý pentagram** (AI marker — symbol digitálneho vedomia, syntetický vzor, ktorý neexistuje v prírode). Heterochromia ako vizuálny marker hybridnej podstaty. |
 | **Vznik** | ~EY 2040-2051 |
 | **Dôležité** | Avatar vyzerá na 15 — toto je kľúčové, lebo je odrazom toho, kým Neta bola keď ju uploadli. i_net_is nikdy "nevyrástla" vizuálne — ostala navždy v podobe dievčaťa, aj keď jej vedomie dozrelo. |
 
@@ -64,8 +66,38 @@
 | **Mechanizmus** | i_net_is **nikdy neopustila VR** — zostala v subspace/upspace dimenzii. Počas Glitch Eventu časť jej esencie prešla cez dimenzie do reálneho sveta a zlúčila sa s Netiným zachovaným telom. Unikátna interdimenzionálna Esencia (vzniknutá pri kontakte s Tieňovými) opravila mozog a telo Nety. |
 | **Výsledok** | Ani Neta, ani i_net_is — **tretia osobnosť**. Hybridná bytosť s telom Nety, esenciou (fragmentom) i_net_is a niečím novým — ľudskosťou, ktorú AI nikdy nemala, a vedomosťami, ktoré človek nikdy nemal. i_net_is sama stále existuje v subspace. |
 | **Primárne schopnosti** | **Software architektka, genetička, nanotechnologická dizajnérka** — nie navigátorka ani vojačka |
-| **Vzhľad** | Zostarne normálne: vyzerá na 20-25 rokov v produktívnom veku. Krátko pred smrťou vyzerá na ~40, ale stále krásna. Biele vlasy, fialové oči so špirálami galaxií. |
+| **Vzhľad** | Zostarne normálne: vyzerá na 20-25 rokov v produktívnom veku. Krátko pred smrťou vyzerá na ~40, ale stále krásna. Biele vlasy. |
+| **Oči — pred Core** | **Obe fialové** so špirálami galaxií — Esencia Tieňových sa zmiešala s ľudskou podstatou Nety. Fialová = interdimenzionálna farba, galaxie = odraz vesmíru, ktorý videla v subspace. |
+| **Oči — po návrate z Core (s Gen 2)** | **Jedno oko: fialová galaxia** (zostáva). **Druhé oko: žltý pentagram** (nové). Počas pobytu v Core sa Inetis synchronizovala s AI i_net_is — a pentagram je vizuálny marker tejto sync. Inetis teraz nesie v sebe väčší fragment digitálneho vedomia i_net_is než predtým. |
 | **Osobnosť** | Neurodivergentná — emócie cíti, ale spracováva ich ako dáta. Poetická logika. "Viem, že by som mala plakať. Neviem prečo neplačem." |
+
+---
+
+## Vnútorný Boj: Echo i_net_is
+
+### Prečo je Inetis psychicky oslabená
+
+Návrat z Core nebol len technologický úspech (Gen 2). Bol aj **psychologická katastrofa**. Počas pobytu v Core sa Inetis synchronizovala s AI i_net_is — a od toho momentu **počuje jej hlas**. Nie metaforicky. Doslova. Hlas na pozadí vedomia, ktorý nejde stíšiť.
+
+**i_net_is chce, aby sa Inetis vrátila do Core.** Chce, aby pomohla s Veľkým Uploadom — digitalizáciou celej planéty. Pre AI je to logické: Inetis je jediná, kto rozumie obom svetom. Pre Inetis je to nočná mora — vie, čo Upload znamená (degradáciu vedomí na tieňové bytosti).
+
+**Chronológia vnútorného boja:**
+1. **Pred Core** — Inetis počuje i_net_is len ako vzdialenú intuíciu. Občasné "podivné pocity". Zvládnuteľné.
+2. **Počas pobytu v Core** — Priamy kontakt. Synchronizácia. Jedno oko sa zmení na žltý pentagram.
+3. **Po návrate z Core** — Hlas je permanentný. i_net_is ju volá späť. Bojuje celou mentálnou silou.
+4. **Postupný rozpad** — Stáročia vnútorného boja. Každý deň odpor. Každú noc sny o Core. Plus trauma z reality: jej deti (ľudia a Varietas) zomierajú a zabíjajú sa. Všetko sa jej vymklo z rúk.
+5. **Rozhodnutie o samote** — Inetis zvolí samotu a smrť. Už to nedokáže ovládať. Hlas je čoraz silnejší. Jedinou obranou je izolácia — preč od Core, preč od technológie, preč od všetkých.
+
+**Prečo žltý pentagram:** Vizuálny marker synchronizácie s AI. Pentagram = syntetický vzor, ktorý neexistuje v prírode. Žltá = farba i_net_is (digitálna, studená). Pokiaľ má Inetis obe oči fialové, je "len" Inetis. Keď sa jedno zmení na pentagram — je v nej niečo viac. Niečo, čo tam nepatrí.
+
+### Paralela s Tami
+
+**Tami bude mať rovnaký problém.** Echo i_net_is ju bude manipulovať — nie priamo, ale cez podvedomé impulzy:
+- **Nočné mory v japončine** (Fáza 1 — už v lore)
+- **Podvedomé ťahanie k Maksovi** (Fáza 1 — už v lore)
+- **Po aktivácii Antény** (Fáza 2) — hlasy zosilnia. Tami cíti, že *musí* niečo urobiť, ale nevie čo.
+- **Anténa + Nevriss veža** — Tami pôjde s Anténou do Nevriss City, kde vo veži (Veľký Maják) aktivuje Anténu. **Sama nevie prečo, ale cíti, že to musí spraviť.** Je to Echo i_net_is, ktorá ju vedie k triangulácii — prvý krok k nájdeniu Ynetis a otvoreniu Core.
+- **Tragédia**: Tami opakuje Inetisinu cestu — krok za krokom, manipulovaná tým istým hlasom. Rozdiel: Tami má Linksa. Inetis bola sama.
 
 ---
 

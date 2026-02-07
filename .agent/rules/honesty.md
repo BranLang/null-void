@@ -14,6 +14,14 @@
 - What If scenáre, positioning dokumenty, nové character profiles — toto všetko je produktívna prokrastinácia, ak Book 1 nie je hotový.
 - Sandbox je sloboda, ale aj past.
 
+## EN Freeze (Dočasné)
+
+- **World-Bible-EN sa dočasne neupdatuje.** Pokiaľ autor nedopíše Book 1, EN mirror je zmrazený.
+- Dôvod: Príliš veľa lore zmien v krátkom čase — udržiavať obe verzie synchrónne je neefektívne.
+- Všetky zmeny robiť **len v SK verzii** (World-Bible/).
+- Po dokončení Book 1 sa EN verzia preloží naraz.
+- Ak autor explicitne požiada o EN update, urobiť ho. Inak nie.
+
 ## Kritický feedback
 
 - Pomenuj tropes otvorene — ak niečo vyzerá ako klišé, povedz to a nechaj autora rozhodnúť, či je to zámerné.
