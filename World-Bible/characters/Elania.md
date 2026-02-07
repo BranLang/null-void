@@ -50,7 +50,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 - Zdedila matkin genius, ale nie jej trpezlivosť
 - **Vedkyňa** — rovnako ako Inetis (architektka, tvorca systémov)
 - **Preferuje ženské partnerky** — echo Inetis a Heleny. Inetis videla v Elanii Helenu, nie Maksa. Pomenovala ju po Helene. A Elania vyrástla do ženy, ktorá miluje rovnako ako Helena milovala. Irónia: dcéra z traumy sa stala monumentom lásky, ktorú trauma zničila.
-- **Ale invertované znamienko**: Inetis dala ľuďom telá (vrátila sa z VR do reality). Elania chce všetkých vrátiť DO VR. Dcéra je negáciou matky — formou je jej kópiou, smerom je jej opakom.
+- **Ale invertované znamienko**: Inetis si zvolila biológiu — opustila VR, vrátila sa do fyzického tela, dala ľuďom nanotechnológiu aby prežili vo fyzickom svete. Elania chce opak — všetkých nahrať DO VR, opustiť biológiu. Dcéra je negáciou matky — formou je jej kópiou, smerom je jej opakom.
 - **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire
 - Kreativita hraničiaca so šialenstvom
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
