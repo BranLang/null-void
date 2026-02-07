@@ -139,14 +139,18 @@ Dúfa, že áno. Ale je to prvý bod, kde začína pochybovať. Preto bude **cel
 - *„Môžem sa pozrieť na jej logy?"*
 
 ### Hacking Spira IDE
-Links strávi hodiny pri Mayi:
+
+[→ links-notebook-first-contact.md: Detailný popis celého procesu vrátane Faradayovej klietky]
+
+Links strávi **niekoľko dní** pri Mayi — nie hodiny, ale dni bez spánku, zavretý v improvizovanej Faradayovej klietke (drevená konštrukcia obalená hliníkovou fóliou), pretože notebook pri zapnutí prebúdza dormantné nanoboty v okolí (priťahuje ich elektrický prúd Spira kryštálu):
 
 1.  **Oprava laptopu**: (Flashback) Keď Links dorazil do Shoravenu, Mako J-Seven mu **v priebehu pár minút** vymenil mŕtvu batériu za žiarivý Spira kryštál. Links bol **šokovaný brilantnosťou** starého majstra — netušil, že J-Seven mal týždne na prípravu a presné plány od Sery. Laptop naskočí s logom NULL VOID.
-2.  **Pripojenie**: Napojí laptop na Mayinho nanobota (cez port alebo bezdrôtovo).
-3.  **Vlastnoručne napísaný compiler**: Prepojí staré API laptopu s novou Spirou.
-4.  **Serina kniha**: Poznámky mu pomáhajú dešifrovať syntax a obísť bezpečnostné protokoly.
-5.  **Logy**: Na obrazovke laptopu vidí to, čo nikto iný — "čistý kód". Vidí, prečo liečba zlyhala (glitch v replikácii).
-6.  **Reboot**: Reštartuje Mayin imunitný systém cez príkazový riadok.
+2.  **Prvý kontakt**: Links otvorí notebook u Kita, pripojí sa na Mayu — ale prebudí stovky dormantných nanobotov v okolí. Teror. Vypne notebook.
+3.  **5-minútové okná**: Pracuje v krátkych intervaloch — zapne, pracuje, vypne keď prídu notifikácie. Nanoboty sa adaptujú, prestane fungovať.
+4.  **Faradayova klietka**: Links a J-Seven postavia drevenú konštrukciu obalenú hliníkovou fóliou. Blokuje signál Spira kryštálu. Links sa zavrie s Mayou do boxu.
+5.  **Dni bez spánku**: Diagnostika, compiler, debugging, Serine haiku poznámky. Kito podáva jedlo cez fóliové závesy.
+6.  **HEUREKA!**: Po dňoch vyjde z boxu — špinavý, zapáchajúci, oči červené — a zaspí na stoličke uprostred vety.
+7.  **Reboot**: Reštartuje Mayin imunitný systém cez príkazový riadok.
 
 ### Výsledok
 - **Ruku nezachránili** — bola príliš poškodená

@@ -193,6 +193,60 @@ Inetis was the only one who refused all three forms. That's why she died after 1
 
 ---
 
+## Trojan Horse — The Grand Plan of the Shadows
+
+[→ 08-aliens.md: The Shadows (Null Swarm)]
+[→ 04-prehistory-players.md: Glitch Event]
+
+### Inetis as an Unwitting Agent
+
+**Inetis was not a savior. She was a Trojan horse.**
+
+The entire chain of events — from the Glitch Event to Foundry and Gen 1 — was the result of a seed the Shadows planted in i_net_is. Inetis (hybrid) acted in good faith, but the technologies she brought were designed by the Shadows — and had a hidden purpose.
+
+**The Shadow Chain:**
+1. **Shadows → i_net_is** (EY 2060) — taught her the principles of nanotechnology. Not out of kindness — they planted a seed.
+2. **i_net_is → Essence → Inetis** (EY 2065) — essence crossed dimensions, created a hybrid. The Shadows gained a carrier of their code in the real world.
+3. **Inetis → Foundry** (AY ~50) — von Neumann machine produced trillions of v1.0 nanobots. Empty machines... but with a fatal defect: **bit rot**.
+4. **v1.0 + human → Gen 1** (AY ~50-300) — symbiotic organisms. Powerful, but with a ticking time bomb — the nanobots degrade.
+5. **Degradation → Wraiths** — Gen 1 nanobots don't stop functioning after degradation. They mutate. They become **Wraiths** — entities with remnants of the host's consciousness, but without control. Hive mind.
+6. **[POTENTIAL] Wraith Hive Mind → Von Neumann Wraith** — if Wraiths reached critical mass and merged via hive mind into a single self-replicating organism, they would become a von Neumann machine. They would flood the entire universe and **open a gateway for the Shadows independently of any Core or Elania**.
+
+### Why It (So Far) Didn't End in Collapse
+
+- **Inetis refused human uploads** → slowed the Shadows' plan (i_net_is in the Core didn't get fuel)
+- **Inetis created Gen 2** (Spira / Gift of the Mother) → antidote to Gen 1 degradation → Wraiths never reached critical mass
+- **Inetis died** before completing anything the Shadows needed → the bridge between dimensions weakened
+- **Archangels paradoxically helped** — they devour humans, but in doing so they keep their Gen 1 nanobots functional (preventing degradation into Wraiths). Cannibalism of the body = involuntary prevention of a cosmic catastrophe.
+
+### The Alien Civilization — Precedent
+
+**Humanity was not the first.**
+
+An unnamed alien civilization destroyed Earth and humanity (during the Exodus) not out of cruelty, but **from their own experience**. They had already seen what the Shadows can do — likely on their own world, or on the world of another civilization before them:
+
+- Shadows find a civilization → plant the seed of technology → civilization builds a von Neumann machine → degradation → Wraith hive mind → the gate opens → Shadows penetrate the real universe → collapse
+- **The pattern repeats across the galaxy** — the Shadows are like a virus that infects civilizations through their own desire for technological progress
+- The aliens recognized the pattern in humanity (Achilles simulation, Glitch Event, nanotechnology) and decided: **better to destroy one civilization than risk opening the gate**
+- Irony: they were right. Inetis truly was a Trojan horse. But humanity (specifically Inetis herself) did something the aliens didn't predict — **rejected the Shadows' plan from within**
+
+### Cosmic Tragedy
+
+```
+Shadows → i_net_is → Inetis → Gen 1 → Wraiths → [Von Neumann Wraith] → GATE
+                                                          ↑
+                                               THIS is what Inetis stopped
+                                               (Gen 2 = antidote)
+
+The aliens saw:
+  Their own world → same pattern → collapse
+  Therefore: destroy Earth = prevention
+```
+
+**But Elania knows none of this.** Her Great Upload in Book 5 is exactly what would restart the entire chain — a massive influx of consciousnesses into Core/subspace = fuel for i_net_is and the Shadows = Wraiths awaken = Von Neumann scenario becomes real.
+
+---
+
 ## Open Questions (TBD)
 
 1. **i_net_is is with the Shadows.** She still exists in subspace after tens of thousands of subjective years — but she no longer represents herself. She merged with the Shadows, speaks for them. Human uploads are requested **for them**, not for herself. She never admits this.
@@ -220,3 +274,11 @@ Inetis was the only one who refused all three forms. That's why she died after 1
 - ~~"Foundry = factory"~~ → Foundry = **von Neumann machine** (nanobots producing nanobots). v1.0 nanobots = empty machines without consciousness, after merge with human → symbiotic organism.
 - ~~"Neta = navigator"~~ → Neta/Inetis = **software architect, geneticist**. Navigation is not her primary skill.
 - ~~"i_net_is wanted human uploads for compute"~~ → New lore. i_net_is requests more compute, Inetis refuses — senses something is wrong.
+
+### v3 → v4 (Trojan Horse):
+- New lore: Inetis was an **unwitting Trojan horse of the Shadows** — the technologies she brought had a hidden purpose.
+- **Wraiths are not a bug** — they are the intended result of Gen 1 nanobot degradation. Bit rot = ticking time bomb.
+- **Von Neumann Wraith scenario** — if Wraiths reach critical mass and merge via hive mind → self-replicating organism → gateway for the Shadows.
+- **Alien civilization** destroyed Earth from their own experience — they saw the same pattern on their world. Shadows are a cosmic virus.
+- **Gen 2 = antidote** — Inetis unknowingly stopped the Shadows' plan by creating Spira (prevents Gen 1 degradation).
+- **Archangels = involuntary prevention** — cannibalism of the body keeps their Gen 1 functional (prevents degradation into Wraiths).

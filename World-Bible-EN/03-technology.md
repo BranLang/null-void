@@ -284,6 +284,25 @@ An ancient laboratory and bunker complex from the era of Ynetis colonization.
 ### Level: Analog 20th Century
 The world's technological level holds steady at an **early 20th century standard (circa 1900-1940)**, but strictly without electronics and without coal.
 
+### Why No Electricity — The Wraith Taboo
+
+**Electricity attracts Wraiths.** This is not superstition — it is a millennia-old empirical experience. Wherever a source of electromagnetic field appeared (dynamos, batteries, radios, electric motors), "unexplainable things" started happening — Exorcists had to intervene. The result: electricity became **taboo**.
+
+[→ links-notebook-first-contact.md: Links discovers this empirically]
+
+**Why?** Dormant nanobots (remnants from the Foundry era, trillions of v1.0 scattered across the entire planet — in soil, walls, water, dust) react to electromagnetic fields. They are drawn to the source. Degraded nanobots (bit rot) are even worse — they are essentially **Wraiths in a dormant state**, and EM signals wake them up.
+
+**What is safe:**
+- **Spira** — operates on a photonic basis (light, not electricity). No EM field → nanobots ignore it → safe.
+- **Micro-currents and static electricity** — attract Wraith curiosity, but as long as it's not technology (lightning, friction), they ignore it.
+- **Mechanics, hydraulics, pneumatics** — no EM field → safe. This is why the Maki developed analog mastery.
+
+**What is dangerous:**
+- Batteries, dynamos, electric motors, radios — anything that generates a stable EM field.
+- **Electronics powered by Spira** — a Spira crystal powering processors/circuits → those generate an EM field → same effect as electricity. This is why Inetis's notebook attracts nanobots — the Spira crystal powers electronics, not photonics.
+
+**Folklore:** On Terra there is a saying: *"Where the wire glows, death awakens."* Children are taught that electricity is "living fire" — dangerous not because it burns, but because it **summons ghosts**. Exorcists know the truth, but don't say it aloud — it's simpler to maintain the taboo.
+
 #### Energy System
 
 The world uses neither coal nor electricity. The primary energy sources are:

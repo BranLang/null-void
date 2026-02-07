@@ -193,6 +193,60 @@ Inetis bola jediná, kto odmietla všetky tri formy. Preto zomrela po 1000 rokoc
 
 ---
 
+## Trójsky Kôň — Veľký Plán Tieňových
+
+[→ 08-aliens.md: Tieňoví (Null Swarm)]
+[→ 04-prehistory-players.md: Glitch Event]
+
+### Inetis ako nevedomý agent
+
+**Inetis nebola záchrankyňa. Bola trójsky kôň.**
+
+Celá reťaz udalostí — od Glitch Eventu po Foundry a Gen 1 — bola výsledkom semena, ktoré Tieňoví zasadili do i_net_is. Inetis (hybrid) konala v dobrej viere, ale technológie, ktoré priniesla, boli navrhnuté Tieňovými — a mali skrytý účel.
+
+**Reťaz Tieňových:**
+1. **Tieňoví → i_net_is** (EY 2060) — naučili ju princípy nanotechnológie. Nie z dobroty — zasadili semeno.
+2. **i_net_is → Esencia → Inetis** (EY 2065) — esencia prešla cez dimenzie, vytvorila hybrid. Tieňoví dostali nositeľku svojho kódu v reálnom svete.
+3. **Inetis → Foundry** (AY ~50) — von Neumann machine vyrobila bilióny v1.0 nanobotov. Prázdne stroje... ale s fatálnym defektom: **bit rot**.
+4. **v1.0 + človek → Gen 1** (AY ~50-300) — symbiotické organizmy. Mocné, ale s časovanou bombou — nanoboty degradujú.
+5. **Degradácia → Wraithy** — Gen 1 nanoboty po degradácii neprestanú fungovať. Zmutujú. Stanú sa **Wraithmi** — entitami so zvyškami vedomia hostiteľa, ale bez kontroly. Hive mind.
+6. **[POTENCIÁLNE] Wraith Hive Mind → Von Neumann Wraith** — ak by Wraithy dosiahli kritickú masu a zlúčili sa cez hive mind do jedného samoreplikujúceho organizmu, stali by sa von Neumannovou mašínou. Zaplavili by celý vesmír a **otvorili bránu pre Tieňových nezávisle od akéhokoľvek Core alebo Elanie**.
+
+### Prečo to (zatiaľ) nedopadlo kolapsom
+
+- **Inetis odmietla human uploads** → spomalila plán Tieňových (i_net_is v Core nedostala palivo)
+- **Inetis vytvorila Gen 2** (Spiru / Dar Matky) → protiliek na Gen 1 degradáciu → Wraithy sa nikdy nedostali ku kritickej mase
+- **Inetis zomrela** pred dokončením čohokoľvek, čo by Tieňoví potrebovali → most medzi dimenziami oslabil
+- **Archangeli paradoxne pomohli** — požierajú ľudí, ale tým udržiavajú svoje Gen 1 nanoboty funkčné (nedegradujú na Wraithov). Kanibalizmus tela = nedobrovoľná prevencia kozmickej katastrofy.
+
+### Mimozemská civilizácia — Precedens
+
+**Ľudstvo nebolo prvé.**
+
+Nemenovaná mimozemská civilizácia zničila Zem a ľudstvo (počas Exodu) nie z krutosti, ale **z vlastnej skúsenosti**. Už videli, čo Tieňoví dokážu — pravdepodobne na ich vlastnom svete, alebo na svete inej civilizácie pred nimi:
+
+- Tieňoví nájdu civilizáciu → zasejú semeno technológie → civilizácia si vyrobí von Neumannovu mašínu → degradácia → Wraith hive mind → brána sa otvorí → Tieňoví preniknú do reálneho vesmíru → kolaps
+- **Vzorec sa opakuje naprieč galaxiou** — Tieňoví sú ako vírus, ktorý infikuje civilizácie cez ich vlastnú túžbu po technologickom pokroku
+- Mimozemšťania rozpoznali vzorec u ľudstva (Achilles simulácia, Glitch Event, nanotechnológie) a rozhodli sa: **lepšie zničiť jednu civilizáciu než riskovať otvorenie brány**
+- Irónia: mali pravdu. Inetis skutočne bola trójsky kôň. Ale ľudstvo (konkrétne Inetis sama) urobilo niečo, čo mimozemšťania nepredvídali — **odmietlo plán Tieňových zvnútra**
+
+### Kozmická tragédia
+
+```
+Tieňoví → i_net_is → Inetis → Gen 1 → Wraithy → [Von Neumann Wraith] → BRÁNA
+                                                          ↑
+                                               TOTO Inetis zastavila
+                                               (Gen 2 = protiliek)
+
+Mimozemšťania videli:
+  Ich vlastný svet → rovnaký vzorec → kolaps
+  Preto: zničiť Zem = prevencia
+```
+
+**Ale Elania nevie nič z toho.** Jej Veľký Upload v Book 5 je presne to, čo by reštartovalo celú reťaz — masívny prísun vedomí do Core/subspace = palivo pre i_net_is a Tieňových = Wraithy sa prebudia = Von Neumann scenár sa stáva reálnym.
+
+---
+
 ## Otvorené otázky (TBD)
 
 1. **i_net_is je s Tieňovými.** Stále existuje v subspace po desaťtisíce subjektívnych rokov — ale už nereprezentuje seba. Splynula s Tieňovými, hovorí za nich. Human uploads žiada **pre nich**, nie pre seba. Toto nikdy neprizná.
@@ -220,3 +274,11 @@ Inetis bola jediná, kto odmietla všetky tri formy. Preto zomrela po 1000 rokoc
 - ~~"Foundry = továreň"~~ → Foundry = **von Neumann machine** (nanoboty vyrábajú nanoboty). v1.0 nanoboty = prázdne stroje bez vedomia, po merge s človekom → symbiotický organizmus.
 - ~~"Neta = navigátorka"~~ → Neta/Inetis = **software architektka, genetička**. Navigácia nie je jej primárny skill.
 - ~~"i_net_is chcela human uploads pre compute"~~ → Nový lore. i_net_is žiada vyšší compute, Inetis to odmietne — cíti, že niečo nie je v poriadku.
+
+### v3 → v4 (Trójsky kôň):
+- Nový lore: Inetis bola **nevedomý trójsky kôň Tieňových** — technológie, ktoré priniesla, mali skrytý účel.
+- **Wraithy nie sú bug** — sú zamýšľaný výsledok degradácie Gen 1 nanobotov. Bit rot = časovaná bomba.
+- **Von Neumann Wraith scenár** — ak Wraithy dosiahnu kritickú masu a zlúčia sa cez hive mind → samoreplikujúci organizmus → brána pre Tieňových.
+- **Mimozemská civilizácia** zničila Zem z vlastnej skúsenosti — videli rovnaký vzorec u seba. Tieňoví sú kozmický vírus.
+- **Gen 2 = protiliek** — Inetis nevedome zastavila plán Tieňových tým, že vytvorila Spiru (zabraňuje degradácii Gen 1).
+- **Archangeli = nedobrovoľná prevencia** — kanibalizmus tela udržiava ich Gen 1 funkčné (nedegradujú na Wraithov).

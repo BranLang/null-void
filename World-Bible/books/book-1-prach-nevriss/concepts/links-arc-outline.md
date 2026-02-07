@@ -80,11 +80,20 @@
 - **Limity Spiry:** Links vidí, že liečivá Spira (modrá tekutina/svetlo) dokáže zatvoriť rany, ale nedokáže dorásť končatiny ani vyliečiť traumu. Je to len "lepiaca páska" na mäso.
 - **Psychológia:** V krčme počuje vojakov. Flexujú sa, ako "dali dole Gronda", ale ich oči sú prázdne. Pijú, aby zabudli.
 
-### Scene 3: The Pub (Rumors of the Fox)
-- **Lokácia:** Krivá Mačka (alebo iná krčma v ruinách).
+### Scene 2.5: The Mezra (Sera's Proxy)
+- **Lokácia:** Ulice Shoravenu, krátko po príchode.
+- **Akcia:** Linksa zastaví Varietas — Mezra. Šmejd z ulice, oči rýchle, úsmev falošný. Vidí, že Links je v meste nový (exorcistický plášť, čistá tvár, rozhliadanie sa — jasný nováčik).
+- **Dialóg:** *„Hľadáš informácie, nie? Choď do krčmy U Slepej Panny. Na nástenke je veľa užitočných vecí. Pracovné ponuky, kontakty, všetko čo nový v meste potrebuje."*
+- **Odchod:** Popraje mu veľa šťastia a stratí sa v dave. Vôbec nie podozrivé.
+- **Pozadie:** [→ links-notebook-first-contact.md] Mezra je Serin prostredník — dostal pár mincí a inštrukcie. Možno ani nevie pre koho pracuje. Sera sleduje Linksa z tieňov.
+
+### Scene 3: The Pub — U Slepej Panny (The Drawing)
+- **Lokácia:** Krčma U Slepej Panny (Shoravene).
 - **Atmosféra:** Zafajčené, plné vojakov. Pijú, aby zabudli.
-- **Dialóg:** Links počúva. Vojaci hovoria o "Líške". O tom, ako horela. O tom, ako viedla útok.
-- **Interakcia:** Links sa pýta na technológiu. Kto tu vie opraviť veci?
+- **Nástenka:** Links ide k nástenke podľa Mezrovho tipu. Inzeráty, pracovné ponuky, hľadania nezvestných, výzvy na verbovanie. A uprostred toho — **pripnutý pergamen**. Kresba perom a atramentom. Žena s líščími ušami, pirátsky kabát, rapír, mohutný líščí chvost. Sebavedomý drzý úsmev. Pod kresbou: **"TAMI — PIRATE PRINCESS"**.
+- **Akcia:** Links stojí pred nástenkou. Vojaci okolo neho pijú a hovoria o "Líške" — o tom, ako horela, ako viedla útok. Links sa díva na kresbu. Odopne ju. Zloží. Strčí do vrecka. Point of no return.
+- **Pozadie:** [→ characters/Sera.md: Tajná umelkyňa] Sera kresbu pripla na nástenku deň pred Linksovým príchodom. Tri vrstvy oddelenia medzi ňou a Linksom.
+- **Dialóg:** Links sa pýta na technológiu. Kto tu vie opraviť veci?
 - **Odpoveď:** Vysmejú ho. *"Tu sa veci neopravujú, chlapče. Tu sa veci míňajú. Ale ak chceš zázrak... choď za tým plecháčom v prístave. J-Seven."*
 
 ### Scene 4: The Chrome Monk (J-Seven)
@@ -93,8 +102,33 @@
 - **Oprava:** Links vytiahne mŕtvy laptop. J-Seven ho vezme, vloží Spira kryštál (ktorý mal pripravený) a vráti ho. *"Batéria vymenená. Boot sequence ready."*
 - **Smer:** J-Seven neodpovedá na otázky. Len ukáže na kopec. *"Antikvariát. Kito. On má odpovede, ktoré hľadáš."*
 
+### Scene 5: The Notebook — First Contact
+[→ links-notebook-first-contact.md: DETAILNÝ POPIS]
+- **Lokácia:** Kitov antikvariát, izba kde leží Maya.
+- **Setup:** Po lore dumpe s Kitom (Scene 4.5, viď links-kito-healing.md). Kito odišiel do kuchyne.
+- **Akcia:** Links otvára notebook. Kawaii nálepky, gravírovanie `i_net_is 2065`. Linux, žiadne heslo, rovno desktop. Adresáre: photos, diary, music, anime, manga. Súkromný život Inetis.
+- **Objavenie:** Notifikácia — 2 nearby devices. Links sa pripojí na bližšie ID → Mayine nanoboty. SPIRA-LINK v0.7.3-alpha. Source code. README.md. *"What If the Gods Left Source Code?" Nechali.*
+- **Eskalácia:** Ďalšie zariadenia — 2, 4, 13, 35, 60, 100, 340... Links vytiahne Spira kryštál. Notebook zhasne.
+- **Prečo:** Notebook napájaný Spirou generuje EM pole → prebúdza dormantné nanoboty v okolí → priťahuje ich k sebe. Toto je dôvod, prečo Terra nemá elektriku.
+- **Kito:** *„Prinesiem niečo na pitie?"* — Links: *„...Áno. Prosím."*
+- **Linksova analýza:** GEN2 vs GEN1 vs UNKN ID prefixy. UNKN = pravdepodobne Wraithy. Prvý empirický dôkaz.
+- **Tón:** Od pokojného prehliadania anime priečinkov po existenciálny teror za 5 minút.
+
+### Scene 6: The Faraday Cage — HEUREKA
+[→ links-notebook-first-contact.md: DETAILNÝ POPIS]
+- **Problém:** Links musí liečiť Mayu, ale notebook prebúdza nanoboty.
+- **5-minútové okná:** Zapne, pracuje, vypne. Funguje pár dní, potom nanoboty sa adaptujú — migrujú bližšie, čakajú.
+- **Riešenie:** Faradayova klietka — hliníková fólia + drevená konštrukcia. Links a J-Seven ju postavia za deň.
+- **Práca:** Niekoľko dní v boxe. Diagnostika → Serine haiku → compiler → debugging. Kito podáva jedlo cez fóliové závesy.
+- **Klimax:** *„HEUREKA!"* — Links vyjde z boxu, špinavý, oči červené, zaspí na stoličke uprostred vety.
+- **Výsledok:** Ruku nezachránili, ale Maya sa zotavila. Kito plače.
+- **Význam:** Prvý úspešný exorcizmus na Gen 2 v histórii. Ego boost. Links myslí na kresbu Tami. *„Zaujímalo by ma, čo by na to povedala Tami."*
+
 ---
 
 **Poznámky pre AI generovanie:**
 - Zdôrazniť kontrast medzi **Mŕtvou Krásou Neuropy** a **Nebezpečnou Živosťou Vlčích Ostrovov/Terry**.
 - Links nie je bojovník. Bojí sa. Ale jeho zvedavosť je silnejšia ako strach.
+- **Kresba Tami** je point of no return — Links sa zamiluje do legendy skôr než ju stretne.
+- **Notebook scéna** je tónový shift — od nerd excitement (anime priečinky) po cosmic horror (340 zariadení).
+- **Faradayova klietka** je lowtech/hightech kontrast — hliníková fólia na 2000-ročnú nanotechnológiu.

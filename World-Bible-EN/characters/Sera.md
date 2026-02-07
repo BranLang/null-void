@@ -113,7 +113,7 @@
 - **Loyal** — her vow to Inetis holds to this day (protect Elania)
 - **Without ambition** — she doesn't want to rule, doesn't want power — she only wants to serve someone interesting
 - **Clear-headed** — she knows who she is, what she does, and why. No illusions about herself.
-- **Tsundere** — on the surface she plays the ice goddess, "Angel of Death," untouchable. In private? She draws **ecchi art**. A sketchbook full of drawings that the Maki would pray over if they knew. Nobody knows — except Elania, who finds it hilarious. (Links eventually gets hold of one of these drawings — a sketch of Tami — and it becomes his point of no return.)
+- **Tsundere** — on the surface she plays the ice goddess, "Angel of Death," untouchable. In private? She draws **ecchi art**. A sketchbook full of drawings that the Maki would pray over if they knew. Nobody knows — except Elania, who finds it hilarious. She plants one drawing of Tami ("Pirate Princess" — pen and ink on parchment) on a bulletin board in a Shoraven pub, among job postings and notices, the day before Links arrives. Links takes it. Point of no return.
 
 **Similar to Mormiel:**
 - Veteran of millennia
@@ -323,7 +323,7 @@
 - **Practices vampirism** (not out of evil, out of necessity — maintains Gen 1+2 nanobots)
 - **Genetically modified** — ARK program enhancement (height, strength, reflexes)
 - **Uncanny valley effect** — looks too perfect, not natural
-- **Secret artist** — draws ecchi art in private (tsundere gap moe). Elania knows and is amused. One of the drawings (a sketch of Tami) later reaches Links through Sera in Shoraven — and becomes his obsession
+- **Secret artist** — draws ecchi art in private (tsundere gap moe). Elania knows and is amused. Plants a Tami drawing ("Pirate Princess") on a pub bulletin board in Shoraven — Links takes it, becomes his obsession. [→ links-notebook-first-contact.md]
 - **Mirrors Helena** — Sera is to Elania what Helena was to Inetis: an artist, an emotional anchor, a female companion. Like mother, like daughter — both prefer female company and both chose an artist (Helena painted, Sera draws). And both lose her because of a father's decision.
 
 ---

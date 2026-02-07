@@ -305,6 +305,25 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 ### Úroveň: Analógové 20. storočie
 Technologická úroveň sveta sa drží na štandarde **ranného 20. storočia (cca 1900-1940)**, ale striktne bez elektroniky a bez uhlia.
 
+### Prečo žiadna elektrika — Wraith Tabu
+
+**Elektrina priťahuje Wraithy.** Toto nie je poverčivosť — je to tisícročná empirická skúsenosť. Kdekoľvek sa objavil zdroj elektromagnetického poľa (dynamo, batéria, vysielačka, elektromotor), začali sa diať "nevysvetliteľné veci" — Exorcisti museli zasahovať. Výsledok: elektrika sa stala **tabu**.
+
+[→ links-notebook-first-contact.md: Links to zistí empiricky]
+
+**Prečo?** Dormantné nanoboty (zvyšky z éry Foundry, bilióny v1.0 po celej planéte — v pôde, stenách, vode, prachu) reagujú na elektromagnetické pole. Priťahuje ich k zdroju. Degradované nanoboty (bit rot) sú ešte horšie — sú to v podstate **Wraithy v dormantnom stave**, a EM signál ich prebúdza.
+
+**Čo je bezpečné:**
+- **Spira** — funguje na fotonickej báze (svetlo, nie elektrina). Žiadne EM pole → nanoboty ju ignorujú → bezpečná.
+- **Mikroprudy a statická elektrina** — priťahujú zvedavosť Wraithov, ale pokiaľ to nie je technológia (blesk, trenie), ignorujú to.
+- **Mechanika, hydraulika, pneumatika** — žiadne EM pole → bezpečné. Preto Maki vyvinuli analógové majstrovstvo.
+
+**Čo je nebezpečné:**
+- Batérie, dynama, elektromotory, vysielačky — čokoľvek, čo generuje stabilné EM pole.
+- **Elektronika napájaná Spirou** — Spira kryštál napája procesory/obvody → tie generujú EM pole → rovnaký efekt ako elektrika. Toto je dôvod, prečo Inetis notebook priťahuje nanoboty — Spira kryštál napája elektroniku, nie fotoniku.
+
+**Folklór:** Na Terre existuje príslovie: *"Kde svieti drôt, tam sa budí smrť."* Deti sa učia, že elektrika je "živý oheň" — nebezpečný nie preto, že popáli, ale preto, že **privoláva duchov**. Exorcisti vedia pravdu, ale nehovoria ju nahlas — jednoduchšie je udržať tabu.
+
 #### Energetický systém
 
 Svet nepoužíva uhlie ani elektrinu. Primárnymi zdrojmi energie sú:
