@@ -79,9 +79,11 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 > [!NOTE]
 > **Helena a meno Ela:**
-> Jaskyňu pomenovala **Ela** — skrátené od **Helena**. Helena bola jej kamarátka, jedna z Ex Inferis, ktorá sa rozhodla zostať na Zemi a bojovať počas mimozemskej vojny. Zahynula. Inetis ju nikdy nezabudla.
+> Jaskyňu pomenovala **Ela** — skrátené od **Helena**. Helena bola jej partnerka, jedna z Ex Inferis, ktorá zostala na Zemi a zahynula vo vojne. Inetis ju nikdy nezabudla. [→ characters/Helena.md]
 >
-> Keď sa narodila dcéra, dala jej meno **Elania** — odvodené od Ela, od Heleny. Tribút priateľke, ktorá obetovala všetko.
+> Počas ~200 rokov na Zemi mala Inetis romantické vzťahy s Helenou aj Maksom — schádzali sa a rozhádzali. Helena a Maks neboli rivali — boli dve rôzne časti jej života.
+>
+> Keď sa narodila dcéra, dala jej meno **Elania** — odvodené od Ela, od Heleny. Tribút partnerke, ktorú musela nechať na Zemi so zbalenými kuframi.
 
 > [!IMPORTANT]
 > **Mytologická paralela:**
