@@ -95,6 +95,18 @@ Neta je Fujiwara. Japonka. A japonská kultúra číta farby inak než západ:
 > Čitateľ, ktorý ju pozná, vidí **celú mapu smrti a znovuzrodenia** ukrytú v palete farieb.
 > Obe čítania fungujú. To je znak dobrého dizajnu.
 
+**Farbový kruh ságy — záverečná scéna (Book 5, Kyjev vo VR):**
+
+| Fáza | Farby | Význam |
+|------|-------|--------|
+| **Pred príbehom** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Dvaja tínedžeri v Kyjeve. Pred všetkým. |
+| **Celá sága (Book 1-5)** | 🤍 🟣 🟡 ⚫ | i_net_is (biela/yūrei), fialové galaxie, žlté pentagramy, čierny prach. 3000 rokov chaosu. Maks nemá oči — explodovali pri prebudení z krya. |
+| **Záverečná scéna** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Tí istí tínedžeri. Tá istá kaviareň. Návrat. |
+
+Maks má **modré oči** len dvakrát: pred príbehom (flashbacky) a v záverečnej scéne (VR Kyjev). Celú sériu je slepec. A tu — vo VR — vidí. Prvýkrát za 3000 rokov. A posledná vec, ktorú vidí, je Neta. Nie Inetis. Nie bohyňa. Len dievča s čiernymi očami a kávou v ruke.
+
+*Kruh sa uzatvára. Farby sa vracajú na začiatok. Po všetkom tom chaose — len čierna a modrá. Dvaja ľudia. Jedna káva.* [→ books/05-kvintesencia.md: What If moment — Kyjev]
+
 #### Prečo Achilles existuje:
 - John Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
 - Prvý upload: Svet bol primitívny, nereálny — Neta/i_net_is nebola spokojná

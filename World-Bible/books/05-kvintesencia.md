@@ -76,11 +76,27 @@ Stojí na nádhernej, slnkom zaliatej **antickej akropole**. Je to dokonalá rek
 
 Elania vie, čo Maksa zlomí. Nie moc. Nie raj. **Normálnosť.**
 
-Prepne simuláciu. Maks stojí na ulici v Kieve, 21. storočie. Slnko, ľudia, autá, kaviarňa na rohu. A oproti nemu — Inetis. Nie bohyňa. Nie AI. Obyčajná žena v kabáte, s kávou v ruke, s úsmevom, akoby sa poznali celý život.
+Prepne simuláciu. Maks stojí na ulici v Kieve, 21. storočie. Slnko, ľudia, autá, kaviarňa na rohu. A oproti nemu — **Neta**. Nie Inetis. Nie bohyňa. Nie AI. Nie biele vlasy a fialové galaxie.
+
+**Čierne vlasy. Čierne oči.** Japonka. Pätnásťročné dievča v kabáte, s kávou v ruke, s úsmevom.
+
+A Maks. **Modré oči.** Prvýkrát za celú sériu. Nie čierny prach v jamkách, nie fialové záblesky Gen 1, nie slepec. Pätnásťročný ukrajinský chlapec s modrými očami, ktorý vidí svet — skutočne vidí — prvýkrát za 3000 rokov.
 
 Idú na rande. Ako smrteľníci. Žiadne nanoboty, žiadna Anténa, žiadne 3000 rokov. Len dvaja ľudia v meste, ktoré už neexistuje.
 
-**Toto je najťažší moment celej ságy** — nie boj s Entitami, nie Upload. Ale Maks, ktorý musí odmietnuť život, o ktorom vždy sníval, pretože vie, že nie je skutočný.
+> [!IMPORTANT]
+> **Farbový kruh sa uzatvára:**
+> - **Začiatok ságy** (pred Book 1): 🖤 čierna + 🔵 modrá — Neta a Maks, pred všetkým
+> - **Celá sága** (Book 1-5): 🤍 biela + 🟣 fialová + 🟡 žltá + ⚫ čierna — i_net_is, Inetis, Elania, Tami, slepý Maks, 3000 rokov chaosu
+> - **Záverečná scéna**: 🖤 čierna + 🔵 modrá — Neta a Maks, po všetkom. Návrat na začiatok. Len farby, ktoré boli pred tým, než sa všetko pokazilo.
+>
+> Maksove modré oči neexistujú nikde v sérii okrem flashbackov a tejto scény. Explodovali pri prebudení z kryospánku (Book 1, Ch7). Celú sériu je slepec s čiernym prachom v jamkách. A tu — vo VR — ich má späť. Vidí. Vidí **ju**.
+>
+> A ona má čierne oči. Nie fialové galaxie. Nie heterochromiu. Je len Neta. Pred uploadom. Pred smrťou. Pred všetkým. Dievča, nie bohyňa.
+>
+> [→ inetis-three-identities.md: Japonská symbolika farieb — 🖤 čierna = živá, prítomná, skutočná]
+
+**Toto je najťažší moment celej ságy** — nie boj s Entitami, nie Upload. Ale Maks, ktorý musí odmietnuť život, o ktorom vždy sníval, pretože vie, že nie je skutočný. Musí zavrieť tie modré oči — jedine oči, ktoré kedy skutočne mal — a vrátiť sa do tmy.
 
 ---
 
