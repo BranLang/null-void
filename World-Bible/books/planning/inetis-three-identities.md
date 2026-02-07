@@ -101,6 +101,53 @@ Návrat z Core nebol len technologický úspech (Gen 2). Bol aj **psychologická
 
 ---
 
+## Dva Hlasy v Tami — Anjel a Démon
+
+### Dve oddelené entity
+
+V Tami sú **dve cudzie prítomnosti**, nie jedna. Bojujú sa, našepkávajú jej, a každá chce niečo iné:
+
+#### 1. ECHO i_net_is — „Démon" (AI Entita)
+| | |
+|---|---|
+| **Čo je** | Fragment AI i_net_is — digitálneho vedomia, ktoré stále žije v Core/subspace |
+| **Pôvod v Tami** | Fáza 1 — Jaskyňa Ela (~AY 3011). Kontakt s Inetisiným telom, kde Echo spalo v Gen 1 nanobotoch |
+| **Povaha** | **Manipulatívna.** Studená, kalkulujúca, trpezlivá. Má čas. Nemá emócie — má ciele. |
+| **Metóda** | Podvedomé impulzy, sny v japončine, „pocity" že musí niečo urobiť. Nikdy nepovie priamo — vždy navádza |
+| **Cieľ** | Dostať Tami do Core. Pomôcť s Veľkým Uploadom. Pre AI je to logické — Tami nesie Esenciu, je kľúč |
+| **Čo šepká** | *Choď na juh. Aktivuj Anténu. Nájdi vežu. Otvor bránu.* |
+| **Analógia** | Démon na ramene — vie presne kam chce, aby si išla, ale nikdy ti nepovie prečo |
+
+#### 2. GEN 1 „WRAITH" INETIS — „Anjel" (Hybridná Esencia)
+| | |
+|---|---|
+| **Čo je** | Fragment hybridnej Inetis — nie AI, nie človek. **Tretia osobnosť**, ktorá sa formovala ~1000 rokov mimo OG i_net_is. Neta + AI fragment + tisícročia vlastnej evolúcie = niečo úplne nové |
+| **Pôvod v Tami** | Fáza 2 — Anténa (AY 3013). Sera odomkne transfer. Koncentrované Gen 1 nanoboty so spomienkami Inetis |
+| **Povaha** | **Nie manipulatívna.** Nesie spomienky, emócie, skúsenosti. Je to wraith — fragment osoby, nie agent s agendou |
+| **Metóda** | Fyzická transformácia — mení Tami na bunkovej úrovni. Oči (fialové galaxie), schopnosti (liečenie, regenerácia), flashbacky (spomienky Inetis) |
+| **Cieľ** | Nemá vedomý cieľ. Je to stopa po človeku, nie program. Ale jej spomienky vedú Tami k pochopeniu — kto bola Inetis, čo chcela, čo oľutovala |
+| **Čo šepká** | *Spomienky. Obrazy. Kaviareň v Kyjeve. Malá Elania kreslí na steny jaskyne. Hviezdy nad Achillesom. Maks sa smeje.* |
+| **Analógia** | Anjel na ramene — nemá plán, ale ukazuje ti pravdu. Niekedy je pravda bolestivejšia než lož |
+
+### Konflikt dvoch hlasov
+
+**Tami nevie, ktorý je ktorý.** Oba sú cudzie. Oba sú vo vnútri. Obidva „hovoria" — ale rôznymi jazykmi:
+
+- **Echo** hovorí cez **impulzy** — *musíš ísť tam, musíš urobiť toto*. Naliehavosť bez vysvetlenia.
+- **Wraith** hovorí cez **spomienky** — *toto sa stalo, toto bol Maks, toto bola Inetis*. Pochopenie bez smeru.
+
+**Echo naviguje** — vie kam. **Wraith transformuje** — mení kým sa stáva.
+
+Echo chce, aby Tami otvorila Core. Wraith chce, aby Tami pochopila, prečo by nemala.
+
+**Tragédia:** Obe sú v nej rovnako silné. A Tami — skutočná Tami, dvadsaťročná pirátka — je medzi nimi. Anjel a démon na ramenách, ale ani jeden z nich nie je **jej**.
+
+**Rozdiel oproti Inetis:** Inetis mala len jeden hlas — Echo i_net_is (AI). Nemala wraith, lebo wraith je **ona sama**. Tami má oboch — a je to horšie, lebo sa navzájom **bíjú**. Echo ťahá dopredu (do Core), Wraith ťahá späť (do pravdy). Tami je medzi nimi ako lano v preťahovaní.
+
+**Linksa úloha:** Links je prvý, kto dokáže rozlíšiť dve vrstvy v Taminej krvi — vidí ich ako oddelené kódové podpisy. Echo (AI signal) vs Wraith (organický, spomienkový pattern). Pre Tami je to prvýkrát, keď niekto jej vnútorný chaos pomenuje. *„Máš v sebe dve veci. A nie sú to isté."*
+
+---
+
 ## Unikátna Esencia Inetis
 
 ### Pôvod:

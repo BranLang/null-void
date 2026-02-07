@@ -173,7 +173,8 @@
 - **Do pár hodín sa Taminy oči zafarbia na fialové galaxie** — obe oči, ako Inetis pred Core. Gen 1 nanotech ju fyzicky mení.
 - Od tohto momentu sa Echo zosilňuje — Tami vie, že sa mení
 - **Echo i_net_is** sa stáva silnejším — hlas na pozadí vedomia, impulzy, ktoré Tami nevie vysvetliť. Echo je pomalé, opatrné — má čas. Cíti, že **musí** ísť s Anténou do Nevriss City a aktivovať ju vo Veľkom Majáku (veži). Sama nevie prečo — je to podvedomý príkaz Echa, ktoré ju vedie k triangulácii (prvý krok k nájdeniu Ynetis/Core).
-- **Paralela s Inetis**: Rovnaký vzor — AI i_net_is manipulovala Inetis cez hlas na pozadí po návrate z Core. Teraz robí to isté Tami cez Echo v Esencii. Rozdiel: Tami má Linksa. Inetis bola sama.
+- **Dva hlasy — Anjel a Démon** [→ books/planning/inetis-three-identities.md: Dva Hlasy v Tami]: Od Fázy 2 má Tami vo vnútri **dve cudzie prítomnosti**, nie jednu. **Echo i_net_is (AI)** = démon — manipulatívny, naviguje kam má ísť (impulzy, príkazy, naliehavosť). **Gen 1 Wraith Inetis** = anjel — transformuje kým sa stáva (spomienky, flashbacky, fyzická zmena). Echo ťahá do Core, Wraith ťahá k pravde. Tami nevie, ktorý je ktorý. Oba sú cudzie. Links ich ako prvý dokáže rozlíšiť — vidí dva oddelené kódové podpisy v jej krvi.
+- **Paralela s Inetis**: Inetis mala len Echo (jeden hlas). Tami má oboch — a je to horšie, lebo sa navzájom bíjú. Rozdiel: Tami má Linksa. Inetis bola sama.
 - **Noc Hrdinov — Maksova smrť**: Keď Maks zomiera, má vízie/flashbacky. Nad jeho nehybným telom plače Tami — a Maks vidí jej oči. Dve fialové galaxie. **Oči Inetis.** Nie sú to úplne halucinácie — Gen 1 nanotech skutočne zmenil Taminy oči. Pre umierajúceho Maksa je to posledný obraz: žena, ktorú miloval pred tisícročiami, plače nad ním v tvári líšky, ktorú si vychoval.
 - **Tragédia**: Bojí sa, že Maksa to teší — že v nej vidí mŕtvu Inetis, nie ju
 
