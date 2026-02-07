@@ -1,12 +1,55 @@
-# Koncept: Links otvára Notebook — Prvý Kontakt
+# Koncept: Links v Shoravene — Kresba, Notebook, Faradayova Klietka
 
 [→ links-kito-healing.md: Oprava laptopu, J-Seven]
-[→ links-arc-outline.md: Chapter 7, Scene 4]
+[→ links-arc-outline.md: Chapter 7, Scenes 2.5–6]
 [→ ai-inetis-vs-human-neto.md: Trójsky Kôň]
 
-## Setup
+## Chronológia Chapter 7
 
-**Kedy:** Po rozhovore s Kitom (lore dump). Noc. Kito odišiel do kuchyne.
+1. Links prichádza do Shoravenu (Scene 1-2)
+2. **Mezra** ho nasmeruje do krčmy U Slepej Panny (Scene 2.5)
+3. **Kresba Tami** na nástenke v krčme — Links si ju zoberie (Scene 3)
+4. Vojaci v krčme ho pošlú za **J-Sevenom** (Scene 3)
+5. J-Seven opraví notebook — Spira kryštál namiesto batérie (Scene 4)
+6. J-Seven ho pošle za **Kitom** (Scene 4)
+7. **Kito lore dump** — rozpráva o Maksovi, Tami, konšpirácie (Scene 4.5)
+8. **Notebook — prvý kontakt** — 340 zariadení, teror (Scene 5)
+9. **Faradayova klietka** — liečenie Mayi, HEUREKA (Scene 6)
+
+---
+
+## Kresba Tami — U Slepej Panny
+
+[→ characters/Sera.md: Tajná umelkyňa]
+[→ links-arc-outline.md: Scene 2.5 + Scene 3]
+
+### Mezra
+
+Keď Links prišiel do Shoravenu, zastavil ho Varietas. Mezra — šmejd z ulice, oči rýchle, úsmev falošný. Videl, že Links je v meste nový. Exorcistický plášť, čistá tvár, rozhliadanie sa na každom rohu — jasný nováčik.
+
+> „Hľadáš informácie, nie? Choď do krčmy U Slepej Panny. Na nástenke je veľa užitočných vecí. Pracovné ponuky, kontakty, všetko čo nový v meste potrebuje."
+
+Potom mu poprial veľa šťastia a stratil sa v dave. Vôbec nie podozrivé. Len náhodný miestny, ktorý pomohol cudzincovi.
+
+### Nástenka
+
+V krčme U Slepej Panny bola nástenka. Inzeráty, pracovné ponuky, hľadania nezvestných, výzvy na verbovanie. A uprostred toho všetkého — pripnutý pergamen. Kresba perom a atramentom.
+
+Žena s líščími ušami. Pirátsky kabát rozopnutý, roztrhaný od bojov, pod ním previazaná košeľa. Rapír v pravej ruke. Mohutný líščí chvost. Sebavedomý úsmev — nie sladký, ale drzý. Pod kresbou ručne napísané: **"TAMI — PIRATE PRINCESS"**.
+
+Vojaci okolo neho pili a rozprávali o bitke. O "Líške". O tom, ako horela. O tom, ako viedla útok.
+
+Links stál pred nástenkou. Díval sa na kresbu. Odopol ju. Zložil. Strčil do vrecka.
+
+### Sera v tieňoch
+
+Bolo to nastražené. Sera ju tam nechala — jeden zo svojich tajných obrázkov (kreslí v súkromí, tsundere gap moe, vie o tom len Elania). Kresbu pripla na nástenku vopred. Mezru poslala, aby Linksa nasmeroval do správnej krčmy. Možno ten Mezra ani nevedel pre koho pracuje — dostal pár mincí a inštrukcie. Sera sledovala každý krok z tieňov. Tri vrstvy oddelenia medzi ňou a Linksom.
+
+---
+
+## Notebook — Setup
+
+**Kedy:** Po rozhovore s Kitom (lore dump). Noc. Kito odišiel do kuchyne. Links už má kresbu Tami vo vrecku.
 **Kde:** Kitov antikvariát, izba kde leží Maya na pohovke.
 **Kto:** Links (sám), Maya (spí/v bezvedomí), Kito (kuchyňa)
 
@@ -356,27 +399,11 @@ Toto je **prvý úspešný exorcizmus na Gen 2 v histórii**. Nikto pred ním to
 
 Links to vie. A trochu mu to stúpne do hlavy.
 
-Kito mu rozpráva o Tami — o líške, ktorá viedla útok na Shoravenské hradby, o jej kráse, inteligencii, hrdinských činoch. Links počúva, ale myslí pritom na niečo iné.
+Kito mu rozpráva o Tami — o líške, ktorá viedla útok na Shoravenské hradby, o jej kráse, inteligencii, hrdinských činoch. Links počúva, ale myslí pritom na niečo iné. Na obrázok. Na ten pergamen, ktorý si zobral z nástenky v krčme ešte pred tým, než stretol Kita.
 
-Na obrázok.
+[→ links-arc-outline.md: Scene 2.5 + Scene 3 — chronológia: Mezra → krčma → kresba → J-Seven → Kito]
 
-[→ characters/Sera.md: Tajná umelkyňa] — V krčme v Shoravene, kam Links prišiel po prvýkrát, bola nástenka. Inzeráty, pracovné ponuky, hľadania nezvestných, výzvy na verbovanie. A uprostred toho všetkého — pripnutý pergamen. Kresba perom a atramentom.
-
-Žena s líščími ušami. Pirátsky kabát rozopnutý, roztrhaný od bojov, pod ním previazaná košeľa. Rapír v pravej ruke. Mohutný líščí chvost. Sebavedomý úsmev — nie sladký, ale drzý. Pod kresbou ručne napísané: **"TAMI — PIRATE PRINCESS"**.
-
-Links stál pred nástenkou. Okolo neho vojaci pili a rozprávali o bitke. On sa díval na kresbu. Odopol ju. Zložil. Strčil do vrecka.
-
-Bolo to nastražené. Celá reťaz bola naplánovaná.
-
-Keď Links prišiel do Shoravenu, zastavil ho Varietas. Mezra — šmejd z ulice, oči rýchle, úsmev falošný. Videl, že Links je v meste nový. Exorcistický plášť, čistá tvár, rozhliadanie sa na každom rohu — jasný nováčik.
-
-> „Hľadáš informácie, nie? Choď do krčmy U Slepej Panny. Na nástenke je veľa užitočných vecí. Pracovné ponuky, kontakty, všetko čo nový v meste potrebuje."
-
-Potom mu poprial veľa šťastia a stratil sa v dave. Vôbec nie podozrivé. Len náhodný miestny, ktorý pomohol cudzincovi.
-
-Sera ju tam nechala — jeden zo svojich tajných obrázkov (kreslí v súkromí, tsundere gap moe, vie o tom len Elania). Kresbu pripla na nástenku vopred. Mezru poslala, aby Linksa nasmeroval do správnej krčmy. Možno ten Mezra ani nevedel pre koho pracuje — dostal pár mincí a inštrukcie. Sera sledovala každý krok z tieňov. Tri vrstvy oddelenia medzi ňou a Linksom.
-
-Links si ten obrázok pamätá. Pamätá si ho veľmi dobre. A teraz, keď Kito rozpráva o tej istej žene — o tom, ako sa bila na hradbách, ako viedla útok, ako ju vojaci obdivujú — Links si pomyslí:
+A keď Kito rozpráva o tej istej žene — o tom, ako sa bila na hradbách, ako viedla útok, ako ju vojaci obdivujú — Links si pomyslí:
 
 *Vyliečil som nevyliečiteľnú. Napísal som compiler na 2000-ročnú technológiu. V hliníkovom boxe. Za päť dní.*
 
