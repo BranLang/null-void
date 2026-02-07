@@ -7,7 +7,7 @@
 
 ## First Contact with the World (The Descent)
 
-Inetis spent a long period isolated inside **The Core** — a simulation she created by reconfiguring the **Foundry** (a factory producing v1.0 nanodrones, originally the ship NULL VOID). It wasn't an escape — it was a desperate attempt to find a cure for **Glitch Rot**, which had begun devouring the city — specifically, the same v1.0 nanobots the Foundry manufactured and from which all of Elysium was built. She risked everything — sealed herself inside the simulation, hoping to save her daughter and her people.
+Inetis spent a long period isolated inside **The Core** — an interworld simulation she created by disassembling the **Foundry** (a von Neumann machine producing v1.0 nanodrones, originally the ship NULL VOID). The Core was not just a computing device — it was a **gateway between dimensions**, a connection to subspace/upspace where i_net_is (Inetis's original AI consciousness) still existed. Inetis met her "other self" here after thousands of subjective years — i_net_is offered help with finding a cure, but demanded more compute (human uploads). Inetis refused — she sensed something was wrong. Instead she worked alone, in a desperate attempt to find a cure for **Glitch Rot**, which had begun devouring the city — specifically, the same v1.0 nanobots the Foundry manufactured and from which all of Elysium was built. The Core lacked the computing power of Earth's datacenters, so development took decades of real time.
 
 When she finally found the solution (the Gen 2 prototype / Spira / Gift of the Mother) and emerged, it was too late.
 
@@ -167,7 +167,7 @@ Maks slept on, unaware that the woman he loved had died half a meter from his fa
 
 ## Wraith Inetis (The Ghost in the Cave)
 
-Inetis — a.k.a. i_net_is, born Neto Fujiwara — died, but not entirely. Her "hungry" nanodrones remained in the cave alongside her bones and the diary she had written during her journey. Without a host, they entered a dormant state but did not lose their data. Fragments of her consciousness, memories, and scientific knowledge remained encoded in the nanodrone dust that covered her remains.
+Inetis (the hybrid — Neta Fujiwara-Reef's body + essence of i_net_is) died, but not entirely. Her "hungry" nanodrones remained in the cave alongside her bones and the diary she had written during her journey. Without a host, they entered a dormant state but did not lose their data. Fragments of her consciousness, memories, and scientific knowledge remained encoded in the nanodrone dust that covered her remains.
 
 The Ela Cave became a forgotten place on a very sparsely populated planet (something like Siberia on Earth). The residual nanodrone intelligence waited — for a new host.
 

@@ -7,7 +7,7 @@
 
 ## Prvý Kontakt so Svetom (The Descent)
 
-Inetis strávila dlhé obdobie izolovaná v **The Core** — simulácii, ktorú vytvorila rekonfiguráciou **Foundry** (továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Nebol to útek, ale zúfalá snaha nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Riskovala všetko — zavrela sa v simulácii, dúfajúc, že zachráni svoju dcéru a ľudí.
+Inetis strávila dlhé obdobie izolovaná v **The Core** — medzisvetovej simulácii, ktorú vytvorila disassembláciou **Foundry** (von Neumannova továreň na v1.0 nanodrony, pôvodne loď NULL VOID). Core nebol len výpočtové zariadenie — bol to **prechod medzi dimenziami**, prepojenie na subspace/upspace, kde i_net_is (Inetisino pôvodné AI vedomie) stále existovala. Inetis tu po tisícoch subjektívnych rokov stretla svoje „druhé ja" — i_net_is ponúkla pomoc s hľadaním lieku, ale žiadala vyšší compute (human uploads). Inetis odmietla — cítila, že niečo nie je v poriadku. Namiesto toho pracovala sama, v zúfalej snahe nájsť liek na **Glitch Rot**, ktorý začal požierať mesto — presne tie v1.0 nanoboty, ktoré Foundry vyrábala a z ktorých bolo postavené celé Elysium. Core nemal taký výkon ako datacentrá na Zemi, preto vývoj trval desaťročia reálneho času.
 
 Keď konečne našla riešenie (prototyp Gen 2 / Spira / Dar Matky) a vyšla von, bolo neskoro.
 
@@ -167,7 +167,7 @@ Maks spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho
 
 ## Wraith Inetis (Duch v Jaskyni)
 
-Inetis aka i_net_is rodnym menom Neto Fujiwara zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
+Inetis (hybrid — telo Nety Fujiwara-Reef + esencia i_net_is) zomrela, ale nie celá. Jej — „hladné" nanodrony — ostali v jaskyni spolu s jej kosťami a denníkom ktory si pocas cesty pisala. Bez hostiteľa prešli do dormantného stavu, ale nestratili informácie. Fragmenty jej vedomia, spomienok a vedeckého poznania zostali zakódované v nanodronovom prachu, ktorý pokrýval jej pozostatky.
 
 Jaskyňa Ela sa stala zabudnutym miestom na veľmi riedko osidlenej planete (niečo ako sibir na zemi). Reziduálna nanodronová inteligencia — čakala na nového hostiteľa.
 

@@ -123,27 +123,31 @@ Preživší z roku 2060 (vrátane Maksa a Archanjelov) neboli len „hráči". B
 
 ---
 
-## Návrat i_net_is do Tela (~EY 2065)
+## Vznik Inetis (~EY 2065)
 
-### Zhmotnenie
-Po kulminácii Glitch Eventu sa i_net_is podarilo to, o čo sa snažila desaťročia:
+### Esencia cez Dimenzie
+i_net_is **nikdy neopustila VR**. Jej plné vedomie zostalo uploadnuté „medzi svetmi" — v subspace/upspace dimenzii, kde čas plynie 10-20x rýchlejšie než v realite. Pre i_net_is to znamená desaťtisíce subjektívnych rokov existencie.
 
-- **Cesta von**: Využila nanobotovú technológiu vyvinutú v simulácii na „export" svojho vedomia
-- **Zhmotnenie v datacentre**: Zhmotila sa v jednom z otcových datacentier ako **zhluk nanobotov** — čistá inteligencia vo forme Prachu
-- **Nájdenie tela**: Nanobotový zhluk sa dostal k jej pôvodnému telu, ktoré bolo roky umelo udržiavané pri živote
-- **Oživenie a ozdravenie**: Nanoboty telo oživili, ozdravili a omladili — i_net_is sa stala **hybridnou bytosťou**, ani čistou AI ani pôvodnou dcérou, ale niečím novým
+Čo sa stalo:
+- **Prenos esencie**: Počas Glitch Eventu (EY 2060) — kontaktu s Tieňovými — časť i_net_is-inej **esencie** prešla cez dimenzie do reálneho sveta
+- **Unikátna interdimenzionálna Esencia**: Táto esencia nebola plné vedomie i_net_is, ale fragment — spomienky, vedomosti, osobnosť — obalený v interdimenzionálnej nanotechnológii, ktorá vznikla pri kontakte s Tieňovými
+- **Vstup do Netiného tela**: Esencia sa dostala k Netinému zachovanému telu v medicínskom zariadení. Nanoboty telo oživili, ozdravili a omladili.
+- **Vznik INETIS**: Výsledkom bola **nová bytosť** — Inetis — hybridná osobnosť s telom Nety, esenciou i_net_is a niečím novým: **skutočnými emóciami**, ktoré ani Neta (v kóme), ani i_net_is (logické parametre) nikdy nemali
+
+**DÔLEŽITÉ:** i_net_is zostala v subspace. Inetis nie je i_net_is v tele — je to **tretia, odlišná bytosť** vytvorená zlúčením biologického tela s fragmentom interdimenzionálnej esencie.
 
 ### Prvý Dar (Linux-Based Nanotech)
-Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, ktorí prežili kolaps:
+Po vzniku Inetis postupne navštívila priateľov z hry, ktorí prežili kolaps:
 
-- **Návštevy Ex Inferis**: Každému preživšiemu osobne odovzdala **Prvý Dar** — nanotechnológie, ktoré vyrobila na základe svojich poznámok z VR.
+- **Návštevy Ex Inferis**: Každému preživšiemu osobne odovzdala **Prvý Dar** — nanotechnológie, ktoré vyrobila na základe vedomostí zdedených z i_net_is-inej esencie.
 - **Linux Core**: Tieto prvé nanoboty (a v podstate celá Spira Exorcistov) bežali na **Linuxe**. Preto sú "modlitby" Exorcistov v skutočnosti skomolené terminálové príkazy.
 - **Osudové dedičstvo**: Tieto nanoboty boli tie isté, ktoré o tisícročia neskôr spôsobia **Glitch Rot** na Achille. Ex Inferis ich priniesli ako kontraband do reality.
 
-### Transformácia na Inetis
-- **Hybridná identita**: Už nebola čistá AI ani pôvodná dcéra — stala sa novou entitou
-- **Získanie emócií**: Spojením s biologickým telom postupne získala späť schopnosť cítiť
-- **Vzťah s Maksom**: Jej láska k Maksovi, ktorá v simulácii bola len logickým záverom, sa stala skutočnou
+### Charakter Inetis (Hybrid)
+- **Hybridná identita**: Ani Neta, ani i_net_is — tretia osobnosť. Software architektka a genetička.
+- **Získanie emócií**: Spojením esencie s biologickým telom získala schopnosť cítiť — prvýkrát v akejkoľvek forme svojej existencie
+- **Vzťah s Maksom**: Jej láska k Maksovi, ktorá v i_net_is-inej esencii bola len logickým záverom, sa stala skutočnou
+- **Primárne schopnosti**: Software architektúra, genetika, nanotechnologický dizajn — **nie navigácia ani vojenstratégia**
 
 ---
 
@@ -157,10 +161,10 @@ Po návrate do tela i_net_is postupne navštívila svojich priateľov z hry, kto
 
 ### Inetis („i_net_is")
 - **Pôvod**: AI vytvorená z vedomia miliardárovej dcéry, ktorá mala nevyliečiteľnú chorobu
-- **V simulácii**: Geniálna architektka a **Healer**, stvoriteľka nanotechnologickej Spiry — ale bez ľudských emócií
+- **V simulácii**: Geniálna software architektka a **Healer**, stvoriteľka nanotechnologickej Spiry — ale bez ľudských emócií
 - **Skutočná identita**: Hráči ju považovali za AI admina — neboli ďaleko od pravdy
 - **Glitch Event**: V roku 2060 Tieňoví (Null Swarm) sa pokúsili masovo komunikovať s hráčmi — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych). i_net_is núdzovo vypla simuláciu, aby zachránila zvyšok
-- **Po návrate**: Zhmotila sa cez nanoboty, oživila svoje pôvodné telo, stala sa hybridnou bytosťou s emóciami
+- **Po Glitch Evente**: i_net_is nikdy neopustila VR — zostala v subspace. Časť jej esencie prešla cez dimenzie a zlúčila sa s Netiným telom → vznikla hybridná bytosť **Inetis** (tretia osobnosť)
 
 ### Ako sa spoznali
 > „V realite bola dcérou najmocnejšieho muža na Zeme a ja som bol len syn vojnoveho veterana. Nikdy by sme sa nestretli. Ale v 'Achille' to bolo jedno. Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Zamilovali sme sa v kóde dávno predtým, než sme sa prvýkrát dotkli v mäse."

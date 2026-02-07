@@ -26,6 +26,9 @@ NULL VOID **is not a light novel**. It has no format constraints of traditional 
 - **Trimming fat** = removing redundant exposition and over-explanation, **NOT** atmosphere, worldbuilding and visuals that build the world
 - **Genre conventions are inspiration, not boundaries** — if a scene works, it stays, regardless of format
 
+#### Why strong atmosphere is not "fat":
+Light novel style is, in the author's view, too simple for this project. NULL VOID is a world that lives through details — recruitment posters with pentagrams, a fanatic preacher on the street corner, a blacksmith showing fire-mice to children. These things are not trimmable. **They're the reason the reader believes the world exists.** If a scene builds atmosphere, a sense of place and the tone of the world, it's meat, not fat. Trim redundancy, not worldbuilding.
+
 ### Why This Combination Doesn't Exist
 
 Anime and grimdark don't typically mix — anime resets consequences (power-up solves everything), grimdark lacks levity. Dieselpunk is a rare genre in itself. And hard sci-fi beneath a fantasy surface is rarer still — few do it well (Wolfe, Vance, Banks).

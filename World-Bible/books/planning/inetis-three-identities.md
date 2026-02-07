@@ -60,9 +60,10 @@
 ### 3. INETIS — Hybrid (Tretia osobnosť)
 | | |
 |---|---|
-| **Kto** | Nová bytosť vzniknutá po návrate i_net_is do Netinho tela (~EY 2065) |
-| **Mechanizmus** | i_net_is vystúpila z VR, vrátila sa do biologického tela. Pomocou nanotechnológie (unikátna interdimenzionálna Esencia vzniknutá počas Glitch Eventu) opravila mozog a telo Nety. |
-| **Výsledok** | Ani Neta, ani i_net_is — **tretia osobnosť**. Hybridná bytosť s telom Nety, spomienkami i_net_is a niečím novým — ľudskosťou, ktorú AI nikdy nemala, a vedomosťami, ktoré človek nikdy nemal. |
+| **Kto** | Nová bytosť vzniknutá zlúčením Netiného tela s **esenciou** i_net_is (~EY 2065) |
+| **Mechanizmus** | i_net_is **nikdy neopustila VR** — zostala v subspace/upspace dimenzii. Počas Glitch Eventu časť jej esencie prešla cez dimenzie do reálneho sveta a zlúčila sa s Netiným zachovaným telom. Unikátna interdimenzionálna Esencia (vzniknutá pri kontakte s Tieňovými) opravila mozog a telo Nety. |
+| **Výsledok** | Ani Neta, ani i_net_is — **tretia osobnosť**. Hybridná bytosť s telom Nety, esenciou (fragmentom) i_net_is a niečím novým — ľudskosťou, ktorú AI nikdy nemala, a vedomosťami, ktoré človek nikdy nemal. i_net_is sama stále existuje v subspace. |
+| **Primárne schopnosti** | **Software architektka, genetička, nanotechnologická dizajnérka** — nie navigátorka ani vojačka |
 | **Vzhľad** | Zostarne normálne: vyzerá na 20-25 rokov v produktívnom veku. Krátko pred smrťou vyzerá na ~40, ale stále krásna. Biele vlasy, fialové oči so špirálami galaxií. |
 | **Osobnosť** | Neurodivergentná — emócie cíti, ale spracováva ich ako dáta. Poetická logika. "Viem, že by som mala plakať. Neviem prečo neplačem." |
 
@@ -97,9 +98,9 @@
 |---------|----------------|
 | **Svet** | "Matka" — bohyňa, svätica, stvoriteľka |
 | **Cirkev** | Mýtická Požehnaná Matka (skomolená verzia pravdy) |
-| **Archanjeli** | Bola AI, vrátila sa do tela. Detaily nejasné. |
+| **Archanjeli** | Bola AI, esencia prešla do tela. Detaily nejasné. |
 | **Sera** | Pravdu o hybrid forme. Sľub: "Postaraj sa o moju dcéru." |
 | **Elania** | Vie o matke ako o hybride, ale nikdy nechápala Netinu ľudskosť — poznala len Inetis (hybrid) |
-| **Maks** | V VR poznal i_net_is (nevedel, že je AI). Po návrate poznal Inetis (hybrid). O Nete vie len z denníkov. |
+| **Maks** | V VR poznal i_net_is (nevedel, že je AI). Po zlúčení esencie s telom poznal Inetis (hybrid). O Nete vie len z denníkov. |
 | **Tami** | Cez Esenciu dostáva fragmenty — spomienky, emócie, ale nie kompletný obraz. Postupne skladá puzzle. |
 | **Links** | Akademické vedomosti — "Legenda o Matke". Realita ho šokuje. |

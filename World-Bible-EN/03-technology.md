@@ -213,8 +213,8 @@ NULL VOID was not a conventional ship of metal and plastics. It was **100% built
 - **The Glitched Antenna**: The only part of the ship that remained in its original state was the **communications Antenna** -- it glitched and refused reconfiguration. Inetis could neither disassemble nor repurpose it
 - **Maks's cryo-box**: Only one cryo-box remained in the cave -- Maks's -- in a minimal configuration. It was a nanodrone module that kept Maks in cryosleep for ~3,000 years. After Maks's awakening, the cryo-box **crumbled to dust** (the nanodrone construction spontaneously disassembled). The Antenna thus remained the **sole physical remnant** of the ship NULL VOID
 - **Reconfiguration back into a ship**: After ~3 years in the cave, Inetis reconfigured the nanodrones back into the ship NULL VOID and set off with young Elania on a journey around the planet -- searching for a better location for future colonists. They found the islands of **Elysium** (future Ynetis)
-- **Foundry**: On Elysium, Inetis reconfigured the NULL VOID ship (v1.5 gen nanodrones) into the **Foundry** -- a factory that produced **lower-tier nanodrones (v1.0)**. From these v1.0 nanodrones, the entire city of Elysium/Ynetis grew -- buildings, infrastructure, life support systems
-- **Foundry -> The Core**: When the **Glitch Rot** epidemic broke out (~AY 300-500), Inetis reconfigured the Foundry into **The Core** -- a new simulation in which she developed safer v2.0 nanobots (Spira/Gift of the Mother). The Core was a smaller simulation than the original Achilles on Earth, but sufficient for ~100 simulated years of development
+- **Foundry (Von Neumann Machine)**: On Elysium, Inetis reconfigured the NULL VOID ship (v1.5 gen nanodrones) into the **Foundry** -- a von Neumann machine where nanobots produced new **lower-tier nanodrones (v1.0)**. These v1.0 nanobots were **empty machines without consciousness** -- no intelligence, no motivation, no essence. But after merging with a human, they absorbed their consciousness and formed a **symbiotic organism** (Gen 1). From these v1.0 nanodrones, the entire city of Elysium/Ynetis grew -- buildings, infrastructure, life support systems
+- **Foundry -> The Core**: When the **Glitch Rot** epidemic broke out (~AY 300-500), Inetis disassembled the Foundry and created **The Core** -- a new simulation. The Core was not just a computing device -- it was an **interworld, a gateway between dimensions**. It connected to subspace/upspace where i_net_is still existed. Inetis met her "other self" in the Core -- i_net_is -- after thousands of subjective years of separation (time in subspace flows 10-20x faster). i_net_is offered help with Gen 2 development but demanded more compute -- **human uploads** -- more intelligence. Inetis sensed something was wrong and refused. The Core lacked Earth's computing power and millions of users, so Gen 2 nanotech development took decades of real time (~100 simulated years of development)
 
 #### Chain of NULL VOID Transformations
 ```
@@ -222,8 +222,8 @@ NULL VOID (ship, v1.5)
   -> Cave machinery (excavation, hydroponics, ~3 years)
   |   [left in cave: Maks's cryo-box (minimal config) + Antenna (glitched)]
     -> NULL VOID (ship, voyage to Elysium)
-      -> FOUNDRY (factory, producing v1.0 nanodrones -> city construction)
-        -> THE CORE (simulation, developing v2.0 / Gift of the Mother)
+      -> FOUNDRY (von Neumann machine, producing v1.0 nanodrones -> city construction)
+        -> THE CORE (interworld/simulation, subspace connection, developing v2.0 / Gift of the Mother)
 
   After Maks's awakening (~AY 3000): cryo-box -> dust
   Sole physical remnant: ANTENNA

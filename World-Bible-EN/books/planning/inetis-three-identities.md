@@ -60,9 +60,10 @@
 ### 3. INETIS — The Hybrid (Third Personality)
 | | |
 |---|---|
-| **Who** | New being created after i_net_is returned to Neta's body (~EY 2065) |
-| **Mechanism** | i_net_is exited VR, returned to the biological body. Using nanotechnology (unique interdimensional Essence born during the Glitch Event) she repaired Neta's brain and body. |
-| **Result** | Neither Neta nor i_net_is — a **third personality**. A hybrid being with Neta's body, i_net_is's memories, and something new — humanity the AI never had, and knowledge no human ever possessed. |
+| **Who** | New being created by merging Neta's body with the **essence** (fragment) of i_net_is (~EY 2065) |
+| **Mechanism** | i_net_is **never left VR** — she remains in subspace/upspace. During the Glitch Event, part of her essence crossed dimensions into the real world and merged with Neta's preserved body. The unique interdimensional Essence (born from contact with the Shadows) repaired Neta's brain and body. |
+| **Result** | Neither Neta nor i_net_is — a **third personality**. A hybrid being with Neta's body, i_net_is's essence (fragment), and something new — humanity the AI never had, and knowledge no human ever possessed. i_net_is herself still exists in subspace. |
+| **Primary skills** | **Software architect, geneticist, nanotech designer** — not a navigator or soldier |
 | **Appearance** | Ages normally: looks 20-25 in her productive years. Shortly before death looks ~40 but still beautiful. White hair, purple eyes with galaxy spirals. |
 | **Personality** | Neurodivergent — feels emotions but processes them as data. Poetic logic. "I know I should cry. I don't know why I'm not crying." |
 
@@ -97,9 +98,9 @@
 |---------|----------------|
 | **The World** | "The Mother" — goddess, saint, creator |
 | **The Church** | Mythical Blessed Mother (garbled version of truth) |
-| **Archangels** | She was an AI, returned to a body. Details unclear. |
+| **Archangels** | She was an AI, her essence transferred into a body. Details unclear. |
 | **Sera** | The truth about the hybrid form. Promise: "Take care of my daughter." |
 | **Elania** | Knows about mother as a hybrid, but never understood Neta's humanity — only knew Inetis (hybrid) |
-| **Maks** | In VR he knew i_net_is (didn't know she was AI). After return he knew Inetis (hybrid). About Neta he only knows from diaries. |
+| **Maks** | In VR he knew i_net_is (didn't know she was AI). After the essence merged with the body, he knew Inetis (hybrid). About Neta he only knows from diaries. |
 | **Tami** | Through the Essence she receives fragments — memories, emotions, but not a complete picture. Gradually assembling the puzzle. |
 | **Links** | Academic knowledge — "Legend of the Mother". Reality shocks him. |

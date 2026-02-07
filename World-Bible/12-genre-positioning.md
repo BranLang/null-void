@@ -26,6 +26,9 @@ NULL VOID **nie je light novel**. Nemá formátové obmedzenia tradičných ligh
 - **Strihanie tuku** = odstraňovanie redundantných expozícií a vysvetľovania, **NIE** atmosféry, worldbuildingu a vizuálov, ktoré budujú svet
 - **Konvencie žánrov sú inšpirácia, nie mantinely** — ak scéna funguje, zostáva, bez ohľadu na formát
 
+#### Prečo silná atmosféra nie je "fat":
+Light novel štýl je podľa autora príliš simple. NULL VOID je svet, ktorý žije cez detaily — verbovací plagáty s pentagramami, fanatický kazateľ na rohu ulice, kováč, čo deťom ukazuje ohnivé myšky. Tieto veci nie sú strihateľné. **Sú to dôvody, prečo čitateľ verí, že ten svet existuje.** Ak scéna buduje atmosféru, pocit miesta a tón sveta, je to mäso, nie tuk. Strihaj redundanciu, nie worldbuilding.
+
 ### Prečo táto kombinácia neexistuje
 
 Anime a grimdark sa bežne nemixujú — anime resetuje dôsledky (power-up vyrieši všetko), grimdark nemá levity. Dieselpunk je vzácny žáner sám o sebe. A hard sci-fi pod fantasy povrchom je vzácnejší ako ľudia, čo to robia dobre (Wolfe, Vance, Banks).
