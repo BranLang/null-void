@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![World Map](World-Bible/assets/maps/map-canon.jpg)
+![World Map](World-Bible/assets/maps/map-canon.png)
 
 *The known world of Achilles — four continents, each hiding its own secrets.*
 
