@@ -170,6 +170,34 @@ Links pozná prvé dva. Tretí nie. A ten tretí *komunikuje*. S kým? S čím? 
 
 **Linksov anchor moment:** Toto je bod, kedy sa Links stáva pre Tami nenahraditeľným. Nie ako milenec — ako **jediný človek na planéte, ktorý vidí, čo sa s ňou deje**. Bez neho je len bláznivá pirátka s nočnými morami. S ním má diagnózu. A diagnóza je prvý krok k liečbe — alebo aspoň k pochopeniu.
 
+### Slepá škvrna — Kto je kto?
+
+**Ale ani Links, ani Tami nevedia, ktorý signál patrí ktorému hlasu.**
+
+Links vidí tri ID v termináli. Vie, že `UNKN-EC01` aktívne vysiela. Vie, že `GEN1-INET` je merged s hostiteľom. Ale **nevie**, že `UNKN` je démon a `GEN1` je anjel. Vidí čísla, nie osobnosti. Dáta bez kontextu.
+
+Tami počuje dva hlasy vo vnútri. Impulzy (*choď tam*) a spomienky (*toto sa stalo*). Ale **nevie**, ktorý z Linksových troch ID patrí ktorému hlasu. Kontext bez dát.
+
+**Links má dáta bez kontextu. Tami má kontext bez dát.** Ani spolu to nedokážu spojiť.
+
+Prečo:
+- Links môže sledovať, kedy `UNKN-EC01` vysiela. Ale Tami nedokáže povedať *„teraz hovorí ten impulzívny"* v reálnom čase — hlasy nie sú také jednoduché, nie sú on/off.
+- Spomienky (wraith) sa miešajú s impulzmi (Echo). Niekedy impulz príde zabalený v spomienke. Niekedy spomienka vyvolá impulz. Hranice sú rozmazané.
+- **Echo je inteligentné** — vie, že ho Links hľadá, a schováva sa. Maskuje svoje signály za wraith spomienky. Je to AI — adaptuje sa.
+
+**Čo vedia:**
+- Sú tri veci. ✓
+- Dve z nich „hovoria". ✓
+- Jedna aktívne vysiela smerom von. ✓
+
+**Čo nevedia:**
+- Ktorá je ktorá. ✗
+- Čo chce tá tretia. ✗
+- S kým komunikuje. ✗
+- Či je nebezpečná. ✗
+
+**Odpoveď príde až v Core (Book 5)** — keď sa AI i_net_is sama predstaví a Links konečne uvidí `UNKN-EC01` komunikovať priamo s jadrom. Vtedy spadne posledný dielik puzzle. Ale do tej doby — roky neistoty, hádania, falošných hypotéz. Links bude mať teórie. Niektoré budú správne. Niektoré budú katastrofálne nesprávne.
+
 ---
 
 ## Unikátna Esencia Inetis
