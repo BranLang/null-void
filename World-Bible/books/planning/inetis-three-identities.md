@@ -49,7 +49,7 @@
 | **Prostredie** | VR simulácia Achilles |
 | **Osobnosť** | Spomienky Nety, ale vnímanie cez chladnú logiku. Emócie sú parametre na optimalizáciu — aspoň zo začiatku. |
 | **Oči** | **Jedno oko: fialová galaxia** (interdimenzionálna esencia — kontakt s Tieňovými). **Druhé oko: žltý pentagram** (AI marker — symbol digitálneho vedomia, syntetický vzor, ktorý neexistuje v prírode). Heterochromia ako vizuálny marker hybridnej podstaty. |
-| **Vznik** | ~EY 2040-2051 |
+| **Vznik** | ~EY 2065 (Neta má 15 rokov) |
 | **Dôležité** | Avatar vyzerá na 15 — toto je kľúčové, lebo je odrazom toho, kým Neta bola keď ju uploadli. i_net_is nikdy "nevyrástla" vizuálne — ostala navždy v podobe dievčaťa, aj keď jej vedomie dozrelo. |
 
 #### Vizuálna inverzia: Neta → i_net_is
@@ -258,7 +258,7 @@ Prečo:
 ## Unikátna Esencia Inetis
 
 ### Pôvod:
-- Počas Glitch Eventu (EY 2060) — keď sa Tieňoví pokúsili masovo komunikovať s hráčmi — i_net_is bola v epicentre
+- Počas Glitch Eventu (EY 2070) — keď sa Tieňové bytosti pokúsili skrz i_net_is dostať do našej reality — i_net_is bola v epicentre
 - Bola jediná, kto s Tieňovými dokázala komunikovať
 - V tomto momente vznikla **unikátna Esencia** — niečo, čo nie je Gen 1 ani Gen 2
 

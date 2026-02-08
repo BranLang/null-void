@@ -3,7 +3,7 @@
 ![Maksov Strach - Stret s Paladínmi](<characters/Maks/Generated Image February 01, 2026 - 12_02AM.jpeg>)
 *Veterán z Pekla kričí na Tami, aby utiekla. Pred ním stoja Paladíni — s technológiou, ktorej nerozumie.*
 
-| **Vek** | **~3000+** (Chronologicky), **~30** (Biologicky, vďaka kryu a 15 rokom v VR) |
+| **Vek** | **~3000+** (Chronologicky), **~30** (Biologicky, vďaka kryu a 5 rokom v VR) |
 
 ### Maksimilián (Subjekt EX-INF-003)
 | | |
@@ -29,7 +29,7 @@ Maks sa prebúdza ako „troska".
 
 ### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
-- **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 15 subjektívnych rokov v digitálnom pekle 2060. Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
+- **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 5 rokov v simulácii Achilles (2065-2070). Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
 
 - **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity.
 
@@ -51,16 +51,16 @@ Maks sa prebúdza ako „troska".
   - **Obživa**: Takto si zarába na živobytie ako Exorcista — loví Wraithov, zbiera Prach a predáva výrobky
 
 ### Backstory
-Maks je jedným z vyvolených, ktorí sa vrátili z 50-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
+Maks je jedným z vyvolených, ktorí sa vrátili z 5-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
 - **V realite**: Maks bol synom **vojnového veterána** zo strednej Európy. Od otca sa naučil disciplínu a základy boja, no v ére Hráčov uprednostnil virtuálny svet pred drsnou realitou.
 - **Vojna s Marsom**: Bol hlavnou päsťou Koordinátora. Verný, tvrdý, lojálny Major počas vojny (2150). Po víťazstve povýšený na **Generála Pozemskej Obrany**.
 - **Pád Zeme**: Posledné hodiny strávil prebíjaním sa cez horiacu civilizáciu, aby zachránil Inetis na príkaz umierajúceho Koordinátora.
-- **Prebudenie (AY 3000)**: Prebudený v „Hrobke technológie" po 2700 rokoch. Zlyhanie kryostázy mu spôsobilo explóziu očí mrazom. Nájdený pirátmi a predaný ako „čistokrvný tovar".
+- **Prebudenie (AY 3000)**: Prebudený v „Hrobke technológie" po ~3000 rokoch. Zlyhanie kryostázy mu spôsobilo explóziu očí mrazom. Nájdený pirátmi a predaný ako „čistokrvný tovar".
 - **Stav**: Nahý, pokrytý modrou kryo-tekutinou, slepý a v šoku.
 - **Porážka Samaella a Oči z Prachu**: Po porazení Samaella si Maks prisvojil jeho nanodrony — "Shadow Dust" (Tieňový Prach). Tento Čierny Prach vyplnil jeho prázdne očné jamky a vytvoril nové, funkčné oči. Maxove oči sú teraz z čierneho nanoprachu — tmavé, neprirodené, no plne funkčné. Nie sú to "sedem modrých hviezd" — sú to oči z Prachu mŕtveho démona.
 
 ### Herná minulosť
-> „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá."
+> „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Ale zamilovali sme sa až potom — keď prišla za mnou do Kyjeva."
 
 ### Motivácia
 1.  **Revenge (Tami)**: Pomôcť Tami pomstiť smrť jej prvej posádky (Arkot, Yera, Flint), ktorí zomreli kvôli Artefaktu. Cíti vinu, že tam nebol.

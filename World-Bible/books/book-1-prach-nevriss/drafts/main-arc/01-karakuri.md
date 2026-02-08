@@ -8,7 +8,7 @@ Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a
 
 *Nádhera*, pomyslela si s iróniou. Pred dvanástimi hodinami toto isté slovo úprimne zašeptala, keď v noci uvidela milióny svetiel pod sebou — oranžové body plynových lamiel a olejových kahancov rozkvitnuté v snehovej tme. V noci bolo Šoraven krásne. Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a ľudí, čo si pred každým výdychom priložili šatku k tvári.
 
-Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. [→ 06-society.md: Kult Matky, kňažky] Ich hlasy zosilňovali obrovské mosadzné zvony. *„Spira Matky prúdi v nás. Spira Matky nás ochráni."* [→ 03-technology.md: Spira = nanotech ekosystém] Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Šoraven bolo už týždeň v obkľúčení.
+Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. [→ 06-society.md: Kult Matky, kňažky] Ich hlasy zosilňovali obrovské mosadzné zvony. *„Sila Matky prúdi v nás. Dych Matky nás ochráni."* [→ 03-technology.md: Spira = nanotech ekosystém] Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Šoraven bolo už týždeň v obkľúčení.
 
 Grawská armáda obsadila priesmyky Atra a ťažké delostrelectvo začalo "mäkčiť" predmestia. [→ concepts/battle-logistics.md: obliehanie Šoraven] Obloha na severe bola šedá od dymu horiacich dedín. Blokáda prístavu nebola ešte úplná — Grawskí admiráli čakali na hlavnú flotilu — ale zvedy už krúžili nad zálivom ako supy. [→ 06-society.md: Graw vs Nevriss konflikt]
 
@@ -20,13 +20,13 @@ Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žer
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto mrazivom pekle.
 
-Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou [→ 03-technology.md: Mezra = stredná kasta, čiastočná Spira] — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. *Spira.* Stará kňažka požehnávala každú zbraň dotykom Spiry — posvätnej sily, o ktorej verila, že je dych Matky. [→ 03-technology.md: Spira = nanotechnológia, nie mágia]
+Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou [→ 03-technology.md: Mezra = stredná kasta, čiastočná Spira] — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. Stará kňažka požehnávala každú zbraň dotykom — posvätnou silou, o ktorej verila, že je dych Matky. [→ 03-technology.md: Spira = nanotechnológia, nie mágia]
 
-Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Spira je s vami!"*
+Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Jej sila je s vami!"*
 
 A medzi tým všetkým — žoldnieri. Tami ich spoznala na prvý pohľad. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina s guľometmi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
 
-Niektorí z nich mali okolo zápästí mystické tetovanie — Wa-Spira, dôkaz bojových schopností Spiry. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Spira bola v čase vojny mena drahšia než zlato.
+Niektorí z nich mali okolo zápästí mystické tetovanie — bojové znaky, dôkaz posvätných schopností. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Dar Matky bol v čase vojny menou drahšou než zlato.
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
@@ -130,11 +130,11 @@ Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší vedľa 
 
 Líščie uši. Gaštanové, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
 
-Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plná Spira] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
+Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plný Dar Matky] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
 
 A tá tvár. Mladá, ostrá, s tým šibalským polomsievom, ktorý hovoril: *Viem, čo robím s tvojou hlavou.*
 
-V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny o Spiru a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
+V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
 
 *Niet divu, že tak zízajú. Pre nich sme cirkusové číslo.*
 
@@ -196,13 +196,13 @@ Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky ako miniaturní duchovia.
 
-Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Spiry. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili Spiru. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
+Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Daru. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili posvätný Dar. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
-Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matky, propaganda] Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi pentagramami [→ 03-technology.md: pentagram = IDE interface pre Spiru] — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBETU! SPIRA JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!"*
+Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matky, propaganda] Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi pentagramami [→ 03-technology.md: pentagram = IDE interface pre Spiru] — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBETU! JEJ DAR JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!"*
 
-Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho so Spirou.
+Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho s Darom.
 
 Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou Ghorki — najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
 
@@ -210,13 +210,31 @@ Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami p
 
 Prístav prechádzal do Dolného mesta plynulo — žiadna brána, len postupný prechod z dokov na dláždenú ulicu. Architektúra bola chaotická. Staré budovy z bieleho monolitického materiálu — *3D-tlačené ruiny z Éry prvého veku* [→ 01-timeline.md: Éra prvého veku, pôvodná civilizácia] — stáli vedľa drevených prístavkov a hrdzavých plechových prístreškov.
 
-Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Spira kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu. [→ 03-technology.md: Spira kryštály, koncentrovaná esencia]
+Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Posvätné kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu. [→ 03-technology.md: Spira kryštály, koncentrovaná esencia]
 
 *Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.* [→ 03-technology.md: Makita, Spira pohon vs biodiesel]
 
-Na jednom námestíčku videla niečo, čo ju prinútilo spomaliť. Kováč predvádzal skupinke detí ukážku Spiry. [→ 03-technology.md: Spira aplikácie, Mezra kasta] Dvíhal z dlane malé plamienky, tvaroval ich do zvieratiek, ktoré pobehovali po vzduchu. Deti pišťali od radosti. Jedno malé dievčatko s mačacími ušami natiahlo ruku k ohnivej myške. Kováč ju zachytil: *„Len sa pozeraj, maličká. Matka ti dá Spiru, keď príde tvoj čas."* Nežne. Láskavo. Klamal.
+Na jednom námestíčku sa zastavila.
 
-*Matka jej nedá nič*, pomyslela si Tami. *Ghorki sa rodia bez Spiry a umierajú bez nej.*
+Kováč. Starší Mezra s kozími rohmi a hrubými prstami, z ktorých stúpal jemný žiar. Stál uprostred skupinky detí a robil niečo, čo Tami prinútilo zadržať dych.
+
+Z jeho dlaní stúpalo teplo. Nie oheň — niečo *jemnejšie*. Vzduch sa zachvel, zhustol, a potom sa z ničoho nič na jeho prstoch objavil malý plameňový zajac. Skočil mu z ruky, prebehol po vzduchu a pristál na dlažbe, kde zanechal stopy z iskier. Deti vreštali od nadšenia. Kováč sa usmial, a zo zajaca sa stal orol, roztiahol ohnivé krídla, zakrúžil nad hlavami detí a rozsypal za sebou dážď zlatých bodiek, ktoré pohasínali skôr, než dopadli na zem.
+
+Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďalej. Teplo z kováčových rúk sa nieslo cez mrazivý vzduch a dopadalo na detské tváre ako prvé jarné lúče — a v tom oranžovom svetle, uprostred zimy, uprostred vojny, sa deti smiali.
+
+*Spira.*
+
+To slovo jej prišlo na myseľ samo, tiché a ťažké ako prvá kvapka dažďa na vyprahnutú zem. Posvätná sila. Dych Matky. Dar, ktorý pretekal žilami tohto sveta — a rozhodoval, kto bude žiť a kto bude slúžiť. [→ 03-technology.md: Spira = nanotech ekosystém]
+
+Jedno malé dievčatko s mačacími ušami — Ghorki, najnižšia kasta — natiahlo ruku k ohnivej myške, ktorá práve prebehla popri jej nohách. Prstíky sa takmer dotkli žiariaceho tvora. Dievčatko sa nesmálo. Dievčatko sa *divilo*. Veľké, tmavé oči, dokorán otvorené, ústa mierne pootvorené. Taký výraz majú len deti, keď vidia niečo, čo ešte nechápu, ale už vedia, že to chcú.
+
+Kováč ju nežne zachytil za zápästie. Kľakol si k nej, tvár na úrovni jej očí. *„Len sa pozeraj, maličká,"* povedal láskavo. *„Matka ti dá Spiru, keď príde tvoj čas."*
+
+Klamal.
+
+Vedel to. Tami to vedela. Každý dospelý na tom námestí to vedel. Ghorki sa rodia bez Spiry a umierajú bez nej. Žiadny „čas" pre ňu nepríde. Ale kováč klamal tak nežne, tak presvedčivo, že na okamih — na jeden jediný, krehký okamih — sa dievčatko usmialo. [→ 03-technology.md: Spira aplikácie, Mezra kasta]
+
+*A v tom úsmeve bolo všetko*, pomyslela si Tami. *Celý tento svet. Krása a krutosť v jednom dychu.*
 
 Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní, ale bez Spiry. [→ 03-technology.md: kastový systém, nanotech stratifikácia] A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
 

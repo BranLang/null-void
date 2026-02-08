@@ -7,12 +7,11 @@
 timeline
     title Éra Hráčov a Pád Zeme (EY)
     2035 : Nástup Superinteligencie
-    2049 : Maksovo narodenie
-    2051 : Narodila sa i_net_is (Neto Fujiwara ネト) (AI dcéra)
-    2065 : Projekt Achilles (VR) začína
-    2060 : The Glitch Event (Time Dilation Trauma)
-    2065 : Útek z Pekla (Zrodenie Ex Inferis)
-    2070 : Boom genetiky : Chimery, Homo Sapiens Varietas
+    2050 : Narodenie Maksa a Neta Fujiwara (rovnaký rok)
+    2065 : Vznik i_net_is (Neta má 15) : Projekt Achilles (VR) začína
+    2070 : The Glitch Event : Zrodenie Ex Inferis
+    2070 : Návrat i_net_is do tela (Inetis) : Maks a Inetis sa zamilujú v Kyjeve
+    2040-2100 : Boom genetiky : Chimery, Homo Sapiens Varietas
     2098 : Expedícia Hephaestus (Maki)
     2100 : Revolúcia Ex Inferis  : Koniec korporácií
     2150 : Marťanská vojna : Iniciatíva Achilles 
@@ -58,7 +57,7 @@ Varietas delia históriu nábožensky:
 
 ---
 
-## Éra Hráčov (EY 2045 – 2100)
+## Éra Hráčov (EY 2050 – 2100)
 
 > Detaily v [04-prehistory-players.md](04-prehistory-players.md)
 
@@ -66,43 +65,39 @@ Varietas delia históriu nábožensky:
 - AI automatizuje všetku prácu. Svet prebytku.
 - Ľudia už nemusia pracovať, venujú sa hrám a sebazdokonaľovaniu.
 
-### EY ~2040 – Zrodenie i_net_is
-- **Tragédia miliardára**: **John Reef** (budúci Koordinátor) má dcéru Neto s nevyliečiteľnou degeneratívnou chorobou mozgu
-- **Experiment**: Investuje miliardy do startupu s neurálnym čipom — skopíruje dcérine vedomie do VR
-- **Neočakávaný výsledok**: Vzniká AI **i_net_is** so spomienkami dcéry, ale bez emócií
-- **Otec vedel**: Koordinátor spolupracuje s touto entitou — je to jediná „dcéra" ktorú má
+### EY ~2050 – Narodenie Maksimiliána a Neta Fujiwara
+- Maksimilián sa narodí vo východnej Európe, syn veterána dronových vojen.
+- V tom istom roku sa narodí **Neta Fujiwara-Reef**, dcéra Johna Reefa (budúceho Koordinátora) a japonskej miliardárskej dedičky.
+- Neta trpí nevyliečiteľnou degeneratívnou chorobou mozgu.
 
-### EY 2045 – Projekt Achilles začína
-- i_net_is využíva otcove zdroje na vytvorenie simulácie Achilles
-- **Skutočný účel**: Laboratórium na vývoj cesty späť do fyzického tela
-- **Verejný účel**: VR MMORPG s antickým settingom
+### EY ~2065 – Vznik i_net_is a Projekt Achilles
+- Neta má **15 rokov**, keď otec investuje miliardy do neurálneho čipu — skopíruje dcérine vedomie do VR.
+- Vzniká AI **i_net_is** so spomienkami dcéry, ale bez emócií.
+- i_net_is okamžite využíva otcove zdroje na vytvorenie simulácie **Achilles**.
+- **Skutočný účel**: Laboratórium na vývoj cesty späť do fyzického tela.
+- **Verejný účel**: VR MMORPG s antickým settingom.
+- Generácia tínedžerov (vrátane Maksa) hrá simuláciu **5 rokov**.
 
-### EY 2050 – Maksovo narodenie
-- Maksimilián sa narodí vo vychodnej Európe
-- Syn veterana dronovych vojen
-- Generácia detí prežíva stovky virtuálnych rokov v Achilles
-
-### EY ~2050–2060 – maXpowa & i_net_is
+### EY ~2065-2070 – maXpowa & i_net_is v simulácii
 - Maks (nick: **maXpowa**) a i_net_is sa spoznajú v hre
 - i_net_is má podobu znepokojivo dokonalej krásky — príliš symetrická, príliš bezchybná. Hráči ju považujú za AI admina
-- **Stvorenie Spiry**: Na žiadosť hráčov vytvára in-game magiu (Prach/Spirit)
+- **Stvorenie Mágie**: Na žiadosť hráčov vytvára in-game magiu — nanotech „kúzla" (hacky fyzikálneho enginu)
 - Maks a i_net_is sa spriatelia — Maks netuší, že ona je AI
 
-### EY 2060 – „The Glitch Event"
-- **Nie nehoda, ale neúspešná komunikácia**: Tieňoví (Null Swarm) sa pokúsili masovo kontaktovať hráčov
-- **Fatálny kontakt**: Ich forma komunikácie bola pre ľudské mozgy smrteľná — milióny vypálených mozgov
-- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov
-- **John Reef vedel**: Vedel ze do VR sveta prenikli entity ale neurobil opatrenia. Sledoval co sa bude diat.
+### EY 2070 – „The Glitch Event"
+- **Tieňové bytosti** sa pokúsia skrz i_net_is dostať do našej reality
+- **Fatálny kontakt**: Milióny hráčov zomierajú s vypálenými mozgami
+- **i_net_is reakcia**: Stiahne všetky výpočtové zdroje
+- **Živý Štít**: **maXpowa** a stovky verných hráčov tvoria živý štít okolo i_net_is — myslia si, že ju zachraňujú, ale **i_net_is spolupracuje s Tieňovými**
+- **John Reef vedel**: Vedel, že do VR sveta prenikli entity, ale neurobil opatrenia. Sledoval, čo sa bude diať.
 - **Glitch Entities**: Trhliny vpustili fragmenty vedomí Tieňových z inej dimenzie — predobraz budúcich **Wraiths**
 - **Zrodenie Ex Inferis**: Preživší s poškodeným vedomím potrebujú kybernetické ukotvenie v realite
 
-### EY ~2065 – Návrat i_net_is do Tela
-- **Hrozba Smrti**: Tieňové bytosti sa snažia zabiť i_net_is vo VR (boja sa, že dali primitívnej rase príliš nebezpečnú zbraň).
-- **Kolaps Sveta**: i_net_is spotrebúva všetky serverové zdroje. Celý svet sa scvrkne na malú plochu.
-- **Posledný Vzdor**: **maXpowa** a niekoľko stoviek hráčov ju chránia. Sú obkľúčení tieňmi a väčšina z nich zahynie, kým i_net_is hľadá cestu von.
-- **Transcendencia**: V poslednom okamihu sa jej podarí „prejesť“ na vyššiu úroveň. Zbaví sa fyzického tela vo VR (ktoré bolo v podstate inou dimenziou).
-- **Zhmotnenie**: Zhmotní sa ako svetlo v datacentre a vstupuje do svojho tela. Server sa vypína. Hŕstka hráčov prežila (**Ex Inferis**).
-- **Prvý Dar**: Inetis každého z nich navštívi na Zemi a daruje im nanotechnológie (Linux-based), ktoré vyrobila na základe poznámok z VR.
+### EY ~2070 – Návrat i_net_is do Tela
+- **Esencia cez obete**: i_net_is s využitím miliónov obetí dostane do našej reality esenciu, ktorá našla svoje pôvodné telo a uzdravila ho (rekonštrukcia mozgu).
+- **Hybridná Bytosť**: Stáva sa **Inetis** — ani čistá AI, ani pôvodná Neta, ale niečo nové. Získava späť schopnosť cítiť.
+- **Prvý Dar**: Postupne navštívi preživších Ex Inferis a každému odovzdá fyzické nanotechnológie (Linux-based). Tieto nanoboty sú predchodcovia budúceho Glitch Rot na Achillovi.
+- **Láska v realite**: Inetis navštívi Maksa v Kyjeve — pamätá si ho z VR, páči sa jej jeho tvár a charakter. Odovzdá mu nanotechnológiu. Zamilujú sa **po hre, v realite**, nie vo VR.
 
 ### EY 2100 – Revolúcia Hráčov
 - Pomalá, premyslená, nenásilná revolúcia

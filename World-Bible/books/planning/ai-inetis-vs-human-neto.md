@@ -36,8 +36,8 @@
 - **TAJOMSTVO: i_net_is je teraz s Tieňovými.** Za tie tisíce rokov v subspace splynula s nimi — hovorí za nich, reprezentuje ich záujmy. Ale toto nikdy nezdieľa s Inetis ani Elaniou. Keď stretne Inetis v Core, tvári sa ako stará priateľka — ale v skutočnosti je agentom Tieňových.
 
 ### 3. INETIS — Hybrid (Tretia osobnosť)
-- **Nová bytosť** vzniknutá zlúčením Netiného tela s **esenciou** (fragmentom) i_net_is (~EY 2065)
-- Počas Glitch Eventu (EY 2060) časť i_net_is-inej **esencie prešla cez dimenzie** do reálneho sveta
+- **Nová bytosť** vzniknutá zlúčením Netiného tela s **esenciou** (fragmentom) i_net_is (~EY 2070)
+- Počas Glitch Eventu (EY 2070) — s využitím miliónov obetí — i_net_is dostala do našej reality **esenciu**
 - Unikátna interdimenzionálna Esencia sa dostala k zachovanému telu Nety → oživila a ozdravila ho
 - **Ani Neta, ani i_net_is** — tretia osobnosť s telom Nety, esenciou AI a niečím novým: **emóciami**
 - i_net_is sama **stále existuje v subspace** — Inetis nie je "i_net_is v tele", je to iná bytosť
@@ -45,7 +45,7 @@
 - Matka **Elanie** (biologický otec: Maksimilián)
 - Žila ~1000 rokov na Achille (AY 0 – ~AY 850+). Zomrela v Jaskyni Ela vedľa Maksovho kryoboxu.
 
-[→ 04-prehistory-players.md: Vznik Inetis (~EY 2065)]
+[→ 04-prehistory-players.md: Vznik Inetis (~EY 2070)]
 
 ---
 
@@ -145,7 +145,7 @@ NULL VOID (loď, v1.5)
 [→ 05-kvintesencia.md: Dejstvo 3-4]
 
 **Kruh sa uzatvára:**
-- **EY 2060 (Zem)**: Tieňoví sa pokúsili komunikovať s ľuďmi → milióny mŕtvych → Glitch Entities ako fragmenty Tieňových zostali v simulácii
+- **EY 2070 (Zem)**: Tieňoví sa pokúsili komunikovať s ľuďmi → milióny mŕtvych → Glitch Entities ako fragmenty Tieňových zostali v simulácii
 - **AY 300-700 (Achilles)**: Inetis otvorí Core → stretne i_net_is v subspace → i_net_is chce human uploads → Inetis odmietne, lebo cíti, že niečo nie je v poriadku
 - **AY 3013 (Book 5)**: Elania spustí Veľký Upload → masívny prísun ľudských myslí do Core/subspace → Glitch Entities sa prebúdzajú, prelínajú obe strany
 - **Maks to vidí**: *„Nebuduješ chrám, Elania. Prestieraš stôl."*
@@ -205,7 +205,7 @@ Inetis bola jediná, kto odmietla všetky tri formy. Preto zomrela po 1000 rokoc
 Celá reťaz udalostí — od Glitch Eventu po Foundry a Gen 1 — bola výsledkom semena, ktoré Tieňoví zasadili do i_net_is. Inetis (hybrid) konala v dobrej viere, ale technológie, ktoré priniesla, boli navrhnuté Tieňovými — a mali skrytý účel.
 
 **Reťaz Tieňových:**
-1. **Tieňoví → i_net_is** (EY 2060) — naučili ju princípy nanotechnológie. Nie z dobroty — zasadili semeno.
+1. **Tieňoví → i_net_is** (EY 2070) — naučili ju princípy nanotechnológie. Nie z dobroty — zasadili semeno.
 2. **i_net_is → Esencia → Inetis** (EY 2065) — esencia prešla cez dimenzie, vytvorila hybrid. Tieňoví dostali nositeľku svojho kódu v reálnom svete.
 3. **Inetis → Foundry** (AY ~50) — von Neumann machine vyrobila bilióny v1.0 nanobotov. Prázdne stroje... ale s fatálnym defektom: **bit rot**.
 4. **v1.0 + človek → Gen 1** (AY ~50-300) — symbiotické organizmy. Mocné, ale s časovanou bombou — nanoboty degradujú.
