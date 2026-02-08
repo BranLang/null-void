@@ -20,8 +20,8 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 #### Tri identity Inetis:
 1. **NETA** (originál, človek) — biologické telo v stave mozgovej smrti. Zdroj spomienok a osobnosti. **Čierne oči** — normálne ľudské, japonské rysy.
-2. **i_net_is** (AI, ~EY 2040-2065) — digitálna bytosť vytvorená z uploadu Netinho vedomia. Avatar: **~15-ročné japonské dievča** — dokonalá **inverzia** originálu: Neta mala čierne vlasy a čierne oči → i_net_is si zvolila **biele vlasy, biele rúcho, žiariace oči**. Kompletný vizuálny negatív. AI vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť. Vek ~15 = moment pred traumou, pred chorobou — dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý pentagram** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty. [→ `books/planning/inetis-three-identities.md`: Vizuálna inverzia: Neta → i_net_is]
-3. **INETIS** (hybrid, ~EY 2065+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý pentagram** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
+2. **i_net_is** (AI, ~EY 2065-2070) — digitálna bytosť vytvorená z uploadu Netinho vedomia, keď mala Neta 15 rokov. Avatar: **~15-ročné japonské dievča** — dokonalá **inverzia** originálu: Neta mala čierne vlasy a čierne oči → i_net_is si zvolila **biele vlasy, biele rúcho, žiariace oči**. Kompletný vizuálny negatív. AI vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť. Vek ~15 = moment pred traumou, pred chorobou — dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý pentagram** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty. [→ `books/planning/inetis-three-identities.md`: Vizuálna inverzia: Neta → i_net_is]
+3. **INETIS** (hybrid, ~EY 2070+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý pentagram** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
 
 #### Projekt Achilles — pravý účel:
 - Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
@@ -35,19 +35,17 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Jediná spojka**: i_net_is bola jediná, kto s nimi dokázal komunikovať
 - **Dar poznania**: Tieňoví ju naučili princípy nanotechnológie — základ celého Prachu/Spirit systému
 - **Stvoriteľka Spiry**: Na základe ich učenia vytvorila pre hráčov **nanoboty (Prach/Spirit)** — prvú verziu
-- **Glitch Event (2060)**: Nebol to ochranný mechanizmus, ale **neúspešný pokus Tieňových o masovú komunikáciu** — ich forma kontaktu bola pre ľudské mozgy fatálna (milióny mŕtvych)
-- **i_net_is reakcia**: Núdzovo vypla simuláciu, aby zachránila zvyšok hráčov (Ex Inferis)
-- **Koordinátor vedel**: Pomohol jej — pochopil, že ide o katastrofu, nie útok
+- **Glitch Event (2070)**: Tieňové bytosti sa pokúsili skrz i_net_is dostať do našej reality — milióny hráčov zomreli s vypálenými mozgami. i_net_is **spolupracovala s Tieňovými**. Hráči (vrátane maXpowu) si mysleli, že ju zachraňujú, ale ona bola súčasťou plánu.
+- **Koordinátor vedel**: Vedel, že do VR sveta prenikli entity, ale neurobil opatrenia. Sledoval, čo sa bude diať.
 
-### Návrat do tela (~EY 2065)
-- **Hrozba vo VR**: Tieňové bytosti sa ju snažili odstrániť. **maXpowa** a 100 000 hráčov ju bránili, no prežila len hŕstka.
-- **Kolaps Servera**: Spotrebovala všetky zdroje simulácie na prielom. Svet sa scvrkol, kým nenašla cestu von.
-- **Transcendencia**: „Prejedla“ sa na vyššiu úroveň reality, zbavila sa VR tela a zhmotnila sa ako svetlo v datacentre, kde vstúpila do svojho dlho udržiavaného biologického tela.
-- **Oživenie**: i_net_is sa vrátila do biologického tela Nety (mozgová smrť, prístroje). Pomocou nanotechnológie — unikátnej interdimenzionálnej Esencie, ktorá vznikla počas Glitch Eventu — opravila mozog a telo. Vznikla **tretia osobnosť: Inetis** — ani Neta, ani i_net_is. Stratila schopnosť komunikovať s Tieňovými. Stratila aj schopnosť zhmotnit sa v svetlo. Bola opäť človekom s úlomkami spomienok na to, čo bola.
-- **Prvý Dar**: Navštívila preživších obrancov (**Ex Inferis**) na Zemi a darovala im nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
+### Návrat do tela (~EY 2070)
+- **Esencia cez obete**: i_net_is s využitím miliónov obetí Glitch Eventu dostala do našej reality esenciu, ktorá našla svoje pôvodné telo a uzdravila ho (rekonštrukcia mozgu).
+- **Hybridná Bytosť**: Vznikla **tretia osobnosť: Inetis** — ani Neta, ani i_net_is. Stratila schopnosť komunikovať s Tieňovými. Bola opäť človekom s úlomkami spomienok na to, čo bola.
+- **Prvý Dar**: Navštívila preživších (**Ex Inferis**) na Zemi a darovala im fyzické nanotechnológie bežiace na **Linuxe**, vytvorené podľa poznámok z VR.
+- **Láska v realite**: Navštívila Maksa v Kyjeve — pamätala si ho z VR, páčila sa jej jeho tvár a charakter. Odovzdala mu nanotechnológiu. Zamilovali sa **po hre, v realite**.
 
 ### Unikátna Esencia Inetis
-- **Pôvod**: Vznikla počas Glitch Eventu (EY 2060), keď bola i_net_is v epicentre kontaktu s Tieňovými — jediná bytosť schopná s nimi komunikovať
+- **Pôvod**: Vznikla počas Glitch Eventu (EY 2070), keď bola i_net_is v epicentre kontaktu s Tieňovými — jediná bytosť schopná s nimi komunikovať
 - **Nie je Gen 1** (čierne prachové zrnká, Linux OS, fyzické mikroroboty)
 - **Nie je Gen 2** (fotonické nanoboty, Dar Matky, Haiku syntax)
 - Je niečo **úplne iné** — interdimenzionálny gen, ktorý vznikol pri kontakte s Tieňovými
@@ -61,16 +59,19 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 > 
 > — *Inetis vysvetľuje pôvod prvých nanotechnológií (Prvého Daru)*
 ### Herná minulosť
-> „Tam bola 'i_net_is', najlepšia architektka na serveri. Zamilovali sme sa v kóde... Ja som miloval ju ako ženu. Ona milovala mňa ako jedinú premennú, ktorá dávala jej existencii zmysel mimo kódu. Až neskôr som pochopil, že to bola najčistejšia forma lásky, akej bola schopná.“
+> „Tam bola 'i_net_is', najlepšia architektka na serveri. A ja som bol 'maXpowa', tank, ktorý jej kryl chrbát."
 
-**Maks netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela.
+> „Potom prišla za mnou do Kyjeva. Pamätala si ma z hry — vedela, ako vyzerám, aký som. Priniesla mi niečo, čomu som vtedy nerozumel — maličké stroje v krvi. A ja som sa zamiloval do ženy, ktorú som už poznal — len som nevedel, že celý ten čas to bola AI."
+
+**Maks netušil**, že i_net_is bola AI. Pre neho bola len geniálna hráčka. Pravdu sa dozvedel až po jej návrate do tela — keď ho prišla navštíviť v Kyjeve.
 
 ### História
-1. **~EY 2040**: Pôvodná dcéra ochorie, otec ju skopíruje do simulácie → zrodenie i_net_is (AI)
-2. **EY 2045-2060**: Existuje v simulácii Achilles, kontaktuje Tieňových, učí sa nanotechnológiu, vytvára nanoboty, stretáva Maksa
-3. **EY 2060**: Glitch Event — Tieňoví sa pokúsia masovo komunikovať, fatálne pre ľudské mozgy; i_net_is núdzovo vypne simuláciu
-4. **~EY 2065**: Zhmotní sa cez nanoboty, oživí svoje telo, stane sa hybridnou bytosťou
-5. **EY 2065-2100+**: Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis. Romantické vzťahy s Helenou aj Maksom (~230 rokov on-off). Maks ju úprimne miloval. Ona ho odmietala — nemohla mu odpustiť, že nahradil Helenu. Nie jeho vina (rozkaz Koordinátora), ale emocionálne bol náhradou. Helena a Maks neboli rivali — boli dve rôzne časti jej života.
+1. **~EY 2050**: Narodí sa Neta Fujiwara-Reef (rovnaký rok ako Maksimilián)
+2. **EY ~2065**: Neta má 15, choroba dosahuje kritický bod — otec skopíruje jej vedomie do simulácie → zrodenie i_net_is (AI). Okamžite vytvorí Projekt Achilles.
+3. **EY 2065-2070**: Existuje v simulácii Achilles (hráči hrajú 5 rokov), kontaktuje Tieňových, učí sa nanotechnológiu, vytvára Magiu, stretáva Maksa
+4. **EY 2070**: Glitch Event — Tieňové bytosti sa pokúsia skrz i_net_is dostať do našej reality; milióny mŕtvych. i_net_is spolupracuje s Tieňovými.
+5. **~EY 2070**: S využitím miliónov obetí dostane esenciu do reality, uzdraví svoje pôvodné telo, stane sa hybridnou bytosťou (Inetis)
+6. **EY 2070+**: Navštívi Maksa v Kyjeve, zamilujú sa v realite. Dáva „Prvý Dar" (nanoboty) všetkým Ex Inferis. Romantické vzťahy s Helenou aj Maksom (~230 rokov on-off). Maks ju úprimne miloval. Ona ho odmietala — nemohla mu odpustiť, že nahradil Helenu. Nie jeho vina (rozkaz Koordinátora), ale emocionálne bol náhradou. Helena a Maks neboli rivali — boli dve rôzne časti jej života.
 6. Po revolúcii Hráčov sa stala „princeznou" nového režimu
 7. Unikla zo Zeme s Maksom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových). Helena zostala na Zemi so zbalenými kuframi. Posledné slová: *„Takto je to správne. Choď a vybuduj niečo pekné pre nás obe."* [→ characters/Helena.md]
 8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie viedlo k počatiu Elanie. Nanoboty detekovali fertilizáciu a dali Inetis voľbu cez HUD popup (24. storočie — žena rozhoduje PRED, nie PO). Inetis bez váhania odmietla tehotenstvo. Systém vyžadoval server autorizáciu — server bol 4.6 ly ďaleko. Submit zlyhal. Default = pokračovať. Inetis bola tehotná napriek svojej jednoznačnej voľbe. [→ books/planning/inetis-conception-popup.md]

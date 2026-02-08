@@ -103,7 +103,7 @@ Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
 
 ### Inetisina Unikátna Esencia
 Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
-- **Pôvod**: Vznikla počas Glitch Eventu (EY 2060), keď bola i_net_is v epicentre kontaktu s Tieňovými
+- **Pôvod**: Vznikla počas Glitch Eventu (EY 2070), keď bola i_net_is v epicentre kontaktu s Tieňovými
 - **Nie je Gen 1 ani Gen 2** — je to interdimenzionálny gen z kontaktu s Tieňovými
 - **Nemá fyzické komponenty** — funguje na vyššej dimenzii než fotonické Gen 2
 - Po smrti Inetis prešla cez Anténu na Tami (prvý dotyk)
