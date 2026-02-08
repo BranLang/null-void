@@ -334,10 +334,7 @@ Nečakal, kým Tami odskočí. Pozrel sa na poklop.
 
 Nanoboty v jeho krvi sa aktivovali.
 
-*Varovanie: Preťaženie na 140%.*
-*Ignorovať.*
-
-Maks zareval. Nebol to ľudský výkrik. Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa rozpadol na drobné kocky — presne, chirurgicky, ako keď niekto nakrája maslo kuchynským drôtom.
+ Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa rozpadol na drobné kocky — presne, chirurgicky, ako keď niekto nakrája maslo kuchynským drôtom.
 
 Vlastnou váhou sa prepadol poklop do tmy.
 
