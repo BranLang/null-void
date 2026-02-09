@@ -34,7 +34,7 @@ Kito vstúpil prvý. Chemické svetlo osvetlilo priestor — a Kito sa zastavil 
 
 Nebola to kobka. Nebola to hrobka. Bola to **kaplnka**. Malá, okrúhla, s klenbou tak nízkou, že Maks musel skloníť hlavu. Steny boli hladké — nie opracovaný kameň, ale niečo iné. Niečo, čo Maks poznal.
 
-*Nanokompozit.* Steny tejto miestnosti neboli postavené. Boli *vytlačené* — rovnakou technológiou, akou Inetis kedysi pretvorila celú loď NULL VOID na infraštruktúru prvého mesta.
+*Nanokompozit.* Steny tejto miestnosti neboli postavené. Boli *vytlačené*
 
 A uprostred kaplnky stála socha.
 
@@ -58,7 +58,7 @@ Boli fialové. Nie namaľované — samotný materiál sochy mal v miestach oč�
 
 „Je to presne Matka."
 
-„Nie, nemáš rozumieš. Toto nie je *ich* Matka. Tá, ktorú uctievajú hore. S mačacími ušami a plamenným mečom a pentagramami moci. Toto je..." Kito sa zastavil. V jeho žltých mačacích očiach sa odrážalo svetlo. „Toto je pravda."
+„Nie, nerozumieš. Toto nie je *ich* Matka. Tá, ktorú uctievajú hore. S mačacími ušami a plamenným mečom a pentagramami moci. Toto je..." Kito sa zastavil. V jeho žltých mačacích očiach sa odrážalo svetlo. „Toto je pravda."
 
 Maks kľakol vedľa sochy. Chrbát ho bolel tak, že mu pred očami tancovali iskry. Ale nedíval sa od tej tváre.
 
@@ -70,7 +70,7 @@ Nie túto sochu. Nie tento obraz. Ale poznal tvár, ktorú socha zobrazovala. Vi
 
 „Oni ju zmenili," povedal Kito. Hlas sa mu triasol — nie od chladu, ale od niečoho, čo archeológ cítí, keď nájde pravdu a tá pravda bolí. „Cirkev. Zobrali toto—" ukázal na sochu, „—a urobili z toho... to hore. Dali jej uši. Zbrane. Aureolu. Premenili ženu, ktorá plakala v blate, na bohyňu vojny."
 
-Maks mlčal. Prechádzal prstami po bielych vlasoch sochy. Materiál bol hladký — nie kameň, nie kov, ale ten nanokompozit, ktorý poznal z NULL VOID. Z lode, na ktorej sa narodil.
+Maks mlčal. Prechádzal prstami po bielych vlasoch sochy. Materiál bol hladký.
 
 „Prečo plakala?" spýtal sa Kito tichšie.
 
@@ -80,11 +80,6 @@ Maks dlho mlčal. Potom povedal: „Pretože dala ľuďom dar. A oni ho použili
 
 „Áno."
 
-„A tie oči? Tie fialové... galaxie?"
-
-Maks sa pozrel na Kita. Na okamih zvažoval, koľko mu povedať. Koľko je bezpečné. Koľko je *spravodlivé*.
-
-„Stratila vesmír," povedal nakoniec. „Prišla z miesta, kde hviezdy boli na dosah ruky. A skončila tu. V blate. Na svete, ktorý ju uctievaval, ale nerozumel jej."
 
 Kito si sadol vedľa sochy. Dlho mlčal. Potom sa zasmial — tichým, trasúcim sa smiechom akademika, ktorý celý život hľadal pravdu a teraz ju našiel v diere pod zrúteným Chrámom.
 

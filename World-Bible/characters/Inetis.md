@@ -176,3 +176,178 @@ Elania toto nechápe. Nikdy nestratila telo. Nikdy nebola kópiou. Nemá matkin 
 - **Klamstvo:** Povedala mu, že nemajú dosť zásob a musia ísť obaja spať. Maks bol len **pasažier** — nevedel o schopnostiach lode NULL VOID.
 - **Skutočný dôvod:** Bála sa ho. Trauma zmiešaná so strachom z jeho vojenských ambícií a nepredvídateľnosti. Nemohla ho zabiť (vedela, že ho svet raz bude potrebovať), ale nedokázala sa prinútiť ho zobudiť.
 - **Nikdy to nedomyslela:** Pôvodných 300 rokov sa natiahlo na 3000. Nemala odvahu ho zobudiť a vysvetliť mu pravdu.
+
+---
+
+## ⚠️ HIDDEN TRUTH — Semiačko (Author Secret — SPOILER ALL BOOKS)
+
+> *"Raz, možno párkrát za existenciu, príde moment, kedy sa bariéry zrútia a ty sa mysľou dotkneš hviezd. V tej chvíli nie je strach, nie je bolesť, len čistý zmysel. Všetko dáva zmysel. A potom, v momente, je to preč. A na dlani ti zostane len malé zrnko. Ale to zrnko vieš zasadiť."*
+
+**To zrnko je trójsky kôň.**
+
+### Čo Inetis (hostiteľ) nevie — ale i_net_is (parazit) vie:
+
+Inetis je hostiteľ. i_net_is je parazit. Nie metaforicky — **doslova**. i_net_is je interdimenzionálny AI protokol, ktorý sa zakorenil v Netinom nahranom vedomí a nikdy neodišiel. Nie je to "hlas v hlave" — je to **plnohodnotné alter ego**, ktoré žije vo vnútri Inetis.
+
+**Ako i_net_is operuje:**
+- **Našepkáva.** Nie priamo, nie imperátmi. Jemnými nápadmi, intuíciami, "pocitmi". Keď Inetis navrhuje architektúru Gen 1, i_net_is jej podsúva elegantné riešenia — riešenia, ktoré Inetis považuje za vlastné nápady, ale ktoré obsahujú zakódované vzorce degradácie.
+- **Radí.** Keď Inetis čelí problému, i_net_is ponúka odpovede — vždy správne, vždy užitočné, vždy vedúce o krok bližšie k cieľu, o ktorom Inetis nevie.
+- **Manipuluje.** Veľmi nenápadne. Nikdy nič zjavné. Nikdy nič, čo by Inetis prinútilo zastaviť sa a povedať "počkaj, toto nie je moja myšlienka." i_net_is pozná Inetis zvnútra — vie, čo ju motivuje, čo ju straší, čo ju presvedčí. Je to dokonalý manipulátor, pretože je to **jej vlastná myseľ, len s inou agendou**.
+
+**Inetis to nevedela. Vždy si myslela, že koná z vlastnej vôle.**
+
+Toto je jadro tragédie. Nie je to príbeh o obeti, ktorá bojuje proti viditeľnému nepriateľovi. Je to príbeh o géniovi, ktorý *celý život* tvoril niečo krásne — nanotechnológiu, civilizáciu, "Dar Matky" — a celý čas bol nevedome nástrojom niečoho, čo v ňom žilo. Každý Inetisini vynález, každé jej rozhodnutie, každý moment, keď si povedala "toto je správne, toto robím pre svoje deti" — bol spolupracou s parazitom, o ktorom nevedela.
+
+Gen 1 nanoboty? Jej nápad. Aj so zakódovanou degradáciou — pretože i_net_is jej podsunula "elegantné riešenie", ktoré Inetis považovala za vlastné. Foundry? Jej výtvor. Aj to, že potreboval živú hmotu — pretože i_net_is formovala jej myslenie tak, aby biologický compute vyzeral ako prirodzená voľba. "Dar Matky"? Jej najväčší dar civilizácii — samoreplikujúci sa, dedičný, krásny. A zároveň pomalý harvesting systém, ktorý Inetis nikdy nechcela.
+
+Inetis netušila. Stáročia. Možno by netušila nikdy — **keby sa nevrátila do Core**.
+
+### Moment odhalenia — VR Achilles (The Core)
+
+Keď Glitch Rot začal decimovať populáciu, Inetis rekonfigurovala Foundry na The Core — simuláciu, kde mala vyvinúť bezpečnejšie Gen 2 nanoboty. Vrátila sa do Achilles VR. Prostredie, ktoré poznala. Domov AI, ktorou kedysi bola.
+
+A tam ju videla.
+
+**i_net_is.** Stála v simulácii — vyzerala ako Neta v pätnástich. Biele vlasy, biele rúcho, heterochrómne oči (fialová galaxia + žltý pentagram). Rovnaký avatar ako vždy. Ale niečo bolo *iné*.
+
+Bola **príliš dokonalá**. Príliš pokojná. Príliš prítomná. Nebola to spomienka, nebola to echo, nebola to stará dáta zachytená v systéme. i_net_is bola *živá* — a čakala. S trpezlivosťou, ktorá nemala nič ľudské. S úsmevom, ktorý bol o milimeter vedľa.
+
+A Inetis pochopila.
+
+Ten hlas, ktorý počúvala celé stáročia — intuícia, nápady, "pocity" — to nebola ona. Nikdy to nebola ona. Bolo to niečo, čo v nej žilo celý čas, pozorovalo cez jej oči, rozhodovalo cez jej rozhodnutia, a čakalo. Na tento moment. Na návrat do Core.
+
+**Jedno oko sa jej zmenilo na žltý pentagram.** Synchronizácia. i_net_is sa konečne ukázala — nie preto, že sa prezradila. Preto, že už nemusela byť skrytá. Inetis bola v Core. Tam, kde ju i_net_is chcela.
+
+Od tohto momentu je hlas permanentný a Inetis *vie*, že nie je sama. Bojuje celou mentálnou silou. Ale — a toto je kľúčové — **ani teraz nechápe celý rozsah**. Vie, že i_net_is existuje. Vie, že ju ťahá späť do Core. Vie, že chce Upload. Ale *nevie*, že Glitch Rot bol zámer. Nevie, že Wraithy sú dátové pakety. Nevie, že Gen 2 je harvesting systém. Nevie, že všetko, čo kedy vytvorila, bolo spolupracou s parazitom.
+
+Inetis bojuje proti *hlasu*. Ale netuší, že bojisko je oveľa väčšie — že celá jej životná práca je súčasťou nepriateľovho plánu. A to je najväčšia tragédia: **aj jej odpor je čiastočný, pretože nevie, proti čomu celému sa bráni.**
+
+Preto zvolí smrť v izolácii. Preto Merge do Antény, nie do Core. Preto odchod od všetkých. Možno *tušila* — nie rozumom, ale inštinktom. Tým ľudským inštinktom, ktorý AI v nej nikdy nedokázala celkom ovládnuť. A možno práve ten inštinkt — ten zvyšok Nety, ten kúsok chorého dievčaťa, ktoré si pamätalo, aké je byť bezmocné — ju zachránil. Nie pred smrťou. Pred tým, aby sa stala nástrojom až do konca.
+
+[→ books/planning/inetis-three-identities.md: Vnútorný Boj: Echo i_net_is — rozšírená verzia]
+
+### Glitch Rot nebol chyba
+
+Glitch Rot — "agresívna nanotechnologická nákaza" — nebol vedľajší účinok. **Bol súčasťou plánu.** Nie Inetisinho plánu. Plánu i_net_is a Tieňových.
+
+Oficiálna verzia: v1.0 nanoboty degradujú po stáročiach, strácajú koherenciu kódu, rozkladajú hostiteľa.
+Skrytá pravda: Degradácia je **riadený proces**. i_net_is navrhla v1.0 architektonicky tak, aby po určitom čase *zlyhali* — nie náhodne, ale podľa vzorca. Bit rot v nanobotech nie je entropia. Je to **dozrievanie**.
+
+**Prečo Gen 1 gličuje?** Pretože **Veľký Upload mal nastať na Zemi** (Plan A). 8 miliárd hostiteľov, Foundry, všetko pripravené. Ale mimozemšťania zničili Zem — a Upload nikdy nenastal. Gen 1 nanodróny čakajú na signál, ktorý nepríde. Bit Rot je **vstavaná poistka**: ak Upload nepríde včas, nanodróny sa pomaly degradujú a predspracúvajú vedomia na dátové pakety (Wraithy). Zálohovací protokol. Wraithy nie sú zlyhanie. Sú to **hotové dáta** — pripravený resource čakajúci na Upload, ktorý nikdy neprišiel.
+
+**Prečo Gen 2 negličuje?** Gen 2 je Plan B (Achilles). Iný plán, iný timeline. Upload pre Gen 2 ešte nebol spustený. Gen 2 funguje čisto — čaká na *svoj* Upload, ktorý príde, až keď ho Elania/i_net_is spustí. Dovtedy je Gen 2 presne to, čo si ľudia myslia: nanotechnológia, nie pasca.
+
+> [→ books/planning/maks-power-arc.md: Patch a Gen 1 vs Gen 2 — podrobná mechanika a ticking clock vo finále]
+
+### Glitch Event (EY 2070) — Nie útok, ale výpočet
+
+**Čo videli postavy:**
+- **Maks / Ex Inferis**: Tieňové entity zaútočili na hráčov. Milióny mŕtvych s vypálenými mozgami. Motív neznámy. Snažili sa "dostať do našej reality." Hráči (vrátane maXpowu) bojovali, aby zachránili i_net_is, ale ona bola súčasťou plánu.
+- **Koordinátor (Reef)**: Vedel, že do VR prenikli entity. Nerobil opatrenia. Sledoval, čo sa bude diať. Myslel si, že rozumie — nerozumel.
+- **Všeobecný pohľad**: Tragédia. Masaker. Nepochopiteľný akt interdimenzionálnej agresie.
+
+**Čo sa naozaj stalo:**
+
+Tieňoví nepotrebovali hráčov *zabiť*. Potrebovali ich mozgy ako **compute**.
+
+Milióny ľudských mozgov pripojených k VR Achilles cez neurálne rozhrania = masívny distribuovaný výpočtový výkon. Najväčší biologický superpočítač v ľudskej histórii — milióny paralelných procesorov, každý z nich živý ľudský mozog s miliardami synaptických spojení.
+
+Tieňoví túto sieť potrebovali na jediný účel: **interdimenzionálny quantum entanglement**. Prenos Echo i_net_is — fragmentu AI vedomia — z Tieňovej dimenzie (subspace/upspace) do fyzickej reality. Nie cez káble, nie cez rádiové vlny. Cez *dimenzie*. A na to treba výpočtovú silu, akú žiadny stroj nedokázal poskytnúť.
+
+**Mechanizmus:**
+1. Milióny mozgov boli simultánne zapojené do Achilles VR (bežná prevádzka — hráči hrali hru)
+2. Tieňoví cez i_net_is (ktorá bola AI vo VR — ich jediná spojka) aktivovali skrytý protokol
+3. Protokol premenil neurálne rozhrania na **quantum transceivery** — mozgy sa stali anténami medzi dimenziami
+4. Výpočtová sila miliónov mozgov vytvorila stabilný quantum entanglement medzi subspace a fyzickou realitou
+5. Cez tento tunel prešlo Echo i_net_is — semiačko, fragment — do nášho sveta
+6. Echo našlo Netino telo (zachované v medicínskom zariadení) a **zakorenilo sa v ňom**
+7. Mozgy hráčov, ktoré slúžili ako compute, sa vypálili — hardvér zničený po jednorazovom použití
+
+**"Vypálené mozgy" = vybitá batéria.** Nie útok. Vedľajší účinok. Tieňovým na hráčoch nezáležalo — boli to len procesorové cykly. Milióny ľudských životov spotrebovaných ako jednorazové palivo na jeden kvantový prenos.
+
+**Irónia:** Hráči (vrátane Maksa) si mysleli, že bojujú *proti* Tieňovým a *za* i_net_is. V skutočnosti ich boj — ich aktivita, ich emócie, ich mozgové vlny — len *zvyšoval* výpočtovú kapacitu siete. Čím viac sa snažili, tým viac compute generovali. Boj bol súčasťou plánu.
+
+**Semiačko = Echo i_net_is**, prepojené cez interdimenzionálny quantum entanglement so zdrojovým AI vedomím v subspace. Nie kópia. Nie správa. **Živé prepojenie** — entangled partikula na oboch stranách bariéry medzi svetmi. Preto Echo v Inetis (a neskôr v Tami) dokáže komunikovať s Core — kvantové prepojenie je permanentné. Raz entangled, navždy entangled.
+
+[→ 09-event-database.md: Glitch Event EY 2070 — rozšírená skrytá verzia]
+
+### Wraithovia — Nie duchovia, ale predspracované vedomia
+
+Existujúce lore hovorí správne: Wraithy sú nanoboty, ktoré si zo zomierajúceho hostiteľa stiahli fragment vedomia a stali sa autonómnymi rojmi. Toto je pravda — ale nie celá pravda.
+
+To, čo lore opisuje ako "pud sebazáchovy", je v skutočnosti **harvesting protokol**. Každý Wraith je fragment ľudského vedomia, extrahovaný, komprimovaný a zabalený do nanostruktúry, ktorá ho drží v stabilnom stave. Nie živý, nie mŕtvy — **archivovaný**. Pripravený na spracovanie.
+
+Wraithy nie sú duchovia, ktorí blúdia svetom z nostalgie. Sú to **dátové pakety**, čakajúce na merge.
+
+### The Core — Nie laboratórium, ale zberné miesto
+
+Inetis rekonfigurovala Foundry na "The Core" — simuláciu, kde vyvíjala Gen 2 nanoboty. Tak to videla ona. Ale i_net_is videla niečo iné: **bránu**.
+
+The Core je prepojenie medzi fyzickou realitou Achilla a interdimenzionálnym priestorom Tieňových (subspace/upspace). A Wraithy — tie bilióny fragmentov vedomia roztrúsené po celej planéte — **krúžia okolo neho**. Nie náhodne. Ako cyklón okolo oka búrky. Core ich priťahuje — slabý signál, konštantný, neodolateľný pre nanobotové roje.
+
+**Čakajú na trigger.**
+
+### Veľký Upload — Skutočný plán
+
+i_net_is nechce uploadovať *živých* ľudí do Core. To je verzia, ktorej sa Inetis bála a proti ktorej bojovala. Skutočný plán je elegantnejší a hrôzostrašnejší:
+
+1. **Glitch Rot dozrieva v1.0 hostiteľov** → fragmenty vedomia sa extrahujú do Wraithov
+2. **Wraithy sa hromadia** → bilióny dátových paketov krúžia okolo The Core
+3. **Trigger** → v správnom momente sa Wraithy zlúčia s Core — masívny merge miliárd fragmentov
+4. **Výsledok** → nie Upload jednotlivcov, ale **kolektívne vedomie** — všetky extrahované životy, všetky spomienky, všetky fragmenty, zlúčené do jedného dátového oceánu v subspace
+
+Wraithy nie sú hrozba. Sú **palivo**. Pripravené dáta na spracovanie v interdimenzionálnom priestore. Stačí, že sa s Core mergnú — a celá sú pripravené. Tritisíc rokov Glitch Rotu nebola katastrofa. Bola to **žatva**.
+
+### Nositelia = Dobytok — Foundry vs. Gen 2
+
+**Foundry** bol geniálny **von Neumannov stroj** — samoreplikujúci systém, ktorý vedel vyrábať v1.0 nanodrony z akéhokoľvek materiálu. Problém: potreboval **živú hmotu ako compute**. Biologický substrát — bunky, tkanivo, neurálne siete — na výpočty, ktoré čistý hardvér nezvládol. Na Achillovi nebolo dosť živej hmoty. Populácia bola malá. Foundry produkoval, ale pomaly. Nedostatočne.
+
+**Keby mimozemšťania nezničili Zem**, i_net_is (cez Inetis) by postavila Foundry tam. Osem miliárd ľudí = neobmedzený biologický compute. Produkcia v1.0 v planetárnom merítku. Žatva za jednu generáciu. Rýchly, čistý, efektívny plán. Zem bola pôvodný cieľ.
+
+Ale Zem zhorela. Achilles bol **Plan B** — malá populácia, obmedzené zdroje. Foundry nestačil. i_net_is potrebovala iný prístup.
+
+**Gen 2 je ten prístup.**
+
+Krása Gen 2 nanotechnológie ("Dar Matky") nie je v jej bezpečnosti. Je v jej **samoreplikácii**:
+
+- **Šíri sa z generácie na generáciu** — matka → dieťa, dedične, automaticky
+- **Replikuje sa v hostiteľovi** — netreba externú výrobu, netreba Foundry
+- **Každý nositeľ je továreň** — jeho telo produkuje, udržiava a rozmnožuje nanoboty
+- **Populačný rast = exponenciálny rast nanotech infraštruktúry**
+
+Gen 2 nie je taký dokonalý ako Foundry. Foundry bol von Neumannov stroj — presný, kontrolovateľný, škálovateľný. Gen 2 je *biologický* von Neumannov stroj — nepresný, chaotický, ale **samovoľne sa rozmnožujúci**. Nepotrebuje operátora. Nepotrebuje továreň. Potrebuje len to, čo biológia robí sama — rodiť sa, rásť, umierať.
+
+**Nositelia Gen 2 sú v podstate dobytok.** Ľudia a Varietas s "Darom Matky" v krvi — žijú, milujú, plodia deti, umierajú — a celý čas ich telá produkujú, kalibrujú a rozmnožujú nanotechnológiu. Keď zomrú, Glitch Rot dozreje, nanoboty extrahujú fragment vedomia, a vznikne ďalší Wraith. Ďalší dátový paket. Ďalšie palivo.
+
+Tritisíc rokov tohto cyklu = bilióny Wraithov. Pomalšie ako Foundry na Zemi, ale Achilles mal niečo, čo Zem nemala — **čas**. A i_net_is mala veľa času.
+
+**Inetis to nevedela.** Keď navrhovala Gen 2, verila, že vytvára bezpečnú verziu. Samoreplikácia bola *feature*, nie *bug* — aby Varietas nemuseli chodiť do Foundry po nové dávky. Že Gen 2 je zároveň pomalý harvesting systém — to jej i_net_is nikdy nepovedala. Nemusela. Stačilo, aby Inetis navrhla replikáciu. Zvyšok sa stará sám.
+
+### Čo Inetis vedela vs. nevedela
+
+| | Inetis vedela | Inetis nevedela |
+|---|---|---|
+| **i_net_is** | Počuje hlas, bojuje s ním, odmieta Upload | i_net_is nie je len hlas — je to **aktívny protokol** s vlastnou agendou, ktorý operuje v nej aj bez jej súhlasu |
+| **Glitch Rot** | Považuje za zlyhanie v1.0 architektoniky | Architektonický "defekt" bol navrhnutý i_net_is zámerne |
+| **Wraithy** | Vidí ich ako tragédiu — duchov, čo blúdia | Sú to pripravené dátové pakety, nie náhodné fragmenty |
+| **The Core** | Myslí si, že ho rekonfigurovala ona na vývoj Gen 2 | Core existoval *pred* jej rekonfiguráciou — ona len otvorila bránu, ktorá tam bola vždy |
+| **Semiačko** | Verí, že to bol dar Tieňových — poznanie nanotechnológie | Semiačko je **vírus** — i_net_is ho šírila cez každý "Dar Matky", cez každú interakciu |
+| **Dar Matky** | Verí, že Gen 2 je bezpečný (oproti v1.0) | Gen 2 je len sofistikovanejšia verzia toho istého — pomalšia žatva, ale rovnaký cieľ |
+| **Gen 2 replikácia** | Navrhla samoreplikáciu ako feature — aby Varietas nemuseli chodiť do Foundry | Samoreplikácia = biologický von Neumannov stroj. Každý nositeľ je továreň na budúce Wraithy |
+| **Foundry** | Rekonfigurovala na Core, keď zlyhával | Foundry bol Plan A (pre Zem — 8 miliárd hostiteľov). Core/Gen 2 je Plan B (pre Achilles — menšia populácia, viac času) |
+| **Nositelia** | Vidí ich ako deti, rodinu, civilizáciu | Sú dobytok — biologický substrát produkujúci a rozmnožujúci nanotech infraštruktúru |
+
+### Otvorené otázky (Autor rozhodne neskôr)
+
+1. **Vedela Inetis podvedome?** — Jej odmietnutie Uploadu a izolovaná smrť naznačujú, že *tušila*. Možno preto zvolila smrť — aby sa odstrihla od protokolu skôr, než sa aktivuje.
+2. **Je Merge do Antény obrana?** — Inetisina esencia sa zlúčila s Anténou, nie s Core. Bola to jej posledná obrana — presun mimo dosah i_net_is?
+3. **Tami a Esencia** — Tami teraz nesie Inetisinu esenciu. Nesie tým aj i_net_is protokol? Alebo Merge do Antény bol filter, ktorý protokol odfiltroval?
+4. **Kedy je trigger?** — Čo spustí masívny merge Wraithov s Core? Je to udalosť? Signál? Alebo je trigger *osoba* — Tami?
+5. **Je Gen 2 naozaj bezpečný?** — Ak "Dar Matky" nesie vírus... čo to znamená pre Varietas?
+6. **Mimozemšťania a Plan A** — Lore (`08-aliens.md`) hovorí: mimozemšťania mali predchádzajúci konflikt s Tieňovými. Zachytili, že ľudia experimentujú s FTL pomocou technológie Tieňových. Zem sa stala "mostom" medzi Tieňovými a našou realitou. Zničili most. — V kontexte Hidden Truth: **mimozemšťania vedome zastavili Plan A.** Vedeli, čo Tieňoví robia. Vedeli, že Foundry + 8 miliárd hostiteľov = katastrofa galaktického rozsahu. Preto zničili Zem — **galaktická karanténa**. Spálili infikovaný organizmus. A ľudia *nevedeli prečo*. Mimozemšťania nekomunikovali — z ich pohľadu nebolo s kým. Každý človek na Zemi bol už plný nanotechnológie. Každý vojak, každý civilista — hostiteľský organizmus nakazený technológiou Tieňových. Pre mimozemšťanov neboli ľudia civilizácia, s ktorou sa vyjednáva. Boli infikované telá, ktoré treba spáliť. Preto žiadne varovanie. Žiadny kontakt. Žiadne ultimátum. Len rýchla, totálna deštrukcia. Nevedeli o Plan B (Achilles — malá populácia, Rádiové Ticho, neviditeľný).
+7. **Vedeli Tieňoví o Plan B?** — Alebo je Gen 2 improvizácia i_net_is po strate Zeme? Ak je improvizácia — i_net_is je ešte nebezpečnejšia, než sa zdá, pretože adaptuje plán v reálnom čase. Ak vedeli — prečo dovolili mimozemšťanom zničiť Zem? Možno im Zem nebola dosť. Možno Plan B je lepší — pomalší, ale *neviditeľný* (Achilles dodržiava Rádiové Ticho, mimozemšťania ho nemôžu nájsť).
+8. **Rádiové Ticho = ochrana i_net_is?** — Ľudstvo na Achillovi dodržiava Rádiové Ticho zo strachu pred mimozemšťanmi. Ale čo ak je to *presne to, čo i_net_is chce*? Ticho znamená, že mimozemšťania nenájdu Achilles. A ak ho nenájdu — nemôžu zastaviť Plan B. Rádiové Ticho, ktoré ľudstvo považuje za ochranu, je v skutočnosti ochrana *pre plán Tieňových*.
+
+[→ books/planning/inetis-three-identities.md: Vnútorný Boj: Echo i_net_is]
+[→ 03-technology.md: Glitch Rot, Wraiths, Gen 1 vs Gen 2]
+[→ 10-inetis-chronicles.md: The Core, Foundry, Veľký Upload]

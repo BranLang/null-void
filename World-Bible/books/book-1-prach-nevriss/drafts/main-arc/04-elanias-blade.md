@@ -2,7 +2,7 @@
 
 ## Časť I: Čepeľ
 
-Žena. Vysoká — príliš vysoká, akosi neprirodzene symetrická, akoby ju niekto *navrhol*, nie narodil. Čierne vlasy zviazané dozadu, tvár krásna, ale príliš dokonalá — ako socha, ktorá má správne proporcie, ale chýba jej niečo podstatne ľudské. Na tvári biele značky — tribal vzory, staré, vyblednuté.
+Žena. Vysoká — príliš vysoká, akosi neprirodzene symetrická, akoby ju niekto *navrhol*, nie narodil. Čierne vlasy zviazané dozadu, tvár krásna, ale príliš dokonalá — ako socha, ktorá má správne proporcie, ale chýba jej niečo podstatne ľudské. 
 
 Čierne oči sledovali Tami s kľudom, ktorý vyvolával zimomriavky. Neboli to oči mladej ženy. Boli to oči niekoho, kto videl príliš veľa. Príliš dlho.
 

@@ -95,11 +95,25 @@
 - Odišla s Elaniou do **Veže Stratených** (južný kontinent)
 - Ked nemohla chranit matku, chranila dceru.
 
-**AY 500-2013 (Bodyguard Elanie):**
-- 1500+ rokov ako Elániina čepeľ
+**AY ~1000 (Bitka Tichého Údolia — "Biela Smrť"):**
+- Ludus chcel založiť kolóniu na Simire. Sera viedla vojenskú eskortu.
+- **Apes sa bránili** — bez vysvetlenia. Pre nich bola ľudská nanotechnológia biologická hrozba (vedeli o Tieňových od mimozemšťanov). Simira musela zostať "čistá."
+- Sera odpovedala **lokalizovaným Glitch Rotom** — nanotechnologickým morom. Masová nanotech kontaminácia prostredia.
+- Apes napriek masívnym stratám **nikdy neprestali bojovať.** Pre nich to bola vojna o prežitie planéty, nie o územie.
+- **Ludus sa nakoniec stiahol.** Nie Apes — Ludus. Kolónia na Simire nikdy nevznikla.
+- Sera po bitke **ukradla Hard Light technológiu** z tiel padlých Paladínov — hazmat oblek Apes proti nanotechnológii.
+- Odvtedy ju Apes nazývajú **"Biela Smrť"** (nie rešpekt — trauma).
+- **Studená vojna Ludus-Apes** trvá dodnes — Apes vedia, že Ľudia majú zbrane hromadného ničenia.
+- **"Hlúpe opice"** — Sera po bitke s únavou a pohŕdaním. Pri second read najsmutnejšia veta v sérii — Apes neboli hlúpe, boli najodvážnejšie bytosti na planéte. Umierali za niečo, čo nemohli vysvetliť. A Sera ich zmasakrovala presne tou technológiou, pred ktorou sa bránili.
+- [→ regions/neuropa-society.md: Bitka Tichého Údolia]
+- [→ books/planning/maks-power-arc.md: Hard Light Shield, studená vojna]
+
+**AY 1000-3012 (Bodyguard Elanie):**
+- 2000+ rokov ako Elániina čepeľ
 - Chráni ju, sleduje pre ňu svet
 - Pozná všetkých exorcistov (reportujú sa jej po návrate z Terre)
 - Praktizuje vampirizmus - žiadny glitch rot
+- Udržiava **Hard Light Shield** (ukradnutý z Apes) — tajná zbraň. Sera je jediný človek na svete, ktorý má mimozemskú obrannú technológiu.
 
 ---
 
@@ -152,6 +166,32 @@
 - **Nevyhnutnosť**, nie sadizmus
 - **Cíti vinu a ľútosť** — ale ak chce byť po boku Elanie, musí niečo obetovať
 - **Kontrast s Mormiel:** Mormiel si vampirizmus *vychutnáva* — vidí v ňom pôžitok, nadradenosť, rada vidí strach v očiach obete. Sera to robí s odporom.
+
+### Hard Light Shield (ukradnutý z Apes)
+
+**Pôvod:** Mimozemská technológia → Apes → ukradnutý Serou po Bitke Tichého Údolia (~AY 1000) z tiel padlých Paladínov.
+
+**Čo robí:**
+- **Hazmat oblek** — pôvodný účel Apes: ochrana proti nanotechnológii. Apes nemajú nanotech v tele, Hard Light je ich spôsob operovať v "infikovanom" prostredí.
+- Blokuje **rozptýlené nanodróny**: roje, prach, swarmy, kontamináciu (Blood Ritual, FPV dróny, Black Dust = STOP)
+- **Dune princíp:** Formované nanotech zbrane (čepeľ, hrot, kopija) cez Hard Light **prejdú**. Yari, Roxor, Nadel, Anténa — tvrdý, sformovaný nanotech v pevnej forme prerazí bariéru.
+- **Asymetrická výhoda Sery:** Sera s Yari útočí ZA Hard Light (formovaná kopija prejde). Maksove roje neprejdú. Sera útočí — Maks sa nemôže brániť svojimi primárnymi zbraňami.
+
+**Limity:**
+- Akákoľvek **formovaná nanotech zbraň** prerazí — Anténa, Nadel, Roxor. Sera stratí výhodu, ak má protivník formovanú zbraň.
+- Hard Light nie je nekonečný — vyžaduje energiu. Sera ho používa strategicky, nie permanentne.
+- Wraithy Hard Light **blokuje** — sú to stále nanodróny. Ale Wraithy môžu Seru **obísť** (letia k Maksovi, nie k nej).
+
+**Význam v príbehu (Book 4):**
+- Sera sa pripravovala na rematch s Maksom od Book 1 ("Keby sme bojovali...")
+- Hard Light + Yari = **asymetrická dominancia** — Sera útočí formovanou zbraňou cez vlastný štít, Maks nemôže odpovedať rojmi
+- **Anténa mení dynamiku** — keď Tami hodí Maksovi Anténu, Maks získava formovanú zbraň a asymetrická výhoda zmizne
+
+**Second read irónia:** Apes vyvinuli Hard Light na ochranu pred nanotechnológiou. Sera im ho ukradla. A teraz ho používa, aby chránila dcéru ženy, ktorá nanotechnológiu na planétu *priniesla*. Kruh sa zatvára.
+
+[→ books/planning/maks-power-arc.md: Duel so Serou — Hard Light Shield]
+[→ regions/neuropa-society.md: Bitka Tichého Údolia]
+[→ characters/Goro.md: Hard Light = hazmat]
 
 ### Combat Skills
 
@@ -277,25 +317,33 @@
 - Nepotrebuje bohov ani uctievačov
 - Ale rešpektuje Makami (poznala ich predkov)
 
-### Apes (Legend Status)
+### Apes (Legend Status — "Biela Smrť")
 
-**"Piaty Archanjel" / "Anjel Smrti":**
-- U Apes je Sera **legendou** — nie Ex Inferis, ale niečo horšie
-- Štyria Archanjeli (Samaell, Grond, Ishtar, Mormiel) = mocní, ale pochopiteľní
-- **Sera = iná kategória** — čistý človek, Gen 1 nanotech, 3200 rokov skúseností
-- Apes ju nazývajú **"Tenshi no Shi"** (Anjel Smrti) — japonské meno, rešpekt k pôvodu
+**Dva mená:**
+- **"Tenshi no Shi"** (Anjel Smrti) — staré meno, japonský pôvod, rešpekt
+- **"Biela Smrť"** — meno po Bitke Tichého Údolia (~AY 1000). Nie rešpekt — **trauma.** Pomenovaná podľa toho, čo im urobila: nanotechnologické more, ktoré zabilo stovky Paladínov.
 
 **Prečo sa jej boja:**
 - **Nie je Ex Inferis** — nemá ich slabiny (glitch rot, potrebu obetí)
-- **Elania nie je bojovníčka** — ale Sera? Sera je iná liga
+- **Dokázala, že nanotech prekoná Hard Light** — Hard Light blokuje roje, ale formované zbrane prejdú (Dune princíp). V Bitke Tichého Údolia Sera navyše použila lokalizovaný Glitch Rot (masová rozptýlená kontaminácia prostredia), čo Hard Light obišlo — nie cez štít, ale cez vzduch. Apes odvtedy vedia, že ich hazmat nie je absolútna ochrana.
+- **Ukradla Hard Light** — po bitke zobrala technológiu z padlých Paladínov. Trofej. Apes to vedia a **nenávidia ju za to** — nie len za mŕtvych, ale za krádež ich najcennejšej ochrany.
 - **Paladíni vs Sera:** Keby Rau a Kira stretli Seru v boji... neboli by to Paladíni, kto by odišiel
-- **Goro vie:** Má záznamy o nej. Rešpektuje ju. Bojí sa jej.
+- **Goro vie:** Má záznamy o nej. Rešpektuje ju. Bojí sa jej. Ale pri second read — **Goro vie viac než Sera.** Goro vie o mimozemšťanoch, o doomsday klauzule. Sera bola pre Apes vždy len asset — nebezpečný, ale zvládnuteľný.
 
 **Apes Intel o Sere:**
-- Posledná, čo videla Japonsko (jedinečný kultúrny odkaz)
-- Slúži Elanii (dcére Inetis)
+- "Biela Smrť" — zodpovedná za Bitku Tichého Údolia
+- Slúži Elanii (dcére Inetis) — čo znamená, že je blízko k najtechnologickejšej ľudskej frakcii
 - Ovláda Haiku skript perfektne
+- Má Hard Light Shield — ich ukradnutú technológiu
 - Videli ju bojovať raz. *Raz stačilo.*
+
+**Studená vojna:**
+- Bitka Tichého Údolia nikdy neskončila — len sa zmenila na studenú vojnu
+- Sera je dôvod, prečo Apes vedia, že Ľudia majú zbrane hromadného ničenia
+- Apes monitorujú Seru cez Zayu/Ishtar (informátorská sieť)
+- Sera netuší rozsah Apes vedomostí — myslí si, že sú inteligentné opice s dobrými zbraňami. Nevie o mimozemšťanoch, nevie o doomsday klauzule, nevie, že Apes hrajú na úplne inej doske.
+
+**Second read irónia:** Sera si celý život myslela, že je najnebezpečnejšia bytosť na Simire. Pri second read čitateľ vie, že Apes mohli Seru zastaviť kedykoľvek — ale nechali ju žiť, lebo nebola hrozba pre Upload. "Biela Smrť" bola pre Apes nepríjemnosť, nie existenčná hrozba. Apes mali mimozemské zbrane schopné planetárnej deštrukcie. Sera mala kopiju.
 
 ---
 
@@ -310,6 +358,10 @@
 > *"Ishtar no yarou... poslal ich sem. Bez toho, aby ma informoval."* (Japanese curse)
 
 > *"Povedz mu, že nie je sám. Že nie všetci zabudli. A že... niekto ho stále hľadá. Niekto, kto má jeho krv."*
+
+> *"Hlúpe opice."* — po Bitke Tichého Údolia. A znova pred smrťou. Dva razy, dva významy. [→ CHAPTER-NOTES.md: second read]
+
+> *"Keby sme bojovali..."* — nedokončené. Book 1. Stane sa proroctvom naplneným v Book 4.
 
 ---
 
@@ -348,6 +400,73 @@
 2. **Esencia transfer** — Sera odomkne Artefakt a podá ho Tami (NIE Maksovi)
 3. **Proroctvo** — pohľad na Tami, nie na Maksa. Tami to cíti.
 4. **Departure** — odchádza. Maks frustrovaný. Tami zmatená — prečo sa na ňu pozerala?
+
+---
+
+## Story Role (Books 2-4: Serin Arc)
+
+### Books 2-3 (V pozadí)
+- Sera je v pozadí — sleduje Tami a Linksa, ale nezasahuje
+- **Drawing plan:** Sera nakreslí Tami ("Pirate Princess") a nechá kresbu na nástenke v krčme v Shoravene. Tri vrstvy separácie: Sera → Mezra (proxy, dostane pár mincí) → nástenka → Links. Cielená emocionálna manipulácia na emocionálne neskúseného 22-ročného scholara. Sera vie, že Links nikdy nemal vzťah. Kresba je presne to, čo ho zlomí.
+- **Príprava na boj:** Od Book 1 ("Keby sme bojovali...") sa Sera pripravuje na rematch s Maksom. Cvičí s Hard Light Shieldom. Študuje Maksov bojový štýl cez záznamy.
+- **Proxy sieť:** Sera má informátorov na celej Terre. Sleduje Tami a Linksa cez sprostredkovateľov.
+
+### Book 4 (Finále — Smrť)
+
+**Veža Zatratených:**
+- Sera **čaká** na Veži. Nie náhodou — vedela, že Tami a Links prídu (triangulácia).
+- **Skutočný cieľ:** Získať čas pre Elaniin útek do Ynetis. Sera nepotrebuje vyhrať — len zdržať.
+- Elania odchádza do Ynetis. Wraithy sa pred ňou rozostúpia (cítia esenciu i_net_is). Sera kupuje čas.
+
+**Duel:**
+1. **Fáza 1 — Asymetrická dominancia:** Hard Light blokuje Maksove zbrane — samopal (nano-pokryté náboje = rozptýlený nanotech) a nanodróny (Black Dust roj). Sera útočí Yari cez vlastný Shield (formovaná zbraň = prejde). Maks nemá čím odpovedať. Sera vyhráva s ľahkosťou.
+2. **Fáza 2 — "Chyť!":** Tami hodí Maksovi Anténu (echo inštinkt, nie stratégia). Anténa = formovaná zbraň — prerazí Hard Light (Dune princíp, rovnako ako Yari). Maks získava formovanú zbraň, asymetria zmizne. Kontakt s Anténou = trigger pre Netin Patch. Wraithy začnú lietať k Maksovi.
+3. **Fáza 3 — Cyklón:** Wraithy konvergujú na Maksa — obchádzajú Seru (Hard Light ju chráni, ale je irelevantná). Nebo sa zatmie. Cyklón Wraithov — celý Achilles — letí jedným smerom. K Maksovi. A Maks ich absorbuje.
+4. **Smrť:** Sera vidí cyklón Wraithov vchádzať do Maksa. A Sera vie — s absolútnou istotou 3200-ročnej veteránky — že **toto nemá zmysel.** Nemá zmysel bojovať proti niečomu, čo absorbuje cyklón. Spustí Yari. Nie z pochopenia. Nie z filozofie. Z **pragmatizmu**.
+
+**Posledné slová:** *"Hlúpe opice..."* — šepce. Nie o Apes. O sebe. O 3200 rokoch boja za niečo, čo sa práve stalo irelevantným.
+
+**Po smrti:**
+- Maks absorbuje Serinu esenciu. 3200 rokov jedného bojového vedomia = **kritická masa**. Maks prestáva byť človekom.
+- V Kyjeve (epilóg) je Sera echo — sedí s Yari, v pokoji, ktorý nikdy nemala. Nie plná identita. Len stopa.
+
+[→ books/planning/maks-power-arc.md: Duel so Serou, Sera zomiera, Kyjev epilóg]
+
+---
+
+## AUTHOR ONLY — Second Read Layer
+
+> [!IMPORTANT]
+> **⚠️ AUTHOR ONLY — Čitateľ pochopí až pri second read**
+
+### Sera a Apes — Najväčšia irónia
+
+**Sera si celý život myslela, že je najnebezpečnejšia bytosť v hemisféra.** "Biela Smrť." Anjel Smrti. Piaty Archanjel.
+
+**Realita:** Apes mohli Seru zastaviť kedykoľvek. Mali mimozemské zbrane schopné planetárnej deštrukcie. Sera mala kopiju. Nechali ju žiť, lebo nebola hrozba pre Upload — bola len nepríjemnosť. Asset. Izolovaná bojovníčka na ostrove, ktorá chráni dcéru bohyne a *nerobí nič nebezpečné*.
+
+### Bitka Tichého Údolia — Second Read
+
+Čitateľ pri prvom čítaní: Sera hrdinsky zastavila inváziu Apes.
+Čitateľ pri second read: **Sera zmasakrovala obrancov, ktorí chránili planétu pred kontamináciou.** Apes nemohli vysvetliť prečo bojujú (prezradili by mimozemšťanov). Sera použila presne tú technológiu (nanotech), pred ktorou sa Apes bránili. A nazvala ich "hlúpe opice," lebo si myslela, že umierali za kus zeme.
+
+### Hard Light krádež — Second Read
+
+Sera ukradla Hard Light z mŕtvych Paladínov. Trofej z "víťazstva."
+V Book 4 ho použije proti Maksovi — Elaniimu otcovi.
+**Apes vyvinuli Hard Light na ochranu pred nanotechnológiou. Sera ho ukradla. A použila ho na ochranu dcéry ženy, ktorá nanotechnológiu na planétu priniesla.** Kruh sa zatvára.
+
+### Sera ako nevedomý katalyzátor
+
+Sera celý život chránila Elaniin rod. A nevedomky:
+1. Dala Anténu Tami (Book 1) → Tami ju nosila 4 knihy → hodila Maksovi
+2. Tým zariadila kontakt Maks + Anténa = trigger pre maxPower
+3. maxPower → absorpcia Sery → kritická masa → anihilácia
+4. Anihilácia zničí Tieňových — ale aj Elaniin rod (Elania sa nechá anihilovať)
+
+**Sera celý život chránila dcéru bohyne. A nevedomky zariadila jej zánik.**
+
+[→ books/planning/maks-power-arc.md: Dramatická irónia — Tri vrstvy]
 
 ---
 
