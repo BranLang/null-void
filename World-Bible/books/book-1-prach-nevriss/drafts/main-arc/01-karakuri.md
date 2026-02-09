@@ -194,7 +194,7 @@ Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v či�
 
 Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
-Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky ako miniaturní duchovia.
+Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky do mrazivého vzduchu.
 
 Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Daru. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili posvätný Dar. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
@@ -240,7 +240,7 @@ Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní,
 
 Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
-Schádzala po schodoch z namrznutého kameňa. Ulička sa zužovala. Domy sa k sebe nakláňali, akoby sa šeptali. Bielenie padalo zo stien ako lupiny z chorej kože. Prádlo viselo medzi oknami na lanách, zamrznuté do strnulých tvarov — košele ako biele duchovia, ponožky ako ľadové zástavy.
+Schádzala po schodoch z namrznutého kameňa. Ulička sa zužovala. Domy sa k sebe nakláňali, akoby sa šeptali. Bielenie padalo zo stien v plátoch. Prádlo viselo medzi oknami na lanách, zamrznuté do strnulých tvarov — košele s roztiahnutými rukávmi, ponožky stuhnuté v smere vetra.
 
 A potom to začula.
 
@@ -339,7 +339,7 @@ Uklonila sa. Hlboko a s pokorou.
 
 Mako sa nepohol, ale Tami videla, ako sa jeho ruka s kladivom na zlomok sekundy zastavila vo vzduchu. To bolo viac než pozdrav. To bolo uznanie.
 
-Keď vyšla na ulicu, slnko sa predieralo cez sivé oblaky a sneh na strechách sa leskol ako rozbitý porcelán. Mesto hučalo okolo nej ako obrovský parný stroj — dym z tisícov komínov stúpal do mrazivého vzduchu a miešal sa s padajúcimi vločkami. Tisíce životov, tisíce príbehov, tisíce tajomstiev — a nad tým všetkým tieň blížiacej sa vojny.
+Keď vyšla na ulicu, slnko sa predieralo cez sivé oblaky a sneh na strechách ostro blikal v očiach. Mesto hučalo okolo nej. Dym z tisícov komínov stúpal do mrazivého vzduchu a miešal sa s padajúcimi vločkami. A nad tým všetkým tieň blížiacej sa vojny.
 
 Prešla okolo skupiny žoldnierov, ktorí si pred krčmou čistili zbrane. Jeden z nich — obrovský chlap s jazvou cez celú tvár — ju sledoval pohľadom. Tami ho ignorovala. Nebezpečnejší boli tí, čo sa nepozerali.
 
