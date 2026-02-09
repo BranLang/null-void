@@ -1,5 +1,5 @@
 
-![World](../../../../assets/maps/map-canon.jpg)
+![World](../../../../assets/maps/map-canon.png)
 
 
 # Prológ
@@ -10,7 +10,7 @@ Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbol
 
 Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Dlhé gaštanové vlasy jej divoko vliali okolo tváre, pramenmi sa zachytávali o mosadzné letecké okuliare, ktoré mala odsunuté na čelo. Pod kožušinovým golierom blúdiace pramene zakrývali — až na okamih — špicaté líščie uši.
 
-Ale čo človeka zasiahlo ako úder do solárneho plexu, boli jej oči. Tyrkysovo-modré, jasné ako zamrznuté jazero v slnečnom svetle. Oči, ktoré nemali čo robiť v tvári s takými ušami.
+Jej oči boli Tyrkysovo-modré, jasné ako zamrznuté jazero v slnečnom svetle. 
 
 Na hrubom opasku obnosených nohavíc jej viseli automatické pištole a rapier v čiernom puzdre — zbraň, ktorá vyzerala skôr ako dlhá ihla než meč.
 
@@ -26,10 +26,12 @@ Otázka ju zaskočila. Dvere sa hlasito zabuchli.
 
 ---
 
+![Tami on the Makita](../../../../assets/characters/Tami/book-1-prologue-tami-cabin.png)
+
 Tami sa presunula na provu lode. Nočná obloha bola čistá a krutá — tisíce hviezd svietili tak ostro, ako svietia len v mraze. Dolu pod nimi sa rozprestieralo mesto v snehu. Milióny oranžových bodiek — olejové kahance a plynové lampáše — sa mihotali v tmavej bielej krajine ako uhlíky rozfúkané vetrom. Rozpoznala paláce, katedrály, mosty, železnice, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom. A nad tým všetkým, na najvyššom kopci uprostred mesta, žiarila Ona. Kolosálna socha Matky, vytesaná z bieleho kameňa, s rukami roztiahnutými v ochrannom geste nad prístavom. Sneh jej ležal na ramenách ako biely plášť. Jej tvár bola v tieni, ale svätožiara z olejových kahancov okolo jej hlavy pretínala mrazivú noc ako maják.
 
 Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že **Felix** — ťažký kanón, jej pýcha, je zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na začatie pristávacieho manévru.
 
 *Makita* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
 
-![Tami](../../../../assets/characters/Tami/tami_soraven.jpeg)
+![Tami](../../../../assets/characters/Tami/tami-soraven.jpeg)

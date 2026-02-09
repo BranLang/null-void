@@ -19,6 +19,8 @@ import subprocess
 import sys
 import argparse
 import re
+import base64
+import mimetypes
 from pathlib import Path
 
 # Import strip_comments from sibling script
@@ -187,6 +189,16 @@ pdf_options:
 """
 
 
+def img_to_base64_uri(img_path: Path) -> str:
+    """Convert an image file to a base64 data URI string."""
+    mime, _ = mimetypes.guess_type(str(img_path))
+    if not mime:
+        mime = 'image/png'
+    data = img_path.read_bytes()
+    b64 = base64.b64encode(data).decode('ascii')
+    return f'data:{mime};base64,{b64}'
+
+
 def build_merged_markdown(book_name: str, books_dir: Path) -> str:
     """Merge all chapter files into a single markdown string."""
     chapters = BOOK_CHAPTERS.get(book_name)
@@ -202,12 +214,14 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
 
     parts = []
 
-    # Title page with cover
+    # Title page with cover (base64-encoded for Puppeteer compatibility)
     cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-inetis.png').resolve()
     if cover_path.exists():
+        cover_b64 = img_to_base64_uri(cover_path)
         parts.append(f'<div style="text-align:center; margin-top:0; padding:0;">\n')
-        parts.append(f'<img src="file://{cover_path}" style="max-width:100%; max-height:85%; margin:0 auto;" />\n')
+        parts.append(f'<img src="{cover_b64}" style="max-width:100%; max-height:85%; margin:0 auto;" />\n')
         parts.append(f'</div>\n\n')
+        print(f"  Cover: {cover_path.name}")
 
     for i, chapter_file in enumerate(chapters):
         src = drafts_dir / chapter_file
@@ -220,13 +234,15 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
         # Strip comments
         clean = strip_comments(content)
 
-        # Fix image paths to absolute so PDF renderer can find them
+        # Convert image paths to base64 data URIs for Puppeteer compatibility
         def fix_img_path(match):
             alt = match.group(1)
             rel_path = match.group(2)
             abs_path = (src.parent / rel_path).resolve()
             if abs_path.exists():
-                return f'![{alt}](file://{abs_path})\n'
+                b64_uri = img_to_base64_uri(abs_path)
+                return f'![{alt}]({b64_uri})\n'
+            print(f"    Warning: image not found: {rel_path}")
             return ''  # Remove if image not found
         clean = re.sub(r'!\[(.*?)\]\((.*?)\)\n*', fix_img_path, clean)
 
