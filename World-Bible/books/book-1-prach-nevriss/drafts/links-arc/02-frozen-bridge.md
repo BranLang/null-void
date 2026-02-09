@@ -13,15 +13,21 @@ Les sa skončil bez varovania.
 
 Jeden moment — koruny tmavých ihličnanov, vôňa živice a mokrého snehu. Ďalší — nič. Len vietor, šedá obloha a strmý svah dole k pobrežiu, kde sa pod útesmi krčila rybárska osada. Desať, možno dvanásť chatrčí z naplaveného dreva a bridlicových dosiek. Komíny dymili. Pred jednou chatrčou stál drevený stĺp s lampášom, ktorý už dávno nefungoval.
 
-Links zosadol z *Icarusa*. Nanotech pod ním chladol — rotory tikali v mrazivom vzduchu ako staré hodiny. Zabalil stroj do nepremokavej plachty a priviazal ho k borovici na okraji lesa. Potom sa vydal dole.
+Links zosadol z *Icarusa*. Nanotech pod ním chladol — rotory tikali v mrazivom vzduchu ako staré hodiny. Položil dlaň na biely trup. Pod povrchom — teplý, jemne pulzujúci — boli miliardy nanoštruktúr, ktoré kedysi boli Wraithy. Dedko ich ulovil, vyčistil, pretavil na niečo nové. Otec ich mesiace ladil v garáži, s olejom na rukách a tichými nadávkami. *Icarus* nebol stroj. Bol *dedičstvo*.
 
-Osada nebola na žiadnej mape, ktorú videl v Observatóriu. Nemala meno. Len štyri rodiny, dva kutry a starec, ktorý sedel na mólku a opravoval sieť rukami tak dolámanými, že vyzerali ako konáre buku po búrke.
+Osada pod útesmi bola maličká — štyri rodiny, dva kutry a starec, ktorý sedel na mólku a opravoval sieť rukami tak dolámanými, že vyzerali ako konáre buku po búrke.
 
-Links sa zastavil vedľa neho. More pod nimi bolo tmavé, takmer čierne. Ľadové kryhy sa pomaly pohybovali od severu k juhu — obrovské, tiché, naliehavé. A za nimi, v hmle — tmavé tvary. Ostrovy. Reťaz skalnatých hrbov trčiacich z ľadovej pokrývky mora ako stavce chrbtice obrovského zvieraťa.
+Links zosadol na pláž. *Icarus* plachtil za ním — nízko, tíško, ako verný pes. Starec zdvihol hlavu.
+
+„Pekný stroj," povedal. „Z Ludusu?"
+
+„Rodinný," odvetil Links.
+
+Starec prikývol. Pozrel sa na more. More pod nimi bolo tmavé, takmer čierne. Ľadové kryhy sa pomaly pohybovali od severu k juhu — obrovské, tiché, naliehavé. A za nimi, v hmle — tmavé tvary. Ostrovy. Reťaz skalnatých hrbov trčiacich z ľadovej pokrývky mora ako stavce chrbtice obrovského zvieraťa.
 
 „Potrebujem sa dostať na druhú stranu," povedal Links.
 
-Starec nezdvihol hlavu. Prsty pracovali na sieti. „Druhá strana čoho?"
+Starec prikývol. „Druhá strana čoho?"
 
 „More. Ostrovy. Chcem sa dostať na Terru."
 
@@ -29,17 +35,23 @@ Teraz zdvihol hlavu. Oči — sivé, vodové, vyblednuté — sa upreli na Links
 
 „V zime sa neplaví, chlapče. Ľad ťa rozdrví."
 
-„Nechcem sa plaviť. Chcem ísť pešo. Po ľade."
+„Nechcem sa plaviť. Chcem ísť. Po ľade."
 
-Ticho. Starec odložil sieť. Potom sa zachechtal — suchým, bezradostným zvukom, ktorý vietor odniesol skôr, než doletol k chatrčiam.
+„A na *tom?*" Starec ukázal na *Icarusa*. „Letíš?"
 
-„Po ľade. Cez ostrovy." Pokrútil hlavou. „Vieš, čo je na tých ostrovoch?"
+Links sa pozrel na svoj stroj. Potom na more. Vietor fúkal z otvoreného oceánu — silný, nepravidelný, plný ľadových ihiel. V letných mesiacoch by *Icarus* ten let zvládol. Ale teraz, v srdci päťročnej zimy, s vetrom, ktorý menil smer každých dvadsať sekúnd a námrazou, ktorá sadala na rotory rýchlejšie, než ju nanotech stíhal odtaviť...
 
-„Viem."
+„Nie," povedal Links. „Pešo."
 
-„Nie. Nevieš." Starec sa naňho pozrel — tentokrát vážne. „Vlky. Veľké ako kone. Hovoria. A keď hovoria, tak počúvaj. Pretože ak nepovieš to správne — nepovedia ti nič. Len ťa zožerú."
+Starec pokrčil plecami. „Tak na tom pojdi aspoň na ľad. Ušetrí ti to prvých pár ostrovov." Pokrútil hlavou. „Ale pozor. Ľad tu nie je ľad. Je to... nálada. Niekedy drží. Niekedy nie."
 
-Links stisol popruhy batohu na ramenách. V puzdre pri bedrách cítil váhu *Vigilantu* — keramickej pištole, presnej a spoľahlivej. Ale proti tridsiatim vlkom veľkosti koňa by mu nepomohla ani útočná puška pod sedadlom *Icarusa*.
+„A vlky?"
+
+Starec odložil sieť. Zachechtal sa — suchým, bezradostným zvukom, ktorý vietor odniesol skôr, než doletol k chatrčiam.
+
+„Vlky. Veľké ako kone. Hovoria. A keď hovoria, tak počúvaj. Pretože ak nepovieš to správne — nepovedia ti nič. Len ťa zožerú."
+
+Links stisol popruhy batohu na ramenách. V puzdre pri bedrách cítil váhu *Vigilantu* — keramickej pištole, presnej a spoľahlivej. Ale proti tridsiatim vlkom veľkosti koňa by mu nepomohla.
 
 „Kedy naposledy niekto prešiel?"
 
@@ -49,23 +61,123 @@ Links sa pozrel na sever. Hmla. Ľad. Ostrovy ako zuby vypadnuté z čeľuste sv
 
 *Renn Ólafsson*, pomyslel si. *Musel to byť on.*
 
-Vstal. Pritiahol kapucňu. Skontroloval kompas — magnetický, nie elektronický. Tu vonku sa nedalo spoľahnúť na nič, čo potrebovalo energiu. Batérie v mraze umierali rýchlo. A scrambler aj detektor boli príliš cenné na to, aby ich nechal bežať na prázdno.
+***
 
-„Ďakujem," povedal starcovi.
+Letel nízko. Meter nad ľadom, možno dva. *Icarus* sa chvel — nie od motora, ale od vetra. Námraza sa usádzala na rotoroch a nanotech ju odtavoval v rytmických pulzoch — teplo, chlad, teplo, chlad. Fungoval. Ešte fungoval.
 
-Starec nezdvihol hlavu. Vrátil sa k sieti.
+Prvý ostrov minul vo výške. Druhý tiež. Skalnaté hrboly pokryté snehom a ľadom, prázdne, pusté. Tretí ostrov bol väčší — Links videl stopy. Staré ohnisko. Kosti.
 
-Links zostúpil na pláž. Štrk pod nohami chrústal — zmrznutý, ostrý. Potom štrk skončil a začal sa ľad.
+Na štvrtom ostrove zbadal pohyb.
 
-Prvý krok. Tvrdý, istý. Ľad pod ním zastenal — hlboký, rezonantný zvuk, ktorý sa niesol cez celú plochu mora ako hlas niečoho obrovského, čo sa prevrátilo v spánku. Links stuhol. Počkal. Nič sa nestalo.
+Najprv si myslel, že to je tieň. Šedý pruh na bielom snehu — rýchly, nízky, rovnobežný s jeho letovou dráhou. Potom ďalší. A ďalší. Na ľade medzi ostrovmi — šesť, sedem, *desať* šedých pruhov, bežiacich rýchlosťou, ktorá nemala logiku. Žiadne zviera nemohlo bežať tak rýchlo na ľade. Žiadne zviera —
 
-Druhý krok.
+*Vlky.*
 
-Tretí.
+Links zrýchlil. *Icarus* zastenal — rotory sa roztočili rýchlejšie, nanotech pulzoval horúčkovito, bojoval s námrazou. Dva metre nad ľadom. Tri. Rýchlejšie, rýchlejšie —
 
-Za chrbtom mu bolo počuť, ako vietor húka medzi chatrčami rybárskej osady. Pred ním — nič. Len bielo. Len ticho.
+Ale vlky boli rýchlejšie.
 
-Len sever.
+Nebehali *za* ním. Behali *okolo* neho. Klasická vlčia taktika — Links ju študoval v bestiári, na papieri, v teple Observatória. Teraz ju videl naživo. Svorka sa rozdelila na tri skupiny. Prvá bežala priamo pod ním — osem, desať vlkov, obrovských, šedých, oči lesknúce sa v hmle. Druhá skupina predbehla — *predbehla vznášadlo* — a zarezávala dopredu, smerom k ďalšiemu ostrovu. Tretia bežala vľavo, blokujúca únikovú cestu k otvorenému moru.
+
+Hnali ho. Ako korisť.
+
+Links cítil paniku — studenú, ostrú, primitívnu paniku, ktorá nemala nič spoločné s jeho tréningom v Observatóriu. Zmenil smer — doprava, preč od ostrovov, k otvorenému moru. *Icarus* sa naklonil, rotory zavŕzgali —
+
+A z pravej strany sa vynoril ďalší vlk. Sám. Obrovský. *Biely.* Bežal na ľade ako prízrak — ticho, plynulo, bez námahy. A bežal presne *tam*, kam Links zarezával.
+
+Obkľúčený.
+
+Links strhol riadidlá späť — k ostrovom. Piaty ostrov bol pred ním — väčší, skalnatý, s úzkym údolím medzi dvoma skalnými stenami. *Icarus* tam vletel, pretože nemal kam iné. Motor kašľal. Námraza vyhrádzala. Nanotech pod trupom pulzoval nepravidelne, horúčkovito — fialové záblesky, slabé, zúfalé.
+
+Údolie sa zúžilo.
+
+A skončilo.
+
+Skalná stena. Tri metre vysoká, kolmá, pokrytá ľadom. Slepá ulička.
+
+*Icarus* pristál. Nie pristál — *spadol*. Posledný meter vo voľnom páde, rotory sa zastavili, nanotech zhasol. Stroj dopadol na sneh s dutým, konečným zvukom.
+
+Links zosadol. Vytiahol *Vigilant*. Keramika bola studená v jeho trasúcich sa rukách. Osem nábojov. Proti —
+
+Stáli tam.
+
+V ústí údolia. Dvadsať. Možno viac. Šedé, obrovské, tiché. Oči — desiatky párov zlatých očí v šere — svietili ako lampy. Ani jeden sa nepohol. Ani jeden nezavrčal. Len stáli a dívali sa.
+
+A potom sa rozostúpili.
+
+Alfa prešiel medzi nimi ako kráľ medzi vojakmi. Biely. Obrovský — väčší než ostatní. Plecia vo výške Linksovej hrude. Jazvy na papuli — staré, hlboké, príbehy bez slov. Oči — zlaté, staré, *prastaré* — sa upreli na Linksa.
+
+Potom na *Icarusa*.
+
+Alfa pristúpil k stroju. Pomaly, pokojne, s istotou bytosti, ktorá nepozná strach, pretože je na vrchole potravinového reťazca. Sklonil obrovskú hlavu. Oňuchal biely trup — nozdrá sa rozšírili, potom sa stiahli. *Chemikálie. Nanotech. Cudzie.*
+
+Links pochopil, čo sa stane, sekundu predtým, než sa to stalo.
+
+„Nie—"
+
+Alfa zdvihol pravú labu. Obrovskú, so šiestimi drápmi dlhými ako nože — *šesť*, nie päť, geneticky modifikované, každý zakrivený a tvrdý ako oceľ.
+
+A uderil.
+
+Jedným pohybom — presným, silným, *nežným* v tej svojej brutalite — roztrhol biely trup *Icarusa* od sedadla po nos. Nanotech pod povrchom zabzučal — fialový záblesk, intenzívny, zúfalý, ako krik. Miliardy nanoštruktúr sa pokúsili o opravu — ale drápy prešli hlboko, cez vonkajšiu vrstvu, cez vrstvy pod ňou, cez všetko, čo dedko tak starostlivo poskladal a otec tak trpezlivo naladil.
+
+*Icarus* sa rozostrel. Nie vybuchol — *rozostrel sa*. Nanotech sa rozpadol na čierny prach — jemný, tmavý, žiariaci fialovými bleskami, ktoré slabli a slabli, ako posledné údery srdca. Prach sa rozletel po snehu. Niektoré zrnká ešte svietili. Väčšina nie.
+
+Links klesol na kolená. Potom na bok. Potom tvár do snehu.
+
+Ležal a pozeral sa na prach vo snehu. Čierny na bielom. Zvyšky stroja, na ktorom sa naučil lietať. Na ktorom prvýkrát videl Ludus zhora. Na ktorom odletel z domova — z garáže, kde otec stál vo dverách a mával.
+
+*Dedko.*
+
+*Otec.*
+
+*Promiň.*
+
+Okolo neho — vlky. Dvadsať tieňov. Šedá srsť, zlaté oči, teplý dych. Obkľúčili ho. Kruh sa zužoval.
+
+Links zavrel oči.
+
+*Tak toto je koniec,* pomyslel si. *Nie v knižnici. Nie v laboratóriu. V snehu, na konci sveta, obkľúčený vlkmi, vedľa prachu, čo bol môj stroj.*
+
+Čakal zuby. Čakal bolesť. Čakal tmu.
+
+Namiesto toho prišiel hlas.
+
+**„Máme tradíciu."**
+
+Hlboký. Hrubý. Starodávny. Nie syntetický, nie mechanický — *zvierací*, ale s ľudskou váhou. Hlas bytosti, ktorá sa naučila hovoriť pred tritisíc rokmi a odvtedy si zvykla na ticho.
+
+Links otvoril oči.
+
+Alfa stál nad ním. Obrovský — zhora vyzeral ešte väčší, biela srsť proti šedej oblohe, zlaté oči ako dva mesiace. Na drápoch — čierny prach a dohasínajúce fialové záblesky. Zvyšky *Icarusa*.
+
+**„Predtým, než ťa zabijeme... dostaneš možnosť."**
+
+Pauza. Dych Alfu — horúci, vlhký, páchnuci syrovou divočinou — Linksovi udrel do tváre.
+
+**„Niečo nás naučiť."**
+
+Links nevedel, či sa mu zdá. Nevedel, či neumrel a toto je ten posmrtný sen, o ktorom hovoria kňazi v Ynetis. Ležal v snehu, tvár mokrú, telo stuhnuté, a pozeral sa do zlatých očí zvieraťa veľkého ako kôň, ktoré práve zničilo jeho dedičstvo — a teraz mu ponúkalo *šancu*.
+
+**„Posledný, čo tu prešiel — muž menom Renn Ólafsson — ten nám povedal príbehy. Príbehy o svete, kde je tma pol roka a more zamŕza do stien vysokých ako hory."** Alfa sa odmlčal. Oči sa na sekundu zastreli — stará spomienka, vzdialená, drahá. **„Povedal nám, že na starom svete existovali príbehy, ktoré sa volali *ságy*. Dlhé, hrdinské, o ľuďoch a bohoch a vlkoch."**
+
+Ďalšia pauza.
+
+**„Povedal, že jedného dňa nám niekto dopovedá tú našu."**
+
+Zlaté oči sa upreli na Linksa — ležiaceho, mokrého, roztrasieného, obkľúčeného smrťou.
+
+**„Si to ty? Si ten, čo dopovedá?"**
+
+Links sa pomaly zdvihol. Najprv na kolená. Potom na nohy. Kolená sa mu triasli. *Vigilant* bol stále v ruke — zabudol ho pustiť. Pomaly, veľmi pomaly, ho zastrčil späť do puzdra. Proti dvadsiatim vlkom veľkosti koňa by mu nepomohol. A po tom, čo Alfa urobil s *Icarusom*...
+
+Pozrel sa na prach v snehu. Čierny na bielom. *Tvoja minulosť,* pomyslel si. *Všetko, čo si bol — Ludus, Observatórium, garáž s otcom — je teraz prach na cudzom ostrove.*
+
+Potom sa pozrel na Alfu.
+
+*Nemôžeš hovoriť s nami, kým si nad nami.*
+
+Pochopil. Nenávidel to. Ale pochopil.
 
 ---
 
