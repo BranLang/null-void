@@ -147,7 +147,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - **Nútený party split** (kolaps tunelov z Grawského bombardovania)
 - Tami + Kito stretnú Seru v tuneloch
 - **Sera otvára bránu** Haiku skriptom (Paladíni sa pokúsili a zlyhali)
-- **Sera vs Paladíni fight** (Sera = perfect counter, Yari vs Hard Light)
+- **Sera vs Paladíni fight** (Sera = perfect counter. Yari = formovaná nanotech kopija → prerazí Hard Light — Dune princíp: formované nanotech zbrane prechádzajú, rozptýlené roje nie)
 - **Esencia transfer (Fáza 2 — Aktivácia):** Sera odomkne Artefakt, podá ho Tami (NIE Maksovi) — koncentrovaná Esencia Inetis prejde na Tami. Toto je **plné prebudenie** — Tami už nesie Semeno (Fáza 1) z Jaskyne Ela (~AY 3011), ale až teraz sa Echo naplno aktivuje
 - Maks asks about Inetis → frustrácia (incomplete info)
 - **Sera's prophecy:** "Tri veže prejdeš" — Sera sa pozerá priamo na **Tami**, nie na Maksa. Maks si to nevšimne (frustrácia). Tami si to všimne, ale nechápe prečo.
@@ -178,7 +178,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - **Ninja combat:** Rýchla, efektívna, bez zbytočných pohybov
   - "Česť je len výhovorka pre nedostatok flexibility"
   - Kills from behind, no honor
-- **Perfect counter vs Apes/Paladíni:** Yari penetruje Hard Light
+- **Perfect counter vs Apes/Paladíni:** Yari = formovaná nanotech kopija → prerazí Hard Light (Dune princíp). Hard Light blokuje roje, nie formované zbrane.
 - **ADMITS weakness:** Proti Maxovým nanodronom by prehrala
 
 ### Sera vs Elania Dynamic:
@@ -201,6 +201,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - **Nevie** že Apes sa volajú Apes
 - **Vie** len legendy z námorníckych denníkov: „obri z juhu" v nepriestrelnom brnení
 - Keď Sera povie „hlúpe opice" — Kito si mentálne zapíše: *Volá ich opice. Píšem si.*
+- **SECOND READ:** „Hlúpe opice" je najsmutnejšia veta v celej sérii. Sera to hovorí z únavy — vidí ich umierať, znova a znova, za „kus zeme." Nechápe prečo neprestanú. Pri second read čitateľ vie: **Apes neboli hlúpe.** Boli najodvážnejšie bytosti na planéte. Umierali za niečo, čo nemohli vysvetliť — za ochranu čistého kontinentu pred nanotechnologickou kontamináciou. Sera ich zmasakrovala presne tou technológiou, pred ktorou sa bránili. A nazvala ich hlúpymi, lebo nevedela, že mali pravdu.
 
 ### Paladín Self-Destruct:
 - Panel na predlaktí brnenia, symboly neznáme (nie Spira, nie angličtina — z juhu)
@@ -633,7 +634,7 @@ Maks nedýchal.
 - Vulpini hybrid (zriedkavé), turquoise eyes, fox ears
 - Skeptik, pragmatik, flexuje na Maksa
 - Spira municia = drahá, používa opatrne
-- Nadel (rapier) = Felix legacy, môže penetrovať Hard Light (briefly)
+- Nadel (rapier) = Felix legacy, formovaná nanotech zbraň → prerazí Hard Light (Dune princíp: formované zbrane prejdú, roje nie)
 - Character arc: Confident → Realizes world is bigger than Maks + her
 
 ---

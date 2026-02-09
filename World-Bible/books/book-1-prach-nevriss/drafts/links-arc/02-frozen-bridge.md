@@ -65,7 +65,7 @@ Links sa pozrel na sever. Hmla. Ľad. Ostrovy ako zuby vypadnuté z čeľuste sv
 
 Letel nízko. Meter nad ľadom, možno dva. *Icarus* sa chvel — nie od motora, ale od vetra. Námraza sa usádzala na rotoroch a nanotech ju odtavoval v rytmických pulzoch — teplo, chlad, teplo, chlad. Fungoval. Ešte fungoval.
 
-Prvý ostrov minul vo výške. Druhý tiež. Skalnaté hrboly pokryté snehom a ľadom, prázdne, pusté. Tretí ostrov bol väčší — Links videl stopy. Staré ohnisko. Kosti.
+Prvý ostrov minul vo výške. Druhý tiež. Skalnaté hrboly pokryté snehom a ľadom, prázdne, pusté — len na druhom zbadal niečo zvláštne. Obrysy múrov. Pravouhlé kamene pod ľadom, príliš rovné na to, aby boli prírodné. Ruiny. Kto tu staval a kedy — to z výšky nevedel povedať. Tretí ostrov bol väčší — Links videl stopy. Staré ohnisko. Kosti. A ďalšie múry, rozpadnutejšie, zapustené do skaly ako zuby v ďasne.
 
 Na štvrtom ostrove zbadal pohyb.
 
@@ -187,165 +187,95 @@ Pochopil. Nenávidel to. Ale pochopil.
 
 Hodiny.
 
-Links ich prestal počítať po tretej. Nie preto, že by nemohol — jeho myseľ ich registrovala automaticky, vrátane teploty (mínus osemnásť, klesajúca), vlhkosti vzduchu (deväťdesiat percent, stúpajúca) a odhadovanej hrúbky ľadu pod nohami (dvadsať centimetrov tu, možno pätnásť tam, kde bola farba tmavšia). Prestal ich počítať, pretože to nepomáhalo.
+Links kráčal. Piaty ostrov ostal za ním — skalná kotlina, kde ležal čierny prach v snehu a fialové záblesky dávno dohasli. Šiesty ostrov bol pred ním. Kompas v ruke. Sever. Vždy sever.
 
-Ostrov-hopping. Tak to nazývali v starých navigačných záznamoch Observatória — preskočiť z jedného skalnatého chrbta na druhý, než sa ľad medzi nimi rozlomí alebo roztopí. Lenže navigačné záznamy boli staré storočia a nikto ich neoveroval. Posledná expedícia, ktorú Observatórium vyslalo na sever, bola pred šesťdesiatimi rokmi. Vrátili sa traja z ôsmich. Záznamy nehovorili prečo.
+Vlky šli s ním.
 
-Links kráčal.
+Nie vedľa neho — *okolo* neho. V hmle. Videl ich len niekedy — šedý pruh v bielom, zlato očí v šere, mäkký dopad láb na ľad. Nikdy bližšie ako dvadsať metrov. Nikdy ďalej ako sto. Sprevádzali ho, ako strážcovia sprevádzajú väzňa, ktorého ešte nesúdili.
 
-Prvý ostrov bol len skalnatý výbežok — dvadsať metrov dlhý, pokrytý ľadom tak hrubým, že vyzeral ako gigantická kvapka vosku. Nič na ňom nerastlo. Nič na ňom nežilo. Links sa zastavil na chvíľu, zjedol polovicu nutričnej tyčinky a rozmýšľal, či je toto ešte Neuropa, alebo už nič.
+*Niečo nás naučiť.*
 
-Ďalších päťsto metrov otvoreného ľadu. Tento bol horší — priehľadný na niektorých miestach. Links videl pod sebou tmu. Nie vodu — tmu. Čiernu, hustú, totálnu. Niekde tam dole bola hĺbka, o ktorej radšej nerozmýšľal. Kráčal rýchlejšie. Ľad praskal pod jeho váhou — jemné, tenké zvuky, ako keď niekto láme suché konáre. Ale neprepadol sa. Ešte nie.
+Alfove slová mu horeli v ušiach. Šanca. Jedna. A Links nevedel, čo s ňou urobí.
 
-Druhý ostrov. Väčší. Tu boli stopy.
+*Pred pár týždňami som obhajoval doktorandskú prácu.*
 
-Staré ohnisko — kruh kameňov, zvyšky spáleného dreva, dávno rozpadnutého na prach. Kosti — zvieracie, veľké, ohryzené do hladka. Škrabance na skale — dlhé, rovnobežné, hlboké. Päť drážok. Päť pazúrov.
+Myšlienka prišla sama — absurdná, boľavá, komická. Pred pár týždňami stál v Observatóriu, v bielej sieni s vysokými oknami, a hovoril o nanotechnológii pred starými mužmi, ktorí pili čaj z porcelánových šálok. *„What If the Gods Left Source Code?"* Výborná dizertačná práca. Scholaris Links. Potlesk. Diplom v ráme.
 
-Links si kľakol. Dotkol sa škrabancov. Neboli staré. Kameň bol čistý — žiadna plesň, žiadny lišajník. Možno týždeň. Možno dva.
+A teraz kráčal po ľade, bez stroja, bez plášťa (Solárny Plášť nemal odvahu zapnúť — svietiť tu znamenalo privolávať veci), s rukami tak studenými, že necítil prsty od druhej hodiny. Obkľúčený vlkmi, ktoré pred chvíľou zničili jeho dedičstvo a ponúkli mu šancu, ktorej nerozumel.
 
-Vstal. Pokračoval.
-
-Hmla zhustla niekde medzi tretím a štvrtým ostrovom. Nie postupne — náhle, akoby niekto prehodil plachtu cez svet. Links videl pätnásť metrov pred seba. Potom desať. Potom päť. Kompas v ruke. Sever. Vždy sever. Kroky počítané, vzdialenosť odhadovaná, smer korelovaný s poslednou polohou, ktorú si zaznačil na mapu pred odchodom.
-
-*Analýza rizika*, povedal mu hlas v hlave — ten istý analytický, chladný, observatóriový hlas, ktorý mal vždy, keď situácia prestala dávať zmysel. *Podchladenie: nástup za štyri hodiny pri tejto teplote a aktivite. Hrúbka ľadu: neoveriteľná bez vrtu. Vzdialenosť k najbližšiemu ostrovu: neznáma. Pravdepodobnosť prežitia: —*
-
-Zastavil výpočet. Niektoré čísla bolo lepšie nevedieť.
-
-Štvrtý ostrov. Piaty. Šiesty.
+*Erol by sa smial*, pomyslel si. *Alebo plakal. Pravdepodobne oboje.*
 
 Studený. Bol studený. Nie abstraktne, nie metaforicky — *fyzicky*, konkrétne, v presných miestach tela. Prsty — necítil ich od druhej hodiny. Nos — kvapôčka na špičke zamŕzala, kým stihla spadnúť. Obočie — kryštáliky ľadu v chlpoch, malé, tvrdé, nepríjemné. Dych — biely oblak, ktorý mu zamŕzal na golieri a vytváral ľadovú krustu, čo mu drela krk pri každom pohybe.
 
 Toto nebola zima Observatória. Observatórium bolo na hore, vysoké, studené — ale suché. Horská zima bola čistá, ostrá, poctivá. *Toto* bola morská zima. Mokrá, mastná, neúprosná. Vlhkosť sa dostávala do každého švu, každej vrstvy, každej póry. A potom zamŕzala.
 
-*Prečo si nelietol?*
+Ľad medzi ostrovmi bol horší. Priehľadný na niektorých miestach. Links videl pod sebou tmu. Nie vodu — tmu. Čiernu, hustú, totálnu. Niekde tam dole bola hĺbka, o ktorej radšej nerozmýšľal. Kráčal rýchlejšie. Ľad praskal pod jeho váhou — jemné, tenké zvuky, ako keď niekto láme suché konáre. Ale neprepadol sa. Ešte nie.
 
-Mohol. Icarus bol rýchly. Ale Erol ho varoval — nad otvoreným morom v zimných búrkach sa nelietalo. Vietor tu dosahoval rýchlosti, ktoré by nanotech hoverbike roztrhal na kusy. A aj keby nie — nemal mapu vzdušných prúdov. Nemal mapu vôbec. Len kompas, odhady a tvrdohlavosť.
+*Analýza rizika*, povedal mu hlas v hlave — ten istý analytický, chladný, observatóriový hlas, ktorý mal vždy, keď situácia prestala dávať zmysel. *Podchladenie: nástup za štyri hodiny pri tejto teplote a aktivite. Hrúbka ľadu: neoveriteľná bez vrtu. Vzdialenosť k najbližšiemu ostrovu: neznáma. Pravdepodobnosť prežitia: —*
 
-Siedmy ostrov. Väčší ako predchádzajúce — možno sto metrov dlhý, s nízkym skalnatým hrebeňom a niečím, čo mohlo byť jaskyňou. Links sa zastavil. Svetlo blednulo. Nie súmrak — hmla bola taká hustá, že pohlcovala aj to málo svetla, čo preniklo cez oblaky. Ale jeho vnútorné hodiny mu hovorili, že je podvečer.
+Zastavil výpočet. Niektoré čísla bolo lepšie nevedieť.
 
-Musí zastaviť. Musí zapáliť oheň. Musí —
+Šiesty ostrov.
 
-Stopy.
+Tu boli ruiny.
 
-Veľké. Obrovské. Päť prstov, drápy, podušky — odtlačok v snehu hlboký štyri centimetre. Pes? Nie. Žiadny pes nemal labku veľkú ako Linksova hlava. Vlk. A nie jeden. Desiatky stôp. Cez celý ostrov. Čerstvé — sneh ich ešte nezasypal.
+Nie veľké — múr, možno dva. Kamene na kameňoch, bez malty, bez strechy, pokryté ľadom tak hrubým, že vyzeral ako glazúra na torte. Tvar bol pravouhlý — nie prírodný. Niekto tu staval. Kedysi. Dávno. Links sa zastavil a dotkol sa kameňa. Pod ľadom bola hladká plocha — opracovaná, otesaná. Nie hrubá skala. *Murivo.*
 
-Links položil ruku na *Vigilant*. Keramika bola studená, ale solid. Pištoľ bola nabitá — osem nábojov. Proti tomu, čo tu zanechalo tieto stopy, bola smiešna.
+Kto staval domy na zamrznutom ostrove uprostred mora? A kedy? Prvý Vek? Exodus? Ešte predtým, keď ostrovy neboli ostrovy, ale kopce na pobreží, a more bolo nižšie, a klíma iná?
 
-Zapálil oheň. Malý — len dosť na to, aby mu zahrial ruky a roztopil ľad na pitie. Drevo našiel vo výklenku skaly — staré, vysušené, pravdepodobne naplavené. Plamene boli nízke, oranžové, cenné. Zjedol poslednú nutričnú tyčinku. Ľahol si k ohňu. Zavrel oči.
+Nevedel. Nikto nevedel. V archívoch Observatória nebola o týchto ostrovoch ani zmienka. Tritisíc rokov — dosť na to, aby sa zabudlo, kto bol. Dosť na to, aby sa zabudlo, že tu *niekto bol*.
 
-Nevedel spať.
+Links prešiel popri múre. Za ním — ďalšie kamene, roztrúsené v snehu, niektoré porastené lišajníkom, ktorý prežíval aj v mraze. Základ niečoho väčšieho. Obdĺžnik — tri metre krát päť. Dom? Sklad? Pozorovateľňa? Kameň nehovoril. Kameň si pamätal tvar, ale nie účel.
 
-Niečo ho pozorovalo.
+Na jednom z kameňov — škrabance. Nie vlčie. *Staré.* Tenké, pravidelné, vertikálne. Päť čiarok, prečiarknutých šiestou. Počítanie. Niekto tu sedel a počítal dni.
 
----
+*Koľko dní?* pomyslel si Links. *A prestal počítať, keď odišiel — alebo keď nemohol?*
 
-## Časť III: Svorka
+Pokračoval. Za šiestym ostrovom siedmy.
 
-[→ 07-bestiary.md: Canis Sapiens, uplifted animals]
-[→ characters/Renn.md: Renn Ólafsson, tulák, vlčie národy]
-[→ 03-technology.md: Gen 2, Spira v dychoch vlkov]
+Siedmy bol väčší ako predchádzajúce — možno sto metrov dlhý, s nízkym skalnatým hrebeňom a niečím, čo mohlo byť jaskyňou. Aj tu boli stopy po múroch — ale staršie, rozpadnutejšie, už len náznaky v teréne. Links sa zastavil. Svetlo blednulo. Nie súmrak — hmla bola taká hustá, že pohlcovala aj to málo svetla, čo preniklo cez oblaky. Ale jeho vnútorné hodiny mu hovorili, že je podvečer.
 
-Najprv oči.
+Musí zastaviť. Musí zapáliť oheň. Musí prežiť noc, aby mohol *hovoriť*.
 
-Žltozelené, nízko pri zemi, na okraji svetla ohňa — presne tam, kde sa oranžová žiara menila na tmu. Nie jeden pár. Dva. Päť. Osem. Links sa posadil. Ruka na *Vigilante*. Srdce mu búchalo tak hlasno, že bol presvedčený, že to tie veci počujú.
+V tom slove bola celá jeho nádej. Alfa povedal: *niečo nás naučiť.* To znamenalo, že noc je jeho. Ak prežije zimu, ráno bude hovoriť. Ak neprežije — vlky si počkajú na ďalšieho, kto voní knihami a strachom.
 
-A počuli.
+Zapálil oheň. Malý — len dosť na to, aby mu zahrial ruky a roztopil ľad na pitie. Drevo našiel vo výklenku skaly — staré, vysušené, pravdepodobne naplavené. Plamene boli nízke, oranžové, cenné. Zjedol nutričnú tyčinku — predposlednú. Ľahol si k ohňu.
 
-Pohyb. Tichý, plynulý — nie zvieracím spôsobom tichý, ale *premysleným* spôsobom tichý. Kontrolovaný. Vedomý. Tieň sa oddelil od tmy a vkročil do svetla ohňa.
+A oni prišli.
 
-Links zabudol dýchať.
+Nie ako vpád. Ako príliv. Pomaly, tíško, z hmly. Jeden po druhom si sadali okolo ohňa — dvadsať obrovských tiel, šedých, čiernych, hnedých, strieborných. Oči — desiatky párov zlatých a zelených očí — sa dívali na Linksa, ale nie výhražne. *Čakali.* Alfa si sadol najbližšie — biely, masívny, jazvy na pysku v oranžovom svetle ohňa. Dva metre od Linksa. Dosť blízko na to, aby Links cítil jeho dych.
 
-Biela srsť, hustá, zmatená, pokrytá námrazou a starými jazvami. Nie šramami od lovcov — *vojnovými jazvami*. Dlhými, rovnými, chirurgickými. Niečo ich seklo čepeľou alebo energiou — niečím, čo nebolo z prírody. Plece — tam, kde sa srsť lámala cez masívne svaly — boli vo výške Linksovho hrudníka. *Keby sa postavil*, pomyslel Links a hneď si želal, aby na to nemyslel. Hlava bola široká, ťažká, s tlamou plnou zubov, z ktorých každý bol dlhý ako Linksov prst. Oči — zlaté, hlboké, staré. Nie zvieracie. Nie ľudské. Niečo medzi tým. Niečo, čo sa pozeralo na Linksa a *rozumelo*. Niečo, čo sa pozeralo cez tritisíc rokov — ale to Links ešte nevedel.
+Nikto neprehovoril. Oheň praskal. Sneh padal. Vlky dýchali — dvadsať teplých dychov, ktoré sa miešali s dymom a hmlou a vytvárali oblak nad nimi, akoby ostrov sám dýchal.
 
-Za ním ďalšie. Jeden po druhom vstupovali do kruhu svetla — šedé, čierne, hnedé, strieborné. Obrovské. Tiché. Každý z nich bol veľký ako malý kôň, ale pohyboval sa s eleganciou, ktorú kone nikdy nemali. Boli ich dvadsať. Možno tridsať. Links ich prestal počítať, keď mu prsty na *Vigilante* začali mŕtvieť — nie od zimy. Od strachu.
+Links nespal. Ležal pri ohni a pozeral sa na nich. Na ich telá — zjazvené, obrovské, krásne. Na ich oči — staré, trpezlivé, múdre. A rozmýšľal, čo im povie.
 
-Prvý vlk — ten biely, zjazvený, najväčší — si sadol. Nie ako pes. Ako kráľ. Na zadné nohy, hruď vypnutá, hlava hore. Zlato v očiach sa nehýbalo.
+*Čo viete? Čo chcete vedieť? A čo vám môžem povedať ja — chlapec, čo tu bol pred pár týždňami s titulom Scholaris a teraz leží v snehu bez stroja, bez plánu, bez čohokoľvek, okrem slov?*
 
-A potom prehovoril.
+Niekedy v noci — Links nevedel kedy, stratil sa v polospánku — hmla sa preriedila. A medzi mrakmi, len na okamih, zablikali hviezdy.
 
-Hlas bol hlboký. Nízky. Nie syntetický — *organický*, ako keby slová prechádzali cez hlasivky, ktoré boli navrhnuté na vytie, ale naučili sa niečo iné. Hrubý, pomalý, archaický. Každé slovo znelo, akoby ho hovoril prvýkrát a poslednýkrát.
-
-**„Človek z Veže."**
-
-Links otvoril ústa. Zavrel ich. Otvoril znova.
-
-„Ako — ako vieš —"
-
-**„Cítime."** Vlk naňho uprene hľadel. **„Voníš čistotou. Žiadna krv na tebe, žiadna zem. Len knihy a strach."** Pauza. Veľká, zlatá hlava sa mierne naklonila. **„A niečo staré. Niečo, čo voní... hviezdami."**
-
-Links si uvedomil, že hovorí o laptope. O Serinom laptope vo vnútri batohu — tritisíc rokov starom artefakte, ktorý stále niesol slabý signál Spiry. Vlk to cítil. Nosdrami. *Nosdrami.*
-
-[→ concepts/links-arc-outline.md: Chapter 5, The Frozen Bridge]
-
-Ďalšie vlky si sadli. Kruh sa uzavrel. Links bol v strede — oheň za chrbtom, tridsať párov zlatých a zelených očí pred sebou. Biely vlk — alfa, vodca, patriarcha — sa nepohol.
-
-**„Daj preč tú vec."**
-
-Links pozrel na svoju ruku. Stále zvierala *Vigilant*. Pomaly, veľmi pomaly, ju pustil. Pištoľ klesla na kameň vedľa neho. Osem nábojov. Tridsať vlkov. Matematika bola jasná, aj keby sa o ňu nepokúsil.
-
-**„Lepšie."** Alfa sa mierne uvoľnil. Nie celkom. Ale o čosi. **„My ťa nechceme zabiť, Človek z Veže. Ale nechceme ťa ani pustiť."**
-
-„Čo chcete?"
-
-Ticho. Dlhé. Oheň praskal. Niekde v diaľke — pod ľadom, alebo v ňom — zastenal oceán. Alfa sa pozrel na oblohu. Hmla sa na chvíľu preriedila a medzi mrakmi — len na okamih — zablikali hviezdy.
-
-Links sledoval vlkov pohľad. Alfa sa díval hore s výrazom, ktorý Links poznal. Videl ho v zrkadle. Videl ho u Erola. Videl ho u každého študenta Observatória, keď stáli na hrebeni hory a hľadeli na nočnú oblohu.
+Alfa zdvihol hlavu. Links sledoval jeho pohľad. Vlk sa díval hore s výrazom, ktorý Links poznal. Videl ho v zrkadle. Videl ho u Erola. Videl ho u každého študenta Observatória, keď stáli na hrebeni hory a hľadeli na nočnú oblohu.
 
 *Úžas.*
 
 Vlk pozeral na hviezdy s úžasom.
 
-**„Vieš, čo robíme, keď nelovíme?"** spýtal sa alfa. Hlas tichší teraz. Takmer — *mäkký*. **„Pozeráme. Hore. Na svetlá, čo sa pohybujú. Na tie, čo stoja. Na červenú, čo krúži."**
+A Links pochopil, čo im povie.
 
-*Infera*, pomyslel Links. *Aj oni ju vidia. Aj oni ju sledujú.*
+---
 
-**„Nemáme pre ne mená. Nemáme pre nič z toho mená. Ale pozeráme. Každú noc, keď hmla ustúpi. Pozeráme a pýtame sa — kto sme boli, keď sme boli len vlky?"**
+## Časť III: Sága
 
-Links pocítil niečo, čo nečakal. Nie strach. Nie úžas. *Súcit*. Tieto bytosti — obrovské, nebezpečné, schopné ho roztrhnúť za tri sekundy — sedeli na zmrznutom ostrove uprostred ničoho a pozerali na hviezdy a pýtali sa tie isté otázky, aké si kládol on. *Odkiaľ sme? Prečo sme tu? Kam ideme?*
+[→ 07-bestiary.md: Canis Sapiens, uplifted animals]
+[→ characters/Renn.md: Renn Ólafsson, tulák, vlčie národy]
+[→ 03-technology.md: Gen 1 nanoboty, Canis Sapiens]
 
-Alfa spustil hlavu. Zlaté oči späť na Linksovi.
+Ráno.
 
-**„Posledný Človek z Veže, čo prešiel cez náš ľad, nám dal dar."**
+Sivé, studené, bez slnka. Oheň dohorieval — žeravé uhlie v kruhu kameňov. Links sa posadil. Každý sval bolel. Každý kĺb chrčal. Ale žil.
 
-Links spozornel. „Kto to bol?"
+Vlky sedeli okolo neho. Nehybné. Trpezlivé. Dvadsať obrovských tiel pokrytých námrazou a snehom, oči otvorené, zlaté, zelené, strieborné. Čakali. Celú noc čakali.
 
-Alfa sa pozrel na svorku. Niektoré vlky sklonili hlavy. Iné zavyli — nie hlasno, nie výhražne. Potichu. Spomienkovo. Ako modlitba.
-
-**„Prišiel pred mnohými zimami. Tisíc — tak to počítate vy. My to počítame inak. My hovoríme: prišiel, keď Červená bola bližšie a hviezdy stáli inde."**
-
-Pauza. Alfa zavrel oči. Keď ich otvoril, boli o niečo mäkšie.
-
-**„Volal sa Renn Ólafsson. Mal modré oči ako ľad na najhlbšom mieste mora. Nosil trojhranný klobúk — smiešny. Nevedeli sme, či sa máme báť, alebo smiať. Voňal inak ako ty — staršie. Trpkejšie. Ale rovnako — žiadna krv. Žiadna zem. Len cesty a samota."**
-
-*Renn.* Links cítil, ako mu srdce poskočilo. Človek, o ktorom čítal v archívoch. Islanďan. Tulák. Člen Core Teamu Inetis. Tu bol. Na tomto ostrove. Pred tisíc rokmi.
-
-„Čo vám dal?"
-
-Alfa sa takmer usmial. Ak vlk dokázal niečo také, toto bolo tomu najbližšie.
-
-**„Slová. Príbehy. On im hovoril — ságy."** Alfa vyslovil to slovo opatrne, akoby ho držal v tlame ako niečo krehké. **„Rozprával nám o svete, kde je tma pol roka a more zamŕza do stien vysokých ako hory. O ľuďoch, čo plávali na drevených lodiach a zabíjali obrov. O bohoch, čo pili a klamali a umierali. O vlkovi, ktorý prehltne slnko."**
-
-*Fenrir*, pomyslel Links. *Fenrir a Ragnarök. Renn im rozprával severské ságy.*
-
-**„Pred ním sme mali spomienky, ale nemali sme slová. On nám dal slová na to, čo sme cítili. Naučil nás, že príbehy sú ako oheň — hrejú, aj keď skončia. Odvtedy si ich rozprávame. Každú zimu. Tisíc zím."**
-
-[→ characters/Renn.md: Renn Ólafsson, tulák, modré oči, trojhranný klobúk]
-
-Alfa vstal. Masívne telo sa nadvihlo — svaly pod srsťou sa vlnili, tiene na snehu sa pretiahli. Prešiel bližšie k Linksovi. Dva kroky. Tri. Bol tak blízko, že Links cítil jeho dych — horúci, dravý, páchnuci surovým mäsom a ľadom a niečím elektrickým, čo nedokázal pomenovať.
-
-**„Povedal nám ešte niečo. Povedal: jedného dňa príde niekto, kto nám dopovedá príbeh, čo sám Renn nevedel povedať. Náš príbeh. Odkiaľ sme prišli. Prečo hovoríme. Prečo cítime hviezdy."**
-
-Zlato v očiach. Blízko. Obrovské.
-
-**„Povedal: bude to chlapec, čo voní knihami a strachom."**
-
-Ticho. Oheň. Vietor.
-
-Links preglgol. „To — to nemohol vedieť."
-
-**„Renn vedel veľa vecí."** Pauza. **„A nepovedal takmer nič."**
-
-Zlato v očiach čakalo.
+Alfa sa naňho díval. Pokojne. Bez hrozby, bez netrpezlivosti. S istotou bytosti, ktorá vie, že čas je na jej strane.
 
 **„Tak povedz. Kto sme boli, keď sme boli len — vlky?"**
 
@@ -353,7 +283,7 @@ Zlato v očiach čakalo.
 
 ## Časť IV: Sága Vlkov
 
-Links sa pozrel na tridsať vlkov. Na ich oči — zlaté, zelené, strieborné. Na ich telá — obrovské, zjazvené, krásne. Na ich ticho — hlboké, trpezlivé, starobylé.
+Links sa pozrel na dvadsať vlkov. Na ich oči — zlaté, zelené, strieborné. Na ich telá — obrovské, zjazvené, krásne. Na ich ticho — hlboké, trpezlivé, starobylé.
 
 *Viem*, pomyslel si. *Viem presne, odkiaľ ste prišli. Učili nás to. Stálo to v knihách, v archívoch, v dátach, ktoré nikto nečítal, pretože nikoho to nezaujímalo. Canis Sapiens, Program Genetického Pozdvihnutia, Exodus — suché, klinické, mŕtve fakty.*
 
@@ -367,7 +297,7 @@ Nie preto, že by bol básnik. Ale pretože bol *Scholaris* — a v Observatóri
 
 A Links ho miloval. Od prvého dňa, keď Erol otvoril starý archív a ukázal mu slová, ktoré zneli ako kameň hádžaný do hlbokej studne — ťažké, pomalé, konečné. Erol povedal: *tento jazyk nebol navrhnutý na efektivitu. Bol navrhnutý na pravdu.*
 
-Links si sadol. Oheň praskal. Vlky sedeli okolo neho — tridsať obrovských tiel, srsť zasypaná snehom, oči nehybné. Ticho bolo absolútne.
+Links prihodil posledné drevo na uhlie. Oheň sa nechcene chytil — slabý, oranžový, ale živý. Vlky sedeli okolo neho — dvadsať obrovských tiel, srsť zasypaná snehom, oči nehybné. Ticho bolo absolútne.
 
 A Links začal hovoriť.
 
@@ -447,7 +377,7 @@ Ticho. Hlboké. Links cítil, ako mu slová stúpajú z niečoho hlbšieho, než
 
 ---
 
-Links sa pozrel na alfu. Ten stál nehybne. Celá svorka bola nehybná — tridsať obrovských tieňov v kruhu, pokrytých snehom, dýchajúcich potichu. Oheň medzi nimi bol už slabý — žeravé uhlíky, oranžový dych.
+Links sa pozrel na alfu. Ten stál nehybne. Celá svorka bola nehybná — dvadsať obrovských tieňov v kruhu, pokrytých snehom, dýchajúcich potichu. Oheň medzi nimi bol už slabý — žeravé uhlíky, oranžový dych.
 
 ---
 
@@ -717,7 +647,7 @@ Noha na skale. Prvá pevná zem, ktorá nebola ľad, za — koľko hodín? Osemn
 
 Links sa zastavil na prvom výbežku a otočil sa.
 
-Za ním — ľadový most. Ostrovy ako hrboly na bielej chrbtici mora. Hmla ich pohlcovala, jeden po druhom, od posledného k prvému, akoby sa svet za ním zatvárali ako dvere. A niekde tam — na siedmom ostrove, alebo ôsmom, alebo deviatom — bola stopa ohňa a tridsať odtlačkov labiek v snehu.
+Za ním — ľadový most. Ostrovy ako hrboly na bielej chrbtici mora. Hmla ich pohlcovala, jeden po druhom, od posledného k prvému, akoby sa svet za ním zatvárali ako dvere. A niekde tam — na siedmom ostrove — bola stopa ohňa a dvadsať odtlačkov labiek v snehu.
 
 Otočil sa späť.
 

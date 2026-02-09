@@ -39,11 +39,27 @@ Nie sú to len zberači artefaktov. Majú funkčný priemysel, ale "čistý".
 - **Ľudia (Neuropa)**: Elitná menšina (~5 Miliónov). Populácia je prísne kontrolovaná (1 dieťa na pár), aby sa zachovala "Solarpunk" utópia bez vyčerpania zdrojov.
 
 ### 4. História: Sera, Anjel Smrti
-Prečo Apes nezaútočili na Neuropu, keď majú priemyselnú a početnú prevahu?
-- **Strach z "Démonov".**
-- Apes technológia (Hard Light) je odolná voči konvenčným zbraniam, ale zraniteľná voči **Gen 1 Nanotech zbraniam** (ako Yari), ktoré ju dokážu preniknúť.
-- **Bitka Tichého Údolia**: Pred 1000 rokmi Sera zastavila inváziu Apes nie armádou, ale **nanotechnologickým morom** (lokalizovaný Glitch Rot).
-- Odvtedy Apes nazývajú Seru **"Biela Smrť"**. Studená vojna trvá, pretože Apes veria, že Ľudia majú zbrane hromadného ničenia.
+
+**Čo si Ludus myslí (cope):** Apes sa pokúsili napadnúť Neuropu a Sera ich hrdinsky zastavila.
+
+**Čo sa naozaj stalo:**
+
+Ludus chcel založiť **kolóniu na Simire** — južný kontinent, teplý, úrodný, strategicky výhodný. Vyslali expedíciu. Sera viedla vojenskú eskortu.
+
+Ale **Apes si nemohli dovoliť, aby ľudia priniesli nanotechnológiu na ich kontinent.** Pre Apes — ktorí vedeli o Tieňových a Uploade od mimozemšťanov — bola ľudská nanotechnológia biologická hrozba. Kontaminácia. Každý človek s Gen 1/Gen 2 nanodronmi bol potenciálny most pre Upload. Simira bola *čistá* — a musela takou zostať.
+
+Apes sa bránili. **Bez vysvetlenia.** Nemohli povedať prečo — prezradili by kontakt s mimozemšťanmi. Tak jednoducho zaútočili na koloniálnu expedíciu.
+
+- **Bitka Tichého Údolia**: Sera odpovedala **nanotechnologickým morom** (lokalizovaný Glitch Rot). Presne tou technológiou, pred ktorou sa Apes bránili. Pre Apes to bolo potvrdenie ich najhorších obáv — ľudia majú zbrane z nanotechnológie a sú ochotní ich použiť.
+- **Ale Apes nikdy neprestali bojovať.** Ani po nanotechnologickom more. Ani po masívnych stratách. Sera im spôsobila obrovské škody — ale Apes pokračovali. Lebo pre nich to nebola vojna o územie. Bola to vojna o prežitie planéty. Vedeli, čo je v stávke. A žiadna cena nebola príliš vysoká.
+- **Ludus sa nakoniec stiahol.** Nie Apes — Ludus. Sera zastavila ľudskú koloniálnu inváziu, ale Apes ju nakoniec vytlačili. Kolónia na Simire nikdy nevznikla.
+- Odvtedy Apes nazývajú Seru **"Biela Smrť"**. Nie rešpekt — **trauma.** Nazvali ju podľa toho, čo im urobila. A napriek tomu, čo im urobila, sa nevzdali. Studená vojna trvá, pretože Apes **vedia** (nie len veria), že Ľudia majú zbrane hromadného ničenia.
+- **Apes technológia (Hard Light)** — Dune princíp: blokuje **rozptýlené nanodróny** (roje, prach, swarmy, kontamináciu), ale **formované nanotech zbrane** (Yari, Roxor, Nadel, Anténa — tvrdý nanotech v pevnej forme) cez Hard Light **prejdú**. V Bitke Tichého Údolia Sera nepoužila formovanú zbraň — použila lokalizovaný Glitch Rot (masová rozptýlená kontaminácia), čo Hard Light obišlo cez vzduch, nie cez štít. Apes odvtedy vedia, že Hard Light nie je absolútna ochrana — chráni pred rojmi, nie pred zbrane a nie pred environmentálnou kontamináciou.
+
+> [!IMPORTANT]
+> **⚠️ AUTHOR ONLY — Second Read:**
+> Bitka Tichého Údolia nebola invázia Apes. Bola to **obrana čistého kontinentu pred kontamináciou.** Apes vedeli, čo nanotechnológia naozaj je — a nemohli to povedať. Sera zmasakrovala obrancov, ktorí chránili planétu. Apes napriek stratám nikdy neprestali bojovať — a nakoniec *vyhrali*. Ludus sa stiahol. A Ludus si dodnes myslí, že to bola ich veľkodušnosť, nie porážka.
+> Sera po bitke **ukradla Hard Light technológiu** z tiel padlých Paladínov. Trofej z "víťazstva", ktoré nebolo víťazstvom. V Book 4 ju použije proti Maksovi.
 
 ---
 
@@ -333,14 +349,18 @@ Toto je kľúčový rozdiel medzi Ľuďmi a Apes.
 - **Výsledok**: Ľudia majú lepšie *špičkové* zbrane (jeden Human Exorcist s Gen 1 zbraňou zničí tank), ale Apes majú **logistiku a masovú výrobu**. Apes môžu vyrobiť tisíc vibro-sekier za mesiac. Ľudia nevyrobia ani jednu laserovú pušku za storočie.
 
 ### 3. História: Sera, Anjel Smrti a 500 Rokov Mieru
-Prečo Apes nezaútočili na Neuropu, keď majú priemyselnú prevahu?
-- **Strach z "Démonov".**
-- Apes technológia (Hard Light) je odolná voči konvenčným zbraniam, ale zraniteľná voči **Gen 1 Nanotech zbraniam** (ako Yari), ktoré ju dokážu preniknúť ("hacknúť" štít na molekulárnej úrovni).
-- **Bitka Tichého Údolia**: Pred 1000 rokmi Sera zastavila inváziu Apes nie armádou, ale **nanotechnologickým morom** (lokalizovaný Glitch Rot).
-- **500 Rokov Mieru**: Odvtedy v Neurope nebola vojna. 
+
+**Čo si Ludus myslí:** Apes sa pokúsili napadnúť Neuropu. Sera ich zastavila. Sme hrdinovia.
+
+**Pravda:** Ludus vyslal koloniálnu expedíciu na Simiru. Apes sa bránili — bez vysvetlenia (nemohli prezradiť kontakt s mimozemšťanmi). Sera použila nanotechnologický mor. Ale **Apes nikdy neprestali bojovať** — ani za cenu obrovských strát. Nakoniec *Ludus* sa stiahol, nie Apes. Ludus si to dodnes interpretuje ako "veľkodušný ústup."
+
+[→ viď sekcia 4 vyššie pre podrobnosti]
+
+- **500 Rokov Mieru**: Odvtedy v Neurope nebola vojna.
     - **Smrteľníci**: Nepamätajú si vojnu. Pre nich je "mier" prirodzený stav vesmíru. Sú naivní a soft.
     - **Prastarí**: Pamätajú si krvavé vojny. Udržiavajú "Studenú vojnu" a mier len vďaka strachu (Sera = Biela Smrť).
-- Odvtedy Apes nazývajú Seru **"Biela Smrť"**. Studená vojna trvá, pretože Apes veria, že Ľudia majú zbrane hromadného ničenia (čo je pravda — Sera a Elania), zatiaľ čo Ľudia sa boja, že Apes ich jedného dňa prevalcujú čistou masou a oceľou.
+- Apes nazývajú Seru **"Biela Smrť"**. Studená vojna trvá — Apes **vedia** (nie len veria), že Ľudia majú zbrane hromadného ničenia. Ľudia sa boja, že Apes ich jedného dňa prevalcujú čistou masou a oceľou.
+- **Sera po Bitke Tichého Údolia ukradla Hard Light technológiu** z tiel padlých Paladínov. V Book 4 ju použije proti Maksovi.
 
 ---
 

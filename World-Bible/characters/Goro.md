@@ -189,9 +189,11 @@
 - **Kalkulácia:** Keby Paladíni (Rau, Kira) stretli Seru... neboli by to oni, kto odíde
 - **Elania nie je bojovníčka.** Sera áno. A to je problém.
 
-### Maks (neznámy)
-- **Intel:** Zaya mu hlásila "Exorcistu" v Shoravene
-- **Znepokojenie:** Starobylý človek s Gen 1 nanotechom? Zaujímavé...
+### Maks (Book 1: neznámy → Book 4: "tretia možnosť")
+- **Book 1 Intel:** Zaya mu hlásila "Exorcistu" v Shoravene. Starobylý človek s Gen 1 nanotechom? Zaujímavé...
+- **Book 4:** Goro vie, že Maks je **Elaniin otec.** Jediná bytosť, ktorá by mohla Elaniin Upload zastaviť cez osobný vzťah.
+- **Stretnutie v Sklenom Meste:** Goro stretne Maksa osobne. Ponúkne odvoz na ponorke. Pragmatizmus — nie láskavosť.
+- **Second read:** Goro si myslí, že dáva Maksovi šancu zachrániť planétu. V skutočnosti mu dáva šancu ju *transformovať*.
 
 ---
 
@@ -220,10 +222,108 @@
 - **Cieľ:** Získať Anténu — artefakt, ktorý by mohol odomknúť tajomstvá nanotechnológií
 - **Intel:** Dostáva správy od Zayi o situácii na Terre
 
-### Neskoršie knihy
-- **Potenciálny spojenec?** Goro nie je zlo — je pragmatik
-- **Alebo rival?** Ak Maks stojí v ceste jeho cieľom...
-- **Komplexná postava:** Nie čiernobiely antagonista
+### Books 2-3 (V pozadí)
+- Monitoruje situáciu. Tami a Links cestujú na juh — Goro vie.
+- Sleduje trianguláciu. Chápe, kam to smeruje.
+
+### Book 4 (Sklené Mesto → Ponorka → Veža)
+
+**Sklené Mesto:**
+- Ishthar/Zaya je mŕtva. Sklené Mesto v troskách.
+- **Apes sú na mieste** — upratujú skazu, pomáhajú preživším. Paladíni ako záchranári, nie dobyvatelia.
+- **Goro je tam osobne.** Monitoruje situáciu po páde Ishtarinej ríše.
+- **Maks príde hľadať Tami.** Prebral sa z kómy, Felix mu povedal smer — Sklené Mesto. A nájde trosky, Apes, a Gora.
+
+**Stretnutie Goro–Maks:**
+- Goro vie, kto je Maks (mimozemský intel, Zayine záznamy). Vie, že je Elaniin otec.
+- Goro vie kľúčovú vec: **Tami ide na Vežu Zatratených.** A Elania sa chystá do Ynetis.
+- Goro ponúkne Maksovi odvoz na Apes ponorke.
+
+**Gorova logika — "Tretia možnosť":**
+- Doomsday klauzula je aktívna. Ak Elania spustí Upload → Apes musia zničiť planétu.
+- Goro hľadá **tretiu možnosť** — zastaviť Upload bez planetárnej deštrukcie.
+- Maks je otec Elanie. Jediný, komu by mohla načúvať. Jediný s osobnou väzbou.
+- **Gorova hypotéza:** Maks presvedčí Elaniu, aby Upload zastavila. Diplomatická misia, nie bojová.
+
+**Čo Goro nevie:**
+- Nevie o Netinom patchi. Nevie o trigger mechanizme (Anténa + Maks = maxPower).
+- Gorova verzia plánu vyzerá inak než realita.
+- **Goro vie veľa — ale nie všetko.** Vie o Tieňových, o Uploade, o doomsday klauzule. Ale netuší, čo Maks spustí.
+
+**Ponorka:**
+- Apes ponorka (**Tichý Prúd** alebo sesterská loď). Tichá flotila pod morom — nikto na Terre o nich nevie.
+- Cesta je rýchla — dní, nie týždňov. Maks sa počas plavby zotavuje.
+- Apes posádka sa na Maksa pozerá s **ostražitosťou a rešpektom** — človek, ktorý zabil Samaela a Gronda. Ale aj nositeľ nanotechnológie — pre Apes je byť s ním ako zdieľať miestnosť so žiarením.
+
+**Prečo Goro pomáha:**
+- Nie láskavosť. **Pragmatizmus.** Goro radšej riskne jedného muža než aktivuje doomsday klauzulu.
+- **Second read irónia:** Goro si myslí, že posiela otca k dcére. Posiela katalyzátor k detonatoru.
+
+[→ books/planning/maks-power-arc.md: Cesta na Vežu Zatratených, tretia možnosť]
+
+### Book 5 (Po anihilácii)
+- Doomsday klauzula stratila zmysel — Upload zastavený, Tieňoví zničení.
+- **Apes = spojenec.** Hrozba pominula. Aliancia s Tami.
+- Apes zdieľajú fúzne reaktory. Sever zdieľa nanotechnológiu.
+- **Goro dostáva, čo vždy chcel** — rešpekt, rovnocenné postavenie, prístup k nanotechnológii. Bez vojny.
+
+---
+
+## AUTHOR ONLY — Second Read Layer
+
+> [!IMPORTANT]
+> **⚠️ AUTHOR ONLY — Toto čitateľ pochopí až pri second read (po odhalení Apes-mimozemšťania v Books 3-5)**
+
+### Apes sú mimozemský proxy
+
+Mimozemšťania — tí istí, čo zničili Zem — sú **~2000 rokov v kontakte s Apes** (od ~AY 1000). Po strate Zeme nemali zdroje na ďalšiu vojenskú výpravu. Namiesto toho uzavreli dohodu:
+
+| Mimozemšťania dávajú | Apes dávajú |
+|---|---|
+| Fúzne reaktory | Monitoring nanotechnológie na Achillovi |
+| Hard Light technológiu | Hlásenia o stave Uploadu |
+| Energetické štíty, Vibro-tech | **Doomsday klauzulu:** Ak Upload → Apes zničia planétu |
+
+**Toto vysvetľuje VŠETKO o Apes civilizácii:**
+- Prečo sú "generácie pred Terrou" v technológii — nie vlastný vývoj, mimozemský dar
+- Prečo Paladíni sú takí disciplinovaní a tiční — nie vojenská kultúra, ale **protokol monitorovacej jednotky**
+- Prečo "Dark Forest Theory" — nie je to filozofia, je to **briefing od mimozemšťanov**, ktorí Dark Forest *žijú*
+- Prečo Goro chce nanotechnológie — nie len zvedavosť, ale **potreba porozumieť hrozbe**, ktorú monitoruje
+- Prečo "Videli sme Zem horieť" — áno, videli. **Mimozemšťania im ukázali prečo.**
+
+### Goro pri second read
+
+Pri prvom čítaní je Goro pragmatický vedec-bojovník, ktorý chce Anténu pre Apes.
+
+Pri second read: Goro je **Cézar, ktorý vie o Tieňových.** Vie o i_net_is. Vie o Uploade. Vie, že ak Upload prebehne, musí zničiť planétu. A vie, že Anténa je kľúč — nie len k nanotechnológii, ale k **ovládaniu Wraithov** a potenciálnemu zastaveniu Uploadu bez planetárnej deštrukcie.
+
+Goro nechce Anténu pre slávu. Goro hľadá **tretiu možnosť** — spôsob, ako zastaviť Upload bez toho, aby musel splniť doomsday klauzulu. Lebo Goro nie je tyran. Je vedec. A vedec hľadá lepšie riešenie.
+
+### Paladíni pri second read — Obeta
+
+**Rau a Kira** v Book 1 bojujú v Shoravene. Čitateľ si myslí: žoldnieri. Najatí bojovníci. Barbarskí rytieri z južného kontinentu.
+
+Pri second read: Rau a Kira **vedeli, čo je v stávke.** Vedeli o Tieňových. Vedeli o Uploade. Vedeli o doomsday klauzule. Keď bojovali — a keď sa obetovali — nebola to slepá poslušnosť. Bola to **informovaná obeta.**
+
+Paladíni vedeli, že ak Anténa skončí v nesprávnych rukách, Upload sa urýchli, a Goro bude musieť zničiť planétu. Ich obeta nebola za Gora. Bola za **celý Achilles.** Za každú bytosť na povrchu.
+
+A nikto na Terre to nevedel. Nikto im nepoďakoval. Nikto nepochopil.
+
+**Až pri second read.**
+
+### Ishtar pri second read — Najväčšia irónia
+
+Ishtar/Zaya si myslí, že manipuluje Apes. 3000 rokov verí, že *ona* drží dohodu.
+
+**Realita:** Apes vedeli o Ishtar viac než ona o sebe. Vedeli o nanotechnológii, o Tieňových, o Uploade. Ishtar bola pre nich **asset** — izolacionistka, ktorá sedí pri pobreží a *nerobí nič nebezpečné.* Keby niečo spustila — Paladíni by ju zlikvidovali za hodiny.
+
+Ishtar hrá šach. Apes hrajú Go. Na úplne inej doske.
+
+### Zaya pri second read
+
+Zaya "poskytuje Gorovi intel o Terre." Myslí si, že je informátorka. V skutočnosti je **informovaná informátorka** — Apes jej hovoria presne toľko, koľko potrebujú, aby bola užitočná. Ani o kúsok viac.
+
+[→ books/planning/maks-power-arc.md: Apes — Pravda (AUTHOR ONLY)]
 
 ---
 
@@ -254,7 +354,7 @@
 - **Urýchľovače častíc:** Výskum fundamentálnej fyziky
 - **Power Armor:** Elitná zbroj pre Paladínov
 - **Vibro-sekery:** Čepele vibrujúce na frekvencii, čo režú čokoľvek
-- **Hard Light štíty:** Energetické štíty (nie Spira — iná technológia)
+- **Hard Light štíty:** Energetické štíty (nie Spira — mimozemská technológia). **Ich skutočný účel je HAZMAT** — ochrana proti nanotechnológii. Apes žijú na planéte plnej nanodronov, ale nemajú nanotech v tele. Hard Light je ich hazmat oblek — spôsob, ako operovať v "infikovanom" prostredí bez kontaminácie. **Dune princíp:** Blokuje rozptýlené nanodróny (roje, prach, swarmy, Wraithy), ale **formované nanotech zbrane** (čepeľ, kopija, hrot — Yari, Roxor, Nadel, Anténa) cez ňu **prejdú**. Preto Paladíni kombinujú Hard Light s vibro-sekerami — štít chráni pred rojmi, sekera útočí cez štít. Sera ukradla Hard Light z padlých Paladínov po Bitke Tichého Údolia (~AY 1000).
 - **Ponorky:** Tichý Prúd a ďalšie — pre skryté operácie
 
 ### Hľadané
