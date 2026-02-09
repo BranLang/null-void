@@ -453,7 +453,7 @@ Links prikývol.
 
 „Informácie," povedal Links. „Hľadám niekoho, kto rozumie technike."
 
-„Choď do krčmy U Slepej Morskej Panny." Mezra ukázal prstom do bočnej uličky. „Na nástenke je všetko, čo nový v meste potrebuje. Pracovné ponuky, kontakty, inzeráty. A barman vie o všetkých, čo tu robia."
+„Choď do krčmy U Slepej Panny." Mezra ukázal prstom do bočnej uličky. „Na nástenke je všetko, čo nový v meste potrebuje. Pracovné ponuky, kontakty, inzeráty. A barman vie o všetkých, čo tu robia."
 
 „Ďakujem."
 
@@ -463,7 +463,7 @@ Links prikývol.
 
 ---
 
-## Časť VII: U Slepej Morskej Panny
+## Časť VII: U Slepej Panny
 
 [→ characters/Sera.md: kresba, emocionálna manipulácia, Grand Design]
 [→ characters/Tami.md: Líška, Bitka o Šoraven, pirátska princezná]
@@ -503,6 +503,8 @@ Rybí baliaci papier. Uhlík. Materiály za dva groše. Ale to, čo na nich bolo
 A ten úsmev. Drzý, sebavedomý, nebezpečný. Úsmev bytosti, ktorá vie, že je najnebezpečnejšia osoba v miestnosti, a baví ju to.
 
 Pod kresbou, elegantným písmom: **„TAMI — PIRATE PRINCESS"**
+
+![Tami — Pirate Princess](../../../../assets/characters/Tami/tami-ecchi.png)
 
 Links cítil, ako sa mu do líc hrnie horúčava. V Neurope bolo umenie funkčné, sterilné, abstraktné. Geometrické vzory na stenách. Harmonické frekvencie v hudobných izbách. Nič takéto. Nič, čo by vyzeralo ako... *toto*.
 

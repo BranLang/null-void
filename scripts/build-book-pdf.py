@@ -36,7 +36,6 @@ BOOK_CHAPTERS = {
         'main-arc/02-dead-bells.md',
         'main-arc/03-tunnels.md',
         'main-arc/04-elanias-blade.md',
-        'main-arc/04-mother-and-fire.md',
         'main-arc/04.1-interlude-glass-city.md',
         'links-arc/01-golden-cage.md',
         'links-arc/02-frozen-bridge.md',
@@ -204,7 +203,7 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
     parts = []
 
     # Title page with cover
-    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-sleeper.png').resolve()
+    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-inetis.png').resolve()
     if cover_path.exists():
         parts.append(f'<div style="text-align:center; margin-top:0; padding:0;">\n')
         parts.append(f'<img src="file://{cover_path}" style="max-width:100%; max-height:85%; margin:0 auto;" />\n')
