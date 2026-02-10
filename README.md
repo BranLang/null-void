@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![World Map](World-Bible/assets/maps/map-canon.png)
+![World Map](World-Bible/assets/maps/map-achilles.jpeg)
 
 *The known world of Achilles — four continents, each hiding its own secrets.*
 
@@ -63,11 +63,11 @@ Nobody knows this. Except one man who just woke up.
 
 ## The Story
 
-### Book 1: *Prach Achilla* (Dust of Achilles)
+### Book 1: *Prach Nevriss* (Dust of Nevriss)
 
 <div align="center">
 
-![Tami over Shoraven](/World-Bible/assets/characters/Tami/tami-soraven.jpeg)
+![Tami](/World-Bible/assets/characters/Tami/tami-canon.png)
 
 </div>
 
@@ -98,7 +98,7 @@ Human soldier. 3,000 years displaced. Eyes of black nanodust. Pragmatic, laconic
 </td>
 <td width="25%" align="center">
 
-![Tami](World-Bible/assets/characters/Tami/tami_magic2.png)
+![Tami](World-Bible/assets/characters/Tami/image.png)
 
 **Tami**<br/>
 *The Fox*<br/>
