@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![NULL VOID: Prach Achilla](World-Bible/assets/books/book-1-cover-sleeper.png)
+![NULL VOID: Prach Achilla](World-Bible/assets/books/book-1-cover-inetis.png)
 
 **An anime-dieselpunk grimdark novel set on a super-Earth where nanotechnology is mistaken for magic, prayers are code, and ghosts are just nanobots that chose to survive.**
 
