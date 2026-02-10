@@ -1,7 +1,10 @@
 # Concept: The Weeping Chapel (Inetis Statue Reveal)
 
-**Intended for:** Later Arc (Book 2/3) - Return to Shoraven or a deeper exploration of the Old World.
-**Context:** Maks discovers the *true* nature of Inetis, hidden by the Church.
+> **⚠️ PRESUNUTÉ DO BOOK 4:** Scéna presúva sa z Shoraven/Kito do **Nyau/Maks sám**. V Nyau kostol uctievajú dcéru (Elaniu) namiesto matky (Inetis). Maks objaví sochu a pochopí: Inetis = jeho žena, Elania = jeho dcéra. Kito zostáva v Shoravene.
+> [→ books/planning/maks-power-arc.md: Fáza 2 — Nyau: Kostol a socha]
+
+**Intended for:** ~~Later Arc (Book 2/3) - Return to Shoraven~~ **Book 4 — Nyau, cestou na juh**
+**Context:** Maks discovers the *true* nature of Inetis, hidden by the Church. **+ discovers Elania exists (his daughter).**
 
 ---
 

@@ -17,7 +17,6 @@
 *   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Makita*.
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
-    *   Maks hrá "Turistu" na colnici - používa humor ako masku.
     *   Tami vybavuje opravu u miestneho Maka.
 
 ### Interlúdium: Ďaleko od Snehu (Hotovo)
@@ -32,7 +31,6 @@
     *   Kito spoznáva Maksa ako "Spáča".
     *   Graw spúšťa ostreľovanie mesta.
     *   Útek do kanalizácie ("Črevá").
-    *   **Flashback 1:** Maksovo prebudenie v kryo-tekutine (iniciované pádom do splaškov).
 
 ### Kapitola 3: Elaniiná Čepeľ (Hotovo)
 **Súbor:** `drafts/main-arc/03-elanias-blade.md`

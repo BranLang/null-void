@@ -197,23 +197,85 @@ Nie dramaticky. Potichu. Akoby sa vrátil z dlhej cesty.
 - Mentálne jasný — kóma nebola prázdnota. Sníval. O Kyjeve. O kaviarne.
 - **Vie, čo musí urobiť** — vojak cíti, keď sa blíži bitka
 
-### Cesta na Vežu Zatratených — Sklené Mesto → Goro → Ponorka
+### Cesta z Kitsune na Vežu Zatratených
 
-**Maks sa preberie. Hľadá Tami.**
+#### Fáza 1 — List a odchod z Kitsune
 
-Prvá vec po prebudení z kómy: *"Kde je?"* Myslí Tami. Felix mu povie — posledné čo vie: Tami odišla na juh. Smer Sklené Mesto (Ishtarino sídlo na pobreží Simiry).
+Maks sa preberie. Felix mu podá **list od Tami.**
 
-**Maks ide do Skleného Mesta.** A nájde:
+Tami mu zanechala list pred odchodom — píše o snoch, o tom, čo videla, o tom, kam ide. Maks ho prečíta. Má veľa otázok. Pred smrťou — pred Nocou hrdinov — videl Taminy **fialové oči**. Niečo sa s ňou dialo. A teraz je preč.
+
+**Maks ide hľadať Tami.** Vojak, ktorý sa prebral z kómy, nemá čas na rekonvalescenciu. Ide cez **Nyau** — zoberie si loď smerom na juh. Nemá vzducholoď. Nemá posádku. Len seba a rozhodnutie.
+
+#### Fáza 2 — Nyau: Kostol a socha (Mini Arc)
+
+Maks prejde cez **Nyau** — prístavné mesto, kde sa zastaví pred cestou na juh. A v Nyau nájde niečo, čo ho zastaví.
+
+**Kostol v Nyau:** Nie je to Chrám Matky ako v Shoravene. Nyau je ďaleko od centra Cirkvi — tu veria po svojom. A v miestnom kostole Maks objaví kľúčový rozdiel:
+
+**V Nyau neuctievajú matku. Uctievajú dcéru.**
+
+Sochy, modlitby, ikonografia — všetko smeruje k **Elanii**, nie k Inetis. Na okraji sveta, ďaleko od Cirkvi, ľudia veria v dcéru bohyne — tú, čo žije na juhu, na Veži Zatratených. *"Dcéra Matky, ktorá čaká v tme."*
+
+A Maks stojí pred sochou a pochopí dve veci naraz:
+1. **Inetis — ich bohyňa — bola jeho žena.** Tvár, ktorú videl naposledy cez námrazu kryoboxu. Tá istá tvár, čo kľačí v blate na sochách po celom kontinente. Biele vlasy. Fialové oči. *Ona.*
+2. **Má dcéru.** Elania. Žije. Na Veži Zatratených.
+
+**Emocionálny dopad:** Maks celý Book 1 nenávidel "bohyňu" — abstraktný koncept, Cirkev, náboženstvo. A teraz stojí v malom kostole v Nyau a díva sa na sochu ženy, ktorú miloval. A na sochu dcéry, o ktorej nevedel.
+
+> [!NOTE]
+> **Presun z Book 1:** Pôvodne Maks + Kito objavili pravú sochu Inetis pod Chrámom v Shoravene (→ `archive/04-kaplnka-original.md`, `scene-inetis-statue-reveal.md`). Tento moment sa presúva do Book 4 — Maks sám, v Nyau, iný kontext. **Kito zostáva v Shoravene** — neputuje s Maksom. Scéna mení funkciu: v Book 1 by bola reveal o Inetis. V Book 4 je reveal o **Elanii** — a o tom, že Maks je otec.
+
+[→ concepts/scene-inetis-statue-reveal.md: pôvodný draft — adaptovať pre Nyau]
+[→ archive/04-kaplnka-original.md: archivovaný Shoraven draft]
+
+#### Fáza 3 — Stretnutie na mori
+
+Maks opustí Nyau na lodi smerom na juh. Na otvorenom mori jeho loď **stretne obchodnú loď z Nevriss.** Lode prechádzajú vedľa seba.
+
+Maks sa spýta: *"Nevideli ste náhodou líšku s modrými očami?"*
+
+A na jeho prekvapenie — odpoveď je áno.
+
+> *"Líška s modrými očami? To je nová Matka."*
+
+**Maks skočí do vody.** Nikto kvôli nemu nemení kurz. Pláva k nevrisskej lodi sám. Skoro sa utopí — telo po kóme nie je v stave na plávanie v otvorenom mori. Vytiahnu ho na palubu. Promočený, vychudnutý, s čiernymi očami z Prachu. Posádka sa pozerá na neho s hrôzou a zvedavosťou.
+
+Na palube mu porozprávajú, čo sa stalo za roky jeho kómy. Tami je **nová Matka Nevriss** — líder, nie pirátka. Fialové oči, biele vlasy, viedla expedície, zmenila kontinent.
+
+Maks im povie, že **pozná Matku osobne.** Ide pre ňu do Skleného Mesta.
+
+Kapitán mu vysvetlí: *"Matka šla do Skleného Mesta. Na juh."*
+
+A tu sa niečo zmení. Posádka počúva. Muž, ktorý pozná novú Matku *osobne*. Ktorý ide za ňou. A ktorý sa pravdepodobne vráti *s ňou*. Nevrisská loď bude tá, čo privezie Matku späť. **Odmena. Sláva. Zlato.** Posádka začne počítať — kto privezie Matku domov, ten bude hrdina Nevriss. Kapitán to vidí v očiach mužstva.
+
+**Nevrisská loď zmení kurz.** Nie z láskavosti. Z **chamtivosti a ambície**. Smer: Sklené Mesto.
+
+> **Irónia:** Maks sa dostal na loď, lebo skočil do vody. A loď zmenila kurz, lebo posádka videla zlato. Vojak a obchodníci — rôzne motivácie, rovnaký smer.
+
+#### Fáza 3 — Sklené Mesto
+
+Maks dorazí do Skleného Mesta. A nájde:
 - **Ishtar/Zaya je mŕtva.** Sklené Mesto je v troskách — polorozpadnuté, spálené, zdevastované.
-- **Apes sú tam.** Upratujú skazu. Pomáhajú preživším. Paladíni v plnej zbroji — nie ako dobyvatelia, ale ako záchranári. Prvýkrát Maks vidí Apes naživo.
-- **Goro je tam osobne.** Cézar Apes monitoruje situáciu.
+- **Apes sú tam.** Upratujú skazu. Pomáhajú preživším. Paladíni v plnej zbroji — nie ako dobyvatelia, ale ako **záchranári**. Prvýkrát Maks vidí Apes naživo.
+  - **Prečo Apes upratujú?** Sklené Mesto bolo Ishtarino sídlo — kľúčový monitorovací bod pre Apes. Zaya bola ich informátorský asset. S jej smrťou stratili oči na pobreží. Apes nie sú tu z dobročinnosti — sú tu kvôli **intelu, artefaktom a monitoringu**. Ale Goro nariadil aj pomoc civilistom — **je vedec, nie tyran.** Ukazuje, že Apes sú schopní viac než vojny.
+- **Goro je tam osobne.** Cézar Apes monitoruje situáciu po páde Ishtarinej ríše.
+- **Tami tu už nie je.** Odišla ďalej — na **Vežu Zatratených** (tretí bod triangulácie).
 
-**Goro a Maks sa stretnú.** Goro vie, kto je Maks (mimozemský intel, záznamy, Zayine hlásenia). A Goro vie kľúčovú informáciu: **Tami ide na Vežu Zatratených.**
+#### Fáza 4 — Goro a Maks
 
-**Goro ponúkne odvoz:**
-- *"Vaša dcéra ide do Veže Zatratených. A vaša... druhá dcéra... sa chystá do Ynetis. Ponúkam vám odvoz."*
-- Maks: *"Prečo?"*
-- Goro: *"Lebo alternatíva je horšia pre všetkých."*
+**Goro a Maks sa stretnú.** Goro vie, kto je Maks (mimozemský intel, záznamy, Zayine hlásenia). Maks nevie nič o Gorovi — vidí gorilu v laboratórnom plášti, obklopenú Paladínmi, a nechápe, čo sa deje.
+
+**Goro ponúkne odvoz na ponorke.** Vie, kam Tami ide. Vie, kam ide Elania. A vie, že Maks je kľúč.
+
+Maks **už vie o Elanii** — z Nyau (socha, kostol). Ale nevie detaily. Goro mu povie zvyšok:
+- Elania chce spustiť **Veľký Upload** — proces, ktorý by zmenil celú planétu
+- Ak Upload prebehne → Apes musia zničiť Achilles (doomsday klauzula)
+- **Maks je jediný, kto ju môže zastaviť** — cez osobný kontakt, otcovský vzťah
+
+> Goro: *"Generál. Vašu dcéru som nikdy nestretol. Ale viem, čo chce urobiť. A viem, čo to bude stáť. Ponúkam vám odvoz."*
+> Maks: *"Prečo by som mal veriť opici?"*
+> Goro: *"Lebo alternatíva je horšia pre všetkých. Aj pre opice."*
 
 **Gorova logika:**
 - Doomsday klauzula je stále aktívna. Ak Elania spustí Upload → Apes musia zničiť planétu.
@@ -226,7 +288,13 @@ Prvá vec po prebudení z kómy: *"Kde je?"* Myslí Tami. Felix mu povie — pos
 - Gorova verzia plánu vyzerá inak: **Maks presvedčí Elaniu, aby Upload zastavila.** Diplomatická misia, nie bojová.
 - **Goro vie veľa — ale nie všetko.** Vie o Tieňových, o Uploade, o doomsday klauzule. Ale netuší o Netinom patchi, o Wraith beacone, o tom, že Maks sa stane maxPower. To je mimo jeho výpočtov.
 
-**Ponorka:**
+**Čo Maks nevie:**
+- O Elanii sa dozvie **v Nyau** (kostol, socha dcéry bohyne). Goro v Sklenom Meste doplní kontext — Upload, doomsday klauzula, urgencia.
+- Nevie, prečo mu Apes pomáhajú. Vojak cíti pascu — ale aj nutnosť.
+- Nevie o Netinom patchi. Nevie, čo sa stane pri kontakte s Anténou.
+
+#### Fáza 5 — Ponorka
+
 - Goro dá Maksovi odvoz na Apes ponorke (**Tichý Prúd** alebo sesterskú loď). Apes majú tichú flotilu pod morom — nikto na Terre o nich nevie.
 - **Cesta pod morom:** Ponorka je rýchlejšia než akákoľvek loď na hladine. Dní, nie týždňov. Maks sa počas plavby zotavuje — telo sa regeneruje (Netin patch + kóma recovery), ale je stále slabší než v Book 1.
 - Apes posádka sa na Maksa pozerá s **ostražitosťou a rešpektom** — vedia, kto je (Goro im povedal). Človek, ktorý zabil Samaela a Gronda. Ale aj nositeľ nanotechnológie — pre Apes je byť v ponorke s ním ako zdieľať miestnosť s žiarením.
@@ -410,7 +478,7 @@ Maks ju zabije. Absorbuje jej nanodróny. **Sera = kritická masa.**
 
 3200 rokov jedného bojového vedomia vstúpi do maxPower. A Maks prestáva byť človekom.
 
-**Serino posledné pochopenie:** Celý život chránila Elaniin rod pred svetom. A svet — cez Maksa — práve ukázal, že chce Elaniin rod *zachrániť*, nie zničiť. Sera zomiera s vedomím, že jej sľub bol splnený — ale nie ňou. Maksom. Otcom Elanie, ktorého nikdy nepoznala.
+**Serino posledné pochopenie:** Videla cyklón. Videla, ako Maks absorbuje to, pred čím sa svet triasol 3000 rokov. A vedela — s istotou, ktorú dávajú len tisícročia — že tento boj skončil. Nie preto, že prehrala. Preto, že **boj samotný stratil zmysel.** Sera zomiera s vedomím pragmatičky: urobila všetko, čo mohla. Zvyšok nie je na nej.
 
 ### Dramatická irónia — Tri vrstvy
 
@@ -585,11 +653,19 @@ So všetkými Wraithmi, ktoré absorboval. So Samaelom. S Grondom. So Serou. So 
 
 ### Elania v Core
 
-Elania je v Core. Spustila Upload. A potom sa dozvedela, že **Sera je mŕtva.** Zabitá Maksom. Posledná osoba, ktorá ju milovala. Posledná kotva.
+Elania je v Core. Spustila Upload.
+
+A potom **Maks vstúpi.**
+
+Žiadne slová. Žiadne vysvetlenie. Elania ho vidí — entitu z čierneho prachu, zaťaženú tisíckami cudzích vedomí. Sotva ľudského. Ale stojí tu. **A to stačí.**
+
+Ak je tu **tento muž** — Sera už nie je.
+
+Elania nepotrebuje, aby jej niekto povedal. Nepotrebuje hlásenie, echo, správu. Pozná Seru 2500 rokov. Sera by nikdy nepustila Maksa cez seba. Nikdy. Ak Maks stojí v Core, prešiel cez Vežu. A ak prešiel cez Vežu — **Sera ho nepustila. Sera zomrela.**
 
 2750 rokov. Helena mŕtva. Inetis mŕtva. A teraz Sera. Zabila ju muž, ktorý je jej otcom. Muž, o ktorom sa celý život učila z matkiných spomienok, ale nikdy ho nestretla.
 
-A teraz stojí pred ňou. Nie ako muž. Ako **entita z čierneho prachu**, zaťažená tisíckami cudzích vedomí. Sotva ľudský. Ale stále — niekde hlboko — jej otec.
+A teraz stojí pred ňou. Nie ako muž. Ako niečo iné. Ale stále — niekde hlboko — jej otec.
 
 ### Maks posiela Elaniu preč
 
@@ -889,7 +965,9 @@ Book 2: TAMI + Links (Maks v kóme, Taminy sny — hmlisté)
 Book 3: TAMI + Links (Maks v kóme, Taminy sny — konkrétnejšie)
          Triangulácia: Sklená Veža (2. bod)
 Book 4: Veža Zatratených (3. bod) — Tami dokončí trianguláciu
-         Maks sa preberie → hľadá Tami v Sklenom Meste → Apes upratujú skazu → Goro ponúkne odvoz na ponorke → Veža
+         Maks sa preberie → list od Tami → Nyau (kostol: socha dcéry = Elania existuje!)
+         Loď na juh → na mori stretne nevrisskú loď → "líška s modrými očami? To je nová Matka"
+         Maks skočí do vody → Sklené Mesto (trosky, Apes upratujú) → Goro (Upload, doomsday) → ponorka → Veža
          Sera má Hard Light Shield → poráža Tami aj Maksa (nanotech neprejde)
          Tami hodí Anténu (echo inštinkt) → formovaná zbraň PRERAZÍ Hard Light (Dune)
          "Chyť!" → KONTAKT = TRIGGER → Netin Patch sa aktivuje

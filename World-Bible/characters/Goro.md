@@ -230,20 +230,22 @@
 
 **Sklené Mesto:**
 - Ishthar/Zaya je mŕtva. Sklené Mesto v troskách.
-- **Apes sú na mieste** — upratujú skazu, pomáhajú preživším. Paladíni ako záchranári, nie dobyvatelia.
+- **Apes sú na mieste** — nie z dobročinnosti. Sklené Mesto bolo Zayino sídlo — **kľúčový monitorovací bod** pre Apes. Zaya bola ich informátorský asset. S jej smrťou stratili oči na pobreží. Apes sú tu kvôli **intelu, artefaktom a monitoringu**. Ale Goro nariadil aj pomoc civilistom — je vedec, nie tyran. Paladíni ako záchranári, nie dobyvatelia.
 - **Goro je tam osobne.** Monitoruje situáciu po páde Ishtarinej ríše.
-- **Maks príde hľadať Tami.** Prebral sa z kómy, Felix mu povedal smer — Sklené Mesto. A nájde trosky, Apes, a Gora.
+- **Maks príde hľadať Tami.** (Cesta: Kitsune → list od Tami → Nyau (kostol, socha = zistí o Elanii) → loď na juh → stretne nevrisskú loď na mori → "nová Matka" → Maks skočí do vody, dopláva sám → pozná Matku osobne → posádka zmení kurz z chamtivosti/ambície → Sklené Mesto.)
 
 **Stretnutie Goro–Maks:**
-- Goro vie, kto je Maks (mimozemský intel, Zayine záznamy). Vie, že je Elaniin otec.
+- Goro vie, kto je Maks (mimozemský intel, Zayine záznamy).
 - Goro vie kľúčovú vec: **Tami ide na Vežu Zatratených.** A Elania sa chystá do Ynetis.
 - Goro ponúkne Maksovi odvoz na Apes ponorke.
+- Maks sa o Elanii dozvie **v Nyau** (kostol, socha dcéry bohyne). Goro v Sklenom Meste doplní kontext — Upload, doomsday klauzula, urgencia.
 
 **Gorova logika — "Tretia možnosť":**
 - Doomsday klauzula je aktívna. Ak Elania spustí Upload → Apes musia zničiť planétu.
 - Goro hľadá **tretiu možnosť** — zastaviť Upload bez planetárnej deštrukcie.
 - Maks je otec Elanie. Jediný, komu by mohla načúvať. Jediný s osobnou väzbou.
 - **Gorova hypotéza:** Maks presvedčí Elaniu, aby Upload zastavila. Diplomatická misia, nie bojová.
+- Goro povie Maksovi o **Uploade a doomsday klauzule** — Maks už vie o Elanii (z Nyau), ale Goro doplní urgentný kontext. Gorova replika: *"Generál. Vašu dcéru som nikdy nestretol. Ale viem, čo chce urobiť. A viem, čo to bude stáť. Ponúkam vám odvoz."*
 
 **Čo Goro nevie:**
 - Nevie o Netinom patchi. Nevie o trigger mechanizme (Anténa + Maks = maxPower).
