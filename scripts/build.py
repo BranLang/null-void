@@ -5,9 +5,12 @@ Combines chapter markdown files into a single book-ready PDF.
 
 Uses export-clean-drafts.py to strip comments, then merges chapters
 into one markdown file and converts to PDF via md-to-pdf.
+Cover page is generated separately with zero margins (full bleed)
+and merged with the content PDF using PyPDF2.
 
 Requirements:
   npm install -g md-to-pdf
+  pip install PyPDF2
 
 Usage:
   python scripts/build-book-pdf.py
@@ -22,6 +25,8 @@ import re
 import base64
 import mimetypes
 from pathlib import Path
+
+import PyPDF2
 
 # Import strip_comments from sibling script
 sys.path.insert(0, str(Path(__file__).parent))
@@ -50,8 +55,8 @@ BOOK_CHAPTERS = {
     ],
 }
 
-# PDF styling
-BOOK_CSS = """
+# CSS for content pages (normal margins handled by @page)
+CONTENT_CSS = """
 @page {
   size: A5;
   margin: 20mm 18mm 25mm 18mm;
@@ -164,16 +169,44 @@ img {
   margin: 1.5em auto;
   page-break-inside: avoid;
 }
+"""
 
-/* Title page styling */
-.title-page {
-  text-align: center;
-  page-break-after: always;
+# CSS for cover page (full bleed, zero margins)
+COVER_CSS = """
+@page {
+  size: A5;
+  margin: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.cover-page {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.cover-page img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  object-position: center 15%;
+  display: block;
+  margin: 0;
+  padding: 0;
 }
 """
 
-# md-to-pdf front-matter config
-MD_TO_PDF_CONFIG = """---
+# md-to-pdf front-matter for content (normal margins + page numbers)
+CONTENT_MD_CONFIG = """---
 pdf_options:
   format: A5
   margin:
@@ -184,6 +217,20 @@ pdf_options:
   displayHeaderFooter: true
   headerTemplate: '<span></span>'
   footerTemplate: '<div style="width:100%;text-align:center;font-size:9pt;color:#555;font-family:Georgia,serif;"><span class="pageNumber"></span></div>'
+---
+
+"""
+
+# md-to-pdf front-matter for cover (zero margins, no header/footer)
+COVER_MD_CONFIG = """---
+pdf_options:
+  format: A5
+  margin:
+    top: 0mm
+    bottom: 0mm
+    left: 0mm
+    right: 0mm
+  displayHeaderFooter: false
 ---
 
 """
@@ -199,8 +246,28 @@ def img_to_base64_uri(img_path: Path) -> str:
     return f'data:{mime};base64,{b64}'
 
 
-def build_merged_markdown(book_name: str, books_dir: Path) -> str:
-    """Merge all chapter files into a single markdown string."""
+def build_cover_markdown(books_dir: Path) -> str:
+    """Build markdown for the cover page only."""
+    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-prach.jpeg').resolve()
+    if not cover_path.exists():
+        return ''
+    cover_b64 = img_to_base64_uri(cover_path)
+    print(f"  Cover: {cover_path.name}")
+    return f'<div class="cover-page">\n<img src="{cover_b64}" />\n</div>\n'
+
+
+def build_map_markdown(books_dir: Path) -> str:
+    """Build markdown for the map page only (full bleed)."""
+    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-achilles.jpeg').resolve()
+    if not map_path.exists():
+        return ''
+    map_b64 = img_to_base64_uri(map_path)
+    print(f"  Map: {map_path.name}")
+    return f'<div class="cover-page">\n<img src="{map_b64}" />\n</div>\n'
+
+
+def build_content_markdown(book_name: str, books_dir: Path) -> str:
+    """Merge all chapter files into a single markdown string (no cover, no map)."""
     chapters = BOOK_CHAPTERS.get(book_name)
     if not chapters:
         print(f"Error: Unknown book '{book_name}'", file=sys.stderr)
@@ -214,15 +281,6 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
 
     parts = []
 
-    # Title page with cover (base64-encoded for Puppeteer compatibility)
-    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-inetis.png').resolve()
-    if cover_path.exists():
-        cover_b64 = img_to_base64_uri(cover_path)
-        parts.append(f'<div style="text-align:center; margin-top:0; padding:0;">\n')
-        parts.append(f'<img src="{cover_b64}" style="max-width:100%; max-height:85%; margin:0 auto;" />\n')
-        parts.append(f'</div>\n\n')
-        print(f"  Cover: {cover_path.name}")
-
     for i, chapter_file in enumerate(chapters):
         src = drafts_dir / chapter_file
         if not src.exists():
@@ -233,6 +291,9 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
 
         # Strip comments
         clean = strip_comments(content)
+
+        # Remove map image (rendered as separate full-bleed page)
+        clean = re.sub(r'!\[.*?\]\([^)]*map-achilles[^)]*\)\n*', '', clean)
 
         # Convert image paths to base64 data URIs for Puppeteer compatibility
         def fix_img_path(match):
@@ -260,6 +321,18 @@ def build_merged_markdown(book_name: str, books_dir: Path) -> str:
     return ''.join(parts)
 
 
+def run_md_to_pdf(md_path: Path, css_path: Path) -> Path:
+    """Run md-to-pdf and return the generated PDF path."""
+    result = subprocess.run(
+        ['md-to-pdf', str(md_path), '--stylesheet', str(css_path)],
+        capture_output=True, text=True, timeout=120
+    )
+    if result.returncode != 0:
+        print(f"Error generating PDF:\n{result.stderr}", file=sys.stderr)
+        sys.exit(1)
+    return md_path.with_suffix('.pdf')
+
+
 def main():
     parser = argparse.ArgumentParser(description='Build book PDF from markdown chapters')
     parser.add_argument('--book', default='book-1-prach-nevriss',
@@ -277,43 +350,61 @@ def main():
 
     print(f"Building book: {args.book}\n")
 
-    # Merge chapters
-    merged = build_merged_markdown(args.book, books_dir)
+    # Build cover, map, and content markdown separately
+    cover_md = build_cover_markdown(books_dir)
+    map_md = build_map_markdown(books_dir)
+    content_md = build_content_markdown(args.book, books_dir)
 
-    # Add md-to-pdf config
-    final_md = MD_TO_PDF_CONFIG + merged
-
-    # Write merged markdown
+    # Write merged content markdown (for reference/--no-pdf)
+    content_with_config = CONTENT_MD_CONFIG + content_md
     md_output = export_dir / f"{args.book}.md"
-    md_output.write_text(final_md, encoding='utf-8')
+    md_output.write_text(content_with_config, encoding='utf-8')
     print(f"\nMerged markdown: {md_output}")
 
-    # Write CSS
-    css_output = export_dir / 'book-style.css'
-    css_output.write_text(BOOK_CSS, encoding='utf-8')
+    # Write CSS files
+    content_css_path = export_dir / 'book-style.css'
+    content_css_path.write_text(CONTENT_CSS, encoding='utf-8')
+    cover_css_path = export_dir / 'cover-style.css'
+    cover_css_path.write_text(COVER_CSS, encoding='utf-8')
 
     if args.no_pdf:
         print("Skipping PDF generation (--no-pdf)")
         return
 
-    # Generate PDF
-    pdf_output = args.output or str(export_dir / f"{args.book}.pdf")
-    print(f"Generating PDF: {pdf_output}")
+    pdf_output = Path(args.output) if args.output else export_dir / f"{args.book}.pdf"
 
     try:
-        result = subprocess.run(
-            ['md-to-pdf', str(md_output),
-             '--stylesheet', str(css_output)],
-            capture_output=True, text=True, timeout=60
-        )
-        if result.returncode != 0:
-            print(f"Error generating PDF:\n{result.stderr}", file=sys.stderr)
-            sys.exit(1)
+        # Generate cover PDF (zero margins, full bleed)
+        print("Generating cover PDF...")
+        cover_md_path = export_dir / '_cover.md'
+        cover_md_path.write_text(COVER_MD_CONFIG + cover_md, encoding='utf-8')
+        cover_pdf = run_md_to_pdf(cover_md_path, cover_css_path)
 
-        # md-to-pdf outputs to same dir with .pdf extension
-        generated = md_output.with_suffix('.pdf')
-        if generated.exists() and str(generated) != pdf_output:
-            generated.rename(pdf_output)
+        # Generate map PDF (zero margins, full bleed)
+        print("Generating map PDF...")
+        map_md_path = export_dir / '_map.md'
+        map_md_path.write_text(COVER_MD_CONFIG + map_md, encoding='utf-8')
+        map_pdf = run_md_to_pdf(map_md_path, cover_css_path)
+
+        # Generate content PDF (normal margins + page numbers)
+        print("Generating content PDF...")
+        content_md_path = export_dir / '_content.md'
+        content_md_path.write_text(content_with_config, encoding='utf-8')
+        content_pdf = run_md_to_pdf(content_md_path, content_css_path)
+
+        # Merge: cover + map + content
+        print("Merging PDFs...")
+        merger = PyPDF2.PdfMerger()
+        merger.append(str(cover_pdf))
+        merger.append(str(map_pdf))
+        merger.append(str(content_pdf))
+        merger.write(str(pdf_output))
+        merger.close()
+
+        # Clean up temp files
+        for f in [cover_md_path, cover_pdf, map_md_path, map_pdf,
+                   content_md_path, content_pdf, cover_css_path]:
+            f.unlink(missing_ok=True)
 
         print(f"\nDone! PDF: {pdf_output}")
 

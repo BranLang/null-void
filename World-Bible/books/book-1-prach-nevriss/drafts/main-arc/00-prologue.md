@@ -1,5 +1,5 @@
 
-![World](../../../../assets/maps//map-winter.png)
+![World](../../../../assets/maps/map-achilles.jpeg)
 
 
 # Prológ
