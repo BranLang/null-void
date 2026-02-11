@@ -8,12 +8,12 @@
 
 **Renn nebol Vulpini.** Bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživších, ktorí prišli na ARK-11 (učitelia, lekári, "turisti"). Rovnaká generácia ako Sera.
 
-> **Meno:** Old Norse pôvod — *swift* (rýchly), *runner* (bežec), *counsel* (rádca). Celý jeho arc v jednom slove: celý život utekal (runner), a celý život počúval Inetis v najťažších chvíľach (counsel).
+> **Meno:** Old Norse pôvod — *swift* (rýchly), *runner* (bežec), *counsel* (rádca). Celý jeho arc v jednom slove: celý život utekal (runner), a celý život počúval Inetis v najťažších chvíľach (counsel). A ma najrychlejsiu vzducholod.
 > **Dcéra:** **Tami Rennsdóttir** — islandský patronymický systém. Otcovo meno v mene.
 
 ### Čo to znamená pre Renna:
 - Mal **Gen 1 + Gen 2** nanoboty (dostal "Prvý Dar" od Inetis, ako všetci z jej tímu)
-- **Nepraktizoval vampirizmus** → Gen 1 nanoboty degradovali za 3000 rokov
+- **Nepraktizoval vampirizmus od narodenia Tami** → Gen 1 nanoboty degradovali za 3000 rokov
 - Postupne slabol, starol, stratil schopnosti
 - Nakoniec vyzeral ako normálny muž — nikto by nepovedal, že je človek zo Zeme
 - Preto ho piráti zabili tak ľahko — už nebol ten, čo býval
@@ -29,7 +29,7 @@
 
 ### Renn ako hľadač pokladov:
 - Renn bol **veľmi úspešný hľadač pokladov** — nie šťastím, ale tým, že **vedel kde hľadať**
-- Poznal Achilles z doby, keď bol svet ešte mladý — vedel o miestach, ruinách, úkrytoch
+- Poznal Achilles z doby, keď bol svet ešte mladý — vedel o miestach, ruinách, úkrytoch, stratenych mestach.
 - **Mapa, ktorú Tami zdedila** — Renn ju **kúpil**, lebo to bola **jeho vlastná mapa**, ktorú nakreslil pred stovkami/tisíckami rokov
 - Niekto ju medzitým našiel, predával ju — a Renn ju kúpil späť. **Sentimentálna hodnota.**
 - Pre Tami je to "otcova mapa". Netuší, že ju nakreslil sám Renn dávno pred jej narodením.
@@ -71,20 +71,20 @@
 
 ### Vie:
 - Jej otec **bol človek** (zo Zeme) — Renn jej to povedal
+- rozpraval jej sagy z Islandu
 - To je asi tak všetko
 
 ### Nevie:
 - Detaily o otcovom pôvode (človek zo Zeme, ARK-11, Gen 1+2 nanoboty)
-- Prečo mal modré oči (len vie, že ich zdedila po ňom)
 - Čo sa stalo s matkou (len vie, že zomrela keď bola malá)
-- Že otcove nanoboty degradovali (netuší o Gen 1/Gen 2 systéme)
+- Že otcove nanoboty degradovali
 - Že Renn poznal Inetis / bol z jej tímu
 - Že je "hybrid" v technickom zmysle — pre ňu je jednoducho Pursang s modrými očami
 
 ### Prečo vie tak málo:
 - Renn nestihol — zabili ho, keď mala Tami 7 rokov
 - Matka zomrela ešte skôr — keď bola Tami veľmi malá
-- **Felix vie.** Je z ARK-11, poznal by človek zo Zemeho. Vie kto bol Renn, vie odkiaľ prišiel. Ale **nepovedal Tami** — prečo, to je otázka. Možno sa to dozvieme.
+- **Felix vie.**  Vie kto bol Renn, vie odkiaľ prišiel. Ale **nepovedal Tami** — prečo, to je otázka. Možno sa to dozvieme.
 
 ---
 
@@ -120,7 +120,7 @@
 ### Reakcie postáv (keď sa pravda odhalí):
 - **Sera**: Spozná niečo familiárne — ľudské rysy, modré oči, niečo čo jej pripomenie Zem
 - **Maks**: Cíti niečo neuchopiteľné — možno preto si ju vzal za padavana, podvedome
-- **Links**: Všimne si, že nie je ako ostatní Pursangi — ako Exorcista by vedel analyzovať
+- **Links**: Všimne si, že je krasna (ružové okuliare)
 - **Elania**: Hybrid = zaujímavý experiment pre jej ADHD genius myseľ
 
 ---
@@ -146,9 +146,8 @@
 ## Otázky na rozpracovanie
 
 - [ ] Kto bola Tamina matka? Meno, príbeh, prečo si vybrala Renna?
-- [x] Vedel Felix, že Renn je človek zo Zeme? **Áno, vie.** Ale nepovedal Tami. Možno sa dozvieme prečo.
 - [ ] Prečo Renn odišiel od Inetis/komunity? Čo ho viedlo k životu hľadača pokladov?
 - [ ] Kedy sa odhalí pravda o Rennovom pôvode? Book 2? 3?
 - [ ] Ako reaguje Tami, keď sa dozvie, že jej otec bol človek zo Zeme?
 - [ ] Mení to niečo na jej vzťahu s Maksom? (Obaja sú "ľudia medzi Varietas")
-- [x] Prepísať Renn_Vix_Kael.md z "Vulpini" na "človek zo Zeme" — alebo nechať Vulpini ako kryciu identitu?
+
