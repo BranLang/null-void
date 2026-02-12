@@ -98,8 +98,7 @@ Human soldier. 3,000 years displaced. Eyes of black nanodust. Pragmatic, laconic
 </td>
 <td width="25%" align="center">
 
-![Tami](World-Bible/assets/characters/Tami/tami-cold.png)
-
+![Tami](World-Bible/assets/characters/Tami/)
 **Tami**<br/>
 *The Fox*<br/>
 Varietas pirate. Captain of the airship Makita. Carries a dead goddess without knowing it.
