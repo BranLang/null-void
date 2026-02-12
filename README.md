@@ -89,7 +89,7 @@ The heist goes wrong. The city falls. And what they pull from the rubble changes
 <tr>
 <td width="25%" align="center">
 
-![Maks](World-Bible/assets/characters/Max/max-lore-accurate.png)
+![Maks](World-Bible/assets/characters/Maks/maks-lore-accurate.png)
 
 **Maks**<br/>
 *The Sleeper*<br/>
@@ -98,7 +98,7 @@ Human soldier. 3,000 years displaced. Eyes of black nanodust. Pragmatic, laconic
 </td>
 <td width="25%" align="center">
 
-![Tami](World-Bible/assets/characters/Tami/image.png)
+![Tami](World-Bible/assets/characters/Tami/tami-cold.png)
 
 **Tami**<br/>
 *The Fox*<br/>
@@ -165,8 +165,8 @@ World-Bible/
 | **Prayers** | Voice-activated scripts |
 | **Demons / Wraiths** | Corrupted v1.0 nanodrone swarms carrying dead consciousness |
 | **The Mother's Blessing** | Genetic modification for nanobot compatibility |
-| **Divine Relics** | Pieces of the FTL ship NULL VOID |
-| **Glitch Rot** (Soul Decay) | Nanobot system failure — v1.0 rejecting hosts |
+| **Divine Relics** (Old tech) | Pieces of the Old Era or even of the Old World |
+| **Soul Decay** (Glitch rot) | Nanobot system failure — v1.0 rejecting hosts |
 | **The Core** (Heaven) | AI simulation / prison for interdimensional entities |
 
 ---
