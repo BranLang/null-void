@@ -124,7 +124,7 @@ Maks (stále slepý) využíva FPV nanodrony veľkosti zrnka piesku. Technika z 
 Premena z "trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň. [→ 01-timeline.md: AY 3001-3008]
 
 ### AY 3008 — Tami odchádza
-Tami (15 rokov) sa vyzná Maksovi. Maks ju odmietne — vidí v nej dcéru, nie ženu. Tami vezme vzducholoď **Makitu** a nechá Maksa v pustatine. [→ 01-timeline.md: AY 3008]
+Tami (15 rokov) sa vyzná Maksovi. Maks ju odmietne — vidí v nej dcéru, nie ženu. Tami vezme vzducholoď **Itaku** a nechá Maksa v pustatine. [→ 01-timeline.md: AY 3008]
 
 ### AY 3008-3013 — Päť rokov odlúčenia
 Maks pokračuje ako Exorcista sám. Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov. Rýchly vzostup — na jej hlavu je vypísaná obrovská odmena v Nyau a Beladiss. Tami a priatelia (Arkot, Yera, Flint) nájdu starú mapu Renna na ktorej je zaznacena jaskyna Inetis. Tami a gang najdu artefakt v jaskyni a okrem Tami sú upálení na námestí v Šoraven kvôli znesväteniu relikvií Vševedúcej Matky. [→ 01-timeline.md: AY 3008-3013]
@@ -134,10 +134,10 @@ Maks pokračuje ako Exorcista sám. Tami sa stáva pirátkou, pašeráčkou, hľ
 ## VI. KNIHA 1: PRACH NEVRISS (AY 3013 / RP 801)
 
 ### Stretnutie po piatich rokoch
-Maks (podnapitý) a Tami (20, kapitánka Makity) sa stretávajú. Dohodnú sa na pomste za Taminych priateľov a na získaní  **artefaktu**ukrytého v kobkách pod Hlavným chrámom v Šoravene. [→ planning/01-prach-nevriss.md]
+Maks (podnapitý) a Tami (20, kapitánka Itaky) sa stretávajú. Dohodnú sa na pomste za Taminych priateľov a na získaní  **artefaktu**ukrytého v kobkách pod Hlavným chrámom v Šoravene. [→ planning/01-prach-nevriss.md]
 
 ### Šoraven
-Makita pristáva v pohraničnom meste obliehnom grawskou armádou. Tami hľadá mechanika (Mako - Android) na opravu axiálneho čerpadla. **Sera**  sleduje Tami z tieňa — sľúbila Inetis, že sa postará o jej dcéru, ale nevie, že Tami je dedička Rennovej krvi. [→ concepts/elania-sera-shadow-plot-narrator.md]
+Itaka pristáva v pohraničnom meste obliehnom grawskou armádou. Tami hľadá mechanika (Mako - Android) na opravu axiálneho čerpadla. **Sera**  sleduje Tami z tieňa — sľúbila Inetis, že sa postará o jej dcéru, ale nevie, že Tami je dedička Rennovej krvi. [→ concepts/elania-sera-shadow-plot-narrator.md]
 
 ### Heist
 Tami a Maks sa infiltrujú do kobiek Chrámu cez ventilačný systém. Nachádzajú **artefakt**. Konfrontácia s Paladínmi (dvojitý mini boss). **Mormiel** (Požehnaná Matka, hlava Cirkvi) komunikuje cez vežu s Elaniou. [→ planning/01-prach-nevriss.md]
@@ -146,7 +146,7 @@ Tami a Maks sa infiltrujú do kobiek Chrámu cez ventilačný systém. Nachádza
 Maks aktivuje Anténu. Konfrontácia s Grondom. Maks zabíja Gronda — ale nanoboty padajú na ~5%, na hranici smrti. [→ 01-timeline.md]
 
 ### Pád zo vzducholode (Ch6-7)
-Makita vzlietne. Maks padá. **Posledný obraz pred kómou: záblesk Kyjeva.** Kaviareň na rohu. Slnko. Inetis oproti nemu. Zlomok sekundy — a potom tma. [BRAINSTORM → planning/maks-revised-arc.md: Pád a "Smrť"]
+Itaka vzlietne. Maks padá. **Posledný obraz pred kómou: záblesk Kyjeva.** Kaviareň na rohu. Slnko. Inetis oproti nemu. Zlomok sekundy — a potom tma. [BRAINSTORM → planning/maks-revised-arc.md: Pád a "Smrť"]
 
 ### [BRAINSTORM] Tami rozhoduje
 Maks v kóme. Tami ho odvezie do **Kitsune** — domov, bezpečie, Felix. Nechá ho tam. **Links** (paralelný arc, pred Nocou hrdinov) príde do Šoravenu — obyvatelia povedia: "Generál zomrel v boji." Tami to potvrdí. Nikto nevidí telo. Čitateľ pochybuje, ale bez dôkazu. [BRAINSTORM → planning/maks-revised-arc.md]

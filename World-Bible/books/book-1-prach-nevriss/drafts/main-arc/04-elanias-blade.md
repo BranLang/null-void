@@ -202,7 +202,7 @@ Chlad jej prešiel po chrbte. To meno poznala. Felix o nej rozprával — starý
 
 Sera urobila krok vpred. Jediný. Každý pohyb bol hladký ako voda, každý krok vypočítaný. Tami videla, ako sa jej svaly pohybujú pod oblečením — nie náhodne, nie prirodzene — ale *presne*. Ako stroj oblečený v ľudskej koži.
 
-*[Líška. Tami. Kapitánka Makity. Dcéra Renna. Poznámka. A ten muž... Mŕtvy mi nebude užitočný.]*
+*[Líška. Tami. Kapitánka Itaky. Dcéra Renna. Poznámka. A ten muž... Mŕtvy mi nebude užitočný.]*
 
 Pozrela na Tami. Potom na Maksa. Potom na tunel za sebou.
 
@@ -636,7 +636,7 @@ Maks Asistenta ignoroval. Pozeral sa na Tami. Na artefakt pod svojím ramenom. N
 
 *A žena, čo vie všetko a nepovie nič.*
 
-„Ideme," povedal. Ticho. Bez emócie. „K Makite."
+„Ideme," povedal. Ticho. Bez emócie. „K Itake."
 
 Tami prikývla. Chytila Kita za rameno a viedla ho preč od sutín. Preč od kriku. Preč od mesta, ktoré sa začínalo rúcať.
 

@@ -32,7 +32,7 @@ Tami sa zdvihla, nechala na stole mincu a vyšla do mrazu. Vedela menej o Kitovi
 
 Ulica páchla inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
 
-Tami kráčala o pol kroka pred Maksom. Už nebola vystrašené dievča, ani tá drzá kapitánka z paluby *Makity*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníkov s plynulosťou, ktorá Maksovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
+Tami kráčala o pol kroka pred Maksom. Už nebola vystrašené dievča, ani tá drzá kapitánka z paluby *Itaky*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníkov s plynulosťou, ktorá Maksovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
 
 „Dva bloky," zamrmlala bez toho, aby sa otočila. „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku."
 

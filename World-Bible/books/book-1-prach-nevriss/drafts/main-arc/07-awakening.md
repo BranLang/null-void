@@ -6,7 +6,7 @@
 
 Pád netrval dlho. Ale pre Maksa to bola večnosť.
 
-Videl oblohu, ktorá sa točila. Videl *Makitu*, ako dymí a klesá, snažiac sa núdzovo pristáť na námestí. Videl Grawskú stíhačku, ktorá robila víťazný výkrut a letela preč.
+Videl oblohu, ktorá sa točila. Videl *Itaku*, ako dymí a klesá, snažiac sa núdzovo pristáť na námestí. Videl Grawskú stíhačku, ktorá robila víťazný výkrut a letela preč.
 
 A potom prišiel náraz.
 

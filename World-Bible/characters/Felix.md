@@ -2,7 +2,7 @@
 - **Séria**: **Einstein v4.2** — séria inšpirovaná Albertom Einsteinom. Vizuálne mladšia verzia, ale tvorcovia sa silne inšpirovali Albertovou osobnosťou a intelektom. Felix je posledný funkčný kus série.
 - **Špecializácia**: Ťažké kinetické zbrane, delostrelectvo, lingvistika.
 - **Signature Weapon**:
-    - **Kanón "Felix"**: Zásobníkový kanón na lodi *Makita*. Medené nábojnice, **Spira munícia** ako propelent → fialové záblesky pri výstrele.
+    - **Kanón "Felix"**: Zásobníkový kanón na lodi *Itaka*. Medené nábojnice, **Spira munícia** ako propelent → fialové záblesky pri výstrele.
     - **"Die Nadel" (Ihla)**: Prísne utilitárny rapier z volfrámovej zliatiny. Žiadne ozdoby, len penetračná sila. Vlastní ho Tami.
 - **Status**: Legendárny Mako, žije v **ruinách mesta Kito** na Východe.
 - **Vzťah k Párty**:

@@ -24,9 +24,9 @@ Maks po Blood Rituáli a páde zo vzducholode (Book 1, Ch6-7) upadne do kómy. T
 
 ### Čo sa stane:
 - **Ch5: Blood Ritual** — Maks zabije Gronda, nanoboty na ~5%, na hranici smrti
-- **Ch6: Nebeské Kladivo** — Makita vzlietne, Grawská Valkýra zostrelí vežu, Maks padá
+- **Ch6: Nebeské Kladivo** — Itaka vzlietne, Grawská Valkýra zostrelí vežu, Maks padá
 - **Ch7: Prebudenie** — Maks padá do snehu, flashback vízie, na hranici smrti
-- Tami ho nájde, naloží na Makitu
+- Tami ho nájde, naloží na Itaku
 
 ### Posledný obraz pred kómou:
 - Maks padá, telo sa vypína

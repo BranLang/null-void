@@ -240,7 +240,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.renn_death`
 - Názov: Smrť Renna
 - Čas: AY 3000
-- Zhrnutie: Piráti Vix a Kael zabijú Renna (Islanďan, ~3000+ rokov) kvôli Starobylej Mape — jeho vlastnej mape nakreslenej pred ~2000 rokmi. Renn bol na ceste splniť dávny sľub — pochovať priateľku Inetis. Zomiera oslabený (odmietol vampirizmus) a nepozorný (sledoval Tami, nie okolie). Piráti ukradnú mapu, Makitu, a zajmú 7-ročnú Tami.
+- Zhrnutie: Piráti Vix a Kael zabijú Renna (Islanďan, ~3000+ rokov) kvôli Starobylej Mape — jeho vlastnej mape nakreslenej pred ~2000 rokmi. Renn bol na ceste splniť dávny sľub — pochovať priateľku Inetis. Zomiera oslabený (odmietol vampirizmus) a nepozorný (sledoval Tami, nie okolie). Piráti ukradnú mapu, Itaku, a zajmú 7-ročnú Tami.
 - Účastníci: `char.renn`, `char.vix`, `char.kael`, `char.tami`
 - Lokácie: `place.eastern_wilds`, `place.kito`
 - Tagy: `smrť`, `tragédia`, `inciting_incident`

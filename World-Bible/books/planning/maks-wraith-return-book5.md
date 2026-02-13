@@ -6,7 +6,7 @@
 
 ## Premisa
 
-Maks v Shoraven (Book 1) neurobil len Blood Ritual proti Grondovi. Urobil niečo viac — **opustil svoje telo**. Mechanizmus podobný Blood Rituálu (kde uvoľní celý nanodronový swarm), ale tentokrát jeho vedomie odišlo s nanodronmi. To, čo zostalo na Makite po bitke, nebolo celé — Maks nechal časť seba v nanodrónickej sieti.
+Maks v Shoraven (Book 1) neurobil len Blood Ritual proti Grondovi. Urobil niečo viac — **opustil svoje telo**. Mechanizmus podobný Blood Rituálu (kde uvoľní celý nanodronový swarm), ale tentokrát jeho vedomie odišlo s nanodronmi. To, čo zostalo na Itake po bitke, nebolo celé — Maks nechal časť seba v nanodrónickej sieti.
 
 **Od Book 1 je Maks duch v sieti.** Nie AI, nie Echo, nie Wraith v klasickom zmysle — ale vedomý fragment generála, ktorý sa rozhodol dávať pozor na svoju maličkú z tieňa.
 

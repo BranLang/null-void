@@ -5,7 +5,7 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Makita*, Pursang (ale utajená), **nedoučená Exorcistka** (Maksov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
+- **Status**: Kapitánka vzducholode *Itaka*, Pursang (ale utajená), **nedoučená Exorcistka** (Maksov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
     - Maks je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
@@ -47,8 +47,8 @@
 ### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
 - **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
-- **Loď**: Vlastní vzducholoď **Makita** (trieda Jastrab, 4. kus).
-    - **Pôvod**: Postavená Makmi pre jej otca. Meno je pocta staviteľom (Makita = Malý stroj).
+- **Loď**: Vlastní vzducholoď **Itaka** (trieda Jastrab, 4. kus).
+    - **Pôvod**: Postavená Makmi pre jej otca. Pôvodne *Makina* („Malý Stroj") od Makov. Renn ju premenoval na *Itaku* — domov, ktorý celý život hľadal.
     - **Výzbroj**: Hlavný kanón je **"Felix"** — vzácny zásobníkový kanón od legendárneho európskeho Maka Felixa. Spira munícia = fialové záblesky.
 - **Zbrane**:
     - Pár automatických pištolí.
@@ -58,7 +58,7 @@
     -   **Nix (Mezra - Kunami/Lasica)**: Hlavná mechanička. Nervózna, rýchlo hovoriaca, geniálna s motormi. Neustále sa sťažuje na "tie šroty", čo Tami kupuje.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
 - **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Makity — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Makitu). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Ela**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
+- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Itaky — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Itaku). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Ela**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli Arkot, Yera a Flint **verejne upálení na námestí v Shoravene** na priamy rozkaz **Požehnanej Matky** (Mormiel). Dôvod: vedeli príliš veľa o lokácii Jaskyne. Mormiel chce miesto nájsť sama — môžu tam byť ďalšie artefakty a je to posledné miesto odpočinku „Svätej Matky" (Inetis). Tami prežila, pretože **Mormiel o nej nevedela**. Tami vie len, že Cirkev jej priateľov zabila za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 
@@ -85,7 +85,7 @@
 
 **Kontext:**
 - Po Maksovej smrti Tami odmietne nechať jeho telo na bojisku
-- Odnesie ho na Makite späť do **Jaskyne Ela** (Null-Void Cave) — tam, kde sa pred rokmi dotkla kostí Inetis
+- Odnesie ho na Itake späť do **Jaskyne Ela** (Null-Void Cave) — tam, kde sa pred rokmi dotkla kostí Inetis
 - Pochová Maksa **vedľa kostí Inetis** — vojak sa vráti k žene, na ktorú čakal 3000 rokov
 
 **Esencia sa prebúdza:**
@@ -237,7 +237,7 @@ Inetis ho poprosila *"upratať ten neporiadok"* — a on to urobil. Len to trval
 - **Rozhodnutie**: Musí hľadať odpovede. A má ešte nevyrovnané účty.
 
 **3. Odchod do Nevriss:**
-- Tami berie **Makitu**, **Felixa** po svojom boku, a **čierny Artefakt** (Anténu) stále so sebou
+- Tami berie **Itaku**, **Felixa** po svojom boku, a **čierny Artefakt** (Anténu) stále so sebou
 - Cieľ: **Nevriss City**
 - **Motivácie**:
   - **Pomsta**: Nevyrovnané účty s Cirkvou za smrť Arkota, Yery a Flinta

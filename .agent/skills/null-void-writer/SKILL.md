@@ -644,7 +644,7 @@ Maks sa zarazil. Vodík. Samozrejme."
 3. **Love** (láska)
    - Romantická (Maks/Tami slow burn)
    - Rodičovská (Maks/Elenia tragédia)
-   - Priateľská (posádka Makita)
+   - Priateľská (posádka Itaka)
  
 4. **Grief** (žiaľ)
    - Strata Inetis

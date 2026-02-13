@@ -312,7 +312,7 @@ Varietas delia históriu nábožensky:
     - Piráti **Vix a Kael** zabíjajú **Renna** (Islanďan — človek zo Zeme, zakladateľ Kita, Taminho otca) a jeho malú dcéru **Tami** (7) držia v klietke.
     - Kael prebudi wraitha Inetis ktory zobudi maxa. Wraith inetis zabije Kaela.
     - Maks sa prebúdza fyzicky slepý (explodované oči mrazom), pokrytý modrou kryo-tekutinou.
-    - **Samaell** cele roky putuje divocinou okolo jaskyne, citi Inetisinu stopu, obcas najde zbludeny nanodron. Ale nikdy sa nedostal blizsie ako 100 kilometrov k jaskyni. Az kym neuvidi na oblohe Makitu a nezacne ju nasledovat. Kael a Vix ho navedu priamo k Jaskyni.
+    - **Samaell** cele roky putuje divocinou okolo jaskyne, citi Inetisinu stopu, obcas najde zbludeny nanodron. Ale nikdy sa nedostal blizsie ako 100 kilometrov k jaskyni. Az kym neuvidi na oblohe Itaku a nezacne ju nasledovat. Kael a Vix ho navedu priamo k Jaskyni.
     - Piráti nájdu Maksa v snehu a berú ho na palubu. Maks a Tami sa stretnú na lodi.
     - jaskyna ( bunker sa zatvara, samaell sa nevie dostat dnu)
     

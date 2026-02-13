@@ -90,7 +90,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 |-----------|--------|---------|
 | Boj / prežitie | 2-4 | Paladíni v kanáloch. Mercy-kill experimentov. Bombardovanie Šoravenu. |
 | Worldbuilding / prieskum | 4-6 | Mako workshop s čajovým rituálom. Tržnica v Šoravene. |
-| Bonding / oddych | 6-8 | Tami snark na palube Makity. Maks „turista" na colnici. |
+| Bonding / oddych | 6-8 | Tami snark na palube Itaky. Maks „turista" na colnici. |
 | Politika / náboženstvo | 3-5 | Goro Interlude. Cirkev exorcizmy. Sera/Elania dialóg. |
 | Sera scény | 2-8 | Zámerne nepredvídateľné — JE to jej charakter. Kawaii hlas → brutálny boj. |
 

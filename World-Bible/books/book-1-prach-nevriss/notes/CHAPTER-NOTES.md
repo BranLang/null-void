@@ -53,7 +53,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 ### ARC 2: NOC HRDINOV (Kapitoly 5-8)
 - Blood Ritual → Sky Hammer → Awakening → Epilogue (Blockade Run)
 - Cieľ: Prežiť obliehanie Šoravenu a uniknúť na juh
-- Vyvrcholenie: Blood Ritual (Maks zabije Gronda) + Nebeské Kladivo (Makita + Nevriské posily)
+- Vyvrcholenie: Blood Ritual (Maks zabije Gronda) + Nebeské Kladivo (Itaka + Nevriské posily)
 - Koniec: Únik loďou *Druhá Šanca*, smer Nevriss
 
 *(Ch4 Matka a Oheň = ZRUŠENÁ, presunutá na koniec knihy ako cliffhanger)*
@@ -78,7 +78,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 ## Chapter 01: Karakuri (main-arc/01-karakuri.md)
 
 **Key Events:**
-- Tami opravuje Makitu v prístave (kondenzátory, axiálne čerpadlo)
+- Tami opravuje Itaku v prístave (kondenzátory, axiálne čerpadlo)
 - Maks sa prezentuje ako Exorcista pred dokovými strážami
 - Tami reveals identity (líščie uši) — sociálne inžinierstvo
 - Tami naviguje mestom (prístav, tržnica, Remeselná štvrť)
@@ -89,7 +89,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - Felix = Mako (série E), vychoval Tami
 - Šoraven = pod Grawským obliehacím bombardovaním
 - Maki = záhadní tichí mechanici, najlepší technológovia na kontinente
-- Spira kryštály = palivo pre Makitu (lacné počas vojny)
+- Spira kryštály = palivo pre Itaku (lacné počas vojny)
 - Kastový systém: Pursang → Mezra → Ghorki (bez Spiry)
 - Sera shadow presence (navštívila Karakuriho, sleduje Tami)
 
@@ -295,11 +295,11 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 ## Chapter 06: Nebeské Kladivo (main-arc/06-sky-hammer.md)
 
 **Key Events:**
-- Makita vzlietne ako vojnová loď (Felix = 122mm kanón)
+- Itaka vzlietne ako vojnová loď (Felix = 122mm kanón)
 - Maks naviguje Tami ako targeting system (zvyšné nanoboty ako senzory)
 - Tami ničí Grawský muničný sklad a tankovú kolónu
 - Grawská armáda ustupuje v panike
-- **3 Valkýry** (Grawské stíhačky) útočia na Makitu
+- **3 Valkýry** (Grawské stíhačky) útočia na Itaku
 - **Tami zostrelí prvú Valkýru kanónom naslepo** — Maks jej dá koordináty a načasuje "Teraz!"
 - **Nevriské posily na svitaní** — 3 dieselpunkové bojové lietadlá (volací znak *Jarná Búrka*) zostrelí zvyšné 2 Valkýry
 - Trosky poslednej Valkýry trafia vežu — Maks padá
@@ -307,7 +307,7 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 **Lore Notes:**
 - **Felix = zásobníkový kanón** — 122mm, zásobníkový pás, 6 rán za minútu. Medené nábojnice padajú z lode pri streľbe.
 - **Fialové záblesky** — výstrely z Felixa svietia na nočnej oblohe fialovým zábleskom. Spira munícia ako propelent = fialový plameň. Z ulíc to vyzerá ako blesky bohov. Preto "Nebeské Kladivo".
-- **Pohľad zdola (civili/obrancovia):** Nevideli Makitu (tma), len fialové záblesky a explózie na Grawských pozíciách. Medené nábojnice padali na strechy ako kovový dážď.
+- **Pohľad zdola (civili/obrancovia):** Nevideli Itaku (tma), len fialové záblesky a explózie na Grawských pozíciách. Medené nábojnice padali na strechy ako kovový dážď.
 
 **Status:** HOTOVO (plná próza, rewrite — rozšírená vzdušná bitka)
 
@@ -340,7 +340,7 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 - Smer: Nevriss
 
 **Lore Notes:**
-- Makita potopená v plytčine (Tami sa pre ňu vráti)
+- Itaka potopená v plytčine (Tami sa pre ňu vráti)
 - Vex = pašeráčka, Felis (mačkovitá), páska cez oko, dva blastery, loď z kusov iných lodí
 - Links dokazuje svoju hodnotu (technická navigácia)
 
@@ -421,7 +421,7 @@ Draft `03-antiquarian.md` obsahuje Kito + Maya healing + Vex/Second Chance odcho
   - Videl: granáty, plamene, zranených volajúcich o pomoc, chaos evakuácie
   - **Čo videl z ulíc:** Fialové záblesky na nočnej oblohe — Felix strieľal na Grawské pozície (Spira munícia = fialový plameň). Medené nábojnice padali z neba. Kito nevedel čo to je — len videl svetlo a počul explózie. "Nebeské Kladivo" z pohľadu civilistu.
   - **NEVIE** detaily Blood Ritualu (bol v úkryte/utekajúc, nie na fronte)
-  - **NEVIE** čo robili Maks a Tami počas Sky Hammer (nebol na Makite)
+  - **NEVIE** čo robili Maks a Tami počas Sky Hammer (nebol na Itake)
   - Vie len z klebiet: "Generál zomrel. Nikto nevie ako ani prečo." / "Líška strieľala z neba."
   - **Nikto nevie kto zabil Gronda** — Maks sa nepriznal, nie je jasné ani *že* ho niekto zabil. Záhada.
   - Jeho príbeh je **vojnový zážitok civilistu** — surový, emocionálny, neúplný

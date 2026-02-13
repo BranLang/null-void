@@ -101,7 +101,7 @@ Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven 
 - Mormielini špehovia hlásia: *„Na trhu sa objavil predmet — palica — ktorý nezodpovedá žiadnej známej technológii. Vraj niekde z východu."*
 - Mormiel stuhne. **Pozná ju.** Čierna. Hladká. Absolútne nevýrazná — pre tých, čo nevedia.
 - Okamžite vydáva rozkazy: Nájsť predajcu. Získať artefakt. *Zametať stopy.*
-- Posádka Makity je upálená na námestí ako heretici. Mormiel získava Anténu.
+- Posádka Itaky je upálená na námestí ako heretici. Mormiel získava Anténu.
 - Je to jej najcennejší artefakt. A nikto nesmie vedieť, že ho má.
 
 ### Štýl reči a myslenia

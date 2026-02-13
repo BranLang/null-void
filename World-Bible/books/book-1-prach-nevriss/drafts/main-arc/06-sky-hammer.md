@@ -20,13 +20,13 @@ Grawská armáda sa po smrti Gronda nezrútila, ako dúfal. Zmrzla, áno, ale le
 
 „Nie, ak ich 'pozdravíme' prví," povedala Tami.
 
-Nad strechami domov, v kúdoli dymu a pary, sa vynorila *Makita*.
+Nad strechami domov, v kúdoli dymu a pary, sa vynorila *Itaka*.
 
 Už to nebola tá nenápadná obchodná loďka. Bola to vojnová beštia. Bočné pláty boli odklopené a z trupu trčali guľometné hniezda, kde Mako a jeho bratranci obsluhovali ťažké *Gatlingy*.
 
 Ale to hlavné bolo pod provou.
 
-Kryt sa odsunul a odhalil **Felixa**. Ťažký 122mm kanón, ukradnutý z vraku krížnika, bol teraz primontovaný k trupu *Makity* ako obrovský oceľový prst ukazujúci na nepriateľa.
+Kryt sa odsunul a odhalil **Felixa**. Ťažký 122mm kanón, ukradnutý z vraku krížnika, bol teraz primontovaný k trupu *Itaky* ako obrovský oceľový prst ukazujúci na nepriateľa.
 
 „Si pripravená?" opýtal sa Maks.
 
@@ -50,7 +50,7 @@ Tami potiahla páku. Celá loď sa naklonila, ako hydraulika zamierila monštru�
 
 **BUM.**
 
-Nebol to výstrel. Bol to hrom. *Makita* sa vo vzduchu posunula o tri metre dozadu spätným rázom. Plameň z hlavne ožiaril polovicu mesta.
+Nebol to výstrel. Bol to hrom. *Itaka* sa vo vzduchu posunula o tri metre dozadu spätným rázom. Plameň z hlavne ožiaril polovicu mesta.
 
 Strela letela oblúkom cez nočnú oblohu.
 
@@ -94,7 +94,7 @@ Dunenie sa odrážalo od striech a stien, menilo sa na steny zvuku, ktoré prich
 
 Tamin hlas prišiel okamžite. Ostrý. Praktický.
 
-„Odchádzame. Maks, Makita proti stíhačkám je samovražda. Nemáme čím, nemáme ako. Klesáme na juh, pod strechy, zmiznem v uličkách. Viem kadiaľ."
+„Odchádzame. Maks, Itaka proti stíhačkám je samovražda. Nemáme čím, nemáme ako. Klesáme na juh, pod strechy, zmiznem v uličkách. Viem kadiaľ."
 
 „A civili?"
 
@@ -120,7 +120,7 @@ Dlhé ticho. Dunenie stíhačiek zosilnelo.
 
 Dunenie zosilnelo. Už to nebola vibrácia — bol to rev. Vzduch sa triasol. Okná v domoch pod nimi rezonovali a praskali. Zvuk prenikal cez steny, cez drevo paluby, cez kosti. Maks ho cítil v žalúdku — hlboký, primitívny strach, aký vyvoláva len zvuk veľkého piestového motora v strmhlavom lete.
 
-Tri **Valkýry** — Grawské stíhačky v trojuholníkovej formácii — sa predierali cez mračná nad mestom. Nevideli *Makitu*. V tejto tme nemohli. Nemali nočné videnie — len vlastné oči, a tie boli slepé. Strieľali podľa záchytných bodov: záblesky tracerových striel z Gatlingov, oranžová žiara požiarov dole v uliciach, plameň z Felixovej hlavne.
+Tri **Valkýry** — Grawské stíhačky v trojuholníkovej formácii — sa predierali cez mračná nad mestom. Nevideli *Itaku*. V tejto tme nemohli. Nemali nočné videnie — len vlastné oči, a tie boli slepé. Strieľali podľa záchytných bodov: záblesky tracerových striel z Gatlingov, oranžová žiara požiarov dole v uliciach, plameň z Felixovej hlavne.
 
 Prvá Valkýra spustila paľbu naslepo. Dávka prešla desať metrov od trupu — tracery rozrezali tmu ako svetelné čiary.
 
@@ -134,11 +134,11 @@ Tami stisla zuby. „Takže nemôžeme strieľať."
 
 Druhá Valkýra preletela bližšie. Dávka z guľometov — naslepo, podľa zvuku — zazvonila o bočné pláty trupu. Jeden z Makových bratancov vykríkol a zvalil sa od Gatlingu.
 
-Tretia mierila na oranžovú žiaru požiaru pod nimi — myslela si, že je to *Makita*. Bomby dopadli na prázdnu ulicu. Blízko. Príliš blízko.
+Tretia mierila na oranžovú žiaru požiaru pod nimi — myslela si, že je to *Itaka*. Bomby dopadli na prázdnu ulicu. Blízko. Príliš blízko.
 
 „Klesáme," hlásil Mako. „Dva zásahy do balóna. Hélium uniká z komory tri a päť."
 
-Balón *Makity* bol komorovaný — rozdelený na osem nezávislých sekcií. Dva prierazy ho nezničia. Ale spomaľujú. A loď klesá.
+Balón *Itaky* bol komorovaný — rozdelený na osem nezávislých sekcií. Dva prierazy ho nezničia. Ale spomaľujú. A loď klesá.
 
 Maks zatvoril oči. Zvyšné nanoboty — posledné, čo mu ostali — vysypal do vzduchu. Nie ako zbrane. Ako oči. Senzorická sieť sa rozprestrela nad mestom ako neviditeľná pavučina.
 
@@ -170,27 +170,27 @@ A potom — výbuch. Vysoko nad mestom rozkvetol oranžový kvet. Horúce trosky
 
 „Naslepo," zašepkala Tami. Ruky sa jej triasli na pákach.
 
-Ale ten výstrel ich prezradil. Zvyšné dve Valkýry teraz vedeli, kde je *Makita*. Otočili sa. Motory zarevali. Leteli rovno na nich.
+Ale ten výstrel ich prezradil. Zvyšné dve Valkýry teraz vedeli, kde je *Itaka*. Otočili sa. Motory zarevali. Leteli rovno na nich.
 
 „Felix potrebuje tridsať sekúnd na nabitie!" kričal Mako.
 
-Guľomety zaburácali. Tentoraz nie naslepo — piloti videli záblesk z hlavne a mierili na jeho zdroj. Strely prešili balón v ďalších dvoch komorách. Paluba *Makity* sa rozštiepila. Drevené triesky lietali vzduchom.
+Guľomety zaburácali. Tentoraz nie naslepo — piloti videli záblesk z hlavne a mierili na jeho zdroj. Strely prešili balón v ďalších dvoch komorách. Paluba *Itaky* sa rozštiepila. Drevené triesky lietali vzduchom.
 
 „Štyri komory preč!" kričal Mako. „Klesáme!"
 
-*Makita* sa naklonila. Prova klesla. Loď sa začala pomaly zosúvať k strechám.
+*Itaka* sa naklonila. Prova klesla. Loď sa začala pomaly zosúvať k strechám.
 
 A vtedy Maks pozrel na východ.
 
 Obloha nad horami bola iná. Už nie čierna. Tmavosivá. Prvý náznak svitania.
 
-*Svitanie.* Keď budú Valkýry vidieť *Makitu* voľným okom, je koniec.
+*Svitanie.* Keď budú Valkýry vidieť *Itaku* voľným okom, je koniec.
 
 „Tami! Svitá! Máme minúty, nie hodiny!"
 
 Tami to pochopila okamžite. „Mako! Para! Všetku paru von! Teraz!"
 
-Mako nečakal. Strhol ventily na parnom kotli. Z bočných trysiek *Makity* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Makita* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
+Mako nečakal. Strhol ventily na parnom kotli. Z bočných trysiek *Itaky* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Itaka* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
 
 Valkýry preleteli cez paru. Nevideli nič. Dávky z guľometov prešli oblakmi — naslepo, bezcieľne.
 
@@ -198,7 +198,7 @@ Ale para sa rozplývala. Vietor ju trhal na kusy. A obloha svetlala s každou se
 
 „Dlho to nevydrží," povedala Tami. „Minúta. Možno dve."
 
-*Makita* klesala. Päť komôr z ôsmich bolo prerazených. Loď sa zosúvala k strechám — pomaly, ale neúprosne.
+*Itaka* klesala. Päť komôr z ôsmich bolo prerazených. Loď sa zosúvala k strechám — pomaly, ale neúprosne.
 
 Para riedla. Sivý závoj sa rozťahoval, stenčoval. Cez medzery už presvitalo svetlo rána. Valkýry krúžili nad mestom ako supy — čakali, kým sa clona rozplynie.
 
@@ -210,7 +210,7 @@ Tami zavrela oči. *Toto je koniec.* Loď klesá, para mizne, svitá. O tridsať
 
 Para sa roztrhla.
 
-Prvá Valkýra ich zbadala. Strhla nos dolu a zamierila priamo na *Makitu*.
+Prvá Valkýra ich zbadala. Strhla nos dolu a zamierila priamo na *Itaku*.
 
 A vtedy — z východu, z prvého svetla svitania — prišiel zvuk.
 
@@ -236,7 +236,7 @@ Vysielačka zapraskala.
 
 „Volací znak *Jarná Búrka*. Guvernér Nevrissu vyslal tri stroje na pomoc Šoravenu. Identifikujte sa."
 
-Tami sa zasmiala. Slzy. Úľava. „Tu *Makita*. Kapitánka Tami."
+Tami sa zasmiala. Slzy. Úľava. „Tu *Itaka*. Kapitánka Tami."
 
 Maks sa oprel o stenu veže. Svitanie mu osvetľovalo tvár. Vyhrali.
 

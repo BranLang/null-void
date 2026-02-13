@@ -21,7 +21,7 @@ Aby bol príbeh uveriteľný ("Noc Hrdinov"), musíme definovať realistické č
 ### Strategická Situácia: The Noose Tightens
 Shoraven je v pasci.
 - **Air Superiority:** Graw má absolútnu vzdušnú prevahu. Ich primitívne, ale početné **dvojplošníky a gyrokoptéry** krúžia nad mestom. Bombardujú prístav a potápajú zásobovacie lode.
-- **Námorná Blokáda:** Graw nemá loďstvo, ale ich letectvo robí námornú cestu "Run of Death". Len najrýchlejšie pašerácke lode (ako *Makita*) prejdú v noci.
+- **Námorná Blokáda:** Graw nemá loďstvo, ale ich letectvo robí námornú cestu "Run of Death". Len najrýchlejšie pašerácke lode (ako *Itaka*) prejdú v noci.
 - **Pevnina:** Odrezaná. V horách a na cestách sú tisíce vojakov.
 
 ### Časový Faktor: Preteky s Časom

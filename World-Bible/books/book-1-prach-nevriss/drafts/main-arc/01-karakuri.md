@@ -30,7 +30,7 @@ Niektorí z nich mali okolo zápästí mystické tetovanie — bojové znaky, d�
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
-Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-technology.md: Makita, dieselpunk technológia] Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. [→ concepts/battle-logistics.md: Graw vzdušné sily] Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
+Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-technology.md: Itaka, dieselpunk technológia] Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. [→ concepts/battle-logistics.md: Graw vzdušné sily] Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
@@ -212,7 +212,7 @@ Prístav prechádzal do Dolného mesta plynulo — žiadna brána, len postupný
 
 Po pravej strane sa črtala rozľahlá budova s mosadznou tabuľou: *Gilda Kupcov — Šobors*. Burza. Aj v čase vojny — alebo práve preto — sa tam tlačili desiatky obchodníkov. Cena ocele sa od včera zdvojnásobila. Obilie šlo hore. Posvätné kryštály — najnovší hit na trhu luxusných komodít — stratili hodnotu, pretože nikto v čase vojny neinvestoval do luxusu. [→ 03-technology.md: Spira kryštály, koncentrovaná esencia]
 
-*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Makitu je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Makite stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.* [→ 03-technology.md: Makita, Spira pohon vs biodiesel]
+*Perfektné*, pomyslela si Tami. *Pre miestnych sú to len šperky alebo hračky pre bohatých. Pre Itaku je to život. Kým ostatné vzducholode spaľujú drahý biodiesel, Itake stačí voda z najbližšieho jazera a pár kryštálov za zlomok ceny.* [→ 03-technology.md: Itaka, Spira pohon vs biodiesel]
 
 Na jednom námestíčku sa zastavila.
 
@@ -301,7 +301,7 @@ Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaž
 
 „Nový prototyp?"
 
-„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Makita*." [→ 03-technology.md: Makita, Hephaestus] [→ 05-geography.md: Kitsune, ostrovná krajina]
+„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Itaka*." [→ 03-technology.md: Itaka, Hephaestus] [→ 05-geography.md: Kitsune, ostrovná krajina]
 
 Pri tom slove Mako stuhol. Ak bolo možné, aby sa socha stala ešte nehybnejšou, stalo sa to práve teraz. Hľadel na ňu, akoby sa pred ním zjavil duch jeho vlastnej minulosti. Potom sa hlboko, takmer až po pás, uklonil smerom k dverám, kde tušil loď.
 

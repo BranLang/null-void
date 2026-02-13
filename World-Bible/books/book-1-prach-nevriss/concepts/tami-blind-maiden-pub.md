@@ -25,7 +25,7 @@
 ### Setup
 Tami sedí v krčme, zbiera informácie o Kitovi. Kapucňa dole (je vo vnútri), uši schované pod šatkou. Modré oči viditeľné.
 
-Makita je dokovaná v prístave — viditeľná pre každého, kto pozná lode.
+Itaka je dokovaná v prístave — viditeľná pre každého, kto pozná lode.
 
 ### Konfrontácia
 
@@ -45,13 +45,13 @@ Odíde. Pri dverách si nasadí kapucňu. Na ulici, keď je z dosahu:
 
 ### Čo sa tu deje
 
-**Na povrchu:** Náhodný opitý Mezra spoznal modré oči a Makitu. Tami to odmietla a odišla. Nič zvláštne.
+**Na povrchu:** Náhodný opitý Mezra spoznal modré oči a Itaku. Tami to odmietla a odišla. Nič zvláštne.
 
 **Pod povrchom:**
 
-1. **Renn bol známy.** Nie len medzi líškami — v celom underworld. Starý tulák s modrými očami, legendárnou vzducholoďou a trojhranným klobúkom? V krčmových kruhoch ho poznali po celej Terre. Tento Mezra ho stretol pred desiatkami rokov — alebo počul príbehy. Modré oči + Makita = jednoznačná identifikácia.
+1. **Renn bol známy.** Nie len medzi líškami — v celom underworld. Starý tulák s modrými očami, legendárnou vzducholoďou a trojhranným klobúkom? V krčmových kruhoch ho poznali po celej Terre. Tento Mezra ho stretol pred desiatkami rokov — alebo počul príbehy. Modré oči + Itaka = jednoznačná identifikácia.
 
-2. **Tami sa prezradila.** Modré oči + Makita v prístave = Rennove mláďa. Pre kohokoľvek, kto poznal Renna. Kapucňa a "z niekým si ma mýliš" je inštinkt — Tami vie, že toto spojenie je nebezpečné. Ale príliš neskoro — starý vlk ju videl.
+2. **Tami sa prezradila.** Modré oči + Itaka v prístave = Rennove mláďa. Pre kohokoľvek, kto poznal Renna. Kapucňa a "z niekým si ma mýliš" je inštinkt — Tami vie, že toto spojenie je nebezpečné. Ale príliš neskoro — starý vlk ju videl.
 
 3. **"Do riti!"** — Tami nie je hlúpa. Ak jeden starý vlk v jednej krčme dokázal spojiť oči + loď = Rennove mláďa, dokáže to ktokoľvek. Jej inkognito je slabšie, než si myslela. Rennov odkaz ju prezrádza.
 
@@ -84,7 +84,7 @@ Odíde. Pri dverách si nasadí kapucňu. Na ulici, keď je z dosahu:
 ### Čo Mezra vie a nevie
 
 **Vie:**
-- Renn bol starý tulák s modrými očami a vzducholoďou Makita
+- Renn bol starý tulák s modrými očami a vzducholoďou Itaka
 - Tá líška v krčme mala rovnaké oči a rovnakú loď
 - Dostal mince od neznámeho, aby nasmeroval Exorcistu do správnej krčmy
 
@@ -119,7 +119,7 @@ Ak sa informácia o "líščej kapitánke s modrými očami" dostala k náhodné
 ## Foreshadowing
 
 - **Modré oči ako identifier** — Rennov marker. Tami ich nemôže skryť. Kapucňa zakryje uši, ale nie oči.
-- **Makita ako identifier** — najlepšia vzducholoď na Terre. Aj keby Tami zmenila meno, loď ju prezradí.
+- **Itaka ako identifier** — najlepšia vzducholoď na Terre. Aj keby Tami zmenila meno, loď ju prezradí.
 - **Rennova reputácia** — muž, ktorý cestoval 2000 rokov. V každom prístave, v každej krčme, v každom underworld kruhu nechával stopu. Tami dedí jeho slávu — aj jeho zraniteľnosť.
 - **Sera's web** — ak jeden Mezra v jednej krčme vie, Sera vie. A Sera plánuje.
 

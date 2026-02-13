@@ -11,7 +11,7 @@
 | **Povolanie** | Civilista, člen Core Teamu Inetis, zakladateľ Kita, hľadač pokladov, tulák |
 | **Doména** | Ruiny mesta Kito (Východná Divočina) — posledný domov |
 | **Dcéra** | **Tami Rennsdóttir** (~AY 2993) |
-| **Odkaz** | Makita, Starobylá Mapa, Tami, mesto Kito, trojhranný klobúk |
+| **Odkaz** | Itaka, Starobylá Mapa, Tami, mesto Kito, trojhranný klobúk |
 
 > [!IMPORTANT]
 > **Etymológia mena:**
@@ -234,7 +234,7 @@
 - **Znamenie.** Po tisícročiach sa mu mapa vrátila.
 - **Renn konečne našiel svetlo... a odvahu.**
 - Rozhodne sa: zoberie Tami na dobrodružný výlet. Splní dávny sľub. Pochová priateľku.
-- Balí sa, pripraví Makitu, Felix kontroluje motory
+- Balí sa, pripraví Itaku, Felix kontroluje motory
 - Cesta smeruje na východ cez Divočinu k Jaskyni Ela
 
 ---
@@ -254,12 +254,12 @@
 - Chronologicky ~3000+ rokov, biologicky vyzerá ~40
 - **Zomiera na ceste, na ktorej konečne našiel odvahu**
 - Dávny sľub nesplnený — mapa mu bola ukradnutá
-- Piráti ukradnú mapu, Makitu, a zajmú 7-ročnú Tami
+- Piráti ukradnú mapu, Itaku, a zajmú 7-ročnú Tami
 - Felix nebol v ruinách (bol preč na potulke za súčiastkami)
 
 ### Rennov odkaz pre Tami
 
-- **Makita** — najlepšia loď na Terre (Spira pohon, neobmedzený dolet)
+- **Itaka** — najlepšia loď na Terre (Spira pohon, neobmedzený dolet)
 - **Nekonečné zlato** v ruinách Kita — artefakty, poklady z tisícročí hľadania
 - **Felix** — osobný mechanik, strýko, ochranca
 - **Preto je Tami bohatá ako princezná** — nie z pirátstva, ale z otcovho tisícročného dedičstva
@@ -330,12 +330,13 @@
 
 ---
 
-## Makita — Najväčšia Loď na Terre
+## Itaka — Najväčšia Loď na Terre
 
-- **Pôvod**: Felix a ďalší Maki postavili **Makitu** pre Renna
+- **Pôvod**: Felix a ďalší Maki postavili **Itaku** pre Renna
 - **Typ**: Prototyp štvrtej série jastrabích vzducholodí — Spira-kryštálový pohon
 - **Revolúcia**: Neobmedzený dolet, minimálne prevádzkové náklady
-- **Meno**: *Makita* = „Malý stroj" — Rennova pocta Felixovi a jeho rase (Maki)
+- **Pôvodné Maki označenie**: Stavitelia ju volali *Makina* („Malý Stroj" v jazyku Makov) — pocta vlastnému remeslu
+- **Meno — Itaka**: Renn ju premenoval. Celý život hľadal domov. Pomenoval svoju loď po ostrove, na ktorý sa Odysseus takmer nedokázal vrátiť.
 - **Felix 88**: 88mm kanón „Felix" — Felixov majstrovský kus
 - **Dedičstvo**: Po Rennovej smrti ukradnutá pirátmi → neskôr Tamina vlajková loď
 
@@ -437,7 +438,7 @@
 - **Nikdy nepíšte líščie rysy** — žiadne špicaté uši, žiadny líščí nos. Je to človek. Klobúk a modré oči.
 - **Show don't tell** — nehovorte, že bol starý. Ukážte ho, ako sa pozerá na západ slnka a pomyslí si: „Videl som ich tisíce."
 - **Kontrast s Maksom** — Renn bol civilista, tichý, prítomný, nežný. Maks je vojak, hlasný, drsný, emocionálne nedostupný. Tami stratila jedného otca a našla druhého — ale ten druhý nie je to isté.
-- **Klobúk** — vždy. Na hlave, vedľa postele, na vešiaku Makity. Je to jeho identita.
+- **Klobúk** — vždy. Na hlave, vedľa postele, na vešiaku Itaky. Je to jeho identita.
 - **Modré oči** — zdôrazňujte. Sú to tie isté oči, čo má Tami. Sera ich spozná. Mormiel ich spozná.
 
 **Avoid:**

@@ -4,7 +4,7 @@ Dážď bol studený a chutil po soli a pušnom prachu. Noc nad Šoravenom nebol
 
 V malej, nenápadnej zátoke na východnom okraji prístavu, ukrytej pod previsom útesu, sa hojdala loď.
 
-Nebola to *Makita*. Tami sa musela rozlúčiť so svojou loďou — a to bolelo viac než fyzická rana. *Makitu* nechali potopenú v plytčine, zamaskovanú troskami, aby ju Graw nenašiel. Ak prežijú, vráti sa pre ňu.
+Nebola to *Itaka*. Tami sa musela rozlúčiť so svojou loďou — a to bolelo viac než fyzická rana. *Itaku* nechali potopenú v plytčine, zamaskovanú troskami, aby ju Graw nenašiel. Ak prežijú, vráti sa pre ňu.
 
 Loď pred nimi bola iná. *Druhá Šanca*.
 

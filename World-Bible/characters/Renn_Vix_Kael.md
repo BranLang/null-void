@@ -25,12 +25,13 @@ Renn bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživ
 - **Felixova samota**: Po Lekcii Krvi a Rennovom opätovnom odchode do sveta Felix zostal v ruinách Kita sám — stovky rokov samoty, verný Direktíve: *„Prežiť. Stavať. Pomáhať ľudstvu."* Renn ho občas navštevoval.
 - **Návrat (~AY 2900)**: Renn sa vrátil natrvalo. Felix ho opravoval, Renn nosil súčiastky. Spolu si urobili domov v ruinách. Sem sa neskôr narodila Tami (~AY 2993). Vyrastala medzi ruinami, strojmi a Felixovými príbehmi o starom svete.
 
-### Makita — Najväčšia loď na Terre
+### Itaka — Najväčšia loď na Terre
 
-- **Pôvod lode**: **Felix a ďalší Maki** postavili **Makitu** pre Renna — väčší projekt, nie práca jedného stroja. Použili zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Makita bola prototyp štvrtej série jastrabích vzducholodí — malá, rýchla, ale s jedným revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Makite stačí voda a pár Spira kryštálov za zlomok ceny.
-- **Meno**: *Makita* = „Malý stroj" — pocta Felixovi a jeho rase (Maki). Renn ju pomenoval.
+- **Pôvod lode**: **Felix a ďalší Maki** postavili **Itaku** pre Renna — väčší projekt, nie práca jedného stroja. Použili zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Itaka bola prototyp štvrtej série jastrabích vzducholodí — malá, rýchla, ale s jedným revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Itake stačí voda a pár Spira kryštálov za zlomok ceny.
+- **Pôvodné Maki označenie**: *Makina* („Malý Stroj" v jazyku Makov) — pocta staviteľov vlastnému remeslu
+- **Meno — Itaka**: Renn ju premenoval. Celý život hľadal domov — pomenoval loď po ostrove, na ktorý sa Odysseus takmer nedokázal vrátiť.
 - **Felix 88**: Na loď Felix nainštaloval aj svoj majstrovský kus — **88mm kanón „Felix"**, ťažký delostrelecký kus vlastnej výroby. Legenda medzi zbrojármi.
-- **Prečo najväčšia**: Makita nie je najväčšia rozmerom — je to malá, rýchla loď. Ale vďaka Spira pohonu má **neobmedzený dolet** a **minimálne prevádzkové náklady**. V svete, kde palivo stojí imanie, je to neoceniteľná výhoda. Žiadna iná loď na Terre nemá túto technológiu.
+- **Prečo najväčšia**: Itaka nie je najväčšia rozmerom — je to malá, rýchla loď. Ale vďaka Spira pohonu má **neobmedzený dolet** a **minimálne prevádzkové náklady**. V svete, kde palivo stojí imanie, je to neoceniteľná výhoda. Žiadna iná loď na Terre nemá túto technológiu.
 
 ### Starobylá Mapa
 
@@ -55,7 +56,7 @@ Renn bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživ
 | | |
 |---|---|
 | **Povaha** | Pragmatickí obchodníci s mäsom a otrokári |
-| **Loď** | **Makita** — ukradnutá Rennovi po jeho vražde. Pôvodne postavená Felixom a ďalšími Makmi pre Renna |
+| **Loď** | **Itaka** — ukradnutá Rennovi po jeho vražde. Pôvodne postavená Felixom a ďalšími Makmi pre Renna |
 
 ### Rola v príbehu
 

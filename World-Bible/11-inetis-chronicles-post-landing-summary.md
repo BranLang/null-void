@@ -86,7 +86,7 @@ Maks a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Maks je pre
 
 ## 6. Kľúčové Postavy
 *   **Maksimilián (Maks / maXpowa):** Od xenofóbneho veterána k obetavému "Duchu v stroji". Jeho slepota mu umožnila vidieť Tami bez predsudkov.
-*   **Tami:** Archeologička a kapitánka *Makita*. Rozumie Staroreči (angličtine) – kódu k bohom. Stala sa nádobou pre Echo Inetis.
+*   **Tami:** Archeologička a kapitánka *Itaka*. Rozumie Staroreči (angličtine) – kódu k bohom. Stala sa nádobou pre Echo Inetis.
 *   **Elania:** Tragická antagonistka. Dôsledok Inetisinho strachu a celoživotnej izolácie (jaskyňa + Elysium bez otca).
 *   **Samaell:** Cynický pamätník zo Zeme, ktorý pozná Inetis ako "i_net_is" – architektku, nie bohyňu. Potrebuje kráľov krv na opravu vlastného Glitche.
 

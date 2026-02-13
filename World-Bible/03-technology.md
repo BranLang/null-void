@@ -359,21 +359,22 @@ Existujú aj lietadlá — dvojplošníky poháňané biodieselom alebo etanolov
 
 **Lietadiel je však málo.** Spaľovacie motory vyžadujú vysokú presnosť výroby — piesty, valce, kľukové hriadele — a v svete bez elektriny a výrobných liniek je každý motor ručná práca špecialistu (zvyčajne Maka alebo jeho učňa). Neexistuje masová výroba. Každé lietadlo je unikát, drahý a ťažko nahraditeľný. Väčšina krajín má len hŕstku funkčných strojov. Preto sú vzducholode dominantnou formou leteckej dopravy — ich konštrukcia je jednoduchšia (balón, rám, jednoduchý parný pohon).
 
-#### Makita — Prelomová Technológia
+#### Itaka — Prelomová Technológia
 
-Vzducholoď *Makita* (Tami) je technologická anomália — jej pohon je radikálne odlišný od bežných vzducholodí:
+Vzducholoď *Itaka* (Tami) je technologická anomália — jej pohon je radikálne odlišný od bežných vzducholodí:
 
 | Aspekt | Detail |
 |--------|--------|
 | **Pohon** | **Spira kryštály** — para poháňa vrtule |
 | **Princíp** | Spira kryštály po chemickej aktivácii (špeciálna priemyselná kyselina) vylučujú enormné teplo. Voda sa mení na paru okamžite. |
-| **Výhoda 1 — Tichosť** | Makita je *tichá*. Žiadne spaľovacie motory, žiadne hučanie. Len jemné syčanie pary cez vrtule. V noci je takmer nepočuteľná. |
+| **Výhoda 1 — Tichosť** | Itaka je *tichá*. Žiadne spaľovacie motory, žiadne hučanie. Len jemné syčanie pary cez vrtule. V noci je takmer nepočuteľná. |
 | **Výhoda 2 — Maskovanie** | Para sa dá vypustiť okolo vzducholode a vytvoriť **umelý oblak** — dokonalé maskovanie. Loď zmizne v bielej hmle za sekundy. |
-| **Výhoda 3 — Palivo zadarmo** | Makita nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Spira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Makita si doplní nádrže z najbližšieho potoka. |
-| **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Dovážajú sa z ďalekého východu, z podzemných baní na severe Nyau, na pokraji civilizácie uprostred divočiny. Bez nich je Makita len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
+| **Výhoda 3 — Palivo zadarmo** | Itaka nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Spira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Itaka si doplní nádrže z najbližšieho potoka. |
+| **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Dovážajú sa z ďalekého východu, z podzemných baní na severe Nyau, na pokraji civilizácie uprostred divočiny. Bez nich je Itaka len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
 | **Pôvod** | Postavená v Kitó z pozostatkov lode Hephaestus. Technológia Maki. |
+| **Meno** | Pôvodne *Makina* („Malý Stroj") od staviteľov Maki. Renn ju premenoval na *Itaku* — pomenovaná po ostrove z Odyssey. |
 
-> **Prečo je Makita výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Makita je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
+> **Prečo je Itaka výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Itaka je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
 
 ### Maki Tech (High-End)
 Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Maki vyvinuli vrcholné analógové majstrovstvo.

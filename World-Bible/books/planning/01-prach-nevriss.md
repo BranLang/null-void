@@ -10,11 +10,11 @@
 
 ### Prologue: Príchod (Hotovo)
 **Súbor:** `drafts/main-arc/00-prologue.md`
-*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Makita*.
+*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Itaka*.
 
 ### Kapitola 1: Karakuri (Hotovo)
 **Súbor:** `drafts/main-arc/01-karakuri.md`
-*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Makita*.
+*   **Dej:** Maks a Tami prilietajú do Shoraven na lodi *Itaka*.
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
     *   Tami vybavuje opravu u miestneho Maka.
@@ -59,7 +59,7 @@
 
 ### Kapitola 6: Nebeské Kladivo (Hotovo)
 **Súbor:** `drafts/main-arc/06-sky-hammer.md`
-*   **The Counter-Attack**: *Makita* vzlietne ako vojnová loď. Felix (122mm) čistí cestu.
+*   **The Counter-Attack**: *Itaka* vzlietne ako vojnová loď. Felix (122mm) čistí cestu.
 *   **Dogfight**: Grawská Valkýra zostrelí veži — Maks padá.
 
 ### Kapitola 7: Prebudenie (Hotovo)

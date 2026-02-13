@@ -188,7 +188,7 @@ O polnoci prišiel posol od Brana. Mladý chlapec — Ghorki, sotva pätnásť, 
 
 Maks stál na streche a díval sa na mesto, ktoré pomaly zomieralo. Oranžové svetlá požiarov, biely dym, zelené svetlice Graw, ktoré padali na padákoch a osvetľovali ulice mŕtvolným svetlom. Niekde dole sa rozpadla strecha a do noci vyleteli iskry — tisícky oranžových bodiek, ktoré stúpali k hviezdam a hasli.
 
-*Matematika: neprežiteľná. Pri súčasnom tempe strát padne Tretia hradba do svitania. Potom centrum. Potom prístav. Potom Makita.*
+*Matematika: neprežiteľná. Pri súčasnom tempe strát padne Tretia hradba do svitania. Potom centrum. Potom prístav. Potom Itaka.*
 
 *Potom Tami.*
 
@@ -466,7 +466,7 @@ Maks to počul. Paľba pokračovala. Výbuchy pokračovali. Grawská armáda nem
 
 *Alebo sa rozhodnú pomstou.*
 
-Musel sa dostať k Tami. K Makite. K Felixovi.
+Musel sa dostať k Tami. K Itake. K Felixovi.
 
 Otvoril dvere pivnice. Vyhrabal sa po schodoch na ulicu — každý schod bol hora, každý nádych bol boj. Svet sa mu točil. Kolená sa podlamovali. Oprel sa o stenu vyhoreného domu — tehly boli ešte teplé, omietka mu drobila pod rukou — a snažil sa dýchať. Mrazivý vzduch mu rezal v pľúcach. Chutil krv a popol.
 
@@ -488,7 +488,7 @@ Ignoroval.
 
 Prístav.
 
-Makita sa hojdala na vlnách v doku číslo sedem — trupy skrípali o drevené kolíky, laná napínali a uvoľňovali v rytme, ktorý znel ako dýchanie. Nad ňou sa dvíhal balón — napoly nafúknutý, napoly spľasnutý, koža zvieraťa, ktoré sa snažilo dýchať. Okolo neho sa pohybovala posádka — rýchle, efektívne tiene, bez slov, bez zbytočného pohybu.
+Itaka sa hojdala na vlnách v doku číslo sedem — trupy skrípali o drevené kolíky, laná napínali a uvoľňovali v rytme, ktorý znel ako dýchanie. Nad ňou sa dvíhal balón — napoly nafúknutý, napoly spľasnutý, koža zvieraťa, ktoré sa snažilo dýchať. Okolo neho sa pohybovala posádka — rýchle, efektívne tiene, bez slov, bez zbytočného pohybu.
 
 Tami stála pri kompresore. Ruky po lakte v oleji a kove — čiernom, mazlavom, páchnucom spáleným kaukom. Axiálne čerpadlo od Karakuriho sedelo v objímke — nové, presné, jeho leštená oceľ nesedela medzi zvyškom zhrdzaveného príslušenstva. Posledná skúška. Tami otočila ventilom. Pod prstami cítila chlad mosadze a jemné zachvenie kovu, keď sa mechanizmus pohol.
 
@@ -506,7 +506,7 @@ Zahrčal. Zachrastal. A potom — rovnomerný, hlboký hukot, ktorý sa prenáš
 
 „Ide," vydýchla Tami. Ruky sa jej triasli, ale úsmev na tvári bol divoký — ten úsmev Líšky, ktorý sa objavoval, keď bolo najhoršie, a znamenal, že niekto za to zaplatí. „Nafukuj!"
 
-Posádka reagovala. Balón sa začal pomaly dvíhať — plátno sa napínalo, švy praskali pod tlakom, vzduch zapáchal gumou a ozónom. Makita sa odlepila od vody — centimeter, dva, pol metra. Trup zavŕzgal, keď opustil hladinu.
+Posádka reagovala. Balón sa začal pomaly dvíhať — plátno sa napínalo, švy praskali pod tlakom, vzduch zapáchal gumou a ozónom. Itaka sa odlepila od vody — centimeter, dva, pol metra. Trup zavŕzgal, keď opustil hladinu.
 
 V tom momente prišli vojaci s Maksom.
 
@@ -542,15 +542,15 @@ Tami naňho pozrela. Tyrkysové oči, úzke ako štrbiny. „Si sotva pri vedom�
 
 „Moje nanoboty stále fungujú ako senzory. Ukážem ti presne kam strieľať."
 
-Balón sa plnil. Makita stúpala. Pod nimi sa zmenšoval prístav — tmavé doky, rybárske lode, roztrúsení civilisti — malé, pomalé, bezmocné postavičky na okraji vojny. Pred nimi — mesto v plameňoch. Vzduch chladol s každým metrom výšky. Vietor zosilnel — studený, čistý, bez sadzí. Prvýkrát za hodiny Maks dýchal vzduch, ktorý nevoňal smrťou.
+Balón sa plnil. Itaka stúpala. Pod nimi sa zmenšoval prístav — tmavé doky, rybárske lode, roztrúsení civilisti — malé, pomalé, bezmocné postavičky na okraji vojny. Pred nimi — mesto v plameňoch. Vzduch chladol s každým metrom výšky. Vietor zosilnel — studený, čistý, bez sadzí. Prvýkrát za hodiny Maks dýchal vzduch, ktorý nevoňal smrťou.
 
 A nad nimi — dvojplošníky.
 
-Maks ich videl skôr, než ich počul. Dva stroje sa odtrhli z obežnej dráhy a zamierili priamo k Makite. Motory zavýjali — ten ostrý, chrapľavý zvuk rozostavaných piestov, ktorý sa niesol nočným vzduchom ako výkrik dravca.
+Maks ich videl skôr, než ich počul. Dva stroje sa odtrhli z obežnej dráhy a zamierili priamo k Itake. Motory zavýjali — ten ostrý, chrapľavý zvuk rozostavaných piestov, ktorý sa niesol nočným vzduchom ako výkrik dravca.
 
 „Strieľajú!" kričal Maks. „Para! Vypusť paru!"
 
-Tami reagovala inštinktívne. Otočila ventilom na parnom kotli Makity — a z bočných výpustí vyrazili dva mohutné stĺpy bielej pary. Horúca, hustá, nepriehľadná. Syčala tak, až ju bolo počuť cez streľbu. Zmiešala sa s nočným vzduchom a vytvorila oblak, v ktorom Makita zmizla ako loď v hmle. Vlhkosť sa im okamžite usadila na koži, na vlasoch, na kove zbraní — všetko bolo naraz mokré a teplé.
+Tami reagovala inštinktívne. Otočila ventilom na parnom kotli Itaky — a z bočných výpustí vyrazili dva mohutné stĺpy bielej pary. Horúca, hustá, nepriehľadná. Syčala tak, až ju bolo počuť cez streľbu. Zmiešala sa s nočným vzduchom a vytvorila oblak, v ktorom Itaka zmizla ako loď v hmle. Vlhkosť sa im okamžite usadila na koži, na vlasoch, na kove zbraní — všetko bolo naraz mokré a teplé.
 
 Guľomety dvojplošníkov zaštekali. Strieľali naslepo — strely prešli parou a stratili sa v tme. Jedna zazvonila o trup — ostrý, vysoký tón vibrujúceho dreva. Ďalšia prešila plátno balóna — malá diera, syčanie, ale nič fatálne.
 
@@ -558,7 +558,7 @@ Guľomety dvojplošníkov zaštekali. Strieľali naslepo — strely prešli paro
 
 „Nevidia nás," povedal Maks. „Ale ja vidím ich."
 
-Makita stúpala cez vlastný parný oblak. Zvonka — nepriehľadná biela hmla, v ktorej sa mihal oranžový odlesk požiarov zdola. Zvnútra — Maks stál s rukou na stožiari, oči sivé a neprirodené, a *videl*. Svet okolo nich bol mliečna prázdnota, ale v jeho hlave — jasná mapa bodov, vektorov, trajektórií.
+Itaka stúpala cez vlastný parný oblak. Zvonka — nepriehľadná biela hmla, v ktorej sa mihal oranžový odlesk požiarov zdola. Zvnútra — Maks stál s rukou na stožiari, oči sivé a neprirodené, a *videl*. Svet okolo nich bol mliečna prázdnota, ale v jeho hlave — jasná mapa bodov, vektorov, trajektórií.
 
 „Prvý je sto metrov vpravo. Ide priamo na nás."
 
@@ -580,7 +580,7 @@ Druhý dvojplošník narazil do prvého. V hmle, naslepo, v panike. Plátno sa t
 
 Tami vydýchla. Ruky sa jej triasli na pákach. Kvapka potu — alebo pary — jej stekla po spánku.
 
-Makita vystúpila z parného oblaku do čistého nočného vzduchu. Prechod bol náhly — z vlhkej bielej hmly do ostrého mrazu a hviezd. Pod nimi — mesto v plameňoch. Nad nimi — prázdna obloha, taká veľká a ľahostajná, až z nej boleli oči.
+Itaka vystúpila z parného oblaku do čistého nočného vzduchu. Prechod bol náhly — z vlhkej bielej hmly do ostrého mrazu a hviezd. Pod nimi — mesto v plameňoch. Nad nimi — prázdna obloha, taká veľká a ľahostajná, až z nej boleli oči.
 
 „Sme hore," povedala Tami. Ruky na pákach Felixa. Oči na meste pod nimi.
 
@@ -592,7 +592,7 @@ Maks sa oprel o stožiar. Svet sa mu točil. Z nosa mu kvapkala krv na palubu �
 
 „Grawská pechota sa tam zhromaďuje. Asi dve roty. Pripravujú sa na finálny prienik do centra."
 
-Tami priložila oko k zameriavaču. Studený kov na lícnej kosti. Ruky na pákach. Celá Makita sa naklonila, keď hydraulika otočila monštruóznu hlaveň — zaškrípala, kovovo, pomaly, ako kĺb starého obra.
+Tami priložila oko k zameriavaču. Studený kov na lícnej kosti. Ruky na pákach. Celá Itaka sa naklonila, keď hydraulika otočila monštruóznu hlaveň — zaškrípala, kovovo, pomaly, ako kĺb starého obra.
 
 „Elevácia 38. Dva stupne doprava," povedal Maks.
 
@@ -602,7 +602,7 @@ Stlačila.
 
 **BUM.**
 
-Makita sa vo vzduchu posunula o tri metre dozadu spätným rázom. Z hlavne vyšľahol plameň, ktorý na okamih osvetlil celé mesto — oranžový blesk, v ktorom bolo na sekundu vidieť všetko: strechy, ulice, telá, sneh. A potom zasa tma.
+Itaka sa vo vzduchu posunula o tri metre dozadu spätným rázom. Z hlavne vyšľahol plameň, ktorý na okamih osvetlil celé mesto — oranžový blesk, v ktorom bolo na sekundu vidieť všetko: strechy, ulice, telá, sneh. A potom zasa tma.
 
 Strela dopadla na križovatku. Nie priamo do zhlukov — vedľa. Do budovy, za ktorou sa ukrývali zásoby munície. Sekundárna explózia roztrhla celý blok. Stĺp ohňa a dymu vyrazil do neba. Tlaková vlna im doletela na palubu — hrejivá, jemná, zďaleka.
 
@@ -630,11 +630,11 @@ Most sa zrútil. Tanky spadli do rieky aj s posádkami — mohutný, basový spl
 
 Tretí výstrel. Štvrtý.
 
-Každý výstrel bol zemetrasenie. Makita sa zakývala, trup zavŕzgal, rebrá lode zapraskali. Dym z hlavne — sírnatý, ostrý, od ktorého pálili oči — sa valil cez palubu a nútil posádku kašľať. Uši tíchli po každom výstrele — tupý, bzučiaci tlak, cez ktorý bolo počuť len dunenie vlastného srdca.
+Každý výstrel bol zemetrasenie. Itaka sa zakývala, trup zavŕzgal, rebrá lode zapraskali. Dym z hlavne — sírnatý, ostrý, od ktorého pálili oči — sa valil cez palubu a nútil posádku kašľať. Uši tíchli po každom výstrele — tupý, bzučiaci tlak, cez ktorý bolo počuť len dunenie vlastného srdca.
 
 Grawské pozície na Severnom bulvári sa zmenili na krátery. Zálohy — čerstvé jednotky, ktoré ešte neboli v boji — sa rozutekali do polí. Maks ich videl cez senzory — červené bodky, rozbehnuté do všetkých smerov, bez formácie, bez smeru, bez veliteľa. Dôstojníci kričali na mužov, ale mužovia nepočúvali, pretože nikto im nevedel povedať, na koho rozkaz čakajú.
 
-Piaty výstrel zasiahol muničný sklad na kopci. Ten istý kopec, kde pred hodinou stál Grondov stan. Reťazová explózia — granáty, bariéle s prachom, zápalné zmesi — vyslala do neba ohnivý stĺp, ktorý bolo vidieť z celého mesta. Oranžový hríb s čiernym kmeňom, stúpajúci do mrazu nočnej oblohy. Tlaková vlna doletela až k Makite — jemné zachvenie, teplý prúd vzduchu, pach korditu a horiacej smoly.
+Piaty výstrel zasiahol muničný sklad na kopci. Ten istý kopec, kde pred hodinou stál Grondov stan. Reťazová explózia — granáty, bariéle s prachom, zápalné zmesi — vyslala do neba ohnivý stĺp, ktorý bolo vidieť z celého mesta. Oranžový hríb s čiernym kmeňom, stúpajúci do mrazu nočnej oblohy. Tlaková vlna doletela až k Itake — jemné zachvenie, teplý prúd vzduchu, pach korditu a horiacej smoly.
 
 Obrancovia na radnici to videli. Seržant Bran to videl — jedným okom, spoza barikády z rozbitého nábytku a mŕtvych. Kňazi a rybári a kováči to videli.
 
@@ -702,7 +702,7 @@ Prvé svetlo prišlo zo severovýchodu.
 
 Tenké, ružové, nesmelé — ako keby sa slnko bálo pozrieť na to, čo noc napáchala. Osvetlilo trosky. Dymiace ruiny. Telá v sivých kabátoch aj v rybárskych zásterách, pohádzané vedľa seba na dlažbe, v pozíciách, ktoré nedávali zmysel živým. Jeden Grawčan a jeden rybár ležali obaja tvárou hore, rameno pri ramene, ako starí priatelia, čo zaspali na lavičke.
 
-Maks stál pri zábradlí Makity a díval sa dolu. Vzduch bol studený — ten ostrý, ranný chlad, čo pálil v nozdrách. Vonial spáleninou a meďou a niečím novým — čerstvosťou, rozmrzajúcim snehom, dychom rána, ktoré sa nechcelo narodiť.
+Maks stál pri zábradlí Itaky a díval sa dolu. Vzduch bol studený — ten ostrý, ranný chlad, čo pálil v nozdrách. Vonial spáleninou a meďou a niečím novým — čerstvosťou, rozmrzajúcim snehom, dychom rána, ktoré sa nechcelo narodiť.
 
 *Bitka končí. Grawská armáda v dezintegrácii. Zvyšky odporu: lokálne, izolované. Obrancovia: 31 funkčných. Civilné straty: neodhadnuteľné.*
 
@@ -724,7 +724,7 @@ Posádka reagovala — rotačné guľomety chrčali, ale pilot sa stočil za dym
 
 „Balón!" kričal niekto z posádky. „Hélium uniká! Klesáme!"
 
-Makita sa zakývala. Začala padať — nie rýchlo, nie katastroficky, ale nezvratne. Plátno balóna sa krčilo, syčalo, mŕtvelo. Pod nohami Maks cítil, ako sa paluba nakláňa — pomaly, plynulo, ako keby sa celá loď otáčala na boku.
+Itaka sa zakývala. Začala padať — nie rýchlo, nie katastroficky, ale nezvratne. Plátno balóna sa krčilo, syčalo, mŕtvelo. Pod nohami Maks cítil, ako sa paluba nakláňa — pomaly, plynulo, ako keby sa celá loď otáčala na boku.
 
 Maks stál pri zábradlí. Prsty zovreté okolo kovu — studený, mokrý od rannej rosy. Videl, ako sa dvojplošník vracia — úzky oblúk, motor kašľal a pľul čierny dym, ale pilot bol odhodlaný.
 
@@ -736,7 +736,7 @@ Strela prešla cez zábradlie pol metra od Maksa. Cítil prúd vzduchu na líci.
 
 A potom — náraz.
 
-Nie strela. Makita narazila bokom do strechy radnice. Klesajúca loď sa zachytila o vežičku — kov a drevo zaškrípali, zvuk, od ktorého boleli zuby, balón sa prevrátil, celý svet sa naklonil. Maks cítil, ako mu nohy strácajú kontakt s palubou — gravitácia ho ťahala nabok, prsty sa mu skĺzli z mokrého zábradlia.
+Nie strela. Itaka narazila bokom do strechy radnice. Klesajúca loď sa zachytila o vežičku — kov a drevo zaškrípali, zvuk, od ktorého boleli zuby, balón sa prevrátil, celý svet sa naklonil. Maks cítil, ako mu nohy strácajú kontakt s palubou — gravitácia ho ťahala nabok, prsty sa mu skĺzli z mokrého zábradlia.
 
 Maks stratil rovnováhu.
 
@@ -752,7 +752,7 @@ A potom padal.
 
 Pád netrval dlho. Ale pre Maksa to bola večnosť.
 
-Videl strechy, ktoré sa točili. Videl oblohu, ako sa vzďaľuje — tá ružová, tá krásna, tá ľahostajná. Videl Makitu — naklonenú, dymiacu, s balónom, čo sa rútil ako strhnutá plachta. Počul vietor. Počul vlastný dych.
+Videl strechy, ktoré sa točili. Videl oblohu, ako sa vzďaľuje — tá ružová, tá krásna, tá ľahostajná. Videl Itaku — naklonenú, dymiacu, s balónom, čo sa rútil ako strhnutá plachta. Počul vietor. Počul vlastný dych.
 
 A potom prišiel náraz.
 

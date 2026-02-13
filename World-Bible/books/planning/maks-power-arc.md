@@ -96,7 +96,7 @@ Maks zabije Gronda pomocou Blood Rituálu. FPV nanodróny prenikli do Grondovho 
 
 Maks prežije pád. Sotva. **Upadne do kómy.**
 
-Tami ho nájde. Naloží na Makitu. Odvezie do **Kitsune**. Felix sa o neho stará.
+Tami ho nájde. Naloží na Itaku. Odvezie do **Kitsune**. Felix sa o neho stará.
 
 Tami klame svetu: *"Generál zomrel v boji."* Chráni ho — ak by sa vedelo, že žije, Cirkev/Archanjeli by ho hľadali.
 
