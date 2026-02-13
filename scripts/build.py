@@ -37,21 +37,19 @@ strip_comments = clean_module.strip_comments
 # Chapter order for each book
 BOOK_CHAPTERS = {
     'book-1-prach-nevriss': [
-        'main-arc/00-prologue.md',
-        # 'main-arc/01.1-interlude-far-from-snow.md',
-        'main-arc/01-karakuri.md',
-        'main-arc/02-dead-bells.md',
-        'main-arc/03-tunnels.md',
-        'main-arc/04-elanias-blade.md',
-        'main-arc/04.1-interlude-glass-city.md',
+        'heist-arc/00-prologue.md',
+        'heist-arc/01-karakuri.md',
+        'heist-arc/02-dead-bells.md',
+        'heist-arc/03-tunnels.md',
+        'heist-arc/04-elanias-blade.md',
+        'heist-arc/04.1-interlude-glass-city.md',
         # 'links-arc/01-golden-cage.md',
         # 'links-arc/02-frozen-bridge.md',
         # 'links-arc/03-antiquarian.md',
         # 'links-arc/03-desolation.md',
-        # 'main-arc/05-blood-ritual.md',
-        # 'main-arc/06-sky-hammer.md',
-        # 'main-arc/07-awakening.md',
-        # 'main-arc/08-epilogue-blockade-run.md',
+        # 'maks-arc/05-blood-ritual.md',
+        # 'maks-arc/06-sky-hammer.md',
+        # 'maks-arc/07-dust-of-achilles.md',
     ],
 }
 
