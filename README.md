@@ -98,7 +98,8 @@ Human soldier. 3,000 years displaced. Eyes of black nanodust. Pragmatic, laconic
 </td>
 <td width="25%" align="center">
 
-![Tami](World-Bible/assets/characters/Tami/image.png)
+![Tami](World-Bible/assets/characters/Tami/tami-cold.png)
+
 **Tami**<br/>
 *The Fox*<br/>
 Varietas pirate. Captain of the airship Itaka. Carries a dead goddess without knowing it.
@@ -115,11 +116,11 @@ Ancient warrior. Three voices. Serves a master she'll never betray. The most dan
 </td>
 <td width="25%" align="center">
 
-![Elania](World-Bible/assets/characters/Elania/Elania.png)
+![Links](World-Bible/assets/characters/Links/links-concept.png)
 
-**Elania**<br/>
-*The Daughter*<br/>
-Maks's child he never knew. ~3,000 years old. Conceived during FTL. Wants to end biological suffering — by ending biology.
+**Links**<br/>
+*The prodigy*<br/>
+22 year old assistant professor from strange land behind the ocean.
 
 </td>
 </tr>

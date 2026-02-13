@@ -114,7 +114,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
   - Morálny kompromis — Maks zabíja rutinne, Tami pragmaticky akceptuje násilie
   - Psychologická tma — Elania nihilizmus, 2750 rokov samoty
 - **Pravidlo:** Grimdark nikdy nie je gratuitný — vždy odhaľuje charakter alebo posúva tému.
-- **Príklad z Ch3:** Blood Ritual nie je torture porn — je to vojak obetujúci vlastné telo, lebo matematika hovorí, že iná cesta neexistuje.
+- **Príklad z Ch3:** Blood Ritual nie je torture — je to vojak obetujúci vlastné telo, lebo matematika hovorí, že iná cesta neexistuje.
 
 ### Pravidlo koexistencie
 
@@ -155,10 +155,9 @@ NULL VOID nie je uzavretý príbeh s definovaným koncom. Je to **živý svet** 
 
 Sandbox znamená, že každé „čo keby" je legitímny príbeh:
 
-- **Keby Maks nezomrel na Zemi:** Maks a Inetis zakladajú dynastiu po tom, čo Koordinátor odíde do dôchodku. Žiadny Achilles. Žiadna Spira. Politický thriller na Zemi.
 - **Keby Maks zomrel v Šoravene:** Tami + Links. Anténa sa dostane niekomu inému. Upload sa možno nikdy nestane.
 - **Keby Inetis zobudila Maksa po 300 rokoch:** Iný Achilles — menší, mladší svet. Maks a Inetis spolu budujú civilizáciu. Elania vyrastá s oboma rodičmi.
-- **Keby Elania nikdy neodišla z Elysia:** Svet bez Upload hrozby. Wraithy sú najväčší problém. Sera nemá pána.
+
 
 **What If ako naratívny nástroj:** V Knihe 5 Elania použije What If priamo ako zbraň — ukáže Maksovi simuláciu Kieva, kde sa stretne s Inetis ako obyčajnou ženou. Idú na rande. Ako smrteľníci. Toto je najťažšie pokušenie ságy — nie moc, nie raj, ale normálny život, o ktorom vždy sníval.
 
