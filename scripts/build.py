@@ -38,20 +38,20 @@ strip_comments = clean_module.strip_comments
 BOOK_CHAPTERS = {
     'book-1-prach-nevriss': [
         'main-arc/00-prologue.md',
-        'main-arc/01.1-interlude-far-from-snow.md',
+        # 'main-arc/01.1-interlude-far-from-snow.md',
         'main-arc/01-karakuri.md',
         'main-arc/02-dead-bells.md',
         'main-arc/03-tunnels.md',
         'main-arc/04-elanias-blade.md',
         'main-arc/04.1-interlude-glass-city.md',
-        'links-arc/01-golden-cage.md',
-        'links-arc/02-frozen-bridge.md',
-        'links-arc/03-antiquarian.md',
-        'links-arc/03-desolation.md',
-        'main-arc/05-blood-ritual.md',
-        'main-arc/06-sky-hammer.md',
-        'main-arc/07-awakening.md',
-        'main-arc/08-epilogue-blockade-run.md',
+        # 'links-arc/01-golden-cage.md',
+        # 'links-arc/02-frozen-bridge.md',
+        # 'links-arc/03-antiquarian.md',
+        # 'links-arc/03-desolation.md',
+        # 'main-arc/05-blood-ritual.md',
+        # 'main-arc/06-sky-hammer.md',
+        # 'main-arc/07-awakening.md',
+        # 'main-arc/08-epilogue-blockade-run.md',
     ],
 }
 
@@ -323,10 +323,23 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
 
 def run_md_to_pdf(md_path: Path, css_path: Path) -> Path:
     """Run md-to-pdf and return the generated PDF path."""
-    result = subprocess.run(
-        ['md-to-pdf', str(md_path), '--stylesheet', str(css_path)],
-        capture_output=True, text=True, timeout=120
-    )
+    # On Windows, need shell=True to execute .cmd scripts from npm
+    use_shell = (sys.platform == 'win32')
+    
+    # md-to-pdf (Puppeteer) works better with forward slashes on Windows for CSS paths
+    # Convert to string and force forward slashes
+    md_path_str = str(md_path.resolve()).replace('\\', '/')
+    css_path_str = str(css_path.resolve()).replace('\\', '/')
+    
+    print(f"Running md-to-pdf on {md_path_str} with css {css_path_str}...")
+    try:
+        result = subprocess.run(
+            ['md-to-pdf', md_path_str, '--stylesheet', css_path_str],
+            capture_output=False, text=True, timeout=120, shell=use_shell
+        )
+    except subprocess.TimeoutExpired:
+        print(f"Error: md-to-pdf timed out after 120s on {md_path}", file=sys.stderr)
+        sys.exit(1)
     if result.returncode != 0:
         print(f"Error generating PDF:\n{result.stderr}", file=sys.stderr)
         sys.exit(1)
