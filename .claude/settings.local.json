@@ -14,7 +14,11 @@
       "Bash(git stash:*)",
       "Bash(git merge:*)",
       "Bash(wc:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(powershell -ExecutionPolicy Bypass -File:*)",
+      "Bash(del \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\pensive-carson\\\\rename-Itaka.ps1\")",
+      "Bash(git status:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
