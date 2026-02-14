@@ -608,7 +608,7 @@ Strela dopadla na križovatku. Nie priamo do zhlukov — vedľa. Do budovy, za k
 
 „Zásah," povedal Maks. „Nabíjaj."
 
-Posádka sa potila pri nabíjaní. 122-milimetrové náboje vážili tridsať kíl. Bolo počuť funenie, škrípanie kovu, nadávky cez zaťaté zuby.
+Posádka sa potila pri nabíjaní. 122-milimetrové náboje vážili dvadsaťosem kíl. Bolo počuť funenie, škrípanie kovu, nadávky cez zaťaté zuby.
 
 „Sektor západ," povedal Maks. „Most. Tanková kolóna."
 

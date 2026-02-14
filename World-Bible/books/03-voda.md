@@ -1,4 +1,4 @@
-# Kniha 3: VODA-cas – Slzy MatkyATKY (Voda)
+# Kniha 3: VODA-čas – Slzy Matky (Voda)
 **Status:** Plotting
 **Hlavná téma:** Pamäť / Ilúzie / Odhalenie v hĺbkach
 

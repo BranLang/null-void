@@ -66,7 +66,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Tiché zbohom (bod zlomu)
 - Čas: bezprostredne pred AY 0
 - Zhrnutie: Inetis zistí tehotenstvo. Kryospánok by zabil plod, preto oklamala Maksa a nechala ho spať v nevedomosti. Pokúsila sa o genetickú modifikáciu plodu pre kryostázu, no experiment zlyhal.
-- Účastníci: `char.inetis`, `char.maksimilian`, `char.elenia`
+- Účastníci: `char.inetis`, `char.maksimilian`, `char.elania`
 - Lokácie: `place.ship_ark_exodus`
 - Tagy: `rodina`, `tragédia`, `spúšťač`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -104,7 +104,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Narodenie Elenie
 - Čas: pred AY 0
 - Zhrnutie: Elania sa narodí v jaskyni Null-Void po neúspešnom genetickom experimente. Kvôli modifikácii rastie extrémne pomaly.
-- Účastníci: `char.elenia`, `char.inetis`, `char.maksimilian`
+- Účastníci: `char.elania`, `char.inetis`, `char.maksimilian`
 - Lokácie: `place.cave_null_void`
 - Tagy: `rodina`, `dedičstvo`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -122,7 +122,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Prvá vzbura Elenie
 - Čas: AY 0–300 (pracovne)
 - Zhrnutie: Konflikt Matka vs. Dcéra: Inetis chce slobodnú spoločnosť; Elania smeruje k poriadku a nadvláde.
-- Účastníci: `char.elenia`, `char.inetis`
+- Účastníci: `char.elania`, `char.inetis`
 - Lokácie: `place.ynetis`
 - Tagy: `konflikt`, `rodina`, `politika`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -142,7 +142,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~300+
 - Zhrnutie: Nanodrony si uchovávajú fragmenty vedomia mŕtvych; vznikajú blúdiace entity a „techno-nekromancia“.
 - Účastníci: `fac.wraiths`
-- Lokácie: `place.island_atlantis`
+- Lokácie: `place.island_ynetis`
 - Tagy: `nanodrony`, `nemŕtvi`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -151,7 +151,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~300+
 - Zhrnutie: Pôvodní IT technici/bio-inžinieri sa snažia „resetovať“ drony hlasovými kódmi; vzniká tradícia modlitieb ako skomolených CLI príkazov.
 - Účastníci: `fac.exorcists`
-- Lokácie: `place.island_atlantis`
+- Lokácie: `place.island_ynetis`
 - Tagy: `kultúra`, `technológia`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -160,7 +160,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~300+
 - Zhrnutie: Inetis upraví genetiku nových generácií (odstránenie aktívnych dronov = smrteľnosť) a posiela ľudí z ostrova na pevninu.
 - Účastníci: `char.inetis`, `fac.mortals_mainland`
-- Lokácie: `place.island_atlantis`, `place.mainland`
+- Lokácie: `place.island_ynetis`, `place.mainland`
 - Tagy: `migrácia`, `záchrana`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -169,7 +169,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~?
 - Zhrnutie: Inetis ostáva na ostrove a občas (raz za 30–50 rokov) prichádza na pevninu pomôcť pri katastrofách; ľudia ju vnímajú ako bohyňu.
 - Účastníci: `char.inetis`, `fac.mortals_mainland`
-- Lokácie: `place.island_atlantis`, `place.mainland`
+- Lokácie: `place.island_ynetis`, `place.mainland`
 - Tagy: `mýty`, `náboženstvo`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
@@ -178,13 +178,13 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Čas: AY ~?
 - Zhrnutie: AI a „Duchovia“ postupne ovládnu ostrovné mesto; Inetis stráca kontrolu a musí utiecť.
 - Účastníci: `char.inetis`, `char.the_void`, `fac.wraiths`
-- Lokácie: `place.island_atlantis`, `place.mainland`
+- Lokácie: `place.island_ynetis`, `place.mainland`
 - Tagy: `pád_utópie`, `prenasledovanie`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
 
 ### `evt.achilles.inetis_death_cave`
 - Názov: Smrť Inetis v samote
-- Čas: AY ~700
+- Čas: AY ~852
 - Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maksom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a glitchnutá Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
 - Účastníci: `char.inetis`
 - Lokácie: `place.cave_null_void`
@@ -204,7 +204,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.great_battle`
 - Názov: Veľká Bitka (Atra Narrows)
 - Čas: AY ~850
-- Zhrnutie: Triumvirát (Grond, Samaell, Zaiya/Ishtar) zaútočí na Varietas posilnených Spirou. Genocída líšok (Vulpini). Inetis sa objaví na bojisku. Bitka skončí paritou — ale líšky sú zdecimované.
+- Zhrnutie: Triumvirát (Grond, Samaell, Zaya/Ishtar) zaútočí na Varietas posilnených Spirou. Genocída líšok (Vulpini). Inetis sa objaví na bojisku. Bitka skončí paritou — ale líšky sú zdecimované.
 - Účastníci: `char.inetis`, `char.grond`, `char.samaell`, `char.ishtar`, `char.renn`, `fac.vulpini`
 - Lokácie: `place.atra_narrows`, `place.mainland`
 - Tagy: `vojna`, `genocída`, `bitka`
@@ -334,7 +334,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Južná kampaň (Ishtar)
 - Čas: Kniha 3 (pracovne)
 - Zhrnutie: Ishtar mučí Maksa ilúziami; odhalenie, že 4. Archanjel je Elania.
-- Účastníci: `char.maksimilian`, `char.tami`, `char.ishtar`, `char.elenia`
+- Účastníci: `char.maksimilian`, `char.tami`, `char.ishtar`, `char.elania`
 - Lokácie: `place.south`
 - Tagy: `psychologická_vojna`, `odhalenie`
 - Zdroj: `world-bible.md`
@@ -343,7 +343,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Otvorená vojna s Eleniou
 - Čas: Kniha 4 (pracovne)
 - Zhrnutie: Elania aktivuje armádu Duchov; konflikt Otec vs. Dcéra.
-- Účastníci: `char.maksimilian`, `char.tami`, `char.elenia`, `fac.wraiths`
+- Účastníci: `char.maksimilian`, `char.tami`, `char.elania`, `fac.wraiths`
 - Lokácie: `place.achilles`
 - Tagy: `vojna`, `rodina`
 - Zdroj: `world-bible.md`
@@ -352,7 +352,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Doomsday Protocol
 - Čas: Kniha 4 (pracovne)
 - Zhrnutie: Globálna nanodronová búrka, ktorá má vymazať organickú hmotu.
-- Účastníci: `char.elenia`, `char.the_void`
+- Účastníci: `char.elania`, `char.the_void`
 - Lokácie: `place.achilles`
 - Tagy: `apokalypsa`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -361,7 +361,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Vypustenie THE VOID
 - Čas: Kniha 4 (pracovne)
 - Zhrnutie: Zničenie posledného uzla Pentagramu vypustí pôvodnú deštruktívnu AI.
-- Účastníci: `char.elenia`, `char.the_void`
+- Účastníci: `char.elania`, `char.the_void`
 - Lokácie: `place.achilles`, `place.core`
 - Tagy: `apokalypsa`, `twist`
 - Zdroj: `world-bible.md`, `null-void-saga.md`
@@ -370,7 +370,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Maksov upload (obeta)
 - Čas: Kniha 5 (pracovne)
 - Zhrnutie: Finálny boj v „Cyberspace“; Maks uploadne vedomie a prepíše kód AI.
-- Účastníci: `char.maksimilian`, `char.tami`, `char.elenia`, `char.the_void`
+- Účastníci: `char.maksimilian`, `char.tami`, `char.elania`, `char.the_void`
 - Lokácie: `place.core`, `concept.cyberspace`
 - Tagy: `obeta`, `finále`
 - Zdroj: `world-bible.md`
@@ -379,7 +379,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Názov: Zmier a nový začiatok
 - Čas: po Knihe 5
 - Zhrnutie: Technológia a príroda sa prepájajú; Tami vedie novú spoločnosť; Elania prežije (vykúpenie alebo smrteľnosť).
-- Účastníci: `char.tami`, `char.elenia`, `char.maksimilian`
+- Účastníci: `char.tami`, `char.elania`, `char.maksimilian`
 - Lokácie: `place.achilles`
 - Tagy: `epilóg`
 - Zdroj: `world-bible.md`

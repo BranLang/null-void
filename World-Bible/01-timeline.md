@@ -134,7 +134,7 @@ Varietas delia históriu nábožensky:
 - Zem sa stala "mostom" — rozhodli sa ho zničiť
 - Zem je zničená
 - **Operácia EXODUS:**
-  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maksimilián, odlet EY 2301, pristátie EY 2304 (3-ročná cesta)
+  - `NULL VOID` (FTL Prototyp) — úniková loď, Inetis + Maksimilián, odlet EY 2301, pristátie EY 2303 (2-ročná cesta)
   - NULL VOID využíva technológiu Tieňových na dosiahnutie nulovej hmotnosti → FTL
   - **Paradox**: ARK lode odleteli 151 rokov PRED NULL VOID (EY 2150), ale pristáli 300 rokov PO nej (AY 0 = EY 2604)
 - **ARK-13 "Prometheus"**: Loď Ex Inferis, zostala na orbite Alpha Centauri, neskôr dorazila na Achilles (AY ~700).
@@ -240,7 +240,7 @@ Varietas delia históriu nábožensky:
     **Ex inferis** zacnu lupezne vojny na uzemia Varietas, - potrebuju ludske(varietas) obete, potraviny alebo zabavu.
 
 ### AY ~850: Veľká Bitka (Atra Narrows)
-- **Veľká vojna**: Triumvirát (Grond, Samaell, Zaiya/Ishtar) zaútočí na Varietas posilnených Spirou. Inetis sa objaví na bojisku.
+- **Veľká vojna**: Triumvirát (Grond, Samaell, Zaya/Ishtar) zaútočí na Varietas posilnených Spirou. Inetis sa objaví na bojisku.
 - **Genocída líšok**: Líšky (Vulpini) — najlepší stratégovia a Spira programátori — boli primárny cieľ. Zdecimované.
 - **Exodus líšok na východ**: Posledné líščie rodiny utečú na východ. **Renn** (Islanďan, člen Core Teamu Inetis) ich dobrovoľne eskortuje cez nebezpečnú Divočinu. **Inetis ide s nimi** — nie sama, ako hovoria legendy.
 - **Založenie Kita (~AY 850-950)**: Renn a líšky založia mesto **Kitana** (neskôr Kitsune, neskôr Kito) na tajných koordinátoch od Inetis — čakáreň na Tretí Príchod (miesto pristátia Maki).

@@ -47,7 +47,7 @@
 ### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
 - **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
-- **Loď**: Vlastní vzducholoď **Itaka** (trieda Jastrab, 4. kus).
+- **Loď**: Vlastní vzducholoď **Itaka** (trieda Makina, 4. kus).
     - **Pôvod**: Postavená Makmi pre jej otca. Pôvodne *Makina* („Malý Stroj") od Makov. Renn ju premenoval na *Itaku* — domov, ktorý celý život hľadal.
     - **Výzbroj**: Hlavný kanón je **"Felix"** — vzácny zásobníkový kanón od legendárneho európskeho Maka Felixa. Spira munícia = fialové záblesky.
 - **Zbrane**:
@@ -79,7 +79,8 @@
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny
 - **5 rokov mlčania**: Nevideli sa, nekomunikovali
 - **Znovuzjednotenie**: Opening knihy — napätie, nevyriešené city, nový účel (heist)
-- **Maksova smrť**: Maks padne zo vzducholode počas boja. Umiera v plameňoch a troskách — Tami nad ním plače, ale on ju už nepočuje. V posledných sekundách vidí kaviareň v Kyjeve, rok 2075, Inetis oproti nemu. Vojak sa vrátil domov.
+- **Maksova prvá smrť (Book 1)**: Maks padne zo vzducholode počas boja. Umiera v plameňoch a troskách — Tami nad ním plače, ale on ju už nepočuje. V posledných sekundách vidí kaviareň v Kyjeve, rok 2075, Inetis oproti nemu. Vojak sa vrátil domov. Ale nie navždy — Maks sa vráti z mŕtvych.
+- **Maksova definitívna smrť (Book 5)**: Maks použije svoje vedomie ako záplatu na uzavretie trhliny v Jadre. Jeho vedomie sa definitívne oddelí od tela a stane sa súčasťou planetárnej siete. Zomiera v Jadre. Tami pri ňom plače. Tentokrát sa nevráti.
 
 ### Návrat do Jaskyne Ela — Pochovanie Maksa
 
