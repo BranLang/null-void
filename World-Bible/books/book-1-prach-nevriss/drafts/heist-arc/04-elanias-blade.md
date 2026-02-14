@@ -6,7 +6,7 @@ Maks zostúpil posledných dvadsať schodov sám.
 
 Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Chladnejší. Ale nie suchší — voda mu siahala po členky. Čierna, studená, tichá. Steny lesklé vlhkosťou, s tmavými pruhmi, čo naznačovali, že hladina nebývala vždy taká nízka.
 
-*Hladina: +14cm/h*, oznámil Asistent. *Lunárna fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
+*Hladina: +14cm/h*, oznámil Asistent. *Sai fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
 
 A na konci tunela — brána.
 
@@ -154,7 +154,7 @@ Ticho.
 
 Kráčali paralelným tunelom — užším, ale rýchlejším. Voda im siahala po kolená. Stúpala. Tami cítila, ako studený prúd ťahá okolo jej nôh — pomaly, ale neúprosne.
 
-„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Splnomesiac. Tunely pod Chrámom sú pod úrovňou mora — príliv ich zaplavuje dvakrát denne." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
+„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai je v splne. Tunely pod Chrámom sú pod úrovňou mora — príliv ich zaplavuje dvakrát denne." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
 
 Maks sledoval ich stopu cez drony. Tami viedla. A voda stúpala.
 
@@ -252,7 +252,7 @@ Vyrazili za ňou.
 
 Voda im siahala po kolená. Stúpala — pomaly, neúprosne, ako dych spiaceho mora. Kito sa obzeral po stenách, kde vlhkosť nechávala tmavé pruhy čoraz vyššie.
 
-„Príliv," zašepkal. „Mesiac je v splne — príliv stúpa." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
+„Príliv," zašepkal. „Sai je v splne — príliv stúpa." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
 
 *[Knihovník vie o prílivoch. Dobrá poznámka.]*
 
