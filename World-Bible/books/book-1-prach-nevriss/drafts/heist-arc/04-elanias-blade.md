@@ -268,15 +268,31 @@ A potom zdvihla ruky.
 
 Pentagram. Päť bodov svetla sa rozsvietilo vo vzduchu pred ňou — jemné, geometrické, presné. Línie medzi nimi pulzovali fialovým svetlom, kým sa neuzavreli do päťuholníka. Vzduch okolo brány zhustol. Teplota klesla.
 
-*[300 rokov štúdia. Stálo to za to.]*
+*[3000 rokov štúdia. Stálo to za to.]*
 
-Prehovorila. Ticho. Tri riadky — japonské slová, rytmické, presné. Päť slabík. Sedem. Päť. Hlas znel ako zvon v prázdnej katedrále.
+Prehovorila. Ticho. Japonské slová — rytmické, presné, staršie než všetko v tomto tuneli.
 
-Brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Kamenné krídla sa rozchýlili ako kvetné lístky na svitaní.
+*„Tobira yo hirake"*
+
+Päť slabík. Pauza. Pentagram pulzol.
+
+*„Haha no te ga michibiku"*
+
+Sedem. Línie medzi bodmi sa rozžiarili — fialová tak intenzívna, že vrhala tiene na steny.
+
+*„Yami wo terashite"*
+
+Päť. Posledná slabika sa rozplynula v ozvene.
+
+Ticho.
+
+A potom — brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Kamenné krídla sa rozchýlili ako kvetné lístky na svitaní.
 
 Kito zalapal po dychu.
 
-„To bol..." Kolená sa mu podlomili. Nie strachom — *úžasom*. „Haiku skript. *Fungujúci* Haiku skript." Ruky sa mu triasli. „V Doktríne stojí, že posledný funkčný Haiku skript bol zaznamenaný pred osemsto rokmi. A aj ten bol len fragment — tri slová, jedno zaklínadlo. Toto bolo—" hlas sa mu zlomil. „*Plné* Haiku. Kompletná báseň. Tri riadky — päť-sedem-päť slabík — a brána sa *otvorila*."
+Kolená sa mu podlomili. Nie strachom — *úžasom*. Ruky sa mu triasli. Ústa sa otvárali a zatvárali bez zvuku, akoby sa snažil spracovať niečo, čo nemalo existovať.
+
+„Haiku skript," zašepkal nakoniec. Hlas sa mu lámal. „*Fungujúci* Haiku skript." Pozrel na bránu — na tie rozchýlené krídla, na tichý priestor za nimi. „V Doktríne stojí, že posledný fungujúci bol pred osemsto rokmi. A aj ten bol len fragment." Prehltol. „Toto bolo *plné*. Kompletné. A brána sa *otvorila*."
 
 Zapisoval si v hlave. Každú slabiku. Každý tón. Každú sekundu toho, čo práve videl.
 
