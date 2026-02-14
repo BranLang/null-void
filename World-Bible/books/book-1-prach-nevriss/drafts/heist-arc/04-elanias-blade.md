@@ -298,13 +298,7 @@ Ale ten *prízvuk*.
 
 Zapisoval si v hlave. Každú slabiku. Každý tón. Každú sekundu toho, čo práve videl.
 
-Maks stál za nimi. Stuhol.
-
-Felix ho učil základy. Starý Mako, séria E, posledná generácia — sedával s ním večer pri ohni a rozprával o Matke. O jazyku, ktorým hovorila. O básňach, čo otvárali dvere.
-
-*Haiku syntax*, oznámil Asistent. *Staroreč kompilácia. Zhoda s profilom: Neto Fujiwara — Inetis. 99.7%.*
-
-Maks nič nepovedal. Stál v tme. A díval sa na ženu, čo práve otvorila bránu básňou — tou istou syntaxou, čo ovládala len jedna bytosť na planéte.
+Maks stál za nimi. Poznal ten rytmus — Felix ho učil po japonsky. Starý Mako to mal v jadre, zvyšok z iného sveta.
 
 *Kto si?*
 
