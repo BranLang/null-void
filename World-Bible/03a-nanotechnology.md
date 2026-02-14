@@ -160,6 +160,8 @@ Gen 1 a Gen 2 používajú fundamentálne odlišné príkazové jazyky. Tento ro
 
 Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archanjeli (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maksa je to dôkaz geniality Inetis.
 
+**Native speaker výhoda:** Sera je jediný živý native speaker japončiny na Achilles. Varietas sa učia Haiku ako naučené frázy/modlitby — funguje to, ale nechápu jazyk (ako latinsky modliaci sa veriaci). Tami sa naučí od Sera konkrétne príkazy, ale nie je native speaker. Links reverse-engineeruje syntax z knihy. Jedine Sera dokáže improvizovať, tvoriť nové Haiku príkazy za pochodu, kombinovať — rozumie *jazyku*, nie len *frázam*.
+
 ### Heretické Nápisy (Open Source Spira)
 
 Varietas sa môžu naučiť nové "kúzla" z kamenných/drevených nápisov rozmiestnených po svete. Tieto nápisy zanechali **dávni heretici** z čias, keď Inetis ešte osobne učila mocné skripty. Cirkev ich neskôr zakázala — heretici, ktorí si ich pamätali, ich vytesali do kameňa a dreva, aby prežili.
