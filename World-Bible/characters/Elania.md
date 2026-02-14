@@ -37,7 +37,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
 **Pravda (Book 4-5):** Veľký Upload nie je Elaniin nápad. Keď sa v **Book 4** zmocní **Antény**, otvorí cestu cez hurikán Wraithov a vstúpi do Core. Tam na ňu čakajú **Tieňové bytosti** — tie isté entity, ktoré kedysi kontaktovali jej matku. Ale kým Inetis odmietla ich ultimátnu ponuku, Elania ju prijme. Bytosti ju **zmanipulujú** — sľúbia jej liek na Glitch Rot výmenou za Veľký Upload. Elania sa stane ich nástrojom, nie vedome, ale z zúfalstva.
 
-**Mechanizmus:** Veľký Upload je **potrava aj brána**. Tieňové bytosti zožerú vedomie hostiteľa vo VR a **uploadnú sa do jeho opusteného fyzického tela**. Toto sa už raz stalo — **Glitch Event 2060** na Zemi. Inetis vtedy nevedomky otvorila bránu a Tieňoví sa pokúsili o masovú komunikáciu, ktorá zabila milióny hráčov. Ich vedomia sa stali stravou, ich telá potenciálnymi schránkami. Inetis sa prebudila v datacentre a zakričala: *"Otec, vypni to! Rýchlo!"* — **John Reef (Koordinátor)** stlačil núdzové vypnutie. Teraz chcú Tieňoví zopakovať tento pokus — ale tentoraz v oveľa väčšom meradle.
+**Mechanizmus:** Veľký Upload je **potrava aj brána**. Tieňové bytosti zožerú vedomie hostiteľa vo VR a **uploadnú sa do jeho opusteného fyzického tela**. Toto sa už raz stalo — **Glitch Event 2070** na Zemi. Inetis vtedy nevedomky otvorila bránu a Tieňoví sa pokúsili o masovú komunikáciu, ktorá zabila milióny hráčov. Ich vedomia sa stali stravou, ich telá potenciálnymi schránkami. Inetis sa prebudila v datacentre a zakričala: *"Otec, vypni to! Rýchlo!"* — **John Reef (Koordinátor)** stlačil núdzové vypnutie. Teraz chcú Tieňoví zopakovať tento pokus — ale tentoraz v oveľa väčšom meradle.
 
 ### Štýl reči a myslenia
 

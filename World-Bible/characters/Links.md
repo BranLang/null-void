@@ -4,7 +4,7 @@
 |---|---|
 | **Meno** | Links |
 | **Vek** | ~22 rokov |
-| **Pôvod** | Ludus (Veža Stratených, západný kontinent) |
+| **Pôvod** | Ludus (Veža Zatratených, západný kontinent) |
 | **Rola** | Exorcista, hacker, cestovateľ |
 | **Status** | Absolvent Inštitútu, solo cestovateľ |
 
@@ -24,7 +24,7 @@
 - Keď počuje o Tami — **detské nadšenie**, ktoré sa snaží skryť
 
 **Vybavenie:**
-- **Žiadne nanoboty** — čistý človek (Ghorki)
+- **Žiadne nanoboty** — čistý človek (bez Spiry)
 - **Žiadna Spira** — nie je Varietas
 - **Technológie:** Vlastnoručne postavené zariadenia z Inštitútu
   - Detektor nanobotov (cíti Gen 1/2/3 signatúry)
@@ -40,7 +40,7 @@
 
 ## Backstory
 
-### Pôvod — Ludus (Veža Stratených)
+### Pôvod — Ludus (Veža Zatratených)
 
 **Frustrácia:**
 - Vyrastal v Ludus — izolovanej komunite na západnom kontinente
@@ -318,8 +318,8 @@
 
 ### Book 2+ — Tamin nový sidekick
 
-**Po Maksovej smrti (koniec Book 1):**
-- Maks padne zo vzducholode. Tami zostáva sama s proroctvom, Anténou a Esenciou Inetis.
+**Po Maksovej prvej smrti (koniec Book 1):**
+- Maks padne zo vzducholode. Tami zostáva sama s proroctvom, Anténou a Esenciou Inetis. (Maks sa neskôr vráti z mŕtvych.)
 - Links ju nájde v Nevriss — práve včas, aby hackol Mormiel a pomohol Tami prežiť.
 - **Links nahradí Maksa** — ale úplne inak. Nie ako vojak, ale ako vedec. Nie ako štít, ale ako kľúč.
 
@@ -331,7 +331,7 @@
 
 **Arc:**
 - Book 2-3: Sidekick Tami. Cesta ku Sklenej Veži. Links sa učí prežiť v reálnom svete.
-- Book 4: Veža Stratených — Links stretne Elaniu (svoju vládkyňu, ktorú nikdy nevidel)
+- Book 4: Veža Zatratených — Links stretne Elaniu (svoju vládkyňu, ktorú nikdy nevidel)
 - Book 5: Ynetis/Core — Links je Translation Engine medzi Tami a Core AI
 
 **Expozícia:**

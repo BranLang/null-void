@@ -6,7 +6,7 @@
 
 Maks sa prebral na studenej dlažbe. Hlava mu trešťala, akoby v nej mal zbíjačku. Ale žil. Nanoboty pracovali — pomaly, zúfalo — na oprave poškodených tkanív.
 
-„Vstávaj, Spáč," ozval sa Tamin hlas z vysielačky. Znel inak. Ostro. Už žiadny strach. „Si na rade. Mako hlási, že motor je na 60%. Balón drží tlak — zázrakom. Sme vo vzduchu."
+„Vstávaj, Spáč," ozval sa Tamin hlas z vysielačky. Znel inak. Ostro. Už žiadny strach. „Si na rade. Nix hlási, že motor je na 60%. Balón drží tlak — zázrakom. Sme vo vzduchu."
 
 Maks sa posadil. Zobral zo zeme ďalekohľad a samopal *Vigilant*, ktorý zobral mŕtvemu vojakovi Graw pri úteku z katedrály.
 
@@ -22,7 +22,7 @@ Grawská armáda sa po smrti Gronda nezrútila, ako dúfal. Zmrzla, áno, ale le
 
 Nad strechami domov, v kúdoli dymu a pary, sa vynorila *Itaka*.
 
-Už to nebola tá nenápadná obchodná loďka. Bola to vojnová beštia. Bočné pláty boli odklopené a z trupu trčali guľometné hniezda, kde Mako a jeho bratranci obsluhovali ťažké *Gatlingy*.
+Už to nebola tá nenápadná obchodná loďka. Bola to vojnová beštia. Bočné pláty boli odklopené a z trupu trčali guľometné hniezda, kde Borg a posádka obsluhovali ťažké 12mm guľomety.
 
 Ale to hlavné bolo pod provou.
 
@@ -62,7 +62,7 @@ Muničný sklad Graw explodoval. Nebola to obyčajná explózia. Bola to reťazo
 
 „Nekončíme!" kričala Tami. „Nabíjaj! Ďalší cieľ!"
 
-Mako a posádka sa potili pri nabíjaní. 122mm náboje vážili tridsať kíl.
+Borg a posádka sa potili pri nabíjaní. 122mm náboje vážili dvadsaťosem kíl.
 
 „Sektor 9! Tanková kolóna na moste!"
 
@@ -120,11 +120,11 @@ Dlhé ticho. Dunenie stíhačiek zosilnelo.
 
 Dunenie zosilnelo. Už to nebola vibrácia — bol to rev. Vzduch sa triasol. Okná v domoch pod nimi rezonovali a praskali. Zvuk prenikal cez steny, cez drevo paluby, cez kosti. Maks ho cítil v žalúdku — hlboký, primitívny strach, aký vyvoláva len zvuk veľkého piestového motora v strmhlavom lete.
 
-Tri **Valkýry** — Grawské stíhačky v trojuholníkovej formácii — sa predierali cez mračná nad mestom. Nevideli *Itaku*. V tejto tme nemohli. Nemali nočné videnie — len vlastné oči, a tie boli slepé. Strieľali podľa záchytných bodov: záblesky tracerových striel z Gatlingov, oranžová žiara požiarov dole v uliciach, plameň z Felixovej hlavne.
+Tri **Valkýry** — Grawské stíhačky v trojuholníkovej formácii — sa predierali cez mračná nad mestom. Nevideli *Itaku*. V tejto tme nemohli. Nemali nočné videnie — len vlastné oči, a tie boli slepé. Strieľali podľa záchytných bodov: záblesky tracerových striel z guľometov, oranžová žiara požiarov dole v uliciach, plameň z Felixovej hlavne.
 
 Prvá Valkýra spustila paľbu naslepo. Dávka prešla desať metrov od trupu — tracery rozrezali tmu ako svetelné čiary.
 
-„Nevidia nás!" vykríkol Mako z paluby.
+„Nevidia nás!" vykríkol Borg z paluby.
 
 „Ale počujú nás," povedal Maks. „A vidia záblesky. Každý výstrel z Felixa im ukáže, kde sme."
 
@@ -132,13 +132,13 @@ Tami stisla zuby. „Takže nemôžeme strieľať."
 
 „Nemôžeš *chýbať*."
 
-Druhá Valkýra preletela bližšie. Dávka z guľometov — naslepo, podľa zvuku — zazvonila o bočné pláty trupu. Jeden z Makových bratancov vykríkol a zvalil sa od Gatlingu.
+Druhá Valkýra preletela bližšie. Dávka z guľometov — naslepo, podľa zvuku — zazvonila o bočné pláty trupu. Jeden z posádky vykríkol a zvalil sa od guľometu.
 
 Tretia mierila na oranžovú žiaru požiaru pod nimi — myslela si, že je to *Itaka*. Bomby dopadli na prázdnu ulicu. Blízko. Príliš blízko.
 
-„Klesáme," hlásil Mako. „Dva zásahy do balóna. Hélium uniká z komory tri a päť."
+„Klesáme," hlásila Nix. „Dva zásahy do balóna. Hélium uniká z komory tri a päť."
 
-Balón *Itaky* bol komorovaný — rozdelený na osem nezávislých sekcií. Dva prierazy ho nezničia. Ale spomaľujú. A loď klesá.
+Balón *Itaky* bol komorovaný — rozdelený na tridsaťdva nezávislých sekcií. Pár prierazov ho nezničí. Ale spomaľujú. A loď klesá.
 
 Maks zatvoril oči. Zvyšné nanoboty — posledné, čo mu ostali — vysypal do vzduchu. Nie ako zbrane. Ako oči. Senzorická sieť sa rozprestrela nad mestom ako neviditeľná pavučina.
 
@@ -172,11 +172,11 @@ A potom — výbuch. Vysoko nad mestom rozkvetol oranžový kvet. Horúce trosky
 
 Ale ten výstrel ich prezradil. Zvyšné dve Valkýry teraz vedeli, kde je *Itaka*. Otočili sa. Motory zarevali. Leteli rovno na nich.
 
-„Felix potrebuje tridsať sekúnd na nabitie!" kričal Mako.
+„Felix potrebuje tridsať sekúnd na nabitie!" kričal Borg.
 
 Guľomety zaburácali. Tentoraz nie naslepo — piloti videli záblesk z hlavne a mierili na jeho zdroj. Strely prešili balón v ďalších dvoch komorách. Paluba *Itaky* sa rozštiepila. Drevené triesky lietali vzduchom.
 
-„Štyri komory preč!" kričal Mako. „Klesáme!"
+„Štyri komory preč!" kričala Nix. „Klesáme!"
 
 *Itaka* sa naklonila. Prova klesla. Loď sa začala pomaly zosúvať k strechám.
 
@@ -188,9 +188,9 @@ Obloha nad horami bola iná. Už nie čierna. Tmavosivá. Prvý náznak svitania
 
 „Tami! Svitá! Máme minúty, nie hodiny!"
 
-Tami to pochopila okamžite. „Mako! Para! Všetku paru von! Teraz!"
+Tami to pochopila okamžite. „Nix! Para! Všetku paru von! Teraz!"
 
-Mako nečakal. Strhol ventily na parnom kotli. Z bočných trysiek *Itaky* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Itaka* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
+Nix nečakala. Strhla ventily na parnom kotli. Z bočných trysiek *Itaky* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Itaka* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
 
 Valkýry preleteli cez paru. Nevideli nič. Dávky z guľometov prešli oblakmi — naslepo, bezcieľne.
 
@@ -198,11 +198,11 @@ Ale para sa rozplývala. Vietor ju trhal na kusy. A obloha svetlala s každou se
 
 „Dlho to nevydrží," povedala Tami. „Minúta. Možno dve."
 
-*Itaka* klesala. Päť komôr z ôsmich bolo prerazených. Loď sa zosúvala k strechám — pomaly, ale neúprosne.
+*Itaka* klesala. Päť komôr z tridsiatich dvoch bolo prerazených. Loď sa zosúvala k strechám — pomaly, ale neúprosne.
 
 Para riedla. Sivý závoj sa rozťahoval, stenčoval. Cez medzery už presvitalo svetlo rána. Valkýry krúžili nad mestom ako supy — čakali, kým sa clona rozplynie.
 
-„Mako, koľko pary máme?"
+„Nix, koľko pary máme?"
 
 „Nič. Kotol je prázdny."
 

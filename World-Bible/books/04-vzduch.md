@@ -1,4 +1,4 @@
-# Kniha 4: Vietor-priestor – Búrka StrojovTROJOV (Vzduch)
+# Kniha 4: Vietor-priestor – Búrka Strojov (Vzduch)
 **Status:** Plotting
 **Hlavná téma:** Stagnácia / Skúsenosť vs. Sila / Biológia vs. Dáta
 
