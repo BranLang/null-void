@@ -349,15 +349,6 @@
 
 ## Quotes
 
-> *"Poznala som jej matku. Inetis. Bránila som ju, kým mohla odísť. Sľúbila som, že sa postarám o jej dcéru."*
-
-> *"Pretože ak by som chcela zabiť teba alebo toho muža, už by ste boli mŕtvi."*
-
-> *"Vidím nanoboty v tvojej krvi. Staré — Gen 3. Nie veľmi efektívne, ale stále živé."*
-
-> *"Ishtar no yarou... poslal ich sem. Bez toho, aby ma informoval."* (Japanese curse)
-
-> *"Povedz mu, že nie je sám. Že nie všetci zabudli. A že... niekto ho stále hľadá. Niekto, kto má jeho krv."*
 
 > *"Hlúpe opice."* — po Bitke Tichého Údolia. A znova pred smrťou. Dva razy, dva významy. [→ CHAPTER-NOTES.md: second read]
 
