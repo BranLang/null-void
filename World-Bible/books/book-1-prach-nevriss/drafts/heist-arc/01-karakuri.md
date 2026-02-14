@@ -10,7 +10,7 @@ Tami si pritiahla šatku cez nos a pokúsila sa nadýchnuť. Vzduch bol ostrý a
 
 Hluk bol neznesiteľný. Parné motory vŕzgali, žeriavy škrípali, robotníci a nakládači kričali a z mosadzných trúb rozmiestnených po dokoch dutý hlas vyvolával čísla lodí, kotvísk a nákladov. Medzi tým sa z chrámových veží ozýval monotónny spev kňažiek — ranná modlitba k Vševedúcej Matke. [→ 06-society.md: Kult Matky, kňažky] Ich hlasy zosilňovali obrovské mosadzné zvony. *„Sila Matky prúdi v nás. Dych Matky nás ochráni."* [→ 03-technology.md: Spira = nanotech ekosystém] Opakovalo sa to každú hodinu. V to ráno bolo v prístave rušno aj nad miestne pomery. Celé Šoraven bolo už týždeň v obkľúčení.
 
-Grawská armáda obsadila priesmyky Atra a ťažké delostrelectvo začalo "mäkčiť" predmestia. [→ concepts/battle-logistics.md: obliehanie Šoraven] Obloha na severe bola šedá od dymu horiacich dedín. Blokáda prístavu nebola ešte úplná — Grawskí admiráli čakali na hlavnú flotilu — ale zvedy už krúžili nad zálivom ako supy. [→ 06-society.md: Graw vs Nevriss konflikt]
+Grawská armáda obsadila priesmyky Atra a ťažké delostrelectvo začalo "mäkčiť" predmestia. [→ concepts/battle-logistics.md: obliehanie Šoraven] Obloha na severe bola šedá od dymu horiacich dedín. [→ 06-society.md: Graw vs Nevriss konflikt]
 
 Mesto to vedelo. A mesto sa pripravovalo na posledný úder.
 
@@ -20,7 +20,7 @@ Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žer
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto mrazivom pekle.
 
-Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich — stará Mezra s mačacími očami, no inak ľudskou tvárou [→ 03-technology.md: Mezra = stredná kasta, čiastočná Spira] — držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. Stará kňažka požehnávala každú zbraň dotykom — posvätnou silou, o ktorej verila, že je dych Matky. [→ 03-technology.md: Spira = nanotechnológia, nie mágia]
+Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žehnali zbrane pod menšou bronzovou sochou Matky, ktorej nohy boli obložené čerstvými kvetmi a... nábojnicami. Jedna z nich, držala nad debnou s novými opakovacími puškami ruky a odriekavala modlitbu. Tami videla, ako sa vzduch okolo jej prstov jemne zachvel. Stará kňažka požehnávala každú zbraň dotykom — posvätnou silou, o ktorej verila, že je dych Matky. [→ 03-technology.md: Spira = nanotechnológia, nie mágia]
 
 Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Jej sila je s vami!"*
 
@@ -44,7 +44,7 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 *Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by ešte žili.
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Tri tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Dobré duše. Spolu preskúmali jaskyňu, o ktorej sa šepkalo v krčmách. Tami hľadala poklad — zlato, artefakty, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Spolu preskúmali jaskyňu, mapu k nej zdedila po otcovi. Tami hľadala poklad - artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
 
 A za to ich upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
 
@@ -68,9 +68,15 @@ Poslala peniaze správnym ľuďom pred tromi dňami — starý trik, ktorý fung
 
 Rýchlo si utrela ruky do handry a vyšplhala sa len do polovice rebríka. Vystrčila hlavu z poklopu, tak aby ju nebolo vidieť, a nastražila uši. Zimné svetlo ju udrelo do očí — bledé, nízke slnko sa odrážalo od snehovej pokrývky na strechách okolo doku. Prižmúrila oči.
 
-Maks stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe dlhý, tmavý plášť s kapucňou — ten istý, v ktorom vyzeral ako kňaz na pohrebnej hostine. Na očiach tmavé okuliare, ktoré mu zakrývali polovicu tváre.
+
+
+Maks stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe ťažký, tmavý letecký kabát s vysokým golierom, ktorý už čo-to zažil, a na očiach nepriehľadné čierne letecké okuliare, ktoré mu zakrývali polovicu tváre. Pôsobil ako pilot, ktorý práve vystúpil z horiaceho vraku a ani sa pri tom nezapotil.
 
 Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom k oblohe a chvosty sa im nepokojne vlnili.
+
+
+![Confrontation](../../../../assets/characters/Maks/max-tami-lore-accurate.png)
+
 
 „Dobré ráno, vitajte v Šo," prihovoril sa oficier a Tami stuhla.
 
@@ -96,6 +102,7 @@ A tu jeden stál na palube ich doku, s rukami za chrbtom, ako keby mu to mesto p
 
 Dostojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára. „Exorcista," zopakoval a to slovo znelo z jeho úst, akoby žuval niečo kyslé. „V Nevriss nemáme vo zvyku vítať *vašich*. Exorcisti patria do hôr, nie do našich prístavov." Ruky sa mu nepatrne posunuli bližšie k šabli na opasku. „Aký je dôvod vašej prítomnosti? A hovorte rýchlo — nemám čas na hádanky."
 
+
 *No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.* [→ characters/Maks.md: pozemský pôvod, Staroreč = angličtina/ukrajinčina] [→ concepts/maks-ukraine-origin.md]
 
 Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
@@ -120,7 +127,7 @@ Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
 *V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
 
-Zdvihla handru k tvári a jedným pohybom stiahla šatku. Gaštanové vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — tyrkysovo-modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
+Zdvihla handru k tvári a jedným pohybom stiahla šatku. Medené vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — zafírovo modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
 
 Olejové fľaky na líci ju nerobili menej krásnou. Skôr naopak.
 
@@ -128,7 +135,7 @@ Vedela, čo robí. Vedela to veľmi dobre.
 
 Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší vedľa neho zastal s napoly otvorenou papuľou, zapamätávajúc si túto scénu na zvyšok života. Ale tentoraz nie len úžasom.
 
-Líščie uši. Gaštanové, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
+Líščie uši. Medené, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
 
 Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plný Dar Matky] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
 
