@@ -160,20 +160,55 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 
 ## Jazyky Achilles
 
-### Južný jazyk (Nevriss)
-- **Základ**: Angličtina zmiešaná s mačacími zvukmi
-- **Charakter**: Spevavý, mäkký. Predlžovanie samohlások, pradenie pri spokojnosti.
-- **Príklad**: *"Gimmau ota..."* (Give me water) — vysllovené mäkko, skoro ako zamňaučanie
+Všetky jazyky na Achilles pochádzajú z angličtiny (Staroreč), ale za 3000 rokov sa rozvetvili do vzájomne nezrozumiteľných vetiev. Hlavný faktor odlíšenia: **dominantný zvierací genotyp** populácie ovplyvnil fonetiku — mačky pridali pradenie a predlžovanie samohlások, vlci hrdelné zvuky, líšky syčanie.
 
-### Severný jazyk (Graw)
-- **Základ**: Angličtina zmiešaná s psími/vlčími zvukmi
-- **Charakter**: Hrdelný, skrátený, tvrdý.
-- **Príklad**: *"Gi-woda!"* (Give water) — ostré šteknutie
+```
+                    STAROREČ (Angličtina)
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+        TERRA          SIMIRA         NEUROPA
+        (Varietas)     (Apes)        (Ľudia)
+            │
+    ┌───────┼───────┬──────────┐
+    │       │       │          │
+ NEVRISS  GRAW  BELADISS   KITSUNE
+    │               │
+   NYAU          (blízka
+ (bližšie       Beladiss)
+  Beladiss)
+```
 
 ### Staroreč (Old Tongue)
 - **Čo je to**: Angličtina — mŕtvy jazyk, ako latinčina v stredoveku
 - **Kto hovorí**: Len Ex Inferis (Archanjeli) a Maki (RP English)
 - **Status**: Občas spoznáš slovo, ale nedorozumieš sa
+
+### Nevriss (jazyk)
+- **Základ**: Angličtina zmiešaná s mačacími zvukmi (70% populácie sú Feline Varietas)
+- **Charakter**: Spevavý, mäkký. Predlžovanie samohlások, pradenie pri spokojnosti, syčanie na koncovkách.
+- **Príklad**: *"Gimmau ota..."* (Give me water) — vyslovené mäkko, skoro ako zamňaučanie
+
+### Graw (jazyk)
+- **Základ**: Angličtina zmiešaná s psími/vlčími zvukmi
+- **Charakter**: Hrdelný, skrátený, tvrdý. Imperatívne konštrukcie.
+- **Príklad**: *"Gi-woda!"* (Give water) — ostré šteknutie
+- **Odlíšenie od Nevriss**: Hangravall (pohorie) vytvoril jazykovú bariéru na ~2000 rokov. Obe vetvy pochádzajú z angličtiny, ale sú vzájomne nezrozumiteľné.
+
+### Beladiss (jazyk)
+- **Základ**: Blízky Nevriss — spoločný pôvod, oddelenie nastalo neskôr
+- **Charakter**: Formálnejší, archaickejší. Silný vplyv náboženského slovníka (Kult Matky — ortodoxná vetva).
+- **Vzťah**: Beladiss a Nevriss sa navzájom čiastočne rozumejú — ako čeština a slovenčina.
+
+### Nyau (jazyk)
+- **Základ**: Bližšie k Beladiss než k Nevriss
+- **Charakter**: Samostatná vetva — izolovaná komunita s vlastným vývojom
+- **Vzťah**: Hovoriacemu z Beladiss bude zrozumiteľnejší než hovoriacemu z Nevriss
+
+### Kitsune (jazyk)
+- **Základ**: Vlastná vetva jazyka Varietas — odlišná od Nevriss aj Graw
+- **Charakter**: Líščie vplyvy — syčavý, s ostrými sibilantami
+- **Poznámka**: Tami ako Kitsune Varietas hovorí touto vetvou ako materinským jazykom
 
 ### Jazyk Apes (Simira)
 - **Základ**: Zachovali angličtinu najlepšie zo všetkých rás
@@ -181,7 +216,7 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 
 ### Jazyky Ľudí (Neuropa)
 - **Základ**: Pôvodná angličtina (niekoľko stoviek nesmrteľných ju ešte ovláda)
-- **Evolúcia**: Viacero slangov a podjazykov — každé mesto má vlastnú variáciu
+- **Evolúcia**: Viacero slangov a podjazykov — každé mesto, kmeň či komunita má vlastnú variáciu
 
 ---
 
