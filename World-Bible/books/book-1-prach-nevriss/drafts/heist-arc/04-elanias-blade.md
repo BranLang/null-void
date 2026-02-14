@@ -288,11 +288,13 @@ Ticho.
 
 A potom — brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Kamenné krídla sa rozchýlili ako kvetné lístky na svitaní.
 
-Kito zalapal po dychu.
+Kito stuhol.
 
-Kolená sa mu podlomili. Nie strachom — *úžasom*. Ruky sa mu triasli. Ústa sa otvárali a zatvárali bez zvuku, akoby sa snažil spracovať niečo, čo nemalo existovať.
+Nie kvôli bráne. Nie kvôli tomu, že sa otvorila — Haiku skripty otvárali brány každý deň v každom chráme na kontinente. To bola bežná Spira. Každý kňaz, každý učeň, každý čarodejník na trhu to vedel.
 
-„Haiku skript," zašepkal nakoniec. Hlas sa mu lámal. „*Fungujúci* Haiku skript." Pozrel na bránu — na tie rozchýlené krídla, na tichý priestor za nimi. „V Doktríne stojí, že posledný fungujúci bol pred osemsto rokmi. A aj ten bol len fragment." Prehltol. „Toto bolo *plné*. Kompletné. A brána sa *otvorila*."
+Ale ten *prízvuk*.
+
+„Tú kombináciu nepoznám," zašepkal. Hlas sa mu lámal. Žlté oči sa rozšírili — nie úžasom, ale *strachom*. „Poznám každý Haiku skript v Doktrínach. Každý fragment z Heretických Nápisov. Každú kombináciu, čo kedy bola zaznamenaná." Ruky sa mu triasli. „Toto nie je v žiadnom texte. *Žiadnom.* A ten prízvuk — to nie sú naučené slabiky. Ona tým jazykom *hovorí*."
 
 Zapisoval si v hlave. Každú slabiku. Každý tón. Každú sekundu toho, čo práve videl.
 
