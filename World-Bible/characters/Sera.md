@@ -174,11 +174,11 @@
 **Čo robí:**
 - **Hazmat oblek** — pôvodný účel Apes: ochrana proti nanotechnológii. Apes nemajú nanotech v tele, Hard Light je ich spôsob operovať v "infikovanom" prostredí.
 - Blokuje **rozptýlené nanodróny**: roje, prach, swarmy, kontamináciu (Blood Ritual, FPV dróny, Black Dust = STOP)
-- **Dune princíp:** Formované nanotech zbrane (čepeľ, hrot, kopija) cez Hard Light **prejdú**. Yari, Roxor, Nadel, Anténa — tvrdý, sformovaný nanotech v pevnej forme prerazí bariéru.
+- **Dune princíp:** Formované nanotech zbrane (čepeľ, hrot, kopija) cez Hard Light **prejdú**. Yari, Roxor, Anténa — tvrdý, sformovaný nanotech v pevnej forme prerazí bariéru. Nadel (oceľ, NIE nanotech) tiež prejde — Hard Light je anti-nanotech hazmat, fyzickú oceľ nezastaví.
 - **Asymetrická výhoda Sery:** Sera s Yari útočí ZA Hard Light (formovaná kopija prejde). Maksove roje neprejdú. Sera útočí — Maks sa nemôže brániť svojimi primárnymi zbraňami.
 
 **Limity:**
-- Akákoľvek **formovaná nanotech zbraň** prerazí — Anténa, Nadel, Roxor. Sera stratí výhodu, ak má protivník formovanú zbraň.
+- Akákoľvek **formovaná nanotech zbraň** prerazí — Anténa, Roxor. Aj fyzické zbrane (Nadel = oceľ) prejdú — Hard Light blokuje len nanodróny. Sera stratí výhodu, ak má protivník formovanú zbraň ALEBO enchantnutú oceľ.
 - Hard Light nie je nekonečný — vyžaduje energiu. Sera ho používa strategicky, nie permanentne.
 - Wraithy Hard Light **blokuje** — sú to stále nanodróny. Ale Wraithy môžu Seru **obísť** (letia k Maksovi, nie k nej).
 
@@ -333,7 +333,7 @@
 **Apes Intel o Sere:**
 - "Biela Smrť" — zodpovedná za Bitku Tichého Údolia
 - Slúži Elanii (dcére Inetis) — čo znamená, že je blízko k najtechnologickejšej ľudskej frakcii
-- Ovláda Haiku skript perfektne
+- Ovláda Haiku skript perfektne — **jediný živý native speaker japončiny na Achilles**
 - Má Hard Light Shield — ich ukradnutú technológiu
 - Videli ju bojovať raz. *Raz stačilo.*
 
@@ -369,7 +369,7 @@
 
 - **Jedna z ~100 preživších zo Zeme** — Ex Inferis (4), človek zo Zeme na Západe (~100: učitelia, lekári, "turisti"), Sera
 - **Posledný, čto videl Japonsko** pred zánikom Zeme
-- **Ovláda Haiku skript** (rodný jazyk Inetis/Elanie = Japanese)
+- **Jediný živý native speaker japončiny** na celej planéte → neskutočná výhoda v Gen 2 nanotech. Varietas sa učia Haiku frázy ako magické symboly (naučené modlitby, nechápu jazyk). Tami vie len naučené veci od Sera — nie je native speaker. Links reverse-engineeruje syntax z knihy. Jedine Sera rozumie jazyku, môže improvizovať, tvoriť nové príkazy, kombinovať — ako programátor vs. človek čo kopíruje kód
 - **Yari = posledná vec z Japonska** vo vesmíre
 - **Makovia ju uctievajú ako božstvo**
 - **Praktizuje vampirizmus** (nie zo zla, z nutnosti - udržiava Gen 1+2 nanoboty)

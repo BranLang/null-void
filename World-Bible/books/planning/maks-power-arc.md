@@ -402,7 +402,7 @@ Nie strategicky. Nie s vedomím, čo sa stane. Ale nie je to ani náhoda — **T
 
 *"Chyť!"*
 
-Maks chytí Anténu. A Anténa **prerazí Hard Light Shield.** Rovnaký princíp ako Yari, Roxor, Nadel — **formovaný nanotech v pevnej forme prerazí Hard Light** (Dune princíp). Anténa je kovová palica — komunikačná anténa z NULL VOID, ale fyzicky je to tvrdý, formovaný objekt. Keď Maks odrazí Yari Anténou — dve formované nanotech zbrane sa stretnú a Hard Light ich nezastaví.
+Maks chytí Anténu. A Anténa **prerazí Hard Light Shield.** Rovnaký princíp ako Yari, Roxor — **formovaný nanotech v pevnej forme prerazí Hard Light** (Dune princíp). Anténa je kovová palica — komunikačná anténa z NULL VOID, ale fyzicky je to tvrdý, formovaný objekt. Keď Maks odrazí Yari Anténou — dve formované nanotech zbrane sa stretnú a Hard Light ich nezastaví. (Pozn.: Nadel je oceľ, nie nanotech — prejde cez Hard Light tiež, ale z iného dôvodu: Hard Light blokuje len nanotech.)
 
 Sera to vidí. Doteraz mala asymetrickú výhodu — Yari prechádzala cez Shield, Maksove roje nie. Teraz má Maks **formovanú zbraň**. A nie hocijakú — Anténu, ktorá ovláda roje.
 

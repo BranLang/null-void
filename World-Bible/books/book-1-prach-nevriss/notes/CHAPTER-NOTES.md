@@ -634,7 +634,8 @@ Maks nedýchal.
 - Vulpini hybrid (zriedkavé), turquoise eyes, fox ears
 - Skeptik, pragmatik, flexuje na Maksa
 - Spira municia = drahá, používa opatrne
-- Nadel (rapier) = Felix legacy, formovaná nanotech zbraň → prerazí Hard Light (Dune princíp: formované zbrane prejdú, roje nie)
+- Nadel (rapier) = Felix legacy, kvalitná oceľ (NIE nanotech). Prerazí Hard Light (Hard Light = anti-nanotech hazmat, fyzická oceľ ním prejde), ale zastaví sa na pancieri Apes (oceľ vs lepšia oceľ = škrabanec)
+- BUDÚCNOSŤ: Tami sa naučí Haiku enchant od Sera → enchantnutý Nadel prenikne aj pancierom (rovnaký princíp ako Sera + Yari)
 - Character arc: Confident → Realizes world is bigger than Maks + her
 
 ---
