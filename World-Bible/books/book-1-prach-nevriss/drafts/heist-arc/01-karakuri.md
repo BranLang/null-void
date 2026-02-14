@@ -203,6 +203,8 @@ Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky do mrazivého vzduchu.
 
+![Confrontation](../../../../assets/characters/Tami/tami_shoraven_holstered.png)
+
 Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Daru. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili posvätný Dar. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
@@ -211,7 +213,7 @@ Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matk
 
 Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho s Darom.
 
-Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou Ghorki — najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
+Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
 
 ---
 
@@ -230,6 +232,9 @@ Z jeho dlaní stúpalo teplo. Nie oheň — niečo *jemnejšie*. Vzduch sa zachv
 Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďalej. Teplo z kováčových rúk sa nieslo cez mrazivý vzduch a dopadalo na detské tváre ako prvé jarné lúče — a v tom oranžovom svetle, uprostred zimy, uprostred vojny, sa deti smiali.
 
 *Spira.*
+
+![Spira](../../../../assets/world/blacksmith_kid.png)
+
 
 To slovo jej prišlo na myseľ samo, tiché a ťažké ako prvá kvapka dažďa na vyprahnutú zem. Posvätná sila. Dych Matky. Dar, ktorý pretekal žilami tohto sveta — a rozhodoval, kto bude žiť a kto bude slúžiť. [→ 03-technology.md: Spira = nanotech ekosystém]
 
@@ -277,6 +282,7 @@ Za vyhňou stála postava pripomínajúca muža stredného veku. Čierne vlasy, 
 Tami zostala stáť. Ruky vystrela pozdĺž tela, prsty spojené, presne ako ju to učil Felix. *„Ako bojovník, Tami. Nie ako služobná,"* prízvukoval jej vždy. *„Ruky pri tele. Ukáž, že sa nebojíš, ale že preukazuješ úctu."*
 
 Čakala. Prerušiť majstra pri práci bolo nemysliteľné.
+![Mako](../../../../assets/characters/Tami/mako_workshop_epic.png)
 
 Až keď postava odložila kladivo s plynulosťou hydraulického piestu presne na miesto, kde ležalo predtým, Tami sa pohla. Zohla sa v páse, chrbát držala rovný ako pravítko, pohľad zabodla do zeme. Ruky držala pevne pri bokoch — mužský postoj. Vydržala v úklone sekundu a pomaly sa narovnala.
 

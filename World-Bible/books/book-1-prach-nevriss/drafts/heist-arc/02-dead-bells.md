@@ -384,6 +384,5 @@ Vstali. Vykročili do tmy.
 
 Maksov Asistent mu vtedy pustil poslednú správu. Len štyri slová, bez zvukovej notifikácie, akoby sa aj on bál, že *to* počuje.
 
-*Tepelné signatúry: 6. Vzdialenosť: 200m. Klasifikácia: Neznáma.*
+*Tepelné signatúry: 3. Vzdialenosť: 200m. Klasifikácia: Neznáma.*
 
-*Poznámka: Žiadna z nich nemala tvar, aký by mala.*
