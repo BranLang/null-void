@@ -174,11 +174,11 @@
 **Čo robí:**
 - **Hazmat oblek** — pôvodný účel Apes: ochrana proti nanotechnológii. Apes nemajú nanotech v tele, Hard Light je ich spôsob operovať v "infikovanom" prostredí.
 - Blokuje **rozptýlené nanodróny**: roje, prach, swarmy, kontamináciu (Blood Ritual, FPV dróny, Black Dust = STOP)
-- **Dune princíp:** Formované nanotech zbrane (čepeľ, hrot, kopija) cez Hard Light **prejdú**. Yari, Roxor, Nadel, Anténa — tvrdý, sformovaný nanotech v pevnej forme prerazí bariéru.
+- **Dune princíp:** Formované nanotech zbrane (čepeľ, hrot, kopija) cez Hard Light **prejdú**. Yari, Roxor, Anténa — tvrdý, sformovaný nanotech v pevnej forme prerazí bariéru. Nadel (oceľ, NIE nanotech) tiež prejde — Hard Light je anti-nanotech hazmat, fyzickú oceľ nezastaví.
 - **Asymetrická výhoda Sery:** Sera s Yari útočí ZA Hard Light (formovaná kopija prejde). Maksove roje neprejdú. Sera útočí — Maks sa nemôže brániť svojimi primárnymi zbraňami.
 
 **Limity:**
-- Akákoľvek **formovaná nanotech zbraň** prerazí — Anténa, Nadel, Roxor. Sera stratí výhodu, ak má protivník formovanú zbraň.
+- Akákoľvek **formovaná nanotech zbraň** prerazí — Anténa, Roxor. Aj fyzické zbrane (Nadel = oceľ) prejdú — Hard Light blokuje len nanodróny. Sera stratí výhodu, ak má protivník formovanú zbraň ALEBO enchantnutú oceľ.
 - Hard Light nie je nekonečný — vyžaduje energiu. Sera ho používa strategicky, nie permanentne.
 - Wraithy Hard Light **blokuje** — sú to stále nanodróny. Ale Wraithy môžu Seru **obísť** (letia k Maksovi, nie k nej).
 

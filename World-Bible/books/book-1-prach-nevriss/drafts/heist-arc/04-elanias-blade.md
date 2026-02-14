@@ -4,7 +4,9 @@
 
 Maks zostúpil posledných dvadsať schodov sám.
 
-Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Suchší. Chladnejší. Bez zápachu hniloby, bez vody. Len prach a niečo staré — stáročia komprimované do kameňa.
+Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Chladnejší. Ale nie suchší — voda mu siahala po členky. Čierna, studená, tichá. Steny lesklé vlhkosťou, s tmavými pruhmi, čo naznačovali, že hladina nebývala vždy taká nízka.
+
+*Hladina: +14cm/h*, oznámil Asistent. *Lunárna fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
 
 A na konci tunela — brána.
 
@@ -150,7 +152,11 @@ Ticho.
 
 ---
 
-Kráčali paralelným tunelom — užším, ale rýchlejším. Maks sledoval ich stopu cez drony, Tami viedla, Kito sa snažil neomdlieť.
+Kráčali paralelným tunelom — užším, ale rýchlejším. Voda im siahala po kolená. Stúpala. Tami cítila, ako studený prúd ťahá okolo jej nôh — pomaly, ale neúprosne.
+
+„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Splnomesiac. Tunely pod Chrámom sú pod úrovňou mora — príliv ich zaplavuje dvakrát denne." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
+
+Maks sledoval ich stopu cez drony. Tami viedla. A voda stúpala.
 
 A potom to Tami ucítila.
 
@@ -190,19 +196,29 @@ Tami stuhla. Pravá ruka sa posunula k Nadelu.
 
 Dlhá pauza. Príliš dlhá.
 
-Kito vedľa Tami zastal. Žlté oči sa rozšírili. „Ty... ty si..."
+Kito vedľa Tami zastal. Žlté oči sa rozšírili. Ústa sa mu otvorili — a zatvorili — bez slova. Knihovník, čo poznal každý apokryf na severnom kontinente, hľadel na bytosť, ktorú žiadna Doktrína nespomínala.
+
+*[Pursang. Knihovník. Bezvýznamný.]*
 
 Žena sa otočila k nemu. Pomaly. Kontrolovane. Ako veža, čo sa nakloní.
 
-*[Pursang. Knihovník. Bezvýznamný. Ale vie mená.]*
+Dlhá pauza. Pozrela na Tami. Na tie tyrkysové oči — a niečo v hĺbke tých čiernych, bezodných očí sa zachvelo. Len na okamih. Tak rýchlo, že si to nikto nevšimol.
 
-„Sera," vydýchol Kito.
+*[Modré oči. Rennove oči. Dcéra.]*
 
-Chlad jej prešiel po chrbte. To meno poznala. Felix o nej rozprával — starý Mako, ktorý ju vychoval. Hovoril o nej ako o legende. O jedinom človeku, čo prežil tisícročia. O poslednej bytosti, čo videla Zem.
+„Čepeľ Elanie."
 
-Sera urobila krok vpred. Jediný. Každý pohyb bol hladký ako voda, každý krok vypočítaný. Tami videla, ako sa jej svaly pohybujú pod oblečením — nie náhodne, nie prirodzene — ale *presne*. Ako stroj oblečený v ľudskej koži.
+*[Meno je zbytočné. Titul stačí.]*
 
-*[Líška. Tami. Kapitánka Itaky. Dcéra Renna. Poznámka. A ten muž... Mŕtvy mi nebude užitočný.]*
+Dva slová. Predstavenie sa. Jej hlas bol hlboký — nesmierne hlboký, príliš hlboký na tú štíhlu postavu. Starý. Studený.
+
+Kito zamrkal. „Elanie...? Elania z Doktrín? Tá Elania—?"
+
+Žena sa naňho nepozrela. Už sa otáčala. Odpoveď nebola súčasťou jej slovníka.
+
+Urobila krok vpred. Jediný. Každý pohyb bol hladký ako voda, každý krok vypočítaný. Tami videla, ako sa jej svaly pohybujú pod oblečením — nie náhodne, nie prirodzene — ale *presne*. Ako stroj oblečený v ľudskej koži.
+
+*[Líška. Kapitánka Itaky. Dcéra starého priateľa. A ten muž... Mŕtvy mi nebude užitočný.]*
 
 Pozrela na Tami. Potom na Maksa. Potom na tunel za sebou.
 
@@ -212,11 +228,11 @@ Natiahla ruku k Tami — gesto, ktoré bolo absurdne dievčenské. Jemné. Takme
 
 Tami sa zachvela. Nevzala ju.
 
-Sera sklonila hlavu. Prikývla — nie potupy, len registrácie. Stiahla ruku. Otočila sa do tmy.
+Žena sklonila hlavu. Prikývla — nie potupy, len registrácie. Stiahla ruku. Otočila sa do tmy.
 
 *[Pochopiteľné. Ale škoda.]*
 
-A kráčala. Bez slova. Bez vysvetlenia. Bez toho, aby sa obzrela.
+A kráčala. Bez ďalšieho slova. Bez vysvetlenia. Bez toho, aby sa obzrela.
 
 Tami, Maks a Kito stáli v tuneli a pozerali sa za ňou.
 
@@ -230,11 +246,59 @@ Vyrazili za ňou.
 
 ---
 
-## Časť III: Lov
+## Časť III: Brána Básne
 
-Sera ich viedla tmou. Žiadne slová. Žiadne vysvetľovanie. Len rýchle, isté kroky v absolútnej tme — kráčala, akoby videla bez svetla. Tami si po chvíli uvedomila, že pravdepodobne *videla*.
+Žena ich viedla tmou. Žiadne slová. Žiadne vysvetľovanie. Len rýchle, isté kroky v absolútnej tme — kráčala, akoby videla bez svetla. Tami si po chvíli uvedomila, že pravdepodobne *videla*.
 
-Paladíni boli štyri tunely pred nimi. Spomaľovali — artefakt bol ťažký. Kira kontrolovala zadný voj. Rau niesol.
+Voda im siahala po kolená. Stúpala — pomaly, neúprosne, ako dych spiaceho mora. Kito sa obzeral po stenách, kde vlhkosť nechávala tmavé pruhy čoraz vyššie.
+
+„Príliv," zašepkal. „Mesiac je v splne — príliv stúpa." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
+
+*[Knihovník vie o prílivoch. Dobrá poznámka.]*
+
+A potom sa zastavila.
+
+Brána. Iná než tá prvá — menšia, elegantnejšia, z matného čierneho materiálu, hladkého ako obsidián. Žiadne pukliny. Žiadne praskliny. Na ráme boli ryhy — zárezy vibro-sekier, čerstvé, hlboké — ale kov nepovolil. Paladíni sa ju pokúsili otvoriť. A zlyhali.
+
+*[Sekerou. Na nanokompozit. Hlúpe opice.]*
+
+Žena prešla prstami po povrchu. Jemne. Ako hudobníčka ladí nástroj.
+
+A potom zdvihla ruky.
+
+Pentagram. Päť bodov svetla sa rozsvietilo vo vzduchu pred ňou — jemné, geometrické, presné. Línie medzi nimi pulzovali fialovým svetlom, kým sa neuzavreli do päťuholníka. Vzduch okolo brány zhustol. Teplota klesla.
+
+*[300 rokov štúdia. Stálo to za to.]*
+
+Prehovorila. Ticho. Tri riadky — japonské slová, rytmické, presné. Päť slabík. Sedem. Päť. Hlas znel ako zvon v prázdnej katedrále.
+
+Brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Kamenné krídla sa rozchýlili ako kvetné lístky na svitaní.
+
+Kito zalapal po dychu.
+
+„To bol..." Kolená sa mu podlomili. Nie strachom — *úžasom*. „Haiku skript. *Fungujúci* Haiku skript." Ruky sa mu triasli. „V Doktríne stojí, že posledný funkčný Haiku skript bol zaznamenaný pred osemsto rokmi. A aj ten bol len fragment — tri slová, jedno zaklínadlo. Toto bolo—" hlas sa mu zlomil. „*Plné* Haiku. Kompletná báseň. Tri riadky — päť-sedem-päť slabík — a brána sa *otvorila*."
+
+Zapisoval si v hlave. Každú slabiku. Každý tón. Každú sekundu toho, čo práve videl.
+
+Maks stál za nimi. Stuhol.
+
+Felix ho učil základy. Starý Mako, séria E, posledná generácia — sedával s ním večer pri ohni a rozprával o Matke. O jazyku, ktorým hovorila. O básňach, čo otvárali dvere.
+
+*Haiku syntax*, oznámil Asistent. *Staroreč kompilácia. Zhoda s profilom: Neto Fujiwara — Inetis. 99.7%.*
+
+Maks nič nepovedal. Stál v tme. A díval sa na ženu, čo práve otvorila bránu básňou — tou istou syntaxou, čo ovládala len jedna bytosť na planéte.
+
+*Kto si?*
+
+Žena sa neotočila. Prešla cez bránu a kráčala ďalej. Voda jej siahala po stehná.
+
+---
+
+## Časť IV: Lov
+
+Voda im siahala po pás. Stúpala rýchlejšie — príliv kulminoval, a tunely sa menili na podmorské chodby. Kito držal mapy nad hlavou. Tami cítila, ako jej studený prúd ťahá za nohy.
+
+Paladíni boli štyri tunely pred nimi. Spomaľovali — artefakt bol ťažký, a voda spomaľovala aj ich. Kira kontrolovala zadný voj. Rau niesol.
 
 „Tam," povedal Maks. Zastavil sa. Oči mu stmavli — videl to, čo jeho drony. „Zastavili sa. Osemdesiat metrov."
 
@@ -248,11 +312,11 @@ Sera sa otočila.
 
 „A ty?" spýtala sa Tami.
 
-Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a zmizla v tieni bočného tunela.
+Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a ustúpila do tieňa bočného tunela. Čierny Prach na jej koži pohltil svetlo — tie isté nanoboty ako Maksove, len inak použité. Nie zbrane. Nie drony. *Kamufláž.* Tieň ju objal a ona zmizla v ňom, akoby nikdy nestála.
 
 *[Česť je len výhovorka pre nedostatok flexibility.]*
 
-Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč.
+Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč. Maks zaregistroval, čo videl. *Čierny Prach. Používa ho na stealth. Rovnaký nanotech ako môj — ale úplne iný prístup.*
 
 Maks a Tami sa na seba pozreli. Kito za nimi dýchal tak hlasno, že sa ozýval v celom tuneli.
 
@@ -264,7 +328,7 @@ Nabili zbrane. Vykročili vpred.
 
 ---
 
-## Časť IV: Druhý boj
+## Časť V: Druhý boj
 
 Tunel sa rozširoval do nízkej komory. Strop podopierali kamenné piliere — staré, masívne, s erbami Kultu Matky. Medzi nimi stáli Paladíni.
 
@@ -288,17 +352,21 @@ Nikto nepozeral dozadu.
 
 Sera sa objavila za Rauom.
 
-Nie teleport. Nie mágia. Len *rýchlosť*. Pohla sa tak rýchlo, že Tami videla len rozmazanú stopu — tieň, ktorý sa materializoval v priestore medzi jedným úderom srdca a ďalším.
+Nie teleport. Nie mágia. Tieň sa odlepil od steny — Čierny Prach na jej koži pustil kamufláž a ona sa *zhmotila* z tmy. Pohla sa tak rýchlo, že Tami videla len rozmazanú stopu — tieň, ktorý sa materializoval v priestore medzi jedným úderom srdca a ďalším.
 
 *[Prvý. Krk. Otočený.]*
 
 A v jej ruke bol **Yari**.
 
-Kopija. Dvojmetrová. Čepeľ tak ostrá, že vzduch okolo nej sa triasol. Matný kov — starý, nepoznajúci čas.
+Kopija. Dvojmetrová. Matný kov — starý, nepoznajúci čas. Vyzerala ako pišťala, keď ju vytiahla z puzdra na páse — a potom sa roztiahla na plnú dĺžku.
+
+Zašepkala. Tri slabiky. Päť. Sedem. Haiku — tichý, nežný, takmer modlitba. Špica Yari sa rozžiarila — fialový záblesk, kratší než mrknutie. Nanoboty na čepeli počuli poéziu a *spevnili sa*. Formovali sa do absolútnej hustoty — už nie kov, ale niečo medzi hmotou a úmyslom.
+
+*[Enchant. Formovaná čepeľ. Cez štít, cez pancier. Ako do masla.]*
 
 Bodla.
 
-Jeden presný, chirurgický úder. Yari prenikla cez svetelný štít — *úplne*. Čepeľ sa zanorila do modrého svetla, roztrhla ho a prenikla do krku. Zozadu. Bez varovania. Bez cti.
+Jeden presný, chirurgický úder. Yari prenikla cez svetelný štít — *úplne*. Enchantnutá špica prešla cez modré svetlo, akoby neexistovalo — a nezastavila sa na pancieri. Prešla cez oceľ. Cez ornamentálne pruhy. Cez všetko. Do krku. Zozadu. Bez varovania. Bez cti.
 
 *[Hotovo.]*
 
@@ -318,7 +386,7 @@ A v tom momente Sera bodla. Zozadu. Znova.
 
 *[Druhý. Chrbtica. Hotovo.]*
 
-Yari prenikla cez svetlo, priamo do chrbtovej miechy. Kira stuhla. Vibro-sekera vypadla z rúk. Telo sa zrútilo.
+Yari — stále enchantnutá, stále žiariaca — prenikla cez svetlo, cez pancier, priamo do chrbtovej miechy. Ako do masla. Kira stuhla. Vibro-sekera vypadla z rúk. Telo sa zrútilo.
 
 Celý boj trval pätnásť sekúnd.
 
@@ -354,11 +422,17 @@ Kito stuhol. *Opice. Povedala to nahlas. Leaklo jej to.* Zapísal si to v hlave.
 
 ---
 
-## Časť V: Artefakt
+## Časť VI: Artefakt
 
-Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na Seru — na ženu, čo práve zabila dvoch Paladínov zozadu, bez varovania, akoby zametala podlahu.
+Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na ženu, čo práve zabila dvoch Paladínov zozadu, bez varovania, akoby zametala podlahu.
 
-Sera sa otočila k nemu. Pozrela na vzduch okolo Maksa — nie na tvár, nie na telo. Na priestor okolo jeho hlavy. Videla niečo, čo ostatní nie.
+*Haiku syntax. Japončina. Čepeľ Elanie. Inetis profil: 99.7%.*
+
+Kto na tejto planéte ovláda Haiku na úrovni Inetis? Kto má Gen 1 nanoboty a pohybuje sa ako niečo, čo nepatrí do tohto storočia?
+
+*Čepeľ Elanie. Slúži dcére Matky. Vie o Inetis.*
+
+Žena sa otočila k nemu. Pozrela na vzduch okolo Maksa — nie na tvár, nie na telo. Na priestor okolo jeho hlavy. Videla niečo, čo ostatní nie.
 
 *[Čierny Prach. Kinetický roj. Na tomto kontinente. Nemožné.]*
 
@@ -388,7 +462,7 @@ Hľadela na artefakt. Čierne oči sa rozšírili. *Túžba.* Surová, tisícro�
 
 Prsty sa jej chveli — prvýkrát za celý večer. Pritiahla si tyč k hrudi. Objímala ju. Ako pútnik objímajúci svätý kameň na konci dlhej cesty.
 
-Maks strhol zbraň. „Sera."
+Maks strhol zbraň. „Hej!"
 
 Nič. Oči zatvorené. Tvár — tá dokonalá maska — sa zmenila. Pery sa jej mierne rozchýlili. Vyzeralo to ako hlad. Ako túžba niekoho, kto tisíc rokov slúžil a teraz držal kúsok svojej pani.
 
@@ -408,9 +482,39 @@ Ostala len únava. A rozhodnutie.
 
 Bojovala. Bolo to vidieť — v napätí jej čeľuste, v tom, ako sa jej prsty nechceli pustiť tyče. Ale pustili.
 
-Položila artefakt na zem. Medzi seba a Maksa. Neutrálny priestor.
+*[Nie mne. Dcére starého priateľa. Odpusť mi, Renn.]*
 
-Narovnala sa.
+A potom sa otočila. Nie k Maksovi.
+
+K **Tami**.
+
+Hlas sa zmenil. Hlboký hlas zmizol — nahradil ho niečo, čo poslalo zimomriavky po Taminej chrbtici. Vysoký. Sladký. *Dievčenský*. Úplný kontrast k tým starým, mŕtvym očiam — absurdný, desivý, nesprávny.
+
+*[Kawaii. Testuje, či vezme.]*
+
+„Pre teba, líška~"
+
+Natiahla artefakt k Tami. Oboma rukami. Gesto, ktoré bolo takmer *ponuka* — ako keby dávala darček, nie tridsaťkilový kus kovu a smrti.
+
+Tami pozrela na Maksa. Maks mal tvrdý výraz — ale neprotestoval. Oči — tie čierne jamky — sledovali Seru s napätím, nie so strachom.
+
+Tami vzala artefakt.
+
+A v momente, keď sa jej prsty dotkli studeného kovu — niečo sa stalo.
+
+*Teplo.*
+
+Prešlo jej rukami. Jemné, takmer nepostrehnuteľné. Ako keby sa v nej niečo *prebudilo*. Ako prvý lúč slnka na koži po dlhej noci. Artefakt bol studený — ale teplo neprišlo z kovu. Prišlo zvnútra.
+
+Tami žmurkla. Pocit zmizol rovnako rýchlo, ako prišiel. Zostala len ťarcha kovu v rukách.
+
+Sera sa usmiala.
+
+Nie kawaii. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký Tami od nej videla — smutný, unavený, ale čistý. Úsmev ženy, ktorá práve splnila sľub.
+
+*[Hotovo. Semienko zasadené. Odpusť mi, dieťa — raz pochopíš.]*
+
+Narovnala sa. Hlas sa vrátil k hĺbke.
 
 „Kto... kto ťa učil bojovať?" Maksov hlas bol chrapľavý.
 
@@ -452,15 +556,13 @@ Pozerala na **Tami**.
 
 Len na zlomok sekundy. Oči sa presunuli — z Maksa na Tami a späť — tak rýchlo, že si to nikto nevšimol. Nikto okrem Sery, ktorá presne vedela, komu tie slová patrili.
 
-Maks to nevidel. Maks počul *El* a nevedel, čo to znamená. Ďalšia záhada. Ďalší kus skladačky bez okrajov. Tami stála vzadu a ani len netušila.
-
-*[Odpusť mi, dieťa. Raz pochopíš.]*
+Maks to nevidel. Maks počul *El* a nevedel, čo to znamená. Ďalšia záhada. Ďalší kus skladačky bez okrajov. Tami stála vzadu s artefaktom v rukách a ani len netušila, čo práve dostala.
 
 Sera sa usmiala. Bol to smutný, unavený úsmev ženy, ktorá videla budúcnosť a vedela, že ju nemôže zmeniť.
 
 „Kľúč." Posledné slovo. K Maksovi. Očami na Tami.
 
-A potom zmizla.
+A potom Čierny Prach pohltil jej kontúry. Tieň ju objal — ten istý trik ako predtým, ten istý nanotech — a Sera prestala existovať v priestore.
 
 Dvere. Vzduch. Nič.
 
@@ -468,9 +570,9 @@ Definitívne.
 
 ---
 
-## Časť VI: Odpočítavanie
+## Časť VII: Odpočítavanie
 
-Komora ostala tichá. Len jemné bzučanie artefaktu na zemi rušilo ticho.
+Komora ostala tichá. Len jemné bzučanie artefaktu v Taminých rukách rušilo ticho.
 
 Maks stál v prázdnom priestore. Ruky zovreté do pästí. Oči sa dívali do prázdnoty miesta, kde stála Sera.
 
@@ -478,7 +580,7 @@ Maks stál v prázdnom priestore. Ruky zovreté do pästí. Oči sa dívali do p
 
 *Minulý čas. Tri veže. El. Neúplné.*
 
-Tami prišla k nemu. Opatrne.
+Tami prišla k nemu. Artefakt v oboch rukách — ťažký, tridsať, možno štyridsať kilogramov kovu a niečoho staršieho. Objímala ho nevedomky, ako keby sa v ňom skrývalo niečo, čo jej telo poznalo, aj keď myseľ nie.
 
 „Maks... kto bola?"
 
@@ -488,7 +590,7 @@ Potom — chrapľavým, napätým hlasom:
 
 „Niekto, kto poznal Inetis. Niekto, kto vie, čo sa stalo." Pauza. Čeľusť sa mu napla. „A niekto, kto mi to nepovie."
 
-Kito klesol na kolená. Ruky sa mu triasli tak, že mapy vypadli na zem.
+Kito klesol na kolená. Ruky sa mu triasli tak, že mapy vypadli do vody.
 
 „To nedáva zmysel," šepkal. Hlas sa mu lámal. „V Doktrínach nie je *nikto* ako ona. Žiadny Príchod. Žiadne proroctvo. Ak existuje bytosť, ktorú naše texty vôbec nespomínajú..." Pozrel na Maksa s výrazom niekoho, komu sa práve zrútil celý systém viery. „Čo ešte nám tá Cirkev *zamlčala*?"
 
@@ -498,15 +600,15 @@ Tami sa na neho pozrela. Prvýkrát videla Kita — toho cynického akademika �
 
 „Nie je to bohyňa," povedal Maks ostro. „Je to človek. Starý, nebezpečný, a hrá svoju vlastnú hru."
 
-Prešiel okolo nich. Zdvihol artefakt zo zeme. Ťažký — tridsať, možno štyridsať kilogramov kovu a niečoho staršieho.
-
-Pozrel na Tami. Na jej oči — tie tyrkysové líščie oči — kde na moment preblikol záblesk. Fialový. Ako svetlo ďalekej hviezdy.
+Pozrel na Tami. Na artefakt v jej rukách. A na jej oči — tie tyrkysové líščie oči — kde na moment preblikol záblesk. Fialový. Ako svetlo ďalekej hviezdy.
 
 Zmizol skôr, než si bol istý.
 
+*Prečo jej ho dala? Prečo nie mne?*
+
 „Ideme," povedal. Hlas mal chrapľavý. „Máme to, pre čo sme prišli."
 
-Zdvihol samopal druhou rukou. Vykročil k východu.
+Zdvihol samopal. Vykročil k východu.
 
 Potom to začul.
 
@@ -556,7 +658,7 @@ Maksov samopal narazil do steny tunela. Popruh praskol. Zbraň spadla do tmy za 
 
 *20 sekúnd.*
 
-Tunely sa triasli. Strop praskal. Kusy kameňa padali do vody, ktorá sa vracala — čierna, studená, rýchla. Bežali brodiac sa po kolená, po pás.
+Tunely sa triasli. Strop praskal. Kusy kameňa padali do vody — a voda bola všade. Príliv kulminoval. Čierna, studená, neúprosná hladina im siahala po pás a stúpala s každou sekundou. Bežali brodiac sa cez ňu, proti prúdu, ktorý sa valil chodbami ako krv žilami umierajúceho mesta.
 
 Tami stratila pištoľ v prúde — voda jej ju vytrhla z puzdra, keď zakopla o potrubie pod hladinou. Zachytila sa o stenu, zdvihla sa, bežala ďalej.
 
@@ -612,13 +714,13 @@ Panika sa valila ulicami. Strážcovia opúšťali pozície. Civilisti utekali k
 
 ---
 
-## Časť VII: Prvá stopa
+## Časť VIII: Prvá stopa
 
 Maks, Tami a Kito sa vydrápali z ventilačnej šachty do uličky za Chrámom. Za nimi — tam, kde stál najväčší chrám na kontinente — bola len prašná jama a hŕba sutín, z ktorej stúpal dym.
 
-Maks stál. Bez samopalu. Plášť roztrhaný, ruky odreté do krvi od rebríkov. Artefakt zovretý pod ľavým ramenom — jediná vec, ktorú nestratili.
+Maks stál. Bez samopalu. Plášť roztrhaný, ruky odreté do krvi od rebríkov.
 
-Tami stála vedľa neho. Bez pištole. Nadel na boku — jediná zbraň, čo im zostala.
+Tami stála vedľa neho. Bez pištole. Nadel na boku — jediná zbraň, čo im zostala. A artefakt — čierna kovová tyč, tridsaťkilová ťarcha starších čias — zovretý pod jej ramenom. Jediná vec, ktorú nestratili.
 
 Kito sa opieral o stenu. Trasúci sa. Okuliare stratené kdesi v tuneloch. Videl na tri metre pred seba a aj to rozmazane.
 
@@ -630,7 +732,7 @@ Maks sa pozrel na sutiny. Na prach, ktorý stúpal do nočnej oblohy a miešal s
 
 *Misia splnená*, oznámil Asistent. Chladne. Vecne. *Artefakt zaistený.*
 
-Maks Asistenta ignoroval. Pozeral sa na Tami. Na artefakt pod svojím ramenom. Na ten fialový záblesk, o ktorom si stále nebol istý.
+Maks Asistenta ignoroval. Pozeral sa na Tami. Na artefakt pod jej ramenom — *prečo jej ho dala?* Na tie tyrkysové oči, kde si bol takmer istý, že videl fialový záblesk. Takmer.
 
 *Tri veže. Cieľ: veže. Prvá stopa za trinásť rokov.*
 
@@ -638,11 +740,11 @@ Maks Asistenta ignoroval. Pozeral sa na Tami. Na artefakt pod svojím ramenom. N
 
 „Ideme," povedal. Ticho. Bez emócie. „K Itake."
 
-Tami prikývla. Chytila Kita za rameno a viedla ho preč od sutín. Preč od kriku. Preč od mesta, ktoré sa začínalo rúcať.
+Tami prikývla. Presunula artefakt pod druhé rameno — ťažký, ale neodložila ho. Chytila Kita za golier druhou rukou a viedla ho preč od sutín. Preč od kriku. Preč od mesta, ktoré sa začínalo rúcať.
 
 Za nimi horel Šoraven. Nie od Grawu. Od vlastného strachu.
 
-A pod Maksovým ramenom bzučal artefakt. Jemne. Takmer nečujne.
+A pod Taminým ramenom bzučal artefakt. Jemne. Takmer nečujne.
 
 Čakal.
 
