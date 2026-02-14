@@ -5,7 +5,7 @@
 | **Full Name** | Sera (セラ) aka Seira |
 | **Species** | 100% Human (native Japanese, genetically enhanced) |
 | **Born** | Earth, Japan (EY ~2145) |
-| **Age** | ~3200 rokov chronologicky |
+| **Age** | ~3470 rokov chronologicky (vrátane ~450 rokov v kryospánku počas letu ARK-11) |
 | **Biological Age** | ~20 rokov (Gen 1 nanotech preservation) |
 | **Height** | ~180cm (geneticky upravená - ARK program enhancement) |
 | **Nationality** | Japonka |
@@ -92,7 +92,7 @@
 **AY 500 (Veľká bitka - Ľudia vs Varietas):**
 - Sera sa **nezapojila** (neutrálna postava)
 - ked sa Inetis po bitke stratila.
-- Odišla s Elaniou do **Veže Stratených** (južný kontinent)
+- Odišla s Elaniou do **Veže Zatratených** (južný kontinent)
 - Ked nemohla chranit matku, chranila dceru.
 
 **AY ~1000 (Bitka Tichého Údolia — "Biela Smrť"):**
@@ -218,7 +218,7 @@
 
 ## Motivations & Goals
 
-**Primary Mission (AY 2013):**
+**Primary Mission (AY 3013):**
 - Prinesť **Anténa** artefakt späť Elanii
 - Investigovať "nesmrteľného exorcistu" (Maks)
 - Zistiť, čo sa stalo s Paladínmi (Rau & Kira)
@@ -307,15 +307,15 @@
 ### Makovia (Worshippers)
 
 **Why Makovia Worship Sera:**
-- Felix (Mako) poznal Seru z ARK-11
-- Rozprával iným Makom o "The Last Pure Human"
-- Sera = jediný **čistý** človek, čo videl Japonsko (Ex Inferis sú tiež zo Zeme, ale sú vampíri)
-- **Bohyňa zo Zeme, nesmrteľná, dokonalá**
+- Sera pozná každého Maka osobne — chodí ich navštevovať po staročia
+- Je posledný človek, čo si pamätá Japonsko (domovinu ich tvorcov)
+- Sera = jediný **čistý** človek zo Zeme (Ex Inferis sú tiež zo Zeme, ale sú vampíri)
+- **Bohyňa zo Zeme, nesmrteľná, dokonalá** — "The Last Pure Human"
 
 **Sera's Reaction:**
-- Ignoruje uctievanie
+- Nie je jej to ľahostajné — rešpektuje Makov, pozná ich osobne
 - Nepotrebuje bohov ani uctievačov
-- Ale rešpektuje Makami (poznala ich predkov)
+- Ale vzťah s Makmi je pre ňu niečo blízke rodine
 
 ### Apes (Legend Status — "Biela Smrť")
 

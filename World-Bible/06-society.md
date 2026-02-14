@@ -17,7 +17,7 @@
 Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
 - **Apex** - risa Opic kde vladne Cisar a je obklopeny paladinmi.
 
-### 1. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
+### 2. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
 **Hanlivé názvy (od ľudí):** "Hybridy" (najrozšírenejší slur, bežne používaný), "Zver", "Miešanci", "Hračky", "Krátkožijúci".
 
 **Pôvod:** Potomkovia geneticky modifikovaných ľudí zo Zeme (pôvodne pre módu/dekadenciu).
@@ -41,7 +41,7 @@ Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú 
 
 ---
 
-### 1. Archanjeli (Ex inferis)
+### 4. Archanjeli (Ex inferis)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
 - **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Elysia. Ich intervencia zvrátila priebeh boja.
 - **Ideológia**: Archanjeli sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
@@ -50,7 +50,7 @@ Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodn�
 - **Dôsledok pre spoločnosť**: Spira je medzi Varietas vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maksom v AY 3001).
-    - **Grond:** Vojna, priemysel, hrubá sila. **Mŕtvy** (~AY 1200, Glitch Rot) — nahradený dynastiou podvodníkov v jeho Power Armor.
+    - **Grond:** Vojna, priemysel, hrubá sila. **Živý** — ukrytý v Power Armor, vládne Severu od AY 700. Zabitý Maksom v AY 3013.
     - **Zaya (Ishtar):** Pôžitok, drogy, propaganda/ilúzie. Žije na Simire v Sklenom Meste.
     - **Elania:** Pôvodná vodkyňa, ktorá uznala ich nadvládu výmenou za prežitie svojho ľudu. Slúži ako "Gatekeeper". Žije na Neurope.
 
@@ -351,14 +351,13 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 |---|---|
 | **Božstvo** | Grond ("Nesmrteľný Vládca") |
 | **Centrum** | Železná Citadela |
-| **Vláda** | "Nesmrteľný Grond" (dynastia v Power Armor) |
+| **Vláda** | Grond (originálny Ex Inferis v Power Armor) |
 | **Charakter** | Militantný, expanzívny |
 
-**Tajomstvo (známe len úzkemu kruhu):**
-- Pravý Grond (Ex Inferis) zomrel na Glitch Rot okolo AY 1200
-- Jeho Power Armor si privlastnil jeden z generálov
-- Každý nový "Grond" je len muž v zbroji — nikto nevidí tvár pod helmou
-- Dynastia podvodníkov pokračuje už ~1800 rokov
+**Tajomstvo:**
+- Grond je stále ten istý originálny Ex Inferis zo Zeme — žije 3300 rokov
+- Pod Power Armor je zničené telo držané pohromade nanobotmi a neustálym prísunom ľudských obetí
+- Nikto nevidí jeho tvár pod helmou už tisícročia
 
 **Doktríny:**
 - Grond je nesmrteľný boh-vojak

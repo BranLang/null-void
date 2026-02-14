@@ -80,3 +80,25 @@ Apes sa vyvíjali oddelene od Terry, preto majú úplne iné technológie:
 ### Cieľ Civilizácie
 Cézar Goro vedie svoj ľud za jediným cieľom: **Získať kontrolu nad Nanotechnológiou (Spirou).**
 Veria, že "Spira" nie je mágia, ale stratená veda (pravdivo). Bez nej sú proti Archanjelom (a potenciálne Sere) bezbranní, napriek svojim silovým brneniam. Preto chceli Anténu.
+
+---
+
+## Sklené Mesto — Enkláva Zaya (Ishtar)
+
+> *"Tolerujeme ich. Oni tolerujú nás. Neznamená to, že si rozumieme."* — Goro o Sklenom Meste
+
+### Prehľad
+Na pobreží Simiry existuje **Sklené Mesto** — enkláva ľudí a Varietas otrokov pod vládou **Zaya (Ishtar)**, jednej z Archanjelov. Apes ho tolerujú, ale nepovažujú ho za súčasť svojej civilizácie.
+
+| Atribút | Detaily |
+|---|---|
+| **Vládca** | Zaya / Ishtar (Archanjel Pôžitku) |
+| **Populácia** | Ľudia + Varietas otroci |
+| **Charakter** | Dekadentný dvor, drogy, ilúzie, propaganda |
+| **Vzťah s Apes** | Vzájomná tolerancia a spolupráca na základe obojstranného benefitu |
+
+### Vzťah Apes — Sklené Mesto
+- **Kultúry sa nezlučujú** — Apes sú vojenská technokracia, Zaya je hedonistický dvor
+- **Spolupráca z pragmatizmu** — vzájomné obchodné a spravodajské benefity
+- Apes tolerujú enklávu, pretože Zaya poskytuje informácie z Terry (informátorská sieť)
+- Zaya toleruje Apes, pretože Simira je mimo dosahu ostatných Archanjelov

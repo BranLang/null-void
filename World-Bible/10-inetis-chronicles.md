@@ -77,7 +77,7 @@ Okolo roku **AY 850** došlo k nevyhnutnému. Varietas, posilnení Spirou, zača
 
 **Ex Inferis zaútočili.**
 Nebola to Elania, kto ich viedol. Ona bola v tom čase len "piate koleso" — ignorovaná a bez reálnej moci.
-Výpravu viedol Triumvirát: **Grond** (Sila), **Samaell** (Smrť) a **Zaiya/Ishtar** (Ilúzia). Chceli "Dar Matky" pre seba.
+Výpravu viedol Triumvirát: **Grond** (Sila), **Samaell** (Smrť) a **Zaya/Ishtar** (Ilúzia). Chceli "Dar Matky" pre seba.
 
 Vojna bola brutálna. Ľudské légie (v1.0) narazili na Prvých Krotiteľov (v2.0).
 - **Genocída Líšok:** Líščí rod (Vulpes) boli **lídri a inteligencia** Varietas — najprefíkanejší stratégovia a najtalentovanejší programátori Spiry. Preto sa stali primárnym cieľom.
@@ -97,7 +97,7 @@ Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. 
 
 **Dôsledky (Rozpad Triumvirátu):**
 1.  **Grond (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
-2.  **Zaiya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Simira**), kde neskôr vybudovala svoje izolované Sklené Mesto.
+2.  **Zaya/Ishtar (Juh):** Prišla o všetko (svoju légiu). V hanbe sa stiahla na Južný kontinent (**Simira**), kde neskôr vybudovala svoje izolované Sklené Mesto.
 3.  **Samaell (Tulák):** Ponoril sa do depresie a šialenstva. Odvrhol vodcovstvo a stal sa z neho tulák a vrah, závislý na kradnutí "krvi" (technovampirizmus).
 4.  **Elania:** Jej légia sa do boja nezapojila. Keď uvidela Matku, plakala, ale pre obrovskú hanbu sa jej nedokázala ospravedlniť. Utiahla sa do svojej **Veže Zatratených (Tower of the Damned)** na izolovanom ostrove západne od pevniny.
     - **Jurassic Park:** Istý čas sa snažila napraviť svet — v Južnej Neurope začala s teraformáciou a v púšti vytvorila prispôsobené organizmy (jaštery, hmyz).
@@ -160,7 +160,7 @@ Sadla si k jeho modulu. Oprela si čelo o studené sklo.
 *„Prepáč, Maks. Nechala som ťa spať príliš dlho. Teraz to budeš musieť upratať sám."*
 
 Zomrela tam, v tichu jaskyne.
-Jej telo sa sa premenilo na onyxovu sochu a rozpadlo sa na prach (nanoboty sa deaktivovali a opustili hostiteľa). Ostali len jej denníky (kožené zväzky, ktoré písala celé roky), kosti — a **Anténa**, položená vedľa nej ako verný strážca.
+Jej telo sa premenilo na onyxovu sochu a rozpadlo sa na prach. Nanoboty neskolabovali — vložila poslednú vôľu do príkazu: **Merge**. Nanoboty opustili hostiteľa a vsiakli do **Antény**, ktorá ležala vedľa nej ako verný strážca. Ostali len jej denníky (kožené zväzky, ktoré písala celé roky) a kosti.
 Maks spal ďalej, nevediac, že žena, ktorú miloval, zomrela pol metra od jeho tváre.
 
 ---

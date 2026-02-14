@@ -333,7 +333,7 @@
 ## Itaka — Najväčšia Loď na Terre
 
 - **Pôvod**: Felix a ďalší Maki postavili **Itaku** pre Renna
-- **Typ**: Prototyp štvrtej série jastrabích vzducholodí — Spira-kryštálový pohon
+- **Typ**: Prototyp štvrtej série vzducholodí triedy Makina — Spira-kryštálový pohon
 - **Revolúcia**: Neobmedzený dolet, minimálne prevádzkové náklady
 - **Pôvodné Maki označenie**: Stavitelia ju volali *Makina* („Malý Stroj" v jazyku Makov) — pocta vlastnému remeslu
 - **Meno — Itaka**: Renn ju premenoval. Celý život hľadal domov. Pomenoval svoju loď po ostrove, na ktorý sa Odysseus takmer nedokázal vrátiť.
