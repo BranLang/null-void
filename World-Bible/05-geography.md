@@ -42,21 +42,21 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 
 #### Nebeská Mechanika a Mapy
 
-- **Mesiac Achilles — "Oko Matky" (Motai)**:
+- **Mesiac Achilles — "Oko Matky" (Sai)**:
     - **Fyzikálne parametre**: Achilles má jeden veľký mesiac — väčší a bližší než pozemský Luna. Vďaka zvýšenej gravitácii planéty (1.4g) si udržiava stabilnú orbitu aj napriek blízkosti. Povrch je kamenisto-ľadový, odráža svetlo s jemným **jantárovým odtieňom** (nie striebristým ako Luna). Hustý — kamenno-železné jadro, čo mu umožňuje existovať tak blízko planéty bez rozpadu (nad Rocheovou medzou).
-    - **Orbita**: Vzdialenosť ~80 000–120 000 km (3–4x bližšie než Luna). Orbitálna perióda **~20 hodín** — takmer, ale nie presne, jeden achillovský deň. To znamená, že Motai každý deň vychádza o niečo neskôr — pomaly "putuje" cez denný cyklus.
+    - **Orbita**: Vzdialenosť ~80 000–120 000 km (3–4x bližšie než Luna). Orbitálna perióda **~20 hodín** — takmer, ale nie presne, jeden achillovský deň. To znamená, že Sai každý deň vychádza o niečo neskôr — pomaly "putuje" cez denný cyklus.
     - **Prstenec**: Mesiac je obklopený **tenkým prstencom** z ľadových a kamenných úlomkov — materiál, ktorý sa z neho postupne odlupuje na hranici gravitačnej stability. Z povrchu planéty je prstenec voľným okom viditeľný — dodáva mesiacu rozmazaný, svätožiarový lesk. Pri pohľade zošikma vyzerá ako **žiariaca dúhovka okolo tmavej zreničky** — ako oko hľadiace z oblohy.
-    - **Názov**: Varietas ho volajú **"Oko Matky"** (*Moth-Ai* v Staroreči → *Motai*). Veria, že Vševedúca Matka (Inetis) cez mesiac dohliada na svojich verných. Jasný prstenec = požehnanie, matný prstenec = zlé znamenie. Keď mesiac zapadne a na oblohe zostane len Infera (Diablovo Oko), poverčiví Varietas to považujú za najtemnejšiu hodinu noci.
+    - **Názov**: Varietas ho volajú **"Oko Matky"** (*Mother's Eye* v Staroreči → *Mot'sai* → **Sai**). Veria, že Vševedúca Matka (Inetis) cez mesiac dohliada na svojich verných. Jasný prstenec = požehnanie, matný prstenec = zlé znamenie. Keď mesiac zapadne a na oblohe zostane len Infera (Diablovo Oko), poverčiví Varietas to považujú za najtemnejšiu hodinu noci.
     - **Gravitačný prílivový efekt — "Dych Matky"**:
-        - Motai je dostatočne masívny a blízky na to, aby jeho prílivová sila **citeľne znižovala pociťovanú gravitáciu** na strane planéty privrátenej k mesiacu. Efekt je ~0.3–0.4g.
-        - **Motai v zenite** (priamo nad hlavou): Gravitácia klesá z 1.4g na **~1.0–1.1g** — takmer zemská! Výrazná úľava — pohyb je plynulý, dýchanie ľahké, bremená znesiteľné. Varietas sa počas ľahkej hodiny pohybujú s prekvapivou gráciou.
-        - **Motai na horizonte** (vychádza/zapadá): Mierna úľava (~1.2–1.3g).
-        - **Motai za planétou** (na odvrátenej strane): Plná ťarcha 1.4g, mierne viac (~1.45g). Najťažšia hodina — všetko je o niečo ťažšie, unavujúcejšie, pomalšie.
+        - Sai je dostatočne masívny a blízky na to, aby jeho prílivová sila **citeľne znižovala pociťovanú gravitáciu** na strane planéty privrátenej k mesiacu. Efekt je ~0.3–0.4g.
+        - **Sai v zenite** (priamo nad hlavou): Gravitácia klesá z 1.4g na **~1.0–1.1g** — takmer zemská! Výrazná úľava — pohyb je plynulý, dýchanie ľahké, bremená znesiteľné. Varietas sa počas ľahkej hodiny pohybujú s prekvapivou gráciou.
+        - **Sai na horizonte** (vychádza/zapadá): Mierna úľava (~1.2–1.3g).
+        - **Sai za planétou** (na odvrátenej strane): Plná ťarcha 1.4g, mierne viac (~1.45g). Najťažšia hodina — všetko je o niečo ťažšie, unavujúcejšie, pomalšie.
         - **Cyklus**: Vďaka ~20-hodinovej orbite sa "ľahká hodina" a "ťažká hodina" striedajú každý deň, ale pomaly sa posúvajú.
         - Varietas hovoria: *"Keď Matka hľadí, bremená sú ľahšie."* — a majú pravdu. Len si to vysvetľujú nábožensky namiesto fyzikálne.
     - **Dopad na civilizáciu**:
-        - **Vzducholode**: Aeronautická gilda má **motaiové tabuľky** — lety sa plánujú na "ľahkú hodinu", kedy vzducholode stúpajú ľahšie a spotrebujú menej paliva. Letieť počas ťažkej hodiny je drahšie a nebezpečnejšie.
-        - **Vojenstvo**: Skúsení velitelia načasujú útoky na "ťažkú hodinu" (Motai za obzorom) — nepriateľ je pomalší, unavený, ťažšie manévruje. Obrana sa naopak posilňuje počas "ľahkej hodiny".
+        - **Vzducholode**: Aeronautická gilda má **saiové tabuľky** — lety sa plánujú na "ľahkú hodinu", kedy vzducholode stúpajú ľahšie a spotrebujú menej paliva. Letieť počas ťažkej hodiny je drahšie a nebezpečnejšie.
+        - **Vojenstvo**: Skúsení velitelia načasujú útoky na "ťažkú hodinu" (Sai za obzorom) — nepriateľ je pomalší, unavený, ťažšie manévruje. Obrana sa naopak posilňuje počas "ľahkej hodiny".
         - **Prílivy**: Oceánske prílivy sú **extrémne** — hladina mora kolíše o desiatky metrov. To vysvetľuje devastujúce tsunami, nebezpečný námornícky obchod a prečo sú mestá ako Nevriss City postavené na vysokých útesoch.
         - **Seizmika**: Prílivové sily doslova hnetú kôru planéty — to je hlavná príčina častých zemetrasení, geotermálnej aktivity, gejzírov a magmových komôr (vrátane tých, ktoré vyhrievajú Graw).
         - **Architektúra**: Nízke budovy, masívne základy, ohybné konštrukcie — nie len kvôli zemetrasiam, ale aj kvôli cyklickému kolísaniu gravitácie.
