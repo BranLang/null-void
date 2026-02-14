@@ -20,7 +20,7 @@ Detailný pohľad na západný kontinent — domov Ľudí, Exorcistov a Elanie.
 ## Deep Lore: The Clean Stagnation (Solarpunk)
 
 ### 1. Estetika a Atmosféra
-Neuropa nie je špinavá a hlučná ako Nevriss (dieselpunk/steampunk), ani brutálna ako Apex. Je **tichá a čistá**.
+Neuropa nie je špinavá a hlučná ako Nevriss (dieselpunk), ani brutálna ako Apex. Je **tichá a čistá**.
 - **Energia**: Všade sú veterné turbíny a solárne farmy. Ľudia zvládli obnoviteľné zdroje energie. Mestá sú plné zelene, vertikálnych záhrad a bieleho kameňa.
 - **Nízka hustota**: Ľudí je málo (Varietas sú stovky miliónov, Apes desiatky miliónov, Ľudia len milióny). Mestá sú vzdušné, priestranné, takmer prázdne.
 - **Kvalita života**: Vysoká. Žiadny smog, žiadny hlad.

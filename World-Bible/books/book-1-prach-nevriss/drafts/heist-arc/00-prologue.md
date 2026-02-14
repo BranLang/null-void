@@ -4,7 +4,7 @@
 
 # Prológ
 
-Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň, aby o okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty striebristé mesačné svetlo. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
+Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný plameň, aby o okamih nato pokojne vyhasol. Nastala tma. Spoza špinavých okien prenikalo do kajuty jantárové svetlo mesiaca — visel nízko nad obzorom, obklopený slabým prstencom, ktorý mu dodával rozmazaný, takmer svätožiarový lesk. Skoro dokonalé ticho v miestnosti narušovalo iba pravidelné odfukovanie parného motora v diaľke.
 
 Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
 
@@ -28,7 +28,7 @@ Otázka ju zaskočila. Dvere sa hlasito zabuchli.
 
 ![Tami on the Itaka](../../../../assets/characters/Tami/tami-canon.png)
 
-Tami sa presunula na provu lode. Nočná obloha bola čistá a krutá — tisíce hviezd svietili tak ostro, ako svietia len v mraze. Dolu pod nimi sa rozprestieralo mesto v snehu. Milióny oranžových bodiek — olejové kahance a plynové lampáše — sa mihotali v tmavej bielej krajine ako uhlíky rozfúkané vetrom. Rozpoznala paláce, katedrály, mosty, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom. A nad tým všetkým, na najvyššom kopci uprostred mesta, žiarila Ona. Kolosálna socha Matky, vytesaná z bieleho kameňa, s rukami roztiahnutými v ochrannom geste nad prístavom.
+Tami sa presunula na provu lode. Nočná obloha bola čistá a krutá — tisíce hviezd svietili tak ostro, ako svietia len v mraze. Dolu pod nimi sa rozprestieralo mesto v snehu. Milióny oranžových bodiek — olejové kahance a plynové lampáše — sa mihotali v tmavej bielej krajine ako uhlíky rozfúkané vetrom. Rozpoznala paláce, katedrály, mosty, boli presne ako opisy z knihy, ktorú ako malá čítavala s otcom. A nad tým všetkým, uprostred mesta, sa týčila Ona. Kolosálna socha Matky, vytesaná z bieleho kameňa, s rukami roztiahnutými v ochrannom geste nad prístavom.
 
 Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že **Felix** — ťažký kanón, jej pýcha, je zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na začatie pristávacieho manévru.
 

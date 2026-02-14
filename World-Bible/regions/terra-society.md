@@ -12,7 +12,7 @@ Terra je "Hlavný Kontinent" — bijúce srdce civilizácie Varietas. Je to mies
 |---|---|
 | **Populácia** | ~250 Miliónov (prevažne Varietas) |
 | **Dominantná rasa** | **Homo Sapiens Varietas** (Ľudia so zvieracími črtami) |
-| **Estetika** | **Steampunk / Dieselpunk Fantasy** |
+| **Estetika** | **Dieselpunk Fantasy** |
 | **Technológia** | **Spira** (Nanotech) vnímaná ako Mágia + Dieselové stroje |
 | **Politika** | **Večná Vojna** (Sever vs. Juh) + 20 Fragmentovaných Kráľovstiev |
 
