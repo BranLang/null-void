@@ -11,15 +11,16 @@
 | **Pôvodný názov** | Kepler-452b ("Zem 2.0") |
 | **Vzdialenosť** | 1400 svetelných rokov (Súhvezdie Labute) |
 | **Veľkosť** | Super-Zem (1.6x polomer Zeme) |
-| **Gravitácia** | **vysoká** (cca 2x zemská) |
+| **Gravitácia** | **zvýšená** (cca 1.4x zemská / ~13.7 m/s²) |
 | **Orbit** | 385 dní (podobný rok) |
 | **Slnko** | G2 (podobné nášmu, trochu staršie) |
 
 ### Vplyv gravitácie na ľudí
-Keďže gravitácia je dvojnásobná, ľudia sa museli adaptovať (biologicky aj pomocou nanodronov):
-- **Postavy:** Sú nižší, zbití, ale **extrémne svalnatí**.
-- **Pohyb:** Pôsobia ťažkopádne, ale majú obrovskú silu.
-- **Vtáky:** Lietanie je náročné, ale vďaka hustejšej atmosfére možné.
+Gravitácia je o 40% vyššia než na Zemi. Nie dosť na to, aby zabíjala — ale dosť na to, aby **formovala celý svet**:
+- **Postavy:** Nižší, zbití, svalnatí. Po 3000 rokoch evolúcie sú Varietas stavané na záťaž — krátke nohy, široké hrudníky, husté kosti.
+- **Pohyb:** Pôsobia ťažkopádne, ale majú obrovskú silu. Pozemšťan by na Achilles cítil, ako keby neustále niesol 30 kg batoh.
+- **Vtáky:** Lietanie je náročné, ale vďaka hustejšej atmosfére možné — väčší vztlak kompenzuje vyššiu gravitáciu.
+- **Terén:** Cesty sa prepadajú pod vlastnou váhou. Bahno v 1.4g je husté, ťažké, pohltí kolesá aj kone. Preto sú **vzducholode** preferované pred pozemnými trasami — nie je to len kvôli tsunami, ale aj kvôli terénu, ktorý kladie odpor všetkému, čo sa po ňom pohybuje.
 
 ---
 
@@ -40,6 +41,27 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
 - **Príčina konfliktov**: Zlé plánovanie zásob počas leta vedie k hladomoru a vojnám. Počas zím sa obyvateľný pás zúži a krajiny bojujú o priestor.
 
 #### Nebeská Mechanika a Mapy
+
+- **Mesiac Achilles — "Oko Matky" (Motai)**:
+    - **Fyzikálne parametre**: Achilles má jeden veľký mesiac — väčší a bližší než pozemský Luna. Vďaka zvýšenej gravitácii planéty (1.4g) si udržiava stabilnú orbitu aj napriek blízkosti. Povrch je kamenisto-ľadový, odráža svetlo s jemným **jantárovým odtieňom** (nie striebristým ako Luna). Hustý — kamenno-železné jadro, čo mu umožňuje existovať tak blízko planéty bez rozpadu (nad Rocheovou medzou).
+    - **Orbita**: Vzdialenosť ~80 000–120 000 km (3–4x bližšie než Luna). Orbitálna perióda **~20 hodín** — takmer, ale nie presne, jeden achillovský deň. To znamená, že Motai každý deň vychádza o niečo neskôr — pomaly "putuje" cez denný cyklus.
+    - **Prstenec**: Mesiac je obklopený **tenkým prstencom** z ľadových a kamenných úlomkov — materiál, ktorý sa z neho postupne odlupuje na hranici gravitačnej stability. Z povrchu planéty je prstenec voľným okom viditeľný — dodáva mesiacu rozmazaný, svätožiarový lesk. Pri pohľade zošikma vyzerá ako **žiariaca dúhovka okolo tmavej zreničky** — ako oko hľadiace z oblohy.
+    - **Názov**: Varietas ho volajú **"Oko Matky"** (*Moth-Ai* v Staroreči → *Motai*). Veria, že Vševedúca Matka (Inetis) cez mesiac dohliada na svojich verných. Jasný prstenec = požehnanie, matný prstenec = zlé znamenie. Keď mesiac zapadne a na oblohe zostane len Infera (Diablovo Oko), poverčiví Varietas to považujú za najtemnejšiu hodinu noci.
+    - **Gravitačný prílivový efekt — "Dych Matky"**:
+        - Motai je dostatočne masívny a blízky na to, aby jeho prílivová sila **citeľne znižovala pociťovanú gravitáciu** na strane planéty privrátenej k mesiacu. Efekt je ~0.3–0.4g.
+        - **Motai v zenite** (priamo nad hlavou): Gravitácia klesá z 1.4g na **~1.0–1.1g** — takmer zemská! Výrazná úľava — pohyb je plynulý, dýchanie ľahké, bremená znesiteľné. Varietas sa počas ľahkej hodiny pohybujú s prekvapivou gráciou.
+        - **Motai na horizonte** (vychádza/zapadá): Mierna úľava (~1.2–1.3g).
+        - **Motai za planétou** (na odvrátenej strane): Plná ťarcha 1.4g, mierne viac (~1.45g). Najťažšia hodina — všetko je o niečo ťažšie, unavujúcejšie, pomalšie.
+        - **Cyklus**: Vďaka ~20-hodinovej orbite sa "ľahká hodina" a "ťažká hodina" striedajú každý deň, ale pomaly sa posúvajú.
+        - Varietas hovoria: *"Keď Matka hľadí, bremená sú ľahšie."* — a majú pravdu. Len si to vysvetľujú nábožensky namiesto fyzikálne.
+    - **Dopad na civilizáciu**:
+        - **Vzducholode**: Aeronautická gilda má **motaiové tabuľky** — lety sa plánujú na "ľahkú hodinu", kedy vzducholode stúpajú ľahšie a spotrebujú menej paliva. Letieť počas ťažkej hodiny je drahšie a nebezpečnejšie.
+        - **Vojenstvo**: Skúsení velitelia načasujú útoky na "ťažkú hodinu" (Motai za obzorom) — nepriateľ je pomalší, unavený, ťažšie manévruje. Obrana sa naopak posilňuje počas "ľahkej hodiny".
+        - **Prílivy**: Oceánske prílivy sú **extrémne** — hladina mora kolíše o desiatky metrov. To vysvetľuje devastujúce tsunami, nebezpečný námornícky obchod a prečo sú mestá ako Nevriss City postavené na vysokých útesoch.
+        - **Seizmika**: Prílivové sily doslova hnetú kôru planéty — to je hlavná príčina častých zemetrasení, geotermálnej aktivity, gejzírov a magmových komôr (vrátane tých, ktoré vyhrievajú Graw).
+        - **Architektúra**: Nízke budovy, masívne základy, ohybné konštrukcie — nie len kvôli zemetrasiam, ale aj kvôli cyklickému kolísaniu gravitácie.
+        - **Biológia**: Varietas sú svalnatí a zbití (adaptácia na 1.4g), ale počas ľahkej hodiny sa pohybujú prekvapivo gracilne — takmer ako pozemšťania. Vonkajší pozorovateľ by si myslel, že menia náladu — v skutočnosti sa mení gravitácia.
+    - **Dve Oči Oblohy**: Mesiac (Oko Matky) a Infera (Diablovo Oko) sú dva najvýraznejšie objekty nočnej oblohy. Jedno jantárové a strážiace, druhé červené a prekliate. Táto dualita je hlboko zakorenená v kultúre a náboženstve Varietas — jedno oko dobra, jedno oko zla, obe hľadia dolu na svet.
 - **Infera (ARK-13)**: Na nočnej oblohe (a niekedy aj cez deň) je voľným okom viditeľná jasná, neprirodzená "hviezda". Volajú ju **Infera**.
     - **Kultúrny Rozkol**: Pohľad na Inferu delí svet.
         - **Nevriss a Beladiss (Náboženskí)**: Vnímajú ju ako **"Diablovo Oko"**. Poverčiví dedinčania sa pred ňou skrývajú do domov a veria, že sa na ňu nesmie pozerať. V mestách je tento zvyk už považovaný za zastaraný a poverčivý.

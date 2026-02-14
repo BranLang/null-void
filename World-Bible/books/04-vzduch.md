@@ -6,7 +6,7 @@
 
 ## I. Nová Frakcia: NESMRTEĽNÍ (The Old Guard)
 *   **Podstata:** Pôvodní kolonisti (starí ~2700 rokov). Tí, ktorí zostali verní Elenii.
-*   **Vzhľad:** "Múmie" v starých skafandroch, steampunkové protézy, Bit Rotom zničené telá.
+*   **Vzhľad:** "Múmie" v starých skafandroch, dieselpunkové protézy, Bit Rotom zničené telá.
 *   **Schopnosti:** Majstri "tkáčskej Spiry" nanodronov. Namiesto hrubej sily manipulujú s hustotou vzduchu, vákuovými čepeľami a ilúziami.
 
 ---

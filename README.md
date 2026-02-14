@@ -30,7 +30,7 @@
 
 | Continent | Character | Secret |
 |-----------|-----------|--------|
-| **Terra** | The heartland. 80% of the world's population. Steampunk cities, eternal war between North and South, 20 fragmented kingdoms. | What they call "magic" is actually nanotech left behind by their forgotten creator. |
+| **Terra** | The heartland. 80% of the world's population. Dieselpunk cities, eternal war between North and South, 20 fragmented kingdoms. | What they call "magic" is actually nanotech left behind by their forgotten creator. |
 | **Neuropa** | The forbidden West. Sealed behind impenetrable barriers. No one enters, no one leaves. | Home to the original human colonists who never changed — and technology far beyond Terra's comprehension. |
 | **Simira** | The white spot on the map. No one knows what's there. Only legends and tavern gossip. | A hidden civilization of genetically engineered apes with hard-light shields and ancient technology. |
 | **Ynetis** | The lost island city at the equator, swallowed by a hurricane of Wraiths. | Contains The Core — an AI prison holding an interdimensional entity. The place where everything began. |

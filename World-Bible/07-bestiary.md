@@ -43,7 +43,7 @@ Vďaka genetickým úpravám a nanodronom existujú dve hlavné kategórie intel
 ## Divoká Zver
 
 ### Vtáky
-- Lietanie je v 2x gravitácii náročné, ale hustá atmosféra pomáha (väčší vztlak).
+- Lietanie je v 1.4x gravitácii náročnejšie než na Zemi, ale hustá atmosféra pomáha (väčší vztlak).
 - Vtáky majú väčšie rozpätie krídel a silné svalstvo.
 - Častejšie plachtia než mávajú krídlami.
 

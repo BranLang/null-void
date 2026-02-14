@@ -8,7 +8,7 @@ Zabudni na bezduchých kyborgov. Elenina elitná jednotka sú pôvodní kolonist
 
 Kto sú: Tí, ktorí prežili prvú vzburu a postavili sa na stranu Elenie proti Inetis. Sú starí cca 2700 rokov.
 
-Vzhľad: Ich telá sú zničené časom a Bit Rotom. Vyzerajú ako vysušené múmie v starých, zaplátaných skafandroch, doplnené o primitívne steampunkové protézy tam, kde biologické časti zlyhali.
+Vzhľad: Ich telá sú zničené časom a Bit Rotom. Vyzerajú ako vysušené múmie v starých, zaplátaných skafandroch, doplnené o primitívne dieselpunkové protézy tam, kde biologické časti zlyhali.
 
 Schopnosti (Majstri Spiry): Majú síce len civilné nanodrony (slabšie ako Maxove), ale majú tisícročia praxe.
 
