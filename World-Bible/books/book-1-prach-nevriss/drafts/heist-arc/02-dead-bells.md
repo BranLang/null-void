@@ -10,17 +10,17 @@ Vzduch bol hustý od dymu, potu a zúfalstva. Za stolmi sedeli žoldnieri v rôz
 
 *Presne preto som tu*, pomyslela si Tami.
 
-Karakuri jej dal meno a adresu. *Ciferník.* Ulica Mŕtvych zvonov, číslo 42.
+Karakuri jej dal meno a adresu. *Knihomoľ.* Ulica Mŕtvych zvonov, číslo 42.
 
 ---
 
 Podvečer. Tretí korbel na stole — stále plný — a Tami mala menej, než dúfala.
 
-Barmanička — stará Mezra s jedným okom — za strieborný groš rozprávala o každom v štvrti. Ale o Ciferníkovi mlčala. Len pokrútila hlavou a zametala pohľadom miestnosť, akoby sa bála, že niekto počúva. To povedalo viac než slová.
+Barmanka — stará mačka s jedným okom — za strieborný groš rozprávala o každom v štvrti. Ale o knihomoľovi mlčala. Len pokrútila hlavou a zametala pohľadom miestnosť, akoby sa bála, že niekto počúva. To povedalo viac než slová.
 
 Opitý hodinkár tri stoly od nej si pochvaľoval, ako mu „ten divný mačkáč" zaplatil za opravu chronomeru knihou namiesto peňazí. A plagát na stene za barom — starý, vyblednutý — varoval: *Kto znesvätí posvätné artefakty, zhorí v ohni Matkinej spravodlivosti.*
 
-*Kito. Pursang. Niekto, z koho má strach aj barmanička, čo sa nebojí nikoho. Niekto, koho Cirkev pozná menom.*
+*Kito. Pursang. Niekto, z koho má strach aj barmanka, čo sa nebojí nikoho. Niekto, koho Cirkev pozná menom.*
 
 Tami sa zdvihla, nechala na stole mincu a vyšla do mrazu. Vedela menej o Kitovi, než by chcela. Ale vedela dosť na to, aby si bola istá jednou vecou — nebol to žiadny knihomoľ pre turistov.
 
@@ -66,7 +66,7 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 „Kto ste?" spýtal sa hlas, ktorý znel ako praskanie suchého papiera.
 
-„Hľadáme *Ciferníka*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
+„Hľadáme *Knihomoľa*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
 
 Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 

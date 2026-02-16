@@ -338,7 +338,7 @@ Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — h
 
 Makove kovové prsty na sekundu stuhli. Pozrel na nákres. Potom vzal tenký štetec, namočil ho do atramentu a na kúsok papiera napísal jedno slovo.
 
-*Ciferník.* [→ notes/CHAPTER-NOTES.md: Ciferník, postava v Ch2]
+*Knihomoľ.* [→ notes/CHAPTER-NOTES.md: Knihomoľ, postava v Ch2]
 
 A pod ním adresu. Ulica Mŕtvych zvonov, číslo 42.
 
