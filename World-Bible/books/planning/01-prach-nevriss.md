@@ -74,7 +74,6 @@
 *   **The Decision**: Maks sa rozhodne skoncovať s Grawom pred odchodom.
 *   **The Blood Ritual**: Maks uvoľní plnú vojenskú kapacitu nanodronového swarmu. **Blood Ritual = technika naučená od Samaella** (AY 3001, po technovampirizme) — spôsob, akým Archanjeli uvoľňujú nanoboty cez krv. Maks kombinuje Samaellov Blood Ritual (metóda uvoľnenia) s **dedovým FPV myslením** [→ maks-ukraine-origin.md: dronové vojny 2022-2026] (navigácia rojov na diaľku). Nanodronový roj cez 6 km, cez škáry v Power Armor, detonácia zvnútra. Grond zomrel na to, čomu nerozumel. **Maks zabije Gronda.**
 *   **The Price**: 30% nanobotov sa nevráti = strata spomienok, IQ, zdravia. Maks na hranici smrti. Obetoval kus seba — doslova, nie metafora.
-*   **Grondov Prach — Migrácia k Maksovi**: Po Grondovej smrti sa jeho Gen 1 nanoboty stávajú Wraithom. Maksove FPV nanodróny boli v Grondovi počas boja = homing beacon. Grondov prach migruje k Maksovi — tiene prachu ako hady poprepletané cez seba sa plazia po snehu a krúžia okolo Maksovho tela. Prenikajú do neho. **Ale Maks je "mŕtvy"** (klinicky na hranici). Čitateľ čaká, že otvorí oči — nedočká sa. Maks nereaguje. Prach vstúpil do kómy s ním. [→ maks-power-arc.md: Grond — Blood Ritual] [→ characters/Grond.md: Po smrti — Migrácia Prachu]
 *   **Arkotova smrť (NEW):** Arkot bojuje v bitke na uliciach (pomáha s obranou). Zomiera. Yera stráca partnera. Prvá skutočná strata tímu.
 
 ### Kapitola 6: Nebeské Kladivo (Hotovo)
@@ -92,6 +91,7 @@
     *   "Líška... ochráň... Anténu..." — posledné slová.
     *   Tami nad ním. Zlomená. Stráca mentora.
     *   **Klinická smrť:** Srdce stojí, mozog nefunguje. Tami odchádza s presvedčením, že je mŕtvy.
+    *   **Grondov Prach — Migrácia (po Taminom odchode):** Tami odíde. Maks leží sám v snehu. Ticho. A potom — tiene prachu ako hady poprepletané cez seba sa plazia po snehu a krúžia okolo Maksovho tela. Grondov Gen 1 nanotech sa po smrti stal Wraithom — Maksove FPV nanodróny boli v Grondovi počas Blood Rituálu = homing beacon. Grondov Wraith migruje k najbližšiemu "patched" signálu. Prach preniká do Maksovho tela. **Ale Maks neotvorí oči.** Čitateľ v nádeji čaká vzkriesenie — nedostane ho. Nič sa nestane. Len mŕtve telo plné cudzieho prachu v snehu. Ďalšia nádej zomrie. [→ maks-power-arc.md: Grond — Blood Ritual, homing beacon] [→ characters/Grond.md: Po smrti — Migrácia Prachu]
 
 *   **FÁZA 2 — Reboot (Maks NDE + survival mechanizmus):**
     *   Maksova vojenská nanotech (Zem, 2300) detekuje klinickú smrť → **aktivuje záložný survival protokol**.
