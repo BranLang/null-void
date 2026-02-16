@@ -26,7 +26,7 @@ timeline
     0 : Pristátie **pristávacích modulov** z ARK-11 a ARK-12 (Materské lode ostali na orbite, neskôr sa zrútili do oceánu)
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
     700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
-    1200 : Smrť pravého Gronda : Dynastia podvodníkov začína
+    ~850 : Bitka Atra Narrows : Triumvirát (Grond, Samaell, Zaya) vs Varietas + Spira
     2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maksimiliána
     3001 : Duel Samaell vs Maks : Smrť Samaella

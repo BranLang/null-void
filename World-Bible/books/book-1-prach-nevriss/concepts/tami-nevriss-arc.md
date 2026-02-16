@@ -15,7 +15,7 @@
 - **Odmietne** pomáhať Tami s pomstou → napätie
 
 - **Tami** chce ísť do **Nevriss** (hlavné mesto)
-- Osobná pomsta za Arkota, Yeru a Flinta
+- Osobná pomsta za Flinta (mŕtvy) + odplata za Arkota a Yeru (zachránení, ale mesiace mučení)
 - Chce zabiť "tú čarodejnicu" (Požehnanú Matku)
 - Maks jej odmietol pomôcť → hádka → odchod
 
@@ -90,7 +90,7 @@
 ### 1. Hádka pred odchodom
 > **Tami**: "Ideš mi pomôcť, alebo nie?"
 > **Maks**: "Musím pochopiť, čo to je."
-> **Tami**: "To je palica! Kus kovu! Moji priatelia sú MŔTVI!"
+> **Tami**: "To je palica! Kus kovu! Flint je MŔTVY! A Arkot a Yera sú stále tam!"
 > **Maks**: "A môj... niekto je stále niekde vonku."
 > **Tami**: "Trinásť rokov, Maks. Kedy si priznáš, že je preč?"
 

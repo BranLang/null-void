@@ -11,6 +11,7 @@
 | **Nationality** | Japonka |
 | **Role** | Bodyguard/Investigator pre Elaniu |
 | **Status** | Posledný, čo videl Japonsko; jedna z ~100 preživších zo Zeme |
+| **Boss** | **Kniha 4** — duel s Maksom, smrť |
 
 ---
 
@@ -292,17 +293,26 @@
 
 ### Maks (Unknown - Target of Interest)
 
-**Sera's Assumptions:**
+**Sera's Assumptions (pred Book 1):**
 - Nesmrteľný exorcista
 - Mocný (prežil stretnutie s Paladínmi)
 - **Nie je na zozname exorcistov** = záhada
 - Možno... Elaniin otec? (Elania ho hľadá)
 
+**Sera's Assumptions (po Book 1 — po Shoravene):**
+- Všetko vyššie +
+- **Zabil Gronda na vzdialenosť 6 km za 7 sekúnd** — nanodronový roj cez celé mesto. **Grond je Archanjel** — Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a Grond už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt aj ona. A niekto ho zabil na diaľku, neviditeľne, chirurgicky. **Sera to nedokáže.** S 3467 rokmi skúseností, Gen 1+2, Hard Light — nemá dosah na kill cez celé mesto. Nikto, koho pozná, to nedokáže. Toto ju desí na úplne inej úrovni — nie len "silný exorcista", ale **bytosť schopná zabiť Archanjela na diaľku**.
+- **Nanotech ~150 rokov modernejší** ako jej Gen 1 (detekované pri prehľadávaní "mŕtvoly")
+- **Nevie o Samaellovi** — nikto okrem Tami nevie, že Maks zabil Archanjela už v AY 3001. Grondov kill je pre Seru prvý dôkaz — ale v skutočnosti je to už **druhý Archanjel**, ktorého Maks zabil. Sera vidí špičku ľadovca.
+- **Záver:** Maks nie je len záhada — je **existenčná hrozba alebo existenčný spojenec** pre Elaniu. Niekto, kto zabije Archanjela na diaľku, môže zabiť kohokoľvek. Vrátane Elanie. Vrátane Sery. Oboje vyžaduje kontrolu a čas.
+
 **Mission:**
-- Nájsť ho
-- Sledovať ho
-- Reportovať Elanii
-- **Možno... povedať mu pravdu?**
+- ~~Nájsť ho~~ ✓
+- ~~Sledovať ho~~ ✓
+- **Zachránila ho** (tajne, po Ch.7) — vybavila transport do Kitsune
+- Reportovať Elanii — **ÁNO, ale selektívne.** Sera nemusí Elanii povedať všetko hneď.
+- **Oddialila stretnutie otec-dcéra** — kým nepochopí, čo Maks je
+- **Možno... povedať mu pravdu?** — teraz ešte komplikovanejšie. Ak je takto mocný, pravda ho môže buď spojiť s Elaniou, alebo proti nej postaviť.
 
 ### Makovia (Worshippers)
 
@@ -391,6 +401,19 @@
 2. **Esencia transfer** — Sera odomkne Artefakt a podá ho Tami (NIE Maksovi)
 3. **Proroctvo** — pohľad na Tami, nie na Maksa. Tami to cíti.
 4. **Departure** — odchádza. Maks frustrovaný. Tami zmatená — prečo sa na ňu pozerala?
+5. **Záchrana Maksa (tajná, po Ch.7):**
+   - Sera po Ch.4 NEodišla zo Shoravenu — zostala v tieňoch, pozorovala
+   - **Tušila, že Maks je Elaniin otec** — záhada, ktorú potrebovala vyriešiť
+   - Videla Maksov pád z Itaky (Ch.6), videla Tami plakať nad ním (Ch.7 Fáza 1), videla odchod
+   - Prišla k "mŕtvole" — prehľadávala telo (**investigátor pre Elaniu**)
+   - **Detekovala záložný systém:** Maksov nanotech (Zem, 2300) je ~150 rokov modernejší ako jej Gen 1 (ARK-11, ~2150). Rozpoznala vojenské signály, ktoré nepoznala — systém žil, aj keď telo bolo mŕtve
+   - **Kalkulácia**: Zobrať ho k Elanii? → NIE. Nevie, ako by Elania reagovala na otca, ktorého nikdy nepoznala. Stretnutie bez kontroly = risk. Sera rozhodla **oddialiť stretnutie**, kým sa veci nevykryštalizujú
+   - **Grondov kill ju desí:** Sera vie, že niekto zabil Gronda tú noc (Ch.5 Blood Ritual) — **Grond je Archanjel.** Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a on už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt. A niekto ho zabil nanodronovým rojom na vzdialenosť 6 km, za 7 sekúnd, chirurgicky. **Sera to nedokáže.** Nikto, koho pozná, to nedokáže. Toto nie je len "silný exorcista" — toto je bytosť schopná zabiť Archanjela na diaľku.
+   - **Maks bol pre ňu záhada** — nesmrteľný exorcista, nie je na zozname, ~150 rokov modernejší tech, a teraz aj kill Archanjela na vzdialenosť, ktorú nedokáže nikto živý. Potrebovala čas na analýzu
+   - **Rozhodnutie nezobrať ho k Elanii — dvojitý dôvod:** 1) Nevie, ako by Elania reagovala na otca. 2) Ak je Maks schopný zabiť na takú vzdialenosť, nekontrolované stretnutie s Elaniou = potenciálna katastrofa. Sera oddialia stretnutie, kým nepochopí, čo Maks je.
+   - **Vybavila transport do Kitsune** — pozná Makov osobne, vie o Felixovi v ruinách Kita. Nariadila Borgovi a Nix (posádka Itaky) previezť telo na východ
+   - **Nikto nevie, že Sera ho zachránila** — Maks sa prebudí u Felixa a nevie, kto ho tam dostal. Felix vie len, že prišli Borg a Nix s telom. Borg a Nix dostali príkaz od "neznámej ženy"
+   - **Dramatická funkcia**: Sera chráni potenciálneho otca svojej pani — nie z láskavosti, ale z kalkulácie. Grondov kill ju utvrdil: tento muž je buď najväčší spojenec, alebo najväčšia hrozba, akú Elania kedy stretne. Oboje vyžaduje kontrolu.
 
 ---
 

@@ -18,7 +18,9 @@
       "Bash(powershell -ExecutionPolicy Bypass -File:*)",
       "Bash(del \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\pensive-carson\\\\rename-Itaka.ps1\")",
       "Bash(git status:*)",
-      "Bash(gh auth:*)"
+      "Bash(gh auth:*)",
+      "Skill(null-void-writer)",
+      "Skill(null-void-writer:*)"
     ]
   }
 }
