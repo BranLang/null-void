@@ -262,7 +262,7 @@ Pravidelné, presné údery kladiva na kov. Nie hrubé dunenie miestnych kováč
 
 Tami zastala pred dverami. Nad nimi visela starobylá biela vlajka s červeným plným kruhom uprostred. [→ 03-technology.md: Maki, japonská kultúrna DNA]
 
-*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."* [→ characters/Felix.md: Tamin mentor, Gen 2 android]
+*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."* [→ characters/Felix.md: Tamin mentor, android]
 
 Zložila si letecké okuliare z čela a zavesila ich na krk. Rozopla ťažký kabát a zložila ho na úhľadnú kôpku vedľa vchodu do *genkanu*, hoci to znamenalo odhaliť zbrane na opasku. Pištole boli súčasťou jej duše, tie neodloží, ale prach ulice áno.
 
