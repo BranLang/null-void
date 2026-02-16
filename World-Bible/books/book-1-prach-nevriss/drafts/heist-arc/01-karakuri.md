@@ -314,7 +314,7 @@ Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaž
 
 „Nový prototyp?"
 
-„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Itaka*." [→ 03-technology.md: Itaka, Hephaestus] [→ 05-geography.md: Kitsune, ostrovná krajina]
+„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Itaka*." [→ 03-technology.md: Itaka, Hephaestus] [→ 05-geography.md: Kitsune, Stratené mesto]
 
 Pri tom slove Mako stuhol. Ak bolo možné, aby sa socha stala ešte nehybnejšou, stalo sa to práve teraz. Hľadel na ňu, akoby sa pred ním zjavil duch jeho vlastnej minulosti. Potom sa hlboko, takmer až po pás, uklonil smerom k dverám, kde tušil loď.
 
