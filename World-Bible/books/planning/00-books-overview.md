@@ -2,13 +2,13 @@
 
 ## Štruktúra
 
-| Kniha | Element | Názov | Téma |
-|-------|---------|-------|------|
-| 1 | 🜃 ZEM-hmota | Prach Nevriss | Prebudenie, hľadanie pravdy |
-| 2 | 🜂 OHEŇ-energia | Plamene Impéria | Minulosť, pád Zeme |
-| 3 | 🜄 VODA-cas | Slzy Matky | Pamäť, ilúzie, odhalenie |
-| 4 | 🜁 Vietor-priestor | Búrka Strojov | Vojna, otec vs. dcéra |
-| 5 | ✧ KVINTESENCIA- Vedomie | Null Void | Finále, obeta, nový začiatok |
+| Kniha | Element | Názov | Boss | Téma |
+|-------|---------|-------|------|------|
+| 1 | 🜃 ZEM-hmota | Prach Nevriss | **Grond** (nie boss fight — kataklizmus; + Samaell flashback) | Prebudenie, hľadanie pravdy |
+| 2 | 🜂 OHEŇ-energia | Plamene Impéria | **Mormiel** | Minulosť, pád Zeme |
+| 3 | 🜄 VODA-cas | Slzy Matky | **Zaya** | Pamäť, ilúzie, odhalenie |
+| 4 | 🜁 Vietor-priestor | Búrka Strojov | **Sera** | Vojna, otec vs. dcéra |
+| 5 | ✧ KVINTESENCIA- Vedomie | Null Void | **Elania + I_NET_IS** | Finále, obeta, nový začiatok |
 
 ### Vizuálny plán (Pentagram Cycle)
 
@@ -41,19 +41,25 @@ graph TD
 ## Kniha 1: ZEM-hmota – Prach Nevriss
 
 ### Dej
-- Maks sa prebúdza z 3000-ročného kryospánku
-- Loď zničená, modul Inetis prázdny
-- Stretáva Tami (7-ročnú zachráni, o 13 rokov sa stretnú znova)
-- Hľadá Inetis v post-apo svete
+- Heist Arc: Tami a Maks v Shoravene — záchrana priateľov (Arkot, Yera) z kobiek pod Chrámom
+- Maks Arc: Boj s Grawskou inváziou, obrana Shoravenu
+- Flashback (Ch.7): Maksovo prebudenie z kryostázy (AY 3000), duel so **Samaellom** (AY 3001)
 
 ### Konflikt
-- Boj s divochmi a Kultom Matky
-- Maks si uvedomuje, že „Matka" je Inetis
+- Boj s Grawskou armádou a Kultom Matky
+- Maks vs. Grond (Archanjel Vojny)
 
-### Finále
-- Nájdenie jaskyne a **tela Inetis** (kostra + denníky)
-- Šok: je mŕtva ~2300 rokov
-- Boss: **samaell** naznačí existenciu Elenie
+### Grond (Archanjel Vojny) — nie boss fight, nie antagonista
+- Čitateľ ho nepozná — Grond je sila prírody, kataklizmus, nie osobný nepriateľ
+- Zabitý Maksom v Ch.5 Blood Ritual (nanodronový roj, 6 km, 7 sekúnd)
+- **Možný Grond POV chapter** — dať mu hlas, ukázať vojnového boha zvnútra (paranoja, rozpadajúce sa telo, posledná noc)
+- **Samaell** = flashback duel (Ch.7 Fáza 3, AY 3001) = **skutočné finále knihy**. Samaell = Smrť. Maks poráža Samaella vo flashbacku → poráža vlastnú smrť → prebúdza sa z kómy. Duel AY 3001 = reboot AY 3014.
+
+### Finále (Ch.7 — štyri fázy)
+- **Fáza 1**: Tami nájde Maksa v snehu, klinická smrť, odchádza s presvedčením, že je mŕtvy
+- **Fáza 2**: Reboot — záložný survival protokol, NDE
+- **Fáza 3 = CLIMAX**: Flashback — prebudenie z kryostázy, klietka s baby Tami, **duel so Samaellom** (Maks poráža Smrť)
+- **Fáza 4**: Prebudenie v Kitsune (AY 3014), rok v kóme, Felix, svet sa pohol ďalej
 
 ---
 
@@ -68,14 +74,16 @@ graph TD
 - **Pád Zeme (2300):** Dramatický útek s Inetis na lodi Null-Void.
 
 **Prítomnosť:**
-- Maks a 7-ročná Tami putujú na Juh cez Severné pustatiny.
-- Putovanie trvá 13 rokov (kým Tami nedosiahne 20 rokov).
-- Prvé strety s jednotkami Gronda.
+- Tami v Nevriss City — vstup do srdca Kultu Matky
 - **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Maks nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
+
+### Boss: **Mormiel** (Požehnaná Matka / 4. Archanjel)
+- Odhalenie pravej identity — nie svätá matka, ale predátorka s 23 pohltenými identitami
+- Rituál Nástupníctva ako centrálna hrozba
 
 ### Konflikt
 - Maksov boj s vlastnou tieňovou minulosťou zabijaka.
-- **Grond** (Archanjel Vojny) vs. relikt starej éry.
+- Tami vs. Mormiel — dôvera vs. zrada, materská láska vs. predátorstvo.
 
 ---
 
@@ -88,11 +96,15 @@ graph TD
 - Tami sa mení na nádobu pre Inetis (strach zo straty identity).
 
 ### Prostredie
-- **Mesto Zrkadiel (Ishtarina doména):** Miesto ilúzií a neuro-hackingu.
+- **Mesto Zrkadiel (Zayina doména):** Miesto ilúzií a neuro-hackingu.
 - **Ynetis (Mesto Duchov):** Čiastočne zarastený ostrov plný rogue AI (Duchovia).
 
+### Boss: **Zaya** (Archanjel Pôžitku)
+- Útok na Maksovu psychiku cez ilúziu dcéry/dokonalej rodiny
+- Neutralizovaná Maksom, pohltená vlastnými otrokmi
+
 ### Konflikt
-- **Ishtar** a her útok na Maksovu psychiku cez obraz dokonalej rodiny.
+- **Zaya** a jej útok na Maksovu psychiku cez obraz dokonalej rodiny.
 - Odhalenie pravdy o **Bit Rot Glitchi** (Elaniina zrada).
 
 ### Finále
@@ -107,6 +119,10 @@ graph TD
 - Otvorená konfrontácia Maks vs. Elania.
 - Infiltrácia ku **Kráteru** (vykopávky lode Exodus).
 - Súboj so **Starou Gardou** (Nesmrteľní) — pôvodnými kolonistami.
+
+### Boss: **Sera** (Čepeľ Elanie)
+- Duel s Maksom — Sera bráni Elaniu do posledného dychu
+- Smrť Sery = Elaniin zlomový bod (strata "jej Heleny")
 
 ### Mechaniky
 - **Signálové pole (The Breach Spike):** Maksova schopnosť neviditeľnosti/štítu, ktorá ho však odrezáva od dronov a robí z neho smrteľníka.
@@ -130,6 +146,10 @@ graph TD
 - Protokol Null aktívny, svet sa rozpadá
 - Maks a Tami vstupujú do Jadra lode Exodus
 - Maks sa pripojí do virtuálnej reality
+
+### Boss: **Elania + I_NET_IS**
+- Elania = finálna konfrontácia otec vs. dcéra
+- I_NET_IS = digitálna entita, posledná skúška
 
 ### Nový Achilles
 - Elania vytvorila rekonštrukciu pôvodnej hry

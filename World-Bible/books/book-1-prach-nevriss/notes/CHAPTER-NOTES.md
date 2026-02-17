@@ -79,23 +79,31 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 
 **Key Events:**
 - Tami opravuje Itaku v prístave (kondenzátory, axiálne čerpadlo)
+- **Tamina motivácia (REV):** Flint mŕtvy (zabitý pri zatýkaní, telo verejne upálené ako varovanie), Arkot a Yera ŽIVÍ v kobkách niekoľko mesiacov. Motivácia = záchrana + artefakt, nie pomsta za mŕtvych.
+- **Borg a Nix zmienka:** Borg (medveď) pri kanóne, Nix (Felis Varietas, mačka) pod palubou — posádka na Itake
 - Maks sa prezentuje ako Exorcista pred dokovými strážami
 - Tami reveals identity (líščie uši) — sociálne inžinierstvo
+- **Felix flashback (NEW):** Spomienka na Felixovo odmietnutie ísť. "Kanón pôjde. Ja nie." / "Weil ich nicht kann." — osemsto rokov neopustil Kitsune, strach z vonkajšieho sveta.
 - Tami naviguje mestom (prístav, tržnica, Remeselná štvrť)
 - **Mako workshop** — japonský rituál, objednávka čerpadla
+- **Krčma U Slepej Panny (NEW):** Tami v krčme bez plánu. Ghorki vlk sa prihovorí — poznal Renna, spozná Taminy modré oči. Ponúkne sa ako sprievodca. Tami mu dôveruje (spojenie s otcom). **Vlk je informátor Inkvizície — čitateľ to zatiaľ nevie.**
 - **Outro:** Sera v dielni Karakuriho (shadow plot setup)
 
 **Lore Notes:**
-- Felix = Mako (série E), vychoval Tami
+- Felix = Mako (série E), vychoval Tami. Odmietol ísť do Šoravenu (strach, nikdy neopustil Kitsune). Dal Tami kanón 122mm.
 - Šoraven = pod Grawským obliehacím bombardovaním
 - Maki = záhadní tichí mechanici, najlepší technológovia na kontinente
 - Spira kryštály = palivo pre Itaku (lacné počas vojny)
 - Kastový systém: Pursang → Mezra → Ghorki (bez Spiry)
 - Sera shadow presence (navštívila Karakuriho, sleduje Tami)
+- **Vlk (Ghorki Chiméra):** Quadrupedálny, šedý, starý. Žije na uliciach Šoravenu, informátor Cirkvi. Poznal Renna pred 15-20 zimami. Zradí tím v Ch. 3.
+- **Arkot:** Felis/Leopard, Mezra. Väzeň v kobkách, mesiace mučenia. Navigátor, Tamin "brat".
+- **Yera:** Felis/Mačka, Pursang. Oddelená od Arkota, v čistej cele. Mormiel si ju "skladuje" pre Rituál. Tamin "sestra". Nehovorí o minulosti.
 
 **Character Knowledge States:**
-- **Tami:** Vie o Chrámových kobkách, plánuje heist, hľadá Kita
+- **Tami:** Vie o Chrámových kobkách, plánuje heist, hľadá Kita. Vie, že Arkot a Yera sú živí. Nevie, v akom sú stave. Naverbovala vlka ako sprievodcu.
 - **Maks:** Prezentuje sa ako Exorcista (krytie), priťahuje pozornosť zámerne
+- **Vlk:** Videl Tami (Rennove oči). Po stretnutí v krčme vie: líška + Exorcista, smerujú do kobiek. Odíde "obstarať zásoby" = kontaktuje Inkvizíciu.
 - **Sera:** Sleduje dianie, pripravuje pôdu (battery pre Linksa v budúcnosti)
 
 ---

@@ -220,11 +220,11 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 - **Dediny**: Roztrúsené osady v lesoch, zásobované z hlavného mesta. Počas zím sa mnohé vyprázdnia.
 - **Severná hranica**: Za horským masívom začína zamrznutá zóna. Občasné výpravy za vzácnymi minerálmi.
 
-### Tajomstvo Gronda
-- **Pravý Grond (AY 700-1200)**: Skutočný Archanjel, Ex Inferis zo Zeme. Spravodlivý vládca, ktorý nosil Power Armor. Varietas ho milovali.
-- **Smrť (~AY 1200)**: Zomrel na Glitch Rot. Jeho Power Armor zostal.
-- **Dynastia podvodníkov (AY 1200-3013)**: Generáli si obliekli zbroj a vyhlásili sa za "Gronda II, III..." Nikto nevidí tvár pod helmou.
-- **Aktuálny "Grond"**: Agresor a dobyvateľ. Začína vojnu s Juhom.
+### Grond — Archanjel Vojny
+- **Grond (AY 700-3013)**: Originálny Archanjel, Ex Inferis zo Zeme. Jeden zo štyroch pôvodných z ARK-13.
+- **Vláda**: Prvých ~500 rokov spravodlivý vládca. Postupne paranoja, krutosť, závislosť na ľudských obetiach.
+- **Power Armor**: Nikto nevidel jeho tvár pod helmou 3000 rokov — pod zbrojou zničené telo, držané pohromade nanobotmi.
+- **Smrť (AY 3013)**: Zabitý Maksom v bitke o Shoraven (Blood Ritual — 6 km, 7 sekúnd).
 
 ### Vzhľad Gronda - pôvodný legendárny
 - Ako The Rock vo filme Kráľ Škorpión / Conan
@@ -423,7 +423,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich d
 ### 2. Územie Graw (Sever)
 - **Vzhľad:** Tmavé ihličnaté lesy po oboch stranách magmového mesta. Industriálne, temné, studené.
 - **Ruiny:** Pozostatky starovekej architektúry — monolitické biele štruktúry medzi stromami, zasnežené a zarastené.
-- **Vládca**: "Nesmrteľný Grond" (dynastia v Power Armor)
+- **Vládca**: Grond — originálny Archanjel, Ex Inferis zo Zeme (AY 700-3013)
 - **Klíma:** Najchladnejšia obývaná oblasť — na hranici ľadovej zóny. Počas 5-ročných zím je takmer neobývateľná mimo vyhrievané mesto.
 - **Fauna**: V lesoch sa túlajú nebezpečné šelmy — na detailnej mape viditeľný veľký vlk/šelma medzi stromami. Genetické mutácie z éry teraformácie.
 
