@@ -24,7 +24,7 @@ Pri jednom z väčších dokov stála skupina kňažiek v bielych rúchach. Žeh
 
 Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — a kričali do davu: *„Matka vidí vaše obete! Každý meč pozdvihnutý za Nevriss je meč v ruke Matky! Jej sila je s vami!"*
 
-A medzi tým všetkým — žoldnieri. Tami ich spoznala na prvý pohľad. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina s guľometmi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
+A medzi tým všetkým — žoldnieri. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina s guľometmi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
 
 Niektorí z nich mali okolo zápästí mystické tetovanie — bojové znaky, dôkaz posvätných schopností. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Dar Matky bol v čase vojny menou drahšou než zlato.
 
@@ -75,7 +75,6 @@ Poslala peniaze správnym ľuďom pred tromi dňami — starý trik, ktorý fung
 Rýchlo si utrela ruky do handry a vyšplhala sa len do polovice rebríka. Vystrčila hlavu z poklopu, tak aby ju nebolo vidieť, a nastražila uši. Zimné svetlo ju udrelo do očí — bledé, nízke slnko sa odrážalo od snehovej pokrývky na strechách okolo doku. Prižmúrila oči.
 
 
-
 Maks stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval krajinu na prechádzke. Mal na sebe ťažký, tmavý letecký kabát s vysokým golierom, ktorý už čo-to zažil, a na očiach nepriehľadné čierne letecké okuliare, ktoré mu zakrývali polovicu tváre. Pôsobil ako pilot, ktorý práve vystúpil z horiaceho vraku a ani sa pri tom nezapotil.
 
 Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom k oblohe a chvosty sa im nepokojne vlnili.
@@ -109,21 +108,21 @@ A tu jeden stál na palube ich doku, s rukami za chrbtom, ako keby mu to mesto p
 Dostojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára. „Exorcista," zopakoval a to slovo znelo z jeho úst, akoby žuval niečo kyslé. „V Nevriss nemáme vo zvyku vítať *vašich*. Exorcisti patria do hôr, nie do našich prístavov." Ruky sa mu nepatrne posunuli bližšie k šabli na opasku. „Aký je dôvod vašej prítomnosti? A hovorte rýchlo — nemám čas na hádanky."
 
 
-*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch na tomto svete znie, ako keby sem nepatril. Lebo on sem nepatrí.* [→ characters/Maks.md: pozemský pôvod, Staroreč = angličtina/ukrajinčina] [→ concepts/maks-ukraine-origin.md]
+*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch v Terre znie, ako keby sem nepatril. Lebo on sem nepatrí.* [→ characters/Maks.md: pozemský pôvod, Staroreč = angličtina/ukrajinčina] [→ concepts/maks-ukraine-origin.md]
 
-Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa. Pre neho — vojaka, ktorý bol v tomto svete cudzincom od prvého prebúdenia — bola každá konverzácia s domorodcom cvičením v trpezlivosti.
+Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa.
 
 „Artefakt," povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov." [→ concepts/antenna-essence-transfer.md: Anténa v kobkách Chrámu] Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota."
 
 Klamstvo bolo elegantné. Vložil do toho zrnko pravdy — artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
 
-Dostojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať Cirkev—" — klamal.
+Dostojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať úrady." — klamal.
 
 „Nie je to nutné," prerušil ho Maks a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o centimeter vyššie. „Neobtažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy."
 
 Kývol hlavou smerom k oblohe, kde medzi mrakmi visel dym z grawských pozícií za priesmykmi.
 
-Ticho. Vietor poháňal snehové vločky cez palubu. Dostojníkove uši sa chveli ako lístie v búrke. Za ním si vojaci vymieňali pohľady — mix strachu a odporu. V ich svete bol Exorcista niečo medzi heretikom a strašidlom. Nie nepriateľ. Ale ani niečo, čo by si chcel stretnúť v tme.
+Ticho. Vietor poháňal snehové vločky cez palubu. Dostojníkove uši sa chveli ako lístie v búrke. Za ním si vojaci vymieňali pohľady — mix strachu a odporu. V ich svete bol exorcista niečo medzi heretikom a strašidlom. Nie nepriateľ. Ale ani niečo, čo by si chcel stretnúť v tme.
 
 *A to je presne ten okamih, kedy normálna osoba dostane strach*, pomyslela si Tami. *A presne ten okamih, kedy treba zasiahnuť.*
 
@@ -147,7 +146,7 @@ Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líška
 
 A tá tvár. Mladá, ostrá, s tým šibalským polomsievom, ktorý hovoril: *Viem, čo robím s tvojou hlavou.*
 
-V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas prvej vojny a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
+V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas Prvej Vojny a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
 
 *Niet divu, že tak zízajú. Pre nich sme cirkusové číslo.*
 
@@ -169,7 +168,7 @@ Maks mlčal.
 
 „Funguje to," povedal pokojne.
 
-„Funguje to?" Hlas jej stúpol o oktávu. „Všetci sa pozerajú na *teba*. Ja som len dekorácia. A čo keď sa niekto spýta, prečo Exorcista potrebuje vzducholoď? Prečo má posádku? Prečo—"
+„Funguje to?" Hlas jej stúpol o oktávu. „Všetci sa pozerajú na *teba*. A čo keď sa niekto spýta, prečo Exorcista potrebuje vzducholoď? Prečo má posádku? Prečo—"
 
 „Preto, že ty vieš lietať. A ja nie."
 
@@ -185,17 +184,15 @@ Maks prikývol. „Koľko času?"
 
 Tami sa zastavila na rebríku. Pozrela na neho cez rameno. „Deň. Možno dva. Ak nájdem Maka."
 
-*Zase budeš robiť volavku*, pomyslela si, keď zmizla pod palubou. *Ako vždy.*
-
 ---
 
 Axiálne čerpadlo bolo väčším problémom, než pripúšťala.
 
-Vnútorný mechanizmus bol rozbitý na kusy. Nie len prasknutý kryt — *doska cykliky* bola rozlomená a piesty zadreté. Typ poškodenia, ktorý sa nedá opraviť v teréne. Potrebovala hodinára, nie mechanika. Niekto, kto dokáže vyrobiť súčiastky z tvrdenej ocele a poskladať ich do funkčného celku s presnosťou na mikrometre. Na tomto svete, kde väčšina strojárov merala „od oka" a „na päsť", to bola takmer nemožná požiadavka.
+Vnútorný mechanizmus bol rozbitý na kusy. Nie len prasknutý kryt — *doska cykliky* bola rozlomená a piesty zadreté. Typ poškodenia, ktorý sa nedá opraviť v teréne. Potrebovala hodinára, nie mechanika. Niekto, kto dokáže vyrobiť súčiastky z tvrdenej ocele a poskladať ich do funkčného celku s presnosťou na mikrometre. Na tomto kontinente, kde väčšina strojárov merala „od oka" a „na päsť", to bola takmer nemožná požiadavka.
 
 *Takmer.*
 
-Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technológmi na kontinente. [→ 03-technology.md: Maki = Gen 2 androidy, Karakuri séria] Ak v Šoraven existoval jediný mechanik schopný takej presnosti, bol to jeden z nich.
+Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technológmi na svete. [→ 03-technology.md: Maki = syntetickí ľudia, Karakuri séria] Ak v Šoraven existoval jediný mechanik schopný takej presnosti, bol to jeden z nich.
 
 Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss nepotrebovala zbytočnú pozornosť. Nie dnes.
 
@@ -376,9 +373,9 @@ Keď vyšla na ulicu, slnko sa predieralo cez sivé oblaky a sneh na strechách 
 
 Prešla okolo skupiny žoldnierov, ktorí si pred krčmou čistili zbrane. Jeden z nich — obrovský chlap s jazvou cez celú tvár — ju sledoval pohľadom. Tami ho ignorovala. Nebezpečnejší boli tí, čo sa nepozerali.
 
-Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vševedúcej Matky, ležal on. **Artefakt**. Vec, ktorá by nemala existovať. [→ concepts/antenna-essence-transfer.md: Anténa, hlavný McGuffin Book 1]
+Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vševedúcej Matky, ležal **Artefakt**. Vec, ktorá by nemala existovať. [→ concepts/antenna-essence-transfer.md: Anténa, hlavný McGuffin Book 1]
 
-*Šesť kilometrov*, pomyslela si. *Šesť kilometrov, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vziať to a zmiznúť skôr, než nás chytia, zabiť pri tom čo najmenej ľudí.*
+*Šesť kilometrov*, pomyslela si. *Šesť kilometrov, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vyslobodiť Yaru a , vziať to a zmiznúť skôr, než nás chytia, zabiť pri tom čo najmenej ľudí.*
 
 Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky mal teraz iné starosti než strážiť kobky. Stráže sa presúvali na hradby, kňažky organizovali evakuáciu cenností na juh a v uliciach vládol chaos, v ktorom sa dva tiene mohli stratiť.
 
