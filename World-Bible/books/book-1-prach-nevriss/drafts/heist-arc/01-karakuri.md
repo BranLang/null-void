@@ -34,6 +34,8 @@ Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
+Vedľa nej Nix ležala na chrbte pod rozvodným potrubím, len ruky a chvost trčali spod panelov. Mačka nadávala v štyroch jazykoch naraz. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
+
 Odtiahla sa od motora a oprela si chrbát o stenu. Zavrela oči. Len na chvíľu.
 
 Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne sústredenie. Museli vypnúť motory míle pred prístavom a nechať loď kĺzať tichým pádom, aby ich nezachytili Grawské akustické zrkadlá na hrebeňoch hôr. Dokĺzať zotrvačnosťou do doku sedemnásť, s poškodeným čerpadlom a vetrom v chrbte, bola hra nervov. Stačila jedna chyba a skončili by rozbití o útesy.
@@ -42,21 +44,17 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
-*Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by neboli v kobkách. [→ planning/peaceful-squishing-glacier.md: priatelia živí v kobkách]
+*Arkot. Yera.* [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela]
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Spolu preskúmali jaskyňu, mapu k nej zdedila po otcovi. Tami hľadala poklad — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+Mená prišli samy. Nepýtali sa o dovolenie.
 
-Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Potom jeho telo upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+Zakopaní v kobkách pod Chrámom Vševedúcej Matky. Mesiace. Správy, čo sa k nej dostali — šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť.
 
-Flintov popol. Ten prach na námestí.
+*Čo im robili? Čo im robili celé tie mesiace?*
 
-Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zakopaní v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
+Tami stisla kľúč. Kĺby zbieleli.
 
-*Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
-
-Správy, čo sa k nej dostali cez Nyau — s trojmesačným oneskorením, šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť. [→ 05-geography.md: Nyau, východné pobrežie]
-
-A teraz bola tu. V meste, kde jej zabili jedného priateľa a dvoch ďalších držali pod zemou. S plánom ukradnúť vec, za ktorú Flint zomrel — a vyslobodiť tých, čo ešte dýchali.
+A Flint. Flint bol mŕtvy. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Telo vystavili na námestí. [→ 06-society.md: Cirkev, inkvizičné praktiky]
 
 S mužom, ktorému nedokázala odpustiť.
 
