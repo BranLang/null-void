@@ -282,7 +282,7 @@ Pravidelné, presné údery kladiva na kov. Nie hrubé dunenie miestnych kováč
 
 Tami zastala pred dverami. Nad nimi visela starobylá biela vlajka s červeným plným kruhom uprostred. [→ 03-technology.md: Maki, japonská kultúrna DNA]
 
-*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."* [→ characters/Felix.md: Tamin mentor, Gen 2 android]
+*Felix ju varoval. „Vstup do dielne Maka nie je ako vstup do krčmy, maličká. Je to chrám. A ty si tam len hosť. Zabudni na všetko, čo vieš o tomto svete. Tam platia staré pravidlá, ktoré boli staré, keď ja som bol ešte dieťa."* [→ characters/Felix.md: Tamin mentor, android]
 
 Zložila si letecké okuliare z čela a zavesila ich na krk. Rozopla ťažký kabát a zložila ho na úhľadnú kôpku vedľa vchodu do *genkanu*, hoci to znamenalo odhaliť zbrane na opasku. Pištole boli súčasťou jej duše, tie neodloží, ale prach ulice áno.
 
@@ -334,7 +334,7 @@ Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaž
 
 „Nový prototyp?"
 
-„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Itaka*." [→ 03-technology.md: Itaka, Hephaestus] [→ 05-geography.md: Kitsune, ostrovná krajina]
+„Áno," prikývla Tami, hoci cítila, ako jej z toho hlasu prebehol mráz po chrbte. „Postavený v Kitsune. Z pozostatkov lode Hephaestus. Volá sa *Itaka*." [→ 03-technology.md: Itaka, Hephaestus] [→ 05-geography.md: Kitsune, Stratené mesto]
 
 Pri tom slove Mako stuhol. Ak bolo možné, aby sa socha stala ešte nehybnejšou, stalo sa to práve teraz. Hľadel na ňu, akoby sa pred ním zjavil duch jeho vlastnej minulosti. Potom sa hlboko, takmer až po pás, uklonil smerom k dverám, kde tušil loď.
 
@@ -358,7 +358,7 @@ Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — h
 
 Makove kovové prsty na sekundu stuhli. Pozrel na nákres. Potom vzal tenký štetec, namočil ho do atramentu a na kúsok papiera napísal jedno slovo.
 
-*Ciferník.* [→ notes/CHAPTER-NOTES.md: Ciferník, postava v Ch2]
+*Knihomoľ.* [→ notes/CHAPTER-NOTES.md: Knihomoľ, postava v Ch2]
 
 A pod ním adresu. Ulica Mŕtvych zvonov, číslo 42.
 

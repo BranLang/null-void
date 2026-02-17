@@ -358,7 +358,7 @@ Dialóg sa opakuje. [FIXME: redundantné s predošlou scénou]
 - **Vozidlá**: Vzducholode (vodík!), parné stroje
 - **Materiály**: Titán, keramika, polyméry (Maki tech)
 - **Energia**: Etanol z kukurice, uhlie
-- **Osvit**: Bioluminiscencia, liehové lampy
+- **Osvetlenie**: Bioluminiscencia, liehové lampy
  
 **ATMOSFÉRA**:
 - Industriálna špina vs. elegancia
@@ -584,7 +584,7 @@ Maks sa zarazil. Vodík. Samozrejme."
 ### POV Voice Guide:
  
 **Maks** (3. osoba, limited):
-- Vojenský, taktický
+- Vojenský, taktickým, cynickým, pragmatickým
 - Krátke vety v akcii
 - Dlhšie introspekcie v downtime
 - Negatívny bias voči Varietas (postupne sa mení)
@@ -617,7 +617,7 @@ Maks sa zarazil. Vodík. Samozrejme."
  
 1. **YA elementy**:
    - Coming of age (Tami)
-   - Prvá láska (Tami → Maks)
+   - Prvá láska (Tami → Maks ->Links slow burn)
    - Hľadanie identity
    - Rebelie proti autoritám
    - Nádej aj v tme
@@ -642,7 +642,7 @@ Maks sa zarazil. Vodík. Samozrejme."
    - Neznámo
  
 3. **Love** (láska)
-   - Romantická (Maks/Tami slow burn)
+   - Romantická (Maks/Tami/links slow burn)
    - Rodičovská (Maks/Elenia tragédia)
    - Priateľská (posádka Itaka)
  
@@ -670,7 +670,7 @@ Maks sa zarazil. Vodík. Samozrejme."
 **Kniha 1 - ZEM (Hmota)**:
 - Téma: Hmatateľná realita, prebudenie
 - Tone: Mystérium + akcia
-- Ending: Nájdenie tela Inetis (devastácia)
+- Ending: Nájdenie pravdy o Inetis (devastácia)
  
 **Kniha 2 - OHEŇ (Energia)**:
 - Téma: Minulosť horí, emócie explodujú
@@ -802,9 +802,9 @@ Maks sa zarazil. Vodík. Samozrejme."
  
 ### Tech limitations:
 - Nanodrony: Potrebujú materiál + energiu
-- Anténa: Obyčajná anténa z NULL VOID, ovláda goo roje Wraithov
+- Anténa: vysoko technologická anténa z NULL VOID, ovláda goo roje Wraithov
 - Spira: Vždy má cenu (únava/materiál)
-- Električka: Priťahuje Wraithov
+- Elektrika: Priťahuje Wraithov
 - Kryostáza: Vedľajšie účinky
  
 ### Social hierarchy:
@@ -833,10 +833,11 @@ Maks sa zarazil. Vodík. Samozrejme."
 - **Tami**: Líška (utajená), zamilovaná, stráca identitu
 - **Elenia**: Dcéra (antagonista), nihilistka, digitálna utópia
 - **Inetis**: Mŕtva (kostra), jej legacy drives plot
-- **Unit 734**: Mako prekladateľ, lojalista, RP English
+- **Unit 734 Felix**: Mako prekladateľ, lojalista, RP English
 - **Samaell**: Mŕtvy (zabil Maks AY 3001)
-- **Grom**: Podvodník v Power Armor
+- **Grom**: Antagonista v Power Armor
 - **Zaya/Ishtar**: Živá, Iluzionistka, Pôžitok
+- **Mormiel**: Antagonista, Psychopat, Sadista (bathory-like)
  
 ---
  
@@ -963,38 +964,3 @@ Pri písaní Seriných dialógov MUSÍ byť ku KAŽDEJ jej vete poznámka v hran
 - Čo tým chce dosiahnuť
 - Čo NECHCE povedať
 - Aká je jej kalkulácia
-
-**Príklad POVINNÉHO formátu pre Seru:**
-```markdown
-„Artefakt."
-[HLBOKÝ HLAS. Jedno slovo. Testuje reakciu — kto sú, čo vedia.
-Nezačína "Kto ste?" — to by ukázalo záujem. Začína TÉM,
-čo JU zaujíma. Dominancia. Kalkulácia: nech hovoria oni prvé.]
-
-„Ale... môžeme spolupracovať, nie?"
-[KAWAII SWITCH. Úmyselný kontrast. Destabilizácia poslucháča.
-3000 rokov social engineering — vie, že nevinný hlas
-znižuje obranné mechanizmy. Manipulácia, ktorá sa ani
-nesnaží skrývať. Kalkulácia: Tami je opatrná, toto ju zmätie.]
-
-„Poznala som ju."
-[HLAS PRAVDY. Minulý čas — váha tisícročí. Nehovorí viac
-než musí. Nechce prezradiť detaily. Kalkulácia: dať Maksovi
-dosť na to, aby pochopil vážnosť, nie dosť na odpovede.]
-```
-
-**Príklad správneho kontrastu Maks vs Sera:**
-```
-Maks: "Kto ťa učil Haiku?"
-[Maks je priamy. Vojenský. Chce informácie.]
-
-Sera: "Inetis." [pauza] "A ty?"
-[HLBOKÝ HLAS. Odpovedá jedným slovom. Potom otočí otázku.
-Kalkulácia: testuje, či Maks je ten, za koho ho pokladá.]
-
-Maks: "...Inetis."
-[Pauza pred odpoveďou = emocionálna reakcia. Sera si to všimla.]
-
-[Sera prikýva — jedno gesto stačí, veterán veteranovi]
-[Potvrdenie. Žiadne slová potrebné. Obaja vedia.]
-```
