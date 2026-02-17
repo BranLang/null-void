@@ -4,8 +4,8 @@
 |---|---|
 | **Status** | Aktívny — hlavný strelec Itaky (AY 3013) |
 | **Meno** | **Borg** |
-| **Rasa** | Ursus Varietas (medveď) |
-| **Kasta** | Ghorki (označenie, ktoré ho uráža) |
+| **Rasa** | Ursus Chimaera (medveď) — pozdvihnuté zviera, nie Varietas [→ 14-varietas-species.md] |
+| **Kasta** | Ghorki (mestské označenie, ktoré ho uráža — jeho ľudia nie sú kasta, sú národ) |
 | **Vek** | ~9 zím (~45 rokov, AY 3013) |
 | **Povolanie** | Hlavný strelec (Gunner), ovláda kanón "Felix" |
 | **Pôvod** | Severné lesy Neuropy — skrytý národ medveďov |
