@@ -7,6 +7,7 @@
 | **Pôvod** | Počatá na palube NULL VOID počas FTL, narodená na Terre |
 | **Rola** | Hlavný antagonista, dcéra Maksa a Inetis |
 | **Titul** | Gatekeeper |
+| **Boss** | **Kniha 5** — finálna konfrontácia + I_NET_IS |
 
 ![Elania](../assets/Elania.png)
 

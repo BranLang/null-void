@@ -102,6 +102,31 @@ Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
 > **Pravidlo pre popis Gen 1 nanotech v texte:**
 > Vždy keď popisujeme Gen 1 nanotech v akcii: **čierny prach** + **fialové svetielka/záblesky** (jemné, nie dramatické). Toto je konzistentná vizuálna signatúra celej série.
 
+### Technovampirizmus (Reverse Glitch Rot — Dar Inetis)
+
+**Pôvod — Netin Patch**: Neta Fujiwara (posledná hostiteľka Echo Inetis) napísala **anti-Bit-Rot patch** — Linux patch pre Gen 1 nanodróny, ktorý reverznuje dizajnovanú degradáciu. Vložila ho Maksovi počas kryospánku (~EY 2300). Patch sa 2000+ rokov pomaly kompiloval v kryostáze — jeden nanodrón za čas, pod radarom hive mindu. Maks o ňom nevie. [→ maks-power-arc.md: Netin Patch]
+
+**Výsledok**: Maksov v1.5 nanotech dokáže **reverse Glitch Rot** — kde Glitch Rot ničí a rozkladá nanoboty na chaotické Wraithy, Maks ich dokáže **absorbovať a reintegrovať** do vlastného systému. Je to ako antivírus — kde Glitch Rot ničí, Maks lieči (a pohlcuje). **Len Maks má túto schopnosť** — je to dar od Inetis (cez Netu), nie generická vlastnosť Gen 1.
+
+#### Mechanizmus — Wraithy a mŕtvi Ex Inferis
+
+Keď nositeľ Gen 1 nanobotov zomrie, jeho nanotech sa stáva **Wraithom** — nanoboty stratia hostiteľa, berú si fragment jeho vedomia ako operačný systém a stávajú sa autonómnym rojom (viď sekcia Wraithy vyššie). Po mŕtvych Ex Inferis zostávajú **Wraithy s fragmentmi ich spomienok a osobnosti**.
+
+Maks dokáže tieto Wraithy **absorbovať** — jeho reverse Glitch Rot ich reintegruje do vlastného systému. Vizuálne: tiene prachu ako hady poprepletané cez seba sa plazia po zemi k Maksovi a prenikajú do jeho tela.
+
+| Aspekt | Detail |
+|--------|--------|
+| **Mechanizmus** | Reverse Glitch Rot — Maksov v1.5 nanotech aktívne pohlcuje a reintegruje voľné nanoboty (Wraithy). Dar od Inetis, zakódovaný do jeho vojenskej nanotechnológie. |
+| **Čo sa prenáša** | Nanoboty + **fragmenty spomienok** pôvodného hostiteľa + časti jeho osobnostných vzorcov (kondicionované reflexy, inštinkty, traumy) |
+| **Zmena charakteru** | Maks absorbuje nielen silu, ale aj **časti osobnosti** obete. Samaellova paranoja, Grondova krutosť, cudzí inštinkty sa stávajú súčasťou Maksa. Čím viac esencie absorbuje, tým viac je mozaikou cudzích osobností. |
+| **Trade-off** | Sila + schopnosti + spomienky = zisk. Kontaminácia identity + cudzie impulzy + emocionálna nestabilita = cena. |
+| **Vizuál** | Čierny prach sa formuje do hadovitých prameňov, plazí sa po zemi k Maksovi, preniká cez kožu, rany, oči, ústa. Fialové záblesky pri absorpcii. |
+| **Kto to dokáže** | **Len Maks** — reverse Glitch Rot je dar Inetis, nie generická schopnosť Gen 1. Archanjeli to nedokážu (ich Zber = ihlové injektory na vysávanie Gen 2 z živých Varietas, čo je úplne iná mechanika). |
+| **Bežný Exorcizmus** | Maks absorbuje aj bežných Wraithov (nie len z Ex Inferis). Toto je základ jeho povolania Exorcistu — loví Wraithov, absorbuje ich nanoboty, z nazbieraného Prachu vyrába predmety. Ale bežní Wraithy nemajú silné osobnostné fragmenty — len mŕtvi Ex Inferis. |
+| **Známe prípady** | Maks ← Samaell (AY 3001): oči, Blood Ritual, predátorské inštinkty, paranoja. Maks ← Grond (AY 3013): absorpcia počas kómy — Grondov Wraith prenikol do mŕtveho tela, dôsledky neznáme. |
+
+> **Kontrast**: Archanjeli používajú **Zber** — ihlové injektory na prstoch, ktorými vysávajú Gen 2 nanoboty z **živých** Varietas. Je to bolestivé, neefektívne, a neprenáša spomienky — len surový materiál na záplatovanie vlastného rozpadajúceho sa Gen 1. Maksov reverse Glitch Rot je elegantnejší a kompletnejší — absorbuje celú esenciu vrátane spomienok. Ale práve preto je nebezpečnejší pre samotného Maksa.
+
 ### Inetisina Unikátna Esencia
 Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
 - **Pôvod**: Vznikla počas Glitch Eventu (EY 2070), keď bola i_net_is v epicentre kontaktu s Tieňovými

@@ -40,7 +40,27 @@ Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne s�
 
 Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
-Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu..
+Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
+
+*Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by neboli v kobkách. [→ planning/peaceful-squishing-glacier.md: priatelia živí v kobkách]
+
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Spolu preskúmali jaskyňu, mapu k nej zdedila po otcovi. Tami hľadala poklad — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+
+Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Potom jeho telo upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+
+Flintov popol. Ten prach na námestí.
+
+Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zakopaní v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
+
+*Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
+
+Správy, čo sa k nej dostali cez Nyau — s trojmesačným oneskorením, šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť. [→ 05-geography.md: Nyau, východné pobrežie]
+
+A teraz bola tu. V meste, kde jej zabili jedného priateľa a dvoch ďalších držali pod zemou. S plánom ukradnúť vec, za ktorú Flint zomrel — a vyslobodiť tých, čo ešte dýchali.
+
+S mužom, ktorému nedokázala odpustiť.
+
+*A ani zabudnúť*, dodala si v duchu.
 
 ---
 
@@ -75,7 +95,7 @@ Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obo
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy.
+Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným ukom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jej ostrý hlas nadávať na prasknuté potrubie. Mačka mala talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa jej zmestilo do labiek. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
 
 „Exorcista," povedal Maks. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
 
@@ -182,6 +202,20 @@ Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v či�
 
 *Mala vtedy osem.*
 
+Iný hlas. Starší. Mechanický, aj keď sa ho naučil robiť teplým.
+
+*„Kanón pôjde. Ja nie."* [→ characters/Felix.md: Felix odmietol ísť, strach z vonkajšieho sveta] [→ planning/peaceful-squishing-glacier.md: Zmena D — Felix flashback]
+
+Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách, obklopený haiku na stenách a porcelánovým prachom. Tami pred ním. S mapou v jednej ruke a zúfalstvom v druhej.
+
+*„Felix, prosím. Potrebujem ťa."*
+
+*„Weil ich nicht kann."* Nemčina. Používal ju len vtedy, keď hovoril pravdu, ktorú nedokázal povedať po japonsky. *Lebo nemôžem.* [→ characters/Felix.md: Nemčina = emotívny únik] Kovové prsty sa mu zachveli nad rozloženým čerpadlom. Osemsto rokov neodišiel z Kitsune. Svet vonku bol príliš veľký, príliš hlučný, príliš *živý* pre bytosť, ktorá sa naučila merať čas tikotom hodinového stroja.
+
+Objal ju. Tvrdý, kovový, nešikovný — ale skutočný.
+
+A potom jej dal kanón.
+
 Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky do mrazivého vzduchu.
@@ -212,7 +246,7 @@ Kováč. Starší Mezra s kozími rohmi a hrubými prstami, z ktorých stúpal j
 
 Z jeho dlaní stúpalo teplo. Nie oheň — niečo *jemnejšie*. Vzduch sa zachvel, zhustol, a potom sa z ničoho nič na jeho prstoch objavil malý plameňový zajac. Skočil mu z ruky, prebehol po vzduchu a pristál na dlažbe, kde zanechal stopy z iskier. Deti vreštali od nadšenia. Kováč sa usmial, a zo zajaca sa stal orol, roztiahol ohnivé krídla, zakrúžil nad hlavami detí a rozsypal za sebou dážď zlatých bodiek, ktoré pohasínali skôr, než dopadli na zem.
 
-Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďalej. Teplo z kováčových rúk sa nieslo cez mrazivý vzduch a dopadalo na detské tváre ako prvé jarné lúče — a v tom oranžovom svetle, uprostred zimy, uprostred vojny, sa deti smiali.
+Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďalej. Teplo z kováčových rúk sa nieslo cez mrazivý vzduch a dopadalo na detské tváre — a v tom oranžovom svetle, uprostred mrazu, uprostred vojny, sa deti smiali.
 
 *Spira.*
 
@@ -348,6 +382,91 @@ Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky
 *Jednoduché.*
 
 Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako kov pištole pod jej kabátom.
+
+---
+
+## Krčma U Slepej Panny
+[→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna]
+
+Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]
+
+Tami si sadla do rohu. Chrbát k stene, oči na dvere. Maksov výcvik.
+
+Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
+
+Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
+
+*Potrebujem sprievodcu*, pomyslela si. *Alebo zázrak.*
+
+Dostala vlka.
+
+„Nestrieľaj, líška." [→ characters/Vlk.md: prvý dialóg]
+
+Hlas prišiel spod stola. Nízky, chraptivý, pomalý — hlas bytosti, ktorú nikto nepočúva a ktorá si zvykla čakať.
+
+Tami stuhla. Ruka jej automaticky skĺzla k pištoli. Pod stolom sa pohli dve šedé oči — jedno jasné, druhé zakalené šedým závojom. A potom sa z tieňa vynoril vlk.
+
+Veľký. Nie kolosálny — nie ako tie legendy z Ľadového Mostu, čo sa rozprávali v krčmách na severe — ale väčší než jazvec, čo pred chvíľou vyhodili z lokálu za bitku. [→ 05-geography.md: Ľadový Most, Grawský sever] Šedá srsť, miestami vypadaná, matná, špinavá. Jazvy na ľavom uchu — odhryznuté, starý boj. Vyzeralo to, akoby ho mesto žuvalo roky a potom vypľulo.
+
+Ghorki. Chiméra. Quadrupedálny — žiadne ruky, žiadna bipedálna postava. Skutočný vlk, ktorý hovoril. [→ 06-society.md: Ghorki Chiméry, quadrupedálne bytosti s takmer ľudskou inteligenciou]
+
+V Nevriss boli Ghorki neviditeľní. Nikto si nevšimol vlka pod stolom. Nikto nikdy nevšimol vlka nikde.
+
+„Poznám tie oči," povedal vlk. Pomaly, akoby každé slovo stálo námahu. „Modré. Nosil ich muž v trojhrannom klobúku."
+
+Tami prestala dýchať.
+
+*Trojhranný klobúk.*
+
+„Renn," zašeptala. Meno jej otca sa jej vyšmyklo z úst skôr, než ho stihla zastaviť. [→ characters/Renn.md: Renn Ólafsson, trojhranný klobúk, tulák]
+
+Vlk prikývol. Pomaly, ťažko, akoby aj ten pohyb niečo stál.
+
+„Prešiel tu. Dávno. Pätnásť zím. Možno dvadsať." Zakalené oko sa uprelo na Tami. „Bol som mladší. Hladný. Na ulici." Odmlčal sa. „Dal mi jesť. Sušené mäso z batohu. Bez otázok. Bez podmienok." [→ characters/Vlk.md: backstory, stretnutie s Rennom]
+
+*Dal mi jesť. Nikto iný to neurobil.*
+
+V krčme sa niekto zasmial. Zvonku zadunel výbuch — ďaleký, grawský, nad priesmykmi. Nikto nezdvihol hlavu. Zvykli si.
+
+„Vzal ma na pár dní," pokračoval vlk. „Potreboval sprievodcu, čo pozná ulice. Ja som poznal každú uličku." Hlas mu na okamih zmäkol — a to bolo skutočné, Tami to cítila. Ani zradca nemohol predstierať ten tón. „Platil dobre. Neponižoval ma."
+
+Tami hľadela na vlka. Medené vlasy jej padali cez líce a skrývali výraz, ktorý nechcela ukázať nikomu. Spomienka na otca bola teplá — a teplo bolelo viac než chlad.
+
+„Prečo mi to hovoríš?" spýtala sa. Hlas mala tvrdý. Oči mäkké. Kontrast, ktorý nevedela skryť.
+
+„Lebo tvoj otec mi dal jesť, keď mi nikto iný nedal." [→ characters/Vlk.md: motivácia, pravdivé spomienky na Renna]
+
+*Pravda. Celá pravda. A aj tak ju predá. Preto je to tak bolestivé.* [NOTE: dramatická irónia — čitateľ to zistí neskôr]
+
+Tami dlho mlčala. Pivo v hrubom keramickom pohári chladlo. Vlk čakal. Trpezlivo. Zvyk bytosti, ktorá celý život čakala.
+
+„Poznáš toto mesto?" spýtala sa nakoniec.
+
+„Každú dieru. Každý kanál. Každú mŕtvu uličku." [→ characters/Vlk.md: navigátor v Šoravene]
+
+„A Chrám?"
+
+Vlk sa na ňu pozrel. To jedno zdravé oko bolo ostré — ostrý pohľad zvieraťa, ktoré prežilo, pretože vedelo, kedy kto klame.
+
+„Aj Chrám."
+
+Tami dopila pivo. Položila pohár na stôl. Rozhodnutie padlo v tej istej sekunde, keď vlk vyslovil otcovo meno. Vedela to. A nenávidela sa za to — za tú slabosť, za ten ťah srdca, za to, že spomienka na mŕtveho otca stačila na to, aby dôverovala cudzincovi.
+
+„Poď," povedala a vstala.
+
+Vlk vstal. Ticho, bez zvuku — pohyb bytosti, ktorú nikto nesmie vidieť. Prešiel pod stolmi, popri nohách pijanov, cez dym a smrad, a nikto — *nikto* — si ho nevšimol.
+
+Na ulici sa zastavil vedľa nej. Sneh mu sadal na šedú srsť.
+
+„Kam ideme, líška?"
+
+„Ulica Mŕtvych zvonov," odpovedala Tami. „Číslo 42." [→ notes/CHAPTER-NOTES.md: Ciferník, adresa z Mako dielne]
+
+Vlk prikývol a vykročil vpred. Nos pri zemi, uši nastavené, oči skenujúce každý tieň. Prvý člen tímu naverbovaný.
+
+*Ďakujem, otec*, pomyslela si Tami. *Aj mŕtvy mi ešte pomáhaš.*
+
+Nevedela, koľko ju to bude stáť.
 
 ***
 

@@ -379,23 +379,13 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 
 ---
 
-## Tajomstvo Dynastia Grondov
+## Grond — Archanjel Vojny
 
-### Pravý Grond (AY 700-1200)
+### Grond (AY 700-3013)
 - Jeden zo štyroch pôvodných Archanjelov (Ex Inferis zo Zeme)
 - Prišiel na ARK-13 "Prometheus"
 - **Vzhľad**: Svalnatý, surový, ako The Rock / Conan
-- **Power Armor**: Energo-zbroj, chodiaci tank
-- **Vláda**: 500 rokov spravodlivého a rozumného vladnutia
-- **Smrť**: Glitch Rot (~AY 1200)
-
-### Falošní Grondovia (AY 1200-3013)
-- Prvý podvodník: generál, ktorý si obliekol Power Armor a vyhlásil sa za "Gronda II"
-- Tajomstvo známe len úzkemu kruhu vyvolených
-- Nikto nevidí tvár pod helmou
-- Dynastia pokračuje už ~1800 rokov
-
-### Aktuálny "Grond" (AY 3013)
-- Agresor a dobyvateľ
-- Začína vojnu s Juhom
-- Využíva náboženstvo ako ospravedlnenie expanzie
+- **Power Armor**: Energo-zbroj, chodiaci tank — nikto nevidel jeho tvár pod helmou 3000 rokov
+- **Vláda**: Prvých ~500 rokov spravodlivý vládca, Varietas ho milovali. Postupne paranoja, krutosť, závislosť na ľudských obetiach.
+- **Prežívanie**: Ako všetci Ex Inferis — vampirizmus, konzumácia nanobotov z živých tiel. Pod Power Armor zničené telo, držané pohromade nanobotmi.
+- **Smrť (AY 3013)**: Zabitý Maksom v bitke o Shoraven. Blood Ritual — nanodronový roj na vzdialenosť 6 km, 7 sekúnd. Prvý verejne mŕtvy Archanjel (Samaellova smrť v AY 3001 je tajná).

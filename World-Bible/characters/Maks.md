@@ -29,8 +29,10 @@ Maks sa prebúdza ako „troska".
 
 ### Schopnosti a Vybavenie
 - **Military-Grade Nanotech**: Jeho drony sú agresívne combat verzie, ktoré ho pomaly "spaľujú".
+- **Záložný Survival Mechanizmus (Dormant)**: Vojenská nanotech Zeme (2300) obsahuje záložný protokol — pri klinickej smrti sa automaticky aktivuje systém, ktorý zakonzervuje pamäť a udržiava neurálnu sieť aj bez funkčného mozgu. Maks o tomto mechanizme nevie. Prvá aktivácia prebehla nevedome pri prebudení z kryostázy (AY 3000) — interpretoval to ako "divné pocity". Druhá aktivácia: klinická smrť v Shoravene (Book 1, Ch7). Toto je dôvod, prečo Maks "prežije" — nie plot armor, ale technológia z 2300, o ktorej nevedel.
 - **Assassin de Luxe**: Pôvodne herná rola atentátnika (**maXpowa**), v ktorej dospel počas 5 rokov v simulácii Achilles (2065-2070). Jeho schopnosti (skrytý boj, manipulácia s combat drony) sú podmienenými reflexami zo simulácie.
 
+- **Reverse Glitch Rot — Dar Inetis (Technovampirizmus)**: Unikátna schopnosť, ktorú má **len Maks**. Inetis zakódovala do jeho v1.5 nanotechu schopnosť **reverse Glitch Rot** — kde Glitch Rot ničí a rozkladá, Maks lieči a pohlcuje. Dokáže absorbovať voľné nanoboty vrátane **Wraithov**. Toto je základ jeho povolania Exorcistu — Maks neničí Wraithov, on ich **pohlcuje**. Po mŕtvych Ex Inferis zostávajú Wraithy (ich Gen 1 nanoboty stratia hostiteľa a stávajú sa autonómnymi rojmi s fragmentmi spomienok) — a Maks ich dokáže absorbovať. Vizuál: tiene prachu ako hady poprepletané sa plazia po zemi a prenikajú do jeho tela. Maks absorbuje nielen nanoboty, ale aj **časť spomienok a osobnosti** obete. Každá absorpcia ho **mení** — získava fragmenty cudzích životov, schopností, ale aj traumát a inštinktov. Po Samaellovi: naučil sa Blood Ritual, získal Oči z Čierneho Prachu, ale aj Samaellovu paranoju a predátorské inštinkty. Po Grondovi: jeho Wraith migroval k Maksovi, ale Maks bol už mŕtvy — Grondov prach prenikol do tela v kóme a čaká na reboot (čitateľ to nevie). **Trade-off**: Čím viac esencie absorbuje, tým viac sa stáva mozaikou cudzích osobností. Maks nie je len Maks — je Maks + fragmenty Samaella + fragmenty Gronda + fragmenty všetkých, ktorých pohltil. Otázka: kde končí Maks a začínajú oni? **Nikto iný túto schopnosť nemá** — je to dar od Inetis (cez Netu Fujiwara — anti-Bit-Rot patch vložený počas kryospánku, ~EY 2300), nie generická vlastnosť Gen 1. [→ maks-power-arc.md: Netin Patch]
 - **Trauma Ex Inferis**: Jeho vedomie je poznačené stratou časovej linearity.
 
 - **Vybavenie**:
@@ -45,10 +47,11 @@ Maks sa prebúdza ako „troska".
 - **Osvietený (Enlightened)**: Maks neverí v nadprirodzeno. Náboženstvo považuje za psychologickú zbraň hromadného ovládania. Spiru chápe ako čistú technológiu — a má pravdu. Sám Spiru nemá, pretože **nebol nikdy požehnaný Inetis** (uspala ho skôr, než mohla). Na rozdiel od potomkov jej tímu, ktorí dodnes žijú na južnom pobreží Terry.
 - **Oči z Čierneho Prachu (Black Dust Eyes)**: Po porážke Samaella si Maks prisvojil jeho nanodrony ("Shadow Dust" / Tieňový Prach). Čierny Prach nahradil jeho mrazom zničené organické oči — v prázdnych očných jamkách sa formujú funkčné oči z čierneho nanoprachu. Nie sú to "sedem modrých hviezd" — sú to oči z čistého Prachu, tmavé a neprirodené.
 - **Krycia Identita — Exorcista (Technomant)**: Maks sa pri cestovaní prezentuje ako Exorcista. V Nevrisse a ďalších mestách vystupuje pod touto identitou. Exorcisti sú technomanti, ktorí likvidujú Wraithov — pre Maksa je to ideálne krytie pre jeho skutočné ciele.
-- **Exorcizmus a Výroba z Prachu (Dust Crafting)**: Maks dokáže "exorcizovať" Wraithov — extrahovať z nich nanodrony (Prach) a z nazbieraného Prachu vyrábať fyzické predmety. Tento proces je extrémne náročný na zdroje:
+- **Exorcizmus a Výroba z Prachu (Dust Crafting)**: Maks "exorcizuje" Wraithov tým, že ich **absorbuje** (reverse Glitch Rot). Nanoboty z Wraithov integruje do vlastného systému a z prebytočného Prachu vyrába fyzické predmety. Bežní Exorcisti Wraithov ničia (kladivá, plameňomety) — Maks ich pohlcuje. Preto je taký efektívny.
   - **Konverzný pomer**: ~10 Wraithov = 1 malý predmet (prsteň, nôž)
   - **Produkty**: prstene, kusy brnenia, amulety, drobné artefakty
-  - **Obživa**: Takto si zarába na živobytie ako Exorcista — loví Wraithov, zbiera Prach a predáva výrobky
+  - **Obživa**: Takto si zarába na živobytie ako Exorcista — loví Wraithov, absorbuje ich Prach a predáva výrobky
+  - **Tajomstvo**: Nikto nevie, že Maks Wraithov absorbuje — pre svet ich "ničí" ako každý iný Exorcista. Keby sa to dozvedeli, bol by sám lovený ako hrozba.
 
 ### Backstory
 Maks je jedným z vyvolených, ktorí sa vrátili z 5-ročného uväznenia vo VR pekle (*ex inferis*). Toto peklo ho zmenilo na extrémne motivovaného a nemilosrdného strojcu utópie.
@@ -58,12 +61,13 @@ Maks je jedným z vyvolených, ktorí sa vrátili z 5-ročného uväznenia vo VR
 - **Prebudenie (AY 3000)**: Prebudený v „Hrobke technológie" po ~3000 rokoch. Zlyhanie kryostázy mu spôsobilo explóziu očí mrazom. Nájdený pirátmi a predaný ako „čistokrvný tovar".
 - **Stav**: Nahý, pokrytý modrou kryo-tekutinou, slepý a v šoku.
 - **Porážka Samaella a Oči z Prachu**: Po porazení Samaella si Maks prisvojil jeho nanodrony — "Shadow Dust" (Tieňový Prach). Tento Čierny Prach vyplnil jeho prázdne očné jamky a vytvoril nové, funkčné oči. Maxove oči sú teraz z čierneho nanoprachu — tmavé, neprirodené, no plne funkčné. Nie sú to "sedem modrých hviezd" — sú to oči z Prachu mŕtveho démona.
+- **Klinická smrť a kóma (AY 3013-3014)**: V bitke o Shoraven Maks minie 30% nanobotov na Gronda, padne z Itaky a klinicky zomrie v snehu. Tami ho nájde "mŕtveho" a odchádza. Survival mechanizmus sa aktivuje, zakonzervuje pamäť. **Sera** (pozorovala z tieňov od Ch.4) prišla k telu, detekovala záložný systém — Maksov nanotech je ~150 rokov modernejší ako jej Gen 1. Tušila, že je Elaniin otec. Uvažovala zobrať ho k Elanii, ale rozhodla oddialiť stretnutie. Vybavila transport — nariadila Borgovi a Nix previezť telo do Kitsune. Maks je v kóme **1 rok**. Prebudí sa v **Kitsune** u Felixa (AY 3014). Svet ho pochoval — Tami je preč na juhu, rok prešiel. **Maks nevie, kto ho zachránil.**
 
 ### Herná minulosť
 > „V 'Achille' to bolo jedno. Tam som bol 'maXpowa', tank, ktorý jej kryl chrbát, kým ona stavala nemožné mestá. Ale zamilovali sme sa až potom — keď prišla za mnou do Kyjeva."
 
 ### Motivácia
-1.  **Revenge (Tami)**: Pomôcť Tami pomstiť smrť jej prvej posádky (Arkot, Yera, Flint), ktorí zomreli kvôli Artefaktu. Cíti vinu, že tam nebol.
+1.  **Rescue + Revenge (Tami)**: Pomôcť Tami zachrániť Arkota a Yeru z kobiek (živí, mesiace mučení) a pomstiť smrť Flinta (zabitý pri zatýkaní). Cíti vinu, že tam nebol.
 2.  **Exodus (Null Void)**: Získať Artefakt (Anténu) nie pre Cirkev, ale pre seba. Potrebuje ho na lokalizáciu svojej lode *Null Void*. Vie, že je niekde na Západe od Kito, ale v tej pustatine ju bez senzoru nenájde.
 3.  **Inetis**: Dúfa, že Anténa mu prezradí osud Inetis. Jeho tajná, iracionálna nádej je, že *stále žije* v kryostáze na palube lode.
 4.  **Zachrániť dcéru Eleniu**: (Dlhodobý cieľ).

@@ -10,6 +10,7 @@
 | **Skutočná identita** | 4. Archanjel z ARK-13 |
 | **Doména** | Nevriss City — hlavný Chrám Vševedúcej Matky |
 | **Rola** | Skrytý antagonista / Upír lovkyňa / Matriarchálna manipulátorka |
+| **Boss** | **Kniha 2** — Rituál Nástupníctva, odhalenie pravej identity |
 
 ### Pôvod — Jediná Varietas z ARK-13
 
@@ -72,7 +73,7 @@ Za svitania Požehnaná Matka. Za tmy — **predátorka**.
 ### Vzťah k ostatným Archanjelom
 
 - **Samaell**: Pohŕdala ním — považovala ho za zviera, ktoré stratilo rozum. Jeho smrť (AY 3001) ju znepokojila, ale neoplakala.
-- **Grond** (pravý, mŕtvy): Rešpektovala ho ako vojaka. O dynastii podvodníkov vie — je to pre ňu užitočná bábka na severe.
+- **Grond**: Rešpektovala ho ako vojaka — jediný z Archanjelov, ktorý bol ochotný ísť do priameho boja. Paranoidný tyran, ale užitočný — jeho vojna na severe odvádzala pozornosť od Mormieliho plánov na juhu.
 - **Ishtar**: Najkomplikovanejší vzťah. Obe sú manipulátorky, obe sa skrývajú za fasádu. Tichá rivalita o vplyv na juhu.
 - **Elania**: Mormiel pozná jej pravú identitu (dcéra Inetis). Obáva sa jej — Elania je jediná bytosť, ktorá by ju mohla ohroziť.
 
@@ -142,4 +143,5 @@ Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven 
 ### Rola v príbehu
 
 - **Kniha 1 (Zem)**: Požehnaná Matka je prítomná v pozadí — jej kňazi strážia Anténu v Shoravene, jej slovo riadi politiku Nevriss. Maks a Tami o nej počujú, ale nestretávajú ju priamo.
-- **Odhalenie**: Jej pravá identita ako 4. Archanjel bude odhalená neskôr v príbehu — keď Maks pochopí, že nepriateľ nesedí len na severe a východe, ale aj v srdci spojeneckého mesta.
+- **Kniha 2 (Oheň) — BOSS**: Mormiel je hlavný antagonista. Tami prichádza do Nevriss City — Mormiel si vyberie Tami na Rituál Nástupníctva. Odhalenie pravej identity — 4. Archanjel, predátorka, 23 pohltených žien.
+- **Kniha 3+**: Dôsledky odhalenia — Cirkev v kríze, Mormiel na úteku alebo zničená.

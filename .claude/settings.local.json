@@ -19,10 +19,8 @@
       "Bash(del \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\pensive-carson\\\\rename-Itaka.ps1\")",
       "Bash(git status:*)",
       "Bash(gh auth:*)",
-      "Bash(copy:*)",
-      "Bash(git -C \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\competent-snyder\" status -u)",
-      "Bash(git -C \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\competent-snyder\" diff)",
-      "Bash(git -C \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\.claude\\\\worktrees\\\\competent-snyder\" log --oneline -5)"
+      "Skill(null-void-writer)",
+      "Skill(null-void-writer:*)"
     ]
   }
 }
