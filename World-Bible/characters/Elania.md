@@ -31,6 +31,25 @@ Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu.
 - **Pokus o návrat do Core**: Po matkinej smrti sa Elania skúšala dostať do Core na Elysium — vedela, že tam je liek. Ale **Elysium je v oku večného hurikánu Wraithov**. Bez Antény sa tam nedostane nikto. A Anténa je teraz v rukách Cirkvi. Preto Elania podporuje Archanjelov v honbe za Anténou — potrebuje ju, aby sa mohla vrátiť domov a vyliečiť.
 - **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload.
 
+### Beastlands — Elaniina ríša [→ 14-varietas-species.md: 4. vetva inteligencie]
+
+Za ~2300 rokov (od smrti Inetis po AY 3013) Elania vybudovala na juhu celú civilizáciu:
+
+**Čo sú Beastlands**:
+- **Južné ostrovy** = laboratórium. Desiatky ostrovov, každý s inou generáciou experimentov. Rôzne ekosystémy, rôzne prototypy. Niektoré úspešné, iné hrôzostrašné zlyhania — staré prototypy, ktoré nikto nevypol. Zákulisie. Elaniina dielňa.
+- **Západná Simira** = front. Džungle a močiare, kde **v noci behajú najdesivejšie veci v galaxii**. Finálne produkty — vojnové bytosti nasadené proti Apex. Žiadna armáda zo severu by tu neprežila noc.
+- **Tower of the Damned** = Elaniina veža — laboratórium, trón aj liahňa v jednom.
+
+**Elaniine bytosti**:
+- Dizajn inšpirovaný xenomorfmi — nie náhodné monštrá, **navrhnuté vojnové organizmy**. Inteligentné, smrteľné, taktické.
+- **Geneticky zakódovaná lojalita**: V génoch. Elania to tam dala. Každá bytosť sa rodí s inštinktom poslúchať Stvoriteľku, rovnako ako sa rodí s inštinktom dýchať. Elania je **kráľovná úľa**, nie bohyňa chrámu.
+
+**Prečo vojna s Apex**:
+- Elania vie, že Super-Primáty (Apex) chcú prekaziť Veľký Upload. Opice naberajú na sile — technologicky, vojensky, politicky. Sú **jediná civilizácia schopná organizovaného odporu** proti jej plánu.
+- Jediny spôsob, ako ich oslabiť, je **bioterror** — vojnové organizmy nasadené na ich územie.
+- **Prečo nie nukleárne zbrane**: MAD — vzájomné zničenie. Obe strany majú prostriedky na totálnu deštrukciu, ale ani jedna ich nepoužije. Preto vojna prebieha cez biologické zbrane (Elania) vs. technologickú obranu (Apex). Pomalá, krvavá, nekonečná. Storočia patovej situácie.
+- Pre sever (Nevriss, Graw) je táto vojna vzdialená — vedia o nej len z legiend.
+
 ### Motivácia: Veľký Upload
 Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 
@@ -52,7 +71,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 - **Vedkyňa** — rovnako ako Inetis (architektka, tvorca systémov)
 - **Preferuje ženské partnerky** — echo Inetis a Heleny. Inetis videla v Elanii Helenu, nie Maksa. Pomenovala ju po Helene. A Elania vyrástla do ženy, ktorá miluje rovnako ako Helena milovala. Irónia: dcéra z traumy sa stala monumentom lásky, ktorú trauma zničila.
 - **Ale invertované znamienko**: Inetis si zvolila biológiu — opustila VR, vrátila sa do fyzického tela, dala ľuďom nanotechnológiu aby prežili vo fyzickom svete. Elania chce opak — všetkých nahrať DO VR, opustiť biológiu. Dcéra je negáciou matky — formou je jej kópiou, smerom je jej opakom.
-- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire
+- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire. Za ~2300 rokov vybudovala **Beastlands** — celú civilizáciu bioengineered bytostí na juhu Terry, kde ju uctievajú ako bohyňu-stvoriteľku. Vedie večnú vojnu proti Apex (Super-Primátom) na Simire. [→ 14-varietas-species.md: Elaniine výtvory, 4. vetva inteligencie]
 - Kreativita hraničiaca so šialenstvom
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
 

@@ -13,7 +13,7 @@ Na Achille nežije 500 druhov inteligentných zvierat. Žije tu **obmedzený po�
 
 ---
 
-## Tri prapôvody inteligencie na Achille
+## Štyri prapôvody inteligencie na Achille
 
 ### 1. Homo Sapiens Varietas — Modifikovaní ľudia
 
@@ -38,6 +38,44 @@ Na Achille nežije 500 druhov inteligentných zvierat. Žije tu **obmedzený po�
 **Spira kompatibilita**: Neznáma / iná cesta — Apex má vlastné technológie (maglev, pokročilá civilizácia)
 **Emigrácia**: Na Zemi boli občanmi druhej kategórie. Emigrovali ku hviezdam na ARK-12 spolu s Varietas — ale po príchode na Achilles sa oddelili a založili vlastnú ríšu **Apex** na kontinente **Simira**.
 **Loď**: ARK-12
+
+### 4. Elaniine výtvory — Bioengineered život (Beastlands)
+
+**Základ genómu**: Navrhnutý od nuly — syntetická biológia [→ characters/Elania.md: genetická expertka, lepšia než Inetis]
+**Pôvod**: Achilles. Elania (dcéra Maksa a Inetis) je najlepšia genetička na planéte. Za ~2300 rokov od smrti Inetis (~AY 700) tvorila celé ekosystémy — od megafauny ("Jurassic Park" na Simire) po inteligentné bytosti navrhnuté podľa vlastnej vízie.
+**Spira kompatibilita**: Neznáma — Elania sama používa Gen 1 nanoboty (nie Spiru). Jej výtvory môžu mať vlastnú kompatibilitu, o ktorej sever nevie.
+**Lokácia**: Dve zóny —
+- **Južné ostrovy** (laboratórium): Rôzne generácie pokusov. Niektoré úspešné, iné hrôzostrašné zlyhania. Staré prototypy, ktoré nikto nevypol. Ostrovy sú zákulisie — Elaniina dielňa, kde skúša, zlyhá, iteruje. Návštevník by tu našiel desiatky rôznych ekosystémov na rôznych ostrovoch — každý experiment s inou generáciou bytostí.
+- **Západná Simira** (front): Džungle a močiare, kde **v noci behajú najdesivejšie veci v galaxii**. Toto sú finálne produkty — vojnové bytosti nasadené proti Apex. Hranica medzi Beastlands a Apex je peklo. Žiadna armáda zo severu by tu neprežila noc.
+**Náboženstvo**: Kult Stvoriteľky (nie viera — genetický inštinkt)
+
+> **Kľúčový rozdiel od ostatných vetiev**: Varietas, Chiméry aj Super-Primáty vznikli na Zemi — priniesli ich z domova. Elaniine výtvory vznikli **tu**, na Achille. Sú prvý inteligentný život, ktorý nevznikol na Zemi. To ich robí fundamentálne inými — a pre severné civilizácie nepochopiteľnými.
+
+**Elaniine bytosti — dizajn**:
+- **Inšpirácia**: Xenomorfy. Nie náhodné monštrá — **navrhnuté vojnové organizmy**. Inteligentné, smrteľné, krásne v svojej hrôze.
+- **Geneticky zakódovaná lojalita**: Úcta ku kráľovnej nie je náboženstvo ani kultúra — je to **v génoch**. Elania to tam dala. Každá bytosť sa rodí s inštinktom poslúchať Stvoriteľku, rovnako ako sa rodí s inštinktom dýchať. Nie je to voľba. Je to biológia.
+- **Inteligentné stroje na zabíjanie**: Nie sú tupé zvieratá. Majú taktické myslenie, komunikujú, plánujú. Ale ich účel je jasný — vojnové nástroje. Elania ich navrhla na boj proti Apex.
+- Paradox: Pohŕda biológiou, ale je najlepšia biologická inžinierka na planéte. Tvorí dokonalé telá, aby dokázala, že telá sú nahraditeľné.
+
+**Elania ako Kráľovná**:
+- Nie bohyňa v zmysle náboženstva — **kráľovná v zmysle úľa**. Jej bytosti ju nepotrebujú uctievať, oni ju **musia** nasledovať. Je to hardcoded.
+- Tower of the Damned je jej úľ — laboratórium, trón aj liahňa v jednom.
+- Pre sever (Nevriss, Graw) sú Beastlands hororové príbehy — legendy o monštrách z juhu, o tvoroch, ktoré sa rodia pripravené zabíjať.
+
+**Kult Stvoriteľky vs. Kult Matky**:
+- **Nevriss** uctievajú Inetis (mŕtvu matku, ktorá tvorila z lásky) → viera v dary, požehnanie, rovnosť
+- **Beastlands** uctievajú Elaniu (živú dcéru, ktorá tvorí z pohŕdania) → viera v účel, poslušnosť, závislosť
+- Matka dáva. Stvoriteľka **vlastní**.
+- Temný zrkadlový obraz — dve náboženstvá, matka a dcéra, opačné hodnoty.
+
+**Večná vojna — Beastlands vs. Apex**:
+- **Prečo vojna**: Elania vie, že Apex (Super-Primáty) chcú prekaziť Veľký Upload. Opice naberajú na sile — technologicky, vojensky, politicky. Sú jediná civilizácia na planéte schopná organizovaného odporu proti jej plánu. Jediny spôsob, ako ich oslabiť, je **bioterror** — vojnové organizmy nasadené na ich územie.
+- **Prečo nie nukleárne zbrane**: Vzájomné zničenie (MAD). Obe strany majú prostriedky na totálnu deštrukciu, ale ani jedna ich nepoužije — výsledkom by bola apokalypsa. Preto vojna prebieha cez biologické zbrane (Elania) vs. technologickú obranu (Apex). Pomalá, krvavá, nekonečná.
+- **Apex**: Technológia zvyšuje biológiu (implantáty, Neural Link, ale stále 100% opičí genóm). Bránia sa, budujú obranné línie, vyvíjajú protiopatrenia.
+- **Beastlands**: Biológia **je** technológia (Elania navrhuje život od nuly — genetické zbrane, ekosystémy ako armády). Útočia, infiltrujú, terorizujú.
+- Vojna trvá storočia — patová situácia. Elania nemôže Apex zničiť. Apex nemôže Elaniu dosiahnuť.
+- **Tower of the Damned** — Elaniina veža v Beastlands, z ktorej riadi experimenty a vojnu.
+- Pre sever (Nevriss, Graw) je táto vojna vzdialená — vedia o nej len z legiend a obchodníckych správ.
 
 ---
 
@@ -235,6 +273,7 @@ Na Achille sa oddelili a založili ríšu **Apex** na Simire. Majú pokročilú 
 | Medvede (Ursus) | Chiméra | Pár jedincov | Tisíce (izolovaní) | Silní, nízke nároky, bez Spiry |
 | Vlky (Lupus) | Chiméra | Pár jedincov | Tisíce (divé) | Teritoriálni, svorková stratégia |
 | Opice (Primate) | Pozdvihnuté | Stovky | Ríša Apex | Vlastná civilizácia na Simire |
+| Elaniine výtvory | Bioengineered | N/A (vznikli na Achille) | Beastlands (juh) | Navrhnuté Elaniou za 2300 rokov |
 | Plazy, vtáky | Chiméra | Jednotlivci | Vyhynuté / mýtické | Príliš málo, zlá klíma |
 
 ---
