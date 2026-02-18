@@ -22,11 +22,14 @@ Démon je niečo horšie. Je to Wraith, ktorý namiesto hľadania elektrického 
 
 ### Prečo to funguje
 
-Gen 1 nanoboty (Wraith) sú **staršia, silnejšia generácia** než Gen 2 (Spira). V hrubej sile je Gen 1 nadradený — bol navrhnutý pre vojnu, deštrukciu a hackovanie. Gen 2 bol navrhnutý Inetis ako stabilná, elegantná, ale **slabšia** verzia pre civilné použitie.
+Gen 1 a Gen 2 nie sú nepriateľské systémy — Inetis navrhla Gen 2 ako **liek a náhradu** Gen 1 počas epidémie Glitch Rot. Jedinci ako Sera, Mormiel či Renn mali oba systémy v symbióze. Gen 2 pozná Gen 1. Boli navrhnuté, aby spolupracovali.
 
-Keď v1.0 roj prenikne do tela s v2.0 systémom, je to ako keď vojnový malware napadne civilný operačný systém. Gen 2 nemá obranu proti Gen 1 hackovaniu — Inetis to nenavrhla ako hrozbu, pretože v čase vzniku Gen 2 boli všetci Gen 1 nositelia mŕtvi alebo v kryostáze.
+Problém nie je kompatibilita — problém je **stav**. Wraith nie je funkčný Gen 1 systém. Je to **rozpadnutý, koruptovaný fragment** — nanoboty bez živého operátora, poháňané rozbitými spomienkami a pudom sebazáchovy. Keď sa tento koruptovaný roj dostane do tela s Gen 2, nehrá podľa pravidiel, ktoré Inetis predpokladala. Gen 2 otvára komunikačné kanály (pretože bol navrhnutý na symbiózu s Gen 1) a práve tieto kanály Wraith zneužije. Dvere, ktoré mali slúžiť spolupráci, sa stanú vstupnou bránou pre parazita.
+
+[FIXME: Dopracovať — prečo Inetis nepredvídala tento scenár? Možno predvídala, ale riešenie by znamenalo odrezať Gen 2 od Gen 1 úplne — čo by znemožnilo Exorcizmus. Trade-off: nechala dvere pootvorené, aby Exorcisti mohli zachraňovať, ale tým umožnila aj posadnutie.]
 
 [→ 03-technology.md: Generácie nanotechnológie — v1.0 vs v2.0]
+[→ 03-technology.md: Glitch Rot — epidémia, motivácia pre Gen 2]
 
 ### Fázy posadnutia
 
@@ -41,7 +44,7 @@ Keď v1.0 roj prenikne do tela s v2.0 systémom, je to ako keď vojnový malware
 ### Kto je zraniteľný
 
 - **Varietas s oslabenou Spirou** — chorí, ranení, vyčerpaní. Slabý Gen 2 = slabá obrana.
-- **Ghorki** — najnižšia kasta, najmenej sofistikovaný Gen 2. Najčastejšie obete.
+- **Ghorki (Chiméry)** — zvieratá s Gen 2, ale primitívnejším než humanoidní Varietas. Jednoduchší systém = menej obrany. [FIXME: Overiť — majú Ghorki vôbec Gen 2? Sú to uplifted animals, nie ľudia. Ak nemajú Gen 2, Wraith by ich infikoval priamo vlastnými Gen 1 nanobotmi — čo je iný mechanizmus než posadnutie.]
 - **Deti** — nedostatočne vyvinutý Gen 2 systém. Príbehy o posadnutých deťoch sú najhoršie legendy.
 - **Každý, kto sa priblíži k silnému Wraithovi** bez ochrany.
 
@@ -83,10 +86,10 @@ Posadnutý nevyzerá ako v horor filmoch. Nie je to exorcizmus s otáčaním hla
 
 | Región | Názov | Doslovný preklad |
 |--------|-------|-------------------|
-| **Nevriss (Juh)** | *Posadnutý Matkou* | Irónia — veria, že je to trest Matky za hriech |
+| **Nevriss (Juh)** | *Posadnutý Samaellom* | Samaell = najhoršie známe zlo. Pre prostý ľud je každý démon jeho dielo. |
 | **Graw (Sever)** | *Mŕtvy-v-živom* | Priamočiare, vojenské pomenovanie |
 | **Východné kráľovstvá** | *Hladný duch* | Buddhistická tradícia — duch, čo žerie životy |
-| **Cirkev Matky** | *Odmietnutý* | Ten, koho Matka zavrhla — démon je trest za nedostatočnú vieru |
+| **Cirkev Matky** | *Skazený* | Ten, koho Dar nedokázal ochrániť — slabá viera = slabá Spira = zraniteľnosť |
 
 ### Poverčivosť vs. Realita
 
@@ -96,7 +99,7 @@ Posadnutý nevyzerá ako v horor filmoch. Nie je to exorcizmus s otáčaním hla
 - Posadnutého treba zabiť — nie je záchrana.
 
 **Čo je pravda:**
-- Posadnutie je technický problém: Gen 1 hacking Gen 2.
+- Posadnutie je technický problém: koruptovaný Gen 1 fragment zneužíva komunikačné kanály, ktoré Gen 2 otvára pre symbiózu.
 - Ochrana: silná Spira (zdravý Gen 2 systém), vyhýbanie sa Wraith teritóriám.
 - Posadnutého **je možné zachrániť** — v Fáze 2-3, ak Exorcista absorbuje Wraith z hostiteľa skôr, než prevezme kontrolu. V Fáze 4+ je to takmer nemožné bez zničenia oboch systémov.
 
@@ -112,9 +115,11 @@ Posadnutý nevyzerá ako v horor filmoch. Nie je to exorcizmus s otáčaním hla
 
 Najsmutnejšie a najdesivejšie legendy zároveň.
 
-Keď zomrie Varietas matka — a jej nanoboty sa odpútajú ako Wraith — fragment vedomia, čo prežije, si nesie **najsilnejšiu spomienku**: svoje dieťa. Ale spomienka je poškodená. Malformed. Wraith si pamätá, že mala dieťa. Pamätá si vôňu. Pamätá si teplo. Ale nepamätá si tvár. Nepamätá si meno. Nepamätá si, koľko rokov malo.
+Hľadačky nie sú Wraithy Varietas matiek — **Varietas nemajú Gen 1**. Sú to Wraithy **pozemských matiek** — žien zo Zeme, ktoré zomreli v Elysiu, v Terre, alebo predkov Varietas z prvých generácií, ktorí ešte mali Gen 1. Keď Nevriss videl, čo Gen 1 spôsobuje — Wraithy, choroby, rozpad — vzdali sa ho. Cenou bol úpadok do stredoveku a závislosť na Gen 2. Ale Wraithy z tých, čo zomreli predtým, ostali.
 
-Výsledok: Wraith mŕtvej matky, čo **chodí od domu k domu a hľadá svoje dieťa**. Nevie, ktoré je jej. Takže skúša. Dotkne sa dieťaťa — Gen 1 nanoboty vniknú do Gen 2 systému dieťaťa, hľadajú „zhodu". Nenájdu. Pokračujú ďalej. Dieťa ostane chorľavé, vystrašené, s nočnými morami na týždne.
+Keď takáto matka zomrela — jej Gen 1 nanoboty sa odpútali ako Wraith — a fragment vedomia, čo prežil, si niesol **najsilnejšiu spomienku**: svoje dieťa. Ale spomienka je poškodená. Malformed. Wraith si pamätá, že mala dieťa. Pamätá si vôňu. Pamätá si teplo. Ale nepamätá si tvár. Nepamätá si meno. Nepamätá si, koľko rokov malo. A jej dieťa je dávno mŕtve — stovky, tisíce rokov.
+
+Výsledok: Wraith dávno mŕtvej matky, čo **chodí od domu k domu a hľadá svoje dieťa**. Nevie, ktoré je jej. Nevie, že jej dieťa už neexistuje. Takže skúša. Dotkne sa dieťaťa — Gen 1 nanoboty vniknú do Gen 2 systému dieťaťa, hľadajú „zhodu". Nenájdu. Pokračujú ďalej. Dieťa ostane chorľavé, vystrašené, s nočnými morami na týždne.
 
 Ale niektoré deti sa **nespamätajú**.
 
@@ -129,7 +134,7 @@ Ale niektoré deti sa **nespamätajú**.
 - Na severe je tradícia zavesiť na okno detskej izby **ametystový kameň** (Spira kryštál) — veria, že jeho energia odpudí Wraithy. Nefunguje to. Ale rodičia to robia aj tak.
 - Exorcisti, čo lovili Hľadačky, hovoria, že absorpcia matčiného Wraithu je najhoršia skúsenosť — fragment matčinej lásky a zúfalstva sa stáva súčasťou Exorcistovej psyché. Niektorí potom mesiace počujú plač dieťaťa, ktoré neexistuje.
 
-*Toto je dôvod, prečo sa Exorcisti zvyčajne nedožívajú staroby. Nie pre boj — pre to, čo nosia v sebe.*
+*A to najhoršie? Exorcisti sa dožívajú extrémneho veku. Gen 1 ich drží nažive desaťročia, storočia. Telo nezomrie. Ale s každým absorbovaným Wraithom je vnútri menej ich a viac cudzích. Starnú telom pomaly — a mysľou rýchlo. Nakoniec ostane len schránka plná fragmentov, čo chodí svetom a nepatrí nikomu.*
 
 ---
 
@@ -137,16 +142,21 @@ Ale niektoré deti sa **nespamätajú**.
 
 ### Prečo sú Exorcisti kľúčoví
 
-Exorcista (Gen 1 nositeľ) je jediný, kto dokáže **vytiahnuť** Wraith z živého hostiteľa. Mechanizmus: rovnaký ako Technovampirizmus — reverse Glitch Rot absorbuje cudzie v1.0 nanoboty z hostiteľovho tela.
+Exorcista (Gen 1 nositeľ) je jediný, kto dokáže eliminovať Wraith z živého hostiteľa. Ale metódy sa líšia:
 
-[→ 03-technology.md: Technovampirizmus — Reverse Glitch Rot]
+**Bežný exorcizmus — `sudo kill -9`**: Väčšina Exorcistov používa hrubú silu. Gen 1 nanoboty Exorcistu násilne prerušia komunikáciu medzi Wraithom a hostiteľovým Gen 2 — v podstate „zabiť proces". Rýchle, brutálne, a často poškodí aj hostiteľov systém. Hostiteľ prežije, ale jeho Gen 2 je na mesiace alebo natrvalo poškodený. Niektorí ostanú bez Spiry navždy.
 
-### Postup
+**Maksov reverse Glitch Rot** — unikátna schopnosť, dar od Inetis. Namiesto zabíjania procesu Maks dokáže **absorbovať** cudzie Gen 1 nanoboty do vlastného systému. Čistejšie, presnejšie, s menším poškodením hostiteľa. Ale s cenou — každý absorbovaný Wraith sa stáva súčasťou Maksa.
+
+[→ 03-technology.md: Technovampirizmus — Reverse Glitch Rot (len Maks)]
+[→ characters/Maks.md: dar od Inetis — unikátna Gen 1 schopnosť]
+
+### Postup (bežný exorcizmus)
 
 1. **Identifikácia** — Exorcista musí rozlíšiť posadnutého od šialeného. Fialový odtieň v očiach, pokles teploty, Gen 1 signatúra.
 2. **Imobilizácia** — Posadnutý sa bráni. Démon nechce opustiť hostiteľa. Fyzická sila + Spira reštrikcie (ak má Exorcista spoločníkov s Gen 2).
-3. **Absorpcia** — Exorcista použije reverse Glitch Rot na extrakciu v1.0 nanobotov z hostiteľovho tela. Bolestivé. Nebezpečné. Wraith sa bráni.
-4. **Čistenie** — Po extrakcii je hostiteľov Gen 2 poškodený. Potrebuje čas na regeneráciu. Niektorí sa nikdy plne nespamätajú.
+3. **Kill** — Exorcista použije vlastný Gen 1 na prerušenie Wraithovej kontroly. Brutálne, rýchle, s kolaterálnym poškodením hostiteľovho Gen 2.
+4. **Čistenie** — Po exorcizme je hostiteľov Gen 2 poškodený. Potrebuje čas na regeneráciu. Niektorí sa nikdy plne nespamätajú. Niektorí stratia Spiru natrvalo.
 
 ### Cena pre Exorcistu
 
@@ -268,7 +278,7 @@ Toto nie je len vtip. Je to presne to, čo si ľudia myslia:
 | **Odmena** | Platení v Prachu (nazbierané nanoboty z Wraithov), nie v peniazoch. Obchodujú s kováčmi a alchymistami, nie s trhom. |
 | **Ubytovanie** | Nikto ich nechce pod strechou. Spia v stajniach, opustených budovách, na okraji miest. |
 | **Partnerstvá** | Takmer nemožné — kto by zdieľal posteľ s niekým, kto konzumuje duchov? |
-| **Dĺžka života** | Krátka — nie kvôli boju, ale kvôli akumulácii cudzích osobností. Väčšina sa „stratí" v sebe do 20-30 rokov praxe. |
+| **Dĺžka života** | Extrémne dlhá — Gen 1 ich drží nažive storočia. Telo nezomrie. Ale myseľ sa rozpadá s každým absorbovaným Wraithom. Väčšina sa „stratí" v sebe — schránka plná cudzích fragmentov, čo chodí svetom a nepatrí nikomu. |
 
 ### Paradox — Spasiteľ a Monštrum
 
