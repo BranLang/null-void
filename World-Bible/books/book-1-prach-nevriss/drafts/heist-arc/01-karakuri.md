@@ -396,7 +396,7 @@ Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nem
 
 Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
 
-Prvá hodina nepriniesla nič užitočné. Barmanička — tučná Mezra s jazvecími pruhmi na lícach — jej nalievala a mlčala. Profesionálne. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
+Prvá hodina nepriniesla nič užitočné. Barmanička — tučná mačka so zošúverenými ušami a tmavými fľakmi na lícach — jej nalievala a mlčala. Profesionálne. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
 
 Tami počúvala. Zbierala útržky. Stráže na Chrámovom námestí sa striedajú každé tri hodiny. Nočná zmena je menšia — väčšina obrancov sa presúva na hradby. Kanalizácia pod Starým mestom je čiastočne prístupná, ale odpočítajte strážne Ghorki psy, ktoré tam nasadili pred týždňom. [→ planning/01-prach-nevriss.md: heist plán, intel o strážach]
 
