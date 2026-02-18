@@ -55,6 +55,29 @@ Problém nie je kompatibilita — problém je **stav**. Wraith nie je funkčný 
 - **Silní Krotitelia** — dokážu odolať v Fáze 3, ak rozpoznajú, čo sa deje.
 - **Exorcisti (Gen 1 nositelia)** — ich vlastný Gen 1 je imúnny voči hackovaniu iným Gen 1 (rovnaká generácia = žiadna výhoda).
 
+### Špeciálny prípad: Symbióza (Echo Inetis v Tami)
+
+Nie každé "posadnutie" je parazitické. Existuje jeden známy prípad **symbiózy** — Echo Inetis v Tami.
+
+**Prečo to nie je klasické posadnutie:**
+- Wraith = koruptovaný, rozpadnutý Gen 1 fragment bez živého operátora. Inetisina esencia **nie je Gen 1** — je interdimenzionálna (vznikla pri kontakte s Tieňovými počas Glitch Eventu). Úplne iná kategória.
+- Klasický Wraith hackuje Gen 2 cez komunikačné kanály navrhnuté pre symbiózu Gen 1 + Gen 2. Inetisina esencia tieto kanály **nemusí hackovať** — Gen 2 ju **pozná**. Inetis ho vytvorila. Dvere sa neotvárajú násilím — otvárajú sa dobrovoľne.
+- Klasické posadnutie = boj (Fáza 3), potom prevzatie (Fáza 4), potom degradácia (Fáza 5). Symbióza = **žiadny boj**. Esencia a hostiteľ koexistujú. Tami zostáva Tami — ale s prístupom k Inetisiným spomienkam, schopnostiam, fragmentom osobnosti.
+
+**Ako to vyzerá:**
+- Fáza 1 (Seed/Semeno, ~AY 3012): Prvý dotyk s Anténou. Dormantné, subtílne — nočné mory v cudzom jazyku, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi.
+- Fáza 2 (Aktivácia, AY 3013): Sera odovzdá Artefakt. Plné prebudenie — schopnosti, spomienky, spojenie.
+- Fáza 3 (Zosilnenie): Blízkosť Inetisiných pozostatkov zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film.
+- Fáza 4 (Kontakt s Core, Book 5): Esencia sa spojí s AI i_net_is v Core.
+
+**Kľúčový rozdiel:** Tami nie je obeť. Nie je uväznená. Je nositeľkou — a spolupracovníčkou. Inetis v nej nie je parazit, ktorý kradne kontrolu, ale **echo**, ktoré ponúka znalosti a moc.
+
+[NOTE: Toto je dôležitý kontrast ku klasickému posadnutiu. Keď Varietas vidia posadnutého, vidia monštrum. Keď by videli Tami — videli by to isté? Je Tami "posadnutá" z pohľadu Cirkvi? Ak áno, je to hereza. Ak nie — prečo nie? Kde je hranica medzi posadnutím a požehnaním?]
+
+[→ characters/Tami.md: Echo Inetis — fázy]
+[→ characters/Inetis.md: Unikátna Esencia, stred pentagramu]
+[→ 03-technology.md: Inetisina Unikátna Esencia — nie Gen 1, nie Gen 2]
+
 ---
 
 ## Ako Vyzerá Démon

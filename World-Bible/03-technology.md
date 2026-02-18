@@ -90,6 +90,32 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
+### Pentagram Ex Inferis — 5 Hrán + Stred
+
+Na Achillovi existuje **6 Ex Inferis** — šesť nositeľov Gen 1 nanotechnológie zo Zeme. Štruktúra zodpovedá **pentagramu** s **5 vrcholmi** a **stredom**:
+
+**5 hrán pentagramu** = 5 elementov Písma Matky (Gen 2 / Spira). Každý Ex Inferis reprezentuje jeden element — nie preto, že by ho ovládali (sú Gen 1, nie Gen 2), ale ako štrukturálna/tematická symetria medzi dvoma generáciami.
+
+| Ex Inferis | Titul | Element | Japonsky | Doména | Status |
+|---|---|---|---|---|---|
+| **Grond** | Archanjel Vojny | **Zem** (Earth) | 土 *tsuchi* | Sever (Graw) | Mŕtvy (AY 3013) |
+| **Samaell** | Archanjel Tieňov | **Oheň** (Fire) | 火 *hi* | Ruiny, Pustatina | Mŕtvy (AY 3001) |
+| **Mormiel** | Požehnaná Matka | **Vzduch** (Wind) | 風 *kaze* | Nevriss City (skrytá) | Živá |
+| **Ishtar (Zaya)** | Archanjel Pôžitku | **Voda** (Water) | 水 *mizu* | Juh, Mesto zrkadiel | Živá |
+| **Maksimilián** | — (nie je Archanjel) | **Kvintesencia** (Quintessence) | 照 *teru* | Nomád | Kóma (AY 3013) |
+
+**Stred pentagramu: Inetis** — OG Ex Inferis, stvoriteľka nanotechnológie, Matka. Nie je hrana — je to, z čoho pentagram **vychádza**. Navrhla Gen 2 aj jeho 5 elementov. Štyria Archanjeli + Maks = 5 hrán. Inetis = bod, v ktorom sa všetky hrany stretávajú.
+
+**Inetis je mŕtva, ale jej dedičstvo žije v troch daroch:**
+1. **Gen 2 / Spira** — dar celej civilizácii Varietas
+2. **`chown` (Netin Patch)** — dar Maksovi (unikátna schopnosť reverse Glitch Rot)
+3. **Esencia Inetis** — v Tami (cez Anténu). Symbiotické "posadnutie" — Echo Inetis žije v Tami nie ako parazit, ale ako **symbióza**. Inetisina esencia nie je Gen 1 Wraith (koruptovaný, agresívny fragment) — je interdimenzionálna, a Gen 2 ju **pozná** (Inetis ho vytvorila). Namiesto boja hostiteľ vs. parazit = spolupráca.
+
+[NOTE: Maks = 5. hrana (kvintesencia, éter — to čo spája ostatné štyri elementy). Inetis = stred (zdroj, stvoriteľka — z nej všetko vzišlo). Pentagram nie je náhodný tvar — Inetis ho navrhla pre Gen 2, a 6 Ex Inferis na planéte ho nevedomky zrkadlí.]
+
+[→ characters/Inetis.md: Unikátna Esencia, tri dary, stred pentagramu]
+[→ characters/Tami.md: Echo Inetis — symbiotické posadnutie]
+
 ### Gen 1 Vizuálny Opis (Pravidlo pre text)
 Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
 - **Neaktívne**: Vyzerajú ako **čierny prach** — jemné tmavé zrnká, takmer neviditeľné
