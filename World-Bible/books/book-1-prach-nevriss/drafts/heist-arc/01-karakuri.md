@@ -396,7 +396,7 @@ Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nem
 
 Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
 
-Prvá hodina nepriniesla nič užitočné. Barmanička — tučná mačka so zošúverenými ušami a tmavými fľakmi na lícach — jej nalievala a mlčala. Profesionálne. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
+Prvá hodina nepriniesla nič užitočné. Barmanička — široká mačka s priškvrknutými ušami a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala a mlčala. Očami nikdy neopustila poháre, ale Tami vedela, že počuje všetko. Ten druh ticha, ktoré sa učí roky za barom. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
 
 Tami počúvala. Zbierala útržky. Stráže na Chrámovom námestí sa striedajú každé tri hodiny. Nočná zmena je menšia — väčšina obrancov sa presúva na hradby. Kanalizácia pod Starým mestom je čiastočne prístupná, ale odpočítajte strážne Ghorki psy, ktoré tam nasadili pred týždňom. [→ planning/01-prach-nevriss.md: heist plán, intel o strážach]
 
@@ -434,7 +434,7 @@ Studený vzduch jej uderil do tváre. Sneh padal hustejšie než ráno — veľk
 
 Štyria. Čakali na ňu pred krčmou. [NOTE: nie náhoda — spoznali Itaku v prístave a jej kapitánku. Čakali pred vchodom, nie v náhodnej uličke — vedeli, kde je.]
 
-Stáli v polkruhu pri vchode, zablokovali úzku uličku medzi krčmou a susedným domom. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dvaja s tupými mečmi a špinavými brneniami, jeden vychudnutý s kušou a ten štvrtý — veľký, s jazvou cez celé čelo a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
+Stáli v polkruhu pri vchode, zablokovali úzku uličku medzi krčmou a susedným domom. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dva mačky — jeden ryšavý s polámnanými fúzmi, druhý sivý, s uchom roztrhaným do troch cípov — oba s tupými mečmi a brneniami, ktoré videli lepšie dni. Vedľa nich vychudnutý pes s kušou a nervóznym chvostom, a ten štvrtý — veľký, ťažký, s jazvou, čo mu prerezávala čelo od obočia po vlasy, a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
 
 „Pekný deň na prechádzku, kapitánka," povedal ten s jazvou. Úsmev mu odhalil dva zlaté zuby. „Alebo by som mal povedať — *líška*?"
 
