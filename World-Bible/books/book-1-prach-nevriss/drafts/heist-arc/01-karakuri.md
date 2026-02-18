@@ -464,6 +464,12 @@ Vynorili sa na vrcholoch pentagramu — jemné, presné, žiariace hiraganou Pí
 
 Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami, zanechávajúce za sebou zlaté stopy ako svetlušky v tme. Alchemické symboly na kruhoch sa rozžiarili v reťazovej reakcii — jeden po druhom, prstenec za prstencom — a medzi nimi prebleskovalo svetlo, tenké lúče spájajúce symbol so symbolom, ako elektrické výboje v sklenenej guli. Vzduch vo vnútri konštrukcie zhustol. Vibroval. Praskalo to tichým statickým nábojom a padajúce snehové vločky, ktoré sa dotkli okraja vonkajšieho prstenca, sa okamžite odparili v záblesku mikroskopických iskier. [NOTE: vizuálny kontrast — zlaté svetlo pentagramu vs biely sneh v tmavej uličke. Alchemická geometria + anime mágia v jednom]
 
+Svet sa spomalil.
+
+Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku — pomaly, tak strašne pomaly — a Tami mala čas spočítať prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia — Spira zrýchľuje spracovanie vnemov u silných operátorov. Subjektívne spomalenie okolia. Obrovská výhoda v boji — čas na premýšľanie, vyhýbanie sa strelám, čítanie pohybov protivníka.] [NOTE: PRVÝ REVEAL dilatácie. Čitateľ nechápe mechanizmus — len vidí, že Tami vníma svet inak. Foreshadowing toho, aká silná je Rennova dcéra.]
+
+*Vidím vás. Každého. Všetko.*
+
 Štít.
 
 Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
