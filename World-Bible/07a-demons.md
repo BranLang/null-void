@@ -109,7 +109,7 @@ Posadnutý nevyzerá ako v horor filmoch. Nie je to exorcizmus s otáčaním hla
 
 - **Reťazový démon z Kharis** (~AY 2500) — silný Wraith (pravdepodobne z Ex Inferis), ktorý preskakoval z hostiteľa na hostiteľa desaťročia. Každé telo vydržalo pár mesiacov, potom sa rozpadlo a Wraith sa presunul na ďalšie. Exorcista, čo ho nakoniec zastavil, bol údajne posledný v regióne.
 
-- **Šepot pod Ynetis** — v ruinách Ynetis (Inetisino mŕtve mesto) sa údajne nedá nikto posadnúť — Wraithy sa tam správajú inak. Nikto nevie prečo. [NOTE: spojenie s Inetisinou Unikátnou Esenciou? Interdimenzionálna Gen vyvažuje Gen 1 pôsobenie?]
+- **Šepot pod Ynetis** — v ruinách Ynetis (Inetisino mŕtve mesto) sa údajne nedá nikto posadnúť — Wraithy sa tam správajú inak. Dôvod: okolo Elysia/Ynetis/The Core krúži **cyklón miliárd Gen 1 nanobotov** — pôvodná produkcia The Foundry (von Neumannov stroj). AI agenti, čo terraformovali planétu a postavili Elysium. Stratili operátora (Inetis odišla do The Core), ale nikdy neprestali krúžiť. Ľudský Wraith, čo sa priblíži k cyklónu, je pohltený obrovskou masou AI roja — ako kvapka v oceáne. Preto sa v okolí Ynetis nedá nikto posadnúť — AI roj neutralizuje ľudské Wraithy skôr, než stihnú niečo urobiť. [→ 03-technology.md: The Foundry — von Neumannov stroj, Gen 1 AI agenti]
 
 ### Matčiny Wraithy — Hľadačky
 
@@ -313,14 +313,52 @@ Zvierací inštinkt im povedal to, čo tisícročia skúseností naučili každ�
 
 ---
 
+## Dva typy Gen 1 Swarmu
+
+Na planéte existujú dva zásadne odlišné typy Gen 1 nanobotov:
+
+| | **Ynetis Cyklón (AI agenti)** | **Ľudské Wraithy** |
+|---|---|---|
+| **Pôvod** | The Foundry — von Neumannove klony, AI agenti čo terraformovali planétu a postavili Elysium | Mŕtvi Gen 1 nositelia (ľudia, pozemšťania) |
+| **Počet** | Miliardy (99%+ celkového Gen 1 na planéte) | Stovky, tisíce |
+| **Stabilita** | Vysoká — žiadne emócie, žiadne spomienky, len inštrukcie | Nízka — rozpadnuté fragmenty osobností, pudová sebazáchova |
+| **Lokácia** | Cyklón okolo Elysia/Ynetis/The Core — krúžia okolo posledného známeho zdroja signálu | Roztrúsené po planéte — viazané na miesta spojené so spomienkami (ruiny, jaskyne, domy) |
+| **Správanie** | Dormantné — čakajú na signál operátora, ktorý nikdy nepríde | Aktívne — hľadajú energiu, niektoré hľadajú hostiteľov |
+| **Pre Maksa (`chown`)** | Čistý výpočtový výkon bez psychického balastu — AI agenti nemajú osobnosť | Každý fragment = cudzia osobnosť v hlave, psychická kontaminácia |
+
+[→ 03-technology.md: The Foundry — von Neumannov stroj]
+[→ 05-geography.md: Ynetis cyklón — Gen 1 nanobot storm okolo ruín]
+
+### Maksov Cataclysm Potenciál
+
+[NOTE: Čitateľ vidí Maksa ako sympatického outcastu — osamelého chlapa, čo zachraňuje ľudí a spí v stajniach. Nikto nemá tušenie, čo sa v ňom hromadí. Toto je slow burn pre neskoršie knihy.]
+
+Maks je **cataclysm in the making**, ale príbeh to odhaľuje pomaly:
+
+- Má Gen 1 (Linux root prístup — žiadne bezpečnostné zábrany)
+- Má `chown` — unikátnu schopnosť, čo nemá nikto iný na planéte
+- S každým exorcizmom rastie jeho roj — viac nanobotov, viac výpočtového výkonu, viac fragmentov
+- Žije storočia (Gen 1 ho drží nažive) — má čas
+- Dar od Inetis — bytosti, čo vytvorila Gen 2 a vstúpila do The Core
+
+**Kľúčové:** Ak by Maks s pomocou antény Null Void `chown`-ol Ynetis cyklón — miliardy AI agentov z The Foundry — dostal by pod kontrolu **planetárnu infraštruktúru**. A na rozdiel od ľudských Wraithov, AI agenti mu **nerozpadajú myseľ** — sú to čisté stroje bez osobnosti. Čistý výkon bez vedľajších účinkov.
+
+Pokušenie: prečo zachraňovať jednotlivcov a trpieť za každého ľudského Wraith, keď môžeš prebrať armádu strojov, čo ti neublížia?
+
+[→ maks-power-arc.md: Netin Patch → maxPower → Anihilácia]
+[→ characters/Maks.md: cataclysm potenciál, `chown` škálovanie]
+
+---
+
 ## Otvorené Otázky
 
 - **Môže sa Wraith posadnúť Maka (biologický android)?** — Maki nemajú Gen 2, ale ich syntetický systém by teoreticky mohol byť hackovateľný iným spôsobom.
 - **Čo ak sa silný Wraith (Ex Inferis) posadne Pursanga s výnimočnou Spirou?** — Boj dvoch silných systémov. Výsledok: chimérická entita? Dual vedomie?
-- **Ynetis anomália** — prečo sa v ruinách Ynetis správajú Wraithy inak?
 - **Reťazové posadnutie** — môže démon preskočiť z hostiteľa na hostiteľa vedome, plánovane? Ak áno — to je strategická hrozba, nie len horor.
 - **Elanine limity** — koľko konštruktov dokáže riadiť súčasne? Je to obmedzené bandwidth, alebo jej v1.7 umožňuje prakticky neobmedzenú kontrolu?
 - **Interakcia Elanin konštrukt vs. Wraith** — ak Wraith napadne Elanin konštrukt, čo sa stane? V1.7 vs v1.0?
+- **Null Void anténa + Ynetis cyklón** — čo by sa stalo, keby niekto (Maks?) použil anténu na broadcast `chown` do cyklónu? Aký dosah by mal control signál? Existuje limit?
+- **AI agenti vs ľudské Wraithy** — sú AI agenti z The Foundry naozaj „bezpečné" pre `chown`? Alebo majú vlastnú formu inteligencie/inštinktov, ktorá by mohla Maksa ohroziť inak než ľudské fragmenty?
 
 ---
 
