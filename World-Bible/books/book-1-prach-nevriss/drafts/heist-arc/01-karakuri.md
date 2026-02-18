@@ -422,27 +422,19 @@ Potom zdvihla pohár. Jedným ťahom ho dopila. Pivo bolo vlažné a hrozné, al
 
 Vlk sa nepohol. Len to jedno zdravé oko ju sledovalo, keď prechádzala cez dym a smrad ku dverám. Trpezlivo. Zvyk bytosti, ktorá celý život čakala.
 
-Pri dverách si nasadila kapucňu a vyšla do mrazu.
+Pri dverách si nasadila kapucňu.
+
+*Kurva.* [NOTE: dvojzmysel — (1) vlk ju spoznal, inkognito je slabšie než si myslela. (2) foreshadowing — to, čo ju čaká za dverami. Čitateľ pri prvom čítaní priradí ku vlkovi. Pri reread pochopí, že možno videla cez škáru vo dverách.]
+
+Vyšla do mrazu.
 
 ---
 
 Studený vzduch jej uderil do tváre. Sneh padal hustejšie než ráno — veľké, mokré vločky, ktoré sa lepili na kabát a topili sa v medených vlasoch. [→ 05-geography.md: Šoraven, zimné podmienky]
 
-*Kurva.*
+Štyria. Čakali na ňu pred krčmou. [NOTE: nie náhoda — spoznali Itaku v prístave a jej kapitánku. Čakali pred vchodom, nie v náhodnej uličke — vedeli, kde je.]
 
-Zastavila sa na kraji ulice. Ruky vo vreckách, hlava sklopená, ale myseľ bežala na plné obrátky.
-
-*Ak jeden starý vlk v jednej krčme dokázal spojiť oči a loď, dokáže to ktokoľvek.* [→ concepts/tami-blind-maiden-pub.md: paranoia seed] Rennov odkaz ju prezrádzal. Otcove modré oči — dar, ktorý nemohla skryť. Kapucňa zakryje uši, ale nie pohľad. A Itaka v prístave — najrýchlejšia vzducholoď na Terre — nebola práve nenápadná. [→ 03-technology.md: Itaka, unikátna konštrukcia]
-
-*Príliš veľa ľudí vidí príliš veľa*, pomyslela si. *Treba sa pohnúť. Rýchlo.*
-
-Vykročila do uličky smerujúcej k Remeselnému okrsku.
-
-A zastavila sa.
-
-Štyria. Čakali na ňu. [NOTE: nie náhoda — spoznali Itaku v prístave a jej kapitánku]
-
-Stáli v polkruhu, zablokovali úzku uličku medzi dvoma kamennými budovami. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dva Mezra s tupými mečmi a špinavými brneniami, jeden vychudnutý Ghorki s kuší a ten štvrtý — veľký, s jazvou cez celé čelo a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
+Stáli v polkruhu pri vchode, zablokovali úzku uličku medzi krčmou a susedným domom. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dvaja s tupými mečmi a špinavými brneniami, jeden vychudnutý s kušou a ten štvrtý — veľký, s jazvou cez celé čelo a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
 
 „Pekný deň na prechádzku, kapitánka," povedal ten s jazvou. Úsmev mu odhalil dva zlaté zuby. „Alebo by som mal povedať — *líška*?"
 
@@ -508,7 +500,7 @@ Tami videla, ako sa to šíri skupinou — rozpoznanie. Nie tváre, nie mena. Ni
 
 *Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá, prostý ľud sa ich bojí]
 
-Muž s jazvou spravil krok dozadu. Nevedome. Telo rozhodlo skôr, než hlava. Ghorki s kušou ju už spúšťal k zemi — pomaly, opatrne, aby ten pohyb nevyzeral ako hrozba. Dvaja Mezra s mečmi sa na seba pozreli a bez slova sa začali vytláčať z uličky bokom, cez dieru v múre, ktorú Tami predtým nevidela.
+Muž s jazvou spravil krok dozadu. Nevedome. Telo rozhodlo skôr, než hlava. Ghorki s kušou ju už spúšťal k zemi — pomaly, opatrne, aby ten pohyb nevyzeral ako hrozba. Dvaja s mečmi sa na seba pozreli a bez slova sa začali vytláčať z uličky bokom, cez dieru v múre, ktorú Tami predtým nevidela.
 
 O päť sekúnd bola ulička prázdna. Len stopy v čerstvom snehu.
 
