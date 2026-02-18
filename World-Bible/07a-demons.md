@@ -142,20 +142,20 @@ Ale niektoré deti sa **nespamätajú**.
 
 ### Prečo sú Exorcisti kľúčoví
 
-Exorcista (Gen 1 nositeľ) je jediný, kto dokáže eliminovať Wraith z živého hostiteľa. Ale metódy sa líšia:
+Exorcista (Gen 1 nositeľ) je jediný, kto dokáže eliminovať Wraith z živého hostiteľa. Gen 1 je Linux — surový, priamy, command-line prístup. Wraith je Gen 1 proces. Varietas s Gen 2 nemôžu s ním komunikovať natívne (Gen 2 nie je Linux — iný systém, kompatibilný, ale bez priameho prístupu ku Gen 1 procesom). Preto sú Exorcisti nenahraditeľní. Ale metódy sa líšia:
 
-**Bežný exorcizmus — `sudo kill -9`**: Väčšina Exorcistov používa hrubú silu. Gen 1 nanoboty Exorcistu násilne prerušia komunikáciu medzi Wraithom a hostiteľovým Gen 2 — v podstate „zabiť proces". Rýchle, brutálne, a často poškodí aj hostiteľov systém. Hostiteľ prežije, ale jeho Gen 2 je na mesiace alebo natrvalo poškodený. Niektorí ostanú bez Spiry navždy.
+**Bežný exorcizmus — `kill -9`**: Väčšina Exorcistov používa hrubú silu. Exorcistov Gen 1 identifikuje Wraith ako cudzí proces a pošle `kill -9` — násilné ukončenie bez cleanup, bez varovania. Signál sa nedá zachytiť, nedá sa ignorovať. Wraith zomrie. Ale `kill -9` nerozlišuje — zasiahne aj komunikačné kanály medzi Wraithom a hostiteľovým Gen 2. Kolaterálne škody. Hostiteľ prežije, ale jeho Gen 2 je na mesiace alebo natrvalo poškodený. Niektorí ostanú bez Spiry navždy.
 
-**Maksov reverse Glitch Rot** — unikátna schopnosť, dar od Inetis. Namiesto zabíjania procesu Maks dokáže **absorbovať** cudzie Gen 1 nanoboty do vlastného systému. Čistejšie, presnejšie, s menším poškodením hostiteľa. Ale s cenou — každý absorbovaný Wraith sa stáva súčasťou Maksa.
+**Maksov `chown`** — unikátna schopnosť, dar od Inetis. Namiesto zabitia procesu Maks zmení **vlastníctvo** — preberie Wraithov Gen 1 roj pod kontrolu vlastného systému. Wraith nie je zničený, je **privlastnený**. Čistejšie, presnejšie, s menším poškodením hostiteľa — lebo Maks nemusí ničiť komunikačné kanály, len presmerovať kontrolu. Ale s cenou — každý `chown`-utý Wraith sa stáva súčasťou Maksa. Fragmenty cudzích vedomí sa hromadia, pretože ich nezabil — prevzal.
 
-[→ 03-technology.md: Technovampirizmus — Reverse Glitch Rot (len Maks)]
-[→ characters/Maks.md: dar od Inetis — unikátna Gen 1 schopnosť]
+[→ 03-technology.md: Technovampirizmus — `chown` (len Maks)]
+[→ characters/Maks.md: dar od Inetis — unikátna Gen 1 schopnosť (`chown`)]
 
 ### Postup (bežný exorcizmus)
 
 1. **Identifikácia** — Exorcista musí rozlíšiť posadnutého od šialeného. Fialový odtieň v očiach, pokles teploty, Gen 1 signatúra.
 2. **Imobilizácia** — Posadnutý sa bráni. Démon nechce opustiť hostiteľa. Fyzická sila + Spira reštrikcie (ak má Exorcista spoločníkov s Gen 2).
-3. **Kill** — Exorcista použije vlastný Gen 1 na prerušenie Wraithovej kontroly. Brutálne, rýchle, s kolaterálnym poškodením hostiteľovho Gen 2.
+3. **`kill -9`** — Exorcistov Gen 1 pošle kill signál na Wraith proces. Brutálne, rýchle, bez cleanup — kolaterálne poškodenie hostiteľovho Gen 2.
 4. **Čistenie** — Po exorcizme je hostiteľov Gen 2 poškodený. Potrebuje čas na regeneráciu. Niektorí sa nikdy plne nespamätajú. Niektorí stratia Spiru natrvalo.
 
 ### Cena pre Exorcistu
@@ -164,7 +164,7 @@ Každý absorbovaný Wraith pridáva **fragmenty cudzej osobnosti** do Exorcisto
 
 *Exorcista, ktorý oslobodí príliš veľa posadnutých, riskuje, že sa sám stane mozaikou cudzích vedomí.*
 
-[→ 03-technology.md: Technovampirizmus — trade-off, kontaminácia identity]
+[→ 03-technology.md: Technovampirizmus — `chown` trade-off, kontaminácia identity]
 [→ characters/Maks.md: Samaellova paranoja, Grondova krutosť — fragmenty absorbovaných osobností]
 
 ---
