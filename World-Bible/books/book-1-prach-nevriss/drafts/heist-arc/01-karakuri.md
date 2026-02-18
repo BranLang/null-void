@@ -382,7 +382,7 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 ---
 
 ## Krčma U Slepej Panny
-[→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna]
+[→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna] [→ concepts/tami-blind-maiden-pub.md: Mezra seed — "Rennovo mláďa"]
 
 Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]
 
@@ -392,75 +392,163 @@ Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nem
 
 Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
 
-*Potrebujem sprievodcu*, pomyslela si. *Alebo zázrak.*
+Prvá hodina nepriniesla nič užitočné. Barmanička — široká mačka s priškvrknutými ušami a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala a mlčala. Očami nikdy neopustila poháre, ale Tami vedela, že počuje všetko. Ten druh ticha, ktoré sa učí roky za barom. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
 
-Dostala vlka.
+Tami počúvala. Zbierala útržky. Stráže na Chrámovom námestí sa striedajú každé tri hodiny. Nočná zmena je menšia — väčšina obrancov sa presúva na hradby. Kanalizácia pod Starým mestom je čiastočne prístupná, ale odpočítajte strážne Ghorki psy, ktoré tam nasadili pred týždňom. [→ planning/01-prach-nevriss.md: heist plán, intel o strážach]
 
-„Nestrieľaj, líška." [→ characters/Vlk.md: prvý dialóg]
+*Málo*, pomyslela si. *Ale začiatok.*
 
-Hlas prišiel spod stola. Nízky, chraptivý, pomalý — hlas bytosti, ktorú nikto nepočúva a ktorá si zvykla čakať.
+Dopíjala druhé pivo, keď to ucítila. Pohľad. Nie z vedľajšieho stola — zdola.
 
-Tami stuhla. Ruka jej automaticky skĺzla k pištoli. Pod stolom sa pohli dve šedé oči — jedno jasné, druhé zakalené šedým závojom. A potom sa z tieňa vynoril vlk.
+Pod stolom sa pohli dve šedé oči — jedno jasné, druhé zakalené šedým závojom. [→ characters/Vlk.md: Ghorki zradca, poznal Renna]
 
-Veľký. Nie kolosálny — nie ako tie legendy z Ľadového Mostu, čo sa rozprávali v krčmách na severe — ale väčší než jazvec, čo pred chvíľou vyhodili z lokálu za bitku. [→ 05-geography.md: Ľadový Most, Grawský sever] Šedá srsť, miestami vypadaná, matná, špinavá. Jazvy na ľavom uchu — odhryznuté, starý boj. Vyzeralo to, akoby ho mesto žuvalo roky a potom vypľulo.
-
-Ghorki. Chiméra. Quadrupedálny — žiadne ruky, žiadna bipedálna postava. Skutočný vlk, ktorý hovoril. [→ 06-society.md: Ghorki Chiméry, quadrupedálne bytosti s takmer ľudskou inteligenciou]
+Veľký vlk. Šedá srsť, miestami vypadaná, matná, špinavá. Jazvy na ľavom uchu — odhryznuté, starý boj. Vyzeralo to, akoby ho mesto žuvalo roky a potom vypľulo. Ghorki. Chiméra. Quadrupedálny — žiadne ruky, žiadna bipedálna postava. Skutočný vlk, ktorý hovoril. [→ 06-society.md: Ghorki Chiméry, quadrupedálne bytosti s takmer ľudskou inteligenciou]
 
 V Nevriss boli Ghorki neviditeľní. Nikto si nevšimol vlka pod stolom. Nikto nikdy nevšimol vlka nikde.
 
-„Poznám tie oči," povedal vlk. Pomaly, akoby každé slovo stálo námahu. „Modré. Nosil ich muž v trojhrannom klobúku."
+Vytiahol hlavu nad okraj dosky. Zakalené oko sa uprelo na Tami.
 
-Tami prestala dýchať.
+„Ty musíš byť Rennovo mláďa," povedal. Pomaly, akoby každé slovo stálo námahu. „Tie oči sedia." [→ characters/Renn.md: Renn Ólafsson, modré oči, tulák] [→ concepts/tami-blind-maiden-pub.md: vlk spoznáva modré oči + Itaku]
 
-*Trojhranný klobúk.*
+Tami prestala dýchať. Na zlomok sekundy.
 
-„Renn," zašeptala. Meno jej otca sa jej vyšmyklo z úst skôr, než ho stihla zastaviť. [→ characters/Renn.md: Renn Ólafsson, trojhranný klobúk, tulák]
+Potom zdvihla pohár. Jedným ťahom ho dopila. Pivo bolo vlažné a hrozné, ale nedala na sebe nič znať. Položila pohár na stôl, nechala vedľa neho pár drobných a vstala.
 
-Vlk prikývol. Pomaly, ťažko, akoby aj ten pohyb niečo stál.
+„S niekým si ma mýliš," povedala ľahko. [NOTE: inštinkt — Tami vie, že spojenie oči + Itaka = nebezpečné]
 
-„Prešiel tu. Dávno. Pätnásť zím. Možno dvadsať." Zakalené oko sa uprelo na Tami. „Bol som mladší. Hladný. Na ulici." Odmlčal sa. „Dal mi jesť. Sušené mäso z batohu. Bez otázok. Bez podmienok." [→ characters/Vlk.md: backstory, stretnutie s Rennom]
+Vlk sa nepohol. Len to jedno zdravé oko ju sledovalo, keď prechádzala cez dym a smrad ku dverám. Trpezlivo. Zvyk bytosti, ktorá celý život čakala.
 
-*Dal mi jesť. Nikto iný to neurobil.*
+Pri dverách si nasadila kapucňu.
 
-V krčme sa niekto zasmial. Zvonku zadunel výbuch — ďaleký, grawský, nad priesmykmi. Nikto nezdvihol hlavu. Zvykli si.
+*Kurva.* [NOTE: dvojzmysel — (1) vlk ju spoznal, inkognito je slabšie než si myslela. (2) foreshadowing — to, čo ju čaká za dverami. Čitateľ pri prvom čítaní priradí ku vlkovi. Pri reread pochopí, že možno videla cez škáru vo dverách.]
 
-„Vzal ma na pár dní," pokračoval vlk. „Potreboval sprievodcu, čo pozná ulice. Ja som poznal každú uličku." Hlas mu na okamih zmäkol — a to bolo skutočné, Tami to cítila. Ani zradca nemohol predstierať ten tón. „Platil dobre. Neponižoval ma."
+Vyšla do mrazu.
 
-Tami hľadela na vlka. Medené vlasy jej padali cez líce a skrývali výraz, ktorý nechcela ukázať nikomu. Spomienka na otca bola teplá — a teplo bolelo viac než chlad.
+---
 
-„Prečo mi to hovoríš?" spýtala sa. Hlas mala tvrdý. Oči mäkké. Kontrast, ktorý nevedela skryť.
+Studený vzduch jej uderil do tváre. Sneh padal hustejšie než ráno — veľké, mokré vločky, ktoré sa lepili na kabát a topili sa v medených vlasoch. [→ 05-geography.md: Šoraven, zimné podmienky]
 
-„Lebo tvoj otec mi dal jesť, keď mi nikto iný nedal." [→ characters/Vlk.md: motivácia, pravdivé spomienky na Renna]
+Štyria. Čakali na ňu pred krčmou. [NOTE: nie náhoda — spoznali Itaku v prístave a jej kapitánku. Čakali pred vchodom, nie v náhodnej uličke — vedeli, kde je.]
 
-*Pravda. Celá pravda. A aj tak ju predá. Preto je to tak bolestivé.* [NOTE: dramatická irónia — čitateľ to zistí neskôr]
+Stáli v polkruhu pri vchode, zablokovali úzku uličku medzi krčmou a susedným domom. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dva mačky — jeden ryšavý s polámnanými fúzmi, druhý sivý, s uchom roztrhaným do troch cípov — oba s tupými mečmi a brneniami, ktoré videli lepšie dni. Vedľa nich vychudnutý pes s kušou a nervóznym chvostom, a ten štvrtý — veľký, ťažký, s jazvou, čo mu prerezávala čelo od obočia po vlasy, a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
 
-Tami dlho mlčala. Pivo v hrubom keramickom pohári chladlo. Vlk čakal. Trpezlivo. Zvyk bytosti, ktorá celý život čakala.
+Nikto nič nepovedal. Ten s jazvou sa len usmial — pomaly, široko, bez očí — a spravil krok vpred. Ostatní tiež. Nie rýchlo. Nemuseli.
 
-„Poznáš toto mesto?" spýtala sa nakoniec.
+*Spoznali Itaku*, uvedomila si Tami. Prístav bol plný očí. Vzdušná loď s označením, ktoré nebolo z Nevriss, a mladá líška s modrými očami pri kormidle? V meste plnom žoldnierov a pašerákov to bola informácia, ktorá sa predávala za pár mincí. [→ concepts/tami-blind-maiden-pub.md: Itaka ako identifier] [NOTE: nie Inkvizícia — len oportúnisti. Nepotrebujú hovoriť — Tami vie, čo chcú. Čitateľ tiež.]
 
-„Každú dieru. Každý kanál. Každú mŕtvu uličku." [→ characters/Vlk.md: navigátor v Šoravene]
+Tami spravila tri veci naraz.
 
-„A Chrám?"
+Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina rapier, Felix legacy] Oceľový rapier zasyčal, keď vyšiel z pošvy — zvuk, na ktorý si Tami zvykla ako na vlastný dych. Ľavú ruku vystrelila vpred, prsty roztvorené, a stisla čeľusť.
 
-Vlk sa na ňu pozrel. To jedno zdravé oko bolo ostré — ostrý pohľad zvieraťa, ktoré prežilo, pretože vedelo, kedy kto klame.
+Vzduch medzi ňou a žoldniermi zavibroval. [→ 03-technology.md: Spira = nanotech, pentagramový systém]
 
-„Aj Chrám."
+Nanoboty v jej krvi — tie tiché, neviditeľné nanoboty, ktoré Cirkev nazývala Darom Matky — zareagovali na jej vôľu. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] [→ characters/Tami.md: Spira na 200% — Maksov vedecký prístup oslobodil od cirkevných dogiem]
 
-Tami dopila pivo. Položila pohár na stôl. Rozhodnutie padlo v tej istej sekunde, keď vlk vyslovil otcovo meno. Vedela to. A nenávidela sa za to — za tú slabosť, za ten ťah srdca, za to, že spomienka na mŕtveho otca stačila na to, aby dôverovala cudzincovi.
+Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou a srsťou bežali čiary tetovaní, schémy obvodov, makrá, ktoré Felix vtetoval do jej kože, keď mala trinásť. Rýchly štít, tichý, nenápadný. Žoldnieri by nevideli nič — len vzduch medzi nimi a ňou by zrazu nepoddajne stuhol. [→ 06-society.md: WaSpira tetovania = externé makrá pre rýchle vyvolanie spellov] [→ characters/Tami.md: Felix ju trénoval od detstva]
 
-„Poď," povedala a vstala.
+Ale Tami nechcela potichu.
 
-Vlk vstal. Ticho, bez zvuku — pohyb bytosti, ktorú nikto nesmie vidieť. Prešiel pod stolmi, popri nohách pijanov, cez dym a smrad, a nikto — *nikto* — si ho nevšimol.
+*Nech vidia.*
 
-Na ulici sa zastavil vedľa nej. Sneh mu sadal na šedú srsť.
+Pred jej ľavou dlaňou sa rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA — Tami otvára plné IDE namiesto makra. Dôvod: flex + zastrašenie. Gen 2 nanotech nevyžaduje IDE na bežné operácie — tetovania stačia. IDE je ako otvoriť terminál namiesto kliknutia na ikonu. Tami to robí, aby žoldnieri videli pentagram a pochopili, s kým majú do činenia.]
 
-„Kam ideme, líška?"
+Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Päť vrcholov, päť hrán, dokonalá geometria zavesená v priestore centimetre od jej prstov. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
+
+Potom kruhy.
+
+Okolo pentagramu sa začali vynárať sústredné prstence — jeden, dva, tri — každý väčší než predchádzajúci, rotujúce opačnými smermi. Na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce, kruhy v kruhoch — ktoré vyzerali ako vyryté do zlatého kovu. Jemné línie spájali prstence s pentagramom, radiálne, presné, ako lúče v ciferníku. Celá konštrukcia sa vznášala a pomaly rotovala s tichým bzučaním — nie mechanickým, skôr ako vibrácia struny napnutej medzi dvoma svetmi. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku] [NOTE: PRVÝ REVEAL pentagramového IDE. Kombinácia mágia + geometria — čitateľ vidí „čary", ale pozorný oko uvidí systém. Foreshadowing pravej podstaty Spiry.]
+
+A potom — znaky.
+
+Vynorili sa na vrcholoch pentagramu — jemné, presné, žiariace hiraganou Písma Matky. Tami poznala každý jeden, Felix ju ich naučil čítať skôr, než vedela držať zbraň. *Kaze.* Vietor. *Mizu.* Voda. *Teru.* Svetlo. *Hi.* Oheň. A v strede, vo vnútri pentagramu, ten posledný — *Tsuchi.* Zem. Hmota. Päť elementov. Päť príkazov. Abeceda všetkého, čo Spira dokáže. [→ 03-technology.md: 5 elementov pentagramu — Vzduch, Voda, Kvintesencia, Oheň, Zem] [NOTE: PRVÝ REVEAL elementov pre čitateľa. Toto sú „ikony" na ktoré Krotiteľ „kliká" vôľou. Čitateľ to netuší — vidí len krásu a mágiu.]
+
+Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami, zanechávajúce za sebou zlaté stopy ako svetlušky v tme. Alchemické symboly na kruhoch sa rozžiarili v reťazovej reakcii — jeden po druhom, prstenec za prstencom — a medzi nimi prebleskovalo svetlo, tenké lúče spájajúce symbol so symbolom, ako elektrické výboje v sklenenej guli. Vzduch vo vnútri konštrukcie zhustol. Vibroval. Praskalo to tichým statickým nábojom a padajúce snehové vločky, ktoré sa dotkli okraja vonkajšieho prstenca, sa okamžite odparili v záblesku mikroskopických iskier. [NOTE: vizuálny kontrast — zlaté svetlo pentagramu vs biely sneh v tmavej uličke. Alchemická geometria + anime mágia v jednom]
+
+Štít.
+
+Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
+
+V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky Písma Matky, *kaze*, *mizu*, *teru*, *hi*, *tsuchi*, tancujúce na omietke medzi tieňmi koncentrických kruhov a alchemických symbolov, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
+
+*Cena*, pripomenula si Tami. *Každá sekunda niečo stojí.* Cítila, ako sa jej prsty na ľavej ruke ochladzujú — teplo tela premenené na energiu. Nanoboty čerpali z nej. Z jej krvi, z jej svalov, z jej tepla. Malý štít, jednoduchý príkaz, a aj tak ju to stálo viac, než bola ochotná priznať. [→ 03-technology.md: Spira = vždy má cenu, únava/materiál]
+
+Muž s jazvou zaváhal. Ostatní tiež. Pentagram a rapier — *Dar Matky a oceľ*. Ghorki banditi nečakali od nejakej aeronautky ani jedno, nieto oboje.
+
+„Posledná šanca odísť," povedala Tami. Hlas jej neznel vystrašene. Znel ako človek, čo počíta. *Štyria. Kuša. Palcát. Dva meče. Úzka ulička — výhoda pre rapier, nevýhoda pre palcát. Kuša je problém.* [NOTE: Tamino taktické myslenie — Maksov výcvik]
+
+Napla nohy. Nadel v pravej ruke, hrot smerujúci na jazvu. Štít v ľavej, kryjúci hruď. Felix ju učil bojovať s rapierom v útočnom postoji — penetrácia, nie seky. Maks ju naučil, kedy bojovať a kedy utekať. Teraz nebol priestor na útek.
+
+Ten s jazvou otvoril ústa —
+
+„Odporúčam poslúchnuť."
+
+Hlas prišiel zozadu. Pokojný. Hlboký. S prízvukom Staroreči, ktorý nedovoľoval odpor. [→ characters/Maks.md: Staroreč = angličtina/ukrajinčina, prízvuk starý 3000 rokov]
+
+Maks stál na konci uličky. Temný kabát, tmavé okuliare, ruky za chrbtom. Nepohol sa. Ani nemusel.
+
+Ghorki s kušou sa otočil prvý. A stuhol. [NOTE: Ghorki majú zvierací inštinkt — cítia predátora]
+
+Tami videla, ako sa to šíri skupinou — rozpoznanie. Nie tváre, nie mena. Niečo hlbšie. Niečo zvieracie. Inštinkt, ktorý hovoril *utekaj* ešte predtým, než mozog stihol spracovať informáciu. Tmavé okuliare. Čierny kabát. Nehybnosť dravca, ktorý nemusí loviť, pretože korisť sama vie, že nemá šancu.
+
+*Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá, prostý ľud sa ich bojí]
+
+Muž s jazvou spravil krok dozadu. Nevedome. Telo rozhodlo skôr, než hlava. Ghorki s kušou ju už spúšťal k zemi — pomaly, opatrne, aby ten pohyb nevyzeral ako hrozba. Dvaja s mečmi sa na seba pozreli a bez slova sa začali vytláčať z uličky bokom, cez dieru v múre, ktorú Tami predtým nevidela.
+
+O päť sekúnd bola ulička prázdna. Len stopy v čerstvom snehu.
+
+Tami pustila štít. Energia sa rozplynula a chlad v prstoch sa rozlial do celej ľavej ruky. Stisla päsť, aby sa zahriala. Nadel vrátila do pošvy jediným pohybom — rýchlym, čistým, Felixovým.
+
+Maks k nej prišiel. Bez náhlenia. Akoby sa nič nestalo.
+
+„Príliš nápadná, maličká." [→ characters/Maks.md: vzťah k Tami, mentor/učeň dynamika]
+
+Tami zaťala zuby. „Mala som to pod kontrolou."
+
+„Určite." Bez výrazu. Bez irónie. Čo bolo horšie než oboje.
+
+---
+
+„Líška."
+
+Hlas prišiel z tieňa za smetným košom. Nízky, chraptivý. [→ characters/Vlk.md: prvý dialóg na ulici]
+
+Tami stuhla. Ruka jej automaticky skĺzla k Nadlu. Maks sa nepohol — ale jeho hlava sa nepatrne naklonila. Registroval.
+
+Z tieňa sa vynoril vlk. Ten istý. Šedá srsť, zakalené oko, odhryznuté ucho. Prešiel cez sneh ticho ako dych a zastavil sa dva metre od nich. [→ characters/Vlk.md: Ghorki Chiméra, navigátor v Šoravene]
+
+Vlkovo zdravé oko preskočilo z Tami na Maksa. Na tmavé okuliare, na čierny kabát, na tú nehybnosť. Uši sa mu na okamih pritisli k hlave — inštinkt. Potom sa spamätal.
+
+„Rennovo mláďa a Exorcista na jednej lodi," povedal vlk. Pomaly, s váhou každého slova. „To nebolo ťažké spojiť. Loď v prístave pozná pol doku. Líška s modrými očami — to si ľudia zapamätajú." Zakalené oko sa uprelo na Tami. „O hodinu bude vedieť celé mesto, že v Šoravene je líška, čo hľadá cestu do kobiek." [→ concepts/tami-blind-maiden-pub.md: paranoia — ak jeden Mezra vie, vie aj Sera. A Inkvizícia.]
+
+*O hodinu.* Tami cítila, ako sa jej žalúdok stiahol.
+
+Maks sa ozval prvýkrát od príchodu vlka. Hlas pokojný. Vecný. Akoby komentoval počasie.
+
+„O hodinu bude mať toto mesto iné problémy." [→ concepts/battle-logistics.md: obliehanie Šoraven, Grawský útok]
+
+V diaľke — na severe, za priesmykmi Atra, kde sa šedá obloha miešala s dymom — zadunel výbuch. Nie osamotený, nie náhodný. Séria. Rytmická. Ťažká. Dunenie, ktoré cítiš v kostiach skôr, než ho počuješ ušami.
+
+Artileria. [→ 06-society.md: Graw vs Nevriss konflikt, obliehanie]
+
+Nie prieskumný ostreľovanie, aké mesto počúvalo posledné dni. Toto bola príprava. Prípravná paľba pred útokom.
+
+Vlk nastražil uši smerom k severu. Aj on to vedel. Zviera na ulici rozumie duneniu lepšie než generál za stolom.
+
+Tami sa pozrela na Maksa. Na jeho tvári nebolo nič čitateľné. Ale tá drobná vráska medzi obočím — tá, ktorú po siedmich rokoch po jeho boku poznala lepšie než vlastný podpis — bola hlbšia než ráno.
+
+*On to čakal*, uvedomila si. *Vedel, že prídu. A chce to využiť.*
+
+„Dlžím niečo Rennovi," povedal vlk. Hlas mu na okamih zmäkol — a to bolo skutočné, Tami to cítila. „Bol ku mne férový. Zaslúži si, aby niekto postrážil jeho mláďa." [→ characters/Vlk.md: motivácia — pravdivé spomienky na Renna, ALE zamlčaná krivda] [NOTE: Vlk zámerne nepovie, že ho Renn po pár zimách vyhodil z posádky Itaky a nechal hniť šesť zím v Šoravene. Dlh a krivda v jednom — preto ho jedného dňa predá. Reread value: "Dlžím niečo Rennovi" dostane úplne iný význam.]
+
+Tami sa naňho pozrela. Na šedú srsť, na zakalené oko, na jazvy starých bojov. Spomienka na otca bola teplá — a teplo bolelo viac než chlad. *Rennovo mláďa.* Tento vlk poznal jej otca. Slúžil mu. A teraz stál pred ňou v snehu a ponúkal pomoc. [→ characters/Renn.md: Renn Ólafsson, tulák, modré oči]
+
+*Dlžím niečo Rennovi.* Pravda. Celá pravda. Až na tú časť, ktorú nepovedal. [NOTE: dramatická irónia — čitateľ ani Tami netušia o krivde. Zradí ich v Ch3.]
 
 „Ulica Mŕtvych zvonov," odpovedala Tami. „Číslo 42." [→ notes/CHAPTER-NOTES.md: Ciferník, adresa z Mako dielne]
 
-Vlk prikývol a vykročil vpred. Nos pri zemi, uši nastavené, oči skenujúce každý tieň. Prvý člen tímu naverbovaný.
+Vlk prikývol a vykročil vpred. Nos pri zemi, uši nastavené, oči skenujúce každý tieň. Na severe dunela artileria. Sneh padal na mesto, na vojakov, na mŕtvych a živých.
 
-*Ďakujem, otec*, pomyslela si Tami. *Aj mŕtvy mi ešte pomáhaš.*
+Tami vykročila za ním. Maks vedľa nej. Tri tiene v bielom snehu.
 
 Nevedela, koľko ju to bude stáť.
 
