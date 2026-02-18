@@ -444,7 +444,7 @@ Tami spravila tri veci naraz.
 
 Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina rapier, Felix legacy] Rapier zasyčal von z pošvy — zvuk, na ktorý si zvykla ako na vlastný dych. Ľavú ruku vystrelila vpred, prsty roztvorené. Stisla čeľusť.
 
-Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou a srsťou bežali čiary tetovaní. Rýchle, tiché, nenápadné. Žoldnieri by nevideli nič. [→ 06-society.md: WaSpira tetovania = externé makrá] [→ characters/Tami.md: Felix ju trénoval od detstva]
+Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou bežali čiary tetovaní. Rýchle, tiché, nenápadné. Žoldnieri by nevideli nič. [→ 06-society.md: WaSpira tetovania = externé makrá] [→ characters/Tami.md: Felix ju trénoval od detstva]
 
 Ale Tami nechcela potichu.
 
@@ -474,9 +474,7 @@ Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do 
 
 Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
 
-V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky Písma Matky, *kaze*, *mizu*, *teru*, *hi*, *tsuchi*, tancujúce na omietke medzi tieňmi koncentrických kruhov a alchemických symbolov, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
-
-*Cena*, pripomenula si Tami. *Každá sekunda niečo stojí.* Prsty na ľavej ruke jej chladli. Malý štít, a aj tak ju to stálo viac, než bola ochotná priznať. [→ 03-technology.md: Spira = vždy má cenu, únava/materiál]
+V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky a kruhy tancujúce na omietke, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
 
 Muž s jazvou zaváhal. Ostatní tiež. Pentagram a rapier — *Dar Matky a oceľ*. Ghorki banditi nečakali od nejakej aeronautky ani jedno, nieto oboje.
 

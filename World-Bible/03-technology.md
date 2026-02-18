@@ -425,6 +425,17 @@ Palné zbrane sú devastujúce proti bežným cieľom (Ghorki, zvieratá), ale s
 - **Vychýlenie**: Varietas so silnou Spirou (napr. čistokrvný Pursang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
 - **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného Krotiteľa.
 
+### 3. Cena za Boj: Gen 1 vs Gen 2
+
+| | **Gen 1 (Maks/Archanjeli)** | **Gen 2 / Spira (Varietas)** |
+|---|---|---|
+| **Sila** | Silnejšia — priamy prístup, žiadne bezpečnostné zábrany | Slabšia — bezpečnejšia, regulovaná |
+| **Cena za použitie** | **Kus vlastného vedomia** — spomienky, charakter, identita. Každé nasadenie Gen 1 v boji niečo stojí. Nenávratne. | **Žiadna** — Gen 2 nemá daň za používanie. Inetis ju navrhla ako bezpečný systém. |
+| **Dlhodobý efekt** | Postupná erózia vlastnej osobnosti. Archanjeli to riešia **technovampirizmom** — kradnú spomienky obetí (cez Zber) a používajú cudzie spomienky ako palivo pre svoju mágiu. Nestrácajú seba, ale žijú z cudzích. Maks túto schopnosť **má** (je Ex Inferis), ale **nepoužíva ju** — morálna voľba. Platí vlastnými spomienkami. | Žiadny — Varietas môže používať Spiru celý život bez vedľajších účinkov. |
+| **Prečo je to tak** | Gen 1 = vojenská nanotech zo Zeme, nie na dlhodobé používanie. Navrhnutá na misie, nie na storočia. | Gen 2 = Inetis opravila tento problém. Bezpečná, dedičná, bez degradácie. |
+
+[NOTE: Toto je kľúčový trade-off celej série. Gen 1 je silnejšia, ale žerie ti dušu. Gen 2 je slabšia, ale zadarmo. Maks platí za každý boj kúskom seba — a nikto o tom nevie.]
+
 ---
 
 ## Glitch Rot (Hniloba)
