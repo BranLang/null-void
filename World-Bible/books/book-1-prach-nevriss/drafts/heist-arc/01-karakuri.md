@@ -436,13 +436,9 @@ Studený vzduch jej uderil do tváre. Sneh padal hustejšie než ráno — veľk
 
 Stáli v polkruhu pri vchode, zablokovali úzku uličku medzi krčmou a susedným domom. Žoldnieri — alebo niečo medzi žoldniermi a pouličnými zlodejmi. Ten druh, čo si nevyberáte, kým nemusia. Dva mačky — jeden ryšavý s polámnanými fúzmi, druhý sivý, s uchom roztrhaným do troch cípov — oba s tupými mečmi a brneniami, ktoré videli lepšie dni. Vedľa nich vychudnutý pes s kušou a nervóznym chvostom, a ten štvrtý — veľký, ťažký, s jazvou, čo mu prerezávala čelo od obočia po vlasy, a palcátom, ktorý vyzeral, akoby ním už dnes niekoho udrel. [→ 06-society.md: žoldnierska kultúra v obkľúčenom meste]
 
-„Pekný deň na prechádzku, kapitánka," povedal ten s jazvou. Úsmev mu odhalil dva zlaté zuby. „Alebo by som mal povedať — *líška*?"
+Nikto nič nepovedal. Ten s jazvou sa len usmial — pomaly, široko, bez očí — a spravil krok vpred. Ostatní tiež. Nie rýchlo. Nemuseli.
 
-*Spoznali Itaku*, uvedomila si Tami. Prístav bol plný očí. Vzdušná loď s označením, ktoré nebolo z Nevriss, a mladá líška s modrými očami pri kormidlo? V meste plnom žoldnierov a pašerákov to bola informácia, ktorá sa predávala za pár mincí. [→ concepts/tami-blind-maiden-pub.md: Itaka ako identifier]
-
-Ghorki s kušou zdvihol zbraň o pár centimetrov. Nie mieril — ešte nie. Ale chcel, aby vedela, že by mohol.
-
-„Vrátky na lodi, alebo ten kráľovský žold za Exorcistu a jeho spoločníčku," pokračoval jazva. „Nič osobné. Vojnové časy." [NOTE: nie Inkvizícia — len oportúnisti, čo chcú zinkasovať za info o Exorcistovi]
+*Spoznali Itaku*, uvedomila si Tami. Prístav bol plný očí. Vzdušná loď s označením, ktoré nebolo z Nevriss, a mladá líška s modrými očami pri kormidle? V meste plnom žoldnierov a pašerákov to bola informácia, ktorá sa predávala za pár mincí. [→ concepts/tami-blind-maiden-pub.md: Itaka ako identifier] [NOTE: nie Inkvizícia — len oportúnisti. Nepotrebujú hovoriť — Tami vie, čo chcú. Čitateľ tiež.]
 
 Tami spravila tri veci naraz.
 
