@@ -438,19 +438,15 @@ Nikto nič nepovedal. Ten s jazvou sa len usmial — pomaly, široko, bez očí 
 
 Tami spravila tri veci naraz.
 
-Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina rapier, Felix legacy] Oceľový rapier zasyčal, keď vyšiel z pošvy — zvuk, na ktorý si Tami zvykla ako na vlastný dych. Ľavú ruku vystrelila vpred, prsty roztvorené, a stisla čeľusť.
+Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina rapier, Felix legacy] Rapier zasyčal von z pošvy — zvuk, na ktorý si zvykla ako na vlastný dych. Ľavú ruku vystrelila vpred, prsty roztvorené. Stisla čeľusť.
 
-Vzduch medzi ňou a žoldniermi zavibroval. [→ 03-technology.md: Spira = nanotech, pentagramový systém]
-
-Nanoboty v jej krvi — tie tiché, neviditeľné nanoboty, ktoré Cirkev nazývala Darom Matky — zareagovali na jej vôľu. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] [→ characters/Tami.md: Spira na 200% — Maksov vedecký prístup oslobodil od cirkevných dogiem]
-
-Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou a srsťou bežali čiary tetovaní, schémy obvodov, makrá, ktoré Felix vtetoval do jej kože, keď mala trinásť. Rýchly štít, tichý, nenápadný. Žoldnieri by nevideli nič — len vzduch medzi nimi a ňou by zrazu nepoddajne stuhol. [→ 06-society.md: WaSpira tetovania = externé makrá pre rýchle vyvolanie spellov] [→ characters/Tami.md: Felix ju trénoval od detstva]
+Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou bežali čiary tetovaní. Rýchle, tiché, nenápadné. Žoldnieri by nevideli nič. [→ 06-society.md: WaSpira tetovania = externé makrá] [→ characters/Tami.md: Felix ju trénoval od detstva]
 
 Ale Tami nechcela potichu.
 
 *Nech vidia.*
 
-Pred jej ľavou dlaňou sa rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA — Tami otvára plné IDE namiesto makra. Dôvod: flex + zastrašenie. Gen 2 nanotech nevyžaduje IDE na bežné operácie — tetovania stačia. IDE je ako otvoriť terminál namiesto kliknutia na ikonu. Tami to robí, aby žoldnieri videli pentagram a pochopili, s kým majú do činenia.]
+Pred jej ľavou dlaňou sa rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA — IDE namiesto makra. Flex + zastrašenie. Čitateľ ešte nevie čo to je — len vidí, že to žiari a žoldnieri sa boja.]
 
 Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Päť vrcholov, päť hrán, dokonalá geometria zavesená v priestore centimetre od jej prstov. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
 
@@ -460,17 +456,21 @@ Okolo pentagramu sa začali vynárať sústredné prstence — jeden, dva, tri �
 
 A potom — znaky.
 
-Vynorili sa na vrcholoch pentagramu — jemné, presné, žiariace hiraganou Písma Matky. Tami poznala každý jeden, Felix ju ich naučil čítať skôr, než vedela držať zbraň. *Kaze.* Vietor. *Mizu.* Voda. *Teru.* Svetlo. *Hi.* Oheň. A v strede, vo vnútri pentagramu, ten posledný — *Tsuchi.* Zem. Hmota. Päť elementov. Päť príkazov. Abeceda všetkého, čo Spira dokáže. [→ 03-technology.md: 5 elementov pentagramu — Vzduch, Voda, Kvintesencia, Oheň, Zem] [NOTE: PRVÝ REVEAL elementov pre čitateľa. Toto sú „ikony" na ktoré Krotiteľ „kliká" vôľou. Čitateľ to netuší — vidí len krásu a mágiu.]
+Vynorili sa na vrcholoch pentagramu — jemné, presné, žiariace hiraganou Písma Matky. *Kaze. Mizu. Teru. Hi.* A v strede — *Tsuchi.* [→ 03-technology.md: 5 elementov pentagramu — Vzduch, Voda, Kvintesencia, Oheň, Zem] [NOTE: PRVÝ REVEAL elementov. Čitateľ netuší čo znamenajú — len vidí krásu. Vysvetlenie príde neskôr.]
 
 Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami, zanechávajúce za sebou zlaté stopy ako svetlušky v tme. Alchemické symboly na kruhoch sa rozžiarili v reťazovej reakcii — jeden po druhom, prstenec za prstencom — a medzi nimi prebleskovalo svetlo, tenké lúče spájajúce symbol so symbolom, ako elektrické výboje v sklenenej guli. Vzduch vo vnútri konštrukcie zhustol. Vibroval. Praskalo to tichým statickým nábojom a padajúce snehové vločky, ktoré sa dotkli okraja vonkajšieho prstenca, sa okamžite odparili v záblesku mikroskopických iskier. [NOTE: vizuálny kontrast — zlaté svetlo pentagramu vs biely sneh v tmavej uličke. Alchemická geometria + anime mágia v jednom]
+
+Svet sa spomalil.
+
+Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku — pomaly, tak strašne pomaly — a Tami mala čas spočítať prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia — Spira zrýchľuje spracovanie vnemov u silných operátorov. Subjektívne spomalenie okolia. Obrovská výhoda v boji — čas na premýšľanie, vyhýbanie sa strelám, čítanie pohybov protivníka.] [NOTE: PRVÝ REVEAL dilatácie. Čitateľ nechápe mechanizmus — len vidí, že Tami vníma svet inak. Foreshadowing toho, aká silná je Rennova dcéra.]
+
+*Vidím vás. Každého. Všetko.*
 
 Štít.
 
 Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
 
-V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky Písma Matky, *kaze*, *mizu*, *teru*, *hi*, *tsuchi*, tancujúce na omietke medzi tieňmi koncentrických kruhov a alchemických symbolov, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
-
-*Cena*, pripomenula si Tami. *Každá sekunda niečo stojí.* Cítila, ako sa jej prsty na ľavej ruke ochladzujú — teplo tela premenené na energiu. Nanoboty čerpali z nej. Z jej krvi, z jej svalov, z jej tepla. Malý štít, jednoduchý príkaz, a aj tak ju to stálo viac, než bola ochotná priznať. [→ 03-technology.md: Spira = vždy má cenu, únava/materiál]
+V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky a kruhy tancujúce na omietke, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
 
 Muž s jazvou zaváhal. Ostatní tiež. Pentagram a rapier — *Dar Matky a oceľ*. Ghorki banditi nečakali od nejakej aeronautky ani jedno, nieto oboje.
 

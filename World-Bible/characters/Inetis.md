@@ -6,6 +6,7 @@
 | **Vek** | Stáročia (nanotech dlhovekosť) |
 | **Herný nick** | **i_net_is** |
 | **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
+| **Pentagram** | **Stred** — OG Ex Inferis, nie hrana, ale zdroj. Navrhla Gen 2 aj jeho 5 elementov. Z nej vychádza celý pentagram Ex Inferis. |
 | **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
 
 ![Inetis](../assets/Inetis.png)
