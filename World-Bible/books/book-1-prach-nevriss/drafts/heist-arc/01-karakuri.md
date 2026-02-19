@@ -34,6 +34,8 @@ Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-
 
 *Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
 
+Vedľa nej Nix ležala na chrbte pod rozvodným potrubím, len ruky a chvost trčali spod panelov. Mačka nadávala v štyroch jazykoch naraz. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
+
 Odtiahla sa od motora a oprela si chrbát o stenu. Zavrela oči. Len na chvíľu.
 
 Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne sústredenie. Museli vypnúť motory míle pred prístavom a nechať loď kĺzať tichým pádom, aby ich nezachytili Grawské akustické zrkadlá na hrebeňoch hôr. Dokĺzať zotrvačnosťou do doku sedemnásť, s poškodeným čerpadlom a vetrom v chrbte, bola hra nervov. Stačila jedna chyba a skončili by rozbití o útesy.
@@ -42,21 +44,17 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
-*Musí existovať jednoduchší spôsob, ako ukradnúť najstráženejší artefakt v krajine*, pomyslela si. Ale keby existoval, jej priatelia by neboli v kobkách. [→ planning/peaceful-squishing-glacier.md: priatelia živí v kobkách]
+*Arkot. Yera.* [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela]
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. Boli to hľadači pokladov. Spolu preskúmali jaskyňu, mapu k nej zdedila po otcovi. Tami hľadala poklad — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale niečo tam bolo. Niečo, čo nemali nájsť.
+Mená prišli samy. Nepýtali sa o dovolenie.
 
-Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Potom jeho telo upálili na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+Zakopaní v kobkách pod Chrámom Vševedúcej Matky. Mesiace. Správy, čo sa k nej dostali — šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť.
 
-Flintov popol. Ten prach na námestí.
+*Čo im robili? Čo im robili celé tie mesiace?*
 
-Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zakopaní v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
+Tami stisla kľúč. Kĺby zbieleli.
 
-*Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
-
-Správy, čo sa k nej dostali cez Nyau — s trojmesačným oneskorením, šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť. [→ 05-geography.md: Nyau, východné pobrežie]
-
-A teraz bola tu. V meste, kde jej zabili jedného priateľa a dvoch ďalších držali pod zemou. S plánom ukradnúť vec, za ktorú Flint zomrel — a vyslobodiť tých, čo ešte dýchali.
+A Flint. Flint bol mŕtvy. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Telo vystavili na námestí. [→ 06-society.md: Cirkev, inkvizičné praktiky]
 
 S mužom, ktorému nedokázala odpustiť.
 
@@ -222,7 +220,7 @@ Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a p
 
 ![Confrontation](../../../../assets/characters/Tami/tami_shoraven_holstered.png)
 
-Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — väčšinou Ghorki, nízka kasta bez Daru. [→ 03-technology.md: Ghorki = najnižšia kasta, žiadna nanotech integrácia] Boli to mohutné postavy s hrubou srsťou a výraznými zvieracími črtami, tí, čo nikdy neokúsili posvätný Dar. [→ 06-society.md: Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
+Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — mohutné postavy s hrubou srsťou a výraznými zvieracími črtami. [→ 06-society.md: Ghorki, Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,"* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
@@ -230,7 +228,7 @@ Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matk
 
 Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho s Darom.
 
-Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou najnižšia kasta, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
+Na rohu stál agitátor Kultu — vychudnutá postava s kozími rohmi a očami plnými fanatického ohňa. [→ 06-society.md: Kult Matky, agitátori] [→ 12-genre-positioning.md: atmosféra NIE JE fat, black metal vibe] Kričal do trúby, ktorá mu zosilňovala hlas na celú ulicu: *„Grond je falošný boh! Grond je mŕtvy! Matka žije! Matka vidí! Kto padne za Matku, vstane po jej boku v Záhrade Svetla!"* [→ 06-society.md: Grond = božstvo Graw] Okolo neho sa zhŕkol malý dav — väčšinou tí bez Daru, ale mali vieru. Kývali hlavami. Niektorí plakali. Niektorí sa modlili, ruky zopäté, oči zatvorené.
 
 ---
 
@@ -255,17 +253,15 @@ Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďale
 
 To slovo jej prišlo na myseľ samo, tiché a ťažké ako prvá kvapka dažďa na vyprahnutú zem. Posvätná sila. Dych Matky. Dar, ktorý pretekal žilami tohto sveta — a rozhodoval, kto bude žiť a kto bude slúžiť. [→ 03-technology.md: Spira = nanotech ekosystém]
 
-Jedno malé dievčatko s mačacími ušami — Ghorki, najnižšia kasta — natiahlo ruku k ohnivej myške, ktorá práve prebehla popri jej nohách. Prstíky sa takmer dotkli žiariaceho tvora. Dievčatko sa nesmálo. Dievčatko sa *divilo*. Veľké, tmavé oči, dokorán otvorené, ústa mierne pootvorené. Taký výraz majú len deti, keď vidia niečo, čo ešte nechápu, ale už vedia, že to chcú.
+Jedno malé dievčatko s mačacími ušami natiahlo ruku k ohnivej myške, ktorá práve prebehla popri jej nohách. Prstíky sa takmer dotkli žiariaceho tvora. Dievčatko sa nesmálo. Dievčatko sa *divilo*. Veľké, tmavé oči, dokorán otvorené, ústa mierne pootvorené. Taký výraz majú len deti, keď vidia niečo, čo ešte nechápu, ale už vedia, že to chcú.
 
 Kováč ju nežne zachytil za zápästie. Kľakol si k nej, tvár na úrovni jej očí. *„Len sa pozeraj, maličká,"* povedal láskavo. *„Matka ti dá Spiru, keď príde tvoj čas."*
 
 Klamal.
 
-Vedel to. Tami to vedela. Každý dospelý na tom námestí to vedel. Ghorki sa rodia bez Spiry a umierajú bez nej. Žiadny „čas" pre ňu nepríde. Ale kováč klamal tak nežne, tak presvedčivo, že na okamih — na jeden jediný, krehký okamih — sa dievčatko usmialo. [→ 03-technology.md: Spira aplikácie, Mezra kasta]
+Vedel to. Tami to vedela. Každý dospelý na tom námestí to vedel. Žiadny „čas" pre ňu nepríde. Ale kováč klamal tak nežne, tak presvedčivo, že na okamih — na jeden jediný, krehký okamih — sa dievčatko usmialo. [→ 03-technology.md: Spira aplikácie]
 
 *A v tom úsmeve bolo všetko*, pomyslela si Tami. *Celý tento svet. Krása a krutosť v jednom dychu.*
-
-Kastový systém fungoval aj bez reťazí. Pursang, Mezra, Ghorki — slobodní, ale bez Spiry. [→ 03-technology.md: kastový systém, nanotech stratifikácia] A sloboda bez Spiry bola v tomto svete len iné slovo pre bezmocnosť.
 
 Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
