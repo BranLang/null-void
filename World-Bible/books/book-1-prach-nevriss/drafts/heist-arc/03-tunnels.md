@@ -33,7 +33,7 @@ Znovu sa pohli, čľapkajúc v hluku vody, no Tamin nepokoj stúpal.
 Vlk sa zrazu zastavil. Jeho uši, doteraz stiahnuté dozadu, sa napriamili a nos zachytil pach zhora.
 „Niečo tu smrdí," povedal ticho do šerej tmy. „Pôjdem pozrieť napred cez ten ventilačný prieduch. Vy sa tam nezmestíte."
 Tami prikývla. „Zisti, čo vidia senzory hore, a vráť sa."
-Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo na stene, pretiahol sa do úzkej pukliny v keramickom obklade a zmizol v tme. Zostal po ňom len pach mokrej srsti, ktorý sa rýchlo vytratil. A Tami aj Maks čoskoro zistia, že Vlk sa už nikdy nevráti. Zradil ich za žold inkvizície.
+Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo na stene, pretiahol sa do úzkej pukliny v keramickom obklade a zmizol v tme. Zostal po ňom len pach mokrej srsti, ktorý sa rýchlo vytratil.
 
 Maks ďalej istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
@@ -230,7 +230,7 @@ Maks stál v tme na svojej strane zavalu. Optika mu kreslila mapu — fragment, 
 
 „Kito," povedal Maks cez sutiny. „Tvoje mapy. Je tam obchvat?"
 
-Šuchot papiera. Kitov rozochvený hlas: „Ventilácia Beta-Seven. Vedie pod kobky Chrámu zo severu. Dlhšia cesta, ale... priechodná."
+Šuchot papiera. Kitov rozochvený hlas: „Ventilačná šachta. Sedmička — tá so starým symbolom na vstupe. Vedie pod kobky Chrámu zo severu. Dlhšia cesta, ale... priechodná."
 
 „Choďte tade. Stretneme sa pri bráne."
 
@@ -247,3 +247,267 @@ Maksove ústne kútiky sa nepatrne pohli. Nikto to nevidel.
 „Pohyb," povedal a otočil sa do tmy.
 
 ---
+
+## Časť IV: Kobky
+
+Ventilačná šachta bola úzka ako hrob a smrdela rovnako.
+
+Tami liezla prvá. Kolená na zhrdzavenom plechu, lakte odierané o nízky strop. Plech pod ňou sa prehýbal a praskotal s každým pohybom — starý, unavený kov, ktorý nebol stavaný na to, aby po ňom niekto liezol. Bol stavaný na to, aby ním prúdil vzduch. Teraz ním prúdila len voda — tenký pramienok, čo stekal po dne šachty a premáčal jej kolená, studený ako psí čumák.
+
+Za ňou Kito. Počula jeho dýchanie — ťažké, príliš rýchle. Ruksak s mapami mu škrípal o steny. Oči za prasknutými, mokrými okuliarmi videli na tri metre a aj to rozmazane, ale jeho hlas fungoval. [→ CHAPTER-NOTES.md: Kito stratil okuliare v tuneloch]
+
+„Vpravo," povedal monotónne. „Tretia odbočka. Dole."
+
+Autopilot archivára. Mapy, ktoré videl pred hodinou, mu ešte stále svietili za očami ako vypálené obrazy. Telo sa pohybovalo mechanicky. Mozog navigoval. Všetko medzi tým — Experimenty, bombardovanie, priatelia premenení na monštrá, kolaps stropu — bolo zabalené a odložené niekam, kam teraz nedosiahol. [→ 03-tunnels.md: Experimenty = Dren, Yara, tretia — Kitovi priatelia]
+
+Neskôr. Neskôr sa zrúti. Teraz lezie.
+
+Šachta sa zvažovala. Ostrejšie. Tami sa zachytila o hranu — prsty sa jej zaťali do hrdze — a zvyšok tela sa zošmykol po mokrom plechu. Dopadla na kameň. Tvrdý, suchý, iný.
+
+*Kobky.*
+
+Vzduch tu bol suchší. Studený, stojatý, napáchnutý potom a strachom a čímsi starším — rok za rokom napusteným do kameňa. Chodba sa tiahla pred nimi, lemovaná železnými dverami po oboch stranách. Väčšina otvorených — za nimi nič. Prázdne cely s reťazami na stenách a škvrnami na podlahách, ktoré boli príliš tmavé na to, aby bola len voda.
+
+Dunenie z povrchu sem doliehalo len ako hlboký, vzdialený pulz. Grawské delostrelectvo. Kameň ho filtroval na niečo takmer hudobné — tupé údery v nepravidelnom rytme, ako srdce mesta, ktoré ešte bije.
+
+Tami sa zastavila. Zdvihla päsť. *Stoj.*
+
+Na konci chodby — svetlo. Olejová lampa na háku v stene, kopcovitý plameň, čo vrhal chvejúce sa tiene na klenbu. A pod ňou — stolička. A na stoličke — strážnik.
+
+Mladý. Mezra. Kočkovitá tvár — krátke tmavé fúzy, široký nos, uši stiahnuté nabok v polospánku. [→ 06-society.md: Mezra = stredná kasta, bežní vojaci] Na sebe uniformu Chrámovej stráže, ale zle padnúcu — príliš veľká v ramenách, príliš dlhá v rukávoch. Nováčik, ktorého niekto obliekol do toho, čo zostalo v sklade. Na nohách čižmy so zlomenou prackou. Puška oprená o stenu vedľa neho — nie v rukách. Hlava opadnutá na hruď. Ťažká hodina Sai ho ťahala do zeme rovnako ako všetkých. [→ 03-tunnels.md: „Ťažká hodina. Stráže ostanú sedieť na zadku."]
+
+Za jeho chrbtom — dvoje zatvorených dverí. Posledné cely na konci chodby. Zamknuté.
+
+Tami sa otočila ku Kitovi. Kito sa na ňu pozeral — vedel, čo príde. Oči za rozbitými okuliarmi boli prázdne. Pred hodinou by protestoval. Pred hodinou bol ešte Kito — knihovník, veriaci, muž, čo veril, že život je svätý. Teraz bol len muž, čo videl príliš veľa.
+
+Nepovedal nič.
+
+Tami vytiahla Nadel. Rapier zasyčal von z pošvy — ten zvuk, na ktorý si zvykla ako na vlastný dych. [→ CHAPTER-NOTES.md: Nadel = Felix legacy]
+
+Vykročila.
+
+Líščie nohy na kameni — mäkké, tiché. Dvanásť krokov. Desať. Osem. Cítila vlastný pulz v hrdle, v prstoch, v špičkách uší. Lampa pred ňou praskala a chvela sa. Tiene na stene sa hýbali — jej tieň medzi nimi, dlhý a tenký, s ušami.
+
+Strážnik sa pohol.
+
+Otvoril oči. Pomaly — ospanlivo, ťažko — ako niekto, kto sa prebúdza z hlbokého spánku. Zamrkal. A potom uvidel to, čo nemalo byť.
+
+Silueta v chodbe. Líščie uši. Tyrkysové oči svietiace v šere ako dve studené hviezdy.
+
+Chlapec siahol po puške. Ruka vystrelila nabok — inštinkt, nie rozmysel — a prsty sa zavreli okolo pažby. Strhol ju k ramenu. Celé telo sa mu naplo, stolička sa prevrátila dozadu s rinčaním, ktoré sa rozletelo chodbou ako výstrel.
+
+*Skoro.*
+
+Tami stisla čeľusť. Pentagram na ľavom predlaktí vzplanul — žltý záblesk, ostrý ako blesk v zatvorenej miestnosti. [→ 03-technology.md: Gen 2 Spira defense] [→ 01-karakuri.md: obranný inštinkt, nie vedomá voľba] Prstenec zlatého svetla sa rozlial okolo jej tela — tenký, vibrujúci, sotva viditeľný — ale *tam*. Štít.
+
+Výstrel.
+
+Rana v uzavretom priestore bola ako päsť do ucha. Ozvena sa odrazila od klenby, od stien, zovšadiaľ naraz. Guľka zasiahla štít — iskry, *cinknutie* kovu o svetlo — a odrazila sa do stropu, kde vyrazila kus kameňa veľký ako päsť.
+
+Tami bežala.
+
+Tri kroky. Štyri. Nadel v pravej ruke, hrot vpred. Štít v ľavej, kryjúci hruď. Rapier bol stavaný na toto — na šprint, na penetráciu, na jedno jediné miesto, kam musí vojsť. Felix ju to učil od detstva. *Bež rovno. Bod vpred. Nechaj oceľ nájsť cestu.*
+
+Chlapec nabíjal. Manuálny záver — ťah dozadu, ťah dopredu — a Tami videla, ako sa mu trasú prsty. Videla, ako mu záver skĺzne. Ako ho chytí znova. Ako dvíha hlaveň.
+
+*Nestihneš.*
+
+Posledný krok. Odraz. Celá váha tela za hrotom rapiera — stodvadsať libier líšky, uvoľnených do jediného bodu na špičke Nadla.
+
+Vošiel pod kľúčnu kosť. Hladko. Oceľ cez mäso — teplé, mokré, živé. Cez pľúca. Zastavil sa medzi rebrami na druhej strane.
+
+Puška klesla. Rána z nej vyšla do podlahy — tupý, zbytočný zvuk, náboj, čo zasiahol len kameň.
+
+Strážnik sa na ňu pozeral.
+
+Boli od seba na dĺžku rapiera — menej než meter. Tak blízko, že cítila jeho dych. Cítila, ako sa mu chveje telo okolo čepele. Videla mu do očí — žlté, mačacie, rozšírené — a v nich nebola nenávisť. Nebol hnev. Len *prekvapenie*. Čisté, detské prekvapenie niekoho, kto sa práve zobudil do sveta, kde sa takéto veci dejú jemu.
+
+Ústa sa mu otvorili. Zvuk — nie slovo, len začiatok slova. „Ne—"
+
+Krv namiesto zvyšku.
+
+Padol. Nadel vykĺzol von — mokrý, teplý, červený. Tami stála nad ním. Lampa praskala. Tiene sa hýbali. Chlapec ležal na chrbte a pozeral sa na strop otvorenými očami, ústa v tom nedokončenom slove, a jeho hruď sa ešte stále dvíhala. Pomaly. Bublavo. S mokrým zvukom, ktorý hovoril, že pľúca robia niečo, na čo neboli navrhnuté.
+
+Tamina ruka s Nadelom sa netriasla.
+
+A *to* bolo to najhoršie. Keď zabíjala Experimenty — Varietas, *svojich* — triasla sa. Palce jej kĺzali na zásobníku. Dych sa jej lámal. Musela to skrývať pred Maksom. Teraz? Nič. Nadel v ruke, krv na čepeli, telo na zemi. Ruka pevná ako skala. [→ 03-tunnels.md: „Tami čistila pištoľ, ale jej pohyby neboli plynulé... Ruky sa jej triasli."]
+
+*Myslela si, že to bude ťažšie.* [NOTE: echo pre budúce kapitoly — keď Tami zabije znova]
+
+Skrčila sa k telu. Oči — žlté, mačacie — ešte stále otvorené. Ešte stále na ňu pozerali. Odvrátila pohľad. Prsty našli opasok — kožený, ošúchaný — a na ňom železný krúžok s tromi kľúčmi.
+
+Kito stál za ňou. Nepovedal nič. Pozeral sa na telo — na uniformu, na tvár, na krv — a nič. Pred hodinou by padol na kolená. Pred hodinou by sa modlil. Teraz len stál a čakal, kým Tami nájde kľúče.
+
+Vstala. Kľúče v ľavej ruke. Nadel v pravej — neutretý, stále mokrý.
+
+Prvá cela.
+
+---
+
+Zámok zaškrípal. Dvere — ťažké, železné, s priezorom veľkým ako dlaň — sa otvorili dovnútra.
+
+Pach ju zasiahol prvý. Pot. Hnis. Moč. Mesiace nemytého tela v priestore veľkom ako skriňa. [→ characters/Arkot.md: väzeň v kobkách, mesiace mučenia]
+
+Arkot ležal v rohu na holom kameni. Bez slamy, bez prikrývky. Reťaze na zápästiach — dlhé natoľko, aby mohol ležať, nie natoľko, aby mohol stáť vzpriamene. Leopardie telo, kedysi hbité a elegantné, bolo teraz len kostra s kožou — rebrá viditeľné pod matnou, špinavou srsťou, kĺby opuchnuté, na zápästiach strhnutá koža od reťazí. Tvár opuchnutá na jednej strane — starý úder, dávno zahojený šikmo.
+
+Svetlo z chodby dopadlo na jeho tvár.
+
+Otvoril oči. Leopardie. Zlaté. Na okamih prázdne — mesiace v tme naučili jeho oči nečakať nič dobré. Potom zaostrili. [→ characters/Arkot.md: Felis/Leopard, Mezra, navigátor]
+
+„Tami...?"
+
+Hlas ako štrk. Mesiace nepoužívaný. Suché pery sa roztvorili a praskli — kvapka krvi v kútiku úst, okamžite stratená v špine na brade.
+
+A potom — úsmev. Slabý. Roztrasený. Taký krehký, že sa zdalo, že sa rozpadne skôr, než ho dokončí. Ale *skutočný*. Prvý skutočný úsmev, ktorý tá tvár urobila za veľmi dlhý čas.
+
+Tami kľakla. Kolená na mokrom kameni. Kľúč do zámku reťaze — ruka sa jej triasla. *Teraz* sa triasla. Keď zabíjala, bola pevná. Keď odomykala priateľa — prsty kĺzali po železe, klzké od krvi, ktorá nebola jej.
+
+„Dýchaj," zašepkala. Nevedela, či to hovorí jemu alebo sebe.
+
+Zámok cvakol. Reťaz spadla. Arkot si chytil zápästie — strhnutá koža, staré krvavé škrupiny — a pozrel na ňu. Na krv na jej rukách. Na Nadel — mokrý, červený. Na jej tvár.
+
+Videl niečo, čo predtým nevidel. Nevedel to pomenovať. Neskúsil. Len jej chytil ruku — slabo, sotva stisk — a držal ju.
+
+„Poďme," povedala Tami. Hlas tvrdý. Príliš tvrdý na to, aby bol prirodzený. „Zvládneš stáť?"
+
+Arkot sa postavil. Pomaly. Oprel sa o stenu. Nohy sa mu triasli, kolená podlamovali. Ale stál.
+
+---
+
+Druhá cela.
+
+Tretí kľúč. Dvere sa otvorili.
+
+A Tami stuhla.
+
+Cela bola *čistá*. Žiadne reťaze. Žiadne šmuhy. Na zemi čerstvá slama — voňavá, suchá, nedávno vymenená. V rohu hlinená miska s jedlom — chlieb, sušené mäso, hrsť orechov — nedotknutá, ale čerstvá. Pri stene džbán s vodou. [→ characters/Yera.md: Mormiel ju „skladuje" pre Rituál. Čistá cela. Nové šaty. Jedlo.]
+
+A na slame, v rohu cely, oprená chrbtom o stenu — Yera.
+
+Bola menšia, než si ju Tami pamätala.
+
+Sedela s nohami podtiahnutými pod seba, ruky v lone — tenké, bledé, mesiace bez slnka. Chrbtom sa opierala o studený kameň s nehybnosťou niekoho, kto sa naučil sedieť veľmi dlho a veľmi ticho. Lanové rúcho — kedysi biele, teraz zašedivené a fľakaté — viselo na nej ako na vešiaku. Príliš veľké. Chrámové. Na hrubej látke boli vyšité symboly Vševedúcej Matky — šesťcípa hviezda, slnko, oči — ale plátno bolo zodraté na lakťoch a kolenách, akoby v ňom Yera spala, jedla, žila. Mesiace. Pod rúchom presvitali kosti ramien a kľúčne kosti — nie vychudnutá ako Arkot, nie hladujúca, ale *zmenšená*. Ako keby sa mesiace v tme stiahla do seba a zabudla sa vrátiť. [→ characters/Yera.md: Pursang, krásna — „a to je jej prekliatie"]
+
+Tmavé vlasy — kedysi krátke, po ramená, lesklé, husté — teraz dlhšie. Mesiace rastu. Ale stále čisté. Umyté. *Niekto ju umýval.* [→ characters/Yera.md: „Kňažky ju udržiavajú v perfektnom stave — čisté vlasy, voňavé oleje"] Tami si to všimla a cítila, ako sa jej žalúdok obrátil. Mučenie by bolo jednoduchšie pochopiť.
+
+Mačacie ušká — malé, čierne, jemné — boli stiahnuté dozadu, pritlačené k hlave. Nie v strachu. V *návyku*. Tak dlho v tejto pozícii, že si ich zabudla pustiť. Krátky tmavý chvost — takmer neviditeľný pod rúchom — ležal nehybne na slame.
+
+A oči.
+
+Modré. Hlboké. Pursangové — tá istá modrá, akú mala Tami. Na prvý pohľad si ich mohol zameniť — rovnaký vek, rovnaká výška, rovnaké modré oči. Kým ste si nevšimli medenú srsť a líščie uši na jednej a čierne vlasy a mačacie ušká na druhej. Ako sestry. Vždy to tak o nich hovorili. [→ characters/Yera.md: „Vyzerá ako Tami. Ako sestry. A tak sa aj správajú."]
+
+Ale tie modré oči boli *prázdne*. Nie ako Kitove — Kitova prázdnota bola čerstvá, šoková, hodinu stará. Yerina bola *stará*. Mesiace stará. Usadená. Oči, ktoré sa naučili pozerať sa na stenu a nevidieť ju. Oči, ktoré sa naučili nehľadať dvere, pretože dvere sa aj tak vždy otvorili len zvonka.
+
+Yera pozrela na Tami. Alebo cez ňu — Tami si nebola istá.
+
+„Yera." Tamin hlas bol mäkký. Tak mäkký, že sa ho sama zľakla. „Som tu. Ideme."
+
+Yera sa pohla. Vstala. Mechanicky — kolená, boky, chrbát, jeden pohyb za druhým, ako bábka, ktorej niekto ťahá šnúrky. Žiadny výraz. Žiadna otázka. Poslúchla, pretože to bolo jediné, čo sa za tie mesiace naučila robiť.
+
+Tami ju chytila za rameno — cez hrubé plátno rúcha cítila kosť, *len* kosť — a vyviedla ju z cely. Yera kráčala vedľa nej a jej bosé nohy na studenom kameni nerobili žiadny zvuk.
+
+---
+
+Štyria v chodbe. A medzi nimi — telo.
+
+Strážnik ležal tam, kde padol. Na chrbte. Oči otvorené. Ústa v tom nedokončenom slove. Z hrude mu unikali mokré, bublajúce zvuky — pľúca, ktoré ešte nechceli prestať, hoci nemali prečo pokračovať. Kaluža krvi sa rozlievala pomaly po kameni, čierna v šere, teplá.
+
+Tami ho obišla. Pohľad priamo vpred. Chodba, šachta, von.
+
+Kito ho obišiel. Oči dole. Krok za krokom. Ďalšie telo.
+
+Arkot sa odvrátil. Leopardie oči — zlaté, horúce — preleteli po uniforme, po tvári, po Chrámovom znaku na hrudi. Odvrátil sa s výrazom, ktorý nebol ľútosť. *Nech zhnije.*
+
+Yera sa zastavila.
+
+Tami urobila ešte dva kroky, kým si to uvedomila. Otočila sa.
+
+„Yera. Poďme."
+
+Yera nestála. Yera *kľačala*. Pomaly — kolená na kameň, vedľa kaluže krvi, ktorá jej namočila lem rúcha do čierna. Jej ruky — tie tenké, bledé ruky, mesiace bez slnka, s jemnými pazúrmi na koncoch prstov — sa položili na hrudník strážnika. Presne tam, kde vošiel Nadel.
+
+Arkot stuhol. „Yera, čo to—"
+
+Pentagram.
+
+Nie Tamin. Nie žltý. Nie zlatý. *Modrý.*
+
+Farba hlbokej vody. Farba mora v noci, keď mesiac osvetľuje vlny zvnútra. Rozžiaril sa na Yeriných predlaktiach — pod šedým plátnom rúcha presvitali línie, iné než Tamine. Staršie. Čistejšie. Menej línií, ale *hlbších* — pentagram, ktorý nevyzeral ako narýchlo naprogramovaný obranný skript, ale ako niečo, čo sa precizovalo celé roky. Dekády. Generácie. [→ 03-technology.md: Voda/Čas element — akcelerácia regeneračných procesov] [→ characters/Yera.md: Pursang, najsilnejšia Spiristka v posádke, vodná Spira]
+
+Svetlo stekalo z jej dlaní. Nie žiarilo — *stekalo*. Ako voda. Prúdy modrého svetla sa vlievali do rany v chlapcovej hrudi a mizli v nej. Krv okolo jej prstov sa spomalila. Bublanie v pľúcach — ten mokrý, smrteľný zvuk — ustávalo. Pomaly. Nie zázračne. Nie okamžite. Ako keby niekto zastavil čas okolo rany a nechal telo robiť to, čo telá robia, keď majú na to dostatok času — *hojiť sa*.
+
+Chlapcova hruď sa zdvihla. Klesla. Zdvihla sa znova. *Stabilnejšie.*
+
+„*Yera!*"
+
+Arkotov hlas bol roztrhnutý. Príliš slabý na krik — mesiace v reťaziach mu zobrali silu — ale kričal aj tak. Chrčal, kašľal, a cez to všetko *kričal*. Leopardie oči blčali.
+
+„Čo to robíš?! Ten čiernoprdelník nás strážil! *Mesiace!* Počúval, ako—" Hlas sa mu zlomil. Zakašľal — suchý, dusivý kašeľ, telo, čo nemalo silu ani na hnev, ale skúšalo to aj tak. Opieral sa o stenu, lebo bez nej by padol. „Počúval, čo nám robili, a nepovedal *nič*! A ty ho—"
+
+Ruka mu vystrelila k Yerinmu ramenu. Ťahal ju preč. Prsty na hrubom plátne rúcha, kĺby zbielené, *nech ho nechá*.
+
+Yera zhodila jeho ruku.
+
+Jemne. Ale definitívne. Jedným pohybom — plece, lakeť, zápästie — Arkotova ruka spadla nabok, odstrčená silou, ktorá nemala čo robiť v tom vychudnutom tele. Prvý vedomý pohyb odkedy vyšla z cely. Nie mechanický. Nie prázdny. *Rozhodnutý*.
+
+Modrý pentagram nepoľavil. Dlane na hrudi. Svetlo stekajúce do rany.
+
+Arkot stál s rukou vo vzduchu. Ústa otvorené. A potom — pomaly, bolestivo — zatvorené. Lebo v tom jednom geste videl niečo, čo poznal. Niečo, čo bolo v Yere vždy — pred Itakou, pred jakyňou, pred kobkami — a čo mesiace s Mormielom nedokázali vytrhnúť.
+
+Yera prehovorila.
+
+Prvé slová v celej kapitole. Bez toho, aby zdvihla oči od rany. Bez toho, aby sa otočila. Hlas tichý, chrapľavý od mesiacov ticha — ale *pevný*.
+
+„Zomiera."
+
+Jedno slovo. Nie ospravedlnenie. Nie morálna lekcia. Nie filozofia. *Fakt* — a fakt bol dôvod. Pre lekárku kategória *nepriateľ* neexistovala. Kategória *strážnik* neexistovala. Existovala len kategória *pacient*. A pacient zomieral.
+
+Arkot stíchol. Nie preto, že súhlasil — nikdy nebude súhlasiť. Ale preto, že v tom jednom slove počul Yeru. Tú pravú. Nie bábku z čistej cely. Nie prázdne oči. *Lekárku.* A to mu zavrelo ústa lepšie než akýkoľvek argument.
+
+Tami stála a pozerala sa.
+
+Nadel v ruke. Zbraň, ktorou toho chlapca prebodla. A Yera — na kolenách, v záplatovanom rúchu, bosá — ho liečila. Taminou ranou prišla smrť. Yerinými rukami prichádzal život. Ten istý chlapec. Tá istá hruď. Dva pentagramy — žltý a modrý — na dvoch koncoch toho istého príbehu.
+
+Niečo sa v Tami pohol. Nie vina — na to nebol čas. Nie obdiv — na to bola príliš zmätená. Len *poznanie*. Hlboké, tiché, nepohodlné poznanie, že Yera je niečo, čomu nerozumie. Niečo, čo prežilo mesiace v Mormielovej cele a vyšlo z toho s čistejším morálnym kompasom než ktokoľvek, koho Tami poznala.
+
+Modré svetlo zhaslo. Yera zdvihla ruky — pomaly, ako keby ju to stálo všetko, čo mala. Prsty sa jej triasli. Tvár — tá krásna, mačacia, vychudnutá tvár — bola sivá od vyčerpania.
+
+Chlapcova hruď stúpala a klesala. Stabilne. Oči zatvorené — bezvedomie, nie smrť. Rana pod kľúčnou kosťou bola stále tam — nezacelená, nie úplne — ale krv prestala tiecť. Pľúca dýchali. Srdce bilo. Žil. [NOTE: nedokončená práca — Yera musela odísť skôr, než dokončila. Bude ju to hryžť.]
+
+Tami sa na ňu pozerala. Yera sa pozerala na svoje ruky — od krvi, od svetla, od niečoho, čo bolo medzi tým.
+
+„Ideme," povedala Tami ticho. Tentokrát to nebolo tvrdé. Tentokrát to bolo takmer *prosba*.
+
+Yera vstala. Pomaly. Bosé nohy na kameni. Rúcho namočené v krvi na leme. A tá prázdnota v očiach — tá stará, mesačná prázdnota — mala teraz v sebe *niečo*. Iskru. Slabú, sotva viditeľnú. Ale *tam*.
+
+---
+
+„Kito ich vyvedie. Šachta — rovnaká cesta, akou sme prišli." Tami hovorila rýchlo. Vecne. Inštrukcie, nie prosba. „Hore, cez šachtu, von na povrch."
+
+Kito prikývol. Mapy v hlave, cesta v nohách. Vedel, čo robiť.
+
+Arkot sa oprel o stenu. Pozrel na Tami. „A ty?"
+
+Tami skontrolovala Nadel — utrela čepeľ o nohavicu, rýchly, ostrý pohyb, a vrátila ho do pošvy. Ľavou rukou siahla po puške mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — a prehodila si popruh cez rameno. Bola ťažšia, než čakala. Vôňa oleja a niečoho cudzieho. [NOTE: Tami nesie zbraň človeka, ktorého prebodla a ktorého Yera zachránila. Symbolika.]
+
+„Idem naspäť. Maks je sám."
+
+Arkot na ňu pozrel. Leopardie oči — zlaté, unavené, plné mesiacov. „Pre toho *človeka*?"
+
+Tami sa zastavila pri rohu chodby. Neotočila sa.
+
+„Pre toho idiota."
+
+Hlas — mäkší, než chcela. Arkot to počul. Kito to počul. Aj Yera — niekde za tou prázdnotou, za tou iskrou, čo sa práve vrátila — to počula.
+
+A Tami odišla. Rýchlo. Bez obzretia. Lebo vedela — keby sa obzrela, neodišla by.
+
+---
+
+Kito sa pozrel na Arkota — leopard, kostra, sotva stojí. Na Yeru — mačka, bosá, sivá od vyčerpania, s krvou na leme rúcha a niekde v tých modrých očiach iskra, ktorá tam pred chvíľou nebola. Na zemi medzi nimi — strážnik, ktorý mal zomrieť a nezomrel. Hruď hore, dole. Hore, dole.
+
+Tri ľudia. Jeden archivár bez okuliarov, bez viery a bez zbraní. A cesta, ktorú poznal len z máp.
+
+Nadýchol sa. Nasadil si prasknuté okuliare — zbytočné, ale zvyk je zvyk.
+
+„Poďte. Poznám cestu."
