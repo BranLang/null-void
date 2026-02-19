@@ -47,9 +47,9 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela] Boli to hľadači pokladov. Spolu preskúmali mnohé ruiny. Tami hľadala poklady — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale našli niečo, čo nemali nájsť.
 
-Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Potom jeho telo vystavili  na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. 
 
-Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zavretí v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
+Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zakopaní v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
 
 *Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
 
@@ -90,7 +90,7 @@ Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obo
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným ukom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jeho chraptivý hlas nadávať na prasknuté potrubie. Zajac s jedným odrezaným uchom mal talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa dalo mlátiť kľúčom. [→ characters/Tami.md: Nix, Usagi Varietas, hlavný mechanik]
+Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným okom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jeho chraptivý hlas nadávať na prasknuté potrubie. Nix mal talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa dalo mlátiť kľúčom. [→ characters/Tami.md: Nix, Usagi Varietas, hlavný mechanik]
 
 „Exorcista," povedal Maks. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
 
@@ -125,7 +125,7 @@ Vynorila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadi
 
 Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
-*V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
+*V Šoravene na ňu nebola vypísaná odmena.Tu o jej existencii nikto nevedel. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
 
 Zdvihla handru k tvári a jedným pohybom stiahla šatku. Medené vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — zafírovo modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
 
@@ -201,15 +201,13 @@ Iný hlas. Starší. Mechanický, aj keď sa ho naučil robiť teplým.
 
 *„Kanón pôjde. Ja nie."* [→ characters/Felix.md: Felix odmietol ísť, strach z vonkajšieho sveta] [→ planning/peaceful-squishing-glacier.md: Zmena D — Felix flashback]
 
-Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách, obklopený haiku na stenách a porcelánovým prachom. Tami pred ním. S mapou v jednej ruke a zúfalstvom v druhej.
+Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách. Tami pred ním s mapou v jednej ruke a zúfalstvom v druhej.
 
 *„Felix, prosím. Potrebujem ťa."*
 
-*„Weil ich nicht kann."* Nemčina. Používal ju len vtedy, keď hovoril pravdu, ktorú nedokázal povedať po japonsky. *Lebo nemôžem.* [→ characters/Felix.md: Nemčina = emotívny únik] Kovové prsty sa mu zachveli nad rozloženým čerpadlom. Osemsto rokov neodišiel z Kitsune. Svet vonku bol príliš veľký, príliš hlučný, príliš *živý* pre bytosť, ktorá sa naučila merať čas tikotom hodinového stroja.
+*„ Weil ich nicht kann."* Nemčina. Používal ju len vtedy, keď hovoril pravdu, ktorú nedokázal povedať inak. *Lebo nemôžem.* [→ characters/Felix.md: Nemčina = emotívny únik] Kovové prsty sa mu zachveli nad rozloženým čerpadlom. Osemsto rokov neodišiel z Kitsune. Svet vonku bol príliš veľký, príliš hlučný, príliš *živý* pre bytosť, ktorá sa naučila merať čas tikotom hodinového stroja.
 
-Objal ju. Tvrdý, kovový, nešikovný — ale skutočný.
-
-A potom jej dal kanón.
+Objal ju. Tvrdý, studený, nešikovný — ale skutočný.
 
 Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
