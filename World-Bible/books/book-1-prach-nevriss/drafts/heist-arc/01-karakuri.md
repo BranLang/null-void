@@ -390,17 +390,25 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 
 Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]
 
-Tami si sadla do rohu. Chrbát k stene, oči na dvere. Maksov výcvik.
+Krčma sa volala *U Slepej Panny* a bola presne taká, ako znela — miesto, kde chodili ľudia, čo nemali kam iné ísť.
 
-Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
+Tami sedela v rohu pri okne, zatiahnutá do kapucne, s korbľom lacného piva pred sebou, z ktorého nepila. Uši mala schované pod šatkou. Pištole pod kabátom. Chrbát k stene, oči na celej miestnosti. Maksov výcvik.
+
+Vzduch bol hustý od dymu, potu a zúfalstva. Za stolmi sedeli žoldnieri v rôznych štádiách opitosti, drobní podvodníci s nervóznymi rukami, robotníci z dokov, čo presedeli posledné mince, a pár postáv, o ktorých bolo lepšie nepremýšľať. V rohu hrala kapela — ak sa to tak dalo nazvať — dva Ghorki s rozladenou mandolínou a plechovým bubnom. Hudba bola tak zlá, že slúžila len ako hluk na zakrytie rozhovorov.
+
+Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
 
 Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
 
-Prvá hodina nepriniesla nič užitočné. Barmanička — široká mačka s priškvrknutými ušami a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala a mlčala. Očami nikdy neopustila poháre, ale Tami vedela, že počuje všetko. Ten druh ticha, ktoré sa učí roky za barom. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
+Prvá hodina nepriniesla nič užitočné. Barmanka — široká mačka s jedným okom a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala, ale o „Knihomoľovi" mlčala. Za strieborný groš ochotne rozprávala o každom v štvrti, no pri tomto mene len pokrútila hlavou a zametala pohľadom miestnosť, akoby sa bála, že niekto počúva. To povedalo viac než slová. Znamenalo to, že je to meno, ktoré Cirkvi leží v žalúdku.
+
+Opitý hodinkár tri stoly od nej si po pár nenápadných podnetoch od Tami pochvaľoval, ako mu „ten divný mačkáč" zaplatil za opravu chronomeru knihou namiesto peňazí. A plagát na stene za barom — starý, vyblednutý — varoval: *Kto znesvätí posvätné artefakty, zhorí v ohni Matkinej spravodlivosti.*
+
+*Kito. Pursang. Niekto, z koho má strach aj barmanka, čo sa nebojí nikoho. Niekto, koho Cirkev pozná menom.*
+
+Tami si všimla, že na meno *Knihomoľ* reagovali tri rôzne stoly. Ghorkiovia v rohu s tupým odporom. Skupinka námorníkov, z ktorých jeden - jednooký s oceľovou rukou - okázalo podvádzal v kartách, so strojeným nezáujmom. A skupina žoldnierov pri susedných stoloch reagovala tichom. Ostrým, hodiacim tichom. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
 
 Tami počúvala. Zbierala útržky. Stráže na Chrámovom námestí sa striedajú každé tri hodiny. Nočná zmena je menšia — väčšina obrancov sa presúva na hradby. Kanalizácia pod Starým mestom je čiastočne prístupná, ale odpočítajte strážne Ghorki psy, ktoré tam nasadili pred týždňom. [→ planning/01-prach-nevriss.md: heist plán, intel o strážach]
-
-*Málo*, pomyslela si. *Ale začiatok.*
 
 Dopíjala druhé pivo, keď to ucítila. Pohľad. Nie z vedľajšieho stola — zdola.
 
@@ -560,7 +568,7 @@ Tami sa naňho pozrela. Na šedú srsť, na zakalené oko, na jazvy starých boj
 
 Vlk prikývol a vykročil vpred. Nos pri zemi, uši nastavené, oči skenujúce každý tieň. Na severe dunela artileria. Sneh padal na mesto, na vojakov, na mŕtvych a živých.
 
-Tami vykročila za ním. Maks vedľa nej. Tri tiene v bielom snehu.
+Tami vykročila za ním. Maks vedľa nej. Tri tiene v bielom snehu, smerujúce do štvrte, kde aj zvony boli už dávno mŕtve.
 
 Nevedela, koľko ju to bude stáť.
 

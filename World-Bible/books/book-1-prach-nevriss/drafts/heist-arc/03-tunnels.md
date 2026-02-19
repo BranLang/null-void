@@ -143,7 +143,7 @@ Maks vyskočil spoza piliera. Päť rán. Presných. Prvé dve rozbili pentagram
 
 Tami vystrelila. Modrá iskra zasiahla vlčicu do hrudníka. Spira municia prenikla cez kameň, ktorý bol kedysi kožou. Telo prasklo. Za tri sekundy — prach.
 
-Medveď zostal sám. Oslepený Maxovými ranami, vaľal sa komorou, narážal do pilierov, stonky na hlave tĺkli vzduch naslepo.
+Medveď zostal sám. Oslepený Maksovými ranami, vaľal sa komorou, narážal do pilierov, stonky na hlave tĺkli vzduch naslepo.
 
 Maks prešiel okolo neho. Vytiahol nôž — obyčajný, ocel, žiadna tech. Bodol do krku. Hlboko. Nie smrteľne — len *značka*. *Tu.*
 
@@ -223,7 +223,7 @@ Ticho.
 
 Potom Tamin hlas, tvrdý ako kov: „Ak zomrieš, zabijem ťa."
 
-Maxove ústne kútiky sa nepatrne pohli. Nikto to nevidel.
+Maksove ústne kútiky sa nepatrne pohli. Nikto to nevidel.
 
 „Pohyb," povedal a otočil sa do tmy.
 
