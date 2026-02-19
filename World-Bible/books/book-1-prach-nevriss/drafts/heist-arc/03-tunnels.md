@@ -11,9 +11,9 @@ Tunely pod Šoravenom neboli len kanály. Boli to staré žily mesta — a teraz
 
 Hladina čiernej, olejovitej tekutiny siahala Maksovi po pás. Pach hniloby sa miešal s ozónom — tým zvláštnym, čistým zápachom, ktorý Maks poznal z iných ruín. Zápach starej technológie. Zápach niečoho, čo kedysi fungovalo.
 
-Tami išla prvá. Chemické svetlo nad hlavou osvetľovalo kruhový tunel — dokonalý prierez, steny pokryté popraskanými keramickými panelmi, teraz zelenými od slizu a storočí zanedbania. Jej uši sa neustále otáčali, zachytávali kvapkanie vody, škrípanie starého potrubia a vzdialené, rytmické dunenie výbuchov na povrchu. Každý dopad ťažkého kalibru sa sem dole prenášal ako pulz — steny sa zachveli, hladina vody sa sčerila a prach sa zosypal zo stropu.
+Tami išla prvá. Chemické svetlo nad hlavou osvetľovalo kruhový tunel — dokonalý prierez, steny pokryté popraskanými keramickými panelmi, teraz zelenými od slizu a storočí zanedbania. Jej uši sa neustále otáčali, zachytávali kvapkanie vody, škrípanie starého potrubia a hluk z povrchu, ktorý po ich zostupe plynule zmenil charakter.
 
-Kráčali takto už peknú chvíľu. Dusné ticho v chodbách občas prerušilo len Kitovo ťažké dýchanie. 
+Útok Grawskej artilérie poľavil, no vzduch tam hore neprestal horieť. Obrancovia Šoravenu spustili tvrdú odvetnú paľbu a rozhodne nešetrili muníciou. Namiesto ostrých otrasov a rúcajúcich sa budov sa teraz zvrchu ozývalo nepretržité, ťažké hrmenie stoviek mestských batérií, ktoré vysielali smrť späť cez kopec. Čím hlbšie však klesali, tým viac tento obrovský hluk prestupoval skalou a splýval len do jednoliateho, hlbokého dunenia, ktoré im rezonovalo priamo v kostiach. Dusné ticho v chodbách občas prerušilo len Kitovo ťažké dýchanie. 
 
 Tami sa na chvíľu zastavila a pozrela na úzku štrbinu prieduchu vysoko nad nimi. Nebe cez ňu nebolo vidieť, bola to len upchatá čierna diera. 
 „Sai zapadá," povedala ticho a preložila si váhu. „Cítite to olovo na pleciach?"
@@ -30,7 +30,12 @@ Maks mierne prikývol, hoci to v tme takmer nebolo vidieť. „Lúpež presne pr
 
 Znovu sa pohli, čľapkajúc v hluku vody, no Tamin nepokoj stúpal. 
 
-Maks istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
+Vlk sa zrazu zastavil. Jeho uši, doteraz stiahnuté dozadu, sa napriamili a nos zachytil pach zhora.
+„Niečo tu smrdí," povedal ticho do šerej tmy. „Pôjdem pozrieť napred cez ten ventilačný prieduch. Vy sa tam nezmestíte."
+Tami prikývla. „Zisti, čo vidia senzory hore, a vráť sa."
+Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo na stene, pretiahol sa do úzkej pukliny v keramickom obklade a zmizol v tme. Zostal po ňom len pach mokrej srsti, ktorý sa rýchlo vytratil. A Tami aj Maks čoskoro zistia, že Vlk sa už nikdy nevráti. Zradil ich za žold inkvizície.
+
+Maks ďalej istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
 „Hovorí sa, že tieto tunely pamätajú Éru Temnoty," povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvie. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch."
 
@@ -168,27 +173,26 @@ Celý boj trval dvadsať sekúnd.
 
 ---
 
-Kito sedel pri stene. Kolená pritiahnuté k hrudi, ruky okolo nich, oči prázdne. Pozeral sa na prach — na miesto, kde pred chvíľou stáli traja ľudia, ktorých poznal. Vzduch okolo neho stále jemne vibroval — jeho telekinéza reagovala na traumu, nevyžiadaná, nekontrolovaná.
+Kito stál chrbtom pritlačený k stene tunela. Už nesedel v kaluži ustráchaný. Strach vytlačilo niečo oveľa temnejšie. Pozeral na hromádky prachu a sivého kameňa – na miesto, kde pred chvíľou stáli tri bytosti, z ktorých mu dve boli blízke. Vzduch okolo neho prudko vibroval a praskal. Kusy rozpadnutej keramiky na zemi sa samé od seba dvíhali a opäť drvili o seba. Jeho telekinéza, inak taká presná pri knihách, teraz sršala do okolia ako nevypočítateľná tlaková vlna čistého, nezriedeného hnevu a zúfalstva.
 
-Tami čistila pištoľ. Vymenila zásobník. Maks nabíjal samopal.
+Tami čistila pištoľ, ale jej pohyby neboli plynulé. Palec jej dvakrát skĺzol, kým sa jej podarilo natlačiť čerstvý zásobník do zbrane. Ruky sa jej triasli. Zabila Ghorkiho a dve Mezry. Zabila *Varietas*. Zhlboka, prerušovane dýchala, snažiac sa ten tras potlačiť a skryť ho pred Maksom. Nechcela ukázať slabosť.
 
-„Vy... robíte to *často*?" Kitov hlas sa lámal.
+„Robíte to *často*?" Kitov hlas nebol zlomený. Syčal. Praskal statikou jeho Moci.
 
-„Každý druhý týždeň," povedal Maks bez toho, aby zdvihol zrak. „Niekedy častejšie."
+„Každý druhý týždeň," odpovedal Maks s mechanickým chladom, zatiaľ čo jeho prsty so strojovou presnosťou cvakli nový zásobník do samopalu. Ani nezvýšil hlas. Jeho senzory len stroho vykazovali zvýšené vitálne funkcie u oboch spoločníkov. On sám necítil nič. Prijal hrozbu. Eliminoval hrozbu. Rovnica končila.
 
-„Oni... spoznal som obojok toho medveďa," Kitov hlas sa úplne poddal. „To bol Dren. On... on a Yara, spoznal by som aj jej chôdzu na zemi... študovala botaniku! Dren bol môj *priateľ*... oni mali mená."
+„Ten medveď... to bol Dren," povedal Kito a zovrel päste tak silno, až mu zbeleli hánky. Voda okolo jeho topánok začala vrieť telekinetickým tlakom. „Zabrali ho do služby Chrámu pred štyrmi rokmi! A Yara... vlčica... študovala so mnou botaniku! Mali *mená*! Boli to *veriaci*! Ako môže... ako toto..." Nedokázal to ani dopovedať. Jadro jeho viery sa práve trieštilo na tisíc kúskov priamo pred ich očami.
 
-Tami sa zastavila. Zdvihla zrak. Oči studené a jasné. „A práve preto sme ich zabili rýchlo. Bez zbytočnej bolesti."
+Tami sa narovnala a pevne stisla rukoväť pištole. „Práve preto sme ich zabili rýchlo, Kito," povedala tvrdo. Príliš tvrdo na to, aby to znelo prirodzene. Hlasom sa presviedčala rovnako ako jeho. „Bez zbytočnej hry."
 
-„Boli to *monštrá*," dodal Maks. „Rovnaký proces ako Maya. Len dokončený. Neurálna aktivita nula — nikto doma. Len Spira, čo beží v slučke a útočí na všetko, čo sa pohne." Zdvihol zrak. „To, čo boli predtým, už dávno zomrelo. My sme im len pomohli dokončiť to, čo Cirkev začala."
+„Neboli to tvoji priatelia," konštatoval Maks. Žiadna snaha o utešenie, len čistá, analytická pravda muža, v ktorom už vojna vypálila všetky emócie. „Rovnaký proces ako to dievča u teba na posteli. Len v terminálnom štádiu. Neurálna aktivita nula — nikto doma. Zvyšková Spira bežiaca v slučke bez hostiteľa." Preskenoval doráňaného archivára absolútne bezvýrazným pohľadom. „To, čo boli predtým, zomrelo dávno. My sme len upratali sračky, ktoré po sebe tvoja Cirkev nechala."
 
-Kito utrel oči. „Cirkev..."
+Kito stuhol. Slovo *Cirkev* už pre neho nebolo posvätné. Znelo ako zrada. Telekinetický tlak ustúpil a Kito padol na kolená priamo do tmavej vody. Nepýtal sa na milosť Matky. Len sa potichu pozeral na svoje prázdne dlane.
 
-„Cirkev ich zradila," povedal Maks. Kľakol si vedľa neho. „Ale to, čo urobíme ďalej — nájdenie toho artefaktu, odhalenie pravdy — to bude za nich. Za všetkých."
+Maks sa k nemu nezohol. Nepodal mu ruku. Jeho hlava sa mierne natočila, akoby zachytil seizmické otrasy, ktoré oni ešte necítili. 
+„Ideme si po ten artefakt," povedal Maks rovnako sucho ako predtým. „Postav sa, Kito. Nemáme čas na smútok."
 
-Kito prikývol. Pomaly.
-
-Maks vstal. Podal mu ruku. Knihovník ju chytil.
+Kito pomaly vstal. V jeho očiach, za prasknutými sklami mokrých okuliarov, už nebol strach z tmy. Bol tam chladný prísľub rodeného heretika. 
 
 „Poďme."
 
@@ -202,17 +206,19 @@ Svet sa otriasol.
 
 Výbuch zhora bol iný než ostatné. Bližšie. Priamejší. Ako keby granát dopadol presne nad nimi. Strop tunela praskol — nie pomaly, nie varovne — *okamžite*. Kus betónu veľký ako stôl sa uvoľnil a zrútil sa medzi nich.
 
-Maks skočil dozadu. Reflexy, nie rozhodnutie.
+Z Maksovej hlavy v tej sekunde zmizla taktika, vojna aj artefakty. Skočil vpred, ruku vystretú k Tami, nehľadiac na tonu padajúceho kameňa nad ním. Bol to surový, ľudský inštinkt chrániť ju. Jedna z mála vecí, ktoré v ňom ešte fungovali.
 
-Tami chytila Kita za golier a strhla ho dopredu, preč od padajúcich sutín.
+Zvyšok stropu však nasledoval rýchlejšie. Potrubie prasklo, betón a kusy kovu sa zasekli do tunela ako zátka vo fľaši. Maksova ruka narazila do chladnej sutiny, centimetre od miesta, kde predtým stála Tami. Prach zvíril všade — hustý, dusivý, biely.
 
-Zvyšok stropu nasledoval. Potrubie prasklo, voda sa valila z puklín, betón a kov sa zasekli do tunela ako zátka vo fľaši. Prach zvíril všade — hustý, dusivý, biely.
+Keď sa usadil, medzi nimi bola nepriestupná stena.
 
-Keď sa usadil, medzi nimi bola stena.
+Maks kľačal v špinavej vode, ruky zaryté do betónu. Asistent hlásil kritický nárast tepovej frekvencie. Oči mu divoko lietali po mape a hľadali ju. Potom jeho senzory zachytili slabú, no stabilnú tepelnú signatúru za závalom. Žije.
+
+Analytický modul okamžite prevzal kontrolu nad telom. Zvýšený tep klesol na robotických päťdesiat úderov za minútu. Chemikálie utlmili zbytočný adrenalín. Znovu bol len strojom.
 
 „Maks!" Tamin hlas, tlmený cez metre sutín.
 
-„Som tu." Maksov hlas z druhej strany. Chladný. Kontrolovaný. „Status?"
+„Som tu." Maksov hlas z druhej strany. Úplne chladný. Kontrolovaný. „Status?"
 
 „Živí. Kito je celý." Pauza. Počul ju, ako búcha päsťou do betónu. Jeden úder. Testovací. „Neprejdem cez to. Meter, možno dva. Pevné."
 

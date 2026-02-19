@@ -2,9 +2,11 @@
 
 Ulica páchla inak než prístav. V prístave páchol etanol, sírna para a peniaze. Tu páchla beznádej, lacné kadidlo a choroba.
 
-Tami kráčala o pol kroka pred Maksom. Už nebola vystrašené dievča, ani tá drzá kapitánka z paluby *Itaky*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníkov s plynulosťou, ktorá Maksovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
+Tami kráčala hneď za vlkom, ktorý bol asi o pol kroka pred ňou. Obrovský, šedý, neviditeľný pre dav, ktorý sa mu vyhýbal skôr inštinktívne, bez toho, aby si ľudia vôbec všimli, prečo uhýbajú. Už nebola vystrašené dievča, ani tá drzá kapitánka z paluby *Itaky*. Teraz bola **Líška**. Pohybovala sa davom chudobných robotníkov s plynulosťou, ktorá Maksovi chýbala. Menila tempo, uhýbala pohľadom, splývala s tieňmi.
 
-„Dva bloky," zamrmlala bez toho, aby sa otočila. „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku."
+„Dva bloky," zamrmlal vlk zospodu bez toho, aby otočil hlavu. 
+
+Tami kývla a potichu dodala smerom dozadu: „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku."
 
 Maks si upravil tmavé letecké okuliare. Jeho *oči* skenovali okolie v rôznych spektrách. Videl tepelné stopy potkanov v kanáloch. Videl skryté čepele pod kabátmi žobrákov. Videl strach v očiach ľudí, ktorí nevedeli, čo bude zajtra.
 
@@ -38,7 +40,9 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 „Hľadáme *Knihomoľa*," povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy."
 
-Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
+Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy. 
+
+Vlk vkĺzol dnu prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho rohu stiesnenej miestnosti, usadený medzi kopami starých kníh, kde naňho okamžite všetci zabudli. Nastražil uši.
 
 ---
 
@@ -64,9 +68,13 @@ Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť. 
 
 „Čo chcete?" spýtal sa nakoniec, hlasom zbaveným odporu.
 
-„Ten artefakt," povedal Maks priamo, s ťažkým prízvukom, akoby každé slovíčko prekladal za pochodu. „Vieme, že je uzamknutý a prísne strážený v podzemí pod Chrámom Matky. A vieme, že ty si jediný, kto má plány pôvodnej ventilácie z čias pred prestavbou."
+„Priateľov," zrýchlila Tami. „Cirkev zadržiava pod Chrámom dvoch členov mojej posádky. Majú ísť na verejnú popravu. Vieme, že tam dole vedú staré tunely, a ty si jediný, kto má plány pôvodnej ventilácie."
 
-Kito sa trpko zasmial. „Artefakt? Chcete ukradnúť najsvätejšiu relikviu? Ste blázni. Aj keby som vám dal plány, nedostanete sa tam. Je to samovražda."
+„A ten artefakt," doplnil ju Maks s ťažkým prízvukom, úplne ignorujúc jej predchádzajúcu vetu. „Tá metrová čierna palica schovaná v tme. To je zaplatenie za jej priateľov."
+
+Tami ho prepadla pohľadom, ale mlčala. Na ďalšiu hádku pred svedkami nebol priestor.
+
+Kito sa trpko zasmial. „Priatelia a relikvia? Chcete sa vlámať do najstráženejšieho väzenia a do Srdca Matky zároveň? Ste blázni. Aj keby som vám dal plány, nedostanete sa tam. Je to samovražda."
 
 „Zažil som aj horšie veci," povedal Maks pokojne. Za tmavými okuliarmi sa čosi mihlo — modrý záblesk, ktorý mohol byť svetlo z ulice alebo niečo horšie.
 
@@ -256,6 +264,8 @@ Kito ju pustil. Vstal. Otočil sa k dverám.
 
 Neohliadol sa.
 
+Vlk, ktorý celý ten čas ticho sedel v rohu a absorboval každé slovo o podzemí, starých plánoch a vzácnom artefakte, sa zdvihol a čakal pri vchode.
+
 Vybehli z bytu do noci, ktorá sa práve menila na peklo.
 
 ---
@@ -266,7 +276,9 @@ Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku vý
 
 Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho aura pradávnej nanotechnológie, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
 
-„Doľava!" zakričala Tami a skočila do úzkej uličky, kam sa dav nezmestil.
+„Za mnou!" zavrčal vlk a kľučkoval cez dym a oheň, inštinktívne hľadajúc najkratšiu trasu k bodu, ktorý Kito kričal cez hluk výbuchov.
+
+„Doľava!" zakričala Tami a skočila za ním do úzkej uličky, kam sa dav nezmestil.
 
 Maks ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
 
@@ -312,7 +324,7 @@ Nanoboty v jeho krvi sa aktivovali.
 
 Vlastnou váhou sa prepadol poklop do tmy.
 
-„Dolu!" zavelil a sotil Kita do tmy. Tami skočila za ním. Maks skočil posledný.
+„Dolu!" zavelil a sotil Kita do tmy. Vlk skočil za ním. Tami sa zosunula do šachty vzápätí, Maks skočil posledný.
 
 Dopadli do bahna a splaškov práve v momente, keď granát dopadol na ulicu nad nimi.
 
@@ -326,7 +338,7 @@ Ticho.
 
 Bolo to prvé, čo si uvedomili.
 
-Hore zúrilo peklo, ale tu, päť metrov pod dlažbou, bolo ticho. Len kvapkanie vody a ťažký, zrýchlený dych troch bytostí.
+Hore zúrilo peklo a tu, päť metrov pod dlažbou, jeho ozveny kruto dorážali. Každý dopad granátu hore na ulici zatriasol celým tubusom, zo stropu sa so škrípaním zosypával prach a úlomky keramiky priamo do čiernej vody. Bolo tu tichšie, áno — ale ticho tu definoval iba tlmený hrkot padajúceho mesta a ťažký, zrýchlený dych štyroch bytostí.
 
 Maks sa postavil. Jeho topánky čvachtali v niečom, čo nechcel analyzovať. Zapol nočné videnie.
 
