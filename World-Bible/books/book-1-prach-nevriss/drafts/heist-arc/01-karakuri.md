@@ -44,21 +44,18 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
-*Arkot. Yera.* [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela]
 
-Mená prišli samy. Nepýtali sa o dovolenie.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela] Boli to hľadači pokladov. Spolu preskúmali mnohé ruiny. Tami hľadala poklady — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale našli niečo, čo nemali nájsť.
 
-Zakopaní v kobkách pod Chrámom Vševedúcej Matky. Mesiace. Správy, čo sa k nej dostali — šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť.
+Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Potom jeho telo vystavili  na námestí v Šoraven. Verejne. Aby si každý zapamätal, čo sa stane, keď niekto znesvätí sväté relikvie Vševedúcej Matky. [→ 06-society.md: Cirkev, inkvizičné praktiky]
 
-*Čo im robili? Čo im robili celé tie mesiace?*
+Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zavretí v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
 
-Tami stisla kľúč. Kĺby zbieleli.
+*Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
 
-A Flint. Flint bol mŕtvy. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Telo vystavili na námestí. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+Správy, čo sa k nej dostali cez Nyau — s trojmesačným oneskorením, šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť. [→ 05-geography.md: Nyau, východné pobrežie]
 
-S mužom, ktorému nedokázala odpustiť.
-
-*A ani zabudnúť*, dodala si v duchu.
+A teraz bola tu. V meste, kde jej zabili jedného priateľa a dvoch ďalších držali pod zemou. S plánom ukradnúť vec, za ktorú Flint zomrel — a vyslobodiť tých, čo ešte dýchali.
 
 ---
 

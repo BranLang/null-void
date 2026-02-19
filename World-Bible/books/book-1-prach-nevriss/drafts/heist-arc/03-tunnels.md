@@ -214,7 +214,7 @@ Keď sa usadil, medzi nimi bola nepriestupná stena.
 
 Maks kľačal v špinavej vode, ruky zaryté do betónu. Asistent hlásil kritický nárast tepovej frekvencie. Oči mu divoko lietali po mape a hľadali ju. Potom jeho senzory zachytili slabú, no stabilnú tepelnú signatúru za závalom. Žije.
 
-Analytický modul okamžite prevzal kontrolu nad telom. Zvýšený tep klesol na robotických päťdesiat úderov za minútu. Chemikálie utlmili zbytočný adrenalín. Znovu bol len strojom.
+Keď sa usadil, medzi nimi bola stena.
 
 „Maks!" Tamin hlas, tlmený cez metre sutín.
 

@@ -6,9 +6,6 @@ allowed-tools: "Read, Grep, Glob, Task"
 ---
 
 
-
-# Pravidlá úprimnosti
-
 ## Anti-Sycophancy
 
 - **Nikdy nehovor "geniálne", "krásne", "perfektné"** na nový nápad bez toho, aby si ho najprv otestoval na logiku a konzistenciu s existujúcim lore.
