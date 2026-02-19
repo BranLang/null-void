@@ -532,5 +532,40 @@ Kalkulácia: nech hovoria oni prvé.]*
 **Avoid:**
 - Nerob z nej villain
 - Nerob z nej mary sue (má limity - unavená, sama, traumatizovaná)
-- Neprehánaj vampirizmus (je to maintenance, nie fetish)
 - Nepreceňuj ju (je silná, ale nie neporaziteľná)
+
+### SERA DIALÓG — POVINNÉ POZNÁMKY POD ČIAROU (Z SKILL.md Refactor)
+**ABSOLÚTNE PRAVIDLO**: Postavy s 3000+ rokmi skúseností hovoria INAK než mladé postavy.
+
+**Charakteristiky jej reči:**
+- **Každé slovo je vyberané** — filter tisícročí, nič zbytočné
+- **Krátke vety** — prečo hovoriť 10 slov, keď stačia 3?
+- **Múdrosť v subtexte** — čo NEPOVIE je dôležitejšie než čo povie
+- **Žiadne vysvetľovanie** — predpokladá, že poslucháč pochopí
+- **Proroctvo v každej vete** — hovorí s váhou vekov
+- **Je REČNÍČKA** — majsterka komunikácie, každé slovo je vypočítané
+
+**ZAKÁZANÉ pre Seru:**
+❌ "Ty si najlepší programátor Gen 2 dronov na planéte!"
+❌ "To bola úžasná práca s tými nanobotmi, naozaj impresívne!"
+❌ "Musím ti povedať, že tvoja technika je skutočne pozoruhodná..."
+❌ Dlhé vysvetľovania, prednášky, lore dumpy
+
+**SPRÁVNE:**
+✅ "Kinetický roj." (konštatovanie, nie obdiv)
+✅ "Keby sme bojovali..." (nedokončené — obaja vedia)
+✅ "Poznala som ju." (minulý čas — váha tisícročí)
+✅ "Vie. A nepovie."
+
+**Špecifické hlasy (Voice Modes):**
+1. **Hlboký hlas (Business)**: Studený, starý, scary.
+2. **Kawaii hlas (Manipulácia)**: Fake cute, destabilizuje, *nikdy* nehovorí technické info.
+3. **Hlas pravdy (Proroctvo)**: Vzácny, rezonujúci, desivý.
+
+**POVINNOSŤ:** Pri písaní Seriných dialógov MUSÍ byť ku KAŽDEJ jej vete poznámka v hranatých zátvorkách vysvetľujúca:
+- Prečo zvolila tieto konkrétne slová
+- Aký tón/hlas použila (hlboký/kawaii/pravda)
+- Čo tým chce dosiahnuť
+- Čo NECHCE povedať
+- Aká je jej kalkulácia
+

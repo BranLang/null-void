@@ -1,66 +1,41 @@
-# Nix — Mechanička Itaky
+# Nix
 
-| | |
-|---|---|
-| **Status** | Aktívna — hlavná mechanička Itaky (AY 3013) |
-| **Meno** | **Nix** |
-| **Rasa** | Felis Varietas (mačka) |
-| **Kasta** | Mezra |
-| **Vek** | ~7-8 zím (~35-40 rokov, AY 3013) |
-| **Povolanie** | Hlavná mechanička vzducholode Itaka |
-| **Pôvod** | Nyau (východné pobrežie) |
+**Povolanie:** Hlavný mechanik na *Itake*
+**Rasa:** Varietas — Usagi (Zajac)
+**Vek:** ~45 rokov (na Varietas starý)
+**Status:** Nažive
 
 ---
 
 ## Vzhľad
+- **Usagi Varietas**: Má dlhé zajačie uši, ale **jedno mu chýba** (odrezané v polovici, zjazvená tkanivo).
+- **Tvár**: Cez ľavé oko sa mu ťahá škaredá jazva (z rovnakého incidentu ako ucho).
+- **Srsť**: Sivá, miestami prešedivená, večne špinavá od oleja a maziva.
+- **Oblečenie**: Nosí ošúchaný letecký overal, plný vreciek s náradím. Na opasku má vždy zavesený ťažký kľúč (funguje aj ako zbraň).
+- **Výraz**: Večne zamračený, cynický, "som unavený zo života".
 
-- Felis Varietas s prevažne ľudskou postavou — **ruky, nie labky**. Vyzerá ako vyššia Mezra, takmer Pursang — ťažko povedať. Ale maniére má ako Ghorki.
-- Mačacie uši, chvost
-- **Šediny** — viditeľné, staršia než zvyšok posádky
-- Neustále od oleja — ruky, tvár, oblečenie
-- Praktické oblečenie mechaničky, žiadna márnosť
+## Osobnosť
+- **Cynik a Pesimista**: Očakáva to najhoršie. Keď motor naskočí, je to "podozrivé". Keď Tami povie, že má plán, on sa spýta, koľko to bude stáť na opravách.
+- **Depresívny Realista**: Nie je uplakaný, len... rezignovaný. Svet je zlé miesto a on v ňom len opravuje trubky, kým neumrie.
+- **"Jerk with a heart of gold"**: Nadáva, frfle, uráža loď aj posádku, ale keď ide do tuhého, bude riskovať život, aby udržal *Itaku* vo vzduchu.
+- **Vzťah k Tami**: Rešpektuje ju ako kapitánku (pretože mu platí a *Itaka* lieta), ale neustále kritizuje jej "geniálne" nápady.
 
----
+## Backstory
+- **Pôvod**: Narodil sa v slums Raiju.
+- **Rodina**: Mal dcéru. Stratila sa pred 5 rokmi (únos? útek? otroctvo?).
+- **Motivácia**: **Hľadá svoju dcéru.** To je jediný dôvod, prečo stále pracuje a cestuje. Každý prístav, kde *Itaka* zakotví, Nix zmizne do podsvetia a pýta sa na ňu.
+- **Raiju Incident**: Prišiel o ucho a získal jazvu pri nevydarenom kšefte s miestnym gangom, keď sa snažil získať informácie o dcére.
+- **Nájom**: Tami ho našla v Raiju (spolu s Borgom). Nix bol na dne, Borg ho chránil. Tami potrebovala mechanika, Nix potreboval vypadnúť z Raiju.
 
-## Psychológia
-
-- **Motivácia**: Udržať Itaku vo vzduchu. Všetko ostatné je sekundárne.
-- **Povaha**: Nervózna, rýchlo hovoriaca, rozpráva sa sama so sebou, neustále sa sťažuje na stav lode
-- **Strach**: Zmena. Nikdy neopustí Itaku. Loď je jej svet — všetko mimo nej je príliš veľké, príliš nepredvídateľné.
-- **Tajomstvo**: Hľadá syna — odišiel hľadať otca. Hanbil sa za matku s Ghorki maniermi. Chcel byť viac. Nix ho hľadá v každom prístave — kontroluje tváre v davoch, aj keď by ho po rokoch nemusela spoznať. Nikdy o tom nehovorí.
-- **Talent**: Geniálna s motormi — opraví čokoľvek, čo sa jej zmestí do rúk
-- **Jazyky**: Nadáva v štyroch jazykoch naraz
-- **Vzťah k Itake**: Osobný — loď nie je stroj, loď je pacient
-
----
-
-## Vzťahy
-
-### Tami (kapitánka)
-- Lojálna. Sťažuje sa neustále, ale nikdy by neodišla.
-- "Tie šroty, čo Tami kupuje" — večný refrén
-
-### Borg (spolubojovník)
-- Spolu s Borgom tvoria Taminu "rodinu na oblohe"
-- Borg strieľa, Nix opravuje — komplementárna dvojica
-
-### Maks
-- [TODO: definovať vzťah]
+## Schopnosti
+- **Mechanický Génius**: Dokáže opraviť čokoľvek pomocou lepiacej pásky a nadávok. Rozumie *Itake* lepšie než ktokoľvek iný. Počuje "chorý" motor na kilometer.
+- **Boj**: Nie je vojak, ale v zúrivosti (alebo na obranu *Itaky*) používa obrovský francúzsky kľúč s brutálnou efektivitou.
 
 ---
 
-## Rola v príbehu
+## Citáty
+> *"Motor beží. Zatiaľ. Dávam mu hodinu, kým expoduje. Alebo dve, ak prestaneš robiť tie prudké manévre."*
 
-- **Funkcia**: Technický backbone posádky. Bez nej Itaka nelieta.
-- **Book 1**: Prítomná pri opravách v Šoravene. Po záchrane Arkota a Yery pripravuje Itaku na vzlet. Počas leteckej bitky (Ch6) hlási poškodenia a riadi improvizované opravy pod paľbou.
-- **Sera connection**: Sera nariadila Borgovi a Nix previezť Maksovo telo do Kitsune po jeho zdanlivej smrti. Nix dostala príkaz od "neznámej ženy" — nevie, že to bola Sera.
+> *"Nenávidím výšky. Nenávidím túto loď. A nenávidím, že máš zase pravdu."*
 
----
-
-## Dialóg
-
-- Rýchly, nervózny, technický
-- Nadáva v štyroch jazykoch
-- Krátke vety pod stresom, dlhšie keď vysvetľuje technický problém
-- "Klesáme!" / "Štyri komory preč!" / "Kotol je prázdny."
-- Neustále sa sťažuje, ale vždy dodá výsledok
+> *"Nenašiel som ju. Zase. Poďme preč z tohto prašivého mesta."*

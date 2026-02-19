@@ -136,7 +136,7 @@ Druhá Valkýra preletela bližšie. Dávka z guľometov — naslepo, podľa zvu
 
 Tretia mierila na oranžovú žiaru požiaru pod nimi — myslela si, že je to *Itaka*. Bomby dopadli na prázdnu ulicu. Blízko. Príliš blízko.
 
-„Klesáme," hlásila Nix. „Dva zásahy do balóna. Hélium uniká z komory tri a päť."
+„Klesáme," zavrčal Nix do interkomu. „Dva zásahy do balóna. Hélium uniká z komory tri a päť. Hovoril som, že to nevydrží."
 
 Balón *Itaky* bol komorovaný — rozdelený na tridsaťdva nezávislých sekcií. Pár prierazov ho nezničí. Ale spomaľujú. A loď klesá.
 
@@ -176,7 +176,7 @@ Ale ten výstrel ich prezradil. Zvyšné dve Valkýry teraz vedeli, kde je *Itak
 
 Guľomety zaburácali. Tentoraz nie naslepo — piloti videli záblesk z hlavne a mierili na jeho zdroj. Strely prešili balón v ďalších dvoch komorách. Paluba *Itaky* sa rozštiepila. Drevené triesky lietali vzduchom.
 
-„Štyri komory preč!" kričala Nix. „Klesáme!"
+„Štyri komory preč!" kričal Nix. „Klesáme! Táto vaňa ide k zemi!"
 
 *Itaka* sa naklonila. Prova klesla. Loď sa začala pomaly zosúvať k strechám.
 
@@ -190,7 +190,7 @@ Obloha nad horami bola iná. Už nie čierna. Tmavosivá. Prvý náznak svitania
 
 Tami to pochopila okamžite. „Nix! Para! Všetku paru von! Teraz!"
 
-Nix nečakala. Strhla ventily na parnom kotli. Z bočných trysiek *Itaky* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Itaka* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
+Nix nečakal. Strhol ventily na parnom kotli. Z bočných trysiek *Itaky* vyrazili mohutné stĺpy bielej pary — horúce, husté oblaky, ktoré zahalili loď aj okolie do nepriehľadnej clony. Za sekundu bola *Itaka* neviditeľná. Vznášala sa v oblaku vlastnej pary ako duch.
 
 Valkýry preleteli cez paru. Nevideli nič. Dávky z guľometov prešli oblakmi — naslepo, bezcieľne.
 
@@ -204,7 +204,7 @@ Para riedla. Sivý závoj sa rozťahoval, stenčoval. Cez medzery už presvitalo
 
 „Nix, koľko pary máme?"
 
-„Nič. Kotol je prázdny."
+„Nič. Kotol je suchý ako moje hrdlo."
 
 Tami zavrela oči. *Toto je koniec.* Loď klesá, para mizne, svitá. O tridsať sekúnd budú holé terče na svetlom nebi.
 

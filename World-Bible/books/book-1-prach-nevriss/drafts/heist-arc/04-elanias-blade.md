@@ -38,11 +38,13 @@ Väčší — Rau — sa pohol. Sekera švihla horizontálne. Maks sa sklonil, �
 
 ---
 
-Tami a Kito prišli zo severu. Dlhšia cesta, ale priechodná, presne ako Kito sľúbil. Počuli to skôr, než to videli. Dunenie. Vibrácie v stenách. Zvuk kovu o kameň.
+Tami prišla zo severu. Sama. Kito zostal s Arkotom a Yerou — viedol ich von cez šachtu, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť IV Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
+
+Počula to skôr, než to videla. Dunenie. Vibrácie v stenách. Zvuk kovu o kameň.
 
 Tami vytiahla Nadel.
 
-Keď zahnuli za roh, videla ich.
+Keď zahnula za roh, videla ich.
 
 Maks cúvol. Plášť roztrhaný na chrbte. Samopal v ruke, nepoužiteľný. Dva monolity v svetlom brnení stáli medzi ním a bránou. Mŕtve telá strážcov okolo nich. A ten zvuk — bzučanie sekier, tak intenzívne, že Tami cítila, ako jej vibrujú zuby.
 
@@ -98,9 +100,9 @@ Rau zdvihol sekeru. Kira urobila krok k Tami.
 
 „*BEŽ!*"
 
-Tami chytila Kita za golier a ťahala ho k ventilačnej šachte. Kito sa nebránil. Kito sa triasol tak, že jeho nekontrolovaná telekinéza rozechvela staré potrubie na stene.
+Tami cúvla k ventilačnej šachte. Sama — Kito bol preč, hore, s Arkotom a Yerou, niekde v bezpečí, kam tieto veci nedosiahli.
 
-Maks hodil poslednú záblesk — oslepujúcu explóziu Čierneho Prachu — a vrhol sa za nimi.
+Maks hodil poslednú záblesk — oslepujúcu explóziu Čierneho Prachu — a vrhol sa za ňou.
 
 Sekera švihla. Prešla cez Maksov plášť a zanechala rez na chrbte — nie hlboký, ale zanechala stopy ako popáleniny.
 
@@ -112,29 +114,51 @@ Kov zaškrípal. Maks počul, ako vchádzajú do komory za bránou.
 
 ---
 
-„Prehrali sme," povedal Kito. Hlas sa mu triasol.
+Sedeli v šachte. Tesnej, tmavej, smradľavej. Dvaja. Maks sa opieral o stenu. Prach v jeho krvi mu zašíval chrbát — tupá, hlboká bolesť, ktorá signalizovala, že funguje.
 
-Sedeli v šachte. Tesnej, tmavej, smradľavej. Maks sa opieral o stenu. Prach v jeho krvi mu zašíval chrbát — tupá, hlboká bolesť, ktorá signalizovala, že funguje.
-
-„Áno," povedal Maks.
-
-Tami mlčala. Sedela oproti nemu, Nadel na kolenách. Pozrela sa na hrot — nepoškodený. Škrabanec na oceľovom náprsníku a nič viac. Ale *prešiel cez štít*.
+Tami mlčala. Sedela oproti nemu, Nadel na kolenách. Puška strážnika vedľa nej — tá, čo jej Yera nedovolila nechať pri mŕtvom. Pozrela sa na hrot rapiera — nepoškodený. Škrabanec na oceľovom náprsníku a nič viac. Ale *prešiel cez štít*.
 
 „Bál si sa," povedala ticho.
 
 Maks neodpovedal.
 
-„Čo teraz?" spýtal sa Kito.
+„Čo teraz?"
 
 Maks zavrel oči. Z tmy okolo jeho hlavy sa oddelili tri drobné tiene — posledné, čo mu zostali na prieskum — a vkĺzli sa do tunelov smerom ku bráne. Tiché. Neviditeľné.
 
 „Teraz ich sledujeme," povedal Maks. „A čakáme."
 
+Zvuk z šachty nad nimi. Škrabanie. Dýchanie. Maks zdvihol zbraň — automaticky, bez myslenia.
+
+„To som ja." Kitov hlas, zadýchaný, ozvučený plechom šachty. „Nestrieľajte."
+
+Zosunul sa dolu — mokrý, roztrasený, bez ruksaku. Mapy nechal Arkotovi. Okuliare stále prasknuté, stále zbytočné. Predral sa cez šachtu späť ako krysa tunelom.
+
+Tami naňho zízala. „Čo tu *robíš*? Mal si ich vyviesť—"
+
+„Vyviedol." Kito sa opieral o stenu šachty a chytal dych. „Sú na povrchu. Šachta vedie priamo k dokom — Arkot pozná prístav, nájde cestu." Prehltol. Oči — žlté, mačacie, za prasknutým sklom — sa upreli na Maksa. „Ten artefakt. Čo presne *je*?"
+
+Maks neodpovedal.
+
+„Moja žena zomiera." Kitov hlas bol tichý. Chrapľavý. Ale v ňom bola oceľ, ktorá tam pred dnešnou nocou nebola. „Spira ju mení na kameň. Každý deň trochu viac. A vy dvaja ste sa práve pobili s niečím, čo som v živote nevidel, kvôli veci, o ktorej mi nepoviete čo je." Pauza. „Ak má tá vec čo i len *šancu* pomôcť Maye — tak som tu."
+
+Maks sa na neho pozrel. Dlho. Tvrdo.
+
+„Nemá," povedal.
+
+„To nevieš."
+
+Ticho.
+
+„Nie," pripustil Maks. „To neviem."
+
+Kito si sadol. Mokrý, trasúci sa, bez máp a bez okuliarov. Ale *tu*.
+
 ---
 
 ## Časť II: Čepeľ
 
-Tami a Kito kráčali ventilačnou šachtou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré videli len jeho drony. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila.
+Tami kráčala ventilačnou šachtou, Kito za ňou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré videli len jeho drony. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila.
 
 Potom sa rozdelili.
 

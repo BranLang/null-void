@@ -44,21 +44,18 @@ Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
 
 Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
-*Arkot. Yera.* [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela]
 
-Mená prišli samy. Nepýtali sa o dovolenie.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela] Boli to hľadači pokladov. Spolu preskúmali mnohé ruiny. Tami hľadala poklady — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale našli niečo, čo nemali nájsť.
 
-Zakopaní v kobkách pod Chrámom Vševedúcej Matky. Mesiace. Správy, čo sa k nej dostali — šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť.
+Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. 
 
-*Čo im robili? Čo im robili celé tie mesiace?*
+Arkot a Yera mali menšie šťastie. Tí ešte žili. Dvaja priatelia — *jej sestra, jej brat* — zakopaní v kobkách pod Chrámom Vševedúcej Matky už niekoľko mesiacov. [→ characters/Arkot.md: väzeň, mesiace mučenia] [→ characters/Yera.md: Požehnaná, čistá cela, Mormiel si ju skladuje]
 
-Tami stisla kľúč. Kĺby zbieleli.
+*Mesiace.* Tami stisla kľúč tak pevne, až jej zbieleli kĺby. *Čo im robili? Čo im robili celé tie mesiace?*
 
-A Flint. Flint bol mŕtvy. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. [→ characters/Arkot.md: Flintova smrť pri zatýkaní] Telo vystavili na námestí. [→ 06-society.md: Cirkev, inkvizičné praktiky]
+Správy, čo sa k nej dostali cez Nyau — s trojmesačným oneskorením, šepkané v prístavných krčmách, nedopovedané — hovorili o výsluchoch. O rituáloch. O veciach horších než smrť. [→ 05-geography.md: Nyau, východné pobrežie]
 
-S mužom, ktorému nedokázala odpustiť.
-
-*A ani zabudnúť*, dodala si v duchu.
+A teraz bola tu. V meste, kde jej zabili jedného priateľa a dvoch ďalších držali pod zemou. S plánom ukradnúť vec, za ktorú Flint zomrel — a vyslobodiť tých, čo ešte dýchali.
 
 ---
 
@@ -93,7 +90,7 @@ Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obo
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným ukom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jej ostrý hlas nadávať na prasknuté potrubie. Mačka mala talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa jej zmestilo do labiek. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
+Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným okom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jeho chraptivý hlas nadávať na prasknuté potrubie. Nix mal talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa dalo mlátiť kľúčom. [→ characters/Tami.md: Nix, Usagi Varietas, hlavný mechanik]
 
 „Exorcista," povedal Maks. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
 
@@ -128,7 +125,7 @@ Vynorila sa z podpalubia s najnonchalantnejším výrazom, aký dokázala nasadi
 
 Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
-*V Šoravene na ňu nebola vypísaná odmena. Aspoň nie pod jej pravým menom. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
+*V Šoravene na ňu nebola vypísaná odmena.Tu o jej existencii nikto nevedel. A keď Maks už pritiahol pozornosť celého doku, čo stratí, ak to urobí aj ona?*
 
 Zdvihla handru k tvári a jedným pohybom stiahla šatku. Medené vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — zafírovo modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
 
@@ -204,15 +201,13 @@ Iný hlas. Starší. Mechanický, aj keď sa ho naučil robiť teplým.
 
 *„Kanón pôjde. Ja nie."* [→ characters/Felix.md: Felix odmietol ísť, strach z vonkajšieho sveta] [→ planning/peaceful-squishing-glacier.md: Zmena D — Felix flashback]
 
-Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách, obklopený haiku na stenách a porcelánovým prachom. Tami pred ním. S mapou v jednej ruke a zúfalstvom v druhej.
+Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách. Tami pred ním s mapou v jednej ruke a zúfalstvom v druhej.
 
 *„Felix, prosím. Potrebujem ťa."*
 
-*„Weil ich nicht kann."* Nemčina. Používal ju len vtedy, keď hovoril pravdu, ktorú nedokázal povedať po japonsky. *Lebo nemôžem.* [→ characters/Felix.md: Nemčina = emotívny únik] Kovové prsty sa mu zachveli nad rozloženým čerpadlom. Osemsto rokov neodišiel z Kitsune. Svet vonku bol príliš veľký, príliš hlučný, príliš *živý* pre bytosť, ktorá sa naučila merať čas tikotom hodinového stroja.
+*„ Weil ich nicht kann."* Nemčina. Používal ju len vtedy, keď hovoril pravdu, ktorú nedokázal povedať inak. *Lebo nemôžem.* [→ characters/Felix.md: Nemčina = emotívny únik] Kovové prsty sa mu zachveli nad rozloženým čerpadlom. Osemsto rokov neodišiel z Kitsune. Svet vonku bol príliš veľký, príliš hlučný, príliš *živý* pre bytosť, ktorá sa naučila merať čas tikotom hodinového stroja.
 
-Objal ju. Tvrdý, kovový, nešikovný — ale skutočný.
-
-A potom jej dal kanón.
+Objal ju. Tvrdý, studený, nešikovný — ale skutočný.
 
 Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri rampe jej venovali krátky pohľad — záujem, nie nepriateľstvo. Jeden z nich — mladší — hanblivo sklopil oči, keď sa naňho pozrela.
 
@@ -381,22 +376,34 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 
 ---
 
-## Krčma U Slepej Panny
+## Časť III: Krčma na konci sveta
 [→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna] [→ concepts/tami-blind-maiden-pub.md: Mezra seed — "Rennovo mláďa"]
 
 Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]
 
-Tami si sadla do rohu. Chrbát k stene, oči na dvere. Maksov výcvik.
+Krčma sa volala *U Slepej Panny* a bola presne taká, ako znela — miesto, kde chodili ľudia, čo nemali kam iné ísť.
 
-Objednala si niečo hnedé a teplé, čo krčmár nazval pivom. Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
+Tami sedela v rohu pri okne, zatiahnutá do kapucne, s korbľom lacného piva pred sebou, z ktorého nepila. Uši mala schované pod šatkou. Pištole pod kabátom. Oči na celej miestnosti.
+
+Vzduch bol hustý od dymu, potu a zúfalstva. Za stolmi sedeli žoldnieri v rôznych štádiách opitosti, drobní podvodníci s nervóznymi rukami, robotníci z dokov, čo presedeli posledné mince, a pár postáv, o ktorých bolo lepšie nepremýšľať. V rohu hrala kapela — ak sa to tak dalo nazvať — dva Ghorki s rozladenou mandolínou a plechovým bubnom. Hudba bola tak zlá, že slúžila len ako hluk na zakrytie rozhovorov.
+
+*Presne preto som tu*, pomyslela si Tami.
+
+Karakuri jej dal meno a adresu. *Knihomoľ.* Ulica Mŕtvych zvonov, číslo 42.
+
+Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
 
 Bola tu cudzinkou. Prvýkrát v živote. Jej revír bol východ — Nyau, Beladiss, prístavné mestá, kde vedela, kto komu dlží a kde sa dá prenocovať bez toho, aby ťa v noci podrezali. [→ characters/Tami.md: Tamin revír = východ] Šoraven bolo iné zviera. Obrovské, studené a nepriateľské.
 
-Prvá hodina nepriniesla nič užitočné. Barmanička — široká mačka s priškvrknutými ušami a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala a mlčala. Očami nikdy neopustila poháre, ale Tami vedela, že počuje všetko. Ten druh ticha, ktoré sa učí roky za barom. Žoldnieri pri susedných stoloch sa hádali o žolde. Skupina námorníkov hrala karty a jeden z nich — jednooký s oceľovou rukou — podvádzal tak očividne, že to muselo byť súčasťou hry. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
+Prvá hodina nepriniesla nič užitočné. Barmanka — široká mačka s jedným okom a tmavými fľakmi, ktoré jej pokrývali líca ako rozliaty atrament — jej nalievala, ale o „Knihomoľovi" mlčala. Za strieborný groš ochotne rozprávala o každom v štvrti, no pri tomto mene len pokrútila hlavou a zametala pohľadom miestnosť, akoby sa bála, že niekto počúva. To povedalo viac než slová. Znamenalo to, že je to meno, ktoré Cirkvi leží v žalúdku.
+
+Opitý hodinkár tri stoly od nej si po pár nenápadných podnetoch od Tami pochvaľoval, ako mu „ten divný mačkáč" zaplatil za opravu chronomeru knihou namiesto peňazí. A plagát na stene za barom — starý, vyblednutý — varoval: *Kto znesvätí posvätné artefakty, zhorí v ohni Matkinej spravodlivosti.*
+
+*Kito. Pursang. Niekto, z koho má strach aj barmanka, čo sa nebojí nikoho. Niekto, koho Cirkev pozná menom.*
+
+Tami si všimla, že na meno *Knihomoľ* reagovali tri rôzne stoly. Ghorkiovia v rohu s tupým odporom. Skupinka námorníkov, z ktorých jeden - jednooký s oceľovou rukou - okázalo podvádzal v kartách, so strojeným nezáujmom. A skupina žoldnierov pri susedných stoloch reagovala tichom. Ostrým, hodiacim tichom. [→ 06-society.md: krčmy ako informačné uzly] [NOTE: atmosphere building, nie filler — ukazuje Taminu OSINT rutinu]
 
 Tami počúvala. Zbierala útržky. Stráže na Chrámovom námestí sa striedajú každé tri hodiny. Nočná zmena je menšia — väčšina obrancov sa presúva na hradby. Kanalizácia pod Starým mestom je čiastočne prístupná, ale odpočítajte strážne Ghorki psy, ktoré tam nasadili pred týždňom. [→ planning/01-prach-nevriss.md: heist plán, intel o strážach]
-
-*Málo*, pomyslela si. *Ale začiatok.*
 
 Dopíjala druhé pivo, keď to ucítila. Pohľad. Nie z vedľajšieho stola — zdola.
 
@@ -442,17 +449,19 @@ Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina ra
 
 Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou bežali čiary tetovaní. Rýchle, tiché, nenápadné. Žoldnieri by nevideli nič. [→ 06-society.md: WaSpira tetovania = externé makrá] [→ characters/Tami.md: Felix ju trénoval od detstva]
 
-Ale Tami nechcela potichu.
+Lenže pes s kušou nemal pevné nervy. Alebo mal zlý deň. Spúšť cvakla. Nebola to šípka. Bol to prachový výstrel, guľka s oceľovým jadrom, vystrelená z pálnej zbrane narýchlo pripevnenej na pažbu kuše. Ulička bola príliš úzka.
 
-*Nech vidia.*
+*Nie.*
 
-Pred jej ľavou dlaňou sa rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA — IDE namiesto makra. Flex + zastrašenie. Čitateľ ešte nevie čo to je — len vidí, že to žiari a žoldnieri sa boja.]
+Inštinkt mal prednosť pred utajením. Adrenalín prebudil nanoboty rýchlejšie, než jej vedomie stihlo vybrať diskrétnu možnosť.
 
-Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Päť vrcholov, päť hrán, dokonalá geometria zavesená v priestore centimetre od jej prstov. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
+Pred jej ľavou dlaňou sa s oslepujúcim bleskom rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA ZMENENÁ NA OBRANNÝ INŠTINKT. Prežitie > utajenie. Cukne sebou od výstrelu.]
+
+Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Geometria zavesená v priestore centimentre od jej prstov odrazila projektil s ostrým *cinknutím* a zhlukom iskier, ktorý ožiaril kamennú stenu uličky. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
 
 Potom kruhy.
 
-Okolo pentagramu sa začali vynárať sústredné prstence — jeden, dva, tri — každý väčší než predchádzajúci, rotujúce opačnými smermi. Na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce, kruhy v kruhoch — ktoré vyzerali ako vyryté do zlatého kovu. Jemné línie spájali prstence s pentagramom, radiálne, presné, ako lúče v ciferníku. Celá konštrukcia sa vznášala a pomaly rotovala s tichým bzučaním — nie mechanickým, skôr ako vibrácia struny napnutej medzi dvoma svetmi. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku] [NOTE: PRVÝ REVEAL pentagramového IDE. Kombinácia mágia + geometria — čitateľ vidí „čary", ale pozorný oko uvidí systém. Foreshadowing pravej podstaty Spiry.]
+Okolo pentagramu sa začali vynárať sústredné prstence. Bol to obranný reflex — Spira sa aktivovala na maximum. Prstence rotovali opačnými smermi, na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku]
 
 A potom — znaky.
 
@@ -462,17 +471,13 @@ Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami
 
 Svet sa spomalil.
 
-Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku — pomaly, tak strašne pomaly — a Tami mala čas spočítať prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia — Spira zrýchľuje spracovanie vnemov u silných operátorov. Subjektívne spomalenie okolia. Obrovská výhoda v boji — čas na premýšľanie, vyhýbanie sa strelám, čítanie pohybov protivníka.] [NOTE: PRVÝ REVEAL dilatácie. Čitateľ nechápe mechanizmus — len vidí, že Tami vníma svet inak. Foreshadowing toho, aká silná je Rennova dcéra.]
+Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku s palcátom — pomaly, tak strašne pomaly — a Tami mala čas spočítať jeho prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia]
 
-*Vidím vás. Každého. Všetko.*
+*Kurva, budem svietiť na pol štvrte.*
 
-Štít.
+Sústredila sa na potlačenie reakcie, pokúšala sa zrušiť okázalosť štítu. Ten rotoval a žiaril, pulzujúc v rytme jej vyplašeného srdca. Každý úder — záblesk. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, prebúdzajúc tiene na stenách.
 
-Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
-
-V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky a kruhy tancujúce na omietke, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
-
-Muž s jazvou zaváhal. Ostatní tiež. Pentagram a rapier — *Dar Matky a oceľ*. Ghorki banditi nečakali od nejakej aeronautky ani jedno, nieto oboje.
+Muž s jazvou zaváhal, palcát namierený do neba namiesto na ňu. Ostatní tiež. Výstrel do štítu odrazený zosobneným darom Matky. Ghorki banditi nečakali od nejakej aeronautky ani zďaleka taký odpor.
 
 „Posledná šanca odísť," povedala Tami. Hlas jej neznel vystrašene. Znel ako človek, čo počíta. *Štyria. Kuša. Palcát. Dva meče. Úzka ulička — výhoda pre rapier, nevýhoda pre palcát. Kuša je problém.* [NOTE: Tamino taktické myslenie — Maksov výcvik]
 
@@ -482,29 +487,39 @@ Ten s jazvou otvoril ústa —
 
 „Odporúčam poslúchnuť."
 
-Hlas prišiel zozadu. Pokojný. Hlboký. S prízvukom Staroreči, ktorý nedovoľoval odpor. [→ characters/Maks.md: Staroreč = angličtina/ukrajinčina, prízvuk starý 3000 rokov]
+Žoldnieri sa po sebe pozreli, potom na seba, pomaly cúvajúc na klzkom snehu.
+
+„A po tomto ste mali odísť," povedala Tami znechutene. „Mohlo to byť potichu."
+
+„Keby si to neschytala prvá."
+
+Hlas prišiel zozadu. Pokojný. Hlboký.
 
 Maks stál na konci uličky. Temný kabát, tmavé okuliare, ruky za chrbtom. Nepohol sa. Ani nemusel.
 
-Ghorki s kušou sa otočil prvý. A stuhol. [NOTE: Ghorki majú zvierací inštinkt — cítia predátora]
+Ten s kušou zbledol. [NOTE: Ghorki majú zvierací inštinkt — cítia predátora]
 
-Tami videla, ako sa to šíri skupinou — rozpoznanie. Nie tváre, nie mena. Niečo hlbšie. Niečo zvieracie. Inštinkt, ktorý hovoril *utekaj* ešte predtým, než mozog stihol spracovať informáciu. Tmavé okuliare. Čierny kabát. Nehybnosť dravca, ktorý nemusí loviť, pretože korisť sama vie, že nemá šancu.
+Tami videla, ako to na nich dopadlo. Nie rozpoznanie tváre. Rozpoznanie temna, ktoré si Maks nosil po celom kontinente ako ťažký plášť.
 
-*Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá, prostý ľud sa ich bojí]
+*Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá]
 
-Muž s jazvou spravil krok dozadu. Nevedome. Telo rozhodlo skôr, než hlava. Ghorki s kušou ju už spúšťal k zemi — pomaly, opatrne, aby ten pohyb nevyzeral ako hrozba. Dvaja s mečmi sa na seba pozreli a bez slova sa začali vytláčať z uličky bokom, cez dieru v múre, ktorú Tami predtým nevidela.
+Muž s jazvou spravil krok dozadu, palcát mu pomaly klesal k stehnu. Jeho kumpáni už mierili chrbtom k východu na opačnej strane.
 
-O päť sekúnd bola ulička prázdna. Len stopy v čerstvom snehu.
+O päť sekúnd bola ulička prázdna. Odkrajoval ich len šedý sneh.
 
-Tami pustila štít. Energia sa rozplynula a chlad v prstoch sa rozlial do celej ľavej ruky. Stisla päsť, aby sa zahriala. Nadel vrátila do pošvy jediným pohybom — rýchlym, čistým, Felixovým.
+Tami pustila štít. Zlaté svetlo zhaslo rovnako náhle, ako vzniklo. Chlad v prstoch sa rozlial do celej ľavej ruky. Zanadávala po japonsky a pošúchala si predlaktie. Nadel vrátila do pošvy rýchlym, čistým pohybom.
 
-Maks k nej prišiel. Bez náhlenia. Akoby sa nič nestalo.
+Maks k nej prišiel. Zastal len meter od nej.
 
-„Príliš nápadná, maličká." [→ characters/Maks.md: vzťah k Tami, mentor/učeň dynamika]
+„Zlý inštinkt," poznamenal neutrálnym hlasom.
 
-Tami zaťala zuby. „Mala som to pod kontrolou."
+Tami naňho zazrela. „Mal pištoľ upravenú na tej skurvenej kuši. Nečakala som to."
 
-„Určite." Bez výrazu. Bez irónie. Čo bolo horšie než oboje.
+„Viem."
+
+Zatla zuby. Nenávidela ten tón. „Nebola som nápadná úmyselne, keby ťa to zaujímalo."
+
+„Nepochyboval som," odpovedal, hoci sa jej zdalo, že za tmavými sklami okuliarov prebehol záblesk pobavenia. „Nabudúce používaj uši aj nad zemou, pomáha to proti pištoliam na kušiach."
 
 ---
 
@@ -548,7 +563,7 @@ Tami sa naňho pozrela. Na šedú srsť, na zakalené oko, na jazvy starých boj
 
 Vlk prikývol a vykročil vpred. Nos pri zemi, uši nastavené, oči skenujúce každý tieň. Na severe dunela artileria. Sneh padal na mesto, na vojakov, na mŕtvych a živých.
 
-Tami vykročila za ním. Maks vedľa nej. Tri tiene v bielom snehu.
+Tami vykročila za ním. Maks vedľa nej. Tri tiene v bielom snehu, smerujúce do štvrte, kde aj zvony boli už dávno mŕtve.
 
 Nevedela, koľko ju to bude stáť.
 

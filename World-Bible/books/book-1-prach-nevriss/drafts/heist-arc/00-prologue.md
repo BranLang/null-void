@@ -18,7 +18,7 @@ Jej zrak spočinul na kresle za veľkým dreveným stolom. Pri pohľade na tmav�
 
 „Tami," ozval sa hlas spoza stola.
 
-„Maks, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky," poznamenala s úctihodnou dávkou irónie. „Sme na mieste. Daj sa dokopy," dodala pre zmenu so súcitom v hlase.
+Tami si nahlas povzdychla a oprela sa o zárubňu. „Maks, lichotí mi, že ma v tvojom stave rozpoznáš od zvyšku posádky." Odmlčala sa. „Sme na mieste. Daj sa dokopy."
 
 Chystala sa opustiť kajutu, ale on ju zastavil. „Ešte sa na mňa hneváš?"
 
@@ -32,8 +32,5 @@ Tami sa presunula na provu lode. Nočná obloha bola čistá a krutá — tisíc
 
 Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hemžilo aktivitou. Náhle sa prudko zvrtla, aby sa uistila, že **Felix** — ťažký kanón, jej pýcha, je zamaskovaný pod plachtou. Letmo pohľadom skontrolovala stav barometra a posádke vydala pokyn na začatie pristávacieho manévru.
 
-*Itaka* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
+*Itaka* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nespúšťala zrak z nočného mesta.
 
-
-
-Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a obyvateľov, čo si pred každým výdychom priložili šatku k tvári.
