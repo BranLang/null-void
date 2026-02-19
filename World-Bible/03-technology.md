@@ -123,6 +123,7 @@ Všetky Gen 1 nanoboty (v1.0, v1.5, v1.7) zdieľajú rovnaký vizuál:
 - **Mikroskopické**: Malé čierne prachové zrnká, ktoré sa na mikroskopickom leveli spájajú a formujú zariadenia
 - **OS**: Bežia na Linuxe
 - **V tele**: Prepletené prachové uzly — pri detailnom pohľade vyzerajú ako **hniezdo hadov**, hýbu sa, preplietajú sa a svetielkujú na fialovo
+- **Videnie**: Nositeľ **vidí spektrá** (infrared, UV, nanobot signatures) — svet vyzerá inak cez Gen 1 oči
 - **Maksove oči**: Čierny Prach v očných jamkách — prachové uzly poprepletané ako hniezdo hadov, neustále sa hýbu a preplietajú, pri aktivite **jemne fialovo svetielkujú**
 
 > **Pravidlo pre popis Gen 1 nanotech v texte:**

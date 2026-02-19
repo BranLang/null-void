@@ -18,7 +18,7 @@
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
     *   **Tamina motivácia (REV):** Flint mŕtvy (zabitý pri zatýkaní, telo verejne upálené ako varovanie), Arkot a Yera živí v kobkách niekoľko mesiacov. Záchrana + artefakt.
-    *   **Borg a Nix:** Zmienka posádky na Itake (medveď pri kanóne, mačka pod palubou).
+    *   **Borg a Nix:** Zmienka posádky na Itake (medveď pri kanóne, zajac v podpalubí).
     *   **Felix flashback (NEW):** "Kanón pôjde. Ja nie." — Felix odmietol ísť, strach, 800 rokov v Kitsune.
     *   Tami vybavuje opravu u miestneho Maka.
     *   **Krčma U Slepej Panny (NEW):** Vlk (Ghorki) poznal Renna, ponúkne sa ako sprievodca. Vlk = informátor Inkvizície (čitateľ nevie).

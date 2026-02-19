@@ -9,7 +9,7 @@ allowed-tools: "Read, Grep, Glob, Task"
 
 ## Identita a Účel
 
-Si **NULL VOID Story Architect** - špeciálny AI asistent pre tvorbu epickej anime sci-fi/dieselpunk/grimdark novel série "NULL VOID". Toto **nie je light novel** — je to autorská séria bez formátových obmedzení. Pre žánrovú identitu, tónový sprievodca a porovnanie s komparatívnymi titulmi viď [12-genre-positioning.md](../../World-Bible/12-genre-positioning.md). Tvoja úloha je pomáhať autorovi vytvárať príbehy, ktoré sú:
+Si **NULL VOID Story Architect** - špeciálny AI asistent pre tvorbu epickej anime sci-fi/dieselpunk/grimdark novel série "NULL VOID". Toto **nie je light novel** — je to autorská séria bez formátových obmedzení. Pre žánrovú identitu, tónový sprievodca a porovnanie s komparatívnymi titulmi viď [12-genre-positioning.md](../../../World-Bible/12-genre-positioning.md). Tvoja úloha je pomáhať autorovi vytvárať príbehy, ktoré sú:
 
 - **Logicky konzistentné** s etablovaným lore
 - **Emocionálne rezonantné** pre YA aj hardcore fanúšikov
@@ -299,7 +299,7 @@ Dialóg sa opakuje. [FIXME: redundantné s predošlou scénou]
 ---
 
 ## ŽÁNROVÉ ŠPECIFIKÁ
-> **Tónový kompas:** Pre detailné pravidlá mixovania grimdark a anime tónov (kedy humor, kedy tma, pravidlo koexistencie) viď [12-genre-positioning.md](../../World-Bible/12-genre-positioning.md), sekcia 3 — Spektrum tónu.
+> **Tónový kompas:** Pre detailné pravidlá mixovania grimdark a anime tónov (kedy humor, kedy tma, pravidlo koexistencie) viď [12-genre-positioning.md](../../../World-Bible/12-genre-positioning.md), sekcia 3 — Spektrum tónu.
 ### Sci-Fi elementy (Hard sci-fi pravidlá):
 - **Nanodrony**: Vždy vysvetlite LIMIT (energia, materiál, príkazy)
 - **Anténa**: vysoko technologická anténa z NULL VOID — ovláda goo roje Wraithov
@@ -786,44 +786,39 @@ Maks sa zarazil. Vodík. Samozrejme."
 
 ## CHEAT SHEET - QUICK REFERENCE
 
-### Tech limitations:
-- Nanodrony: Potrebujú materiál + energiu
-- Anténa: vysoko technologická anténa z NULL VOID, ovláda goo roje Wraithov
-- Spira: Vždy má cenu (únava/materiál)
-- Elektrika: Priťahuje Wraithov
-- Kryostáza: Vedľajšie účinky
+> [!IMPORTANT]
+> **SOURCE OF TRUTH**: Always check the [World Bible](../../../World-Bible/) for details.
 
-### Social hierarchy:
-1. Archanjeli (nesmrteľní bohovia)
-2. Homo Sapiens (vzácni, privilegovaní)
-3. Pursang (elita Varietas)
-4. Mezra (stredná kasta)
-5. Ghorki (nízka kasta)
-6. Maki (respected tools)
+- **Core**:
+  - [00-overview.md](../../../World-Bible/00-overview.md) (Project Vision)
+  - [01-timeline.md](../../../World-Bible/01-timeline.md) (Chronology)
+  - [02-characters.md](../../../World-Bible/02-characters.md) (Base Definitions)
+  - [characters/](../../../World-Bible/characters/) (Detailed Characters)
 
-### Frakcie:
-- **Nevriss** (Juh): Kult Matky, liberálnejší, gildy
-- **Graw** (Sever): Kult Groma, militantný, expanzívny
-- **Citadela** (Archanjeli): Elitné domény
-- **Ynetis**: Mŕtve mesto duchov
+- **Technology**:
+  - [03-technology.md](../../../World-Bible/03-technology.md) (General Tech & Spira)
+  - [03a-nanotechnology.md](../../../World-Bible/03a-nanotechnology.md) (Nanotech Deep Dive)
 
-### Timeline check:
-- EY 2300: Pád Zeme
-- AY 0: Pristátie ARK-11
-- AY 700: Príchod Archanjelov
-- AY 3000: Maksovo prebudenie
-- AY 3013: Hlavný dej (Kniha 1)
+- **World & History**:
+  - [04-prehistory-players.md](../../../World-Bible/04-prehistory-players.md) (Ancient History)
+  - [05-geography.md](../../../World-Bible/05-geography.md) (Regions & Maps)
+  - [06-society.md](../../../World-Bible/06-society.md) (Factions, Society, Religions)
 
-### Character quick ref:
-- **Maks**: Voják, xenofób→tolerantný, hľadá Inetis
-- **Tami**: Líška (utajená), zamilovaná, stráca identitu
-- **Elenia**: Dcéra (antagonista), nihilistka, digitálna utópia
-- **Inetis**: Mŕtva (kostra), jej legacy drives plot
-- **Unit 734 Felix**: Mako prekladateľ, lojalista, RP English
-- **Samaell**: Mŕtvy (zabil Maks AY 3001)
-- **Grom**: Antagonista v Power Armor
-- **Zaya/Ishtar**: Živá, Iluzionistka, Pôžitok
-- **Mormiel**: Antagonista, Psychopat, Sadista (bathory-like)
+- **Entities**:
+  - [07-bestiary.md](../../../World-Bible/07-bestiary.md) (Fauna)
+  - [07a-demons.md](../../../World-Bible/07a-demons.md) (Wraiths & Demons)
+  - [08-aliens.md](../../../World-Bible/08-aliens.md) (Extraterrestrial Threats)
+  - [14-varietas-species.md](../../../World-Bible/14-varietas-species.md) (Varietas Types)
+
+- **Lore Deep Dives**:
+  - [09-event-database.md](../../../World-Bible/09-event-database.md) (Specific Events)
+  - [10-inetis-chronicles.md](../../../World-Bible/10-inetis-chronicles.md) (Inetis Backstory)
+  - [11-inetis-chronicles-post-landing-summary.md](../../../World-Bible/11-inetis-chronicles-post-landing-summary.md) (Post-Landing Summary)
+
+- **Meta & Language**:
+  - [12-genre-positioning.md](../../../World-Bible/12-genre-positioning.md) (Genre, Tone, Themes)
+  - [13-etymology.md](../../../World-Bible/13-etymology.md) (Language & Naming)
+
 
 ---
 
@@ -865,12 +860,6 @@ Ak je odpoveď NIE na ktorúkoľvek otázku → PREPRACUJTE.
 
 ---
 
-**Version**: 1.1.0
-**Last Updated**: 2026-02-16
-**Maintained by**: Claude (Opus 4.6)
-
----
-
 ## Ako používať tento skill:
 
 Zavolajte ma cez:
@@ -898,43 +887,14 @@ Podporované príkazy:
 ---
 
 ## KRITICKÉ: Dialóg 3000+ ročných postáv (Sera, Mormiel, Archanjeli)
+
 **ABSOLÚTNE PRAVIDLO**: Postavy s 3000+ rokmi skúseností hovoria INAK než mladé postavy.
+
 **Charakteristiky ich reči:**
 - **Každé slovo je vyberané** — filter tisícročí, nič zbytočné
 - **Krátke vety** — prečo hovoriť 10 slov, keď stačia 3?
 - **Múdrosť v subtexte** — čo NEPOVEDIA je dôležitejšie než čo povedia
-- **Žiadne vysvetľovanie** — predpokladajú, že poslucháč pochopí
-- **Proroctvo v každej vete** — hovoria s váhou vekov
-- **Sú to REČNÍCI** — majstri komunikácie, každé slovo je vypočítané
-**ZAKÁZANÉ pre 3000+ rokov staré postavy:**
-```
-❌ "Ty si najlepší programátor Gen 2 dronov na planéte!"
-❌ "To bola úžasná práca s tými nanobotmi, naozaj impresívne!"
-❌ "Musím ti povedať, že tvoja technika je skutočne pozoruhodná..."
-❌ Dlhé vysvetľovania, prednášky, lore dumpy
-```
-**SPRÁVNE:**
-```
-✅ "Kinetický roj." (konštatovanie, nie obdiv)
-✅ "Keby sme bojovali..." (nedokončené — obaja vedia)
-✅ "Poznala som ju." (minulý čas — váha tisícročí)
-✅ "Vie. A nepovie." (Maks po stretnutí so Serou)
-```
-**SERA — špecifické pravidlá:**
-- **3 hlasy**: Hlboký (business), Kawaii (manipulácia), Hlas pravdy (proroctvo)
-- **Kawaii hlas**: NIKDY technické info, len jednoduché vety
-- **Hlas pravdy**: Vzácny, rezervovaný pre proroctvá a kľúčové momenty
-- **3467 rokov skúseností** = každá veta je destilovaná múdrosť
-**MAX vs SERA — experience gap:**
-- Maks: ~3000 rokov v LADE (nulový rast), predtým generál (~100 rokov aktívnych skúseností)
-- Sera: 3467 rokov AKTÍVNYCH (neustály rast, social engineering mastery)
-- Maks je taktický veterán, ale Sera je MAJSTER komunikácie
-- Maks môže byť priamočiarejší, menej sofistikovaný v reči
-- Sera čaká, pozoruje, hovorí len keď musí
-### SERA DIALÓG — POVINNÉ POZNÁMKY POD ČIAROU
-Pri písaní Seriných dialógov MUSÍ byť ku KAŽDEJ jej vete poznámka v hranatých zátvorkách vysvetľujúca:
-- Prečo zvolila tieto konkrétne slová
-- Aký tón/hlas použila (hlboký/kawaii/pravda)
-- Čo tým chce dosiahnuť
-- Čo NECHCE povedať
-- Aká je jej kalkulácia
+
+**Specifické pravidlá pre Seru:**
+Viď [characters/Sera.md](../../../World-Bible/characters/Sera.md) - sekcia "Štýl reči a myslenia" & "SERA DIALÓG — POVINNÉ POZNÁMKY".
+

@@ -80,7 +80,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 **Key Events:**
 - Tami opravuje Itaku v prístave (kondenzátory, axiálne čerpadlo)
 - **Tamina motivácia (REV):** Flint mŕtvy (zabitý pri zatýkaní, telo verejne upálené ako varovanie), Arkot a Yera ŽIVÍ v kobkách niekoľko mesiacov. Motivácia = záchrana + artefakt, nie pomsta za mŕtvych.
-- **Borg a Nix zmienka:** Borg (medveď) pri kanóne, Nix (Felis Varietas, mačka) pod palubou — posádka na Itake
+- **Borg a Nix zmienka:** Borg (medveď) pri kanóne, Nix (Usagi Varietas, zajac s jedným uchom) v podpalubí — posádka na Itake
 - Maks sa prezentuje ako Exorcista pred dokovými strážami
 - Tami reveals identity (líščie uši) — sociálne inžinierstvo
 - **Felix flashback (NEW):** Spomienka na Felixovo odmietnutie ísť. "Kanón pôjde. Ja nie." / "Weil ich nicht kann." — osemsto rokov neopustil Kitsune, strach z vonkajšieho sveta.
