@@ -21,7 +21,8 @@
       "Bash(gh auth:*)",
       "Skill(null-void-writer)",
       "Skill(null-void-writer:*)",
-      "Bash(dir \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\World-Bible\\\\books\\\\book-1-prach-nevriss\\\\drafts\" /s /b)"
+      "Bash(dir \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\World-Bible\\\\books\\\\book-1-prach-nevriss\\\\drafts\" /s /b)",
+      "Bash(git remote get-url:*)"
     ]
   }
 }

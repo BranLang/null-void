@@ -34,6 +34,3 @@ Hodnú chvíľu sústredene sledovala všetky detaily. Dolu v uliciach sa to hem
 
 *Itaka* naberala rýchlosť. Mladá kapitánka si rituálne nasadila letecké okuliare. O pár sekúnd neskôr jej nárazový vietor odvial kapucňu z hlavy. Vyslobodené, neskrotné vlasy jej vôbec neprekážali. Obe ruky pevne zovreli oceľové zábradlie. Nedokázala potlačiť úžas nad krásami nočného mesta.
 
-
-
-Ráno odhalilo pravdu — zasnežené strechy, dlažbu pokrytú šedým ľadom a obyvateľov, čo si pred každým výdychom priložili šatku k tvári.
