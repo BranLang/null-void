@@ -385,16 +385,20 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 
 ---
 
-## Krčma U Slepej Panny
+## Časť III: Krčma na konci sveta
 [→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna] [→ concepts/tami-blind-maiden-pub.md: Mezra seed — "Rennovo mláďa"]
 
 Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]
 
 Krčma sa volala *U Slepej Panny* a bola presne taká, ako znela — miesto, kde chodili ľudia, čo nemali kam iné ísť.
 
-Tami sedela v rohu pri okne, zatiahnutá do kapucne, s korbľom lacného piva pred sebou, z ktorého nepila. Uši mala schované pod šatkou. Pištole pod kabátom. Chrbát k stene, oči na celej miestnosti. Maksov výcvik.
+Tami sedela v rohu pri okne, zatiahnutá do kapucne, s korbľom lacného piva pred sebou, z ktorého nepila. Uši mala schované pod šatkou. Pištole pod kabátom. Oči na celej miestnosti.
 
 Vzduch bol hustý od dymu, potu a zúfalstva. Za stolmi sedeli žoldnieri v rôznych štádiách opitosti, drobní podvodníci s nervóznymi rukami, robotníci z dokov, čo presedeli posledné mince, a pár postáv, o ktorých bolo lepšie nepremýšľať. V rohu hrala kapela — ak sa to tak dalo nazvať — dva Ghorki s rozladenou mandolínou a plechovým bubnom. Hudba bola tak zlá, že slúžila len ako hluk na zakrytie rozhovorov.
+
+*Presne preto som tu*, pomyslela si Tami.
+
+Karakuri jej dal meno a adresu. *Knihomoľ.* Ulica Mŕtvych zvonov, číslo 42.
 
 Nemala hlad. Nemala plán. Mala len cieľ — kobky pod Chrámom — a nič, čím by sa k nemu dostala. Mako jej dal adresu Ciferníka. Ulica Mŕtvych zvonov. Ale na to, aby sa tam dostala, potrebovala niekoho, kto poznal toto mesto. Niekoho, kto vedel, kde sú slepé uličky a kde stráže.
 

@@ -13,6 +13,23 @@ Hladina čiernej, olejovitej tekutiny siahala Maksovi po pás. Pach hniloby sa m
 
 Tami išla prvá. Chemické svetlo nad hlavou osvetľovalo kruhový tunel — dokonalý prierez, steny pokryté popraskanými keramickými panelmi, teraz zelenými od slizu a storočí zanedbania. Jej uši sa neustále otáčali, zachytávali kvapkanie vody, škrípanie starého potrubia a vzdialené, rytmické dunenie výbuchov na povrchu. Každý dopad ťažkého kalibru sa sem dole prenášal ako pulz — steny sa zachveli, hladina vody sa sčerila a prach sa zosypal zo stropu.
 
+Kráčali takto už peknú chvíľu. Dusné ticho v chodbách občas prerušilo len Kitovo ťažké dýchanie. 
+
+Tami sa na chvíľu zastavila a pozrela na úzku štrbinu prieduchu vysoko nad nimi. Nebe cez ňu nebolo vidieť, bola to len upchatá čierna diera. 
+„Sai zapadá," povedala ticho a preložila si váhu. „Cítite to olovo na pleciach?"
+
+Kito si napravil ťažký ruksak s výdychom a utrel si pot z čela. „Dvadsaťhodinový cyklus. Konečne prichádza ťažká hodina. V chráme nás učia, že zosilnená tiaž je Dych Matky, ktorým nás testuje." 
+
+„Základná planetárna mechanika, žiadna skúška," ozval sa stroho Maks zo zadného voja. Senzory mu blikali v prítmí.
+
+„A presne to potrebujeme," odfrkla si Tami a upravila si puzdro so zbraňou, aby ju po novom menej ťahalo do zeme. 
+
+„Kto by sa hnal dolu schodmi, keď každý krok stojí dvakrát toľko paliva alebo svalov," dodal Kito a pošúchal si presilené koleno. „Stráže ostanú sedieť na zadku. Ich spánok bude drvivý."
+
+Maks mierne prikývol, hoci to v tme takmer nebolo vidieť. „Lúpež presne pre túto hodinu."
+
+Znovu sa pohli, čľapkajúc v hluku vody, no Tamin nepokoj stúpal. 
+
 Maks istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
 „Hovorí sa, že tieto tunely pamätajú Éru Temnoty," povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvie. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch."
@@ -51,19 +68,11 @@ Vytiahol ho na vyvýšenú plošinu — starú údržbovú rampu, kde kedysi st�
 
 Kito kašľal. Pľúval vodu. Potom sa na Maksa pozrel — inak než predtým. Nie ako na legendu z apokryfov. Ako na človeka, ktorý mu práve zachránil život.
 
-„Prečo si sa vrátil?" spýtal sa Kito, keď chytil dych. Hlas sa mu ešte stále lámal. „Mohol si zmiznúť. Nechať nás tak."
+„Prečo si pre mňa skočil?" spýtal sa Kito, keď chytil dych. Hlas sa mu ešte stále lámal. „Mohol si zmiznúť. Nechať nás tak."
 
-Maks sa oprel o vlhkú stenu. V tme svietili len Tamine oči — tyrkysové, líščie — a jeho vlastný HUD, slabé modré kontúry na okrajoch zorného poľa.
+Maks sa oprel o vlhkú stenu. V tme svietili len Tamine oči — tyrkysové, líščie — a jeho vlastná optika, slabé modré kontúry na okrajoch zorného poľa.
 
-„Pretože som sľúbil," povedal.
-
-„Komu? Tej líške?"
-
-„Nie." Maks sa zadíval do tmy tunela. Pred očami mal iný obraz. Slepota. Chlad. A hlas, ktorý ho prosil, aby prežil. „Sľúbil som... že to nenechám zhasnúť."
-
-„Svetlo?"
-
-„Nie. Pamäť."
+„Nezvyknem nechávať rozrobenú robotu," povedal chladne Maks a skontroloval zbraň.
 
 Tami prišla k nim. Mokrá, ale funkčná. Uši napriamené, oči chladné.
 
@@ -87,7 +96,7 @@ Tunel sa rozšíril do obrovskej komory.
 
 Strop sa dvíhal do výšky troch poschodí. Steny pokryté starými panelmi — kedysi bielymi, teraz zažltnutými a popraskanými. Rozpraskané keramické dlaždice na podlahe, medzi nimi čierna voda, v ktorej sa odrážalo svetlo Taminho chemického svetla ako rozbitá hviezda. A uprostred — obrovská ventilačná turbína. Nehybná. Zhrdzavená. Lopatky dlhé ako muž, pokryté hrdzou a pavučinami prachu. Stará relikvia z čias, keď toto mesto dýchalo.
 
-Vzduch tu bol iný. Suchší. Chladnejší. Žiadny metán — stará ventilácia tu ešte fungovala. Voňal po ozóne a ropnom oleji — pachy, ktoré nemali čo robiť v stredovekom kanáli pod mestom, ale ktoré Maksovi hovorili, že tu kedysi bežali stroje presnejšie než čokoľvek, čo tento svet dokáže vyrobiť.
+Vzduch tu bol iný. Suchší. Chladnejší. Žiadny metán — stará ventilácia tu ešte fungovala. Voňal po ozóne a ropnom oleji — pachy, ktoré nemali čo hľadať v primitívnej stoke bežnej mestskej rafinérie, ale ktoré Maksovi hovorili, že tu kedysi bežali stroje presnejšie než čokoľvek, čo dokážu vyrobiť dnešné gildy.
 
 „Tu je tá strojovňa?" spýtala sa Tami a pomaly prechádzala pozdĺž steny. Prsty jej kĺzali po paneloch — cítila pod nimi jemné vibrácie. Stará energia, ktorá ešte celkom nezomrela.
 
@@ -111,11 +120,11 @@ Tretia — Mezra, vlčica — mala tvár zo slonoviny. Doslova. Jej koža bola u
 
 Neboli naživu. Neboli mŕtve. Boli to telá bežiace na poškodenom kóde — rovnaká nekonečná modlitba ako Mayina, len ďalej v procese. Tam, kde Maya ešte šepkala, tieto už len útočili. Posledný príkaz, ktorý ich Spira dokázala prečítať.
 
-Kito vykríkol. Hlas sa mu zlomil v hrdle. „To sú... Matka Všehomíra, to sú *oni*! Yara, Dren a — a Sorin! Dren bol *môj priateľ*!" Kolená sa mu podlomili. Vzduch v komore zhustol, keď jeho nekontrolovaná telekinéza vybuchla ako tlaková vlna — voda sa rozčerila, starý panel sa odlomil zo steny a spadol do kaluže.
+Kito vykríkol a ustavil sa, akoby ho niekto udrel. Ruky sa mu roztriasli natoľko, že upustil mapy. Kolená sa mu podlomili. Vzduch v komore zhustol, keď jeho nekontrolovaná telekinéza vybuchla ako tlaková vlna — voda sa rozčerila, starý panel sa odlomil zo steny a spadol do kaluže.
 
 „Dozadu," povedal Maks. Hlasne. Jasne. Rozkaz.
 
-Kito cúvol k stene. Ruky sa mu triasli. Okuliare mu spadli do vody. Nezbadal to.
+Kito cúvol k stene. Ruky sa mu triasli, neschopný odtrhnúť prázdny pohľad od prichádzajúcich hororov. Okuliare mu spadli do vody. Nezbadal to.
 
 Medveď sa vrhol vpred. Rýchlosť, ktorá nemala právo existovať pri niečom tej veľkosti. Päť očí na stonkách sa otočilo nezávisle — každé sledovalo inú časť komory.
 
@@ -127,7 +136,7 @@ Tvor ani nespomalil. Kryštály sa okamžite začali regenerovať — fialové s
 
 „Viem."
 
-Kunami sa rozpadol — modré črepiny sa rozpršali a zmaterializovali sa tri metre vľavo, priamo pred Tami. Pazúry zamierili na jej hrdlo.
+Kunami sa rozpadol. Doslova. Nebol to beh, bola to manipulácia rozbitého kódu Spiry – kvantové previazanie štruktúr o vyššiu dimenziu. Modré črepiny jeho chrbta sa v zlomku sekundy vyrušili z existencie a bleskovo presunuli o tri metre, kde sa okamžite presadili späť do tlejúcej matérie. Materializoval sa priamo pred Tami a pazúry mu vyštartovali na hrdlo.
 
 Tami vystrelila raz. Modrá iskra — náboj okorenený Spirou, jeden z dvanástich, každý drahší než kôň — zasiahla kunamiho do jadra, presne do medzery medzi črepinami. Spira v guľke sa vzňala. Črepiny sa rozpadli ako spálený papier.
 
@@ -137,13 +146,17 @@ Vlčica zdvihla ruky. Oba pentagramy zažiarili.
 
 Plameň vyšľahol z jej dlaní — nie náhodne, nie divoko. *Smerovaný.* Ako raketa.
 
-Maks sa uhol za pilier. Oheň preletel okolo neho, zasiahol turbínu. Kov zavrčal a rozžeravil sa do červena.
+Maks sa uhol za pilier. Oheň preletel okolo neho, zasiahol turbínu. Kov zavrčal, rozžeravil sa do červena a staré tesnenia pod ním s hysterickým syčaním povolili.
 
-Maks vyskočil spoza piliera. Päť rán. Presných. Prvé dve rozbili pentagramy v dlaniach. Tretia zasiahla plece. Vlčica zavrávorala, plameň zhasol.
+Kompresná para — natlakovaná storočia hlboko v útrobách potrubí — prerazila von s revom, ktorý prehlušil aj delostrelectvo na povrchu. Oblak vriaceho bieleho plynu zalial polovicu komory. Kito zatiahol ruky nad tvár a odvrátil sa od horúčavy.
+
+Medveďovi s piatimi očami to zasiahlo pravú stranu. Mäkké stonky očí zasyčali, kryštály popraskali tepelným šokom. Monštrum zaryčalo a začalo bezcieľne udierať labami do pary.
+
+Maks využil chaos. Vyrazil cez okraj dymovej clony. Päť rán. Presných. Prvé dve rozbili oslnivej vlčici pentagramy v dlaniach. Tretia zasiahla plece. Vlčica zavrávorala, plameň zhasol.
 
 Tami vystrelila. Modrá iskra zasiahla vlčicu do hrudníka. Spira municia prenikla cez kameň, ktorý bol kedysi kožou. Telo prasklo. Za tri sekundy — prach.
 
-Medveď zostal sám. Oslepený Maksovými ranami, vaľal sa komorou, narážal do pilierov, stonky na hlave tĺkli vzduch naslepo.
+Medveď zostal sám. Zovretý v oblaku horúcej pary a oslepený, vaľal sa komorou, narážal do pilierov, zhorené stonky na hlave tĺkli vzduch naslepo.
 
 Maks prešiel okolo neho. Vytiahol nôž — obyčajný, ocel, žiadna tech. Bodol do krku. Hlboko. Nie smrteľne — len *značka*. *Tu.*
 
@@ -163,7 +176,7 @@ Tami čistila pištoľ. Vymenila zásobník. Maks nabíjal samopal.
 
 „Každý druhý týždeň," povedal Maks bez toho, aby zdvihol zrak. „Niekedy častejšie."
 
-„Oni mali *mená*! Yara študovala botaniku! Dren bol *môj priateľ*!"
+„Oni... spoznal som obojok toho medveďa," Kitov hlas sa úplne poddal. „To bol Dren. On... on a Yara, spoznal by som aj jej chôdzu na zemi... študovala botaniku! Dren bol môj *priateľ*... oni mali mená."
 
 Tami sa zastavila. Zdvihla zrak. Oči studené a jasné. „A práve preto sme ich zabili rýchlo. Bez zbytočnej bolesti."
 
@@ -183,7 +196,7 @@ Maks vstal. Podal mu ruku. Knihovník ju chytil.
 
 ## Časť III: Rozlomenie
 
-Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Maksov HUD ukazoval, že sa blížia k základom Chrámu — päťsto metrov, štyristo, tristo —
+Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Maksove senzory ukazovali, že sa blížia k základom Chrámu — päťsto metrov, štyristo, tristo —
 
 Svet sa otriasol.
 
@@ -207,7 +220,7 @@ Keď sa usadil, medzi nimi bola stena.
 
 „Viem, kurva, viem." Frustrácia v jej hlase. „Aký je plán?"
 
-Maks stál v tme na svojej strane zavalu. HUD mu kreslil mapu — fragment, neúplný, ale dostatočný. Cesta pred ním viedla priamo pod Chrám. Cesta na ich strane sa kľukatila cez staré ventilačné šachty.
+Maks stál v tme na svojej strane zavalu. Optika mu kreslila mapu — fragment, neúplný, ale dostatočný. Cesta pred ním viedla priamo pod Chrám. Cesta na ich strane sa kľukatila cez staré ventilačné šachty.
 
 „Kito," povedal Maks cez sutiny. „Tvoje mapy. Je tam obchvat?"
 
