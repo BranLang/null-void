@@ -446,17 +446,19 @@ Pravá ruka skĺzla na rukoväť Nadla. [→ CHAPTER-NOTES.md: Nadel = Tamina ra
 
 Mohla to spraviť potichu. Stačilo stlačiť predlaktie — tam, kde pod kožou bežali čiary tetovaní. Rýchle, tiché, nenápadné. Žoldnieri by nevideli nič. [→ 06-society.md: WaSpira tetovania = externé makrá] [→ characters/Tami.md: Felix ju trénoval od detstva]
 
-Ale Tami nechcela potichu.
+Lenže pes s kušou nemal pevné nervy. Alebo mal zlý deň. Spúšť cvakla. Nebola to šípka. Bol to prachový výstrel, guľka s oceľovým jadrom, vystrelená z pálnej zbrane narýchlo pripevnenej na pažbu kuše. Ulička bola príliš úzka.
 
-*Nech vidia.*
+*Nie.*
 
-Pred jej ľavou dlaňou sa rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA — IDE namiesto makra. Flex + zastrašenie. Čitateľ ešte nevie čo to je — len vidí, že to žiari a žoldnieri sa boja.]
+Inštinkt mal prednosť pred utajením. Adrenalín prebudil nanoboty rýchlejšie, než jej vedomie stihlo vybrať diskrétnu možnosť.
 
-Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Päť vrcholov, päť hrán, dokonalá geometria zavesená v priestore centimetre od jej prstov. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
+Pred jej ľavou dlaňou sa s oslepujúcim bleskom rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA ZMENENÁ NA OBRANNÝ INŠTINKT. Prežitie > utajenie. Cukne sebou od výstrelu.]
+
+Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Geometria zavesená v priestore centimentre od jej prstov odrazila projektil s ostrým *cinknutím* a zhlukom iskier, ktorý ožiaril kamennú stenu uličky. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
 
 Potom kruhy.
 
-Okolo pentagramu sa začali vynárať sústredné prstence — jeden, dva, tri — každý väčší než predchádzajúci, rotujúce opačnými smermi. Na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce, kruhy v kruhoch — ktoré vyzerali ako vyryté do zlatého kovu. Jemné línie spájali prstence s pentagramom, radiálne, presné, ako lúče v ciferníku. Celá konštrukcia sa vznášala a pomaly rotovala s tichým bzučaním — nie mechanickým, skôr ako vibrácia struny napnutej medzi dvoma svetmi. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku] [NOTE: PRVÝ REVEAL pentagramového IDE. Kombinácia mágia + geometria — čitateľ vidí „čary", ale pozorný oko uvidí systém. Foreshadowing pravej podstaty Spiry.]
+Okolo pentagramu sa začali vynárať sústredné prstence. Bol to obranný reflex — Spira sa aktivovala na maximum. Prstence rotovali opačnými smermi, na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku]
 
 A potom — znaky.
 
@@ -466,17 +468,13 @@ Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami
 
 Svet sa spomalil.
 
-Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku — pomaly, tak strašne pomaly — a Tami mala čas spočítať prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia — Spira zrýchľuje spracovanie vnemov u silných operátorov. Subjektívne spomalenie okolia. Obrovská výhoda v boji — čas na premýšľanie, vyhýbanie sa strelám, čítanie pohybov protivníka.] [NOTE: PRVÝ REVEAL dilatácie. Čitateľ nechápe mechanizmus — len vidí, že Tami vníma svet inak. Foreshadowing toho, aká silná je Rennova dcéra.]
+Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku s palcátom — pomaly, tak strašne pomaly — a Tami mala čas spočítať jeho prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia]
 
-*Vidím vás. Každého. Všetko.*
+*Kurva, budem svietiť na pol štvrte.*
 
-Štít.
+Sústredila sa na potlačenie reakcie, pokúšala sa zrušiť okázalosť štítu. Ten rotoval a žiaril, pulzujúc v rytme jej vyplašeného srdca. Každý úder — záblesk. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, prebúdzajúc tiene na stenách.
 
-Nie veľký — sotva dosť na zakrytie trupu. Polopriehľadná bariéra zlata a svetla, cez ktorú Tami videla rozmazané obrysy žoldnierov. Kruhy rotovali, symboly žiarili, línie pulzovali — a celá konštrukcia sa pohybovala v rytme jej srdca. Každý úder — záblesk. Každý výdych — jemné zatlmenie. Akoby to žilo. Akoby to dýchalo s ňou. [→ 03-technology.md: Kvintesencia = vôľa operátora, prepojenie vedomia s nanobotmi]
-
-V uličke to vyzeralo ako zjavenie. Zlaté svetlo sa odrážalo od snehu, od mokrých kameňov, od špinavých brnení žoldnierov. Prstence pentagramu vrhali na steny pohyblivé tiene — znaky a kruhy tancujúce na omietke, ako tiene vitráže v chráme. [NOTE: tiene na stenách = rituálna geometria. Kruhy + hiragana = vizuálny podpis Spiry pre celú sériu.]
-
-Muž s jazvou zaváhal. Ostatní tiež. Pentagram a rapier — *Dar Matky a oceľ*. Ghorki banditi nečakali od nejakej aeronautky ani jedno, nieto oboje.
+Muž s jazvou zaváhal, palcát namierený do neba namiesto na ňu. Ostatní tiež. Výstrel do štítu odrazený zosobneným darom Matky. Ghorki banditi nečakali od nejakej aeronautky ani zďaleka taký odpor.
 
 „Posledná šanca odísť," povedala Tami. Hlas jej neznel vystrašene. Znel ako človek, čo počíta. *Štyria. Kuša. Palcát. Dva meče. Úzka ulička — výhoda pre rapier, nevýhoda pre palcát. Kuša je problém.* [NOTE: Tamino taktické myslenie — Maksov výcvik]
 
@@ -486,29 +484,39 @@ Ten s jazvou otvoril ústa —
 
 „Odporúčam poslúchnuť."
 
-Hlas prišiel zozadu. Pokojný. Hlboký. S prízvukom Staroreči, ktorý nedovoľoval odpor. [→ characters/Maks.md: Staroreč = angličtina/ukrajinčina, prízvuk starý 3000 rokov]
+Žoldnieri sa po sebe pozreli, potom na seba, pomaly cúvajúc na klzkom snehu.
+
+„A po tomto ste mali odísť," povedala Tami znechutene. „Mohlo to byť potichu."
+
+„Keby si to neschytala prvá."
+
+Hlas prišiel zozadu. Pokojný. Hlboký.
 
 Maks stál na konci uličky. Temný kabát, tmavé okuliare, ruky za chrbtom. Nepohol sa. Ani nemusel.
 
-Ghorki s kušou sa otočil prvý. A stuhol. [NOTE: Ghorki majú zvierací inštinkt — cítia predátora]
+Ten s kušou zbledol. [NOTE: Ghorki majú zvierací inštinkt — cítia predátora]
 
-Tami videla, ako sa to šíri skupinou — rozpoznanie. Nie tváre, nie mena. Niečo hlbšie. Niečo zvieracie. Inštinkt, ktorý hovoril *utekaj* ešte predtým, než mozog stihol spracovať informáciu. Tmavé okuliare. Čierny kabát. Nehybnosť dravca, ktorý nemusí loviť, pretože korisť sama vie, že nemá šancu.
+Tami videla, ako to na nich dopadlo. Nie rozpoznanie tváre. Rozpoznanie temna, ktoré si Maks nosil po celom kontinente ako ťažký plášť.
 
-*Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá, prostý ľud sa ich bojí]
+*Exorcista.* [→ 06-society.md: Exorcisti — heretici a strašidlá]
 
-Muž s jazvou spravil krok dozadu. Nevedome. Telo rozhodlo skôr, než hlava. Ghorki s kušou ju už spúšťal k zemi — pomaly, opatrne, aby ten pohyb nevyzeral ako hrozba. Dvaja s mečmi sa na seba pozreli a bez slova sa začali vytláčať z uličky bokom, cez dieru v múre, ktorú Tami predtým nevidela.
+Muž s jazvou spravil krok dozadu, palcát mu pomaly klesal k stehnu. Jeho kumpáni už mierili chrbtom k východu na opačnej strane.
 
-O päť sekúnd bola ulička prázdna. Len stopy v čerstvom snehu.
+O päť sekúnd bola ulička prázdna. Odkrajoval ich len šedý sneh.
 
-Tami pustila štít. Energia sa rozplynula a chlad v prstoch sa rozlial do celej ľavej ruky. Stisla päsť, aby sa zahriala. Nadel vrátila do pošvy jediným pohybom — rýchlym, čistým, Felixovým.
+Tami pustila štít. Zlaté svetlo zhaslo rovnako náhle, ako vzniklo. Chlad v prstoch sa rozlial do celej ľavej ruky. Zanadávala po japonsky a pošúchala si predlaktie. Nadel vrátila do pošvy rýchlym, čistým pohybom.
 
-Maks k nej prišiel. Bez náhlenia. Akoby sa nič nestalo.
+Maks k nej prišiel. Zastal len meter od nej.
 
-„Príliš nápadná, maličká." [→ characters/Maks.md: vzťah k Tami, mentor/učeň dynamika]
+„Zlý inštinkt," poznamenal neutrálnym hlasom.
 
-Tami zaťala zuby. „Mala som to pod kontrolou."
+Tami naňho zazrela. „Mal pištoľ upravenú na tej skurvenej kuši. Nečakala som to."
 
-„Určite." Bez výrazu. Bez irónie. Čo bolo horšie než oboje.
+„Viem."
+
+Zatla zuby. Nenávidela ten tón. „Nebola som nápadná úmyselne, keby ťa to zaujímalo."
+
+„Nepochyboval som," odpovedal, hoci sa jej zdalo, že za tmavými sklami okuliarov prebehol záblesk pobavenia. „Nabudúce používaj uši aj nad zemou, pomáha to proti pištoliam na kušiach."
 
 ---
 
