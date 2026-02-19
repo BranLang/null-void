@@ -95,7 +95,7 @@ Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obo
 
 *Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
 
-Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným ukom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jej ostrý hlas nadávať na prasknuté potrubie. Mačka mala talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa jej zmestilo do labiek. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
+Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka — osem aeronautov — sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným ukom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jeho chraptivý hlas nadávať na prasknuté potrubie. Zajac s jedným odrezaným uchom mal talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa dalo mlátiť kľúčom. [→ characters/Tami.md: Nix, Usagi Varietas, hlavný mechanik]
 
 „Exorcista," povedal Maks. Stručne. Bez pozdravov, bez titulárnych ozdôb. Slovo padlo na palubu ako kus ľadu.
 
