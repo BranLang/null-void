@@ -108,15 +108,19 @@ Vstal od postele. Pomaly. Akoby sa od nej odtrhával po kúskoch.
 
 Prišiel k stolu. Sadol si. Ruky mu jemne vibrovali — telekinéza pod kožou, pulzujúca s každým úderom srdca.
 
-„Chcela pomôcť rodine z dlhov," povedal a pozrel na staré zvitky na stole. „Našla zakázané skriptá. Odrecitovala modlitbu, ktorú nemala."
+„Chcela byť užitočná," povedal a pozrel na staré zvitky na stole. „Chcela pomôcť rodine z dlhov." Prstom ukázal na jednu z kníh — hrubú, v koženej väzbe, s neznámymi symbolmi na chrbtici. „Toto som odkúpil od jednej zúfalej ženy na trhu. Zakázané skriptá. Maya ich našla v noci, keď som spal."
 
-Tami si sadla oproti nemu. Čakala.
+Tami si sadla oproti nemu. Čakala. Nechcela ho prerušiť.
 
-„A tá modlitba sa *neskončila*." Hlas sa mu zlomil. „Prepisuje ju. Mení mäso na kameň, kúsok po kúsku."
+„Myslela si, že ak odrecituje staré modlitby, Matka ju požehná silnejšou Spirou. Že bude lepšia. Užitočnejšia." Trpko sa zasmial. „Ale pomýlila sa v jednom slove."
+
+Obrátil dlaň hore. Nad ňou sa zachvel vzduch — Kitova telekinéza, jemná, nekontrolovaná.
+
+„Vidíte toto? Keď sa Spira aktivuje správne, trvá to sekundu. Nabije sa, urobí čo má, a skončí." Vzduch sa upokojil. „Mayina modlitba sa *neskončila*. Pentagram sa jej rozziaril na červeno a ona spanikárila. Nevedela, ako to vypnúť. Nechala ho svietiť." Hlas sa mu zlomil. „Hodiny. Celú noc."
 
 Pozrel na Maksa. Žlté oči mu horeli zúfalstvom.
 
-„Ušiel som s ňou. Skúšal som všetko. Bol som za tým starým Makom. Pozrel sa na to a... len pokrútil hlavou. Povedal, že tá modlitba je staršia než on."
+„Jej modlitba nemá koniec, Maks. Opakuje sa dookola. Spira v nej odpovedá na volanie, ktoré nikdy neprestane. Prepisuje ju. Mení mäso na kameň, kúsok po kúsku." Hlas sa mu zlomil, no vzápätí stvrdol na kameň samotný. „Kňažky jej chceli odrezať ruku a poslať ju do baní ako požehnanú tehlu... Ušiel som s ňou. Skúšal som všetko. Bol som za tým starým Makom. Pozrel sa na to a... len pokrútil hlavou. Povedal, že *jeho* modlitebné knihy na to nestačia. Že tá modlitba je staršia než on."
 
 Kito zovrel päste. „Naznačil, že ak chcem odpoveď, musím ísť k zdroju. K pôvodu tých modlitieb. Pod Chrám."
 
