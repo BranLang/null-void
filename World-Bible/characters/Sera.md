@@ -160,6 +160,15 @@
 - Advanced combat protocols
 - Spira detection & manipulation (limited)
 
+**Čierny Prach — stealth špecializácia vs Maks:**
+- Sera opustila Zem v roku EY 2150 (ARK-11, ako 5-ročná) — nižší tech level než Maks (EY 2301)
+- 3000 rokov sama, bez inštruktorov, bez sparring partnerov, bez vojenského tréningu
+- Špecializácia: stealth (kamufláž — Prach pohltí svetlo), social engineering, haiku (natívna japončina — jediná živá native speaker na Achilles)
+- V priamom boji by prehrala proti Maksovi — vie to, prizná to („Keby sme bojovali...", Ch4)
+- Kompenzuje: trpezlivosť (3000 rokov), manipulácia, stealth, Yari enchant (haiku), spektrálne videnie, Hard Light Shield (ukradnutý Apes)
+- Čo sa Maks naučil za 200+ rokov v armáde (top tier assassin, defenzívne reflexy, dronový boj), sa Sera nemohla naučiť v samote za 3000 rokov — chýbala infraštruktúra a vyšší tech
+[→ 03a-nanotechnology.md: Čierny Prach — Bojový profil: Maks vs Sera]
+
 **Vampirizmus (maintenance):**
 - Praktizuje na Pursang livestock (chované na Veži Stratených)
 - Vysáva nanoboty z Pursang krvi

@@ -362,7 +362,7 @@ Dva kužele — ostré, biele, chirurgické — z taktických lámp na prilbách
 
 Za svetlom — *dvaja*.
 
-Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — energetické Hard Light štíty, vibro-sekery; Brotherhood of Steel estetika — taktické lampy, masívne brnenie, vojenský pragmatizmus]
+Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — Svetelné Štíty, vibro-sekery; Brotherhood of Steel estetika — taktické lampy, masívne brnenie, vojenský pragmatizmus]
 
 Tami otvorila oči. Svetlo ju oslepilo na okamih — po absolútnej tme boli taktické lampy ako dva slnká. Keď sa jej zrak prispôsobil, videla.
 
@@ -370,7 +370,7 @@ Vodu sfarbenu dočervena. Telá. A dvoch kolosov, ktorí stáli v diere v stene 
 
 *Takéto veci sa na tomto svete nerobia.* [NOTE: Tá istá myšlienka sa zopakuje v Ch4 pri bráne — echo. Teraz platí pre Maksa aj pre Paladínov — dva druhy „nemožného" v jednom tuneli.]
 
-Maks sa pokúsil zhasnúť taktické lampy. Niečo v ňom siahlo k svetlu — a narazilo do steny. Neviditeľná bariéra centimetre od povrchu prilby. Tvrdá ako betón, tenká ako papier. Čokoľvek poslal, odrazilo sa späť ako komáre od skla. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč. Maks ešte nevie, čo je Hard Light — len vidí, že nič z jeho arzenálu neprenikne.]
+Maks sa pokúsil zhasnúť taktické lampy. Niečo v ňom siahlo k svetlu — a narazilo do steny. Neviditeľná bariéra centimetre od povrchu prilby. Tvrdá ako betón, tenká ako papier. Čokoľvek poslal, odrazilo sa späť ako komáre od skla. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Svetelný Štít — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč. Maks ešte nevie, čo je Svetelný Štít — len vidí, že nič z jeho arzenálu neprenikne.]
 
 Svetlo všetko zmenilo. Chrámové stráže — tých deväť, čo ešte stáli — videli. A keď videli, bojovali.
 
@@ -378,7 +378,7 @@ Pentagramy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, n
 
 Všetko zasiahlo Paladínov.
 
-Spira strely zasiahli svetelný štít — a zomreli na ňom. Enchant sa rozpadol pri kontakte. Cez štít prešli len oceľové jadrá — spomalené, mŕtve, bez sily. Odrazili sa od panciera ako kamienky od hradnej steny. Blesk narazil do modrej bariéry a rozplynul sa — pohltený, rozložený, preč. Telekinetická vlna zasiahla štít a vrátila sa späť — tlmená, rozptýlená, neškodná. [→ 03-technology.md: Hard Light štít zastaví VŠETKU Spira energiu. Enchant sa rozbije pri kontakte. Oceľ prejde ale bez penetrácie. Blesk/TK absorbované štítom.] [NOTE: Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť. Nič z ich arzenálu neprejde cez tú modrú čiaru.]
+Spira strely zasiahli Svetelný Štít — a zomreli na ňom. Spevnenie sa rozpadlo pri kontakte. Cez štít prešli len oceľové jadrá — spomalené, mŕtve, bez sily. Odrazili sa od panciera ako kamienky od hradnej steny. Blesk narazil do modrej bariéry a rozplynul sa — pohltený, rozložený, preč. Telekinetická vlna zasiahla štít a vrátila sa späť — tlmená, rozptýlená, neškodná. [→ 03-technology.md: Svetelný Štít zastaví VŠETKU Spira energiu. Spevnenie sa rozbije pri kontakte. Oceľ prejde ale bez penetrácie. Blesk/TK absorbované štítom.] [NOTE: Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť. Nič z ich arzenálu neprejde cez tú modrú čiaru.]
 
 Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami *praskol*. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch metrov. Brnenia, štíty, telá — ako nič. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku, nie len kontaktná zbraň]
 
@@ -396,7 +396,7 @@ A potom sa otočili.
 
 Dva páry očí — za vizormi prilbách, svietiace modrým svetlom — sa zadívali priamo na Maksa. Nie na Tami. Nie na Kita. Na *neho*. Vedeli, pre koho prišli.
 
-Maks zdvihol samopal. Tri rány. Náboje z Čierneho Prachu prešli cez modré svetlo na chrbte Raua — štít ich nepohltil, nie sú Spira — ale na druhej strane z nich zostal len čierny prach. Rozpadli sa. Oceľové jadrá dopadli na pancier a odskočili ako dážď od skaly. [NOTE: Čierny Prach = nie Spira, Hard Light ho nezastaví. Ale nano-coating sa rozpadne pri prechode — oceľ prejde spomalená, bez penetrácie. Maks je na tom INAK než Spira bojovníci — jeho projektily prejdú cez štít, ale bez účinku.]
+Maks zdvihol samopal. Tri rány. Náboje z Čierneho Prachu prešli cez modré svetlo na chrbte Raua — štít ich nepohltil, nie sú Spira — ale na druhej strane z nich zostal len čierny prach. Rozpadli sa. Oceľové jadrá dopadli na pancier a odskočili ako dážď od skaly. [NOTE: Čierny Prach = nie Spira, Svetelný Štít ho nezastaví. Ale nano-coating sa rozpadne pri prechode — oceľ prejde spomalená, bez penetrácie. Maks je na tom INAK než Spira bojovníci — jeho projektily prejdú cez štít, ale bez účinku.]
 
 *Nefunguje*, pochopil Maks v zlomku sekundy. *Nič z môjho arzenálu nefunguje.*
 
@@ -695,8 +695,6 @@ A Tami odišla. Rýchlo. Bez obzretia. Lebo vedela — keby sa obzrela, neodišl
 ---
 
 Kito sa pozrel na Arkota — leopard, kostra, sotva stojí. Na Yeru — mačka, bosá, sivá od vyčerpania, s krvou na leme rúcha a niekde v tých modrých očiach iskra, ktorá tam pred chvíľou nebola. Na zemi medzi nimi — strážnik, ktorý mal zomrieť a nezomrel. Hruď hore, dole. Hore, dole.
-
-Tri ľudia. Jeden archivár bez okuliarov, bez viery a bez zbraní. A cesta, ktorú poznal len z máp.
 
 Nadýchol sa. Nasadil si prasknuté okuliare — zbytočné, ale zvyk je zvyk.
 
