@@ -132,7 +132,7 @@ Zvuk z šachty nad nimi. Škrabanie. Dýchanie. Maks zdvihol zbraň — automati
 
 „To som ja." Kitov hlas, zadýchaný, ozvučený plechom šachty. „Nestrieľajte."
 
-Zosunul sa dolu — mokrý, roztrasený, bez ruksaku. Nechty mal odreté do mäsa od rebríkov. Nechal im mapu dokov — Arkot pozná prístav, nájde cestu. Okuliare stále prasknuté, stále zbytočné. Predral sa cez šachtu späť ako krysa tunelom.
+Zosunul sa dolu — mokrý, roztrasený, bez ruksaku. Dlane mal odreté do živa od hrdzavých rebríkov. Nechal im mapu dokov — Arkot pozná prístav, nájde cestu. Okuliare stále prasknuté, stále zbytočné. Predral sa cez šachtu späť ako krysa tunelom.
 
 Tami naňho zízala. „Čo tu *robíš*? Mal si ich vyviesť—"
 
