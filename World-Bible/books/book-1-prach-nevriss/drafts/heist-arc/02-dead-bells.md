@@ -204,7 +204,7 @@ Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabin
 
 Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
-„Vstup je pri bitúnku," ukázal dlhým prstom. „Starý kanál. Ideme pri odlive — keď Sai zapadne." Prst sa posunul po mape k Chrámu. „Dve hodiny. Potom nás voda vyženie." [→ 05-geography.md: Sai prílivový cyklus, odlivové okno ~2h]
+„Vstup je pri bitúnku," ukázal dlhým prstom. „Starý kanál. Ideme pri odlive." Prst sa posunul po mape k Chrámu. „Dve hodiny. Potom nás voda vyženie." [→ 05-geography.md: Sai prílivový cyklus, odlivové okno ~2h]
 
 „Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
 

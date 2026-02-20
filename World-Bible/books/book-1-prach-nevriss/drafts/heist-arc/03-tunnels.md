@@ -228,13 +228,25 @@ Svetlo. Zo všetkých troch tunelov naraz — olejové lampáše, desiatky, vyro
 
 Dvadsaťdva. Maks sa nepomýlil. [→ 06-society.md: Chrámová stráž, elitná jednotka]
 
-Z predného tunela vykročil dôstojník. Vysoký Mezra — vlčie uši, ostrý pohľad, na hrudi plaketa Inkvizície. Za ním dvaja lukostrelci s namiereným lukom, šípy potiahnuté Spira žiarou. [→ 06-society.md: Inkvizícia, vojenské rameno Chrámu]
+Z predného tunela vykročil dôstojník. Vysoký Mezra — vlčie uši, ostrý pohľad, na hrudi plaketa Inkvizície. Za ním dvaja ostreľovači s dlhými karabínami — hlavne potažené Spira žiarou. [→ 06-society.md: Inkvizícia, vojenské rameno Chrámu; → 03-technology.md: Spira munícia]
 
-„Exorcista." Slovo znelo z jeho úst ako rozsudok. „Líška. A... Kito z Mŕtvych zvonov." Pohľad mu preskočil na knihovníka. „Dlho sme ťa hľadali."
+Dôstojník sa zastavil. Pohľad mu preskočil z Tami na Kita, potom na Maksa — a tam zostal. Niečo sa v ňom zmenilo. Sotva viditeľne. Čeľusť sa stisla. Vlčie uši sa stiahli dozadu o milimeter. [NOTE: Involuntárna reakcia — predátor rozpoznáva väčšieho predátora. Inkvizícia vie, čo sú Exorcisti.]
+
+„Exorcista." Slovo vyslovil opatrne. Ako keby držal v ústach niečo, čo by ho mohlo hrýzť.
+
+Ticho. Dlhšie, než bolo profesionálne.
+
+Potom sa nadýchol a nasadil si masku späť. „Rennsdóttir." Pohľad sa presunul na Tami. Intonácia sa zmenila — mäkšia, takmer zdvorilá. „Požehnaná Matka vás chce vidieť. Žiadna ujma. Máte slovo Inkvizície."
+
+*Mňa?* Tami sa neodvážila pozrieť na Maksa.
+
+„Knihovník pôjde s vami." Dôstojník hodil krátky pohľad na Kita, ako sa pozerá na šváby. „Ako kolaborant."
 
 Kito prestal dýchať.
 
-Dôstojník pokračoval. Ruky za chrbtom, hlas tvrdý a byrokraticky presný: „Vaše mená sú známe. Heretik. Zlodejka. Utečenec. Vzdajte sa dobrovoľne, alebo vás tu pochováme. Nikto sa po vás nebude pýtať."
+Potom sa dôstojníkove oči vrátili k Maksovi. A tam sa niečo zlomilo — fasáda kontroly sa na okamih pootvorila a pod ňou nebola autorita. Bol tam výpočet. Koľko z mojich dvadsiatich dvoch sa vráti domov. [→ characters/Mormiel.md: Mormiel = Požehnaná Matka, rozkazy Inkvizícii]
+
+„Exorcista odíde." Hlas mu neznel ako rozkaz. Znel ako prosba zabalená do uniformy. „Nebudeme sa brániť. Odíďte. Toto sa vás netýka."
 
 Maks stál nehybne. Ruky za chrbtom. Oči — tie čierne priepasti za okuliarmi — neprezrádzali nič. Dvadsaťdva zbraní na nich mierilo a on vyzeral, akoby počítal oblaky.
 
@@ -244,13 +256,13 @@ Tami mala pravú ruku na Nadeli. Ľavú pred sebou — pripravenú na pentagram.
 
 Matematika nefungovala. Vedela to. Maks to vedel. Kito sa triasol a nevedel nič.
 
-Ticho.
+Ticho. Dunenie z povrchu — Grawská artileria, vzdialená, tlmená — pulzovalo v stenách ako srdce umierajúceho. Voda okolo ich členkov sa jemne chvela.
 
-Dunenie z povrchu — Grawská artileria, vzdialená, tlmená — pulzovalo v stenách ako srdce umierajúceho. Voda okolo ich členkov sa jemne chvela.
+Tami videla, ako sa dva ostreľovače za dôstojníkom dívajú na Maksa. Nie s nenávisťou. S tým výrazom, aký mávali zvieratá, keď cítili požiar a nevedeli, odkiaľ fúka vietor. Hlavne karabín sa jednému z nich jemne triasli. [NOTE: Elitní vojaci, ale vedia, čo sú Exorcisti — bytosti z iného sveta, 3000 rokov staré. Legendy hovoria o veciach, ktoré robili v zamorených zónach.]
 
 „Kto vám povedal?" spýtal sa Maks. Konverzačný tón. Akoby sa pýtal na počasie.
 
-Dôstojník sa usmial. Tenký, vlčí úsmev. „Máme priateľov. Aj medzi vlkmi."
+Dôstojník sa usmial. Tenký, vlčí úsmev — ale Tami videla, že nedosahoval k očiam. „Máme priateľov. Aj medzi vlkmi."
 
 Tami zatvorila oči. Na pol sekundy. Keď ich otvorila, v nich bol ľad.
 
@@ -258,51 +270,133 @@ Tami zatvorila oči. Na pol sekundy. Keď ich otvorila, v nich bol ľad.
 
 *Dlžím niečo Rennovi.* Teraz tie slová zneli celkom inak.
 
+„Posledná ponuka, Rennsdóttir." Dôstojník vystrel ruku. Otvorená dlaň. „Poďte s nami. Dobrovoľne. Požehnaná Matka je milosrdná."
+
+Maks sa pohol. Nie telom — len hlavou. Otočil sa na Tami. A v tom pohľade bolo všetko, čo slovami nepovedal.
+
+*Nikam nejdeš.*
+
+Dôstojník to videl. Vlčie uši sa mu stiahli k lebke. Ruka klesla. Prehltol.
+
+„Tak dobre," povedal ticho. Hlas mu zvrdol. „Dvadsaťdva Spira nábojov. Aj Exorcista je z mäsa." Pokývol hlavou smerom k strážam. Bezpečie sa odparovalo z tunelov ako para z mokrého kameňa.
+
+Prsty na spúšťach sa napli. [NOTE: Dôstojník sa pokúsil vyjednávať — preferoval riešenie bez strát. Keď Maks odmietol vydať Tami, nezostáva nič. Rozkaz je rozkaz. Ale jeho „aj Exorcista je z mäsa" je sebapresvedčovanie — sám tomu neverí.]
+
 ---
 
 ## Časť IV: Opice [→ planning/01-prach-nevriss.md: Fáza 4 — Apes = Rau a Kira, Paladíni z Juhu]
 
-Potom to prišlo.
+Maks zavrel oči.
 
-Nie zhora. Nie z tunelov. Z *múrov*.
+Nepotreboval ich. Za okuliarmi mu žili tisíce — drobné, neviditeľné, rozptýlené v tme okolo jeho hlavy ako roj komárov, ktoré nikto nevidel a nikto nepočul. Videl cez ne. Každú zbraň. Každý prst na spúšti. Každý uhol.
+
+*Dvadsaťdva cieľov. Tri osi. Olejové lampáše — päťdesiatdva zdrojov svetla.*
+
+„Tami," povedal ticho. „Zavri oči."
+
+Potom ich zhasol. [→ 03a-nanotechnology.md: Gen 1 nanoboty — kinetický roj, absorpcia tepelnej energie. Maks dokáže lokálne pohltiť plamene.]
+
+Tma bola absolútna.
+
+Nie šero. Nie prítmie. *Nič.* Päťdesiatdva olejových plameňov zomrelo v rovnakom okamihu — akoby im niekto vysal vzduch z okolia. Tunely pohltila čerň tak hustá, že sa z nej dalo piť.
+
+Ticho. Len dunenie nevrisskej artillérie na povrchu — tlmené, vzdialené, ako tep sveta nad nimi.
+
+Traja naraz. Inštinkt. Tréning. Pentagramy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky. [→ 03-technology.md: pentagram = viditeľný pre všetkých; v tme = jediný zdroj svetla]
+
+Potom zhasli. Nie pentagramy — ich majitelia. Tri nanoboty. Do úst. Do nosa. Do ucha. Minimálna detonácia — žiadny mess, žiadna dráma. Len vypnutie. [→ 03a-nanotechnology.md: Gen 1 nanodron dokáže prejsť aj cez tkanivo, ale dýchacie cesty = low effort, najrýchlejšia cesta. Spotreba: 1 nanobot/cieľ. Čistý kill.]
+
+Tri výkriky — krátke, udusené — a tri telá padli do vody. Pentagramy zhasli s nimi. Tma a ticho sa vrátili.
+
+Strely. Niekoľko dobre mierených rán smerom na miesto, kde stáli Maks, Tami a Kito. Projektily zmenili smer — niečo ich vychýlilo z dráhy tesne pred cieľom, akoby ich neviditeľná ruka odstrčila. Náboje zvonili o steny za nimi. [→ 03a-nanotechnology.md: Gen 1 kinetický roj — deflexia projektilov, spotreba: 1-2 nanoboty na výstrel. Lacnejšie než zabiť, ale nie zadarmo.]
+
+Maks videl všetko. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infračervený sken, taktický overlay]
+
+*Roj: 340 aktívnych jednotiek. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 nanoboty sa nerozmnožujú — každý spotrebovaný je stratený navždy]
+
+Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
+
+Štvrtý výkrik v tme. Maks. Strážca to necítil — len krátky závan vzduchu, ako keby sa niečo dotklo jeho krku, a potom jeho kolená povolili a on padol do vody bez zvuku. [NOTE: 4. mŕtvy — po troch Spira nešťastníkoch. Maks teraz začína.]
+
+Ticho. Dlhé. Maks čakal.
+
+Piaty. Vedľa neho — počul šplieskanec. Otočil sa. Strelil do tmy. Výstrel zadunel v tuneli ako hrom a na pol sekundy osvetlil — *nič*. Priestor, kde pred okamihom stál Exorcista, bol prázdny. [NOTE: Maks sa pohybuje medzi výstrelmi. Nie je rýchlejší než guľka — je rýchlejší než prst na spúšti. Taktický overlay mu ukazuje smer hlavne skôr, než strážca stihne vystreliť.]
+
+Zvyšní neodpovedali. Nestrelili. Len dýchanie — rýchle, plytké, zúfalé. A čakanie. Vedeli, že ďalší príde. Nevedeli odkiaľ.
+
+Nikto neutiekol. Boli tri tunely von. Stačilo sa otočiť a bežať. Ale rozkaz Požehnanej Matky bol silnejší než inštinkt.
+
+Šiesty. Kinetický roj — neviditeľné fragmenty, presné ako ihly — nachádzal medzery v pancierových vestách. Švy. Krk. Zápästia. Tichý zvuk. Pád. Voda. [→ 03a-nanotechnology.md: Gen 1 kinetický roj — chirurgická presnosť, minimálna spotreba nanobotov na cieľ]
+
+Pauza. V absolútnej tme sa čas rozpadol.
+
+„*Streľte! Všade! Zalejte tunel!*" Dôstojník kričal. A strážce strieľali — divoko, naslepo, do stien, do stropu, do seba. Projektily smerom na Maksa opäť zmenili dráhu. Dve telá padli od vlastnej paľby. [NOTE: Maks deflektuje len strely mierené na neho/Tami/Kita. Zvyšok nechá — nech sa zabíjajú sami.]
+
+Siedmy. Ôsmy. Medzi každým — pauza. Čas na rozhodnutie. Čas na útek.
+
+Nikto neutiekol.
+
+Desať tiel vo vode. Zvyšných dvanásť sa tlačilo k sebe — chrbát k chrbtu, zbrane do tmy. Triasli sa. Tami ich počula cez vodu — klopkanie zubov, rýchle, plytké dýchanie. Elitní bojovníci, redukovaní na zvieratá v tmavej klietke. Žiadny ďalší pentagram sa nerozžiaril. Pochopili.
+
+A potom Maks zastavil. Znova čakal. [NOTE: Dvojitá taktika — (A) šetrí roj, každý nanobot je nenahraditeľný; (B) dáva im čas utiecť medzi každým zabitím. Racionálny vojak by po desiatich mŕtvych v tme ustúpil. Títo nie — rozkaz Požehnanej Matky prevážil inštinkt. A to Maksovi povedalo viac než čokoľvek iné o tom, kto ich poslal.]
+
+Niečo sa blížilo.
+
+Jeho senzory to zachytili skôr, než to počul — narušenie vzduchu v dvoch tuneloch naraz. Žiadna tepelná signatúra. Žiadna nano-identifikácia. Len *pohyb* — rýchly, masívny, a úplne neznámy. Dva objekty. Alebo bytosti. Vzduch pred nimi vibroval frekvenciou, ktorú Maksov Asistent nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 senzory nepoznajú Apes technológiu — iná civilizácia, iný kontinent, nulová databáza]
+
+*Neidentifikované. Dva kontakty. Rýchlosť: anomálna. Signatúra: žiadna zhoda. Odporúčanie: —*
+
+Asistent nedokončil vetu. Prvýkrát za trinásť rokov nemal odporúčanie.
 
 Vibrácia. Tichá, ale *hlboká* — rezonovala v kostiach, v zuboch, v stenách samotných. Iná než delostrelectvo. Iná než čokoľvek, čo Tami počula. Rytmická. Narastajúca. Ako keby sa niečo obrovské predieralo cez skalu.
 
-Chrámové stráže to ucítili tiež. Uši sa im napriamili. Zbraňami šili po stenách.
+Chrámové stráže to ucítili tiež. Výkriky ustali. Teraz sa báli niečoho iného.
 
-Dôstojník zdvihol ruku. „Čo to—"
+Stena za nimi *explodovala*.
 
-Stena za ním *explodovala*.
+Nie prasknuto. Nie zrútené. *Rozrezané.* Štyri tony betónu a kameňa sa rozpadli na kusy veľké ako tehly, rozmetané do tunela s rýchlosťou šrapnelu. Traja strážnici, čo ešte stáli, ani nestihli otočiť hlavy.
 
-Nie prasknuto. Nie zrútené. *Rozrezané.* Štyri tony betónu a kameňa sa rozpadli na kusy veľké ako tehly, rozmetané do tunela s rýchlosťou šrapnelu. Traja strážnici, čo stáli najbližšie, ani nestihli otočiť hlavy.
+Z diery sa vyvalilo svetlo.
 
-Z diery vykročili *dvaja*.
+Dva kužele — ostré, biele, chirurgické — z taktických lámp na prilbách. Osvetlili masaker. Telá vo vode. Krv zmiešanú s olejom z rozbitých lampášov. Dvanásť preživších strážcov, stlačených k sebe ako stádo, so zbraňami trčiacimi do všetkých strán. A uprostred toho — Maksa. Stojaceho. Pokojného. S rukami za chrbtom a očami, v ktorých nebolo nič ľudské.
 
-Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, ornamentálny, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — energetické Hard Light štíty, vibro-sekery]
+Za svetlom — *dvaja*.
 
-*Neznáme*, oznámil Asistent do Maksovej hlavy. *Žiadna zhoda. Signatúra: nehomogénna. Odporúčanie: ÚSTUP.*
+Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — energetické Hard Light štíty, vibro-sekery; Brotherhood of Steel estetika — taktické lampy, masívne brnenie, vojenský pragmatizmus]
 
-Chrámové stráže zareagovali presne tak, ako sa dalo čakať — otočili sa k novej hrozbe. Dvadsať zbraní sa presmerovalo na monolity v svetlom brnení.
+Tami otvorila oči. Svetlo ju oslepilo na okamih — po absolútnej tme boli taktické lampy ako dva slnká. Keď sa jej zrak prispôsobil, videla.
 
-Boli to ich posledné rozhodnutia.
+Vodu sfarbenu dočervena. Telá. A dvoch kolosov, ktorí stáli v diere v stene a pozerali sa na scénu s pokojom bytostí, pre ktoré toto nebolo nič nové.
 
-Väčší — Rau — sa pohol prvý. Sekera švihla horizontálne, nízko nad zemou, cez trojicu strážcov ako kosa cez trávu. Čepeľ vibrovala tak rýchlo, že nezanechala rez — zanechala *prázdnotu*. Brnenia, kosti, mäso — všetko sa rozpadlo na prach v línii šírky.
+*Takéto veci sa na tomto svete nerobia.* [NOTE: Tá istá myšlienka sa zopakuje v Ch4 pri bráne — echo. Teraz platí pre Maksa aj pre Paladínov — dva druhy „nemožného" v jednom tuneli.]
 
-Palba. Chrámová stráž strieľala — karabíny, luky, jedna Spira guľka. Všetko zasiahlo modré svetlo na ich chrbtoch a... rozprsklo sa. Ako voda na skle. Hard Light štíty pohltili každý náraz, zachveli sa a ustálili. [NOTE: Prvý reveal Hard Light. Rovnaká technológia, akú Maks bude bezmocne streľať v Ch4.]
+Maks sa pokúsil zhasnúť taktické lampy. Roj sa odrazil od neviditeľnej bariéry centimetre od povrchu prilby — ako keby vrazil do skla. Hard Light. Elektromagnetický štít, hustý ako betón, tenký ako papier. Nič z jeho arzenálu cezeň neprešlo. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč.]
 
-Kira — menšia, rýchlejšia — bola medzi strážcami skôr, než stihla druhá salva. Sekera zvisle. Jeden rez — veliteľ Inkvizície, ten s vlčím úsmevom, sa zložil v dvoch kusoch. Nedokončil ani výkrik.
+Svetlo všetko zmenilo. Chrámové stráže — tých dvanásť, čo ešte stáli — videli. A keď videli, bojovali.
 
-Pätnásť sekúnd.
+Pentagramy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, na hrudi. Tunel explodoval farbami. Spira štíty sa rozprestreli pred strážcami — priesvitné, žiariace, zlatisté. Niekto vystrelil blesk — biely, oslnivý, rachotajúci cez vodu. Iný zdvihol ruky a vzduch sa stlačil do viditeľnej vlny. Oheň. Telekinez. Vodný bič zdvihnutý z vody po členky. Dvaja ostreľovači strieľali Spira projektily — zažiarené náboje, čo za sebou ťahali zlaté stopy. [→ 03-technology.md: pentagram = 5 elementov Spiry; Inkvizícia = elitní Spira bojovníci, nie len strelci]
 
-Maks počítal. Pätnásť sekúnd od prvého rezu po posledný pád. Dvadsaťdva strážnikov. Dvaja neznámi v brnení, s technológiou, ktorú nevidel ani na Zemi, ani tu, nikde za trinásť rokov na tomto kontinente.
+Všetko zasiahlo Paladínov.
 
-*Takéto veci sa na tomto svete nerobia.* [NOTE: Tá istá myšlienka sa zopakuje v Ch4 pri bráne — echo.]
+Spira strely prešli cez Hard Light — štít ich nepohltil, neodrazil. Prešli. Ale zasiahli pancier a... odskočili. Rozprskli sa na neškodné iskry. Blesk zasiahol Rauovo rameno — zachvel sa, stiekol po brnení ako voda a zmizol. Telekintická vlna narazila do Kiry — posunula ju o centimeter. Jeden. [→ planning/01-prach-nevriss.md: Paladínsky pancier = iná technológia než Hard Light štít. Spira cez štít prejde, ale pancier absorbuje energiu. Dvojitá ochrana — pasívna + aktívna.] [NOTE: Spira strely prechádzajú cez Hard Light (= nie energetická zbraň, ale nano-projektil), ale pancier je z materiálu, ktorý absorbuje kinetickú aj Spira energiu. Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť.]
+
+Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami *praskol*. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch metrov. Brnenia, štíty, telá — ako nič. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku, nie len kontaktná zbraň]
+
+Výkrik. Ďalší pentagram. Dôstojník — ten s vlčími ušami — aktivoval plnú Spiru. Päť línií mu žiarilo na oboch dlaniach. Z jeho úst vyšiel zvuk, ktorý nebol ľudský — bojový pokrik, zúfalý, statočný, zbytočný. Ohnivá guľa — veľká ako hlava — vyletela z jeho dlaní priamo na Rauovu hruď.
+
+Zasiahla. Roztiekla sa po pancieri. A zhasla.
+
+Kira bola pri ňom skôr, než stihol pripraviť druhú. Sekera zvisle. Jeden rez. Dôstojník sa zložil v dvoch kusoch. Vlčie uši, zúfalá odvaha, koniec.
+
+Zvyšní sa lámu. Niektorí strieľali ďalej — Spira blesky, vodné biče, telekintické údery. Všetko neúčinné. Niekto sa pokúsil utiecť — vibrovlna ho zasiahla v chrbte. Padol bez zvuku.
+
+Dvadsať sekúnd. Dvanásť tiel. [NOTE: Pomalšie než Maks v tme — ale dramaticky iné. Maks potreboval tmu, taktiku, úspornosť. Paladíni šli do plného svetla, prijali plnú paľbu celej jednotky Spira bojovníkov, a nič z toho ich nepoškodilo. Brute force dominancia.]
 
 A potom sa otočili.
 
 Dva páry očí — štrbiny v prilbách, svietiace modrým svetlom — sa zadívali priamo na Maksa. Nie na Tami. Nie na Kita. Na *neho*. Vedeli, pre koho prišli.
 
-Maks zdvihol samopal. Tri rány. Náboje z Čierneho Prachu — čierny matný lesk exorcizovaného Prachu — zasiahli svetlo na chrbte Raua a rozprskli sa na neškodný prach. Presne ako pri strážach.
+Maks zdvihol samopal. Tri rány. Náboje z Čierneho Prachu — čierny matný lesk exorcizovaného Prachu — zasiahli modré svetlo na chrbte Raua a rozprskli sa na neškodný prach. Ani neprešli cez štít. [NOTE: Čierny Prach = kinetický projektil, nie Spira. Hard Light ho zastaví úplne. Inkvizícia so Spira strelami aspoň prešla cez štít (aj keď sa odrazili od panciera). Maks je na tom *horšie* než Spira bojovníci.]
 
 *Nefunguje*, pochopil Maks v zlomku sekundy. *Nič z môjho arzenálu nefunguje.*
 
