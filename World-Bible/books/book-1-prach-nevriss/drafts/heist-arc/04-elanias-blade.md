@@ -390,6 +390,22 @@ Sera sa otočila smerom k čiernej bráne. K Paladínom, ktorí stáli dvesto me
 
 *[Videla rapier. Vedela, že prenikne štítom.]*
 
+Sera sa otočila k Tami. Pozrela na Nadel — dlho, pozorne, ako keby čítala niečo v tom kove.
+
+„Dieťa." Hlas tichý. „Zopakuj. A pamätaj navždy."
+
+Zašepkala. Tri slabiky. Päť. Sedem. Japončina — stará, rytmická, staršia než všetko v tejto krypte.
+
+*„Tvar zrodený z hviezd,*
+*zobudený pre krv v tme,*
+*rozdeľ tento svet."*
+
+Nadel sa zachvela. Jemne — takmer neviditeľne. Hrot sa rozžiaril — fialový záblesk, kratší než mrknutie. Čepeľ počula poéziu a *spevnila sa*. [NOTE: Sera spevňuje Tamin rapier haiku. Rovnaký princíp ako Yari — nanoboty v kove reagujú na frekvenciu hlasu. Tami má teraz spevnený Nadel = prenikne cez Svetelný Štít AJ pancier. Sera tým mení pravidlá boja — Tami už nie je len návnada, je skutočná hrozba. Haiku je dar: „Pamätaj navždy" = Sera učí Tami spevňovať zbrane. Toto je Serin štýl — nedáva rybu, učí loviť.]
+
+Tami pozrela na žiariaci hrot. Potom na Seru.
+
+Sera sa na ňu nepozrela. Už sa otáčala preč.
+
 Zmizla. Čierny Prach na koži pohltil svetlo a Sera prestala existovať.
 
 *[Česť je len výhovorka pre nedostatok flexibility.]*
@@ -438,19 +454,19 @@ Kira švihla po Tami. Horizontálne. Tami sa hodila za pilier — vzduchová vln
 
 *Teraz.*
 
-Tami vstala. Rozbehla sa. Nadel vpred — tenká čepeľ, určená na penetráciu. Kira sa otočila. Zdvihla sekeru.
+Tami vstala. Rozbehla sa. Nadel vpred — tenká čepeľ, fialový záblesk na hrote. Spevnená. Kira sa otočila. Zdvihla sekeru.
 
 Tami bodla.
 
-Nadel prenikla cez svetlo — na zlomok sekundy, na dĺžku jedného úderu srdca. Hrot rapiera prešiel cez žiaru ako ihla cez bublinu. Svetlo zablikalo. Rozišlo sa.
+Nadel prenikla cez svetlo — nie na zlomok sekundy. *Úplne.* Hrot rapiera prešiel cez žiaru ako ihla cez bublinu. Svetlo sa rozišlo — a nezatvorilo sa. Spevnená čepeľ prešla ďalej. Cez oceľ. Cez náprsník. Dovnútra.
 
-A hrot narazil na oceľ.
+Kira zavrčala. Krv — na hrote Nadelu, na ornamentálnom brnení. Nie smrteľné. Ale *rana*. Druhá za túto noc — prvú jej dala Pursang kopija do stehna. [NOTE: Spevnený Nadel (Sera haiku) prenikol cez Svetelný Štít AJ pancier. Bez spevnenia Nadel prenikol len štít a zanechal škrabanec. So spevnením = plná penetrácia. Kira je zranená druhýkrát — prvá rana bola Pursang kopija (stehno, r.235). Kira už krívala. Teraz ďalšia rana. Paladíni degradujú — Pursang ich zranili, teraz ich zranila Tami. Tami nie je náhodná líška — je Pursang (Rennov tréning), bojový tréning od Maksa (13 rokov), a teraz spevnenie od Sery. Tri generácie skúseností v jednom údere.]
 
-Brnenie. Tvrdé, studené, nepriestrelné. Nadel sa zastavila na povrchu náprsníka — zanechala škrabanec, nie ranu. Sila nárazu odhodila Tami tri metre dozadu. Spadla medzi piliere.
+Sila nárazu odhodila Tami tri metre dozadu. Spadla medzi piliere.
 
-„Funguje to!" kričala z podlahy. „Nadel preniká štítom — na okamih!"
+Kira sa pozrela na bok. Na krv. *Znova.* Stehno, teraz bok. Tieto tvory ju *zraňovali*.
 
-„Na okamih nestačí!" zavrčal Maks spoza piliera.
+„Funguje!" kričala Tami z podlahy.
 
 Rau urobil krok k Tami. Kira tiež. Koordinovane. Kliešte.
 
@@ -468,141 +484,17 @@ To slovo Tami nikdy od neho nepočula. Nie rozkaz. *Prosba.*
 
 Pozrela mu do tváre — do tých čiernych, bezodných očí — a videla to. Veterán z pekla, muž, ktorý nosil smrť ako kabát — sa *bál*. Bál sa o ňu.
 
-Rau zdvihol sekeru. Kira urobila krok k Tami.
+Rau zdvihol sekeru. Kira urobila krok k Tami. Kliešte. Dvesto metrov od najbližšieho piliera. Nikam utiecť.
 
-„*BEŽ!*"
+Rau napriahol sekeru — pomaly, istotne, ako kat zdvíhajúci nástroj, o ktorom vie, že ho nič nezastaví.
 
-Maks hodil oslepujúcu explóziu Čierneho Prachu — biely záblesk medzi piliermi — a chytil Tami za rameno. Ťahal ju dozadu, medzi piliere, do tmy krypty. Preč od sekier. Preč od svetla.
-
-Sekera švihla. Prešla cez Maksov plášť a zanechala rez na chrbte — nie hlboký, ale popáleniny na mieste, kde sa oceľ dotkla Prachu v jeho krvi.
-
-Paladíni sa zastavili. Postáli medzi piliermi — masívni, žiariaci, presne na hranici medzi kryptou a čiernou bránou. Posunkové znamenie. Rýchle. Vojenské.
-
-*Cieľ nie je tu. Cieľ je tam.*
-
-Otočili sa späť k čiernej bráne. K tomu, pre čo prišli.
-
----
-
-Maks a Tami sedeli za pilierom. V tme. Dýchali.
-
-Maks sa opieral o kameň. Prach v jeho krvi mu zašíval chrbát — tupá, hlboká bolesť, ktorá signalizovala, že funguje.
-
-Tami mlčala. Nadel na kolenách. Pozrela sa na hrot — nepoškodený. Škrabanec na oceľovom náprsníku a nič viac. Ale *prešiel cez štít*.
-
-„Bál si sa," povedala ticho.
-
-Maks neodpovedal.
-
-Dunenie od čiernej brány. Sekery znova. Vibrovlny, čo narazili na Čierny Prach a zomreli v ňom. Rau zavrčal — frustrácia obrovského zvieraťa pred príliš malými dverami.
-
-Zvuk za nimi. Kroky — rýchle, nekoordinované, ľudské. Maks zdvihol samopal. Za pilierom sa objavil Kito — zadýchaný, mokrý, bez okuliarov. V ruke — meč. Pursangský meč s vyhasnutým pentagramom na záštite, príliš veľký pre jeho ruku. [NOTE: Kito vyviedol Arkota a Yeru k dokom, dal im mapu, bežal späť za Maksom a Tami. Prešiel cez jaskyňu — okolo tiel Pursang stráže — a zobral si meč jedného z nich. Kito netuší, čo je Sera. Len vie, že Maks a Tami sú dole.]
-
-„Oneskoril som sa," vydýchol. Pozrel na čiernu bránu. Na Paladínov. Na sekery, čo nefungovali. Oči sa mu rozšírili.
-
-„Ticho," sykla Tami.
-
-Kito prikývol. Meč v ruke — absurdný, neohrabaný. Knihovník s mečom vojaka. Ale prišiel. To stačilo.
-
-A potom — ticho.
-
-Iný zvuk. Kroky — ľahké, presné. Žiadna vibrácia. Žiadne svetlo.
-
-Hlas. Hlboký. Starý. Tichý. Japonské slová — rytmické, presné, staršie než piliere okolo nich.
-
-*„Tobira yo hirake"*
-
-Päť slabík. Ozvena sa rozlila kryptou.
-
-*„Haha no te ga michibiku"*
-
-Sedem. Fialové svetlo — slabé, ale viditeľné — pulzovalo od čiernej brány.
-
-*„Yami wo terashite"*
-
-Päť. Posledná slabika sa rozplynula.
-
-Ticho.
-
-A potom — zvuk, aký nikto z nich nikdy nepočul. Nie škrípanie. Nie praskanie. *Dych.* Čierny Prach sa nadýchol — a brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Čierne krídla sa rozchýlili ako kvetné lístky na svitaní. Prach, ktorý neposlúchol sekery, poslúchol *hlas*. [NOTE: Sera otvorila čiernu bránu haiku príkazom. Paladíni stáli pred ňou a pozerali.]
-
-Maks a Tami vyzerali spoza piliera.
-
-Sera stála pri bráne. Zmaterializovaná z tieňa — Čierny Prach na koži pustil kamufláž. Paladíni na ňu zízali. Jedna sekunda. Dve.
-
-*[Hlúpe opice. Stáli tu celú dobu a ani nevedeli.]*
-
-Sera urobila krok do strany. Gesto — po vás.
-
-Paladíni zaváhali. Posunkové znamenie. Krátke. A potom — Rau vykročil cez otvorenú bránu. Kira za ním. K tomu, pre čo prišli.
-
-Sera sa obzrela na nich. Čierne oči — nekonečné, bezodné.
-
-*[Teraz.]*
-
-Zmizla za bránou. Za Paladínmi.
-
-Maks sa zdvihol. Chrbát bolel. Samopal v ruke, nepoužiteľný. Ale nohy fungovali.
-
-„Ideme," povedal.
-
-Kito stisol Pursangský meč a vykročil za nimi. Prešli cez bránu.
-
----
-
-## Časť IV: Druhý boj
-
-Za čiernou bránou sa krypta skončila.
-
-Nie postupne — naraz. Jeden krok kameň a reliéfy a tisícročia lidského staviteľstva. Ďalší — *čerň*. Všade. Steny, strop, podlaha — ten istý matný čierny materiál ako dvere za nimi. Rovnaký ako Maksova krv. Celý priestor bol z neho — nie postavený, nie vytesaný. *Sformovaný.* Akoby niekto pred veľmi dávnou dobou povedal Prachu, čím má byť, a Prach si to pamätal dodnes. [NOTE: Svätyňa je z nakonfigurovaného Čierneho Prachu — rovnaký materiál ako Elysium/Ynetis. Toto miesto je fragment pôvodnej civilizácie NULL VOID, pochovaný pod Itakou tisícročia pred vznikom Chrámu. Krypta Mormiel bola postavená NAD týmto miestom — Kult Matky „adoptoval" svätyňu, ale nikdy neprenikol za čiernu bránu.]
-
-Maks položil dlaň na stenu. Zatvoril oči. Niečo v ňom sa natiahlo k materiálu — hlad, inštinkt, potreba doplniť to, čo mu dochádzalo. Prach v jeho žilách rozpoznal Prach v stene. Rovnaký jazyk. Rovnaká krv. *Otvor sa.*
-
-Nič.
-
-Skúsil to znova. Tvrdšie. Prsty zatlačil do hladkého povrchu — a Prach v stene *neodpovedal*. Konfigurácia bola uzamknutá. Stará. Zglitchovaná — akoby niekto pred tisícročiami povedal tomuto Prachu *drž* a príkaz sa zasekol v slučke, z ktorej nebolo úniku. Maks cítil fragmenty kódu pod povrchom — rozbitého, opakujúceho sa, zamrznutého v nekonečnom cykle. Prach tu bol. Toľko Prachu, že by ho mohol doplniť na mesiace. Ale bol *hluchý*. [NOTE: Prach v svätyni je zamknutý v starej konfigurácii — Maks ho nedokáže absorbovať.] [→ 03a-nanotechnology.md: Gen 1 absorpcia — Maks dokáže absorbovať voľný/nekonfigurovaný Prach, ale nie zamknutý v stabilnej konfigurácii]
-
-*Ako kričať na stenu,* pomyslel si Maks. *Počuje ťa. Ale neposlúcha.*
-
-Svätyňa. Nie krypta. Nie hrobka. *Svätyňa* — to slovo prišlo Tami samo, bez rozmyslu, akoby ho miesto vložilo do jej hlavy. Strop sa dvíhal vysoko do klenby — vyššie než krypta za nimi — podopieraný piliermi z toho istého čierneho materiálu. Hladké, dokonale rovné plochy bez škár, bez spojov, bez známok nástrojov. Na stenách reliéfy — tváre, symboly, príbehy v jazyku, ktorý nepoznala. Niektoré jemne vyryté. Iné hlboké, ostré, akoby včerajšie. A niektoré tak staré, že z nich zostali len tiene v černi.
-
-A svetlo. Slabé, fialové svetlo — žiadne lampy, žiadne ohne. Prýštilo z materiálu samotného. Jemné žilky v stenách a pilieroch, tenké ako vlasy, pulsovali slabým fialovým svitom. Nie konštantne — v pomalých vlnách, ako dych niekoho, kto spí veľmi dlho a veľmi hlboko. Dávalo priestoru chorobný, snovitý nádych — tváre na reliéfoch sa v tom svetle zdali *pozerať*. [NOTE: Fialová bioluminiscencia Prachu — rovnaká ako na Elysiu. Prach nie je mŕtvy — spí.]
-
-Vzduch tu bol suchý. Nehybný. Stáročia uzavretý — dýchať ho bolo ako piť vodu zo studne, na ktorú všetci zabudli. Jemné čiastočky viseli vo vzduchu — nie prach z kameňa, nie piesok. Niečo *jemnejšie*. Trblietavé v tom fialovom svite. Každý krok ich zdvíhal a ony sa pomaly, neochotne usádzali späť.
-
-V strede svätyne stál stôl. Drevený. Jednoduchý — hrubé dosky, klinové spoje, nohy nerovnomerne orezané. Nepatril sem. Všetko v tomto priestore bolo prastaré, čierne, *sformované* — a uprostred toho stál stôl, aký by ste našli v každej krčme na severe. Niekto ho sem priniesol. Dávno. Pre jeden jediný účel. [NOTE: Stôl je chrámový — kňazi ho sem doniesli, keď Kult Matky „adoptoval" svätyňu. Kontrast prastarého Prachu a ľudského dreva je zámerný.]
-
-A na ňom ležal artefakt.
-
-Palica. Čierna. Matná. Z toho istého materiálu ako steny, ako brána, ako všetko v tomto priestore — Čierny Prach, nakonfigurovaný do pevného tvaru. Trištvrte palca hrubá, dlhá ako muž je vysoký. Pohlcovala svetlo — fialový svit zo stien sa na jej povrchu lámal a *mizol*, akoby ho palica pila. Ležala na stole s ľahkosťou, ktorá klamala — vyzerala ako obyčajná tyč, ale vzduch okolo nej bol *hustejší*. Ťažší. Ako gravitácia, ktorá nemá čo robiť v miestnosti, ale predsa *je*.
-
-Medzi piliermi stáli Paladíni. Rau vedľa stola — artefakt už v ruke. Kira oproti nemu. Komunikovali gestami — rýchlymi, presnými, vojenskými. Žiadne slová.
-
-Maks zastál za pilierom. Videl ich — Paladíni vpredu, Sera niekde v tme za nimi. Čaká na mŕtvy uhol. Potrebuje ich chrbtom k sebe. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" cez nanoboty, nie očami]
-
-*Návnada musí vyzerať nebezpečne.*
-
-Vystúpil do fialového svitu.
-
-„Hej!" Zdvihol samopal. Vystrelil. Tri rány — priamo do Rauovho svetelného štítu. Vedel, že neprenikne. Ale zvuk — ostrý, kovový, násobený ozvena svätyni — bol dosť hlasný na to, aby sa obaja otočili.
-
-Obaja sa otočili. Presne. Koordinovane. Rau zdvihol sekeru. Kira urobila krok nabok.
-
-*Teraz.*
-
-Tami vyrazila spoza piliera. Nadel v pravej ruke, pištoľ v ľavej. Bežala priamo na Kiru — nie na útok, na provokáciu. Štyri rány z pištole zasiahli modré svetlo okolo Kiry. Svetlo sa zavlnilo ako hladina jazera. Neprenikli. Ale pozornosť upútali.
-
-Kira sa otočila k Tami. Rau k Maksovi.
-
-Oba Paladíni pozerali dopredu.
-
-Nikto nepozeral dozadu.
+A niečo ho zastavilo.
 
 ---
 
 Sera sa objavila za Rauom.
 
-Nie teleport. Nie mágia. Tieň sa odlepil od steny — Čierny Prach na jej koži pustil kamufláž a ona sa *zhmotila* z tmy. Pohla sa tak rýchlo, že Tami videla len rozmazanú stopu — tieň, ktorý sa materializoval v priestore medzi jedným úderom srdca a ďalším.
+Nie teleport. Nie mágia. Tieň sa odlepil od piliera — Čierny Prach na jej koži pustil kamufláž a ona sa *zhmotila* z tmy. Pohla sa tak rýchlo, že Tami videla len rozmazanú stopu — tieň, ktorý sa materializoval v priestore medzi jedným úderom srdca a ďalším. [NOTE: Sera nezasahuje po ústupe. Zasahuje v momente, keď sa boj stáva smrteľným — presne keď Paladíni zaťahujú kliešte. Sera čakala na moment, keď sú obaja otočení k Maksovi a Tami = chrbty odhalené. Prosím scéna je beat, ktorý spustí Serin útok — nie Maksov ústup.]
 
 *[Prvý. Krk. Otočený.]*
 
@@ -628,7 +520,7 @@ Zarevala. Zvuk, aký Tami nikdy nepočula — hlboký, hrdelný, zvierací. Vrhl
 
 *[Hnev. Dobre. Hnevliví robia chyby.]*
 
-Tami videla príležitosť. Vyrazila spredu. Nadel namierený na medzeru v brnení — tam, kde náprsník sa stretával s chráničom krku.
+Tami videla príležitosť. Vyrazila spredu. Nadel vpred — spevnený hrot stále žiaril fialovo. Bodla priamo do náprsníka. Prenikla.
 
 Kira sa na zlomok sekundy otočila k Tami. Sekera zmenila smer.
 
@@ -646,7 +538,7 @@ Sera sa narovnala. Yari v ruke, čepeľ pokrytá krvou. Tvár nehybná. Nič —
 
 A potom — s pohybom, ktorý bol čistá arogancia — kopla.
 
-Brnenie Rauovej prilby prasklo. Helm sa odkotúľal po podlahe.
+Brnenie Rauovej prilby prasklo. Helm sa odkotúľal po podlahe krypty.
 
 Pod ním bola tvár.
 
@@ -658,15 +550,25 @@ Gorila. Masívna čeľusť, hnedé oči — teraz mŕtve, skelné. Tvár intelig
 
 ---
 
-## Časť V: Artefakt
-
-Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na ženu, čo práve zabila dvoch Paladínov zozadu, bez varovania, akoby zametala podlahu.
+Maks a Tami stáli pred čiernou bránou. Dýchali. Dve telá na podlahe pred nimi.
 
 *Haiku. Japončina. Čierny Prach. A pohybuje sa ako niečo, čo nepatrí do tohto storočia.* [→ 03a-nanotechnology.md: Maks rozpoznáva Gen 1 — ale v próze len „Čierny Prach"]
 
 *Kto je táto žena?*
 
-Žena sa otočila k nemu. Pozrela na vzduch okolo Maksa — nie na tvár, nie na telo. Na priestor okolo jeho hlavy. Videla niečo, čo ostatní nie.
+Tami mlčala. Nadel v ruke — hrot pokrytý krvou. Nie škrabanec. Rana. Spevnená čepeľ prešla cez všetko, čo Serin hlas sľúbil.
+
+„Bál si sa," povedala ticho.
+
+Maks neodpovedal.
+
+Zvuk za nimi. Kroky — rýchle, nekoordinované, ľudské. Maks zdvihol samopal. Za pilierom sa objavil Kito — zadýchaný, mokrý, bez okuliarov. V ruke — meč. Pursangský meč s vyhasnutým pentagramom na záštite, príliš veľký pre jeho ruku. [NOTE: Kito vyviedol Arkota a Yeru k dokom, dal im mapu, bežal späť za Maksom a Tami. Prešiel cez jaskyňu — okolo tiel Pursang stráže — a zobral si meč jedného z nich. Kito netuší, čo je Sera. Len vie, že Maks a Tami sú dole.]
+
+„Oneskoril som sa," vydýchol. Pozrel na čiernu bránu. Na telá pred ňou. Oči sa mu rozšírili.
+
+Kito prikývol. Meč v ruke — absurdný, neohrabaný. Knihovník s mečom vojaka. Ale prišiel. To stačilo.
+
+Sera stála pri čiernej bráne. Vedľa tiel. Yari v ruke. Pozrela na vzduch okolo Maksa — nie na tvár, nie na telo. Na priestor okolo jeho hlavy. Videla niečo, čo ostatní nie.
 
 Dlhá pauza. Hľadeli na seba. Veterán na veterána. Zabijak na zabijaka. V tichosti, ktorá povedala viac než slová.
 
@@ -678,7 +580,57 @@ Sera naklonila hlavu.
 
 Maks v jej tvári videl to isté, čo ona v jeho — rozpoznanie.
 
-Otočila sa. Prešla k artefaktu. K čiernej palici ležiacej na zemi vedľa Rauovho tela.
+Sera sa otočila k čiernej bráne.
+
+Hlas. Hlboký. Starý. Tichý. Japonské slová — rytmické, presné, staršie než piliere okolo nich.
+
+*„Tobira yo hirake"*
+
+Päť slabík. Ozvena sa rozlila kryptou.
+
+*„Haha no te ga michibiku"*
+
+Sedem. Fialové svetlo — slabé, ale viditeľné — pulzovalo od čiernej brány.
+
+*„Yami wo terashite"*
+
+Päť. Posledná slabika sa rozplynula.
+
+Ticho.
+
+A potom — zvuk, aký nikto z nich nikdy nepočul. Nie škrípanie. Nie praskanie. *Dych.* Čierny Prach sa nadýchol — a brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Čierne krídla sa rozchýlili ako kvetné lístky na svitaní. Prach, ktorý neposlúchol sekery, poslúchol *hlas*. [NOTE: Sera otvorila čiernu bránu haiku príkazom. Paladíni sú mŕtvi pri bráne.]
+
+Sera vykročila cez bránu. Maks, Tami a Kito za ňou.
+
+---
+
+## Časť IV: Artefakt
+
+Za čiernou bránou sa krypta skončila.
+
+Nie postupne — naraz. Jeden krok kameň a reliéfy a tisícročia ľudského staviteľstva. Ďalší — *čerň*. Všade. Steny, strop, podlaha — ten istý matný čierny materiál ako dvere za nimi. Rovnaký ako Maksova krv. Celý priestor bol z neho — nie postavený, nie vytesaný. *Sformovaný.* Akoby niekto pred veľmi dávnou dobou povedal Prachu, čím má byť, a Prach si to pamätal dodnes. [NOTE: Svätyňa je z nakonfigurovaného Čierneho Prachu — rovnaký materiál ako Elysium/Ynetis. Toto miesto je fragment pôvodnej civilizácie NULL VOID, pochovaný pod Itakou tisícročia pred vznikom Chrámu. Krypta Mormiel bola postavená NAD týmto miestom — Kult Matky „adoptoval" svätyňu, ale nikdy neprenikol za čiernu bránu.]
+
+Maks položil dlaň na stenu. Zatvoril oči. Niečo v ňom sa natiahlo k materiálu — hlad, inštinkt, potreba doplniť to, čo mu dochádzalo. Prach v jeho žilách rozpoznal Prach v stene. Rovnaký jazyk. Rovnaká krv. *Otvor sa.*
+
+Nič.
+
+Skúsil to znova. Tvrdšie. Prsty zatlačil do hladkého povrchu — a Prach v stene *neodpovedal*. Konfigurácia bola uzamknutá. Stará. Zglitchovaná — akoby niekto pred tisícročiami povedal tomuto Prachu *drž* a príkaz sa zasekol v slučke, z ktorej nebolo úniku. Maks cítil fragmenty kódu pod povrchom — rozbitého, opakujúceho sa, zamrznutého v nekonečnom cykle. Prach tu bol. Toľko Prachu, že by ho mohol doplniť na mesiace. Ale bol *hluchý*. [NOTE: Prach v svätyni je zamknutý v starej konfigurácii — Maks ho nedokáže absorbovať.] [→ 03a-nanotechnology.md: Gen 1 absorpcia — Maks dokáže absorbovať voľný/nekonfigurovaný Prach, ale nie zamknutý v stabilnej konfigurácii]
+
+*Ako kričať na stenu,* pomyslel si Maks. *Počuje ťa. Ale neposlúcha.*
+
+Svätyňa. Nie krypta. Nie hrobka. *Svätyňa* — to slovo prišlo Tami samo, bez rozmyslu, akoby ho miesto vložilo do jej hlavy. Strop sa dvíhal vysoko do klenby — vyššie než krypta za nimi — podopieraný piliermi z toho istého čierneho materiálu. Hladké, dokonale rovné plochy bez škár, bez spojov, bez známok nástrojov. Na stenách reliéfy — tváre, symboly, príbehy v jazyku, ktorý nepoznala. Niektoré jemne vyryté. Iné hlboké, ostré, akoby včerajšie. A niektoré tak staré, že z nich zostali len tiene v černi.
+
+A svetlo. Slabé, fialové svetlo — žiadne lampy, žiadne ohne. Prýštilo z materiálu samotného. Jemné žilky v stenách a pilieroch, tenké ako vlasy, pulsovali slabým fialovým svitom. Nie konštantne — v pomalých vlnách, ako dych niekoho, kto spí veľmi dlho a veľmi hlboko. Dávalo priestoru chorobný, snovitý nádych — tváre na reliéfoch sa v tom svetle zdali *pozerať*. [NOTE: Fialová bioluminiscencia Prachu — rovnaká ako na Elysiu. Prach nie je mŕtvy — spí.]
+
+Vzduch tu bol suchý. Nehybný. Stáročia uzavretý — dýchať ho bolo ako piť vodu zo studne, na ktorú všetci zabudli. Jemné čiastočky viseli vo vzduchu — nie prach z kameňa, nie piesok. Niečo *jemnejšie*. Trblietavé v tom fialovom svite. Každý krok ich zdvíhal a ony sa pomaly, neochotne usádzali späť.
+
+V strede svätyne stál stôl. Drevený. Jednoduchý — hrubé dosky, klinové spoje, nohy nerovnomerne orezané. Nepatril sem. Všetko v tomto priestore bolo prastaré, čierne, *sformované* — a uprostred toho stál stôl, aký by ste našli v každej krčme na severe. Niekto ho sem priniesol. Dávno. Pre jeden jediný účel. [NOTE: Stôl je chrámový — kňazi ho sem doniesli, keď Kult Matky „adoptoval" svätyňu. Kontrast prastarého Prachu a ľudského dreva je zámerný.]
+
+A na ňom ležal artefakt.
+
+Palica. Čierna. Matná. Z toho istého materiálu ako steny, ako brána, ako všetko v tomto priestore — Čierny Prach, nakonfigurovaný do pevného tvaru. Trištvrte palca hrubá, dlhá ako muž je vysoký. Pohlcovala svetlo — fialový svit zo stien sa na jej povrchu lámal a *mizol*, akoby ho palica pila. Ležala na stole s ľahkosťou, ktorá klamala — vyzerala ako obyčajná tyč, ale vzduch okolo nej bol *hustejší*. Ťažší. Ako gravitácia, ktorá nemá čo robiť v miestnosti, ale predsa *je*.
+
+Sera prešla k stolu. Zdvihla palicu.
 
 Zdvihla ho.
 
@@ -714,7 +666,7 @@ Ostala len únava. A rozhodnutie.
 
 Bojovala. Bolo to vidieť — v napätí jej čeľuste, v tom, ako sa jej prsty nechceli pustiť palice. Ale pustili.
 
-*[Nie mne. Dcére starého priateľa. Odpusť mi, Renn.]*
+*[Nie mne. Rennovej dcére. Odpusť mi, priateľu.]*
 
 A potom sa otočila. Nie k Maksovi.
 
@@ -828,13 +780,15 @@ Potom — chrapľavým, napätým hlasom:
 
 ---
 
-Kito stál pri stene. Celý čas. Počas boja sa schovával za čiernou bránou — Pursangský meč v rukách, zbytočný, príliš ťažký. Nepohol sa. Nemohol. Len počúval — dunenie, výkriky, praskanie kameňa, ticho. Teraz bolo ticho.
+Kito stál pri stene svätyne. Tichý. Oči žlté a široké — okuliare prasknuté niekde medzi jaskyňou a kryptou. Pozrel na čierne steny. Na fialové svetlo. Na priestor, kde stála Sera — teraz prázdny. [NOTE: Kito dobehol v Časti III — pred otvorením čiernej brány. Vstúpil s ostatnými do svätyne. Mŕtve telá Paladínov zostali v krypte pri čiernej bráne.]
 
-Odvážil sa pozrieť.
+„Svätá Matka..." zašepkal.
 
-„Svätá Matka..." zašepkal. Okuliare prasknuté, oči žlté a široké. Pozrel na mŕtve telá Paladínov v kaluži krvi. Na svätyňu. Na čierne steny. Na fialové svetlo. A na priestor, kde stála Sera — teraz prázdny. [NOTE: Kito dobehol v Časti III — pred otvorením čiernej brány. Vstúpil s ostatnými, ale počas boja sa držal vzadu.]
+Pursangský meč odložil k stene — nepotreboval ho. Nikdy nepotreboval. [NOTE: Kito pozná kryptu — chodil sem ako archeológ/knihovník. Ale čiernu bránu nikdy nevidel. Svätyňa za ňou je úplná novinka.]
 
-Kľakol si vedľa Rauovho tela. Ruky sa mu triasli, ale natiahol ich k brneniu. Pursangský meč odložil vedľa seba — nepotreboval ho. Nikdy nepotreboval. [NOTE: Kito pozná kryptu — chodil sem ako archeológ/knihovník. Ale čiernu bránu nikdy nevidel. Svätyňa za ňou je úplná novinka.]
+Kým Sera hovorila, Kito sa vrátil cez čiernu bránu. Do krypty. K telám.
+
+Kľakol si vedľa Raua. Ruky sa mu triasli, ale natiahol ich k brneniu.
 
 „Obri z juhu," zašepkal. Prsty prešli po ornamentálnych líniách na náprsníku — zlaté vzory, geometrické, presné. „V starých námorníckych denníkoch sa písalo o zemi za oceánom, kde žijú obrovskí vojaci v nepriestrelnom brnení — ale to boli *rozprávky*." Zdvihol Rauovu ruku — masívnu, päťkrát väčšiu než jeho. Obracal ju, skúmal kĺby panciera. „Pozri sa na tie spoje. To nie je kované. To nie je odlievané. To je... *pestované*. Ako kryštál. Ako Spira, ale iná, pevnejšia—"
 
@@ -842,7 +796,7 @@ Dotkol sa vibro-sekery. Prsty mu prešli po čepeli — stále jemne vibrovala, 
 
 „A to svetlo na chrbte — ten štít. Nikdy som nečítal o ničom takom. Nie je to Spira. Nie je to nič, čo poznám." Pozrel na goriliu tvár. Opatrne, s rešpektom mŕtvych. „Inteligentné oči. Úplne iná vetva vývoja než čokoľvek na severe." Hlas sa mu lámal medzi hrôzou a fascináciou. „Celý život som študoval apokryfy a *toto* — toto je väčšie než čokoľvek v mojich knihách."
 
-Zdvihol sa. Pozrel na Tami. Na artefakt v jej rukách.
+Vrátil sa cez čiernu bránu. Pozrel na Tami. Na artefakt v jej rukách.
 
 „Moja žena zomiera." Hlas tichý. Chrapľavý. Ale v ňom bola oceľ. „Ak má tá vec čo i len *šancu* pomôcť Maye — tak som tu."
 
@@ -878,11 +832,11 @@ Potom to začul.
 
 ---
 
-Zvuk. Tichý, rytmický, kovový. Prichádzal z miestnosti za nimi — od tiel Paladínov.
+Zvuk. Tichý, rytmický, kovový. Prichádzal z krypty za čiernou bránou — od tiel Paladínov.
 
 Maks to pocítil skôr, než to pochopil — niečo v brneniach ožilo. Teplo stúpalo. Rýchlo. *Idú sa odpáliť.*
 
-Otočil sa.
+Otočil sa. Cez otvorenú čiernu bránu videl do krypty.
 
 Kira ležala tam, kde padla. Chrbtica prerušená, nohy mŕtve. Ale ruky — tie masívne, opancierované ruky — sa pohybovali. Pomaly. S metodickou presnosťou niekoho, kto vie, že robí poslednú vec vo svojom živote.
 
