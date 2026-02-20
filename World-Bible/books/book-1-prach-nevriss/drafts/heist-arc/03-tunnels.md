@@ -230,7 +230,9 @@ Dvadsaťdva. Maks sa nepomýlil. [→ 06-society.md: Chrámová stráž, elitná
 
 Z predného tunela vykročil dôstojník. Vysoký Mezra — vlčie uši, ostrý pohľad, na hrudi plaketa Inkvizície. Za ním dvaja ostreľovači s dlhými karabínami — hlavne potažené Spira žiarou. [→ 06-society.md: Inkvizícia, vojenské rameno Chrámu; → 03-technology.md: Spira munícia]
 
-Dôstojník sa zastavil. Pohľad mu preskočil z Tami na Kita, potom na Maksa — a tam zostal. Niečo sa v ňom zmenilo. Sotva viditeľne. Čeľusť sa stisla. Vlčie uši sa stiahli dozadu o milimeter. [NOTE: Involuntárna reakcia — predátor rozpoznáva väčšieho predátora. Inkvizícia vie, čo sú Exorcisti.]
+Tami ho poznala. Prístav. Dok. Ten istý muž, čo im dával otázky na palube Itaky. [→ 01-karakuri.md: dôstojník z Časti I — rovnaká postava]
+
+Dôstojník sa zastavil. Pohľad mu preskočil z Tami na Kita, potom na Maksa — a tam zostal. Niečo sa v ňom zmenilo. Sotva viditeľne. Čeľusť sa stisla. Vlčie uši sa stiahli dozadu o milimeter. [NOTE: Involuntárna reakcia — pozná slovo „Exorcista" z legiend, ale nikdy jedného nestretol. Nikto v novodobom Nevriss nebojoval s Exorcistom. Nevie, čo dokáže. Vie len príbehy.]
 
 „Exorcista." Slovo vyslovil opatrne. Ako keby držal v ústach niečo, čo by ho mohlo hrýzť.
 
@@ -240,7 +242,7 @@ Potom sa nadýchol a nasadil si masku späť. „Rennsdóttir." Pohľad sa presu
 
 *Mňa?* Tami sa neodvážila pozrieť na Maksa.
 
-„Knihovník pôjde s vami." Dôstojník hodil krátky pohľad na Kita, ako sa pozerá na šváby. „Ako kolaborant."
+„Knihovník pôjde s vami." Krátky pohľad na Kita. „Ako sprievodca."
 
 Kito prestal dýchať.
 
