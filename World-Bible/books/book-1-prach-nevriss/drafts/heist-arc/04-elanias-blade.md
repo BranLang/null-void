@@ -362,19 +362,17 @@ Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prol
 
 A niečo v nej sa zastavilo. Nie výraz. Nie pohyb. Len hĺbka v tých čiernych očiach sa zmenila, akoby sa za nimi otvorila priepasť.
 
-*[Čierny Prach. Živý. Nie je to možné — nie tu, nie teraz. Tá tvár...]*
+*[Nie je to možné — nie tu, nie teraz. Tá tvár...]*
 
-*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej frajer? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladý Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho nájdeš... povedz mu pravdu." — Inetisine posledné slová Sere.]
+*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej frajer? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladý Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho stretneš.. nikdy nedopovedala myšlienku." — Inetisine posledné slová Sere.]
 
 Dlhá pauza. Veterán na veterána.
 
-Maks strhol samopal. Oči — tie čierne jamky — sa upreli na ňu. *Čierny Prach. Na niekom inom. Druhýkrát za celý život na tejto planéte.* [NOTE: Prvý bol Samaell — a vieme, ako to dopadlo.]
+Maks strhol samopal. Oči — tie čierne jamky — sa upreli na ňu. *Čierny Prach. Na niekom inom. Druhýkrát na tejto planéte.* [NOTE: Prvý bol Samaell — a vieme, ako to dopadlo.]
 
 „Kto si?" Hlas kontrolovaný.
 
-*[Ten muž... Mŕtvy mi nebude užitočný.]*
-
-„Čepeľ Elanie," zašepkala Tami. „Stretla som ju v tuneloch. Pomohla mi nájsť cestu sem."
+„Čepeľ Elánie," zašepkala Tami. „Stretla som ju v tuneloch. Pomohla mi nájsť cestu sem."
 
 Maks neprestával mieriť. „A ty jej veríš."
 
@@ -382,15 +380,15 @@ Maks neprestával mieriť. „A ty jej veríš."
 
 Sera sa ani nepohla. Čakala. Trpezlivo. Ako niekto, kto čakal už príliš dlho na príliš veľa vecí, a pár sekúnd navyše ho netrápilo.
 
-*[Líška. Dcéra starého priateľa. A ten muž — živý. Bližšie, než som čakala. Mŕtvy mi nebude užitočný.]*
+*[Tá tvár.]*
 
 Maks pomaly — veľmi pomaly — spustil samopal. Nie preto, že veril. Preto, že Tami povedala „nemáme na výber" — a Tami neklamala. Nikdy neklamala. Nevedela ako.
 
-Sera sa otočila smerom k čiernej bráne. K Paladínom, ktorí stáli dvesto metrov od nich a ešte nevedeli, že zomrú.
+Sera sa otočila smerom k čiernej bráne. K Paladínom, ktorí stáli dvesto metrov od nich.
 
 „Vy. Spredu." Ukázala na Maksa a Tami. Potom na Tami: „Bodneš."
 
-*[Videla rapier. Videla, že preniká štítom. Zlomok sekundy, ale stačí — ak sa obrní odvráti.]*
+*[Videla rapier. Vedela, že prenikne štítom.]*
 
 Zmizla. Čierny Prach na koži pohltil svetlo a Sera prestala existovať.
 
@@ -398,9 +396,7 @@ Zmizla. Čierny Prach na koži pohltil svetlo a Sera prestala existovať.
 
 Maks a Tami stáli medzi piliermi. Tichá krypta okolo nich.
 
-„Nabij," povedal Maks.
-
-Nabili zbrane. Vykročili k čiernej bráne.
+Skontrolovali zbrane. Vykročili k čiernej bráne.
 
 ---
 
@@ -412,11 +408,9 @@ Kira švihla sekerou — vibrovlna narazila na čierny povrch. Žiadna ozvena. �
 
 Rau skúsil to isté. Vertikálny rez, plná sila. Čepeľ prešla po povrchu — škrabanec. Čierny Prach sa ani nezachvel. [NOTE: Kontrast — kamennú bránu otvorili silou. Čiernu nie. Prach nepovolí hrubej sile — len hlasu.]
 
-*[Sekerou. Na toto. Hlúpe opice.]*
+Rau zarazil sekeru do zeme. Skúsil to isté, čo s kamennou bránou — rameno pri ramene, holé ruky na čiernom povrchu. Zatlačili. Dvesto kilo svalov a ocele proti materiálu, čo pamätal vek hviezd.
 
-Rau zarazil sekeru do zeme. Skúsil to isté, čo s kamennou bránou — rameno pri ramene, holé ruky na čiernom povrchu. Zatlačili. Päťsto kilo svalov a ocele proti materiálu, čo pamätal vek hviezd.
-
-Nič. Čierny Prach sa *nepohol*.
+Nič. Čierny Monolit sa ani nepohol.
 
 Posunkové znamenie medzi nimi. Rýchle. Vojenské. Frustrácia a výpočet.
 
@@ -424,17 +418,17 @@ Posunkové znamenie medzi nimi. Rýchle. Vojenské. Frustrácia a výpočet.
 
 Maks vystúpil spoza piliera.
 
-„Hej!" Zdvihol samopal. Tri rány — nie na Paladínov. Na strop krypty nad nimi. Náboje narazili na kameň — odrazili sa, odštepili čiastočky, a zhora sa zosypal jemný dážď prachu.
+Zdvihol samopal. Tri rany — nie na Paladínov. Na strop krypty nad nimi. Náboje narazili na kameň — odrazili sa, odštepili čiastočky, a zhora sa zosypal jemný dážď prachu.
 
 Obaja sa otočili. Presne. Koordinovane. Sekery v rukách. Modré svetlo na chrbte pulzovalo.
 
 Rau siahol na opasok. Rovnaký pohyb ako pri kamennej bráne — rýchly, automatický, naučený. Malý guľatý predmet — matný, veľkosť päste — letel smerom k Maksovi.
 
-Niečo v ňom zareagoval skôr, než on sám. Nevedome — rovnako, ako dýchal, rovnako, ako srdce bije bez povolenia. Vzduch medzi ním a granátom sa *zahustil* — na zlomok sekundy, na priestor dlane. Granát narazil na niečo neviditeľné — zastavil sa, zavrčal — a dopadol na zem. Kus ocele. Mŕtvy. Žiadny pulz. Žiadny záblesk. Nič. [NOTE: Čierny Prach v Maksovej krvi zareagoval inštinktívne — nie vedomé rozhodnutie, ale obranný reflex natrénovaný za 200+ rokov aktívnej vojenskej služby (top tier delta force / assassin). Prach je ovládaný myšlienkami — špecifické triky vyžadujú desiatky až stovky rokov praxe. Maks (opustil Zem 2301, vyšší tech level) má intenzívnejší bojový tréning než Sera (opustila Zem 2150, 3000 rokov sama, bez inštruktorov, bez tech upgradu). V priamom boji by Maks vyhral — Sera to vie (viď Časť V: „Keby sme bojovali..."). Sera kompenzuje stealthom (Čierny Prach kamufláž), social engineeringom a 3000 rokmi skúseností. Iný tréning, iná špecializácia, iný Prach. Paladíni prvýkrát vidia, že niekto *ich* technológiu zastavil. Callback na EMP z boja pri kamennej bráne — rovnaký trik, iný výsledok.]
+Niečo v ňom zareagovalo skôr, než on sám. Nevedome — rovnako, ako dýchal, rovnako, ako srdce bije bez povolenia. Vzduch medzi ním a granátom sa *zahustil* — na zlomok sekundy, na priestor dlane. Granát narazil na niečo neviditeľné — zastavil sa, zavrčal — a dopadol na zem. Kus ocele. Mŕtvy. Žiadny pulz. Žiadny záblesk. Nič. [NOTE: Čierny Prach v Maksovej krvi zareagoval inštinktívne — nie vedomé rozhodnutie, ale obranný reflex natrénovaný za 200+ rokov aktívnej vojenskej služby (top tier delta force / assassin). Prach je ovládaný myšlienkami — špecifické triky vyžadujú desiatky až stovky rokov praxe. Maks (opustil Zem 2301, vyšší tech level) má intenzívnejší bojový tréning než Sera (opustila Zem 2150, 3000 rokov sama, bez inštruktorov, bez tech upgradu). V priamom boji by Maks vyhral — Sera to vie (viď Časť V: „Keby sme bojovali..."). Sera kompenzuje stealthom (Čierny Prach kamufláž), social engineeringom a 3000 rokmi skúseností. Iný tréning, iná špecializácia, iný Prach. Paladíni prvýkrát vidia, že niekto *ich* technológiu zastavil. Callback na EMP z boja pri kamennej bráne — rovnaký trik, iný výsledok.]
 
 Rau sa pozrel na mŕtvy granát na podlahe. Potom na Maksa. Prvýkrát niečo v tých očiach za prilbou — nie strach, ale *prepočítavanie*.
 
-Tami vyrazila z druhej strany. Nadel v pravej ruke, pištoľ v ľavej. Bežala priamo na Kiru — štyri rány z pištole. Svetelný štít sa zavlnil. Neprenikli. Ale pozornosť upútali.
+Tami vyrazila z druhej strany. Nadel v pravej ruke, pištoľ v ľavej. Bežala priamo na Kiru — štyri výstrely z pištole. Svetelný štít sa zavlnil. Neprenikli. Ale pozornosť upútali.
 
 Kira sa otočila k Tami. Rau k Maksovi.
 
@@ -472,7 +466,7 @@ Nie o seba. O *ňu*.
 
 To slovo Tami nikdy od neho nepočula. Nie rozkaz. *Prosba.*
 
-Pozrela mu do tváre — do tých čiernych, bezodných očí — a videla to. Veterán z pekla, muž, čo prežil tisícročia a smrť — sa *bál*. Bál sa o ňu.
+Pozrela mu do tváre — do tých čiernych, bezodných očí — a videla to. Veterán z pekla, muž, ktorý nosil smrť ako kabát — sa *bál*. Bál sa o ňu.
 
 Rau zdvihol sekeru. Kira urobila krok k Tami.
 
