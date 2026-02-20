@@ -22,7 +22,7 @@ A pred bránou stáli. Čakali na neho.
 
 Okolo nich na zemi ležali zmasakrovaní strážcovia. Pätnásť čerstvých tiel. Ceremoniálna stráž Chrámu — iná jednotka než tí v tuneloch. Kopije a meče, čo nikdy nemali šancu. Zomreli rýchlejšie, než trvá modlitba. [NOTE: Toto je *ďalšia* skupina strážcov — tí pri bráne. V Ch3 zabili 22 v tuneloch. Spolu ~37 mŕtvych.]
 
-**Dvaja.** Modrý chochol. Červený chochol. Sekery pri nohách. Brnenie nesie stopy po boji — obhorené škvrny po Spira strelách, žliabky po telekinetických nárazoch, ošúchané zlacenie — ale žiadna prasklina. Žiadna trhlina. Kozmetické škody, nič viac. Presne takí silní, akí boli pred piatimi minútami, keď rozrezali stenu a dvadsaťdva strážnikov ako stébla trávy.
+**Dvaja.** Modrý chochol. Červený chochol. Sekery pri nohách. Brnenie nesie stopy po boji — obhorené škvrny po Spira strelách, žliabky po telekinetických nárazoch, ošúchané zlacenie — ale žiadna prasklina. Žiadna trhlina. Kozmetické škody, nič viac. Presne takí silní, akí boli pred piatimi minútami, keď rozrezali stenu a všetko za ňou ako stébla trávy.
 
 Maks vedel, že jeho náboje nefungujú. Videl to v tuneli. Svetelné štíty pohltili všetko, čo na nich vystrelil.
 
