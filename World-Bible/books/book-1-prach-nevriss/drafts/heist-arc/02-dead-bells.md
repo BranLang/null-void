@@ -46,9 +46,9 @@ Vlk vkĺzol dnu prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho
 
 ---
 
-Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maksove senzory zaznamenali anomáliu, ale nedokázali ju klasifikovať.
+Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
 
-*Neznáma patológia. Žiadna zhoda v databáze.*
+*Neznáme. Žiadna zhoda.*
 
 „Ak ste zlodeji," povedal Kito a zavrel dvere, „tak ste na zlej adrese. Mám len knihy a dlhy."
 
@@ -88,13 +88,13 @@ Miestnosťou sa ozval tichý, bolestivý ston. Vychádzal z hromady diek v rohu.
 
 „To bude dobre, Maya... oddychuj," šepkal a hladil postavu po čele.
 
-Maks urobil krok vpred. Jeho senzory prenikli cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť.
+Maks urobil krok vpred. Pozrel sa na ňu — a niečo v ňom videlo viac, než mali vidieť ľudské oči cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — prenikne cez tkanivo]
 
 Nebola to len choroba. Bola to *premena*.
 
 Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo iné — na kryštalickú štruktúru pripomínajúcu kremeň. Jej ľavá ruka už nebola z mäsa a kostí, ale z priesvitného, krehkého minerálu, cez ktorý presvitali žily pulzujúce fialovým svetlom.
 
-Maksove senzory sa pokúšali klasifikovať, čo vidia, a zlyhávali. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu.
+Nič v jeho skúsenostiach to nedokázalo zaradiť. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu. [→ 03a-nanotechnology.md: Gen 1 sken zlyháva — neznáma patológia]
 
 Maks nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
 
@@ -286,7 +286,7 @@ Maks ju nasledoval. Vedel, kam dopadne ďalší. Vždy vedel. [→ 03a-nanotechn
 
 *Trajektória projektilu: Balistická krivka. Kaliber: 204 mm. Dopad: 3... 2... 1...*
 
-Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia, bol to len chemický kofaktor pre rýchlejšie procesory.
+Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia — bol to palivo. [→ 03a-nanotechnology.md: adrenalín = chemický kofaktor pre Gen 1 procesory]
 
 „Tri bloky!" zajachtal Kito, visiaci dolu hlavou. „Tri bloky od dopadu — pravdepodobnosť zásahu nášho domu je — musím sa vrátiť, musím ju dostať do pivnice, ona sa nemôže hýbať sama—"
 

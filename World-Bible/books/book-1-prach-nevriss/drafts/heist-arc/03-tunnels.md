@@ -32,14 +32,14 @@ Znovu sa pohli, čľapkajúc v hluku vody, no Tamin nepokoj stúpal.
 
 Vlk sa zrazu zastavil. Jeho uši, doteraz stiahnuté dozadu, sa napriamili a nos zachytil pach zhora.
 „Niečo tu smrdí," povedal ticho do šerej tmy. „Pôjdem pozrieť napred cez ten ventilačný prieduch. Vy sa tam nezmestíte."
-Tami prikývla. „Zisti, čo vidia senzory hore, a vráť sa."
+Tami prikývla. „Zisti, čo je hore, a vráť sa."
 Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo na stene, pretiahol sa do úzkej pukliny v keramickom obklade a zmizol v tme. Zostal po ňom len pach mokrej srsti, ktorý sa rýchlo vytratil.
 
 Maks ďalej istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
 „Hovorí sa, že tieto tunely pamätajú Éru Temnoty," povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvie. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch."
 
-Maks mlčal. Jeho senzory skenovali steny — pod vrstvou slizu a korózie rozpoznával kontúry niečoho presného, inžinierskeho. Staré značky, ktoré nepatrili žiadnemu Kultu. Technické kódy vytlačené do kovu.
+Maks mlčal. Niečo v ňom čítalo steny — pod vrstvou slizu a korózie rozpoznával kontúry niečoho presného, inžinierskeho. [→ 03a-nanotechnology.md: Gen 1 pasívny sken] Staré značky, ktoré nepatrili žiadnemu Kultu. Technické kódy vytlačené do kovu.
 
 *Cooling Sector A-12. Emergency Vent 4. Caution: Geothermal Pressure.*
 
@@ -179,7 +179,7 @@ Tami čistila pištoľ, ale jej pohyby neboli plynulé. Palec jej dvakrát skĺz
 
 „Robíte to *často*?" Kitov hlas nebol zlomený. Syčal. Praskal statikou jeho Moci.
 
-„Každý druhý týždeň," odpovedal Maks s mechanickým chladom, zatiaľ čo jeho prsty so strojovou presnosťou cvakli nový zásobník do samopalu. Ani nezvýšil hlas. Jeho senzory len stroho vykazovali zvýšené vitálne funkcie u oboch spoločníkov. On sám necítil nič. Prijal hrozbu. Eliminoval hrozbu. Rovnica končila.
+„Každý druhý týždeň," odpovedal Maks s mechanickým chladom, zatiaľ čo jeho prsty so strojovou presnosťou cvakli nový zásobník do samopalu. Ani nezvýšil hlas. Vedel, že obom vedľa neho búši srdce. On sám necítil nič. Prijal hrozbu. Eliminoval hrozbu. Rovnica končila. [→ 03a-nanotechnology.md: Gen 1 senzory — Maks registruje vitálne funkcie spoločníkov]
 
 „Ten medveď... to bol Dren," povedal Kito a zovrel päste tak silno, až mu zbeleli hánky. Voda okolo jeho topánok začala vrieť telekinetickým tlakom. „Zabrali ho do služby Chrámu pred štyrmi rokmi! A Yara... vlčica... študovala so mnou botaniku! Mali *mená*! Boli to *veriaci*! Ako môže... ako toto..." Nedokázal to ani dopovedať. Jadro jeho viery sa práve trieštilo na tisíc kúskov priamo pred ich očami.
 
@@ -310,7 +310,7 @@ Strely. Niekoľko dobre mierených rán smerom na miesto, kde stáli Maks, Tami 
 
 Maks videl všetko. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infračervený sken, taktický overlay]
 
-*Roj: 340 aktívnych. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 — nanobot = základná stavebná jednotka (LEGO kocka). Tisíce nanobotov = 1 dron na konkrétny task. 340 dronov = celý deployable roj. Nerozmnožujú sa — každý stratený dron je stratený navždy.]
+*Dosť. Ale nie na všetkých. Šetri.* [→ 03a-nanotechnology.md: Gen 1 — roj: 340 aktívnych, spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický. Nerozmnožujú sa — každý stratený dron je stratený navždy.]
 
 Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
 
@@ -370,7 +370,7 @@ Vodu sfarbenu dočervena. Telá. A dvoch kolosov, ktorí stáli v diere v stene 
 
 *Takéto veci sa na tomto svete nerobia.* [NOTE: Tá istá myšlienka sa zopakuje v Ch4 pri bráne — echo. Teraz platí pre Maksa aj pre Paladínov — dva druhy „nemožného" v jednom tuneli.]
 
-Maks sa pokúsil zhasnúť taktické lampy. Roj narazil do niečoho — neviditeľná bariéra centimetre od povrchu prilby. Tvrdá ako betón, tenká ako papier. Nanoboty sa od nej odrážali ako komáre od skla. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč. Maks ešte nevie, čo je Hard Light — len vidí, že jeho roj neprenikne.]
+Maks sa pokúsil zhasnúť taktické lampy. Niečo v ňom siahlo k svetlu — a narazilo do steny. Neviditeľná bariéra centimetre od povrchu prilby. Tvrdá ako betón, tenká ako papier. Čokoľvek poslal, odrazilo sa späť ako komáre od skla. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč. Maks ešte nevie, čo je Hard Light — len vidí, že nič z jeho arzenálu neprenikne.]
 
 Svetlo všetko zmenilo. Chrámové stráže — tých deväť, čo ešte stáli — videli. A keď videli, bojovali.
 

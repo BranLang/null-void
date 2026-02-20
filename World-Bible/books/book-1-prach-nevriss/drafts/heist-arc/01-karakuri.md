@@ -576,7 +576,7 @@ Zvonček nad dverami cinkol. Jemne, takmer nebadane, keď sa dvere za Tami zavre
 
 Ticho, ktoré ostalo v zaprášenej dielni v Šoravene, bolo ťažké. Voňalo po čaji, starom papieri a... *strachu*.
 
-Majster sedel nehybne za nízkym stolom. Jeho optické senzory – staré, ale dokonale vyleštené – sledovali dvere, hoci Tami už bola dávno preč. [→ 03-technology.md: Gen 2 senzory, android fyziológia] Vedel to. Jeho procesory to vypočítali ešte predtým, než sa kľučka pohla.
+Majster sedel nehybne za nízkym stolom. Jeho oči — staré, ale dokonale číre — sledovali dvere, hoci Tami už bola dávno preč. [→ 03-technology.md: Gen 2 optické senzory, android fyziológia] Vedel to. Vedel to skôr, než sa kľučka pohla. [→ 03-technology.md: Mako procesory — výpočtový výkon maskovaný ako intuícia]
 
 Nebol v miestnosti sám.
 

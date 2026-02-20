@@ -284,7 +284,7 @@ A potom sa zastavila.
 
 Brána. Iná než tá prvá — menšia, elegantnejšia, z matného čierneho materiálu, hladkého ako obsidián. Žiadne pukliny. Žiadne praskliny. Na ráme boli ryhy — zárezy vibro-sekier, čerstvé, hlboké — ale kov nepovolil. Paladíni sa ju pokúsili otvoriť. A zlyhali.
 
-*[Sekerou. Na nanokompozit. Hlúpe opice.]*
+*[Sekerou. Na toto. Hlúpe opice.]* [→ 03-technology.md: materiál brány = nanokompozit, Maks ho rozpoznáva ale v próze nepadne termín]
 
 Žena prešla prstami po povrchu. Jemne. Ako hudobníčka ladí nástroj.
 
