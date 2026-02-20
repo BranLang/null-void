@@ -129,7 +129,7 @@ Kito vykríkol a ustavil sa, akoby ho niekto udrel. Ruky sa mu roztriasli natoľ
 
 „Dozadu," povedal Maks. Hlasne. Jasne. Rozkaz.
 
-Kito cúvol k stene. Ruky sa mu triasli, neschopný odtrhnúť prázdny pohľad od prichádzajúcich hororov. Okuliare mu spadli do vody. Nezbadal to.
+Kito cúvol k stene. Ruky sa mu triasli, neschopný odtrhnúť prázdny pohľad od prichádzajúcich hororov. Okuliare mu skĺzli z nosa a viseli mu na jednom uchu. Nezbadal to.
 
 Medveď sa vrhol vpred. Rýchlosť, ktorá nemala právo existovať pri niečom tej veľkosti. Päť očí na stonkách sa otočilo nezávisle — každé sledovalo inú časť komory.
 
@@ -250,7 +250,7 @@ Potom sa dôstojníkove oči vrátili k Maksovi. A tam sa niečo zlomilo — fas
 
 Maks stál nehybne. Ruky za chrbtom. Oči — tie čierne priepasti za okuliarmi — neprezrádzali nič. Dvadsaťdva zbraní na nich mierilo a on vyzeral, akoby počítal oblaky.
 
-*On to má pod kontrolou*, pomyslela si Tami. *Alebo je úplne šialený. Po siedmich rokoch stále neviem, kde je tá hranica.* [NOTE: Maks je pokojný, pretože jeho drony mu ukazujú každú zbraň, každý uhol, každú medzeru. Vidí východy, ktoré nevidia. Ale netuší, čo príde ďalej.]
+*On to má pod kontrolou*, pomyslela si Tami. *Alebo je úplne šialený. Toľký čas spolu a stále neviem, kde je tá hranica.* [NOTE: Maks je pokojný, pretože jeho drony mu ukazujú každú zbraň, každý uhol, každú medzeru. Vidí východy, ktoré nevidia. Ale netuší, čo príde ďalej.]
 
 Tami mala pravú ruku na Nadeli. Ľavú pred sebou — pripravenú na pentagram. Počítala. *Dvadsaťdva. Tri smery. Úzke tunely — výhoda pre rapier, ale nie pre dvadsaťdva guľiek naraz. Kitova telekinéza — nekontrolovaná, divoká. Maksov samopal — šesť nábojov v zásobníku. A ja mám štyri Spira náboje.*
 
@@ -292,15 +292,15 @@ Nepotreboval ich. Za okuliarmi mu žili tisíce — drobné, neviditeľné, rozp
 
 *Dvadsaťdva cieľov. Tri osi. Olejové lampáše — päťdesiatdva zdrojov svetla.*
 
-„Tami," povedal ticho. „Zavri oči."
+„Tami," povedal ticho. „Drž sa blízko mňa. Zavri oči." [NOTE: Maks v taktickom móde — Tami = priorita (ochrana), Kito = irelevantný. Nie krutosť — vojenský pragmatizmus. Kito v jeho výpočte jednoducho nefiguruje.]
 
-Potom ich zhasol. [→ 03a-nanotechnology.md: Gen 1 nanoboty — kinetický roj, absorpcia tepelnej energie. Maks dokáže lokálne pohltiť plamene.]
+Potom ich zhasol. [→ 03a-nanotechnology.md: Gen 1 v1.5 termálna absorpcia — roj odčerpá tepelnú energiu z plameňov v okruhu niekoľkých metrov. Spotreba: minimálna.]
 
 Tma bola absolútna.
 
 Nie šero. Nie prítmie. *Nič.* Päťdesiatdva olejových plameňov zomrelo v rovnakom okamihu — akoby im niekto vysal vzduch z okolia. Tunely pohltila čerň tak hustá, že sa z nej dalo piť.
 
-Ticho. Len dunenie nevrisskej artillérie na povrchu — tlmené, vzdialené, ako tep sveta nad nimi.
+Ticho. Len dunenie nevrisskej artilerie na povrchu — tlmené, vzdialené, ako tep sveta nad nimi.
 
 Traja naraz. Inštinkt. Tréning. Pentagramy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky. [→ 03-technology.md: pentagram = viditeľný pre všetkých; v tme = jediný zdroj svetla]
 
@@ -380,7 +380,7 @@ Pentagramy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, n
 
 Všetko zasiahlo Paladínov.
 
-Spira strely prešli cez Hard Light — štít ich nepohltil, neodrazil. Prešli. Ale zasiahli pancier a... odskočili. Rozprskli sa na neškodné iskry. Blesk zasiahol Rauovo rameno — zachvel sa, stiekol po brnení ako voda a zmizol. Telekintická vlna narazila do Kiry — posunula ju o centimeter. Jeden. [→ planning/01-prach-nevriss.md: Paladínsky pancier = iná technológia než Hard Light štít. Spira cez štít prejde, ale pancier absorbuje energiu. Dvojitá ochrana — pasívna + aktívna.] [NOTE: Spira strely prechádzajú cez Hard Light (= nie energetická zbraň, ale nano-projektil), ale pancier je z materiálu, ktorý absorbuje kinetickú aj Spira energiu. Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť.]
+Spira strely prešli cez svetelný štít — nepohltil ich, neodrazil. Prešli. Ale zasiahli pancier a... odskočili. Rozprskli sa na neškodné iskry. Blesk zasiahol Rauovo rameno — zachvel sa, stiekol po brnení ako voda a zmizol. Telekintická vlna narazila do Kiry — posunula ju o centimeter. Jeden. [→ 03-technology.md: Spira enchant sa rozbije o Hard Light — cez štít prejde len oceľová časť projektilu, spomalená a bez penetrácie. Pancier ju zastaví hravá. Dvojitá ochrana — Hard Light zničí enchant, pancier zastaví oceľ.] [NOTE: Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť. Text hovorí „prešli" — z POV strelcov to vyzerá, že strely prešli cez štít. Nevidia, že enchant sa rozbil — vidia len, že pancier ich zastavil.]
 
 Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami *praskol*. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch metrov. Brnenia, štíty, telá — ako nič. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku, nie len kontaktná zbraň]
 
