@@ -246,7 +246,7 @@ Náboje enkantované Gen 2 nanobotmi (Spirou). Rovnaký princíp ako Prach-coati
 > **Princíp je rovnaký pre Gen 1 aj Gen 2:** nanoboty na povrchu projektilu = coating, ktorý naviguje strelu a pri zásahu uvoľní energiu. Rozdiel je v interakcii s Hard Light (viď porovnanie nižšie).
 
 **Interakcia s Hard Light štítom:**
-- **Gen 1 (Čierny Prach):** Blokovaný úplne — nanoboty sa od Hard Light odrážajú ako od steny.
+- **Gen 1 (Čierny Prach):** Nano-coating sa **rozpadne** pri prechode cez Hard Light — Čierny Prach nie je Spira, štít ho nezastaví, ale zničí nano-vrstvu. Cez štít prejde len oceľové jadro — spomalené, bez navádzania, bez penetrácie na Paladínsky pancier. Výsledok rovnaký ako Gen 2: neúčinné.
 - **Gen 2 (Spira):** Enchant (nano-coating) sa **rozbije** o Hard Light štít. Cez štít prejde len **fyzická (oceľová) časť** projektilu — spomalená, bez Spira energie, bez navádzania. Holá oceľ nemá penetráciu na Paladínsky pancier.
 
 **Výsledok:** Spira munícia je účinná proti bežným cieľom, ale proti Paladínom s Hard Light + pancierom je prakticky neúčinná — enchant zničí štít, oceľ zastaví pancier. Dvojitá ochrana.
@@ -260,7 +260,7 @@ Maks používa bežné projektily potiahnuté **Čiernym Prachom** (Gen 1 nanobo
 | **Navádzanie** | Nanoboty na povrchu korigujú dráhu letu — strely vedia ísť za roh, obísť prekážku |
 | **Dostrel** | Niekoľko kilometrov (nanoboty udržiavajú stabilitu a smer) |
 | **Spotreba** | Nízka — coating sa spotrebuje pri zásahu |
-| **Limit** | Nefunguje cez Hard Light — Gen 1 nanoboty sú blokované úplne |
+| **Limit** | Nano-coating sa rozpadne pri prechode cez Hard Light — oceľ prejde, ale bez navádzania a penetrácie |
 | **Výroba** | Maks vyrába z Prachu exorcizovaných Wraithov — limitovaná zásoba |
 
 > Vizuál: Náboje majú čierny matný lesk — povrch pokrytý mikroskopickou vrstvou nanobotov. Pri výstrele sa za nimi ťahá jemná čierna stopa.
@@ -272,7 +272,7 @@ Maks používa bežné projektily potiahnuté **Čiernym Prachom** (Gen 1 nanobo
 | **Sila** | Vyššia — vojenský nanotech | Nižšia — civilný nanotech |
 | **Dostrel** | Niekoľko kilometrov | Kratší (~stovky metrov) |
 | **Navádzanie** | Presnejšie — riadené strely, za roh | Základné korekcie dráhy |
-| **Hard Light** | Blokovaný úplne | Enchant sa rozbije o štít. Oceľ prejde, ale spomalená a bez penetrácie |
+| **Hard Light** | Nano-coating sa rozpadne. Oceľ prejde, ale spomalená a bez penetrácie | Enchant sa rozbije o štít. Oceľ prejde, ale spomalená a bez penetrácie |
 | **Obnova** | Žiadna — spotrebovaný coating je stratený navždy | Samoreprodukcia — obnovuje sa |
 | **Dostupnosť** | Vzácny (len Exorcisti, z Wraithov) | Drahý, ale vyrobiteľný (Krotitelia + kryštály) |
 
