@@ -304,7 +304,7 @@ Ticho. Len dunenie nevrisskej artillérie na povrchu — tlmené, vzdialené, ak
 
 Traja naraz. Inštinkt. Tréning. Pentagramy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky. [→ 03-technology.md: pentagram = viditeľný pre všetkých; v tme = jediný zdroj svetla]
 
-Potom zhasli. Nie pentagramy — ich majitelia. Tri nanoboty. Do úst. Do nosa. Do ucha. Minimálna detonácia — žiadny mess, žiadna dráma. Len vypnutie. [→ 03a-nanotechnology.md: Gen 1 nanodron dokáže prejsť aj cez tkanivo, ale dýchacie cesty = low effort, najrýchlejšia cesta. Spotreba: 1 nanobot/cieľ. Čistý kill.]
+Potom zhasli. Nie pentagramy — ich majitelia. Tri nanoboty. Do otvorených úst — pentagram sa aktivuje hlasom a oni práve hovorili. Minimálna detonácia. Len vypnutie. [→ 03a-nanotechnology.md: Gen 1 nanodron dokáže prejsť aj cez tkanivo, ale otvorený otvor = low effort, najrýchlejšia cesta. Pentagram = haiku príkaz = otvorené ústa = ideálny vstupný bod. Spotreba: 1 nanobot/cieľ.]
 
 Tri výkriky — krátke, udusené — a tri telá padli do vody. Pentagramy zhasli s nimi. Tma a ticho sa vrátili.
 
@@ -320,7 +320,9 @@ Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
 
 Ticho. Dlhé. Maks čakal.
 
-Piaty. Vedľa neho — počul šplieskanec. Otočil sa. Strelil do tmy. Výstrel zadunel v tuneli ako hrom a na pol sekundy osvetlil — *nič*. Priestor, kde pred okamihom stál Exorcista, bol prázdny. [NOTE: Maks sa pohybuje medzi výstrelmi. Nie je rýchlejší než guľka — je rýchlejší než prst na spúšti. Taktický overlay mu ukazuje smer hlavne skôr, než strážca stihne vystreliť.]
+Piaty. Strážca vedľa mŕtveho počul šplieskanec. Otočil sa. Strelil do tmy. Výstrel zadunel v tuneli ako hrom a na pol sekundy osvetlil — *nič*. Priestor, kde pred okamihom stál Exorcista, bol prázdny. [NOTE: Maks sa pohybuje medzi výstrelmi. Nie je rýchlejší než guľka — je rýchlejší než prst na spúšti. Taktický overlay mu ukazuje smer hlavne skôr, než strážca stihne vystreliť.]
+
+Tami stála v tme so zatvoreným očami a počítala výkriky. Nadel v pravej ruke, pentagram pripravený v ľavej. Bezcenné — nemala kam mieriť, nemala koho chrániť. Len stáť a počúvať, ako Maks pracuje.
 
 Zvyšní neodpovedali. Nestrelili. Len dýchanie — rýchle, plytké, zúfalé. A čakanie. Vedeli, že ďalší príde. Nevedeli odkiaľ.
 
@@ -330,7 +332,7 @@ Nikto neutiekol. Boli tri tunely von. Stačilo sa otočiť a bežať. Ale rozkaz
 
 Pauza. V absolútnej tme sa čas rozpadol.
 
-„*Streľte! Všade! Zalejte tunel!*" Dôstojník kričal. A strážce strieľali — divoko, naslepo, do stien, do stropu, do seba. Projektily smerom na Maksa opäť zmenili dráhu. Dve telá padli od vlastnej paľby. [NOTE: Maks deflektuje len strely mierené na neho/Tami/Kita. Zvyšok nechá — nech sa zabíjajú sami.]
+„*Streľte! Všade! Zalejte tunel!*" Dôstojník kričal. A stráže strieľali — divoko, naslepo, do stien, do stropu, do seba. Projektily smerom na Maksa opäť zmenili dráhu. Dve telá padli od vlastnej paľby. [NOTE: Maks deflektuje len strely mierené na neho/Tami/Kita. Zvyšok nechá — nech sa zabíjajú sami.]
 
 Siedmy. Ôsmy. Medzi každým — pauza. Čas na rozhodnutie. Čas na útek.
 
@@ -354,11 +356,11 @@ Chrámové stráže to ucítili tiež. Výkriky ustali. Teraz sa báli niečoho 
 
 Stena za nimi *explodovala*.
 
-Nie prasknuto. Nie zrútené. *Rozrezané.* Štyri tony betónu a kameňa sa rozpadli na kusy veľké ako tehly, rozmetané do tunela s rýchlosťou šrapnelu. Traja strážnici, čo ešte stáli, ani nestihli otočiť hlavy.
+Nie prasknuto. Nie zrútené. *Rozrezané.* Štyri tony betónu a kameňa sa rozpadli na kusy veľké ako tehly, rozmetané do tunela s rýchlosťou šrapnelu. Traja strážnici najbližšie k stene ani nestihli otočiť hlavy — kusy betónu ich zmietli do vody.
 
 Z diery sa vyvalilo svetlo.
 
-Dva kužele — ostré, biele, chirurgické — z taktických lámp na prilbách. Osvetlili masaker. Telá vo vode. Krv zmiešanú s olejom z rozbitých lampášov. Dvanásť preživších strážcov, stlačených k sebe ako stádo, so zbraňami trčiacimi do všetkých strán. A uprostred toho — Maksa. Stojaceho. Pokojného. S rukami za chrbtom a očami, v ktorých nebolo nič ľudské.
+Dva kužele — ostré, biele, chirurgické — z taktických lámp na prilbách. Osvetlili masaker. Telá vo vode. Krv zmiešanú s olejom z rozbitých lampášov. Deväť preživších strážcov, stlačených k sebe ako stádo, so zbraňami trčiacimi do všetkých strán. A uprostred toho — Maksa. Stojaceho. Pokojného. S rukami za chrbtom a očami, v ktorých nebolo nič ľudské.
 
 Za svetlom — *dvaja*.
 
@@ -370,9 +372,9 @@ Vodu sfarbenu dočervena. Telá. A dvoch kolosov, ktorí stáli v diere v stene 
 
 *Takéto veci sa na tomto svete nerobia.* [NOTE: Tá istá myšlienka sa zopakuje v Ch4 pri bráne — echo. Teraz platí pre Maksa aj pre Paladínov — dva druhy „nemožného" v jednom tuneli.]
 
-Maks sa pokúsil zhasnúť taktické lampy. Roj sa odrazil od neviditeľnej bariéry centimetre od povrchu prilby — ako keby vrazil do skla. Hard Light. Elektromagnetický štít, hustý ako betón, tenký ako papier. Nič z jeho arzenálu cezeň neprešlo. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč.]
+Maks sa pokúsil zhasnúť taktické lampy. Roj narazil do niečoho — neviditeľná bariéra centimetre od povrchu prilby. Tvrdá ako betón, tenká ako papier. Nanoboty sa od nej odrážali ako komáre od skla. [→ 03a-nanotechnology.md: Gen 1 nanoboty nedokážu preniknúť cez Hard Light — EMP/magnetická bariéra blokuje všetky nano-operácie] [NOTE: Kľúčový moment — Maks stráca kontrolu nad svetlom. Tma bola jeho zbraň. Teraz je preč. Maks ešte nevie, čo je Hard Light — len vidí, že jeho roj neprenikne.]
 
-Svetlo všetko zmenilo. Chrámové stráže — tých dvanásť, čo ešte stáli — videli. A keď videli, bojovali.
+Svetlo všetko zmenilo. Chrámové stráže — tých deväť, čo ešte stáli — videli. A keď videli, bojovali.
 
 Pentagramy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, na hrudi. Tunel explodoval farbami. Spira štíty sa rozprestreli pred strážcami — priesvitné, žiariace, zlatisté. Niekto vystrelil blesk — biely, oslnivý, rachotajúci cez vodu. Iný zdvihol ruky a vzduch sa stlačil do viditeľnej vlny. Oheň. Telekinez. Vodný bič zdvihnutý z vody po členky. Dvaja ostreľovači strieľali Spira projektily — zažiarené náboje, čo za sebou ťahali zlaté stopy. [→ 03-technology.md: pentagram = 5 elementov Spiry; Inkvizícia = elitní Spira bojovníci, nie len strelci]
 
@@ -390,7 +392,7 @@ Kira bola pri ňom skôr, než stihol pripraviť druhú. Sekera zvisle. Jeden re
 
 Zvyšní sa lámu. Niektorí strieľali ďalej — Spira blesky, vodné biče, telekintické údery. Všetko neúčinné. Niekto sa pokúsil utiecť — vibrovlna ho zasiahla v chrbte. Padol bez zvuku.
 
-Dvadsať sekúnd. Dvanásť tiel. [NOTE: Pomalšie než Maks v tme — ale dramaticky iné. Maks potreboval tmu, taktiku, úspornosť. Paladíni šli do plného svetla, prijali plnú paľbu celej jednotky Spira bojovníkov, a nič z toho ich nepoškodilo. Brute force dominancia.]
+Dvadsať sekúnd. Deväť tiel. [NOTE: Maks zabil päť kinetickým rojom + tri nanodron kills. Dvaja padli vlastnou paľbou. Troch zmietol šrapnel pri príchode Paladínov. Paladíni zvyšných deväť za dvadsať sekúnd — pomalšie než Maks, ale dramaticky iné. Maks potreboval tmu, taktiku, úspornosť. Paladíni prijali plnú Spira paľbu a nič z toho ich nepoškodilo.]
 
 A potom sa otočili.
 
@@ -408,7 +410,7 @@ Betón praskol ako sklo. Strop sa zachvel, potom sa z neho odlomil kus veľký a
 
 Z Maksovej hlavy v tej sekunde zmizla taktika, vojna aj artefakty. Inštinkt. Surový, ľudský, primitívny. Schmatol Tami za rameno a odhodil ju dozadu — preč od padajúceho stropu, preč od monolitov, preč od *neho*.
 
-„**BEŽ!**" zarevali Maks. Nie povedal. *Zarevali.* Prvýkrát, čo Tami počula ten hlas stratiť kontrolu. „**ZACHRÁŇ ICH!**" [NOTE: Prvý a jediný raz, čo Maks v celej knihe kričí. Nie kvôli sebe. Kvôli Arkotovi a Yere.]
+„**BEŽ!**" zareval Maks. Nie povedal. *Zareval.* Prvýkrát, čo Tami počula ten hlas stratiť kontrolu. „**ZACHRÁŇ ICH!**" [NOTE: Prvý a jediný raz, čo Maks v celej knihe kričí. Nie kvôli sebe. Kvôli Arkotovi a Yere.]
 
 Zvyšok stropu nasledoval. Potrubie prasklo, betón a kusy kovu sa zasekli do tunela ako zátka vo fľaši. Stena sutín rástla medzi nimi — rýchlejšie, než mohol Maks dosiahnuť cez ňu. Jeho ruka narazila do chladného betónu centimetre od miesta, kde predtým stála Tami. Prach zvíril všade — hustý, dusivý, biely.
 
@@ -440,7 +442,7 @@ Maks stál v tme na svojej strane zavalu. Za ním dvaja monoliti. Pred ním cest
 
 „*Choď.*" Bez diskusie. Bez vysvetľovania. „Ja mám svoju cestu."
 
-Monolity za ním sa pohol. Rau vykročil smerom k bráne. Kira za ním. Neponáhľali sa. Vedeli, že Maks nemá kam utiecť.
+Monolity za ním sa pohli. Rau vykročil smerom k bráne. Kira za ním. Neponáhľali sa. Vedeli, že Maks nemá kam utiecť.
 
 Ticho.
 
