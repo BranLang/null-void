@@ -316,7 +316,7 @@ Maks videl všetko. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infr
 
 Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
 
-Štvrtý výkrik v tme. Maks. Strážca to necítil — len krátky závan vzduchu, ako keby sa niečo dotklo jeho krku, a potom jeho kolená povolili a on padol do vody bez zvuku. [NOTE: 4. mŕtvy — po troch Spira nešťastníkoch. Maks teraz začína.]
+Štvrtý výkrik v tme. Maks. Strážca to necítil — len krátky závan vzduchu, ako keby sa niečo dotklo jeho krku, a potom jeho kolená povolili a on padol do vody bez zvuku. Z puzdra na opasku mu vypadol malý predmet — kovový medailón, lesklý od nosenia. Maks ho nezbadal. Tami áno. [NOTE: 4. mŕtvy — po troch Spira nešťastníkoch. Maks teraz začína. Medailón = tento muž mal niekoho. Tami si to všimne — Maks nie.]
 
 Ticho. Dlhé. Maks čakal.
 

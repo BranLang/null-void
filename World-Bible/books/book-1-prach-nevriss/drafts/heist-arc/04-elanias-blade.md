@@ -370,11 +370,17 @@ Tunel sa rozširoval do nízkej komory. Strop podopierali kamenné piliere — s
 
 Rau mal artefakt položený na zemi vedľa seba. Čierna kovová tyč, jeden a pol metra dlhá, matná, pohlcujúca svetlo. Kira stála oproti nemu. Komunikovali gestami — rýchlymi, presnými, vojenskými. Žiadne slová.
 
-Maks vystúpil do svetla.
+Maks zastál za pilierom. Tri drony mu kreslili obraz komory — Paladíni vpredu, Sera niekde v tme za nimi. Čaká na mŕtvy uhol. Potrebuje ich chrbtom k sebe.
+
+*Návnada musí vyzerať nebezpečne.*
+
+Vystúpil do svetla.
 
 „Hej!" Zdvihol samopal. Vystrelil. Tri rány — nie na štít. Na strop nad Rauom. Betón sa zosypal. Prach.
 
 Obaja sa otočili. Presne. Koordinovane. Rau zdvihol sekeru. Kira urobila krok nabok.
+
+*Teraz.*
 
 Tami vyrazila spoza piliera. Nadel v pravej ruke, pištoľ v ľavej. Bežala priamo na Kiru — nie na útok, na provokáciu. Štyri rány z pištole zasiahli modré svetlo okolo Kiry. Svetlo sa zavlnilo ako hladina jazera. Neprenikli. Ale pozornosť upútali.
 
