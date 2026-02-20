@@ -4,6 +4,8 @@
 
 Maks zostúpil posledných dvadsať schodov sám.
 
+Stopoval ich. Od kolapsu tunela sledoval monolity — ich modré svetlo sa odrážalo v mokrých stenách ako bludné ohníky. Neponáhľali sa. Neschovávali sa. Kráčali s istotou bytostí, ktoré nemali dôvod sa báť čohokoľvek pod zemou. [→ 03-tunnels.md: Rau a Kira, prvý kontakt v Časti IV]
+
 Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Chladnejší. Ale nie suchší — voda mu siahala po členky. Čierna, studená, tichá. Steny lesklé vlhkosťou, s tmavými pruhmi, čo naznačovali, že hladina nebývala vždy taká nízka.
 
 *Hladina: +14cm/h*, oznámil Asistent. *Sai fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
@@ -16,19 +18,17 @@ Ale brána bola otvorená.
 
 Nie mechanicky. Násilne. Masívne kamenné krídla boli roztlačené do strán — pukliny v ráme, prsty zanechané v kameni. Niekto to urobil holými rukami. Niekto *silný*.
 
-A pred bránou stáli.
+A pred bránou stáli. Čakali na neho.
 
-Okolo nich na zemi ležali zmasakrovaní strážcovia. Pätnásť tiel. Rozťaté, rozsekaté, ešte teplé. Chrámová stráž v ceremonálnych zbrojách, s kopijami a mečmi, čo nikdy nemali šancu. Zomreli rýchlejšie, než trvá modlitba.
+Okolo nich na zemi ležali zmasakrovaní strážcovia. Pätnásť čerstvých tiel. Ceremoniálna stráž Chrámu — iná jednotka než tí v tuneloch. Kopije a meče, čo nikdy nemali šancu. Zomreli rýchlejšie, než trvá modlitba. [NOTE: Toto je *ďalšia* skupina strážcov — tí pri bráne. V Ch3 zabili 22 v tuneloch. Spolu ~37 mŕtvych.]
 
-**Dvaja.**
+**Dvaja.** Modrý chochol. Červený chochol. Sekery pri nohách. Brnenie bolo nepoškodené — ani jeden zásah, ani škrabanec. Presne takí, akí boli pred piatimi minútami, keď rozrezali stenu a dvadsaťdva strážnikov ako stébla trávy.
 
-Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, ornamentálny, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou.
+Maks vedel, že jeho náboje nefungujú. Videl to v tuneli. Hard Light štíty pohltili všetko, čo na nich vystrelil.
 
-Maks stuhol.
+Ale skúsil to znova. Pretože to bol jediný jazyk, ktorý ešte mal.
 
-*Neznáme*, oznámil Asistent. *Žiadna zhoda. Odporúčanie: ÚSTUP.*
-
-Maks ignoroval Asistenta. Zdvihol samopal. Tri rány. Náboje z Čierneho Prachu — čierny matný lesk — zasiahli svetlo na chrbte toho väčšieho a... rozprskli sa. Akoby hodil vodu na sklo. Svetlo pohltilo náraz, zachvelo sa a ustálilo.
+Zdvihol samopal. Tri rány. Náboje z Čierneho Prachu zasiahli svetlo na chrbte toho väčšieho a... rozprskli sa. Rovnako ako predtým. Svetlo pohltilo náraz, zachvelo sa a ustálilo.
 
 *Takéto veci sa na tomto kontinente nerobia.*
 
@@ -38,7 +38,7 @@ Väčší — Rau — sa pohol. Sekera švihla horizontálne. Maks sa sklonil, �
 
 ---
 
-Tami prišla zo severu. Sama. Kito zostal s Arkotom a Yerou — viedol ich von cez šachtu, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť IV Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
+Tami prišla zo severu. Sama. Kito zostal s Arkotom a Yerou — viedol ich von cez šachtu, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť V Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
 
 Počula to skôr, než to videla. Dunenie. Vibrácie v stenách. Zvuk kovu o kameň.
 

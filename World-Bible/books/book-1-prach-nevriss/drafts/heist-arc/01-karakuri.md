@@ -32,9 +32,9 @@ Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
 Tami stála v podpalubí, po pás vnorená do útrob kompresnej komory. [→ 03-technology.md: Itaka, dieselpunk technológia] Ruky mala po lakte čierne od oleja. Tretí kondenzátor v rade tiekol ako deravé vedro. Kryt axiálneho čerpadla bol prerazený — šrapnel z Grawského prieskumného lietadla, ktorý ich pred dvoma dňami prepadol nad priesmykom Hangraval, narobil viac škody, než si pôvodne myslela. [→ concepts/battle-logistics.md: Graw vzdušné sily] Ušli len vďaka hmle a tomu, že Grawčania nemíňali muníciu na malé vzducholode. Mali väčšie starosti.
 
-*Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu.
+*Kurva*, nadávala si v duchu, keď jej kľúč po tretíkrát skĺzol z matice. Olej jej stekal po predlaktí a kvapkal na podlahu. Aspoň bola teraz ľahká fáza — Sai stála vysoko nad obzorom a ťah bol mierny. Keď zapadne, všetko na palube stuhne pod dvojnásobnou váhou. Celý Nevriss fungoval v rytme toho dvadsaťhodinového cyklu — ťažká hodina a ľahká hodina, prílivy a odlivy gravitácie, na ktoré si za štyri roky zvykla ako na dýchanie. [→ 03-technology.md: Sai = binárna hviezda, 20h gravitačný cyklus]
 
-Vedľa nej Nix ležala na chrbte pod rozvodným potrubím, len ruky a chvost trčali spod panelov. Mačka nadávala v štyroch jazykoch naraz. [→ characters/Tami.md: Nix, Felis Varietas, hlavná mechanička]
+Vedľa nej Nix ležal na chrbte pod rozvodným potrubím, len ruky a jedno zajačie ucho trčali spod panelov. Nadával v štyroch jazykoch naraz. [→ characters/Nix.md: Nix, Usagi Varietas, hlavný mechanik]
 
 Odtiahla sa od motora a oprela si chrbát o stenu. Zavrela oči. Len na chvíľu.
 

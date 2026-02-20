@@ -204,7 +204,9 @@ Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabin
 
 Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
-„Vstup je v prístave," ukázal dlhým prstom. „Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
+„Vstup je v prístave," ukázal dlhým prstom. „Ale musíme ísť, keď Sai zapadne. Ťažká hodina — stráže budú tiahnuť k zemi ako vrecia piesku. Nikto sa nebude hrnúť do kobiek, keď každý krok stojí dvojnásobne." [→ 03-technology.md: Sai gravitačný cyklus, taktické využitie]
+
+„Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
 
 „Čo?" spýtal sa Maks.
 
