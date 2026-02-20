@@ -46,9 +46,9 @@ Vlk vkĺzol dnu prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho
 
 ---
 
-Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maksove senzory zaznamenali anomáliu, ale nedokázali ju klasifikovať.
+Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
 
-*Neznáma patológia. Žiadna zhoda v databáze.*
+*Neznáme. Žiadna zhoda.*
 
 „Ak ste zlodeji," povedal Kito a zavrel dvere, „tak ste na zlej adrese. Mám len knihy a dlhy."
 
@@ -88,13 +88,13 @@ Miestnosťou sa ozval tichý, bolestivý ston. Vychádzal z hromady diek v rohu.
 
 „To bude dobre, Maya... oddychuj," šepkal a hladil postavu po čele.
 
-Maks urobil krok vpred. Jeho senzory prenikli cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť.
+Maks urobil krok vpred. Pozrel sa na ňu — a niečo v ňom videlo viac, než mali vidieť ľudské oči cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — prenikne cez tkanivo]
 
 Nebola to len choroba. Bola to *premena*.
 
 Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo iné — na kryštalickú štruktúru pripomínajúcu kremeň. Jej ľavá ruka už nebola z mäsa a kostí, ale z priesvitného, krehkého minerálu, cez ktorý presvitali žily pulzujúce fialovým svetlom.
 
-Maksove senzory sa pokúšali klasifikovať, čo vidia, a zlyhávali. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu.
+Nič v jeho skúsenostiach to nedokázalo zaradiť. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu. [→ 03a-nanotechnology.md: Gen 1 sken zlyháva — neznáma patológia]
 
 Maks nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
 
@@ -204,7 +204,9 @@ Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabin
 
 Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
-„Vstup je v prístave," ukázal dlhým prstom. „Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
+„Vstup je pri bitúnku," ukázal dlhým prstom. „Starý kanál. Ideme pri odlive." Prst sa posunul po mape k Chrámu. „Dve hodiny. Potom nás voda vyženie." [→ 05-geography.md: Sai prílivový cyklus, odlivové okno ~2h]
+
+„Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
 
 „Čo?" spýtal sa Maks.
 
@@ -240,7 +242,7 @@ O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťa
 
 V momente, keď sa jeho prsty dotkli látky, vzduch okolo Kita explodoval. Knihy vyleteli z políc, sklené fľaštičky praskli, Maksov plášť sa odtrhol dozadu, akoby doň fúkol víchor. Kitova telekinéza — surová, nekontrolovaná, čistý obranný reflex Pursanga — narazila do Maksa ako neviditeľná stena.
 
-Maks sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Jeho nanoboty absorbovali energiu a Maks zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika.
+Maks sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Niečo v ňom absorbovalo energiu — niečo, čo nebolo Spira — a Maks zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívna absorpcia kinetickej energie]
 
 Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
 
@@ -274,17 +276,17 @@ Vybehli z bytu do noci, ktorá sa práve menila na peklo.
 
 Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili vozíky s deťmi cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
 
-Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho aura pradávnej nanotechnológie, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
+Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali — niečo okolo neho ich odstrkávalo, niečo neviditeľné a staré, znásobené váhou trasúceho sa Kita prehodeného cez rameno. [→ 03a-nanotechnology.md: Gen 1 — pasívne kinetické pole, pradávna nanotechnológia]
 
 „Za mnou!" zavrčal vlk a kľučkoval cez dym a oheň, inštinktívne hľadajúc najkratšiu trasu k bodu, ktorý Kito kričal cez hluk výbuchov.
 
 „Doľava!" zakričala Tami a skočila za ním do úzkej uličky, kam sa dav nezmestil.
 
-Maks ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
+Maks ju nasledoval. Vedel, kam dopadne ďalší. Vždy vedel. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — balistická analýza v reálnom čase]
 
 *Trajektória projektilu: Balistická krivka. Kaliber: 204 mm. Dopad: 3... 2... 1...*
 
-Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia, bol to len chemický kofaktor pre rýchlejšie procesory.
+Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia — bol to palivo. [→ 03a-nanotechnology.md: adrenalín = chemický kofaktor pre Gen 1 procesory]
 
 „Tri bloky!" zajachtal Kito, visiaci dolu hlavou. „Tri bloky od dopadu — pravdepodobnosť zásahu nášho domu je — musím sa vrátiť, musím ju dostať do pivnice, ona sa nemôže hýbať sama—"
 

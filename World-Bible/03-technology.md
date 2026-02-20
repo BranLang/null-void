@@ -234,6 +234,50 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
    - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach. 
    - **Hniloba (Glitch Rot)**: Vzniká vtedy, keď nanotechnológia stratí prepojenie s Vedomím a začne sa chaoticky, rakovinotvorne replikovať bez riadiaceho kódu.
 
+### Spira munícia
+
+Náboje enkantované Gen 2 nanobotmi (Spirou). Rovnaký princíp ako Prach-coating (viď nižšie) — **nano-coating na projektile** — len s Gen 2 namiesto Gen 1. Výroba je drahá a limitovaná — vyžaduje Spira kryštály a skúseného Krotiteľa na impregnáciu.
+
+| Typ | Funkcia | Cena |
+|-----|---------|------|
+| **Spira náboj (guľka)** | Projektil s Gen 2 nano-coatingom. Navádzaný, pri zásahu uvoľní Spira energiu do cieľa. | ~cena koňa za 1 náboj |
+| **Spira blesk** | Elektrický výboj cez pentagram (nie munícia — priamy Spira útok) | Závisí od Krotiteľa |
+
+> **Princíp je rovnaký pre Gen 1 aj Gen 2:** nanoboty na povrchu projektilu = coating, ktorý naviguje strelu a pri zásahu uvoľní energiu. Rozdiel je v interakcii s Hard Light (viď porovnanie nižšie).
+
+**Interakcia s Hard Light štítom:**
+- **Gen 1 (Čierny Prach):** Nano-coating sa **rozpadne** pri prechode cez Hard Light — Čierny Prach nie je Spira, štít ho nezastaví, ale zničí nano-vrstvu. Cez štít prejde len oceľové jadro — spomalené, bez navádzania, bez penetrácie na Paladínsky pancier. Výsledok rovnaký ako Gen 2: neúčinné.
+- **Gen 2 (Spira):** Enchant (nano-coating) sa **rozbije** o Hard Light štít. Cez štít prejde len **fyzická (oceľová) časť** projektilu — spomalená, bez Spira energie, bez navádzania. Holá oceľ nemá penetráciu na Paladínsky pancier.
+
+**Výsledok:** Spira munícia je účinná proti bežným cieľom, ale proti Paladínom s Hard Light + pancierom je prakticky neúčinná — enchant zničí štít, oceľ zastaví pancier. Dvojitá ochrana.
+
+### Prach-coating munícia (Maksova)
+
+Maks používa bežné projektily potiahnuté **Čiernym Prachom** (Gen 1 nanobotmi z exorcizovaných Wraithov). Nanoboty na povrchu náboja slúžia ako navigačný systém — **riadené strely**.
+
+| Vlastnosť | Detail |
+|-----------|--------|
+| **Navádzanie** | Nanoboty na povrchu korigujú dráhu letu — strely vedia ísť za roh, obísť prekážku |
+| **Dostrel** | Niekoľko kilometrov (nanoboty udržiavajú stabilitu a smer) |
+| **Spotreba** | Nízka — coating sa spotrebuje pri zásahu |
+| **Limit** | Nano-coating sa rozpadne pri prechode cez Hard Light — oceľ prejde, ale bez navádzania a penetrácie |
+| **Výroba** | Maks vyrába z Prachu exorcizovaných Wraithov — limitovaná zásoba |
+
+> Vizuál: Náboje majú čierny matný lesk — povrch pokrytý mikroskopickou vrstvou nanobotov. Pri výstrele sa za nimi ťahá jemná čierna stopa.
+
+### Porovnanie Gen 1 vs Gen 2 coating
+
+| | **Gen 1 (Čierny Prach)** | **Gen 2 (Spira)** |
+|---|---|---|
+| **Sila** | Vyššia — vojenský nanotech | Nižšia — civilný nanotech |
+| **Dostrel** | Niekoľko kilometrov | Kratší (~stovky metrov) |
+| **Navádzanie** | Presnejšie — riadené strely, za roh | Základné korekcie dráhy |
+| **Hard Light** | Nano-coating sa rozpadne. Oceľ prejde, ale spomalená a bez penetrácie | Enchant sa rozbije o štít. Oceľ prejde, ale spomalená a bez penetrácie |
+| **Obnova** | Žiadna — spotrebovaný coating je stratený navždy | Samoreprodukcia — obnovuje sa |
+| **Dostupnosť** | Vzácny (len Exorcisti, z Wraithov) | Drahý, ale vyrobiteľný (Krotitelia + kryštály) |
+
+[→ 03a-nanotechnology.md: Čierny Prach, Gen 1 vs Gen 2]
+
 ### Protocol Null („Null Void")
 - Finálny príkaz zbláznenej AI
 - Cieľ: rozložiť biologickú hmotu na atómy

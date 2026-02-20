@@ -4,9 +4,11 @@
 
 Maks zostúpil posledných dvadsať schodov sám.
 
+Stopoval ich. Od kolapsu tunela sledoval monolity — ich modré svetlo sa odrážalo v mokrých stenách ako bludné ohníky. Neponáhľali sa. Neschovávali sa. Kráčali s istotou bytostí, ktoré nemali dôvod sa báť čohokoľvek pod zemou. [→ 03-tunnels.md: Rau a Kira, prvý kontakt v Časti IV]
+
 Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Chladnejší. Ale nie suchší — voda mu siahala po členky. Čierna, studená, tichá. Steny lesklé vlhkosťou, s tmavými pruhmi, čo naznačovali, že hladina nebývala vždy taká nízka.
 
-*Hladina: +14cm/h*, oznámil Asistent. *Sai fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
+Voda stúpala. Pomaly, ale viditeľne — tmavé pruhy na stenách ukazovali, kam sa dostane. Sai sa vracala spoza obzoru. Odliv končil a more sa začínalo hlásiť späť. [→ 05-geography.md: Sai sa vracia = príliv stúpa, časový limit heist-u]
 
 A na konci tunela — brána.
 
@@ -16,19 +18,17 @@ Ale brána bola otvorená.
 
 Nie mechanicky. Násilne. Masívne kamenné krídla boli roztlačené do strán — pukliny v ráme, prsty zanechané v kameni. Niekto to urobil holými rukami. Niekto *silný*.
 
-A pred bránou stáli.
+A pred bránou stáli. Čakali na neho.
 
-Okolo nich na zemi ležali zmasakrovaní strážcovia. Pätnásť tiel. Rozťaté, rozsekaté, ešte teplé. Chrámová stráž v ceremonálnych zbrojách, s kopijami a mečmi, čo nikdy nemali šancu. Zomreli rýchlejšie, než trvá modlitba.
+Okolo nich na zemi ležali zmasakrovaní strážcovia. Pätnásť čerstvých tiel. Ceremoniálna stráž Chrámu — iná jednotka než tí v tuneloch. Kopije a meče, čo nikdy nemali šancu. Zomreli rýchlejšie, než trvá modlitba. [NOTE: Toto je *ďalšia* skupina strážcov — tí pri bráne. V Ch3 zabili 22 v tuneloch. Spolu ~37 mŕtvych.]
 
-**Dvaja.**
+**Dvaja.** Modrý chochol. Červený chochol. Sekery pri nohách. Brnenie nesie stopy po boji — obhorené škvrny po Spira strelách, žliabky po telekinetických nárazoch, ošúchané zlacenie — ale žiadna prasklina. Žiadna trhlina. Kozmetické škody, nič viac. Presne takí silní, akí boli pred piatimi minútami, keď rozrezali stenu a všetko za ňou ako stébla trávy.
 
-Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, ornamentálny, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou.
+Maks vedel, že jeho náboje nefungujú. Videl to v tuneli. Svetelné štíty pohltili všetko, čo na nich vystrelil.
 
-Maks stuhol.
+Ale skúsil to znova. Pretože to bol jediný jazyk, ktorý ešte mal.
 
-*Neznáme*, oznámil Asistent. *Žiadna zhoda. Odporúčanie: ÚSTUP.*
-
-Maks ignoroval Asistenta. Zdvihol samopal. Tri rány. Náboje z Čierneho Prachu — čierny matný lesk — zasiahli svetlo na chrbte toho väčšieho a... rozprskli sa. Akoby hodil vodu na sklo. Svetlo pohltilo náraz, zachvelo sa a ustálilo.
+Zdvihol samopal. Tri rány. Náboje z Čierneho Prachu zasiahli svetlo na chrbte toho väčšieho a... rozprskli sa. Rovnako ako predtým. Svetlo pohltilo náraz, zachvelo sa a ustálilo.
 
 *Takéto veci sa na tomto kontinente nerobia.*
 
@@ -38,7 +38,7 @@ Väčší — Rau — sa pohol. Sekera švihla horizontálne. Maks sa sklonil, �
 
 ---
 
-Tami prišla zo severu. Sama. Kito zostal s Arkotom a Yerou — viedol ich von cez šachtu, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť IV Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
+Tami prišla zo severu. Sama. Ventilačná šachta-7 ju vyviedla za zával — tá istá cesta, ktorou prišli do kobiek, len opačným smerom. Kito zostal s Arkotom a Yerou — viedol ich hore von, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť V Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
 
 Počula to skôr, než to videla. Dunenie. Vibrácie v stenách. Zvuk kovu o kameň.
 
@@ -132,7 +132,7 @@ Zvuk z šachty nad nimi. Škrabanie. Dýchanie. Maks zdvihol zbraň — automati
 
 „To som ja." Kitov hlas, zadýchaný, ozvučený plechom šachty. „Nestrieľajte."
 
-Zosunul sa dolu — mokrý, roztrasený, bez ruksaku. Mapy nechal Arkotovi. Okuliare stále prasknuté, stále zbytočné. Predral sa cez šachtu späť ako krysa tunelom.
+Zosunul sa dolu — mokrý, roztrasený, bez ruksaku. Dlane mal odreté do živa od hrdzavých rebríkov. Nechal im mapu dokov — Arkot pozná prístav, nájde cestu. Okuliare stále prasknuté, stále zbytočné. Predral sa cez šachtu späť ako krysa tunelom.
 
 Tami naňho zízala. „Čo tu *robíš*? Mal si ich vyviesť—"
 
@@ -158,11 +158,11 @@ Kito si sadol. Mokrý, trasúci sa, bez máp a bez okuliarov. Ale *tu*.
 
 ## Časť II: Čepeľ
 
-Tami kráčala ventilačnou šachtou, Kito za ňou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré videli len jeho drony. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila.
+Tami kráčala ventilačnou šachtou, Kito za ňou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré nevidel nikto iný. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila. [→ 03a-nanotechnology.md: Gen 1 pasívny sken]
 
 Potom sa rozdelili.
 
-„Idú preč," povedal Maks. „Tunelom na juh. K doku — majú ponorku." Oči mu zatemnel sústreďovanie — videl to, čo jeho drony. „Idú pomaly. Artefakt je ťažký aj pre nich."
+„Idú preč," povedal Maks. „Tunelom na juh. K doku — majú ponorku." Oči mu stmavli — videl niečo, čo ostatní nie. „Idú pomaly. Artefakt je ťažký aj pre nich." [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks sleduje Paladínov na diaľku]
 
 „Dobehneme ich?" spýtala sa Tami.
 
@@ -178,9 +178,9 @@ Ticho.
 
 Kráčali paralelným tunelom — užším, ale rýchlejším. Voda im siahala po kolená. Stúpala. Tami cítila, ako studený prúd ťahá okolo jej nôh — pomaly, ale neúprosne.
 
-„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai je v splne. Tunely pod Chrámom sú pod úrovňou mora — príliv ich zaplavuje dvakrát denne." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
+„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai sa vracia. Tunely pod Chrámom sú pod úrovňou mora — keď vystúpi nad obzor, voda pôjde za ňou." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
 
-Maks sledoval ich stopu cez drony. Tami viedla. A voda stúpala.
+Maks vedel, kde sú. Vždy vedel. Tami viedla. A voda stúpala. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — nepretržité sledovanie]
 
 A potom to Tami ucítila.
 
@@ -276,7 +276,7 @@ Vyrazili za ňou.
 
 Voda im siahala po kolená. Stúpala — pomaly, neúprosne, ako dych spiaceho mora. Kito sa obzeral po stenách, kde vlhkosť nechávala tmavé pruhy čoraz vyššie.
 
-„Príliv," zašepkal. „Sai je v splne — príliv stúpa." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
+„Príliv," zašepkal. „Sai stúpa — voda ide za ňou." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
 
 *[Knihovník vie o prílivoch. Dobrá poznámka.]*
 
@@ -284,7 +284,7 @@ A potom sa zastavila.
 
 Brána. Iná než tá prvá — menšia, elegantnejšia, z matného čierneho materiálu, hladkého ako obsidián. Žiadne pukliny. Žiadne praskliny. Na ráme boli ryhy — zárezy vibro-sekier, čerstvé, hlboké — ale kov nepovolil. Paladíni sa ju pokúsili otvoriť. A zlyhali.
 
-*[Sekerou. Na nanokompozit. Hlúpe opice.]*
+*[Sekerou. Na toto. Hlúpe opice.]* [→ 03-technology.md: materiál brány = nanokompozit, Maks ho rozpoznáva ale v próze nepadne termín]
 
 Žena prešla prstami po povrchu. Jemne. Ako hudobníčka ladí nástroj.
 
@@ -336,7 +336,7 @@ Voda im siahala po pás. Stúpala rýchlejšie — príliv kulminoval, a tunely 
 
 Paladíni boli štyri tunely pred nimi. Spomaľovali — artefakt bol ťažký, a voda spomaľovala aj ich. Kira kontrolovala zadný voj. Rau niesol.
 
-„Tam," povedal Maks. Zastavil sa. Oči mu stmavli — videl to, čo jeho drony. „Zastavili sa. Osemdesiat metrov."
+„Tam," povedal Maks. Zastavil sa. Oči mu stmavli. „Zastavili sa. Osemdesiat metrov." [→ 03a-nanotechnology.md: Gen 1 pasívny sken]
 
 Sera sa otočila.
 
@@ -348,11 +348,11 @@ Sera sa otočila.
 
 „A ty?" spýtala sa Tami.
 
-Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a ustúpila do tieňa bočného tunela. Čierny Prach na jej koži pohltil svetlo — tie isté nanoboty ako Maksove, len inak použité. Nie zbrane. Nie drony. *Kamufláž.* Tieň ju objal a ona zmizla v ňom, akoby nikdy nestála.
+Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a ustúpila do tieňa bočného tunela. Niečo na jej koži pohltilo svetlo — ten istý čierny matný lesk ako na Maksových nábojoch, len inak použitý. Nie zbraň. *Kamufláž.* Tieň ju objal a ona zmizla v ňom, akoby nikdy nestála. [→ 03a-nanotechnology.md: Gen 1 Čierny Prach — Sera ho používa ako kamufláž, nie ako zbrane/drony. Tami to vidí ako „ten istý materiál", ešte nemá meno pre to.]
 
 *[Česť je len výhovorka pre nedostatok flexibility.]*
 
-Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč. Maks zaregistroval, čo videl. *Čierny Prach. Používa ho na stealth. Rovnaký nanotech ako môj — ale úplne iný prístup.*
+Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč. Maks zaregistroval, čo videl. *Čierny Prach. Používa ho na stealth. Rovnaký ako môj — ale úplne iný prístup.* [→ 03a-nanotechnology.md: Sera = Gen 1, rovnaký Čierny Prach ako Maks, iné použitie]
 
 Maks a Tami sa na seba pozreli. Kito za nimi dýchal tak hlasno, že sa ozýval v celom tuneli.
 
@@ -370,11 +370,17 @@ Tunel sa rozširoval do nízkej komory. Strop podopierali kamenné piliere — s
 
 Rau mal artefakt položený na zemi vedľa seba. Čierna kovová tyč, jeden a pol metra dlhá, matná, pohlcujúca svetlo. Kira stála oproti nemu. Komunikovali gestami — rýchlymi, presnými, vojenskými. Žiadne slová.
 
-Maks vystúpil do svetla.
+Maks zastál za pilierom. Videl ich — Paladíni vpredu, Sera niekde v tme za nimi. Čaká na mŕtvy uhol. Potrebuje ich chrbtom k sebe. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" cez nanoboty, nie očami]
+
+*Návnada musí vyzerať nebezpečne.*
+
+Vystúpil do svetla.
 
 „Hej!" Zdvihol samopal. Vystrelil. Tri rány — nie na štít. Na strop nad Rauom. Betón sa zosypal. Prach.
 
 Obaja sa otočili. Presne. Koordinovane. Rau zdvihol sekeru. Kira urobila krok nabok.
+
+*Teraz.*
 
 Tami vyrazila spoza piliera. Nadel v pravej ruke, pištoľ v ľavej. Bežala priamo na Kiru — nie na útok, na provokáciu. Štyri rány z pištole zasiahli modré svetlo okolo Kiry. Svetlo sa zavlnilo ako hladina jazera. Neprenikli. Ale pozornosť upútali.
 
@@ -464,7 +470,7 @@ Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na ženu, čo 
 
 *Haiku syntax. Japončina. Čepeľ Elanie. Inetis profil: 99.7%.*
 
-Kto na tejto planéte ovláda Haiku na úrovni Inetis? Kto má Gen 1 nanoboty a pohybuje sa ako niečo, čo nepatrí do tohto storočia?
+Kto na tejto planéte ovláda Haiku na úrovni Inetis? Kto má Čierny Prach a pohybuje sa ako niečo, čo nepatrí do tohto storočia? [→ 03a-nanotechnology.md: Maks rozpoznáva Gen 1 — ale v próze len „Čierny Prach"]
 
 *Čepeľ Elanie. Slúži dcére Matky. Vie o Inetis.*
 
@@ -598,7 +604,7 @@ Sera sa usmiala. Bol to smutný, unavený úsmev ženy, ktorá videla budúcnos�
 
 „Kľúč." Posledné slovo. K Maksovi. Očami na Tami.
 
-A potom Čierny Prach pohltil jej kontúry. Tieň ju objal — ten istý trik ako predtým, ten istý nanotech — a Sera prestala existovať v priestore.
+A potom Čierny Prach pohltil jej kontúry. Tieň ju objal — ten istý trik ako predtým — a Sera prestala existovať v priestore.
 
 Dvere. Vzduch. Nič.
 

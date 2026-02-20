@@ -26,7 +26,15 @@
       "Skill(null-void-writer)",
       "Skill(null-void-writer:*)",
       "Bash(dir \"C:\\\\Users\\\\brani\\\\Documents\\\\GitHub\\\\null-void\\\\World-Bible\\\\books\\\\book-1-prach-nevriss\\\\drafts\" /s /b)",
-      "Bash(git remote get-url:*)"
+      "Bash(git remote get-url:*)",
+      "Bash(sa brániť\" — illogical for 22 armed soldiers\\).\n\nInline comments [→] and [NOTE:] retain all technical details\nfor author reference. Clean export strips these automatically.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(ďalší. Vždy vedel.\" — maintains mystery, tech detail in comment.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh pr list:*)",
+      "Bash(gh api:*)",
+      "Bash(gh pr view:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(bez nich\"\\), senzory → signál \\(r.421\\)\nHard Light: blesk/TK now fully blocked by shield, not just\nabsorbed by armor. Spira energy dies on contact with Hard Light.\nČierny Prach lore CHANGE: Gen 1 passes through Hard Light \\(not\nSpira\\), but nano-coating disintegrates — steel core bounces off\narmor harmlessly. Updated 03-technology.md to match.\nPacing: \"20 sekúnd. 9 tiel.\" → \"Okamih. A zvyšok Inkvizície)",
+      "Bash(ležal vo vode.\"\nVizor: hermetically sealed helmets, not slits\nStena: brick wall \\(later construction\\), not concrete\nMaks: masked unease in standoff — Tami catches finger twitch\nAsistent: \"taktický ústup\" recommendation, Maks ignores it\nApes logic: Paladins look at gate/artefact, not at Maks —\nhe''s not their target\nVlk-reveal: removed Maks question \\(\"captain obvious\"\\), Tami\nconnects the betrayal herself from context\nKolaborant → sprievodca \\(previous commit, already done\\)\nChrámový stôl removed\nNadpis: Časť IV: Opice → Časť IV: Sila\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }

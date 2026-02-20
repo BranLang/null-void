@@ -247,4 +247,36 @@ Gen 2 Spira sa programuje haiku syntaxou — japonskou poéziou. Inetis to zvoli
 
 ---
 
+## Časové Jednotky
+
+Achilles má odlišnú rotáciu aj orbitálnu periódu než Zem. Niektoré pozemské jednotky prežili (boli príliš univerzálne), iné sa nahradili lokálnymi.
+
+### Zachované zo Zeme (univerzálne)
+| Jednotka | Status | Poznámka |
+|---|---|---|
+| **Sekunda, minúta, hodina** | Zachované | Príliš hlboko v technológii (Maki, navigácia, Spira) na zmenu |
+| **Metre, kilogramy** | Zachované | SI sústava prežila ako "jazyk strojov" |
+
+### Nefunkčné na Achillese
+| Pozemský pojem | Prečo nefunguje | Achillovský ekvivalent |
+|---|---|---|
+| **Deň** (24h) | Achilles má inú rotáciu | Varietas hovoria o "svetle" a "tme", nie o dňoch |
+| **Mesiac** (lunárny) | Sai obieha za ~20h, nie ~30 dní | Žiadny ekvivalent — Sai cyklus je príliš krátky |
+| **Rok** (365 dní) | Achilles má inú orbitálnu periódu | **Zima** (viď nižšie) |
+
+### Varietas časové výrazy
+| Varietas výraz | Význam | Kontext |
+|---|---|---|
+| **Zima** | ~5 pozemských rokov | Základná jednotka na meranie veku a dlhých období. "Má 4 zimy" = ~20 pozemských rokov. [→ 05-geography.md: sezónny cyklus] |
+| **Leto** | ~5 pozemských rokov | Obdobie hojnosti medzi zimami. Menej používané na meranie — zimy sú definujúce |
+| **Ťažká/ľahká hodina** | ~5h fáza Sai cyklu | Krátke obdobie v rámci dňa. "Stretneme sa na ľahkú" |
+| **Saiový cyklus** | ~20 hodín | Jeden kompletný obeh Sai — najbližší ekvivalent "dňa", ale nie je totožný s rotáciou planéty |
+
+### Poznámky
+- **Archanjeli a Maki** stále používajú pozemské jednotky (roky, dni) — sú to nesmrteľní pozemšťania, pre ktorých je to natívny systém.
+- **Varietas** nemajú pojem "rok" — ich najdlhšia bežná časová jednotka je **zima**. Stáročia a tisícročia sú abstraktné ("časy pred", "dávno").
+- **Kultúrny konflikt**: Keď Maks (pozemšťan) hovorí "pred tridsiatimi rokmi", Varietas nerozumejú. Keď Tami hovorí "štyri zimy", Maks musí počítať.
+
+---
+
 > **Poznámka:** Tento slovník sa rozširuje s príbehom. Nové výrazy pridávať sem.

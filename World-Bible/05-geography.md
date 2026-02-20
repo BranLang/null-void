@@ -53,10 +53,37 @@ Planéta prešla čiastočnou teraformáciou (Inetis a nanodrony), ale väčšin
         - **Sai na horizonte** (vychádza/zapadá): Mierna úľava (~1.2–1.3g).
         - **Sai za planétou** (na odvrátenej strane): Plná ťarcha 1.4g, mierne viac (~1.45g). Najťažšia hodina — všetko je o niečo ťažšie, unavujúcejšie, pomalšie.
         - **Cyklus**: Vďaka ~20-hodinovej orbite sa "ľahká hodina" a "ťažká hodina" striedajú každý deň, ale pomaly sa posúvajú.
+        - **Štyri fázy Sai cyklu** (kľúčové pre plánovanie — vojenstvo, letectvo, tunely, prístavy):
+
+            ```mermaid
+            graph LR
+                subgraph "SAI ORBITÁLNY CYKLUS (~20h)"
+                    A["🌕 FÁZA 1: ĽAHKÁ HODINA\n━━━━━━━━━━━━━━━━━━━\nSai nad hlavou (zenit)\nGravitácia: ~1.0–1.1g\n━━━━━━━━━━━━━━━━━━━\n🌊 PRÍLIV (max. hladina)\nTunely zatopené\nVzducholode stúpajú ľahko\nPohyb plynulý\n━━━━━━━━━━━━━━━━━━━\n⚔️ IDEÁLNY ČAS PRE VZDUŠNÝ ÚTOK\nLietadlá + vzducholode na maxime\nTanky/pechota sa pohybujú ľahšie"]
+                    B["🌗 FÁZA 2: SAI ZAPADÁ\n━━━━━━━━━━━━━━━━━━━\nSai na horizonte (západ)\nGravitácia: ~1.2–1.3g ↑\n━━━━━━━━━━━━━━━━━━━\n🌊 ODLIV ZAČÍNA\nVoda ustupuje\nOkno pre tunely sa otvára\n⚔️ VSTUP DO TUNELOV"]
+                    C["🌑 FÁZA 3: ŤAŽKÁ HODINA\n━━━━━━━━━━━━━━━━━━━\nSai za planétou\nGravitácia: ~1.45g (plná ťarcha)\n━━━━━━━━━━━━━━━━━━━\n🌊 ODLIV (min. hladina)\nTunely priechodné\nVzducholode: problém vzlietnuť\nPohyb ťažký, vyčerpávajúci"]
+                    D["🌓 FÁZA 4: SAI SA VRACIA\n━━━━━━━━━━━━━━━━━━━\nSai na horizonte (východ)\nGravitácia: ~1.2–1.3g ↓\n━━━━━━━━━━━━━━━━━━━\n🌊 PRÍLIV SA VRACIA\nVoda stúpa\nTunely sa zahlcujú\n⏰ ČASOVÝ LIMIT"]
+                    A -->|"~5h\nGravitácia stúpa\nVoda ustupuje"| B
+                    B -->|"~5h\nPlná ťarcha\nOdliv na minime"| C
+                    C -->|"~5h\nGravitácia klesá\nVoda sa vracia"| D
+                    D -->|"~5h\nÚľava\nPríliv na maxime"| A
+                end
+
+                style A fill:#2d5016,stroke:#4a8c2a,color:#fff
+                style B fill:#8b6914,stroke:#c49b1a,color:#fff
+                style C fill:#8b1a1a,stroke:#c42a2a,color:#fff
+                style D fill:#8b4514,stroke:#c46a1a,color:#fff
+            ```
+
+            > **Poznámka**: Iluminácia Sai (spln, nov, štvrť) je **nezávislá** od pozície — závisí od uhla Sai–Slnko–Achilles. Gravitačný a prílivový efekt závisí výlučne od **pozície Sai voči pozorovateľovi**. V príbehoch vždy popisovať kde Sai je (nad hlavou / zapadá / za obzorom / vracia sa), nie akú má fázu osvetlenia.
+
+            > **Heist-arc príklad**: Nix a skupina vstúpia do tunelov pri fáze 2–3 (Sai zapadá → ťažká hodina, odliv). Majú ~2 hodiny kým Sai prejde za planétu a začne sa vracať (fáza 4). Keď sa Sai vráti nad obzor, príliv zatopí tunely — musia utiecť.
+
+            > **Noc Hrdinov väzba**: Po výstupe z tunelov prichádza fáza 1 (ľahká hodina). Graw to vie — načasujú útok na Šoraven presne na tento moment: vzducholode vzlietnu ľahko, lietadlá majú väčší dolet, tanky a pechota sa pohybujú rýchlejšie. Obrancovia sú v chaose po heiste a čelia útoku v najľahšej gravitácii — paradoxne najhoršej pre obranu mesta.
+
         - Varietas hovoria: *"Keď Matka hľadí, bremená sú ľahšie."* — a majú pravdu. Len si to vysvetľujú nábožensky namiesto fyzikálne.
     - **Dopad na civilizáciu**:
         - **Vzducholode**: Aeronautická gilda má **saiové tabuľky** — lety sa plánujú na "ľahkú hodinu", kedy vzducholode stúpajú ľahšie a spotrebujú menej paliva. Letieť počas ťažkej hodiny je drahšie a nebezpečnejšie.
-        - **Vojenstvo**: Skúsení velitelia načasujú útoky na "ťažkú hodinu" (Sai za obzorom) — nepriateľ je pomalší, unavený, ťažšie manévruje. Obrana sa naopak posilňuje počas "ľahkej hodiny".
+        - **Vojenstvo**: Závisí od doktríny. Pešia armáda útočí počas "ťažkej hodiny" — nepriateľ je pomalší, unavený, ťažšie manévruje. Ale armáda so vzdušnou prevahou (ako Graw) útočí počas "ľahkej hodiny" — vzducholode stúpajú ľahšie, lietadlá majú väčší dolet, ťažká technika sa pohybuje rýchlejšie. Načasovanie útoku na Sai cyklus je základná vojenská stratégia na Achillese.
         - **Prílivy**: Oceánske prílivy sú **extrémne** — hladina mora kolíše o desiatky metrov. To vysvetľuje devastujúce tsunami, nebezpečný námornícky obchod a prečo sú mestá ako Nevriss City postavené na vysokých útesoch.
         - **Seizmika**: Prílivové sily doslova hnetú kôru planéty — to je hlavná príčina častých zemetrasení, geotermálnej aktivity, gejzírov a magmových komôr (vrátane tých, ktoré vyhrievajú Graw).
         - **Architektúra**: Nízke budovy, masívne základy, ohybné konštrukcie — nie len kvôli zemetrasiam, ale aj kvôli cyklickému kolísaniu gravitácie.
