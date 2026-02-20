@@ -282,7 +282,7 @@ Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali — nieč
 
 „Doľava!" zakričala Tami a skočila za ním do úzkej uličky, kam sa dav nezmestil.
 
-Maks ju nasledoval. Jeho senzory kreslili mapu deštrukcie v reálnom čase.
+Maks ju nasledoval. Vedel, kam dopadne ďalší. Vždy vedel. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — balistická analýza v reálnom čase]
 
 *Trajektória projektilu: Balistická krivka. Kaliber: 204 mm. Dopad: 3... 2... 1...*
 
