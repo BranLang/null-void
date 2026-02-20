@@ -400,55 +400,41 @@ Maks zdvihol samopal. Tri rány. Náboje z Čierneho Prachu prešli cez modré s
 
 *Nefunguje*, pochopil Maks v zlomku sekundy. *Nič z môjho arzenálu nefunguje.*
 
-Rau sa pohol. Sekera švihla — nie na Maksa, nie na Tami — do nosného *piliera*.
+Lúč svetla sa pohol. [NOTE: Tma je stále absolútna od r.297 — Maks zhasol všetky olejové plamene. Jediné svetlo v tuneli sú taktické lampy Paladínov. Maks ich nevidí — vidí len lúče, tiene a siluety v prachu.]
 
-Tunel zakvílil.
+Maks nevidel sekeru. Videl len záblesk — svetlo na čepeli, horizontálny oblúk — a bol pod ním skôr, než vibrovlna preťala vzduch nad jeho hlavou. Stena za ním explodovala. Kusy pálených tehál a potrubia sa rozleteli do vody. Vzduch zapraskotal — nie od úderu, ale od *dosahu* toho úderu. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku] [NOTE: Rau útočí na Maksa, nie na architektúru. Paladíni ho berú ako hrozbu — jediná bytosť v tuneli, ktorá prežila ich príchod.]
 
-Betón praskol ako sklo. Strop sa zachvel, potom sa z neho odlomil kus veľký ako podlaha bytu a zrútil sa medzi nich s hrmotom, ktorý prehlušil vojnu na povrchu. Voda vyšpliesla do stropu. Prach, kamene, kusy kovového potrubia — všetko naraz.
+Prach. Všade. Hustý, dusivý — zmiešaný s vodnou trieštou a omrvinami betónu. Modrasté svetlo z ich pancierov a taktických lámp presvitalo cez ten oblak a dávalo prachu v tuneli chorý, studenomodrý nádych. Dunenie z povrchu — artileria, stále artileria — sa miešalo s rachotom padajúcich tehál a Maks na zlomok sekundy nevedel, čo je vojna *hore* a čo vojna *tu*.
 
-Z Maksovej hlavy v tej sekunde zmizla taktika, vojna aj artefakty. Inštinkt. Surový, ľudský, primitívny. Schmatol Tami za rameno a odhodil ju dozadu — preč od padajúceho stropu, preč od monolitov, preč od *neho*.
+Druhý lúč. Sprava. Kira — zvislý rez. Maks sa odrazil od piliera a čepeľ preťala betón za jeho chrbtom. Vibrácie mu prešli telom cez mokrú podlahu, cez kosti, cez zuby. Z vody po členkoch stúpali drobné kvapôčky — nahor, popierajúc všetko, čo kedy platilo. Vibrácie zo sekier a dunenie artilerie z povrchu sa stretávali v kameni pod nimi a voda tancovala. Dva monolity, dva smery, žiadny priestor.
 
-„**BEŽ!**" zareval Maks. Nie povedal. *Zareval.* Prvýkrát, čo Tami počula ten hlas stratiť kontrolu. „**ZACHRÁŇ ICH!**" [NOTE: Prvý a jediný raz, čo Maks v celej knihe kričí. Nie kvôli sebe. Kvôli Arkotovi a Yere.]
+*Úzky tunel. Vľavo.* [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks vidí priechodnosť okolitých tunelov]
 
-Zvyšok stropu nasledoval. Potrubie prasklo, betón a kusy kovu sa zasekli do tunela ako zátka vo fľaši. Stena sutín rástla medzi nimi — rýchlejšie, než mohol Maks dosiahnuť cez ňu. Jeho ruka narazila do chladného betónu centimetre od miesta, kde predtým stála Tami. Prach zvíril všade — hustý, dusivý, biely.
+Ustúpil do bočného kanála. Nízky strop. Steny na dotyk. Tma tu bola ešte hustejšia — modrasté svetlo z Rauovho panciera za ním osvetľovalo len prach, vodu a jeho vlastný tieň na stene pred ním. V tomto priestore sa dvaja kolosy v brnení nepostavia vedľa seba.
 
-Keď sa usadil, medzi nimi bola nepriestupná stena.
+Rau vošiel za ním. Sekera pred sebou, ale v tesnom priestore nemohol rozohnať vibrovlnu. Steny boli príliš blízko — vlna by sa vrátila späť. Kira zostala za ním. Čakala. Modré svetlo z jej panciera presvitalo ponad Rauovo rameno a vrhalo groteskné tiene na strop.
 
-Maks kľačal v špinavej vode, ruky zaryté do sutín. Hľadal ju. Potom niečo v ňom zachytilo slabý, no stabilný signál za závalom. Žije. Kito vedľa nej. Živý. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — tepelná signatúra za sutinami. Asistent hlási kritický nárast tepovej frekvencie.]
+Maks ustupoval. Nie panicky — takticky. Každý krok hlbšie do labyrintu, kde masívne brnenie bolo príťažou. Rau musel skloniť hlavu. Sekera škrípala o strop. Z povrchu sem doliehali tupé údery artilerie — pravidelné, ako tep — a medzi nimi ticho, v ktorom Maks počul len Rauovo dýchanie za vizierou a vlastné kroky vo vode.
 
-Dva páry modrých očí svietili v tme na jeho strane. Monolity stáli v prachu, nehybné, sekery pri nohách. Nedívali sa na Maksa. Dívali sa na cestu pred sebou — smerom k bráne. Artefakt. Pre *to* prišli. Maks bol pre nich prekážka, nie cieľ. [NOTE: Paladíni ignorujú Maksa — artefakt je priorita. Maks to vie a využíva pár sekúnd na komunikáciu s Tami.]
+Vibrovlna. Krátka, zúžená priestorom — ale aj tak dosť. Preťala kus stropu nad Maksom. Betón sa zosypal v oblaku prachu tak hustého, že zmizlo aj modrasté svetlo. Maks sa hodil do strany, potrubie mu odrelo rameno. Praskanie za ním — nosná konštrukcia sa lámala. [NOTE: Collateral damage — vibrovlny v tesnom priestore ničia nosnú konštrukciu. Zával nie je úmyselný — je dôsledok boja.]
 
-„Maks!" Tamin hlas, tlmený cez metre sutín.
+Rachot. Betón, kov, prach — strop úzkeho tunela sa zrútil za Maksovými pätami. Stena sutín vyrástla medzi ním a hlavným tunelom. Medzi ním a Tami.
 
-„Som tu." Úplne chladný. Kontrolovaný. Pretože Tami *nesmie* počuť strach. „Status?"
+Tma. Absolútna. Modrasté svetlo zmizlo za tonou betónu. Dunenie artilerie z povrchu bolo jediný zvuk — tlmené, vzdialené, pulzujúce cez zem ako srdce, na ktoré sa nikto nepýta.
 
-„Živí. Kito je celý." Pauza. Počul ju, ako búcha päsťou do betónu. Jeden úder. Testovací. „Neprejdem cez to. Meter, možno dva. Pevné."
+Niečo v ňom zachytilo slabý, no stabilný signál za závalom. Dva. Tami. Kito. Živí. Pohybujú sa — preč od závalu, smerom k ventilačným šachtám. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — tepelná signatúra za sutinami] [NOTE: Žiadny dialóg cez zával. Maks VIE, že Tami žije. Tami VIE, že Maks vie, čo robí. Sedem rokov spolu — nepotrebujú slová.]
 
-„Nestrieľaj," povedal Maks. „Metán."
+*Tami to zvládne. Pozná mapy. Nájde ich.* [NOTE: Maks verí Tami — ona zachráni Arkota a Yeru. On má svoju cestu.]
 
-„Viem, kurva, viem." Frustrácia v jej hlase. „Aký je plán?"
+Na druhej strane závalu — zvuk. Ťažké kroky v plytkej vode. Rau. Potom ľahšie. Kira. Vzdaľovali sa. Slabý modrastý nádych presvitol cez škáry v sutinách — a potom zmizol. Smerom k bráne.
 
-Maks stál v tme na svojej strane zavalu. Za ním dvaja monoliti. Pred ním cesta pod Chrám — videl bránu, tristopäťdesiat metrov. Cesta na ich strane sa kľukatila cez staré ventilačné šachty. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" cez steny]
+Zachytil rýchly pohyb za závalom — posunkové znamenie medzi monolitmi. Krátke. Vojenské. *Cieľ nie je tu. Cieľ je tam.* [NOTE: Apes komunikujú posunkovou rečou — vojenský jazyk ich civilizácie. Rozhodnutie: Maks nie je korisť hodná strateného času. Artefakt čaká.]
 
-„Kito," povedal Maks cez sutiny. „Tvoje mapy. Je tam obchvat?"
+Otočili sa. Odišli. Bez ohliadnutia.
 
-Šuchot papiera. Kitov rozochvený hlas: „Ventilačná šachta. Sedmička — tá so starým symbolom na vstupe. Vedie pod kobky Chrámu zo severu. Dlhšia cesta, ale... priechodná."
+Maks stál v tme. Úplnej. Za ním zával. Pred ním — nič, čo by videli ľudské oči. Ale on nie je len ľudský. Vedel, kam idú. Vedel, že ich musí nasledovať. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" aj v absolútnej tme]
 
-„Choďte tade. Zachráňte Arkota a Yeru. Stretneme sa hore."
-
-„Maks—" začala Tami.
-
-„*Choď.*" Bez diskusie. Bez vysvetľovania. „Ja mám svoju cestu."
-
-Monolity za ním sa pohli. Rau vykročil smerom k bráne. Kira za ním. Neponáhľali sa. Vedeli, že Maks nemá kam utiecť.
-
-Ticho.
-
-Potom Tamin hlas, tvrdý ako kov: „Ak zomrieš, zabijem ťa."
-
-Maksove ústne kútiky sa nepatrne pohli. Nikto to nevidel.
-
-„Pohyb," povedal a otočil sa do tmy, kde dve svietiace postavy práve zmizli smerom k bráne.
+„Pohyb," povedal do tmy. A vykročil smerom k bráne. [NOTE: Maks nasleduje Paladínov — bridge do Ch4, kde ich stopuje k bráne.]
 
 ---
 
