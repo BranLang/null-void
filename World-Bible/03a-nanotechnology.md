@@ -43,6 +43,52 @@ Pre obyvateľov Achilla je nanotechnológia známa ako **Spira** (z pôvodného 
 
 ---
 
+## Modulárna architektúra — LEGO princíp
+
+Nanobot je **základná stavebná jednotka** — mikroskopická kocka LEGO. Jeden nanobot sám o sebe nedokáže nič užitočné. Tisíce až státisíce nanobotov sa skladajú do **dronov** — funkčných mini-strojov na konkrétny task.
+
+### Hierarchia
+
+| Úroveň | Popis | Príklad |
+|---------|-------|---------|
+| **Nanobot** | Základná jednotka. Stavebná kocka. | 1 kocka LEGO |
+| **Dron** | Tisíce nanobotov zostavených do funkčného stroja | LEGO model |
+| **Roj** | Všetky aktívne drony hostiteľa | Celá zbierka modelov |
+
+### Konfigurácie dronov
+
+Z rovnakých nanobotov sa dajú vyskladať rôzne typy dronov podľa potreby:
+
+| Konfigurácia | Funkcia | Náklady (nanobotov) |
+|--------------|---------|---------------------|
+| **Nano-dron (prieskumný)** | FPV prieskum, sken, sledovanie | Nízke (~1 000) |
+| **Nano-projektil** | Kinetický projektil — penetruje cieľ rýchlosťou a hmotou | Stredné (~5 000) |
+| **Nano-štít** | Dočasná bariéra — deflekcia projektilu alebo čepele | Stredné (~8 000) |
+| **Nano-meč / nano-čepeľ** | Vibračná čepeľ z nanobotov (krátkodobá) | Vysoké (~20 000) |
+| **Nano-pancier** | Ochranná vrstva na tele — absorbuje kinetickú energiu | Vysoké (~50 000) |
+| **Nano-anténa** | Komunikačný / hackovací dron — EMP, signálový rušič | Stredné (~10 000) |
+
+> **Kľúčové pravidlo:** Nanoboty sa po zostavení do drona **nedajú jednoducho rozobrať a znovu použiť** (Gen 1). Každý dron spotrebovaný v boji je stratený navždy. Gen 2 (Spira) má samoreprodukciu — tá toto obmedzenie obchádza.
+
+### Maksov roj v číslach
+
+| Parameter | Hodnota |
+|-----------|---------|
+| **Celkový počet nanobotov** | ~8 triliónov |
+| **Viazaných na životné funkcie** | ~99.99% (HUD, pamäť, regenerácia, nervový systém) |
+| **Voľný deployable roj** | ~340 aktívnych dronov |
+| **Spotreba na kinetický cieľ** | 8–12 dronov |
+| **Spotreba na infiltračný kill** | 1 dron (cez otvorený otvor — ústa, nos, ucho) |
+| **Spotreba na deflekciu projektilu** | 1–2 drony |
+| **Reprodukcia** | Žiadna (Gen 1 sa nerozmnožuje) |
+
+> Maks má 8 triliónov nanobotov, ale väčšina je trvalo viazaná na udržanie jeho tela a mysle pri živote po 3000 rokoch. Jeho "vojenský rozpočet" je len zlomok — 340 dronov. Každý stratený dron je strata navždy.
+
+[→ characters/Maks.md: 8 triliónov nanobotov, The Seven]
+[→ books/book-1-prach-nevriss/drafts/heist-arc/03-tunnels.md: Roj 340 aktívnych dronov]
+
+---
+
 ## Generácie nanotechnológie
 
 Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete. Existujú štyri hlavné verzie a jedna anomálna kategória.
