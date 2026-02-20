@@ -16,11 +16,11 @@ Dva monolity. Čierne. Masívne. Stáli vedľa seba ako stráže — hladké, do
 
 Maks sa dotkol povrchu. Studený. Hladký. A *poznal ho*. Ten istý materiál, aký mal v žilách. Čierny Prach — nie rozprášený, nie tekutý. *Nakonfigurovaný.* Zhustený do pevnej hmoty, do tvaru, do úmyslu. Niekto ho pred veľmi dávnou dobou nariadil byť *toto* — a on poslúchol a nezabudol. [NOTE: Brána = dva monolity z nakonfigurovaného Čierneho Prachu. Maks to rozpoznáva — má ten istý materiál v sebe. Vizuálna referencia: 2001 monolity — prastaré, nepochopiteľné, tiché.]
 
-Na povrchu boli hlboké ryhy. Čerstvé. Niekto sa ich pokúsil otvoriť silou — sekera, podľa rovnobežných zárezov. Povrch sa poškriabal. Nepoddal sa.
+Na povrchu boli hlboké ryhy. Čerstvé. Niekto sa ich pokúsil otvoriť silou — sekera, podľa rovnobežných zárezov. Povrch sa poškriabal. Nepoddal sa. [NOTE: Paladíni skúsili otvoriť bránu sekery — nepodarilo sa. Prach je zamknutý v konfigurácii.]
 
 Ale brána bola otvorená.
 
-Nie mechanicky. Násilne. Monolity boli roztlačené do strán — kameň okolo rámu praskol, ale Prach sa len pohol. Odtlačky prstov zanechané v skale. Niekto to urobil holými rukami. Niekto *silný*.
+Nie násilne. Nie mechanicky. *Poslušne.* Monolity stáli rozchýlené do strán — ticho, elegantne, ako kvetné lístky. Žiadne pukliny. Žiadne odtlačky. Prach sa jednoducho *pohol*, akoby ho niekto *požiadal*. A on poslúchol. [NOTE: Sera otvorila bránu haiku príkazom — viď Časť III. Maks to tu ešte nevie. Vidí len výsledok: sekery zlyhali, ale bránu niekto otvoril inak. Čisto. Bez násilia.]
 
 A pred bránou stáli. Čakali na neho.
 
@@ -314,7 +314,7 @@ Päť. Posledná slabika sa rozplynula v ozvene.
 
 Ticho.
 
-A potom — brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Kamenné krídla sa rozchýlili ako kvetné lístky na svitaní.
+A potom — brána sa otvorila. Čisto. Elegantne. Bez násilia, bez škripotu. Monolity sa rozchýlili ako kvetné lístky na svitaní — Prach, ktorý neposlúchol sekery, poslúchol *hlas*.
 
 Kito stuhol.
 
