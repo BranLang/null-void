@@ -312,7 +312,7 @@ Strely. Niekoľko dobre mierených rán smerom na miesto, kde stáli Maks, Tami 
 
 Maks videl všetko. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infračervený sken, taktický overlay]
 
-*Roj: 340 aktívnych jednotiek. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 nanoboty sa nerozmnožujú — každý spotrebovaný je stratený navždy]
+*Roj: 340 aktívnych dronov. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 — nanobot = základná stavebná jednotka (LEGO kocka). Tisíce nanobotov = 1 dron na konkrétny task. 340 dronov = celý deployable roj. Nerozmnožujú sa — každý stratený dron je stratený navždy.]
 
 Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
 
