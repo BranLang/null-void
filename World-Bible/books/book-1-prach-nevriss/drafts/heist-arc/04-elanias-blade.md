@@ -8,7 +8,7 @@ Stopoval ich. Od kolapsu tunela sledoval monolity — ich modré svetlo sa odrá
 
 Tmou pred ním sa ťahal tunel — široký, kamenný, s klenbou tak nízkou, že musel skloniť hlavu. Vzduch tu bol iný než v kanalizácii. Chladnejší. Ale nie suchší — voda mu siahala po členky. Čierna, studená, tichá. Steny lesklé vlhkosťou, s tmavými pruhmi, čo naznačovali, že hladina nebývala vždy taká nízka.
 
-*Hladina: +14cm/h*, oznámil Asistent. *Sai fáza: spln. Príliv aktívny. Odporúčanie: časový limit.*
+Voda stúpala. Pomaly, ale viditeľne — tmavé pruhy na stenách ukazovali, kam sa dostane. Sai sa vracal spoza obzoru. Odliv končil a more sa začínalo hlásiť späť. [→ 05-geography.md: Sai sa vracia = príliv stúpa, časový limit heist-u]
 
 A na konci tunela — brána.
 
@@ -38,7 +38,7 @@ Väčší — Rau — sa pohol. Sekera švihla horizontálne. Maks sa sklonil, �
 
 ---
 
-Tami prišla zo severu. Sama. Kito zostal s Arkotom a Yerou — viedol ich von cez šachtu, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť V Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
+Tami prišla zo severu. Sama. Ventilačná šachta-7 ju vyviedla za zával — tá istá cesta, ktorou prišli do kobiek, len opačným smerom. Kito zostal s Arkotom a Yerou — viedol ich hore von, preč od toho, čo sa tu dole dialo. Puška mŕtveho strážnika — nie mŕtveho; *živého*, živého vďaka Yere — jej bila o bok pri každom kroku. [→ 03-tunnels.md: Časť V Kobky — Tami zabila stráž, Yera ho vyliečila, Kito vedie priateľov von]
 
 Počula to skôr, než to videla. Dunenie. Vibrácie v stenách. Zvuk kovu o kameň.
 
@@ -178,7 +178,7 @@ Ticho.
 
 Kráčali paralelným tunelom — užším, ale rýchlejším. Voda im siahala po kolená. Stúpala. Tami cítila, ako studený prúd ťahá okolo jej nôh — pomaly, ale neúprosne.
 
-„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai je v splne. Tunely pod Chrámom sú pod úrovňou mora — príliv ich zaplavuje dvakrát denne." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
+„Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai sa vracia. Tunely pod Chrámom sú pod úrovňou mora — keď mesiac vystúpi nad obzor, voda pôjde za ním." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
 
 Maks sledoval ich stopu cez drony. Tami viedla. A voda stúpala.
 
@@ -276,7 +276,7 @@ Vyrazili za ňou.
 
 Voda im siahala po kolená. Stúpala — pomaly, neúprosne, ako dych spiaceho mora. Kito sa obzeral po stenách, kde vlhkosť nechávala tmavé pruhy čoraz vyššie.
 
-„Príliv," zašepkal. „Sai je v splne — príliv stúpa." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
+„Príliv," zašepkal. „Sai stúpa — voda ide za ním." Pozrel na Tami. V žltých očiach bola matematika, nie panika. „Máme možno hodinu, kým tunely zaplaví."
 
 *[Knihovník vie o prílivoch. Dobrá poznámka.]*
 

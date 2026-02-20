@@ -204,7 +204,9 @@ Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabin
 
 Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
 
-„Vstup je v prístave," ukázal dlhým prstom. „Ale musíme ísť, keď Sai zapadne. Ťažká hodina — stráže budú tiahnuť k zemi ako vrecia piesku. Nikto sa nebude hrnúť do kobiek, keď každý krok stojí dvojnásobne." [→ 03-technology.md: Sai gravitačný cyklus, taktické využitie]
+„Vstup je pri bitúnku," ukázal dlhým prstom. „Starý kanál. Ale musíme ísť, keď Sai zapadne. Ťažká hodina — tunely bývajú zatopené, ale pri odlive je priechod. Keď mesiac mizne za obzor, more ustúpi." [→ 05-geography.md: Sai prílivový cyklus, taktické využitie odlivu]
+
+Prst sa posunul po mape k Chrámu. „Odliv nám dá najviac dve hodiny. Potom Sai vystúpi spoza obzoru, more pôjde za ním a zatopí všetko pod úrovňou doku." [→ 05-geography.md: Sai 20h orbita, odlivové okno ~2h]
 
 „Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie."
 

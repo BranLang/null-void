@@ -24,7 +24,7 @@ Kito si napravil ťažký ruksak s výdychom a utrel si pot z čela. „Dvadsať
 
 „A presne to potrebujeme," odfrkla si Tami a upravila si puzdro so zbraňou, aby ju po novom menej ťahalo do zeme. 
 
-„Kto by sa hnal dolu schodmi, keď každý krok stojí dvakrát toľko paliva alebo svalov," dodal Kito a pošúchal si presilené koleno. „Stráže ostanú sedieť na zadku. Ich spánok bude drvivý."
+„Preto sme aj čakali na odliv," povedal Kito a pošúchal si presilené koleno. „Bez neho by sme tento kanál neprešli. A ťažká hodina navyše — kto by sa hnal dolu schodmi, keď každý krok stojí dvakrát toľko? Stráže ostanú sedieť na zadku."
 
 Maks mierne prikývol, hoci to v tme takmer nebolo vidieť. „Lúpež presne pre túto hodinu."
 
@@ -208,11 +208,7 @@ Tami sa okamžite zastavila. Neotočila sa — jej uši sa napriamili dozadu, k 
 
 „Čo?" zašepkala.
 
-Maks neodpovedal hneď. Za tmavými okuliarmi mu Asistent vykreslil varovné hlásenia, červený text na zelenom pozadí nočného videnia.
-
-*Tepelné signatúry: 22. Konvergenčný vzorec. Tri smery. Obkľúčenie.*
-
-Vedel to skôr, než Asistent stihol dokončiť výpočet. Jeho drony — mikroskopické, takmer neviditeľné nanoboty rozptýlené do vzduchu ešte pred zostupom — mu kreslili mapu v reálnom čase. Dvadsaťdva postáv v troch tuneloch. Pohotovostná formácia. Organizovaná. Niekto ich sem *priviedol*.
+Maks neodpovedal hneď. Vedel to skôr, než za tmavými sklami okuliarov dobehlo to, čo videl. Jeho drony — mikroskopické, rozptýlené do vzduchu ešte pred zostupom — mu kreslili obraz v reálnom čase. Dvadsaťdva tiel v troch tuneloch. Tri smery. Pohybujú sa dnu. Niekto ich sem *priviedol*.
 
 „Maks?" Tami sa tentoraz otočila. V modrom svetle chemickej tyčinky videl jej oči — ostré, líščie, pochopenie prichádzajúce rýchlejšie než slová.
 
