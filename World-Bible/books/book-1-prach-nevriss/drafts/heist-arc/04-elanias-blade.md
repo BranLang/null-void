@@ -158,11 +158,11 @@ Kito si sadol. Mokrý, trasúci sa, bez máp a bez okuliarov. Ale *tu*.
 
 ## Časť II: Čepeľ
 
-Tami kráčala ventilačnou šachtou, Kito za ňou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré videli len jeho drony. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila.
+Tami kráčala ventilačnou šachtou, Kito za ňou. Maks zostal za nimi — v jeho čiernych očiach sa mihali obrazy, ktoré nevidel nikto iný. Paladíni boli v komore za bránou. Rau držal artefakt. Kira strážila. [→ 03a-nanotechnology.md: Gen 1 pasívny sken]
 
 Potom sa rozdelili.
 
-„Idú preč," povedal Maks. „Tunelom na juh. K doku — majú ponorku." Oči mu zatemnel sústreďovanie — videl to, čo jeho drony. „Idú pomaly. Artefakt je ťažký aj pre nich."
+„Idú preč," povedal Maks. „Tunelom na juh. K doku — majú ponorku." Oči mu stmavli — videl niečo, čo ostatní nie. „Idú pomaly. Artefakt je ťažký aj pre nich." [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks sleduje Paladínov na diaľku]
 
 „Dobehneme ich?" spýtala sa Tami.
 
@@ -180,7 +180,7 @@ Kráčali paralelným tunelom — užším, ale rýchlejším. Voda im siahala p
 
 „Príliv," povedal Kito za ňou. Hlas sa mu triasol, ale nie strachom — výpočtom. „Sai sa vracia. Tunely pod Chrámom sú pod úrovňou mora — keď vystúpi nad obzor, voda pôjde za ňou." Brodil sa ťažko, mapy držal nad hlavou. „Máme asi hodinu."
 
-Maks sledoval ich stopu cez drony. Tami viedla. A voda stúpala.
+Maks vedel, kde sú. Vždy vedel. Tami viedla. A voda stúpala. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — nepretržité sledovanie]
 
 A potom to Tami ucítila.
 
@@ -336,7 +336,7 @@ Voda im siahala po pás. Stúpala rýchlejšie — príliv kulminoval, a tunely 
 
 Paladíni boli štyri tunely pred nimi. Spomaľovali — artefakt bol ťažký, a voda spomaľovala aj ich. Kira kontrolovala zadný voj. Rau niesol.
 
-„Tam," povedal Maks. Zastavil sa. Oči mu stmavli — videl to, čo jeho drony. „Zastavili sa. Osemdesiat metrov."
+„Tam," povedal Maks. Zastavil sa. Oči mu stmavli. „Zastavili sa. Osemdesiat metrov." [→ 03a-nanotechnology.md: Gen 1 pasívny sken]
 
 Sera sa otočila.
 
@@ -348,11 +348,11 @@ Sera sa otočila.
 
 „A ty?" spýtala sa Tami.
 
-Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a ustúpila do tieňa bočného tunela. Čierny Prach na jej koži pohltil svetlo — tie isté nanoboty ako Maksove, len inak použité. Nie zbrane. Nie drony. *Kamufláž.* Tieň ju objal a ona zmizla v ňom, akoby nikdy nestála.
+Sera sa neusmiala. Len naklonila hlavu — tým pomalým, plazím gestom — a ustúpila do tieňa bočného tunela. Niečo na jej koži pohltilo svetlo — ten istý čierny matný lesk ako na Maksových nábojoch, len inak použitý. Nie zbraň. *Kamufláž.* Tieň ju objal a ona zmizla v ňom, akoby nikdy nestála. [→ 03a-nanotechnology.md: Gen 1 Čierny Prach — Sera ho používa ako kamufláž, nie ako zbrane/drony. Tami to vidí ako „ten istý materiál", ešte nemá meno pre to.]
 
 *[Česť je len výhovorka pre nedostatok flexibility.]*
 
-Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč. Maks zaregistroval, čo videl. *Čierny Prach. Používa ho na stealth. Rovnaký nanotech ako môj — ale úplne iný prístup.*
+Žiadny zvuk. Žiadny pohyb vzduchu. Len — preč. Maks zaregistroval, čo videl. *Čierny Prach. Používa ho na stealth. Rovnaký ako môj — ale úplne iný prístup.* [→ 03a-nanotechnology.md: Sera = Gen 1, rovnaký Čierny Prach ako Maks, iné použitie]
 
 Maks a Tami sa na seba pozreli. Kito za nimi dýchal tak hlasno, že sa ozýval v celom tuneli.
 
@@ -370,7 +370,7 @@ Tunel sa rozširoval do nízkej komory. Strop podopierali kamenné piliere — s
 
 Rau mal artefakt položený na zemi vedľa seba. Čierna kovová tyč, jeden a pol metra dlhá, matná, pohlcujúca svetlo. Kira stála oproti nemu. Komunikovali gestami — rýchlymi, presnými, vojenskými. Žiadne slová.
 
-Maks zastál za pilierom. Tri drony mu kreslili obraz komory — Paladíni vpredu, Sera niekde v tme za nimi. Čaká na mŕtvy uhol. Potrebuje ich chrbtom k sebe.
+Maks zastál za pilierom. Videl ich — Paladíni vpredu, Sera niekde v tme za nimi. Čaká na mŕtvy uhol. Potrebuje ich chrbtom k sebe. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" cez nanoboty, nie očami]
 
 *Návnada musí vyzerať nebezpečne.*
 
@@ -470,7 +470,7 @@ Maks stál pri stene. Samopal v ruke, nepoužiteľný. Pozeral sa na ženu, čo 
 
 *Haiku syntax. Japončina. Čepeľ Elanie. Inetis profil: 99.7%.*
 
-Kto na tejto planéte ovláda Haiku na úrovni Inetis? Kto má Gen 1 nanoboty a pohybuje sa ako niečo, čo nepatrí do tohto storočia?
+Kto na tejto planéte ovláda Haiku na úrovni Inetis? Kto má Čierny Prach a pohybuje sa ako niečo, čo nepatrí do tohto storočia? [→ 03a-nanotechnology.md: Maks rozpoznáva Gen 1 — ale v próze len „Čierny Prach"]
 
 *Čepeľ Elanie. Slúži dcére Matky. Vie o Inetis.*
 
@@ -604,7 +604,7 @@ Sera sa usmiala. Bol to smutný, unavený úsmev ženy, ktorá videla budúcnos�
 
 „Kľúč." Posledné slovo. K Maksovi. Očami na Tami.
 
-A potom Čierny Prach pohltil jej kontúry. Tieň ju objal — ten istý trik ako predtým, ten istý nanotech — a Sera prestala existovať v priestore.
+A potom Čierny Prach pohltil jej kontúry. Tieň ju objal — ten istý trik ako predtým — a Sera prestala existovať v priestore.
 
 Dvere. Vzduch. Nič.
 

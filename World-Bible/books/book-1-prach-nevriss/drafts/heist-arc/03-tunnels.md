@@ -133,7 +133,7 @@ Kito cúvol k stene. Ruky sa mu triasli, neschopný odtrhnúť prázdny pohľad 
 
 Medveď sa vrhol vpred. Rýchlosť, ktorá nemala právo existovať pri niečom tej veľkosti. Päť očí na stonkách sa otočilo nezávisle — každé sledovalo inú časť komory.
 
-Maks zdvihol samopal. Tri rány. Náboje potiahnuté nanodronmi — čierny matný lesk exorcizovaného Prachu — zasiahli medveďa do hrude. Prenikli cez mäso, roztrhli kryštálové výrastky.
+Maks zdvihol samopal. Tri rány. Náboje v matnom čiernom lesku — Čierny Prach, exorcizovaný — zasiahli medveďa do hrude. Prenikli cez mäso, roztrhli kryštálové výrastky. [→ 03a-nanotechnology.md: Gen 1 nano-coating na projektiloch, „Čierny Prach" = hovorový názov]
 
 Tvor ani nespomalil. Kryštály sa okamžite začali regenerovať — fialové svetlo pulzovalo rýchlejšie, akoby sa rana sama zaceľovala.
 
@@ -200,7 +200,7 @@ Kito pomaly vstal. V jeho očiach, za prasknutými sklami mokrých okuliarov, u�
 
 ## Časť III: Pasca
 
-Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Maksove senzory ukazovali, že sa blížia k základom Chrámu — päťsto metrov, štyristo, tristo —
+Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Blížili sa k základom Chrámu — päťsto metrov, štyristo, tristo — [→ 03a-nanotechnology.md: Maks počíta vzdialenosť cez pasívny sken]
 
 Maks zastal. Zdvihol päsť. *Stoj.*
 
@@ -208,7 +208,7 @@ Tami sa okamžite zastavila. Neotočila sa — jej uši sa napriamili dozadu, k 
 
 „Čo?" zašepkala.
 
-Maks neodpovedal hneď. Vedel to skôr, než za tmavými sklami okuliarov dobehlo to, čo videl. Jeho drony — mikroskopické, rozptýlené do vzduchu ešte pred zostupom — mu kreslili obraz v reálnom čase. Dvadsaťdva tiel v troch tuneloch. Tri smery. Pohybujú sa dnu. Niekto ich sem *priviedol*.
+Maks neodpovedal hneď. Vedel to skôr, než za tmavými sklami okuliarov dobehlo to, čo videl. Dvadsaťdva tiel v troch tuneloch. Tri smery. Pohybujú sa dnu. Niekto ich sem *priviedol*. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infračervený sken, rozptýlené do vzduchu pred zostupom, obraz v reálnom čase]
 
 „Maks?" Tami sa tentoraz otočila. V modrom svetle chemickej tyčinky videl jej oči — ostré, líščie, pochopenie prichádzajúce rýchlejšie než slová.
 
@@ -246,7 +246,7 @@ Kito prestal dýchať.
 
 Potom sa dôstojníkove oči vrátili k Maksovi. A tam sa niečo zlomilo — fasáda kontroly sa na okamih pootvorila a pod ňou nebola autorita. Bol tam výpočet. Koľko z mojich dvadsiatich dvoch sa vráti domov. [→ characters/Mormiel.md: Mormiel = Požehnaná Matka, rozkazy Inkvizícii]
 
-„Exorcista odíde." Hlas mu neznel ako rozkaz. Znel ako prosba zabalená do uniformy. „Nebudeme sa brániť. Odíďte. Toto sa vás netýka."
+„Exorcista odíde." Hlas mu neznel ako rozkaz. Znel ako prosba zabalená do uniformy. „Nikto vás nezastaví. Odíďte. Toto sa vás netýka."
 
 Maks stál nehybne. Ruky za chrbtom. Oči — tie čierne priepasti za okuliarmi — neprezrádzali nič. Dvadsaťdva zbraní na nich mierilo a on vyzeral, akoby počítal oblaky.
 
@@ -256,7 +256,7 @@ Tami mala pravú ruku na Nadeli. Ľavú pred sebou — pripravenú na pentagram.
 
 Matematika nefungovala. Vedela to. Maks to vedel. Kito sa triasol a nevedel nič.
 
-Ticho. Dunenie z povrchu — Grawská artileria, vzdialená, tlmená — pulzovalo v stenách ako srdce umierajúceho. Voda okolo ich členkov sa jemne chvela.
+Ticho. Voda okolo ich členkov sa jemne chvela.
 
 Tami videla, ako sa dva ostreľovače za dôstojníkom dívajú na Maksa. Nie s nenávisťou. S tým výrazom, aký mávali zvieratá, keď cítili požiar a nevedeli, odkiaľ fúka vietor. Hlavne karabín sa jednému z nich jemne triasli. [NOTE: Elitní vojaci, ale vedia, čo sú Exorcisti — bytosti z iného sveta, 3000 rokov staré. Legendy hovoria o veciach, ktoré robili v zamorených zónach.]
 
@@ -304,7 +304,7 @@ Ticho. Len dunenie nevrisskej artilerie na povrchu — tlmené, vzdialené, ako 
 
 Traja naraz. Inštinkt. Tréning. Pentagramy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky. [→ 03-technology.md: pentagram = viditeľný pre všetkých; v tme = jediný zdroj svetla]
 
-Potom zhasli. Nie pentagramy — ich majitelia. Tri nanoboty. Do otvorených úst — pentagram sa aktivuje hlasom a oni práve hovorili. Minimálna detonácia. Len vypnutie. [→ 03a-nanotechnology.md: Gen 1 nanodron dokáže prejsť aj cez tkanivo, ale otvorený otvor = low effort, najrýchlejšia cesta. Pentagram = haiku príkaz = otvorené ústa = ideálny vstupný bod. Spotreba: 1 nanobot/cieľ.]
+Potom zhasli. Nie pentagramy — ich majitelia. Niečo neviditeľné im vletelo do otvorených úst — pentagram sa aktivuje hlasom a oni práve hovorili. Krátky záblesk. Len vypnutie. [→ 03a-nanotechnology.md: Gen 1 nanodron dokáže prejsť aj cez tkanivo, ale otvorený otvor = low effort, najrýchlejšia cesta. Pentagram = haiku príkaz = otvorené ústa = ideálny vstupný bod. Spotreba: 1 nanobot/cieľ.]
 
 Tri výkriky — krátke, udusené — a tri telá padli do vody. Pentagramy zhasli s nimi. Tma a ticho sa vrátili.
 
@@ -312,7 +312,7 @@ Strely. Niekoľko dobre mierených rán smerom na miesto, kde stáli Maks, Tami 
 
 Maks videl všetko. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívny infračervený sken, taktický overlay]
 
-*Roj: 340 aktívnych dronov. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 — nanobot = základná stavebná jednotka (LEGO kocka). Tisíce nanobotov = 1 dron na konkrétny task. 340 dronov = celý deployable roj. Nerozmnožujú sa — každý stratený dron je stratený navždy.]
+*Roj: 340 aktívnych. Spotreba na cieľ: 8-12. Zostatok po plnej eliminácii: kritický.* [→ 03a-nanotechnology.md: Gen 1 — nanobot = základná stavebná jednotka (LEGO kocka). Tisíce nanobotov = 1 dron na konkrétny task. 340 dronov = celý deployable roj. Nerozmnožujú sa — každý stratený dron je stratený navždy.]
 
 Po jednom. Chirurgicky. Nechaj zvyšok utiecť.
 
@@ -328,7 +328,7 @@ Zvyšní neodpovedali. Nestrelili. Len dýchanie — rýchle, plytké, zúfalé.
 
 Nikto neutiekol. Boli tri tunely von. Stačilo sa otočiť a bežať. Ale rozkaz Požehnanej Matky bol silnejší než inštinkt.
 
-Šiesty. Kinetický roj — neviditeľné fragmenty, presné ako ihly — nachádzal medzery v pancierových vestách. Švy. Krk. Zápästia. Tichý zvuk. Pád. Voda. [→ 03a-nanotechnology.md: Gen 1 kinetický roj — chirurgická presnosť, minimálna spotreba nanobotov na cieľ]
+Šiesty. Niečo neviditeľné — presné ako ihly — nachádzalo medzery v pancierových vestách. Švy. Krk. Zápästia. Tichý zvuk. Pád. Voda. [→ 03a-nanotechnology.md: Gen 1 kinetický roj — chirurgická presnosť, minimálna spotreba nanobotov na cieľ]
 
 Pauza. V absolútnej tme sa čas rozpadol.
 
@@ -344,7 +344,7 @@ A potom Maks zastavil. Znova čakal. [NOTE: Dvojitá taktika — (A) šetrí roj
 
 Niečo sa blížilo.
 
-Jeho senzory to zachytili skôr, než to počul — narušenie vzduchu v dvoch tuneloch naraz. Žiadna tepelná signatúra. Žiadna nano-identifikácia. Len *pohyb* — rýchly, masívny, a úplne neznámy. Dva objekty. Alebo bytosti. Vzduch pred nimi vibroval frekvenciou, ktorú Maksov Asistent nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 senzory nepoznajú Apes technológiu — iná civilizácia, iný kontinent, nulová databáza]
+Zachytil to skôr, než to počul — narušenie vzduchu v dvoch tuneloch naraz. Žiadna tepelná signatúra. Žiadna identifikácia. Len *pohyb* — rýchly, masívny, a úplne neznámy. Dva objekty. Alebo bytosti. Vzduch pred nimi vibroval frekvenciou, ktorú nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 senzory nepoznajú Apes technológiu — iná civilizácia, iný kontinent, nulová databáza]
 
 *Neidentifikované. Dva kontakty. Rýchlosť: anomálna. Signatúra: žiadna zhoda. Odporúčanie: —*
 
@@ -430,7 +430,7 @@ Dva páry modrých očí svietili v tme na jeho strane. Monolity stáli v prachu
 
 „Viem, kurva, viem." Frustrácia v jej hlase. „Aký je plán?"
 
-Maks stál v tme na svojej strane zavalu. Za ním dvaja monoliti. Pred ním cesta pod Chrám — jeho drony videli bránu, tristopäťdesiat metrov. Cesta na ich strane sa kľukatila cez staré ventilačné šachty.
+Maks stál v tme na svojej strane zavalu. Za ním dvaja monoliti. Pred ním cesta pod Chrám — videl bránu, tristopäťdesiat metrov. Cesta na ich strane sa kľukatila cez staré ventilačné šachty. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí" cez steny]
 
 „Kito," povedal Maks cez sutiny. „Tvoje mapy. Je tam obchvat?"
 

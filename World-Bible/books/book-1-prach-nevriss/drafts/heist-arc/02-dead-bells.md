@@ -242,7 +242,7 @@ O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťa
 
 V momente, keď sa jeho prsty dotkli látky, vzduch okolo Kita explodoval. Knihy vyleteli z políc, sklené fľaštičky praskli, Maksov plášť sa odtrhol dozadu, akoby doň fúkol víchor. Kitova telekinéza — surová, nekontrolovaná, čistý obranný reflex Pursanga — narazila do Maksa ako neviditeľná stena.
 
-Maks sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Jeho nanoboty absorbovali energiu a Maks zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika.
+Maks sa nepohol. Tlak naňho narážal a stekal z neho ako voda z kameňa. Niečo v ňom absorbovalo energiu — niečo, čo nebolo Spira — a Maks zdvihol Kita za golier do vzduchu, akoby to bola handrová bábika. [→ 03a-nanotechnology.md: Gen 1 nanoboty — pasívna absorpcia kinetickej energie]
 
 Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
 
@@ -276,7 +276,7 @@ Vybehli z bytu do noci, ktorá sa práve menila na peklo.
 
 Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili vozíky s deťmi cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
 
-Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali. Jeho aura pradávnej nanotechnológie, znásobená o váhu trasúceho sa Kita prehodeného cez rameno, z neho robila nehybnú skalu v prúde vody.
+Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali — niečo okolo neho ich odstrkávalo, niečo neviditeľné a staré, znásobené váhou trasúceho sa Kita prehodeného cez rameno. [→ 03a-nanotechnology.md: Gen 1 — pasívne kinetické pole, pradávna nanotechnológia]
 
 „Za mnou!" zavrčal vlk a kľučkoval cez dym a oheň, inštinktívne hľadajúc najkratšiu trasu k bodu, ktorý Kito kričal cez hluk výbuchov.
 

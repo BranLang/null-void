@@ -453,7 +453,7 @@ Lenže pes s kušou nemal pevné nervy. Alebo mal zlý deň. Spúšť cvakla. Ne
 
 *Nie.*
 
-Inštinkt mal prednosť pred utajením. Adrenalín prebudil nanoboty rýchlejšie, než jej vedomie stihlo vybrať diskrétnu možnosť.
+Inštinkt mal prednosť pred utajením. Spira sa prebudila rýchlejšie, než jej vedomie stihlo vybrať diskrétnu možnosť. [→ 03a-nanotechnology.md: adrenalín aktivuje nanoboty — obranný reflex]
 
 Pred jej ľavou dlaňou sa s oslepujúcim bleskom rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA ZMENENÁ NA OBRANNÝ INŠTINKT. Prežitie > utajenie. Cukne sebou od výstrelu.]
 
