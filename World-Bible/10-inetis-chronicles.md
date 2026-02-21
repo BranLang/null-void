@@ -193,6 +193,6 @@ Keď sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis, blízkosť zo
 
 ### Osud expedície
 
-Po návrate boli v Shoravene zatknutí Inkvizíciou na priamy rozkaz Požehnanej Matky (Mormiel). **Flint zabitý pri zatýkaní** — tasil zbraň, strážcovia ho zastrelili na mieste. Telo verejne upálené na námestí ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Mormiel chcela presné koordináty Jaskyne Počiatku, miesta posledného odpočinku „Svätej Matky" a potenciálne ďalších artefaktov.
+Po návrate boli v Shoravene zatknutí Inkvizíciou na priamy rozkaz Požehnanej Matky (Mormiel). **Flint zabitý pri zatýkaní** — tasil zbraň, strážcovia ho zastrelili na mieste. Telo verejne vystavené na námestí ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Mormiel chcela presné koordináty Jaskyne Počiatku, miesta posledného odpočinku „Svätej Matky" a potenciálne ďalších artefaktov. **Anténa uložená do Mormielin falošnej krypty** — najbezpečnejšie miesto, aké pozná, strážené dvoma vybranými majstrami Spiry. Mormiel chce Anténu utajiť pred ostatnými mocnosťami.
 
-Tami prežila, pretože **Mormiel o nej nevedela** — nebola oficiálne zaznamenaná ako člen expedície. Tami vie len to, že Cirkev jej priateľov zatkla za „znesvätenie svätých relikvií". Skutočný dôvod nepozná.
+Tami prežila, pretože **Mormiel o nej nevedela** — nebola oficiálne zaznamenaná ako člen expedície. Tami o zrade vie (Flint, Arkot a Yera ukradli Anténu), ale príde ich zachrániť — stále sú jej rodina.

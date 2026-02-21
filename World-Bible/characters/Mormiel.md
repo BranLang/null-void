@@ -103,8 +103,8 @@ Mormiel pamätá Inetis. Videla ju na bojisku — tam, kde dnes stojí Shoraven 
 - Mormielini špehovia hlásia: *„Na trhu sa objavil predmet — palica — ktorý nezodpovedá žiadnej známej technológii. Vraj niekde z východu."*
 - Mormiel stuhne. **Pozná ju.** Čierna. Hladká. Absolútne nevýrazná — pre tých, čo nevedia.
 - Okamžite vydáva rozkazy: Nájsť predajcu. Získať artefakt. *Zametať stopy.*
-- Posádka Itaky je upálená na námestí ako heretici. Mormiel získava Anténu.
-- Je to jej najcennejší artefakt. A nikto nesmie vedieť, že ho má.
+- Flint zabitý pri zatýkaní (tasil zbraň) — telo verejne vystavené na námestí ako varovanie. Arkot a Yera uväznení v kobkách.
+- Mormiel získava Anténu. Uloží ju do **svojej falošnej krypty** pod Chrámom — najbezpečnejšie miesto, aké pozná. Kryptu strážia **dvaja vybraní majstri Spiry**. Nikto nesmie vedieť, že ju má — keby sa ostatné mocnosti dozvedeli, bola by vojna.
 
 ### Štýl reči a myslenia
 

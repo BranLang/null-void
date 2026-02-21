@@ -337,9 +337,9 @@ Varietas delia históriu nábožensky:
     - Tami vezme vzducholoď a nechá Maksa v pustatine
 - **AY 3008 – AY 3013**: **5 rokov odlúčenia**:
     - Maks pokračuje ako Exorcista sám
-    - Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov
-    - Rýchly vzostup na vrchol pyramídy — na jej hlavu je vypísaná obrovská suma v Nyau a Beladiss
-    - Vidí upálenie priateľov kvôli nálezu Anténa
+    - Tami sa stáva dobrodruhkou, prieskumníčkou, hľadačkou pokladov
+    - Rýchly vzostup — buduje meno v prístavoch na východe
+    - Flint, Arkot a Yera zradili Tami, ukradli Anténu a pokúsili sa ju predať v Šoravene. Zatknutí Inkvizíciou — Flint zabitý, telo vystavené. Arkot a Yera uväznení. Tami o zrade vie, ale príde ich zachrániť
 - **AY 3013**: **Začiatok hlavného deja** (Kniha 1).
     - **Opening**:  Maks (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch v Kito. Vyberu sa pomstit smrt Taminych priatelov a Maks sa zaujima o artefakt. Vzducholoď pristáva v nočnom meste Shoraven.
     - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven

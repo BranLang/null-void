@@ -12,10 +12,10 @@ Nie je to jeden žáner s príchuťou iného. Je to **DNA helix** — štyri vl�
 
 | Vlákno | Čo prináša | Príklad v NULL VOID |
 |--------|------------|---------------------|
-| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere pirátka. Sera = kawaii hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
+| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere dobrodruhka. Sera = kawaii hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
 | **Sci-Fi (Hard)** | Pravidlá, limity, logika, Clarke's Law ako motor deja | Pentagram = IDE. Modlitby = voice-activated skripty. Wraithy = nanoboty s pudom sebazáchovy. |
 | **Dieselpunk** | Estetika, technologická úroveň, atmosphere | Vodíkové vzducholode, revolvery, art deco, žiadna elektronika. Rúry, ozubené kolesá, para. |
-| **Grimdark** | Dôsledky, morálna komplexita, žiadny plot armor | Verejné upálenia. Body horror (Maya → kryštál). Kastový systém. Smrť je permanentná. |
+| **Grimdark** | Dôsledky, morálna komplexita, žiadny plot armor | Verejné popravy a vystavenia tiel. Body horror (Maya → kryštál). Kastový systém. Smrť je permanentná. |
 
 ### Formát: Autorský, nie konvenčný
 
@@ -103,13 +103,13 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
   - Tami irreverentnosť vs. Maksov stoicizmus
   - Sera kawaii hlas ako unsettling komika
 - **Pravidlo:** Humor nikdy nepodkopáva stávky — existuje VEDĽA tmy, nie namiesto nej.
-- **Príklad z Ch1:** Tami myslí „Šo?" o Šoravene, zatiaľ čo mesto je pod obliehaním a jej mŕtvi priatelia boli upálení na námestí.
+- **Príklad z Ch1:** Tami myslí „Šo?" o Šoravene, zatiaľ čo mesto je pod obliehaním a telo jej mŕtveho priateľa bolo vystavené na námestí.
 
 ### Kedy grimdark
 
 - **Účel:** Dôsledky majú váhu. Svet je reálny. Stávky sú skutočné.
 - **Typy:**
-  - Inštitucionálne násilie — verejné upálenia, kastový systém, Blood Harvest Archanjelov
+  - Inštitucionálne násilie — verejné popravy a vystavenia tiel, kastový systém, Blood Harvest Archanjelov
   - Body horror — Maya kryštalizácia, Glitch Rot, Blood Ritual sebazranenie
   - Morálny kompromis — Maks zabíja rutinne, Tami pragmaticky akceptuje násilie
   - Psychologická tma — Elania nihilizmus, 2750 rokov samoty
@@ -119,7 +119,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 ### Pravidlo koexistencie
 
 Rovnaká kapitola môže obsahovať oba tóny. Ch1 má:
-1. Backstory upálení (grimdark)
+1. Backstory vystavených tiel (grimdark)
 2. „Šo" wordplay (humor)
 3. Mako čajový rituál (reverencia)
 4. „Kowai" ending (uncanny)

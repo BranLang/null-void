@@ -133,7 +133,7 @@
 
 ---
 
-## Tulák (AY ~950-2900)
+## Tulák (AY ~950-2975)
 
 ### Cesty svetom
 
@@ -187,7 +187,7 @@
 - Ale ani Príchod Maki Renna nenaplnil — niečo mu v živote stále chýbalo
 - Zmenil identitu. Pokračoval v cestovaní.
 
-### Ďalšie storočia (AY 2212-2900)
+### Ďalšie storočia (AY 2212-2975)
 
 - Menil identity, občas sa usadil — ale nikdy na dlho
 - **Nevedel žiť.** Vedel chodiť. Vedel hľadať. Nevedel zostať.
@@ -197,20 +197,20 @@
 
 ---
 
-## Návrat a Otcovstvo (AY ~2900-3000)
+## Návrat a Otcovstvo (AY ~2975-3000)
 
-### Návrat do Kita (~AY 2900)
+### Návrat do Kita (~AY 2975)
 
-- Po storočiach putovania sa rozhodne vrátiť natrvalo — do ruín, kde strávil najlepšie roky
-- Kito je tieň toho, čím bývalo — od Lekcie Krvi (AY 2212) sa mesto nikdy celkom nespamätalo
-- Nachádza **Felixa** — starý priateľ, stále verný Direktíve, stále v ruinách
-- **Felix a Renn** — obaja zo Zeme, obaja starobylí. Felix je z Hephaestus (Maki séria E, AY 2212), pozná kontext. Vie, kto je Renn. Pozná ho od Tretieho Príchodu.
-- Rozhodne sa usadiť natrvalo v Kite
+- **Nebol to plán.** Renn prišiel pozdraviť Felixa — ako to robil každých pár storočí. Zastaviť sa, skontrolovať, ako sa žije, povedať starému priateľovi pár slov. A potom ísť ďalej.
+- Kito je tieň toho, čím bývalo — od Lekcie Krvi (AY 2212) sa mesto nikdy celkom nespamätalo. Malá komunita v centre ruín. Anarchia — rodiny, ktoré si pomáhajú.
+- Nachádza **Felixa** — starý priateľ, stále verný Direktíve, stále v ruinách. Obaja zo Zeme, obaja starobylí.
+- **Spozná Vulpini ženu** z komunity. Nič dramatické — len žena, ktorá sa na neho usmievala. A on sa usmial späť. Po tisícročiach to bolo dosť.
+- **Zostal.** Nerozhodol sa — jednoducho neodišiel. Prvý týždeň, prvý mesiac, prvý rok. Felix nič nepovedal. Len opravoval veci a občas sa usmial.
 
 ### Tami (AY 2993)
 
-- **Prvýkrát za ~2000 rokov si vezme ženu** — Vulpini žena
-- **Prvýkrát v živote má dieťa**: Tami
+- **Prvýkrát za ~2000 rokov si vezme ženu** — Vulpini žena z komunity
+- **Prvýkrát v živote má dieťa**: Tami (~18 rokov po návrate)
 - Po tisícročiach odmietania otcovstva — konečne sa odváži
 - Niečo sa v ňom zlomilo — alebo celé — keď prvýkrát držal dcéru v náručí
 
