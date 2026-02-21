@@ -155,6 +155,8 @@ Maks sa uhol za pilier. Oheň preletel okolo neho, zasiahol turbínu. Kov zavrč
 
 Kompresná para — natlakovaná storočia hlboko v útrobách potrubí — prerazila von s revom, ktorý prehlušil aj delostrelectvo na povrchu. Oblak vriaceho bieleho plynu zalial polovicu komory. Kito zatiahol ruky nad tvár a odvrátil sa od horúčavy.
 
+![Spira Experiments](../../../../assets/books/book-1/chapter-3-experiments.png)
+
 Medveďovi s piatimi očami to zasiahlo pravú stranu. Mäkké stonky očí zasyčali, kryštály popraskali tepelným šokom. Monštrum zaryčalo a začalo bezcieľne udierať labami do pary.
 
 Maks využil chaos. Vyrazil cez okraj dymovej clony. Päť rán. Presných. Prvé dve rozbili oslnivej vlčici pentagramy v dlaniach. Tretia zasiahla plece. Vlčica zavrávorala, plameň zhasol.
@@ -663,6 +665,8 @@ Niečo sa v Tami pohol. Nie vina — na to nebol čas. Nie obdiv — na to bola 
 Modré svetlo zhaslo. Yera zdvihla ruky — pomaly, ako keby ju to stálo všetko, čo mala. Prsty sa jej triasli. Tvár — tá krásna, mačacia, vychudnutá tvár — bola sivá od vyčerpania.
 
 Chlapcova hruď stúpala a klesala. Stabilne. Oči zatvorené — bezvedomie, nie smrť. Rana pod kľúčnou kosťou bola stále tam — nezacelená, nie úplne — ale krv prestala tiecť. Pľúca dýchali. Srdce bilo. Žil. [NOTE: nedokončená práca — Yera musela odísť skôr, než dokončila. Bude ju to hryžť.]
+
+![Yera's Healing Grace](../../../../assets/books/book-1/chapter-3-yera-healing.png)
 
 Tami sa na ňu pozerala. Yera sa pozerala na svoje ruky — od krvi, od svetla, od niečoho, čo bolo medzi tým.
 
