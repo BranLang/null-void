@@ -96,6 +96,7 @@ h2 {
   margin-bottom: 8mm;
   font-style: italic;
   letter-spacing: 1px;
+  page-break-after: avoid;
 }
 
 h3 {
@@ -106,6 +107,7 @@ h3 {
   letter-spacing: 1px;
   margin-top: 5mm;
   margin-bottom: 0;
+  page-break-after: avoid;
 }
 
 p {
@@ -308,9 +310,19 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         # Remove trailing "— koniec interlúdia —" markers (we use page breaks)
         clean = re.sub(r'\n*\*— koniec interlúdia —\*\n*', '\n', clean)
 
-        # Add page break between chapters (except first)
+        # Add a few newlines between chapters. CSS handles page and headings.
         if i > 0:
-            parts.append('\n\n<div style="page-break-before: always;"></div>\n\n')
+            parts.append('\n\n')
+
+        # Strip "## Časť" headings if the part is shorter than ~4000 characters
+        def remove_short_parts(match):
+            heading = match.group(1)
+            content = match.group(2)
+            if len(content.strip()) < 4000:
+                return content.lstrip()
+            return heading + content
+            
+        clean = re.sub(r'(## Časť[^\n]*\n+)(.*?(?=\n## |\n# |\Z))', remove_short_parts, clean, flags=re.DOTALL)
 
         parts.append(clean.strip())
         parts.append('\n\n')
