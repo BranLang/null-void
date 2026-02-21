@@ -554,6 +554,23 @@ Kompletný prehľad nanotechnológie asociovanej s kľúčovými postavami.
 | **Renn**† | v1.0 | Neznámy | Štandardné Gen 1 | Prestal praktizovať → degradácia → smrť |
 | **Archanjeli** | v1.0 | Rôzny | Štandardné Gen 1 | Organizovaný Odber/Zber z Varietas |
 
+### Čierny Prach — Bojový profil: Maks vs Sera
+
+Čierny Prach je ovládaný myšlienkami. Naučiť sa špecifické triky vyžaduje desiatky až stovky rokov aktívneho tréningu. Maks a Sera majú ten istý materiál, ale úplne odlišné špecializácie — výsledok rôznych životov, rôzneho tréningu a rôznej technologickej éry.
+
+| Aspekt | Maks | Sera |
+|--------|------|------|
+| **Odchod zo Zeme** | EY 2301 (NULL VOID) | EY 2150 (ARK-11, ako 5-ročná) |
+| **Tech level pri odchode** | Vyšší — vojenský Mil-Spec v1.5 (2301) | Nižší — civilný Gen 1 + neskorší Gen 2 upgrade (2150) |
+| **Aktívny bojový tréning** | 200+ rokov intenzívnej vojenskej služby (Mars War → Generál Planetárnej Obrany → top tier delta force / assassin) | Žiadny formálny — 3000 rokov samouk, bez inštruktorov, bez sparring partnerov |
+| **Čierny Prach špecializácia** | Defenzívne a ofenzívne reflexy — drony (The Seven), štíty, neutralizácia, roj, nano-coated munícia | Stealth — kamufláž (Prach pohltí svetlo), neviditeľnosť, tichý pohyb |
+| **Enchant / Haiku** | Neovláda haiku syntax (nebol učený Inetis) | Ovláda — natívna japončina, jediná živá native speaker, improvizuje nové haiku príkazy |
+| **Zbraň** | Samopal + Black Dust swarm (eskalácia) | Yari (teleskopická kopija, 3200 rokov tréningu) + Enchant |
+| **V priamom boji** | **Vyhrá.** Intenzívnejší tréning, vyšší tech level, agresívne drony | **Prehrá.** Sera to vie — „Keby sme bojovali..." (Ch4) |
+| **Kompenzácia** | Nemá stealth, nemá haiku, nemá social engineering | Stealth, social engineering (3000 rokov manipulácie), skúsenosti, spektrálne videnie, Hard Light Shield (ukradnutý Apes) |
+
+**Kľúčový princíp:** Maks mal intenzívnejší a technologicky pokročilejší tréning za 200+ rokov aktívnej vojenskej služby. To, čo sa naučil v armáde ako top tier assassin, sa Sera nemohla naučiť sama za 3000 rokov — chýbali jej inštruktori, sparring partneri, vojenská infraštruktúra a vyšší tech level (2301 vs 2150). Sera kompenzuje tým, čo armáda neučí — trpezlivosť, manipulácia, stealth, poézia.
+
 ### maxPower — Transformačný reťazec (Maks)
 
 | Kniha | Fáza | Popis |
