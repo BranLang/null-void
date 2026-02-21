@@ -296,13 +296,14 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         clean = re.sub(r'!\[.*?\]\([^)]*map-achilles[^)]*\)\n*', '', clean)
 
         # Convert image paths to base64 data URIs for Puppeteer compatibility
+        # Using HTML img tag wrapped in div to prevent marked.js from running regex on huge base64 strings
         def fix_img_path(match):
             alt = match.group(1)
             rel_path = match.group(2)
             abs_path = (src.parent / rel_path).resolve()
             if abs_path.exists():
                 b64_uri = img_to_base64_uri(abs_path)
-                return f'![{alt}]({b64_uri})\n'
+                return f'\n<div class="image-wrapper"><img src="{b64_uri}" alt="{alt}" /></div>\n\n'
             print(f"    Warning: image not found: {rel_path}")
             return ''  # Remove if image not found
         clean = re.sub(r'!\[(.*?)\]\((.*?)\)\n*', fix_img_path, clean)

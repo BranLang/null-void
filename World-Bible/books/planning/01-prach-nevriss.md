@@ -17,7 +17,7 @@
 *   **Dej:** Maks a Tami v Shoraven. Oprava lode, prieskum mesta, nábor vlka.
 *   **Kľúčové momenty:**
     *   Atmosféra mesta: Príprava na vojnu, Cult of Mother, žoldnieri.
-    *   **Tamina motivácia (REV):** Flint mŕtvy (zabitý pri zatýkaní, telo verejne upálené ako varovanie), Arkot a Yera živí v kobkách niekoľko mesiacov. Záchrana + artefakt.
+    *   **Tamina motivácia (REV):** Flint mŕtvy (zabitý pri zatýkaní, telo verejne vystavené ako varovanie), Arkot a Yera živí v kobkách niekoľko mesiacov. Tami vie o zrade, ale príde ich zachrániť — stále sú jej rodina. Záchrana + artefakt.
     *   **Borg a Nix:** Zmienka posádky na Itake (medveď pri kanóne, zajac v podpalubí).
     *   **Felix flashback (NEW):** "Kanón pôjde. Ja nie." — Felix odmietol ísť, strach, 800 rokov v Kitsune.
     *   Tami vybavuje opravu u miestneho Maka.

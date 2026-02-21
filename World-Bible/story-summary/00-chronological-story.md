@@ -127,7 +127,7 @@ Premena z "trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a uč
 Tami (15 rokov) sa vyzná Maksovi. Maks ju odmietne — vidí v nej dcéru, nie ženu. Tami vezme vzducholoď **Itaku** a nechá Maksa v pustatine. [→ 01-timeline.md: AY 3008]
 
 ### AY 3008-3013 — Päť rokov odlúčenia
-Maks pokračuje ako Exorcista sám. Tami sa stáva pirátkou, pašeráčkou, hľadačkou pokladov. Rýchly vzostup — na jej hlavu je vypísaná obrovská odmena v Nyau a Beladiss. Tami a priatelia (Arkot, Yera, Flint) nájdu starú mapu Renna na ktorej je zaznačená jaskyňa Inetis. Tami a gang nájdu artefakt v jaskyni. Po návrate do Šoravenu sú zatknutí Inkvizíciou — Flint zabitý pri zatýkaní (telo verejne upálené ako varovanie), Arkot a Yera uväznení v kobkách pod Chrámom. Tami prežila, lebo Mormiel o nej nevedela. [→ 01-timeline.md: AY 3008-3013]
+Maks pokračuje ako Exorcista sám. Tami sa stáva dobrodruhkou, prieskumníčkou, hľadačkou pokladov. Buduje meno v prístavoch na východe. Tami a priatelia (Arkot, Yera, Flint) nájdu starú mapu Renna, na ktorej je zaznačená jaskyňa Inetis. Tami vedie expedíciu do Jaskyne Ela — nájdu artefakty vrátane Antény. Flint, Arkot a Yera zradili Tami — ukradli Anténu a pokúsili sa ju predať v Šoravene. Zatknutí Inkvizíciou — Flint zabitý pri zatýkaní (telo verejne vystavené ako varovanie), Arkot a Yera uväznení v kobkách pod Chrámom. Anténa uložená do Mormielin falošnej krypty. Tami o zrade vie, ale príde ich zachrániť — stále sú jej rodina. [→ 01-timeline.md: AY 3008-3013]
 
 ---
 

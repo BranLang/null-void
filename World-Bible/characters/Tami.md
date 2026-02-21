@@ -5,7 +5,7 @@
 
 ### Tami (Líška / Vulpini)
 - **Vek**: 20 rokov
-- **Status**: Kapitánka vzducholode *Itaka*, Pursang (ale utajená), **nedoučená Exorcistka** (Maksov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
+- **Status**: Dobrodruhka, prieskumníčka, lovkyňa artefaktov. Kapitánka vzducholode *Itaka*, Pursang (ale utajená), **nedoučená Exorcistka** (Maksov bývalý padavan, AY 3001-3008 — odišla v 15, tréning nedokončený. Má základy: boj, zbrane, prežitie, duchovia — vie na ducha spraviť `sudo kill`. Chýba jej teória, hacking, Linux. Ale aj tie základy sú viac, než má ktokoľvek mimo Inštitút)
 - **Rola v Tíme**: **Manažér / Social Engineering Expert / Intel**.
     - Maks je cudzinec a "Sval". Tami pozná nuansy spoločnosti.
     - **Social Engineering**: Je majsterkou v manipulácii ľudí, získavaní informácií a "OSINT" (krčmové reči, sledovanie, kontakty). Našla Kita, zistila jeho adresu aj jeho zúfalú situáciu (zomierajúca žena). Ona pripravila pôdu pre rekrutovanie.
@@ -24,6 +24,57 @@
 - **Neverkyňa**: Jedna z mála Varietas, ktorá neverí v Matku. Vďaka Maxovmu mentoringu dokáže využívať Spiru na 200% — jeho vedecký prístup k nanotechnológii jej otvoril možnosti, ktoré veriaci Varietas nedokážu, pretože sú zviazaní dogmou Cirkvi.
 - **Nechcený klam**: Tami mu nikdy explicitne nepovie, čo je zač, pretože predpokladá, že to vidí (alebo že je mu to jedno).
 
+### Profesia & Životný Sen
+
+**Profesia: Dobrodruhka, prieskumníčka, lovkyňa artefaktov**
+
+Tami nie je pirátka. Nekradne od živých — **hľadá stratené veci v mŕtvych miestach**. Ruiny, vraky vzducholodí, zabudnuté jaskyňe, opustené Maki výrobne. Miesta, kam sa normálni ľudia boja ísť, lebo tam sú wraithy, nestabilné konštrukcie, alebo jednoducho nikto nevie, že existujú.
+
+**Čím sa živí:**
+- Mapuje nepreskúmané územia (Rennove staré mapy ako základ)
+- Vykopáva artefakty z ruín predchádzajúcich civilizácií
+- Predáva ich gildám, zberateľom, alebo Maki inžinierom
+- Niektoré si necháva — tie, ktoré by mohli pomôcť Kitsune
+- Buduje kontakty v prístavoch po celom Achille — Lara Croft tohto sveta
+
+**Veľký sen: Obnoviť Kitsune**
+
+Tento sen nie je Tamin — je to **Rennov sen**, sprostredkovaný Felixom. Felix a Renn strávili spolu ~2000 rokov. Felix poznal Renna lepšie než ktokoľvek na planéte. Počas rokov, keď Tami vyrastala v ruinách s Maksom a Felixom (AY 3001–3008), Felix jej rozprával príbehy o otcovi. Nie len historky — rozprával jej o tom, **aké Kitsune bolo**. Milión Vulpini. Ulice plné života. Kováči, obchodníci, rodiny. A o tom, ako Renn vždy hovoril, že to jedného dňa obnoví. Že Vulpini si zaslúžia domov, nie ruiny.
+
+Renn to nedokázal za 3000 rokov. Ale Tami to počula ako dieťa — a **deti berú sny vážne.**
+
+**O matke vie málo.** Felix jej povedal základy — bola Vulpini, milovala Renna, zomrela mladá. Ale detaily chýbajú. Tami pozná otcov sen, ale matku takmer nepozná. Ďalšia rana.
+
+**Kitsune — mesto v meste:**
+V centre obrovských ruín bývalej metropoly je **udržiavaná časť mesta** — ako keď v stredovekom Ríme vyrástlo nové mesto na ruinách antického Ríma. Pár tisíc Vulpini tu žije. Domy poskladané z antických kameňov. Trhovisko vo vnútri starého amfiteátra. Studne vyčistené, ulice zametené. Deti behajú po schodoch, ktoré kedysi viedli do paláca. Vonkajšie ruiny sú nebezpečné — les, wraith prach, nestabilné konštrukcie. Ale jadro žije.
+
+Tami nevyrástla v pustatine. Vyrástla v **malom meste vo veľkých ruinách**. Videla starú slávu — obrovské budovy, ktoré nikto nevie opraviť. A Felix jej ukazoval staré mapy, staré budovy, rozprával čo kde bolo. *"Tu bola knižnica. Tu boli kováči. Tu bol prístav pre tridsať lodí."* A ona sa pozerala na ruiny a videla, čo by tam **mohlo byť**.
+
+**Čo obnova vyžaduje:**
+1. **Peniaze** — artefakty = príjem. Ale nestačí to. Potrebuje veľké kontrakty, sponzorov, obchodné dohody
+2. **Kontakty** — gildy v Šoravene, inžinieri v Nevriss, Maki kováči, kupci
+3. **Vplyv** — aby ju brali vážne. 20-ročná Vulpini s modrými očami? Nikto ju neberie vážne, kým neukáže, čo dokáže
+4. **Znalosti** — a tu je to najťažšie:
+   - Kitsune zničila elektrina (Lekcia Krvi, AY 2212). Celá civilizácia sa preto vzdala elektrickej energie
+   - Ale bez energie sa mesto nedá obnoviť na pôvodnú úroveň
+   - Tami študuje wraithy — ako fungujú? Čo ich priťahuje? Dá sa to blokovať?
+   - Hľadá artefakty z Hephaesta (Maki lode) — obsahujú technológiu, ktorú nikto nechápe
+   - Testuje alternatívne zdroje energie — existuje niečo, čo wraithy nepritiahne?
+   - Felix jej pomáha s teóriou, ale on sám sa bojí opustiť ruiny
+
+**Prečo to funguje naratívne:**
+- **Prečo má Itaku**: Nie je len dedičstvo — je to jej pracovný nástroj. Prieskumníčka potrebuje loď.
+- **Prečo má posádku**: Nemôže liezť do ruín sama. Borg je sila, Nix opravuje všetko.
+- **Prečo je v Šoravene**: Kontakty, predaj artefaktov, informácie o Anténe.
+- **Prečo chce Anténu**: Artefakt z NULL VOID lode — môže byť kľúč k pochopeniu wraith technológie.
+- **Prečo sa vracia k Maksovi**: Potrebuje ho. On je Exorcista — rozumie wraith-om lepšie než ktokoľvek. Plus podvedomé ťahanie Echo Inetis.
+- **Irónia**: Kitsune zničila technológia. Tami verí, že technológia ho môže zachrániť — ak ju pochopí.
+
+**Emocionálny základ:**
+Keď v 15 odišla od Maksa — zlomená srdcom, nahnevaná — nemala kam ísť. Vrátila sa do Kitsune. A Felix jej povedal: *"Tvoj otec by nechcel, aby si tu sedela v ruinách. Chcel, aby si lietala."* A ona vzala Itaku a začala. Nie z pomsty, nie z hnevu. Z **účelu**. Pretože keď ti zlomí srdce jediný človek, ktorému si verila, potrebuješ niečo väčšie než on. Sen jej otca — to bolo to väčšie.
+
+---
+
 ### Backstory
 
 | Rok | Vek | Udalosť |
@@ -36,17 +87,23 @@
 | **AY 3001-3008** | 8-15 | Putovanie s Maksom — Tami sa stáva jeho padavanom. Maks ju trénuje ako Exorcistku: boj, zbrane, prežitie, duchovia a kostry v ruinách sú rutina — vie na ducha spraviť `sudo kill`. 7 rokov terénneho výcviku (ale bez teórie, hackingu, Linuxu — nedoučená, odišla pred dokončením) |
 | **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
 | **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maksa v pustatine. 5 rokov sa neozve |
-| **AY 3008-3013** | 15-20 | Rýchly vzostup v pirátskom/pašeráckom svete |
+| **AY 3008** | 15 | Návrat do Kitsune. Felix: *"Tvoj otec by nechcel, aby si tu sedela v ruinách. Chcel, aby si lietala."* Tami prevezme Rennov sen — obnoviť Kitsune |
+| **AY 3008-3009** | 15-16 | Prvé solo expedície. Učí sa lietať Itaku poriadne. Malé nálezy v ruinách, predáva v menších prístavoch. Naberá **Borga** (Ghorki medveď — nikto ho nechcel, ona ho vzala) |
+| **AY 3009-3010** | 16-17 | Prvý veľký nález — vrak starej Maki lode. Zarába dosť na opravu Itaky. Buduje meno v Raiju (východný prístav) |
+| **AY 3010-3011** | 17-18 | Naberá **Nixa** (Mezra králik, mechanik na dne). Itaka konečne funguje spoľahlivo. Začína mapovať Divočinu systematicky |
+| **AY 3010-3011** | 17-18 | Naberá **Flinta** (Mezra rys z Beladiss — strelec, nervózny, rýchly). Flint zavolá svojho najlepšieho priateľa **Arkota** (navigátor) — ten príde aj s **Yerou** (Pursang mačka z Nyau, utekajúci pred rodinou). Posádka kompletná. |
+| **AY 3011-3012** | 18-19 | Väčšie expedície, väčšie nálezy. Buduje sieť kontaktov v prístavoch. **Flint sa do Tami zamiluje.** Tami to skúsi — z osamelosti, z potreby zabudnúť na Maksa. Potom si to rozmyslí. *„Skúsila som a nedokážem."* Toto je rozbúška — Flint pomaly horkne. |
 | **~AY 3012** | ~19 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (**Fáza 1 — Seed/Semeno**). Malá dávka dormantných nanodronov. Tami nič necíti, nevie o tom. Efekty sú subtílne: nočné mory v cudzom jazyku, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi |
-| **~AY 3012** | ~19 | Trojica zatknutá v Shoravene krátko po návrate z expedície. **Flint zabitý pri zatýkaní** (tasil zbraň), telo verejne upálené ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Arkot mučený pre informácie, Yera oddelená do čistej cely (Mormiel si ju "skladuje" pre Rituál). Tami sa dozvedá s 3-mesačným oneskorením cez Nyau. Mormiel o Tami nevie. |
+| **~AY 3012** | ~19 | **Zrada.** Flint vymyslí plán — ukradnúť Anténu a predať ju v Šoravene v Shobors. Motivácia: odmietnutá láska k Tami, túžba po úniku. Presvedčí Arkota (najlepší priateľ z detstva), Yera nesúhlasí ale nasleduje Arkota. **Tami vie o zrade.** |
+| **~AY 3012** | ~19 | Trojica zatknutá Inkvizíciou v Šoravene. **Flint zabitý pri zatýkaní** (tasil zbraň), telo verejne vystavené ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Arkot mučený pre informácie, Yera oddelená do čistej cely (Mormiel si ju "skladuje" pre Rituál). **Anténa uložená do Mormielin falošnej krypty** — strážená dvoma majstrami Spiry. Tami sa dozvedá — a **napriek zrade príde ich zachrániť**. Sú jej rodina. |
 | **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maksom (podvedome ťahaná k nemu cez Echo Inetis) |
 | **AY 3013** | 20 | **Fáza 2 — Aktivácia:** Sera odomkne Artefakt v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — plné prebudenie. Schopnosti, spomienky, spojenie s Inetis |
 | **AY 3013** | 20 | **Fáza 3 — Zosilnenie:** Po Maksovej smrti sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis. Blízkosť Inetisiných pozostatkov zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film |
 | **Book 5** | ~20+ | **Fáza 4 — Kontakt s Core:** Tami vstúpi do Core (Ynetis) s Linksom a Elaniou. Esencia sa spojí s AI i_net_is — umelou inteligenciou uzamknutou v Core 3000+ rokov. AI odhalí pravdu o Uploade. Links prekladá. |
 
 ### Tami po odchode od Maksa (AY 3008-3013)
-- **Kariéra**: Hľadačka pokladov, pašeráčka, žoldnierka, pirátka
-- **Vzostup**: S Maxovým tréningom sa rýchlo dostala na vrchol pyramídy
+- **Kariéra**: Dobrodruhka, prieskumníčka, lovkyňa artefaktov — „Lara Croft Achillu"
+- **Vzostup**: S Maksovým tréningom a Felixovým dedičstvom sa rýchlo etablovala ako jedna z najlepších prieskumníčok na východe
 - **Loď**: Vlastní vzducholoď **Itaka** (trieda Makina, 4. kus).
     - **Pôvod**: Postavená Makmi pre jej otca. Pôvodne *Makina* („Malý Stroj") od Makov. Renn ju premenoval na *Itaku* — domov, ktorý celý život hľadal.
     - **Výzbroj**: Hlavný kanón je **"Felix"** — vzácny zásobníkový kanón od legendárneho európskeho Maka Felixa. Spira munícia = fialové záblesky.
@@ -57,8 +114,7 @@
     -   **Borg (Ghorki - Medveď)**: Hlavný strelec (Gunner) ovládajúci kanón "Felix". Obrovský, málomravný, slepo lojálny Tami.
     -   **Nix (Mezra - Usagi Varietas/Zajac)**: Hlavný mechanik. Cynický, depresívny, s jedným uchom a jazvou. Hľadá svoju stratenú dcéru. Tami ho najala v Raiju, keď bol na dne. Nadáva na loď, ale udržuje ju vo vzduchu.
     -   *Títo dvaja tvoria jej rodinu na oblohe.*
-- **Odmena**: Na jej hlavu je vypísaná obrovská suma
-- **Priatelia & Jaskyňa Počiatku**: Jej prvá posádka (Arkot, Yera, Flint) — hľadači pokladov. Tami našla starú mapu pri upratovaní Itaky — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Itaku). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr, keď už bola skúsená hľadačka pokladov. Podľa mapy viedla expedíciu do **Jaskyne Ela**. Tami bola fyzicky prítomná — dotkla sa pozostatkov Inetis a nevedome na ňu prešli „hladné" nanodrony (Echo Inetis). Našli aj stopy po Anténe. Po návrate boli v Shoravene zatknutí Inkvizíciou na rozkaz **Požehnanej Matky** (Mormiel). **Flint zabitý pri zatýkaní** — tasil zbraň, strážcovia ho zastrelili na mieste. Telo verejne upálené na námestí ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Mormiel chce presné koordináty jaskyne. Tami prežila, pretože **Mormiel o nej nevedela** — nebola oficiálne zaznamenaná ako člen expedície. Tami vie len, že Cirkev jej priateľov zatkla za „znesvätenie svätých relikvií" — skutočný dôvod nepozná
+- **Priatelia & Jaskyňa Ela**: Rozšírená posádka (Flint, Arkot, Yera) — Flint sa pridal prvý (strelec z Beladiss), zavolal Arkota (navigátor, jeho najlepší priateľ z detstva), Arkot priviedol Yeru (liečiteľka z Nyau, Pursang aristokratka, jeho tajná partnerka). Tami našla starú mapu pri upratovaní Itaky — mapu pôvodne kúpil jej otec Renn na čiernom trhu (stálo ho to život, piráti Vix a Kael ho kvôli nej zabili a ukradli Itaku). Mapa nikdy neopustila loď. Ako 7-ročná Tami nevedela, čo to je — rozlúštila ju až o roky neskôr. Podľa mapy viedla expedíciu do **Jaskyne Ela**. Tami sa dotkla pozostatkov Inetis → Echo prechádza na ňu (Fáza 1). Našli Anténu. **Po expedícii Flint, Arkot a Yera zradili Tami** — ukradli Anténu a pokúsili sa ju predať v Šoravene (Shobors). Flintova motivácia: odmietnutá láska k Tami (Tami to s ním skúsila, ale rozmyslela si to — rozbúška). Inkvizícia ich dolapila — **Flint zabitý** (tasil zbraň), telo vystavené. Arkot a Yera uväznení. Anténa v Mormielin falošnej krypte. **Tami vie o zrade, ale príde ich zachrániť — sú jej rodina.** Mormiel o Tami nevie.
 
 ### Kľúčový Moment: Stretnutie s Paladínmi (The Apes)
 
@@ -118,7 +174,7 @@
   - `GEN1-INET` — Inetisine Gen 1 v1.7 (wraith, spomienky, oči)
   - `UNKN-EC01` — **neznámy signál, aktívne vysiela smerom von**. Nie Gen 1, nie Gen 2. Echo i_net_is.
 - *„Máš v sebe tri veci. Dve viem pomenovať. Tretiu nie. A tá tretia... hovorí s niekým."*
-- **Anchor moment**: Links sa stáva nenahraditeľným — jediný človek, ktorý vidí čo sa s ňou deje. Bez neho je bláznivá pirátka s nočnými morami. S ním má diagnózu.
+- **Anchor moment**: Links sa stáva nenahraditeľným — jediný človek, ktorý vidí čo sa s ňou deje. Bez neho je bláznivá dobrodruhka s nočnými morami. S ním má diagnózu.
 
 **Vývoj:**
 - Tami si spočiatku myslí, že Links je len kid — zraniteľný, nervózny, nepraktický
@@ -134,7 +190,7 @@
 
 ### Štýl reči a myslenia
 
-**Mladá pirátka (20 rokov):**
+**Mladá dobrodruhka (20 rokov):**
 - Hovorí **rýchlo, priamo, bez filtru**
 - Nadávky, slang, ulica
 - *"Čo to, kurva, bolo?"*
@@ -160,7 +216,7 @@
 ```
 ❌ Filozofické úvahy (to je Maks/Kito)
 ❌ Vojenský žargón (to je Maks)
-❌ Formálna reč (je to pirátka, nie princezná)
+❌ Formálna reč (je to dobrodruhka, nie princezná)
 ```
 
 **Kontrast s Maksom:**

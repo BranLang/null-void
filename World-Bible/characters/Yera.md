@@ -3,12 +3,13 @@
 | | |
 |---|---|
 | **Status** | "Požehnaná" — väzenkyňa v čistej cele pod Chrámom, Shoraven (AY 3013) |
-| **Meno** | **Yera** |
+| **Plné meno** | **Yerana Saéli** |
+| **Používané meno** | **Yera** |
 | **Rasa** | Felis Varietas (mačka) |
 | **Kasta** | Pursang |
 | **Vek** | ~20 (AY 3013) — rovnako stará ako Tami, vyzerá veľmi mlado |
 | **Povolanie** | Spiristka, liečiteľka, bývalá členka posádky Itaky |
-| **Pôvod** | Nyau (východné pobrežie) |
+| **Pôvod** | Nyau (východné pobrežie) — klan Saéli, Pursang aristokracia |
 | **Partner** | Arkot (tajný vzťah — Pursang + Mezra, medzikastové tabu) |
 
 ---
@@ -48,17 +49,20 @@
 ## Backstory
 
 ### Pursang z Nyau
-- Šľachtický pôvod — rodina patrila medzi Pursang aristokraciu v Nyau. **Detaily neznáme** — Yera odmietla o tom hovoriť.
-- Utiekla z Nyau — dôvody nepovedala. Pridala sa k Tami na Itake ako liečiteľka (~AY 3008).
-- Prišla s kvalitným vybavením (kožený kabát s kožušinou, jemné pazúry udržiavané) — zjavne nie z chudoby.
+- Šľachtický pôvod — dedička **klanu Saéli**, najvplyvnejšej Pursang rodiny v Nyau. **Detaily neznáme** pre väčšinu posádky — Yera odmietla o tom hovoriť.
+- Mala ~3 zimy (17 rokov) a tri zimy od prvej služby v Chráme El, keď stretla Arkota.
+- **Prvé stretnutie** — počas **Lampionového festivalu** v Nyau. Yera sa po hádke s otcom (o dohodnutom zväzku s klanom Mireth) túlala ulicami sama. Arkot — trochu opitý Mezra leopard z Diss — sa jej prihovoril a vzal ju na strechu skladiska pri prístave. Pozerali hviezdy, on spieval piesne z Beladiss. Ponúkol ju alkoholom, chytil ju za ruku — nič sa nestalo, Yera sa zľakla a utiekla domov. Ale nasledujúce dni nemohla spať — myslela na jeho oči, na jeho hlas. Na šiesty deň ho išla hľadať do prístavu.
+- **Zakázaná láska** — Pursang + Mezra = medzikastové tabu. Tajné stretnutia v bioluminescentných záhradách. Flint kryl. Klan Saéli sa dozvedel → škandál → ultimátum.
+- **Utiekla z Nyau s Arkotom a Flintom** — zanechala rodinu, privilégiá, všetko. Skončili na palube Itaky (~AY 3011).
+- Prišla s kvalitným vybavením (kožený kabát s kožušinou — dar od mŕtvej starej matky, jemné pazúry udržiavané) — dedičstvo z aristokratického života.
 - Najsilnejšia Spiristka v posádke — vodná Spira, hojenie rán, diagnostika. Príliš silná na to, aby bola "len dcéra z nižšej šľachty."
 - **Čo posádka vie**: Pursang. Nyau. Liečiteľka. Nič viac.
-- **Čo posádka tuší**: Niečo sa stalo. Niečo, prečo krásna Pursang mačka z bohatej rodiny žije na pirátskej lodi a odmietne hovoriť o domove.
+- **Čo posádka tuší**: Niečo sa stalo. Niečo, prečo krásna Pursang mačka z bohatej rodiny žije na dobrodruhynej lodi a odmietne hovoriť o domove.
 
 ### Vzťah s Arkotom
-- Zamilovali sa na Itake — pomaly, tíško, v tajnosti
-- Pursang + Mezra = tabu. Keby sa to dozvedeli rodiny, bol by škandál.
-- Nikdy to nepriznali nahlas — ale posádka vedela. Tami vedela.
+- Zamilovali sa **v Nyau** — Arkot prišiel z Beladiss s Flintom hľadať prácu. Stretli sa počas Lampionového festivalu. Iskra — ale nie okamžitá. Yera utiekla domov. Nemohla spať celé dni. Vrátila sa.
+- Pursang + Mezra = tabu. Tajné stretnutia v bioluminescentných záhradách. Yerina rodina sa dozvedela → škandál → ultimátum → útek.
+- Na Itake už boli pár — ale nikdy to nepriznali nahlas. Posádka vedela. Tami vedela.
 - Arkot ju chránil fyzicky. Ona ho liečila. Symetria.
 - Arkot je jediný, komu Yera povedala *niečo* o Nyau. Nie všetko. Ale viac než komukoľvek inému.
 
@@ -91,8 +95,10 @@
 - Yera obdivovala Tami — pirátka, slobodná, silná. Pre Yeru bola Tami vzor toho, čím chcela byť.
 - Yera je krehkejšia — nie slabšia, len mäkšia. Cíti hlbšie, myslí pomalšie, ale presnejšie.
 
-### Flint (mŕtvy kamarát)
-- Flint bol pre Yeru ako otravný brat — hádali sa, ale chránili sa
+### Flint (mŕtvy)
+- Flint bol Arkotov najlepší priateľ od detstva (Beladiss). Prišiel na Itaku prvý — zavolal Arkota neskôr.
+- Pre Yeru bol ako otravný starší brat — hádali sa, ale chránili sa
+- **Flintov plán** — Yera vedela, že krádež Antény je zrada. Nesúhlasila. Ale šla za Arkotom. Jej najväčšia vina.
 - Jeho smrť ju zmenila — zatvrdla. Neplače. Už nie.
 
 ### Mormiel (neznáma hrozba)
