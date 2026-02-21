@@ -134,8 +134,6 @@ Pri slove *Stvoriteľka* Pursang prestal dýchať.
 
 ---
 
-## Časť III: Spáč
-
 Maks pristúpil bližšie, ignorujúc telekinetický tlak, ktorý Kito podvedome vyžaroval.
 
 Potom sa naklonil bližšie a prešiel do jazyka, ktorý v tejto miestnosti — a možno na celom tomto kontinente — nezaznel v živej konverzácii už storočia.
@@ -274,8 +272,6 @@ Vybehli z bytu do noci, ktorá sa práve menila na peklo.
 
 ---
 
-## Časť IV: Peklo
-
 Ulica bola jeden veľký chaos. Tma sa zmenila na stroboskopickú diskotéku výbuchov a svetlíc. Ľudia — Varietas všetkých tvarov a veľkostí — sa valili ulicou ako splašené stádo. Matky tlačili vozíky s deťmi cez hromady odpadkov, obchodníci zamykali okenice, ktoré o sekundu neskôr vyrazila tlaková vlna.
 
 Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali — niečo okolo neho ich odstrkávalo, niečo neviditeľné a staré, znásobené váhou trasúceho sa Kita prehodeného cez rameno. [→ 03a-nanotechnology.md: Gen 1 — pasívne kinetické pole, pradávna nanotechnológia]
@@ -335,8 +331,6 @@ Dopadli do bahna a splaškov práve v momente, keď granát dopadol na ulicu nad
 Výbuch zatriasol svetom. Oheň olízol okraj šachty, ale nedostal sa dnu. Tlaková vlna im zaľahla v ušiach. A potom tma.
 
 ---
-
-## Časť V: Starí duchovia
 
 Ticho.
 

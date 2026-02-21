@@ -1,8 +1,6 @@
 # Kapitola 3: Pod mestom
 
 
-## Časť I: Žily mesta
-
 > *Voda bola čierna. Tunely dýchali.*
 
 ---
@@ -94,8 +92,6 @@ Maks skontroloval zásobníky. Dva plné, jeden poloplný. Nôž na opasku. Na n
 „Poďme."
 
 ---
-
-## Časť II: Zóna Tlaku
 
 Tunel sa rozšíril do obrovskej komory.
 
@@ -200,8 +196,6 @@ Kito pomaly vstal. V jeho očiach, za prasknutými sklami mokrých okuliarov, u�
 
 ---
 
-## Časť III: Pasca
-
 Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Blížili sa k základom Chrámu — päťsto metrov, štyristo, tristo — [→ 03a-nanotechnology.md: Maks počíta vzdialenosť cez pasívny sken]
 
 Maks zastal. Zdvihol päsť. *Stoj.*
@@ -283,8 +277,6 @@ Dôstojník to videl. Vlčie uši sa mu stiahli k lebke. Ruka klesla. Prehltol.
 Prsty na spúšťach sa napli. [NOTE: Dôstojník sa pokúsil vyjednávať — preferoval riešenie bez strát. Keď Maks odmietol vydať Tami, nezostáva nič. Rozkaz je rozkaz. Ale jeho „aj Exorcista je z mäsa" je sebapresvedčovanie — sám tomu neverí.]
 
 ---
-
-## Časť IV: Sila [→ planning/01-prach-nevriss.md: Fáza 4 — Rau a Kira, Paladíni z Juhu]
 
 Maks zavrel oči.
 
@@ -439,8 +431,6 @@ Maks stál v tme. Úplnej. Za ním zával. Pred ním — nič, čo by videli ľu
 „Pohyb," povedal do tmy. A vykročil smerom k bráne. [NOTE: Maks nasleduje Paladínov — bridge do Ch4, kde ich stopuje k bráne.]
 
 ---
-
-## Časť V: Kobky
 
 Ventilačná šachta bola úzka ako hrob a smrdela rovnako.
 

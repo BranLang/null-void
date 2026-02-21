@@ -376,7 +376,6 @@ Usmievala sa. Bol to úsmev, ktorý jej nezasiahol oči. Tie ostali chladné ako
 
 ---
 
-## Časť III: Krčma na konci sveta
 [→ planning/peaceful-squishing-glacier.md: Zmena B — Vlk v krčme, nová scéna] [→ characters/Vlk.md: Ghorki zradca, poznal Renna] [→ concepts/tami-blind-maiden-pub.md: Mezra seed — "Rennovo mláďa"]
 
 Krčma bola presne taká, akú očakávala od mesta v obkľúčení. Preplnená, dymová, hlučná. Vojaci, žoldnieri, pašeráci a zúfalci — všetci na jednom mieste, oddelení len hrúbkou stola. Vzduch smrdel pivom z kukuričného sladu, potom a mokrou srsťou. [→ 05-geography.md: Šoraven, pivná kultúra] [→ 06-society.md: krčmy ako informačné uzly]

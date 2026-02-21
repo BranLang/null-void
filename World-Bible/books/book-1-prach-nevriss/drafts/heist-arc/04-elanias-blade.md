@@ -1,6 +1,5 @@
 # Kapitola 4: Elaniina Čepeľ
 
-## Prológ: Tieň
 
 Tami bežala.
 
@@ -180,7 +179,6 @@ Ale Maks bol sám.
 
 ---
 
-## Časť I: Hlbina
 
 Maks ich stopoval do hlbiny.
 
@@ -352,7 +350,6 @@ Maks skenoval priestor — automaticky, reflexívne. Teplota. Pohyb vzduchu. Vib
 
 ---
 
-## Časť II: Čepeľ
 
 Tieň vedľa piliera sa pohol.
 
@@ -416,7 +413,6 @@ Skontrolovali zbrane. Vykročili k čiernej bráne.
 
 ---
 
-## Časť III: Brána Básne
 
 Paladíni stáli pred čiernou bránou. Frustrácia.
 
@@ -600,7 +596,6 @@ Sera vykročila cez bránu. Maks, Tami a Kito za ňou.
 
 ---
 
-## Časť IV: Artefakt
 
 Za čiernou bránou sa krypta skončila.
 
@@ -746,7 +741,6 @@ Definitívne.
 
 ---
 
-## Časť V: Inetis
 
 Svätyňa ostala tichá. Len jemné bzučanie artefaktu v Taminých rukách rušilo ticho.
 
@@ -920,7 +914,6 @@ Panika sa valila ulicami. Strážcovia opúšťali pozície. Civilisti utekali k
 
 ---
 
-## Časť VI: Prvá stopa
 
 Schodisko sa skončilo sutinou. Strop nad nimi sa zrútil — kamene, trámy, kusy dlažby z námestia. Chrám, čo stál nad nimi, teraz ležal v nich. Maks nahmatal bočnú škáru v stene — ventilačnú šachtu, úzku, ale dosť širokú na jedno telo. Vytlačil Tami hore. Potom Kita. Potom sám.
 
