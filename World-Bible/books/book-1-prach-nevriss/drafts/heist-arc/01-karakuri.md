@@ -506,13 +506,13 @@ Muž s jazvou spravil krok dozadu, palcát mu pomaly klesal k stehnu. Jeho kump�
 
 O päť sekúnd bola ulička prázdna. Odkrajoval ich len šedý sneh.
 
-Tami pustila štít. Zlaté svetlo zhaslo rovnako náhle, ako vzniklo. Chlad v prstoch sa rozlial do celej ľavej ruky. Zanadávala po japonsky a pošúchala si predlaktie. Nadel vrátila do pošvy rýchlym, čistým pohybom.
+Tami pustila štít. Zlaté svetlo zhaslo rovnako náhle, ako vzniklo. Chlad v prstoch sa rozlial do celej ľavej ruky. Zanadávala a a pošúchala si predlaktie. Nadel vrátila do pošvy rýchlym, čistým pohybom.
 
 Maks k nej prišiel. Zastal len meter od nej.
 
 „Zlý inštinkt," poznamenal neutrálnym hlasom.
 
-Tami naňho zazrela. „Mal pištoľ upravenú na tej skurvenej kuši. Nečakala som to."
+Tami naňho zazrela. „Mal pištoľ na tej skurvenej kuši. Nečakala som to."
 
 „Viem."
 
@@ -542,9 +542,9 @@ Maks sa ozval prvýkrát od príchodu vlka. Hlas pokojný. Vecný. Akoby komento
 
 V diaľke — na severe, za priesmykmi Atra, kde sa šedá obloha miešala s dymom — zadunel výbuch. Nie osamotený, nie náhodný. Séria. Rytmická. Ťažká. Dunenie, ktoré cítiš v kostiach skôr, než ho počuješ ušami.
 
-Artileria. [→ 06-society.md: Graw vs Nevriss konflikt, obliehanie]
+Artiléria. [→ 06-society.md: Graw vs Nevriss konflikt, obliehanie]
 
-Nie prieskumný ostreľovanie, aké mesto počúvalo posledné dni. Toto bola príprava. Prípravná paľba pred útokom.
+Nie náhodné ostreľovanie, aké mesto počúvalo posledné dni. Toto bola príprava. Prípravná paľba pred útokom.
 
 Vlk nastražil uši smerom k severu. Aj on to vedel. Zviera na ulici rozumie duneniu lepšie než generál za stolom.
 

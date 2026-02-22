@@ -345,6 +345,14 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 >
 > **Maksov Interface:** Maks (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
 
+#### 3. Nyau (Východ) — Cirkev El
+**"El je svetlo. El je cesta. El sa vráti."**
+- **Teológia:** Uctievajú **El** (Dcéru Matky) ako primárne božstvo. Matka ustúpila do pozadia — *„Matka odišla. Zostala len Dcéra. Zostalo len svetlo."*
+- **Pôvod:** Elania (~AY 850-900) prešla východným pobrežím, hľadajúc matku. Pomohla osadníkom, odmietla mäso, hovorila o ukončení utrpenia. Legendy o „žene zo svetla" sa stali ľudovou vierou → po Veľkej Potope (~AY 1500) sa formalizovali do Cirkvi El.
+- **Nanebovstúpenie:** Veria, že El sa vráti a vezme všetky duše k sebe — koniec biologického utrpenia. V podstate presne popisujú Veľký Upload.
+- **Zákaz mäsa:** El nenávidí prolitie krvi. Zabiť zviera = hriech proti svetlu. Hmyz je výnimka.
+- **Irónia:** Cirkev El je **najsprávnejšie náboženstvo na Terre** — a práve preto najhroznejšie. Majú pravdu takmer vo všetkom. [→ regions/nyau.md: Cirkev El — detailná sekcia]
+
 ### Kult Nesmrteľného Gronda (Sever - Graw)
 
 | | |

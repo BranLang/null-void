@@ -97,7 +97,7 @@ A potom z tej tmy vykročila žena.
 
 Vysoká. *Príliš* vysoká — akosi neprirodzene symetrická, ako socha, nie osoba. Čierne vlasy zviazané dozadu. Tvár — krásna, ale nesprávne. Dokonalá. Žiadna vráska, žiadna asymetria, žiadna známka toho, že ten tvar bol niekedy *živý*. A oči — čierne. Hlboké. Oči, čo vyzerali ako studne, do ktorých sa hodili stáročia a nikdy sa neozval dopad.
 
-![Sera](../../../../assets/books/book-1/chapter-4-sera.jpeg)
+![Sera](../../../../assets/characters/sera/Sera-lore-accurate2.png)
 
 Tma na jej koži — nie šaty, nie pancier — sa stiahla. Rozplynula. Ako keby sa tieň rozhodol pustiť, čo držal. [NOTE: Čierny Prach kamufláž — Sera ho používa na optický stealth. Tami vidí len „tmu, čo sa stiahla" — nechápe mechanizmus. Pre Tami je to mágia.]
 
@@ -216,6 +216,8 @@ Maks vykročil za nimi. Ticho. Modré svetlo húb mu stačilo — nepotreboval n
 
 ---
 
+![Kamenná brána](../../../../assets/books/book-1/chapter-4-gate.jpeg)
+
 Záblesk.
 
 Ďaleko pred ním — pri konci chodníka, kde sa jaskyňa zužovala do skalnej steny — sa rozsvietilo niečo žlté. Ostré. Geometrické. *Pentagramy.* Zlaté línie v tme, rotujúce prstence Spiry — a proti nim modré záblesky Paladínskych štítov.
@@ -282,7 +284,7 @@ Na konci chodníka stála brána.
 
 Kamenná. Masívna. Výška troch mužov, šírka piatich — monolitný blok žuly zasadený do skalnej steny, akoby niekto vyrezal kus hory a vsadil doň dvere. Na povrchu boli vytesané znaky. Riadky modlitieb, jedna vedľa druhej, od vrchu po spodok. Medzi nimi výjavy — postavy, scény, príbehy vytesané do kameňa s precíznosťou, čo pripomínala egyptské chrámy alebo antické friézy. Ženy v rúchach. Rituály. Tvár, čo sa opakovala — stará, prísna, so závojom cez oči. Požehnaná Matka. [NOTE: Kamenná brána = hrobka Mormiel, Požehnanej Matky — Hlasu Inetis, zakladateľky Kultu Vševedúcej Matky. Haiku modlitby za ňu. Reliéfy zobrazujú jej život — ale Maks to nepozná, netuší kto je na reliéfoch. Pre čitateľa na 5. re-read: medzi výjavmi je príbeh, ako sa Mormiel stala Hlasom Inetis po tom, čo ju opustil jej muž (Renn). Easter egg.] [→ 06-society.md: Kult Matky, Mormiel — Požehnaná Matka]
 
-![Kamenná brána](../../../../assets/books/book-1/chapter-4-gate.jpeg)
+
 
 Maks ich nepoznal. Nie jazyk — ten bol japonský, to vedel. Ale kombinácie. Poriadok slov. *Iná syntax, než akú učila Neta.*
 

@@ -151,7 +151,7 @@ Maks sa uhol za pilier. Oheň preletel okolo neho, zasiahol turbínu. Kov zavrč
 
 Kompresná para — natlakovaná storočia hlboko v útrobách potrubí — prerazila von s revom, ktorý prehlušil aj delostrelectvo na povrchu. Oblak vriaceho bieleho plynu zalial polovicu komory. Kito zatiahol ruky nad tvár a odvrátil sa od horúčavy.
 
-![Spira Experiments](../../../../assets/books/book-1/chapter-3-experiments.png)
+<!-- ![Spira Experiments](../../../../assets/books/book-1/chapter-3-experiments.png) -->
 
 Medveďovi s piatimi očami to zasiahlo pravú stranu. Mäkké stonky očí zasyčali, kryštály popraskali tepelným šokom. Monštrum zaryčalo a začalo bezcieľne udierať labami do pary.
 
