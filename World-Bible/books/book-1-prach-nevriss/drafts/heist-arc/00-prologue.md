@@ -2,7 +2,7 @@
 ![World](../../../../assets/maps/map-achilles.jpeg)
 
 <div class="epigraph">
-<p>„Raz za existenciu sa tvoja myseľ dotkne hviezd. Trvá to nádych. Potom je to preč — a v dlani ti zostane zrnko.<br/>Zasaď ho."</p>
+<p>„Raz — možno dvakrát za celú existenciu — padnú všetky múry a tvoja myseľ sa dotkne hviezd. Žiadny strach. Žiadna bolesť. Len absolútny zmysel. A potom — v jedinom nádychu — je to preč. V prachu ti zostane iskra. Rozdúchaj ju."</p>
 <p class="epigraph-author">Kniha El, 3:11</p>
 </div>
 
