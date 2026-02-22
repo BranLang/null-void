@@ -115,6 +115,8 @@ p {
   text-indent: 1.5em;
   orphans: 3;
   widows: 3;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 /* No indent after headings, breaks, or blockquotes */
