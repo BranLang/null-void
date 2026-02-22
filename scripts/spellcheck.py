@@ -65,34 +65,157 @@ WHITELIST = {
     "maks", "kaito", "elania", "yera", "tami", "otami",
     "spira", "varietas", "archanjel", "archanjeli",
     "wraith", "wraithy",
+    "sera", "kito", "maya", "borg", "nix", "renn", "dren",
+    "yara", "arkot", "flint", "rau", "vlk", "felix",
+    "mako", "maki", "inetis", "fuji",
     # Places
     "nevriss", "nyau", "karakuri", "airen",
-    "šoraven", "atra",
-    # Factions / groups
-    "grawská", "grawský", "grawskej", "graw",
+    "šoraven", "atra", "kitsune", "hangraval", "beladiss",
+    "šobors", "grond", "ciferník",
+    # Factions / groups / peoples
+    "grawská", "grawský", "grawskej", "graw", "grawčania", "grawského",
+    "pursang", "ghorki", "mezra", "varietas",
+    "líšky", "líška", "líščí", "líščieho", "líščich", "líščím",
+    "usagi",
+    # Ships / objects
+    "itaka", "itake", "itaku", "itaky", "nadel", "nadelom", "nadlu", "nadla", "nadelu", "felix",
+    "hephaestus",
     # Tech / magic
     "nanoboty", "nanobot", "nanobotov", "nanobotmi",
     "gen", "exorcizmus", "korditu", "korditom", "kordit",
+    "biodiesel", "biodeslový", "biodieslový", "biodieslovým",
+    "spiru", "spirou", "spiry",
+    "exorcista", "exorcistu", "exorcisti", "exorcistom", "exorcistu",
+    "paladín", "paladíni", "paladínov", "paladínoch", "paladínoch", "paladínoch",
+    "paladínsky", "paladínskych", "paladínskymi",
+    "pentagram", "pentagramu", "pentagramy", "pentagramami", "pentagramom",
+    "telekinéza", "telekinézy", "telekinézu", "telekinetický", "telekinetické", "telekinetická", "telekinetickým", "telekinetickú",
+    "telekineticky",
+    "staroreč", "staroreči",
+    "vibrovlna", "vibrovlnu", "vibrovlny", "vibrovlnú", "vibro-oceľ", "vibro-sekera", "vibro-sekery",
+    "vibrofrekvencia",
+    "atómovka",
+    "biodieselový",
+    "zglitchovaná",
+    # Characters (additional forms)
+    "maksa", "maksovi", "maksov", "maksovými", "maksovej", "maksovho", "maksovou",
+    "maksovu", "maksovú", "maksová", "maxsov",
+    "borga",
+    "kita", "kito", "kitov", "kitova", "kitovo", "kitovej",
+    "kitovi", "kitové",
+    "mayu", "mayi", "mayina", "mayinej", "mayine",
+    "vlkovo", "vlkova",
+    "rennom", "rennovi", "rennovo", "rennsdóttir",
+    "tamine", "tamino", "taminho", "taminej", "taminých", "taminý", "taminým", "tamiho", "taminom",
+    "kira", "kiru", "kiry", "kirej", "kire", "kirinom", "kirina", "kirinej",
+    "raua", "rauovi", "rauova", "rauovho", "rauovom", "rauovu", "rauovú",
+    "sere", "serin", "seru", "serou",
+    "elánie", "elanii", "elaniina", "elaniiného",
+    "mormiel", "mormielina",
+    "goro", "gorom", "gorovi", "gorov", "gorovo", "gorového", "gorové", "gorovom",
+    "zaya", "zayu", "zayi", "zayine", "zayinej",
+    "ištar",
+    "pursanga", "pursangom", "pursangský",
+    "neuropa", "neuropy",
+    "apes",
+    "neta",
+    # Places (additional forms)
+    "šoravene", "šoravenu", "šoravenom", "šoraveni",
+    "šoravena",
+    "nevrisse", "nevrisskej", "nevrissský",
+    # Factions / additional forms
+    "grawské", "grawských", "grawskými", "grawskému",
+    "ghorkiho", "ghorkiovia",
+    "mezry", "mezru",
+    "stvoriteľka", "stvoriteľky", "stvoriteľkou", "stvoriteľke",
+    "vševedúcej",
+    # Section headers / English
+    "confrontation", "outro", "world",
     # Religion / culture
-    "vševedúcej", "vševedúca", "kňažiek", "kňažien",
-    # Japanese elements
+    "vševedúca", "kňažiek", "kňažien",
+    "kňažky", "kňažka",
+    # Japanese elements / words
     "kaze", "mizu", "teru", "tsuchi",
+    "gomen", "kudasai", "shitsurei", "shimasu", "hajimemashite",
+    "yoroshiku", "onegai", "arigatō", "gozaimashita", "sama",
+    "karakuri", "tatami", "genkan", "genkane", "genkanu", "mayoigo", "kowai",
+    "hiragana", "hiraganou", "haiku", "kawaii",
+    "yari", "yaru",
+    "karakuri-sama", "sera-sama", "tobira", "michibiku", "terashite",
     # Other world terms
     "dieselpunk", "grimdark", "kotvísk",
-    # Slovak variants the API doesn't know
-    "etanolovým", "zahryzú", "nakládači", "kotviacimi",
+    "aeronaut", "aeronautovi", "aeronautky",
+    "quadrupedálny",
+    "kávovára", "kávovára",
+    "náprsník", "náprsníkoch",
+    # Slovak words the API flags incorrectly
+    "etanolovým", "etanolový", "etanolovom",
+    "zahryzú", "nakládači", "kotviacimi",
+    "verbovací", "verbovacích", "verbovacieho",
+    "mečiari", "mečiarov",
+    "dobrodruzi", "dobrodružná",
+    "zopäté", "zopätých",
+    "pramenmi",
+    "vreštali", "vrešťali",
+    "nesmálo",
+    "vžuuuum", "boooom",
+    "rapier", "rapierom", "rapiera",
+    "rapír",
+    "sai",
+    "svätožiarový",
+    "dvadsaťhodinový", "dvadsaťhodinového", "dvadsaťhodinového",
+    "červenokabátnikov", "červenokabátnici",
+    "pyžamáči",
+    "mačkáč",
+    "korbľom",
+    "zachrastila",
+    "zelenohnedá",
+    "prečerpávačku",
+    "atómovka", "katatonického",
+    "naživu",
+    "nasledovníčok",
+    "autodeštrukcii",
+    "infrazvukový",
+    "snovitý",
+    "hologram", "hologramu",
+    "vizorom", "vizormi", "vizierou",
 }
 
 # Error type → friendly label
 TYPE_LABELS = {
-    "misspelling": "PRAVOPIS",
-    "grammar":     "GRAMATIKA",
-    "style":       "ŠTÝL",
-    "other":       "INÉ",
-    "hint":        "TIP",
+    "misspelling":   "PRAVOPIS",
+    "grammar":       "GRAMATIKA",
+    "style":         "ŠTÝL",
+    "other":         "INÉ",
+    "hint":          "TIP",
     "typographical": "TYPOGRAFIA",
     "uncategorized": "INÉ",
 }
+
+# User-facing filter aliases → actual issueType values
+# Allows: --only-types INE  or  --only-types PRAVOPIS
+FILTER_ALIASES = {
+    "pravopis":    {"misspelling"},
+    "gramatika":   {"grammar"},
+    "styl":        {"style"},
+    "ine":         {"other", "uncategorized", "hint"},
+    "typografia":  {"typographical"},
+    "other":       {"other", "uncategorized"},
+    "grammar":     {"grammar"},
+    "misspelling": {"misspelling"},
+    "style":       {"style"},
+    "typographical": {"typographical"},
+    "uncategorized": {"uncategorized"},
+}
+
+
+def resolve_type_filter(type_args: list[str]) -> set[str]:
+    """Expand user-facing type labels to actual API issueType values."""
+    resolved = set()
+    for t in type_args:
+        key = t.lower()
+        resolved |= FILTER_ALIASES.get(key, {key})
+    return resolved
 
 
 def strip_comments(text: str) -> str:
@@ -271,8 +394,8 @@ def main():
     if args.add_whitelist:
         WHITELIST.update(w.lower() for w in args.add_whitelist)
 
-    filter_types = set(t.lower() for t in args.ignore_types) if args.ignore_types else None
-    only_types = set(t.lower() for t in args.only_types) if args.only_types else None
+    filter_types = resolve_type_filter(args.ignore_types) if args.ignore_types else None
+    only_types = resolve_type_filter(args.only_types) if args.only_types else None
 
     # Determine files to check
     if args.files:
