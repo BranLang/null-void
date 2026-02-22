@@ -361,9 +361,9 @@ def build_map_markdown(books_dir: Path) -> str:
 
 def build_terra_map_markdown(books_dir: Path) -> str:
     """Build markdown for the Terra continent map page (full bleed)."""
-    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-terra.jpg').resolve()
+    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-terra.png').resolve()
     if not map_path.exists():
-        print("  Warning: map-terra.jpg not found, skipping Terra map")
+        print("  Warning: map-terra.png not found, skipping Terra map")
         return ''
     map_b64 = img_to_base64_uri(map_path)
     print(f"  Map: {map_path.name}")
