@@ -457,7 +457,9 @@ Okrem generácií v1.0–v2.0 existuje ešte jedna anomálna kategória, ktorá 
 
 ### Anténa
 
-- Glitchnutý artefakt z lode NULL VOID
+- **Špeciálne vyrobené zariadenie Inetis** — custom konfigurácia a implementácia, nie artefakt z lode
+- Univerzálny pracovný nástroj — kovová palica (~1.5 m), sorcerer staff na riadenie veľkých rojov nanobotov
+- Pomocou Antény Inetis postavila celé Elysium a teraformovala planétu
 - Obsahuje **Merge esenciu Inetis** — nanoboty neopustili hostiteľku pasívne, aktívne vsiakli do Antény
 - Anténa = úložisko Inetisinej esencie (nie len pasívny objekt)
 - Trigger pre maxPower transformáciu (Maks + Anténa kontakt)

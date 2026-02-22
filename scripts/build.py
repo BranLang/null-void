@@ -169,6 +169,83 @@ img {
   margin: 1.5em auto;
   page-break-inside: avoid;
 }
+
+"""
+
+# CSS for epigraph page (A5, centered, no page numbers)
+EPIGRAPH_CSS = """
+@page {
+  size: A5;
+  margin: 25mm 22mm;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.epigraph {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  text-align: center;
+  font-family: 'Garamond', 'Georgia', serif;
+}
+
+.epigraph p {
+  font-style: italic;
+  font-size: 10pt;
+  line-height: 1.9;
+  max-width: 28em;
+  color: #1a1a1a;
+}
+
+.epigraph .epigraph-author {
+  margin-top: 1.5em;
+  font-style: normal;
+  letter-spacing: 3px;
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  color: #555;
+}
+"""
+
+# CSS for Terra map page (A5 landscape, full bleed)
+TERRA_MAP_CSS = """
+@page {
+  size: A5 landscape;
+  margin: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.cover-page {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.cover-page img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
 """
 
 # CSS for cover page (full bleed, zero margins)
@@ -221,6 +298,20 @@ pdf_options:
 
 """
 
+# md-to-pdf front-matter for epigraph page (margins, no header/footer)
+EPIGRAPH_MD_CONFIG = """---
+pdf_options:
+  format: A5
+  margin:
+    top: 25mm
+    bottom: 25mm
+    left: 22mm
+    right: 22mm
+  displayHeaderFooter: false
+---
+
+"""
+
 # md-to-pdf front-matter for cover (zero margins, no header/footer)
 COVER_MD_CONFIG = """---
 pdf_options:
@@ -264,6 +355,27 @@ def build_map_markdown(books_dir: Path) -> str:
     map_b64 = img_to_base64_uri(map_path)
     print(f"  Map: {map_path.name}")
     return f'<div class="cover-page">\n<img src="{map_b64}" />\n</div>\n'
+
+
+def build_terra_map_markdown(books_dir: Path) -> str:
+    """Build markdown for the Terra continent map page (full bleed)."""
+    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-terra.jpg').resolve()
+    if not map_path.exists():
+        print("  Warning: map-terra.jpg not found, skipping Terra map")
+        return ''
+    map_b64 = img_to_base64_uri(map_path)
+    print(f"  Map: {map_path.name}")
+    return f'<div class="cover-page">\n<img src="{map_b64}" />\n</div>\n'
+
+
+def extract_epigraph_markdown(content: str) -> tuple[str, str]:
+    """Extract epigraph div from content. Returns (epigraph_html, content_without_epigraph)."""
+    match = re.search(r'<div class="epigraph">.*?</div>\s*', content, re.DOTALL)
+    if match:
+        epigraph = match.group(0)
+        content_clean = content[:match.start()] + content[match.end():]
+        return epigraph, content_clean
+    return '', content
 
 
 def build_content_markdown(book_name: str, books_dir: Path) -> str:
@@ -374,10 +486,16 @@ def main():
 
     print(f"Building book: {args.book}\n")
 
-    # Build cover, map, and content markdown separately
+    # Build cover, maps, and content markdown separately
     cover_md = build_cover_markdown(books_dir)
     map_md = build_map_markdown(books_dir)
+    terra_map_md = build_terra_map_markdown(books_dir)
     content_md = build_content_markdown(args.book, books_dir)
+
+    # Extract epigraph from content (built as separate page without page numbers)
+    epigraph_md, content_md = extract_epigraph_markdown(content_md)
+    if epigraph_md:
+        print("  Epigraph extracted (separate page)")
 
     # Write merged content markdown (for reference/--no-pdf)
     content_with_config = CONTENT_MD_CONFIG + content_md
@@ -390,6 +508,10 @@ def main():
     content_css_path.write_text(CONTENT_CSS, encoding='utf-8')
     cover_css_path = export_dir / 'cover-style.css'
     cover_css_path.write_text(COVER_CSS, encoding='utf-8')
+    terra_map_css_path = export_dir / 'terra-map-style.css'
+    terra_map_css_path.write_text(TERRA_MAP_CSS, encoding='utf-8')
+    epigraph_css_path = export_dir / 'epigraph-style.css'
+    epigraph_css_path.write_text(EPIGRAPH_CSS, encoding='utf-8')
 
     if args.no_pdf:
         print("Skipping PDF generation (--no-pdf)")
@@ -405,10 +527,24 @@ def main():
         cover_pdf = run_md_to_pdf(cover_md_path, cover_css_path)
 
         # Generate map PDF (zero margins, full bleed)
-        print("Generating map PDF...")
+        print("Generating Achilles map PDF...")
         map_md_path = export_dir / '_map.md'
         map_md_path.write_text(COVER_MD_CONFIG + map_md, encoding='utf-8')
         map_pdf = run_md_to_pdf(map_md_path, cover_css_path)
+
+        # Generate Terra map PDF (landscape A5, full bleed)
+        print("Generating Terra map PDF (landscape)...")
+        terra_map_md_path = export_dir / '_terra-map.md'
+        terra_map_md_path.write_text(COVER_MD_CONFIG + terra_map_md, encoding='utf-8')
+        terra_map_pdf = run_md_to_pdf(terra_map_md_path, terra_map_css_path)
+
+        # Generate epigraph PDF (no page numbers)
+        epigraph_pdf = None
+        if epigraph_md:
+            print("Generating epigraph PDF...")
+            epigraph_md_path = export_dir / '_epigraph.md'
+            epigraph_md_path.write_text(EPIGRAPH_MD_CONFIG + epigraph_md, encoding='utf-8')
+            epigraph_pdf = run_md_to_pdf(epigraph_md_path, epigraph_css_path)
 
         # Generate content PDF (normal margins + page numbers)
         print("Generating content PDF...")
@@ -416,18 +552,26 @@ def main():
         content_md_path.write_text(content_with_config, encoding='utf-8')
         content_pdf = run_md_to_pdf(content_md_path, content_css_path)
 
-        # Merge: cover + map + content
+        # Merge: cover + achilles map + terra map + [epigraph] + content
         print("Merging PDFs...")
         merger = PyPDF2.PdfMerger()
         merger.append(str(cover_pdf))
         merger.append(str(map_pdf))
+        merger.append(str(terra_map_pdf))
+        if epigraph_pdf:
+            merger.append(str(epigraph_pdf))
         merger.append(str(content_pdf))
         merger.write(str(pdf_output))
         merger.close()
 
         # Clean up temp files
-        for f in [cover_md_path, cover_pdf, map_md_path, map_pdf,
-                   content_md_path, content_pdf, cover_css_path]:
+        temp_files = [cover_md_path, cover_pdf, map_md_path, map_pdf,
+                      terra_map_md_path, terra_map_pdf,
+                      content_md_path, content_pdf,
+                      cover_css_path, terra_map_css_path, epigraph_css_path]
+        if epigraph_pdf:
+            temp_files.extend([epigraph_md_path, epigraph_pdf])
+        for f in temp_files:
             f.unlink(missing_ok=True)
 
         print(f"\nDone! PDF: {pdf_output}")

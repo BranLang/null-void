@@ -33,6 +33,8 @@ Vlk sa zrazu zastavil. Jeho uši, doteraz stiahnuté dozadu, sa napriamili a nos
 Tami prikývla. „Zisti, čo je hore, a vráť sa.“
 Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo na stene, pretiahol sa do úzkej pukliny v keramickom obklade a zmizol v tme. Zostal po ňom len pach mokrej srsti, ktorý sa rýchlo vytratil.
 
+---
+
 Maks ďalej istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
 „Hovorí sa, že tieto tunely pamätajú Éru Temnoty,“ povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvie. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch.“
@@ -54,6 +56,8 @@ Kito sa na neho pozrel s novým výrazom. Archeológ, ktorý práve objavil živ
 „Ako dlho tu… toto všetko fungovalo?”
 
 Maks neodpovedal. Ďalší výbuch na povrchu zatriasol stenami. Prach a úlomky keramiky padali do vody. Niekde v diaľke prasklo potrubie a ozval sa syčivý únik plynu.
+
+---
 
 Voda začala bublať.
 

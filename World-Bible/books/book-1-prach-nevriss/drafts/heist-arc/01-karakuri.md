@@ -109,9 +109,9 @@ Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami
 
 „Artefakt,“ povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov.“ [→ concepts/antenna-essence-transfer.md: Anténa v kobkách Chrámu] Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota.“
 
-Klamstvo bolo elegantné. Vložil do toho zrnko pravdy — artefakt *skutočne* priťahoval Duchov. To, že ho chcel pre seba, bola len drobná vynechaná podrobnosť.
+*Polopravda*, poznala Tami. Artefakt *skutočne* priťahoval Duchov — to vedela aj ona. To, že ho Maks chcel pre seba, bola len drobná vynechaná podrobnosť.
 
-Dôstojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať úrady.“ — klamal.
+Dôstojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať úrady.” Uši mu nervózne strhli dozadu. *Klamal.*
 
 „Nie je to nutné,“ prerušil ho Maks a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o centimeter vyššie. „Neobťažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy.“
 
@@ -129,19 +129,15 @@ Podišla k Maksovi a rafinovane sa naklonila cez zábradlie.
 
 Zdvihla handru k tvári a jedným pohybom stiahla šatku. Medené vlasy jej voľne padli okolo líca, líščie uši sa mierne zacvikali, keď si pomaly utrela olej z líca. Zimné svetlo jej dopadlo priamo do očí — zafírovo modré, ostré ako úlomky ľadu. [→ characters/Tami.md: líščie uši, modré oči = anomália pre Líšky]
 
-Olejové fľaky na líci ju nerobili menej krásnou. Skôr naopak.
+*Pár škvŕn nikdy neuškodilo*, pomyslela si. *Skôr naopak.*
 
 Vedela, čo robí. Vedela to veľmi dobre.
 
-Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší vedľa neho zastal s napoly otvorenou papuľou, zapamätávajúc si túto scénu na zvyšok života. Ale tentoraz nie len úžasom.
+Jeden z vojakov za dôstojníkom si nechtiac pošmykol puškou. Mladší vedľa neho zastal s napoly otvorenou papuľou.
 
-Líščie uši. Medené, veľké, postavené na pozor. Ale to nebolo to najhoršie — alebo najlepšie, záležalo na uhle pohľadu.
+Tami vedela, čo vidia. Líščie uši. Medené, veľké, postavené na pozor. A oči — modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mali vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plný Dar Matky] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
 
-Boli to jej *oči*. Modré. Nie zelené, ani jantárové, ako to patrilo Líškam v legendách. *Modré*. Farba oblohy pred búrkou, farba zapadajúceho ľadu. Farba, ktorú mal vidieť len pri Pursang — vznešených, nie pri nejakom aeronautovi pokrytom olejom. [→ 03-technology.md: Pursang = najvyššia kasta, plný Dar Matky] [→ concepts/renn-niktori-tami-hybrid.md: Tami hybrid pôvod]
-
-A tá tvár. Mladá, ostrá, s tým šibalským polomsievom, ktorý hovoril: *Viem, čo robím s tvojou hlavou.*
-
-V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas Prvej Vojny a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] Ale to, čo im vyrazilo dych, nebola len jej vzácnosť. Bolo to *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. V ich hlavách sa to nezmestilo vedľa seba.
+V Nevriss boli Líšky vzácne. Väčšina starých rodov vymrela počas Prvej Vojny a stretnúť jednu naživo — navyše s modrými očami — bolo ako stretnúť ducha. [→ 06-society.md: Líščí národ, vyhynutie rodov] A k tomu — *spojenie*. Líška a Exorcista na jednej palube. Dieťa Matky a heretik. Videla to v ich očiach — nezmestilo sa im to vedľa seba.
 
 *Niet divu, že tak zízajú. Pre nich sme cirkusové číslo.*
 

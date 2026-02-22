@@ -16,7 +16,7 @@ Sera prešla okolo Maksa. Jej kroky boli tiché, plynulé. Prišla k podstavcu k
 
 A zdvihla ju.
 
-Kovová palica. Jeden a pol metra. Studená a ťažká.
+Kovová palica. Jeden a pol metra. Studená a prekvapivo ľahká.
 
 A potom sa stalo niečo, čo Maks a Tami nečakali.
 

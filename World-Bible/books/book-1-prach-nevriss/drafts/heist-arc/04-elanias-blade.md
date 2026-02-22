@@ -367,9 +367,13 @@ Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prol
 
 A niečo v nej sa zastavilo. Nie výraz. Nie pohyb. Len hĺbka v tých čiernych očiach sa zmenila, akoby sa za nimi otvorila priepasť.
 
+---
+
 *[Nie je to možné — nie tu, nie teraz. Tá tvár…]*
 
-*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej frajer? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladší Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho stretneš.. nikdy nedopovedala myšlienku.“ — Inetisine posledné slová Sere.]
+*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej frajer? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladší Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho stretneš.. nikdy nedopovedala myšlienku.” — Inetisine posledné slová Sere.]
+
+---
 
 Dlhá pauza. Veterán na veterána.
 
@@ -621,7 +625,7 @@ V strede svätyne stál stôl. Drevený. Jednoduchý — hrubé dosky, klinové 
 
 A na ňom ležal artefakt.
 
-Palica. Čierna. Matná. Z toho istého materiálu ako steny, ako brána, ako všetko v tomto priestore — Čierny Prach, nakonfigurovaný do pevného tvaru. Trištvrte palca hrubá, dlhá ako muž je vysoký. Pohlcovala svetlo — fialový svit zo stien sa na jej povrchu lámal a *mizol*, akoby ho palica pila. Ležala na stole s ľahkosťou, ktorá klamala — vyzerala ako obyčajná tyč, ale vzduch okolo nej bol *hustejší*. Ťažší. Ako gravitácia, ktorá nemá čo robiť v miestnosti, ale predsa *je*.
+Palica. Čierna. Matná. Kov — ale nie kov, aký Tami poznala. Ani oceľ, ani bronz, ani nič z kováčskej dielne. Niečo *staršie*. Niečo *vyrobené*, nie vykované. Trištvrte palca hrubá, dlhá ako muž je vysoký. Pohlcovala svetlo — fialový svit zo stien sa na jej povrchu lámal a *mizol*, akoby ho palica pila. Ležala na stole s ľahkosťou, ktorá klamala — vyzerala ako obyčajná tyč, ale vzduch okolo nej bol *hustejší*. Ťažší. Ako gravitácia, ktorá nemá čo robiť v miestnosti, ale predsa *je*.
 
 Sera prešla k stolu. Zdvihla palicu.
 
@@ -681,7 +685,7 @@ A v momente, keď sa jej prsty dotkli studeného kovu — niečo sa stalo.
 
 Prešlo jej rukami. Jemné, takmer nepostrehnuteľné. Ako keby sa v nej niečo *prebudilo*. Ako prvý lúč slnka na koži po dlhej noci. Artefakt bol studený — ale teplo neprišlo z kovu. Prišlo zvnútra.
 
-Tami žmurkla. Pocit zmizol rovnako rýchlo, ako prišiel. Zostala len palica v rukách — a nič. Žiadna váha. Žiadna ťarcha. Ako keby držala vzduch, ktorý sa len rozhodol mať tvar.
+Tami žmurkla. Pocit zmizol rovnako rýchlo, ako prišiel. Zostala len palica v rukách — prekvapivo ľahká. Kov mal svoju hmotnosť, svoje miesto v priestore — ale menej, než sľuboval jeho vzhľad. Ako zbraň, ktorá sa *chcela* nechať niesť.
 
 Sera sa usmiala.
 
@@ -752,7 +756,7 @@ Maks stál v prázdnom priestore. Ruky zovreté do pästí. Oči sa dívali do p
 
 *Minulý čas. Tri veže. El. Neúplné.*
 
-Tami prišla k nemu. Artefakt v oboch rukách — nič. Žiadna váha. Objímala ho nevedomky, ako keby sa v ňom skrývalo niečo, čo jej telo poznalo, aj keď myseľ nie.
+Tami prišla k nemu. Artefakt v oboch rukách — ľahký, takmer nereálne ľahký. Objímala ho nevedomky, ako keby sa v ňom skrývalo niečo, čo jej telo poznalo, aj keď myseľ nie.
 
 „Maks… kto bola tá žena?”
 
@@ -923,7 +927,7 @@ Vydrápali sa na povrch v uličke za Chrámom. Za nimi — tam, kde stál najvä
 
 Maks stál. Bez samopalu. Plášť roztrhaný, ruky odreté do krvi od kameňa.
 
-Tami stála vedľa neho. Bez pištole. Nadel na boku — jediná zbraň, čo im zostala. A artefakt — čierna palica z Prachu, bez váhy, bez tiaže — zovretá pod jej ramenom. Jediná vec, ktorú nestratili.
+Tami stála vedľa neho. Bez pištole. Nadel na boku — jediná zbraň, čo im zostala. A artefakt — čierna kovová palica, prekvapivo ľahká — zovretá pod jej ramenom. Jediná vec, ktorú nestratili.
 
 Kito sa opieral o stenu. Trasúci sa. Okuliare stratené kdesi v krypte. Videl na tri metre pred seba a aj to rozmazane.
 

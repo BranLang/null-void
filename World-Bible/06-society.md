@@ -337,7 +337,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 
 **Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytá **Anténa** — v očiach veriacich najsvätejšia relikvia ("Svätá Anténa" alebo "Žezlo Matky").
 
-> **Realita:** Je to komunikačná anténa z lode **NULL VOID** (FTL prototyp). Keď Inetis rozložila celú loď na nanodrony, Anténa sa glitchla a odmietla rekonfiguráciu — jediná časť lode, ktorá zostala v pôvodnom stave. Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy — údržbárske nanoboty) pomocou sub-priestorových frekvencií.
+> **Realita:** Je to **špeciálne vyrobené zariadenie Inetis** — custom konfigurácia a implementácia. Kovová palica (~1.5 m) navrhnutá na riadenie veľkých rojov nanobotov pomocou sub-priestorových frekvencií. Keď Inetis rozložila loď NULL VOID na nanodrony, Anténu si ponechala ako pracovný nástroj — potrebovala ju na stavbu Elysia a teraformovanie planéty.
 >
 > **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač — bez nej dokáže jedinec ovládať len malé množstvo nanodronov. Anténa bola jej zbraň, jej palica, jej symbol. **Sochy Inetis** po celom kontinente ju zobrazujú s palicou v ruke — to je Anténa. Vďaka nej mohla slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných.
 >

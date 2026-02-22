@@ -8,9 +8,9 @@ Tami kráčala hneď za vlkom, ktorý bol asi o pol kroka pred ňou. Obrovský, 
 
 Tami kývla a potichu dodala smerom dozadu: „A prestaň sa tváriť ako turista, čo hľadá suveníry. V tejto štvrti ťa podrežú pre tvoje topánky, nie pre tvoju peňaženku.“
 
-Maks si upravil tmavé letecké okuliare. Jeho *oči* skenovali okolie v rôznych spektrách. Videl tepelné stopy potkanov v kanáloch. Videl skryté čepele pod kabátmi žobrákov. Videl strach v očiach ľudí, ktorí nevedeli, čo bude zajtra.
+Maks si upravil tmavé letecké okuliare. Tami vedela, čo tie okuliare robia — videl veci, ktoré ona nevidela. Teplo. Zbrane. Strach. Pre neho bola ulica röntgenový snímok.
 
-Ale Tami videla *sociálne* toky.
+Ale Tami videla niečo, čo on nie. *Sociálne* toky.
 
 „Ulica Mŕtvych zvonov,“ prečítala Tami zhrdzavenú tabuľu na rohu. „Felix mal zmysel pre humor. Alebo pre drámu.“
 
@@ -88,6 +88,8 @@ Miestnosťou sa ozval tichý, bolestivý ston. Vychádzal z hromady diek v rohu.
 
 „To bude dobre, Maya… oddychuj,” šepkal a hladil postavu po čele.
 
+---
+
 Maks urobil krok vpred. Pozrel sa na ňu — a niečo v ňom videlo viac, než mali vidieť ľudské oči cez hrubú vlnenú látku. To, čo videl, ho donútilo zastaviť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — prenikne cez tkanivo]
 
 Nebola to len choroba. Bola to *premena*.
@@ -97,6 +99,8 @@ Tkanivo ženy sa nerozpadalo náhodne. Menilo sa. Bunky sa prepisovali na niečo
 Nič v jeho skúsenostiach to nedokázalo zaradiť. Telo sa menilo na minerál. Niečo prepisovalo bunky na kryštál — a on nič také nevidel ani na Zemi, ani tu. [→ 03a-nanotechnology.md: Gen 1 sken zlyháva — neznáma patológia]
 
 Maks nerozumel, čo vidí. Ale vedel, ako vyzerá smrť. A toto bol jej pomalý, krutý príchod.
+
+---
 
 Kito hladil Mayu po vlasoch. Jemne. Celým telom sa triasol, ale ruku mal pevnú. Tami videla, ako sa jeho pery pohybujú — šepkal niečo, čo nebolo pre cudzie uši.
 
@@ -124,9 +128,7 @@ Pozrel na Maksa. Žlté oči mu horeli zúfalstvom.
 
 Kito zovrel päste. „Naznačil, že ak chcem odpoveď, musím ísť k zdroju. K pôvodu tých modlitieb. Pod Chrám.“
 
-Maks ostal ticho. Pozeral sa na kryštalickú ruku ženy.
-
-*Žiadna zhoda. Žiadny protokol. Žiadna odpoveď.*
+Maks ostal ticho. Pozeral sa na kryštalickú ruku ženy — a Tami si prvýkrát všimla, že nemá odpoveď. Ani on.
 
 „Môžeš nám pomôcť,“ povedala Tami a položila ruku na Kitovo rameno. „Alebo tu môžeš ostať a pozerať sa, ako ona zomiera. Viem, čo hľadáš, Kito. Liek. Znalosti Stvoriteľky.“
 
@@ -280,7 +282,7 @@ Maks kráčal cez ten dav ako ľadoborec. Ľudia sa od neho odrážali — nieč
 
 „Doľava!“ zakričala Tami a skočila za ním do úzkej uličky, kam sa dav nezmestil.
 
-Maks ju nasledoval. Vedel, kam dopadne ďalší. Vždy vedel. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — balistická analýza v reálnom čase]
+Maks ju nasledoval. Neváhal. Nekľučkoval. Šiel rovno, akoby vedel, kam dopadne každý granát skôr, než opustí hlaveň. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — balistická analýza v reálnom čase]
 
 *Trajektória projektilu: Balistická krivka. Kaliber: 204 mm. Dopad: 3… 2… 1…*
 

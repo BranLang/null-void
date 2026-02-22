@@ -55,7 +55,7 @@ Mimozemská invázia — nie kvôli ľudstvu, ale zo strachu z Tieňových. Zem 
 Maks a Inetis pristávajú na neteraformovanej planéte Kepler-452b. **Trauma na lodi:** Počas 3-ročnej FTL cesty Maks napadol Inetis. Z tohto aktu sa počne **Elania**. Po pristátí Inetis zistí tehotenstvo. Kryospánok by dieťa zabil. Inetis oklame Maksa — tvrdí, že zásoby na 300-ročné čakanie nestačia pre oboch. Uspí ho do kryostázy. Skutočný dôvod: bála sa ho. **Nikdy ho nechcela zobudiť** — ale nedokázala ho ani zabiť. 300 rokov sa natiahne na 3000. [→ 01-timeline.md: Pred AY 0]
 
 ### Inetis rozkladá NULL VOID
-Celá loď (bilióny nanodronov) je rekonfigurovaná na stroje — vyhĺbia jaskyňu, vytvoria laboratórium, hydroponické farmy. Zostanú len dve veci: **Maksov kryobox** a **Anténa** (glitchla sa, odmietla rekonfiguráciu). Elania sa narodí. Matka a dcéra žijú ~3 roky v jaskyni. [→ 03-technology.md: Reťaz transformácií NULL VOID]
+Celá loď (bilióny nanodronov) je rekonfigurovaná na stroje — vyhĺbia jaskyňu, vytvoria laboratórium, hydroponické farmy. Zostanú len dve veci: **Maksov kryobox** a **Anténa** (špeciálne zariadenie Inetis — ponechané ako pracovný nástroj na riadenie rojov nanobotov). Elania sa narodí. Matka a dcéra žijú ~3 roky v jaskyni. [→ 03-technology.md: Reťaz transformácií NULL VOID]
 
 ### Cesta na Elysium (~3 roky po pristátí)
 Inetis rekonfiguruje nanodrony späť na loď. S malou Eleniou hľadá vhodnejšie miesto — objaví ostrovy pri rovníku: **Elysium** (budúce Ynetis). Loď prekonfiguruje na **Foundry** — továreň vyrábajúcu v1.0 nanodrony. Z nich vyrástlo celé mesto. Elania vyrastá na Elysiu. Inetis buduje civilizáciu a čaká na kolonistov ~270 rokov. [→ 01-timeline.md: Elysium]
@@ -105,7 +105,7 @@ Na Achilles dorazí semenná loď s tisíckami **Maki** (syntetický androidy). 
 Grond vládne na severe ako tyran. Nevriss City sa rozrastie na námorné impérium (~AY 800-1500), potom ho zničí Veľká Potopa (~AY 1500). Kult Matky a folklór okolo Inetis rastie. [→ 01-timeline.md: Éra Mýtov]
 
 ### Smrť Inetis (~AY ~852?)
-Chce prebudiť Maksa, aby jej pomohol dostať sa k Jadru Elysium. Zomiera na Glitch Rot **pri Maksovom kryoboxe drziac antenu null void**.  [→ 01-timeline.md: Smrť Inetis]
+Chce prebudiť Maksa, aby jej pomohol dostať sa k Jadru Elysium. Zomiera na Glitch Rot **pri Maksovom kryoboxe držiac Anténu**.  [→ 01-timeline.md: Smrť Inetis]
 
 ---
 
@@ -218,7 +218,7 @@ Nestojí v serverovni. Stojí na ulici v **Kyjeve, 21. storočie**. Slnko. Ľudi
 
 ### Nový svet
 - **Elania**: Preberie sa z kómy. Smrteľná, zlomená.
-- **Tami**: Vodkyňa novej éry. V ruke Maksova (teraz nefunkčná) palica. V jemnom blikaní nanodronov v atmosfére cíti prítomnosť. Maks tam hore je — **Duch v Stroji**, tichý strážca.
+- **Tami**: Vodkyňa novej éry. V ruke Anténa — Inetisina palica (teraz nefunkčná). V jemnom blikaní nanodronov v atmosfére cíti prítomnosť. Maks tam hore je — **Duch v Stroji**, tichý strážca.
 - **Starý svet** (Maks + Inetis): navždy spolu v digitálnom svete, ale nikdy *naozaj* živí.
 - **Nový svet** (Tami + Links): smrteľní, dočasní, ale *naozaj žijú*.
 

@@ -77,7 +77,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 7. Unikla zo Zeme s Maksom na **NULL VOID** (FTL Prototype, **100% z nanodronov**, využívajúci technológiu Tieňových). Helena zostala na Zemi so zbalenými kuframi. Posledné slová: *„Takto je to správne. Choď a vybuduj niečo pekné pre nás obe."* [→ characters/Helena.md]
 8. **Trauma na lodi**: Počas 3-ročnej FTL cesty ju Maks napadol. Toto násilie viedlo k počatiu Elanie. Nanoboty detekovali fertilizáciu a dali Inetis voľbu cez HUD popup (24. storočie — žena rozhoduje PRED, nie PO). Inetis bez váhania odmietla tehotenstvo. Systém vyžadoval server autorizáciu — server bol 4.6 ly ďaleko. Submit zlyhal. Default = pokračovať. Inetis bola tehotná napriek svojej jednoznačnej voľbe. [→ books/planning/inetis-conception-popup.md]
 9. Po pristátí uspala Maksa do kryostázy (klamstvo o zásobách) — bála sa ho, ale nemohla ho zabiť. Toto je dôvod, prečo ho nezobudila. Nie pomsta — strach.
-9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maksov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (glitchla, odmietla rekonfiguráciu)
+9. **Rekonfigurovala celú loď NULL VOID** (nanodronová konštrukcia) na stroje: vyhĺbili jaskyňu, vytvorili laboratórium, hydroponické farmy. Zostali len dve veci: **Maksov kryobox** (minimálna konfigurácia, udržiaval ho v stáze) a **Anténa** (špeciálne vyrobené zariadenie — Inetis ju potrebovala na riadenie veľkých rojov nanobotov pri stavbe Elysia)
 
 > [!NOTE]
 > **Helena a meno Ela:**
