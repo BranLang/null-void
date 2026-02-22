@@ -50,21 +50,31 @@
 - Dedička vplyvného klanu Saéli — Pursang aristokracia
 - Krásna, inteligentná, silná Spiristka (vodná Spira, liečenie)
 - Žije v luxuse — ale niečo jej chýba. Chce vidieť svet za hranicami Nyau.
+- **KLIETKA**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. Soril (prísna nadradená kňažka) ju „pripravuje." Pre dcéru klanu je vstup do Chrámu = buď sľúbená mužovi, alebo sľúbená bohovi. Iná klietka, rovnaký zámok.
+
+**Kniha El:**
+- Najsvätejší predmet v Nyau — ručne šitá, bioluminescentný atrament, stará. Fyzicky prítomná v Chráme na oltári.
+- Yera ju pozná naspamäť, ale cíti, že niečo v nej nechápe — niečo medzi riadkami.
+- **KĽÚČOVÉ**: Na konci arcu Yera Knihu El **ukradne impulzívne** — nie z plánu, ale z kumulácie ponížení od Soril. Neuvedomí si dôsledky (svätokrádež = trest smrti). NIKDY nepovie Arkotovi ani Tami, že ju má. Nosí ju v príručnej taške.
+- **TIKAJÚCA BOMBA**: Kniha sa odhaľuje verejnosti každých 5 zím počas najsilnejšej zimy. Timing sa kryje s vojnou o Šoraven (Book 1).
+- **PRAVÝ DÔVOD ÚTEKU**: Yera neuteká KVÔLI Arkotovi. Uteká PRED dôsledkami krádeže. Arkot SI MYSLÍ, že je hlavný dôvod — romantický príbeh, ktorý si rozpráva. Ale pravda je škaredšia.
 
 **Arkot a Flint prichádzajú:**
 - Dvaja Mezra z Beladiss — prišli do Nyau hľadať prácu. Podmienky sú lepšie než v Diss.
 - Arkot: tichý, presný, navigátor. Flint: nervózny, rýchly, strelec. Best Bros od detstva.
-- Arkot a Yera sa stretnú. Iskra.
+- Arkot a Yera sa stretnú počas **Lampionového festivalu**. Iskra.
 
 **Zakázaná láska:**
 - Pursang + Mezra = medzikastové tabu
-- Klan Saéli je proti — Mezra leopard z chudobného Diss? Pre dcéru najvplyvnejšej rodiny?
+- **Dvojitý zákaz**: kastové tabu + porušenie sľubu celibátu (zasvätenie)
+- Klan Saéli je proti — Mezra leopard z chudobného Diss? Pre budúcu kňažku najvplyvnejšej rodiny?
 - Yera a Arkot sa schádzajú v tajnosti
 - Flint kryje — je to Arkotov najlepší priateľ, samozrejme že kryje
 
 **Útek:**
 - Yerina rodina sa dozvie. Škandál. Ultimátum.
-- Yera sa rozhodne: Arkot > klan. Všetko > Nyau.
+- Yera **ukradne Knihu El** (impulzívne, z hnevu voči Soril) — neuvedomí si dôsledky
+- Útek je primárne KVÔLI krádeži (pôjde jej o život), nie kvôli Arkotovi. Ale Arkot je reálna láska aj úniková cesta.
 - Flint, Arkot a Yera utekajú z Nyau
 
 ---
@@ -198,9 +208,17 @@
 - Flintova impulzívnosť → zatýkanie → Mormiel získava Anténu → celý plot Book 1
 
 ### 5. Yerin vnútorný konflikt — Mlčanie ako vina
-- Yera je morálny kompas arcu — vidí, že krádež je zlá
+- Yera je morálny kompas arcu — vidí, že krádež Antény je zlá
 - Ale nasleduje Arkota — láska > morálka
-- V kobkách nesie dvojitú vinu: za mlčanie a za Flintovu smrť, ktorú mohla zabrániť
+- V kobkách nesie **trojitú** vinu: (1) za mlčanie o Flintovom pláne, (2) za Flintovu smrť, ktorú mohla zabrániť, (3) za vlastnú krádež Knihy El
+
+### 6. Kniha El — Tikajúca bomba
+- Yera ukradne Knihu El impulzívne (kumulácia ponížení od Soril, nie plán)
+- Neuvedomí si dôsledky — svätokrádež = trest smrti
+- NIKDY nepovie Arkotovi ani Tami → tajomstvo hlbšie než mlčanie o Flintovom pláne
+- Kniha sa verejnosti odhaľuje každých 5 zím (najsilnejšia zima) → timing sa kryje s vojnou o Šoraven (Book 1)
+- Keď Kniha chýba → katastrofa. Kto ju ukradol? Kde je? → spája nyau-arc s hlavným dejom
+- **PRAVÝ DÔVOD ÚTEKU**: Yera neuteká kvôli Arkotovi. Uteká pred smrťou. Arkot je reálna láska, ale aj úniková cesta. ON SI MYSLÍ, že je hlavný dôvod — romantický príbeh, ktorý si rozpráva. Pravda je škaredšia.
 
 ---
 
@@ -222,8 +240,8 @@
 **Yera — zlatá klietka:**
 - Dedička klanu Saéli — najvplyvnejšia Pursang rodina v Nyau. Vila s bielymi stĺpmi, vnútorné nádvorie so svetielkujúcim stromom.
 - Inteligentná, krásna, silná Spiristka (vodná Spira, liečenie). Kňažky Cirkvi El ju chcú pre chrám.
-- Otec plánuje dohodnutý zväzok — starší syn z klanu Mireth. Yera ho nikdy nestretla. Nechce.
-- *Niečo jej chýba.* Pozerá z balkóna na svietiace mesto, na vzducholode pristávajúce v prístave, na svetlá za horizontom. Svet je väčší než Nyau. Väčší než klan Saéli. Väčší než dohodnuté zväzky a chrámové povinnosti.
+- Otec a Soril sa dohodli — Yera bude **zasvätená do Chrámu El**. Celibát. Celoživotná služba. Obrovská prestíž pre klan Saéli.
+- *Niečo jej chýba.* Pozerá z balkóna na svietiace mesto, na vzducholode pristávajúce v prístave, na svetlá za horizontom. Svet je väčší než Nyau. Väčší než klan Saéli. Väčší než chrámové múry a modlitby k El.
 
 **Cirkev El — kadidlo a kliatba:**
 - Chrám El stojí na kopci nad mestom — biely kameň s bioluminescentnou mozaikou, kupola zo svetielkujúceho skla. V noci vyzerá ako spadnutá hviezda.
@@ -243,12 +261,11 @@
 - Hudba — bubny, flauty, struny. Tanec na námestiach.
 - Stánky s maskami — zvieracie tváre, El, Matka, duchovia. Anonymita.
 
-**Hádka s otcom:**
-- Klan Saéli má vlastný balkón na hlavnom námestí — VIP výhľad na festival. Yera sedí v hodvábnych šatách vedľa otca.
-- Otec oznamuje dátum zásnub. Syn klanu Mireth príde budúci mesiac.
-- Yera protestuje — ticho, cez zaťaté zuby, cez pohľady. Otec nepočúva.
-- *„Si Saéli. Máš povinnosti."*
-- Yera vstane, zloží sa po schodoch, zmizne v dave.
+**Balkón klanu Saéli:**
+- Klan Saéli má vlastný balkón na hlavnom námestí — VIP výhľad na festival. Yera sedí v hodvábnych šatách (chrámová farba, vybrala Soril) vedľa otca.
+- **Posledný festival pred zasvätením.** Otec jej to pripomenie — vecne, nie smutne.
+- Yera pozoruje festival zhora — hudbu, masky, tanec, anonymitu. Všetko, čo o pár dní stratí navždy.
+- Odíde potichu. Cez bočné schody. Prvýkrát v živote je sama na uliciach Nyau v noci.
 
 **Túlanie:**
 - Prvýkrát v živote je sama na uliciach Nyau v noci. Bez sprievodu, bez klanových strážcov.
@@ -395,9 +412,11 @@
 - Bratia — výhražky Arkotovi. Flint sa dozvie, pripraví sa na najhoršie.
 
 **Ultimátum:**
-- Otec: *„Zabudni na neho. Zásnuby s klanom Mireth budú o dva týždne. Toto je posledné slovo."*
-- Yera sa rozhodne — ale nie okamžite. Noci. Dni. Chodí do Chrámu El, pozerá na mozaiku El a pýta sa: *Čo by si urobila ty?*
-- Na konci vie: **Arkot > klan. Sloboda > povinnosť. Všetko > Nyau.**
+- Otec: *„Zabudni na neho. Zasvätenie sa blíži. Toto je posledné slovo."*
+- Soril sprísnila dohľad — poníženia, kontrola, tichý teror. Kumulácia — nie jeden veľký incident, ale smrť tisíckou rezov.
+- Yera sa rozhodne — ale nie okamžite. Noci. Dni. Chodí do Chrámu El, pozerá na Knihu El na oltári a pýta sa: *Čo by si urobila ty?*
+- **KRÁDEŽ**: Impulzívne — v momente hnevu voči Soril — vezme Knihu El. Chce jej ublížiť. Neuvedomí si, že svätokrádež = trest smrti.
+- Yera vie: musí utiecť. **Arkot je cesta von** — reálna láska AJ úniková cesta. Ale PRAVÝ dôvod úteku je krádež, nie láska.
 
 ---
 
@@ -405,8 +424,9 @@
 
 **Príprava:**
 - Flint zorganizuje útek — pozná prístav, pozná lodné rozvrhy. Má kontakty medzi pašerákmi.
-- Yera si vezme len to, čo sa zmestí do jednej tašky — kožený kabát s kožušinou (dar od mŕtvej starej matky), peniaze, lekárske nástroje.
+- Yera si vezme len to, čo sa zmestí do jednej tašky — kožený kabát s kožušinou (dar od mŕtvej starej matky), peniaze, lekárske nástroje. **A Knihu El** — schovanú v príručnej taške. Nikdy nikomu nepovie.
 - Nechá list otcovi. Žiadne vysvetľovanie. Len: *„Odpusť."*
+- **DVOJITÉ MLČANIE začína**: Yera uteká pred dôsledkami krádeže. Arkot si myslí, že uteká kvôli nemu. Flint si myslí, že uteká kvôli Arkotovi. Nikto netuší pravdu.
 
 **Útek v noci:**
 - Cez bioluminescentné ulice — posledný pohľad na svietiace mesto.
@@ -494,18 +514,17 @@
 
 ### Kľúčové scény — Quick Reference
 
-1. **Opening** — Nyau, bioluminiscencia, chrám El. Yera na balkóne.
-2. **Lampionový festival** — Hádka s otcom. Útek do ulíc.
-3. **Strechy** — Arkot. Hviezdy. Piesne z Diss. Ruka. Útek domov. Bezsenné noci.
-4. **Prístav** — Yera ho hľadá. Začiatok tajných stretnutí.
-5. **Identita** — Arkot sa dozvie, kto je. Kríza. *„Chcem byť na tej streche."*
-6. **Klan** — Škandál. Ultimátum. Rozhodnutie.
-7. **Útek** — Posledný pohľad na svietiace mesto. Bod bez návratu.
-8. **Itaka** — Tami. Posádka. Šťastné dni. Flint a Tami — rozbúška.
-9. **Jaskyňa Ela** — Nález Antény.
-10. **Zrada** — Flintov plán. Arkot nasleduje. Yera mlčí.
-11. **Šoraven** — Shobors. Flintova smrť. Zatýkanie.
-12. **Tri cely** — Yera v čistej cele. Arkot v kobkách. Tami prichádza.
+1. **Lampionový festival** — Festival, masky, hudba, jedlo. Yera unikne z balkóna. Stretnutie s Arkotom na streche. Hviezdy. Piesne z Diss. Ruka. Útek domov.
+2. **Prvé Svetlo** — Prebudenie do reality. Chrám, Soril, liečenie stromu. Otec oznamuje zasvätenie. Klietka. Bezsenné noci.
+3. **Prístav** — Yera ho hľadá. Začiatok tajných stretnutí v bioluminescentných záhradách.
+4. **Identita** — Arkot sa dozvie, kto je. Kríza. *„Chcem byť na tej streche."*
+5. **Klan** — Škandál. Soril sprísni kontrolu. Kumulácia ponížení.
+6. **Krádež a útek** — Yera ukradne Knihu El (impulzívne, hnev voči Soril). Musí utiecť. Posledný pohľad na svietiace mesto. Bod bez návratu.
+7. **Itaka** — Tami. Posádka. Šťastné dni. Flint a Tami — rozbúška.
+8. **Jaskyňa Ela** — Nález Antény.
+9. **Zrada** — Flintov plán. Arkot nasleduje. Yera mlčí (o Flintovom pláne AJ o Knihe El).
+10. **Šoraven** — Shobors. Flintova smrť. Zatýkanie.
+11. **Tri cely** — Yera v čistej cele (+ Kniha El v príručnej taške?). Arkot v kobkách. Tami prichádza.
 
 ---
 

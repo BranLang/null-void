@@ -18,7 +18,7 @@
 
 **Pred uväznením:**
 - Drobná, jemná postava — krehkejšia než väčšina dobrodruhov, ale rýchla. Vyzerá veľmi mlado.
-- **Čierne vlasy** — krátke, po ramená. Lesklé, husté, rovné.
+- **Čierne vlasy** — krátke, po ramená. Lesklé, husté, rovné. **V Nyau mala dlhé vlasy** (pod lopatky) — ostrihala si ich po úteku, aby ju nespoznali. Vizuálny marker premeny: dlhé = klietka/klan, krátke = sloboda/nová identita.
 - **Modré oči** — jasné, hlboké. Pursang črta.
 - Ľudská tvár s jemnými mačacími črtami — malé čierne uši, jemné rysy
 - **Podobá sa na Tami.** Rovnaký vek, podobná výška, obe modré oči. Na prvý pohľad by si ich niekto mohol zameniť — až kým si nevšimne, že Tami je Vulpes (medené vlasy, líščie uši, líščí chvost) a Yera Felis (čierne vlasy, mačacie uši). Sú ako sestry. Aj sa tak správajú.
@@ -43,6 +43,7 @@
 - **Hodnoty**: Viera v ľudí (nie v Cirkev). Odmieta sa zlomiť. Odmieta prijať "požehnanie" ako dar.
 - **Inteligencia**: Pursang — silná Spira, ostrá myseľ. Vie, že niečo nesedí. Počíta dni. Pozoruje vzory.
 - **Minulosť**: **Nehovorí o nej.** Nikdy. Bohatý kabát, Pursang výchova, perfektná Spira — všetko naznačuje šľachtický pôvod. Ale Yera tému odmieta. Každý, kto sa spýtal, dostal tichý pohľad a zmenu témy. Ani Arkot nevie všetko. Ani Tami. Čo sa stalo v Nyau pred tým, než utiekla — zostáva jej tajomstvo.
+- **Dvojité mlčanie**: Yera mlčí o dvoch veciach: (1) o Flintovom pláne ukradnúť Anténu, (2) o vlastnej krádeži Knihy El. Obe sú impulzívne, obe majú katastrofálne dôsledky, pri oboch mohla konať inak. Yerin arc = postava definovaná tým, čo NEPOVIE.
 
 ---
 
@@ -51,9 +52,11 @@
 ### Pursang z Nyau
 - Šľachtický pôvod — dedička **klanu Saéli**, najvplyvnejšej Pursang rodiny v Nyau. **Detaily neznáme** pre väčšinu posádky — Yera odmietla o tom hovoriť.
 - Mala ~3 zimy (17 rokov) a tri zimy od prvej služby v Chráme El, keď stretla Arkota.
-- **Prvé stretnutie** — počas **Lampionového festivalu** v Nyau. Yera sa po hádke s otcom (o dohodnutom zväzku s klanom Mireth) túlala ulicami sama. Arkot — trochu opitý Mezra leopard z Diss — sa jej prihovoril a vzal ju na strechu skladiska pri prístave. Pozerali hviezdy, on spieval piesne z Beladiss. Ponúkol ju alkoholom, chytil ju za ruku — nič sa nestalo, Yera sa zľakla a utiekla domov. Ale nasledujúce dni nemohla spať — myslela na jeho oči, na jeho hlas. Na šiesty deň ho išla hľadať do prístavu.
-- **Zakázaná láska** — Pursang + Mezra = medzikastové tabu. Tajné stretnutia v bioluminescentných záhradách. Flint kryl. Klan Saéli sa dozvedel → škandál → ultimátum.
-- **Utiekla z Nyau s Arkotom a Flintom** — zanechala rodinu, privilégiá, všetko. Skončili na palube Itaky (~AY 3011).
+- **Klietka**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. Soril (prísna nadradená kňažka) ju pripravuje. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu.
+- **Prvé stretnutie** — počas **Lampionového festivalu** v Nyau. Yera unikla z klanového balkóna (posledný festival pred zasvätením), túlala sa ulicami sama — prvýkrát v živote bez sprievodu. Arkot — trochu opitý Mezra leopard z Diss — sedel na schodoch pri prístave. *„Stratila si sa?"* Vzal ju na strechu skladiska. Pozerali hviezdy, lampióny stúpali k oblohe, on spieval piesne z Beladiss. Ponúkol ju alkoholom, chytil ju za ruku — nič sa nestalo, Yera sa zľakla a utiekla domov. Ale nasledujúce dni nemohla spať — myslela na jeho oči, na jeho hlas. Na šiesty deň ho išla hľadať do prístavu.
+- **Zakázaná láska** — Pursang + Mezra = medzikastové tabu + porušenie sľubu celibátu. Tajné stretnutia v bioluminescentných záhradách. Flint kryl. Klan Saéli sa dozvedel → škandál → ultimátum.
+- **Krádež Knihy El** — impulzívna, z kumulácie ponížení od Soril. Yera chcela ublížiť — neuvedomila si dôsledky (svätokrádež = trest smrti). NIKDY nepovie Arkotovi ani Tami. Nosí ju v príručnej taške.
+- **Utiekla z Nyau s Arkotom a Flintom** — **pravý dôvod**: útek pred dôsledkami krádeže Knihy El. Arkot si myslí, že je hlavný dôvod. Nie je. Zanechala rodinu, privilégiá, všetko. **Ostrihala si dlhé vlasy** — praktický dôvod (aby ju nespoznali), ale aj symbolický: odrezanie starého života. Skončili na palube Itaky (~AY 3011).
 - Prišla s kvalitným vybavením (kožený kabát s kožušinou — dar od mŕtvej starej matky, jemné pazúry udržiavané) — dedičstvo z aristokratického života.
 - Najsilnejšia Spiristka v posádke — vodná Spira, hojenie rán, diagnostika. Príliš silná na to, aby bola "len dcéra z nižšej šľachty."
 - **Čo posádka vie**: Pursang. Nyau. Liečiteľka. Nič viac.
@@ -100,6 +103,7 @@
 - Pre Yeru bol ako otravný starší brat — hádali sa, ale chránili sa
 - **Flintov plán** — Yera vedela, že krádež Antény je zrada. Nesúhlasila. Ale šla za Arkotom. Jej najväčšia vina.
 - Jeho smrť ju zmenila — zatvrdla. Neplače. Už nie.
+- **Irónia**: Yera odsudzuje Flintovu krádež Antény — a pritom sama ukradla Knihu El. Obe krádeže sú impulzívne, obe majú katastrofálne dôsledky. Yera to vie. A mlčí o oboch.
 
 ### Mormiel (neznáma hrozba)
 - Yera Mormiel nikdy nestretla — poznala len kňažky, čo sa o ňu "starali"
@@ -110,9 +114,9 @@
 
 ## Rola v príbehu
 
-- **Funkcia**: Zachránená väzenkyňa — ale s tajomstvom. Mormiel si ju vybrala. Prečo?
-- **Arc Kniha 1**: Väzenkyňa → zachránená → útek z Shoravenu
-- **Arc Knihy 2+**: Mormiel si ju zapamätala. Bude ju hľadať. Yera sa stáva cieľom.
+- **Funkcia**: Zachránená väzenkyňa — ale s tajomstvom. Mormiel si ju vybrala. Prečo? A čo je v tej príručnej taške?
+- **Arc Kniha 1**: Väzenkyňa → zachránená → útek z Shoravenu. **Kniha El je stále pri nej** — tikajúca bomba.
+- **Arc Knihy 2+**: Mormiel si ju zapamätala. Bude ju hľadať. Yera sa stáva cieľom. + Keď Kniha El v Nyau chýba pri verejnom odhalení → katastrofa. Kto ju ukradol?
 - **Foreshadowing**: Yera cítila Anténu v jaskyni. Má citlivosť na staré technológie. Prečo? Jej Pursang Spira je nezvyčajne silná — možno dedičstvo po predkoch, čo žili blízko Krátera.
 
 ---
