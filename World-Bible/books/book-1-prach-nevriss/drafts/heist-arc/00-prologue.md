@@ -2,7 +2,7 @@
 ![World](../../../../assets/maps/map-achilles.jpeg)
 
 <div class="epigraph">
-<p>„Raz — možno párkrát za celú existenciu — príde okamih, keď všetky múry padnú a tvoja myseľ sa dotkne hviezd. V tom momente nie je strach. Nie je bolesť. Len čistý, absolútny zmysel. Všetko do seba zapadne. A potom — v jedinom nádychu — je to preč. A v dlani ti zostane len malé zrnko. Ale to semiačko — to môžeš zasadiť."</p>
+<p>„Raz za existenciu sa tvoja myseľ dotkne hviezd. Trvá to nádych. Potom je to preč — a v dlani ti zostane zrnko.<br/>Zasaď ho."</p>
 <p class="epigraph-author">Kniha El, 3:11</p>
 </div>
 
