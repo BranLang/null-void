@@ -185,7 +185,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.achilles.inetis_death_cave`
 - Názov: Smrť Inetis v samote
 - Čas: AY ~852
-- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maksom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a glitchnutá Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
+- Zhrnutie: Inetis sa ukryje v jaskyni Null-Void. Zomiera v agónii pri Maksom kryoboxe (jedinom v jaskyni), s rukou na jeho spiacom väzení. V jaskyni je už len kryobox a Anténa — všetko ostatné z lode bolo dávno rekonfigurované. Zanecháva denník.
 - Účastníci: `char.inetis`
 - Lokácie: `place.cave_null_void`
 - Tagy: `tragédia`, `obeta`

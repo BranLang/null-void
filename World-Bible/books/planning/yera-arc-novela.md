@@ -239,7 +239,7 @@
 
 **Festival:**
 - Celé Nyau svieti — k bioluminiscencii sa pridávajú tisíce ručne vyrobených lampónov. Papierové, hodvábne, maľované. Stúpajú k hviezdam — pomaly, ticho, nekonečne.
-- Ulice plné jedla — grilované mäso na špízkoch, sladké ryžové koláče, korenené nápoje. Deti s lampášikmi behajú medzi dospelými.
+- Ulice plné jedla — svietiace huby na platniach, pečený hmyz s korením, ryžové koláče, nočné ovocie, korenené nápoje. Žiadne mäso — Cirkev El zakazuje. Deti s lampášikmi behajú medzi dospelými.
 - Hudba — bubny, flauty, struny. Tanec na námestiach.
 - Stánky s maskami — zvieracie tváre, El, Matka, duchovia. Anonymita.
 
@@ -333,17 +333,17 @@
 - Pre Arkota je to intímnejšie než bozk — Yera mu ukazuje svoju minulosť.
 - **Kultúrny detail pre čitateľa:** Cirkev El = svet kadidla, bioluminiscencie, jemnej krásy. Ale aj svet, kde dievčatá kľačia a sľubujú poslušnosť. Zlatkliefka z mramoru.
 
-**Záhrady — Učenie Staroreči:**
-- V bioluminescentných záhradách za múrmi mesta je **pamätná tabuľa zakladateľa Nyau** — kamenná doska pokrytá luminiscenčným machom, nápis v starej latinke.
-- **Nápis:** Meno zakladateľa a krátky text v Staroreči (angličtina). Tabuľa je z čias, keď bolo Nyau **najvýchodnejšou provinciou Nevrisskeho impéria** — dávno pred Veľkou Potopou (~AY 1500), keď impérium ešte siahalo od pobrežia k pobrežiu.
-- **Yera učí Arkota čítať** — Pursang vzdelanie zahŕňa základy Staroreči (latinské písmo). V Nyau sa na bežnú komunikáciu používa **odnož latinky** — nie Hiragana. Hiragana je výhradne pre **Spiru** (IDE, skripty, zaklínadlá) a Pursangovia si ju strážia oveľa prísnejšie než v Nevriss.
+**Záhrady — Učenie čítania:**
+- V bioluminescentných záhradách za múrmi mesta je **pamätná tabuľa objaviteľa Nyau** — kamenná doska pokrytá luminiscenčným machom, meno nevrisského kapitána a dátum objavenia vytesané v **Staroreči** (latinkou) — jazyku, ktorý bol v dobe objavenia ešte živý.
+- **Príbeh:** Kapitán — mačkovitý Varietas z Nevriss — sa v noci priblížil k pobrežiu a uvidel svietiaci les. Od úžasu vydal zvuk, aký jeho druh vydáva pri ohromení: *„Nyau!"* A meno zostalo.
+- **Yera učí Arkota čítať Staroreč** — Pursang vzdelanie zahŕňa základy Staroreči (Old Tongue — zmutovaná angličtina) a latinky (písmo). V dobe kapitána (~AY 1000-1200) to bola ešte živá reč — dnes je mŕtvy jazyk, ale Pursangovia ho ešte učia. Hiragana je výhradne pre **Spiru** (IDE, skripty, zaklínadlá) a Pursangovia si ju strážia oveľa prísnejšie než v Nevriss.
 - Arkot z Beladiss nevie čítať latinku — Mezra z rybárskej dediny nemal prístup k vzdelaniu.
 - Yera mu ukazuje písmená na tabuli. Trpezlivo. Pomaly. Jej prsty sledujú vytesané riadky.
 - *„Toto je 'N'. Toto je 'Y'. A toto..."* — usmeje sa — *„...toto je 'Nyau'."*
 - Arkot: *„Čo to znamená?"*
-- Yera: *„Nikto presne nevie. Je to zo Staroreči — jazyk spred impéria. Zakladateľ sem prišiel, keď tu nebolo nič. Len svietiace stromy a ticho. Napísal meno a odišiel. A ľudia prišli za ním."*
+- Yera sa zasmeje: *„To je zvuk, aký urobíš, keď vidíš niečo krásne a nevieš čo povedať. Kapitán, čo sem priplával v noci, uvidel svietiaci les a... Nyau."* Pokrčí plecami. *„A meno zostalo."*
 - **Intimita cez písmo** — Yera mu drží ruku a vedie jeho prsty po kameňových písmenkách. Bioluminescentný mach svieti pod ich dotykom. Najromantickejšia scéna novely.
-- [→ regions/nyau.md: Nyau bolo najvýchodnejšou provinciou Nevriss impéria. Bežné písmo = latinka. Hiragana = výhradne Spira.]
+- [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, výkrik úžasu. Bežné písmo = latinka. Hiragana = výhradne Spira.]
 
 **Čo vidí v ňom:**
 - Slobodu. Odvahu. Svet za hranicami Nyau.

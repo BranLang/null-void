@@ -28,8 +28,9 @@ Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu.
 - **„Spiaci otec"**: Pri príchode Ex Inferis Elania povedala, že jej otec (Generál Maksimilián) spí. Legenda sa rozšírila — Ex Inferis sa ho nikdy nepokúsili hľadať. Elania to povedala, aby v nich vzbudila aspoň trochu strachu — aby neprešli určitú hranicu. Ale prešli, a Elania bola vtedy bezmocná. Legenda o „spiacom generálovi" pretrvala tisícročia.
 - **Temný dar Archanjelov**: Archanjeli ju naučili ich tajomstvo nesmrteľnosti — ako **požierať iných ľudí** a nahrádzať svoje poškodené nanoboty ich zdravými. Toto bol moment jej morálneho pádu. Z dcéry, ktorá nechala matke Anténu pre dobro všetkých, sa stala predátorka. Glitch Rot ju síce nezabil, ale zožral jej ľudskosť.
 - **Najväčšia tragédia**: Inetis vytvorila Gen 2 (Spiru) v Core práve pre Eleniu — liek na Glitch Rot. Ale **nikdy nedošlo k dotyku**. Keď Inetis vyšla z Core (~AY 700), Elania bola preč. Keď sa nakoniec stretli na kontinente počas Atranskej vojny, obe boli príliš hrdé/traumatizované na zmierenie. Elania je **navždy prekliata** — uväznená vo v1.0/v1.5 nanobotoch, ktoré pomaly rotujú. Preto musí požierať iných. Preto nenávidí biológiu. Preto chce Veľký Upload — digitálna forma by ju oslobodila od tejto kliatby.
+- **Hľadanie Jaskyne Ela (~AY 850-900)**: Po bitke pri Atra sa Elania vydala na východné pobrežie Terry — posledný pokus nájsť matku. Mala za sebou **500 rokov hrôzy** — pamätala si utópiu v Elysiu (prvých 300 rokov), ale potom len Glitch Rot, pád Ynetis, Wraithy, smrť, kanibalizmus. Videla svietiaci les (Inetisino GMO dedičstvo) — vedela, že je blízko. Ale **nepamätala si presnú polohu jaskyne** — bola tam ako batoľa (~3 roky). Prešla oblasťou budúceho Nyau. Pomohla prvým osadníkom. **Odmietla mäso** — fyzicky sa jej zdvihol žalúdok. **Už vtedy premýšľala nad ukončením utrpenia** — nie ako plán, ale ako túžba. *Keby sa dalo odísť z mäsa. Keby sa dalo prestať trpieť.* **Hovorila o tom** — v noci pri ohni, s rybármi a osadníkmi. Hovorila im, že jej matka bola „na druhej strane" — v jadre sveta — a zrodila sa tam, medzi svetmi. Že matka odišla vytvoriť liek pre utrpenie, ale vlastnej dcére ho nedala. Stavala sa — nevedome — do role mučeníčky. A snívala o tom, že keď pôjde ona do „neba", vezme tam všetkých Varietas so sebou. *„Jedného dňa nebude treba toto telo. Jedného dňa budeme len svetlo."* Osadníci si zapamätali každé slovo — a z toho sa stala doktrína **Nanebovstúpenia** v Cirkvi El. Nie teologická konštrukcia — doslova sľub unavenej nesmrteľnej ženy pri ohni. Nikdy jaskyňu nenašla. Odišla na Neuropu. **Nikdy sa nevrátila na Terru.** [→ regions/nyau.md: Vznik Cirkvi El, Pôvod doktríny o Nanebovstúpení]
 - **Pokus o návrat do Core**: Po matkinej smrti sa Elania skúšala dostať do Core na Elysium — vedela, že tam je liek. Ale **Elysium je v oku večného hurikánu Wraithov**. Bez Antény sa tam nedostane nikto. A Anténa je teraz v rukách Cirkvi. Preto Elania podporuje Archanjelov v honbe za Anténou — potrebuje ju, aby sa mohla vrátiť domov a vyliečiť.
-- **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload.
+- **Súčasnosť**: Slúži Archanjelom ako "Gatekeeper", no v skutočnosti nimi pohŕda ako "biologickými relikviami" a plánuje Veľký Upload. Žije na Neurope — nikdy sa nevrátila na Terru.
 
 ### Beastlands — Elaniina ríša [→ 14-varietas-species.md: 4. vetva inteligencie]
 
@@ -76,9 +77,11 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
 
 **Pohŕdanie biologickým:**
+- **Vegetariánka** — mäso sa jej hnusí. Všetko živočíšne sa jej hnusí. Nie je to diéta — je to viscerálny odpor k biologickému.
 - Vidí mäso ako väzenie, nie dar
 - Hovorí o ľuďoch ako o "procesoch" a "systémoch"
 - *"Mäso je slabé. Dáta sú večné."*
+- **Echo v Cirkvi El:** Cirkev El v Nyau zakazuje konzumáciu mäsa — „hriech proti svetlu". Nevedia, že ich bohyňa ho skutočne považuje za odpudivé. Majú pravdu — len nie z dôvodov, ktoré si myslia. [→ regions/nyau.md: Zákaz mäsa]
 
 **SPRÁVNE:**
 ```

@@ -12,7 +12,7 @@
 ---
 
 ## II. Mechanika: Signálové pole (The Breach Spike)
-*   **Funkcia:** Maksova palica generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči Spire.
+*   **Funkcia:** Anténa (palica Inetis) generuje magnetické pole, ktoré ho robí neviditeľným pre senzory a imúnnym voči Spire.
 *   **Cena:** Pole odrezáva Maksa od jeho vlastných military dronov. Stáva sa smrteľníkom bez super-sily a rýchleho liečenia.
 *   **Taktika:** Maks musí striedať "Stealth mód" (slabý, ale skrytý) a "Combat mód" (silný, ale zraniteľný Spirou).
 

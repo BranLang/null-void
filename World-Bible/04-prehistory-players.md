@@ -211,7 +211,7 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
   - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).
   - `ARK-13 "Prometheus"`: Misia na **Alpha Centauri**, zložená z elitných Ex Inferis a kolonistov.
   - `Expedícia "Hephaestus" (EY 2098)`: Automatizovaná loď biologických androidov (Maki), vyslaná **152 rokov pred ARK loďami** pragmatickými vedcami ako poistka civilizácie. Staršia, pomalšia technológia pohonu (~2700 rokov cesta vs. 300 pre ARK). Pristátie = AY 2212.
-  - `NULL VOID` (FTL Prototyp): Maks a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maksov kryobox** (minimálna konfigurácia) a **Anténa** (glitch, odmietla rekonfiguráciu). Kryobox sa po prebudení rozpadol na prach.
+  - `NULL VOID` (FTL Prototyp): Maks a Inetis (3-ročná cesta). Loď **100% z nanodronov**, využívajúca technológiu Tieňových — pri nulovej hmotnosti prekročila rýchlosť svetla. Po pristátí bola celá loď rekonfigurovaná na infraštruktúru; zostali len **Maksov kryobox** (minimálna konfigurácia) a **Anténa** (špeciálne zariadenie Inetis, ponechané ako pracovný nástroj). Kryobox sa po prebudení rozpadol na prach.
 
 ---
 
@@ -240,9 +240,9 @@ Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila ú
 ### The Dust (Prach)
 Nanodrony neboli vynájdené v laboratóriu. Boli **navrhnuté v hre Achilles** ako univerzálny nástroj a následne „vytlačené" v realite.
 
-### Maksova Palica (Anténa)
-- **Komunikačná anténa z lode NULL VOID** — pôvodne súčasť nanodronovej konštrukcie lode
-- Keď Inetis rozložila loď na nanodrony po pristátí, Anténa sa **glitchla a odmietla rekonfiguráciu** — jediný kus lode, ktorý zostal v pôvodnom stave
+### Anténa (Palica Inetis)
+- **Špeciálne vyrobené zariadenie Inetis** — custom konfigurácia a implementácia, nie súčasť lode
+- Kovová palica (~1.5 m) na riadenie veľkých rojov nanobotov — univerzálny pracovný nástroj, pomocou ktorého Inetis postavila Elysium a teraformovala planétu
 - Schopná ovládať goo roje (Wraithy) a prijímať sub-priestorové signály
 - Maks (ako vojenský operátor) je jediná bytosť s kompatibilným interfejsom na jej použitie
 

@@ -1,6 +1,10 @@
 
 ![World](../../../../assets/maps/map-achilles.jpeg)
 
+<div class="epigraph">
+<p>„Raz — možno dvakrát za celú existenciu — padnú všetky múry a tvoja myseľ sa dotkne hviezd. Žiadny strach. Žiadna bolesť. Len absolútny zmysel. A potom — v jedinom nádychu — je to preč. V prachu ti zostane iskra. Rozdúchaj ju."</p>
+<p class="epigraph-author">Kniha El, 3:11</p>
+</div>
 
 # Prológ
 

@@ -102,7 +102,7 @@ Loď NULL VOID nebola konvenčná loď. Bola **100% z v1.5 nanodronov** — bili
 ```
 NULL VOID (loď, v1.5)
   → Stroje v jaskyni (vyhĺbenie, hydroponika, ~3 roky)
-  │   [v jaskyni zostali: Maksov kryobox (min. konfig.) + Anténa (glitch)]
+  │   [v jaskyni zostali: Maksov kryobox (min. konfig.) + Anténa (pracovný nástroj Inetis)]
     → NULL VOID (loď, cesta na Elysium s malou Elaniou)
       → FOUNDRY (von Neumann machine, výroba v1.0 nanodronov → stavba mesta Elysium)
         → THE CORE (medzisvet, prepojenie na subspace, vývoj v2.0 / Dar Matky, ~AY 300-700)
@@ -114,7 +114,7 @@ NULL VOID (loď, v1.5)
 - **The Core = medzisvet** — nie len simulácia, ale **prechod medzi dimenziami**. Pripojil sa na subspace/upspace, kde i_net_is stále existovala. Inetis tu po tisícoch subjektívnych rokov stretla svoje „druhé ja"
 - **i_net_is v Core chcela viac compute** — žiadala human uploads (viac inteligencie). Inetis cítila, že niečo nie je v poriadku, a **odmietla**
 - **Core nemal výkon Zeme** — žiadne milióny userov, žiadne obrovské datacentrá. Preto vývoj Gen 2 trval desaťročia reálneho času
-- **Jedinou vecou, čo odmietla rekonfiguráciu, bola Anténa** — glitchla sa a zostala v pôvodnom stave
+- **Anténa bola špeciálne vyrobené zariadenie Inetis** — ponechala si ju ako pracovný nástroj na riadenie veľkých rojov nanobotov
 
 ---
 

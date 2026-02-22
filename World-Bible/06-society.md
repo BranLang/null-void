@@ -337,13 +337,21 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 
 **Relikvia (Nevriss):** V kobkách pod Hlavným chrámom v Shoraven je ukrytá **Anténa** — v očiach veriacich najsvätejšia relikvia ("Svätá Anténa" alebo "Žezlo Matky").
 
-> **Realita:** Je to komunikačná anténa z lode **NULL VOID** (FTL prototyp). Keď Inetis rozložila celú loď na nanodrony, Anténa sa glitchla a odmietla rekonfiguráciu — jediná časť lode, ktorá zostala v pôvodnom stave. Jej pôvodný účel bol ovládať "Wraithov" (goo swarmy — údržbárske nanoboty) pomocou sub-priestorových frekvencií.
+> **Realita:** Je to **špeciálne vyrobené zariadenie Inetis** — custom konfigurácia a implementácia. Kovová palica (~1.5 m) navrhnutá na riadenie veľkých rojov nanobotov pomocou sub-priestorových frekvencií. Keď Inetis rozložila loď NULL VOID na nanodrony, Anténu si ponechala ako pracovný nástroj — potrebovala ju na stavbu Elysia a teraformovanie planéty.
 >
 > **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač — bez nej dokáže jedinec ovládať len malé množstvo nanodronov. Anténa bola jej zbraň, jej palica, jej symbol. **Sochy Inetis** po celom kontinente ju zobrazujú s palicou v ruke — to je Anténa. Vďaka nej mohla slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných.
 >
 > **Prečo ju chcú všetci:** Anténa je jediná vec na planéte, ktorá dokáže ovládať veľké roje nanobotov. V kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte. **Archanjeli**, **Cirkev**, **Grond**, **Apes** — všetci veľkí hráči o nej vedia a všetci ju chcú.
 >
 > **Maksov Interface:** Maks (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
+
+#### 3. Nyau (Východ) — Cirkev El
+**"El je svetlo. El je cesta. El sa vráti."**
+- **Teológia:** Uctievajú **El** (Dcéru Matky) ako primárne božstvo. Matka ustúpila do pozadia — *„Matka odišla. Zostala len Dcéra. Zostalo len svetlo."*
+- **Pôvod:** Elania (~AY 850-900) prešla východným pobrežím, hľadajúc matku. Pomohla osadníkom, odmietla mäso, hovorila o ukončení utrpenia. Legendy o „žene zo svetla" sa stali ľudovou vierou → po Veľkej Potope (~AY 1500) sa formalizovali do Cirkvi El.
+- **Nanebovstúpenie:** Veria, že El sa vráti a vezme všetky duše k sebe — koniec biologického utrpenia. V podstate presne popisujú Veľký Upload.
+- **Zákaz mäsa:** El nenávidí prolitie krvi. Zabiť zviera = hriech proti svetlu. Hmyz je výnimka.
+- **Irónia:** Cirkev El je **najsprávnejšie náboženstvo na Terre** — a práve preto najhroznejšie. Majú pravdu takmer vo všetkom. [→ regions/nyau.md: Cirkev El — detailná sekcia]
 
 ### Kult Nesmrteľného Gronda (Sever - Graw)
 

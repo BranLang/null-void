@@ -129,7 +129,7 @@ Keď v 15 odišla od Maksa — zlomená srdcom, nahnevaná — nemala kam ísť.
 - **The Seven (Zrak)**: 7 špeciálnych "Gen 1.5" bojových dronov, ktoré mu levitujú v očniciach.
     - **Pôvod**: Vyrobila ich Inetis pre Maksa počas Marťanskej vojny. Sú väčšie ako bežný prach, extrémne nebezpečné. Inetis ich výrobu oľutovala.
     - **Funkcia**: Nahrádzajú mu zrak (kamery). Maks ich používa ako zbraň len v najkrajnejšom prípade, lebo by oslepol.
-- **Anténa (Húľ)**: Komunikačná anténa z lode NULL VOID.
+- **Anténa (Húľ)**: Špeciálne vyrobené zariadenie Inetis — kovová palica na riadenie veľkých rojov nanobotov.
     - **Funkcia**: Teoreticky ovláda goo roje Wraithov a dokáže prijímať signály zo Zeme. Maks je jediný, kto ju dokáže používať cez svoj vojenský interfejs.
     - **Význam**: Varietas ju považujú za Palicu Súdneho Dňa — najsvätejšiu relikviu sveta.
 - **Odchod**: Po odmietnutom vyznaní vzala vzducholoď a nechala ho uprostred pustatiny

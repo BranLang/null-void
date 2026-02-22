@@ -89,7 +89,7 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 |---|---|---|---|
 | Spirit | Sprit | **Spira** | Nanotechnológia — "Duch" / "Mágia" |
 | — | — | **Dar Matky** | Gen 2 nanotech — "Matkin Dar" |
-| — | — | **Svätá Anténa** / **Žezlo Matky** | Komunikačná anténa z lode NULL VOID |
+| — | — | **Svätá Anténa** / **Žezlo Matky** | Špeciálne zariadenie Inetis na riadenie nanobotov |
 
 ### Spira
 - **Pôvod**: *Spirit* → *Sprit* → **Spira**
@@ -100,7 +100,7 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 - **Kontext**: Gen 2.0 nanotech, ktorý Inetis navrhla špeciálne pre biológiu Varietas. Fotonický, samoreplikujúci sa, ukladá dáta do Spira kryštálov.
 
 ### Svätá Anténa / Žezlo Matky
-- **Pôvod**: Komunikačná anténa z lode NULL VOID. Jediný kus, ktorý odmietol rekonfiguráciu na nanodrony.
+- **Pôvod**: Špeciálne vyrobené zariadenie Inetis — kovová palica (~1.5 m) na riadenie veľkých rojov nanobotov. Univerzálny pracovný nástroj, pomocou ktorého Inetis postavila Elysium.
 - **Kontext**: Na čiernej tyčke je nápis **"maXpowa"** v Staroreči — Maksov starý herný handle. Nikto na planéte nevie, čo to znamená.
 
 ---
