@@ -65,7 +65,7 @@ Bolo to nastražené. Sera ju tam nechala — jeden zo svojich tajných obrázko
 
 Links sedí v kresle vedľa Mayinej pohovky. Antikvariát je tichý — len hodiny tikajú a Maya dýcha plytko. V rukách drží notebook.
 
-Kawaii nálepky. Poškrabané, vyblednuté. Jedna mačka, jedna hviezda, niečo, čo kedysi bolo dúha. Gravírovanie na veku: `i_net_is` a rok `2065`. Pre-Achilles tech. Starší než celá ich civilizácia.
+Roztomilé nálepky. Poškrabané, vyblednuté. Jedna mačka, jedna hviezda, niečo, čo kedysi bolo dúha. Gravírovanie na veku: `i_net_is` a rok `2065`. Pre-Achilles tech. Starší než celá ich civilizácia.
 
 Otvoril ho.
 
@@ -93,7 +93,7 @@ Links sa pozeral na plochu ako na archeologický nález.
 
 Celý súkromný život jednej osoby. Zakonzervovaný na 2000-ročnom hardvéri.
 
-Links sa pristihol, ako sa usmieva. Inetis. Svätá matka. Bohyňa. Mala na desktope priečinok `anime` a kawaii nálepky. Bola to... normálna osoba.
+Links sa pristihol, ako sa usmieva. Inetis. Svätá matka. Bohyňa. Mala na desktope priečinok `anime` a roztomilé nálepky. Bola to... normálna osoba.
 
 ---
 
@@ -161,7 +161,7 @@ Adrenalin. Endorfíny. Všetko naraz. Toto bol source code. Nie útržky, nie le
 
 Nechali.
 
-Nechali ho tu, v notebooku s kawaii nálepkami, v izbe zomierajúcej ženy, v antikvariáte na konci sveta.
+Nechali ho tu, v notebooku s roztomilé nálepkami, v izbe zomierajúcej ženy, v antikvariáte na konci sveta.
 
 ---
 
@@ -443,7 +443,7 @@ Zajtra ide na juh.
 
 > **Links** (vnútorne, pri prvom zapnutí): *Starý majster synth je génius.*
 
-> **Links** (vnútorne, pri README.md): *"What If the Gods Left Source Code?" Nechali. Nechali ho tu, v notebooku s kawaii nálepkami.*
+> **Links** (vnútorne, pri README.md): *"What If the Gods Left Source Code?" Nechali. Nechali ho tu, v notebooku s roztomilé nálepkami.*
 
 > **Kito** (z kuchyne): *„Prinesiem niečo na pitie?"*
 

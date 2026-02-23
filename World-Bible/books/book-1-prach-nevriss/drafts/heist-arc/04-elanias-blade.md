@@ -137,13 +137,13 @@ Jedno slovo. Žiadne vysvetlenie.
 
 Natiahla ruku k Tami.
 
-Gesto, ktoré bolo absurdne dievčenské. Jemné. Takmer *kawaii* — ako dievča z anime, čo ponúka priateľstvo, nie ako bytosť s očami, v ktorých zomreli celé civilizácie. Prsty rozprestené, dlaň hore, hlava mierne naklonená nabok. [NOTE: Sera testuje — kawaii gesto je úmyselný kontrast. 3000 rokov social engineering. Chce vidieť, ako Tami zareaguje. Kto cúvne, kto nie. Manipulácia? Áno. Ale aj — niečo úprimnejšie, staršie, čo Sera sama nedokáže pomenovať.] 
+Gesto, ktoré bolo absurdne dievčenské. Jemné. Takmer *rozkošné* — ako dievča z anime, čo ponúka priateľstvo, nie ako bytosť s očami, v ktorých zomreli celé civilizácie. Prsty rozprestené, dlaň hore, hlava mierne naklonená nabok. [NOTE: Sera testuje — sladký gesto je úmyselný kontrast. 3000 rokov social engineering. Chce vidieť, ako Tami zareaguje. Kto cúvne, kto nie. Manipulácia? Áno. Ale aj — niečo úprimnejšie, staršie, čo Sera sama nedokáže pomenovať.] 
 
 *[Testovať reakciu. Kto cúvne, kto nie.]*
 
 Tami sa zachvela.
 
-Nie strachom. Nie chladom. Niečím starším — inštinktom, čo hovoril, že tá ruka nie je nevinná. Že nič na tejto žene nie je nevinné. Že tá ruka — tá jemná, elegantná, absurdne kawaii ruka — zabila viac ľudí, než Tami kedy stretla.
+Nie strachom. Nie chladom. Niečím starším — inštinktom, čo hovoril, že tá ruka nie je nevinná. Že nič na tejto žene nie je nevinné. Že tá ruka — tá jemná, elegantná, absurdne roztomilá ruka — zabila viac ľudí, než Tami kedy stretla.
 
 Nevzala ju.
 
@@ -669,7 +669,7 @@ K **Tami**.
 
 Hlas sa zmenil. Hlboký hlas zmizol — nahradil ho niečo, čo poslalo zimomriavky po Taminej chrbtici. Vysoký. Sladký. *Dievčenský*. Úplný kontrast k tým starým, mŕtvym očiam — absurdný, desivý, nesprávny.
 
-*[Kawaii. Testuje, či vezme.]*
+*[Sladko. Testuje, či vezme.]*
 
 „Pre teba, líška~“
 
@@ -689,7 +689,7 @@ Tami žmurkla. Pocit zmizol rovnako rýchlo, ako prišiel. Zostala len palica v 
 
 Sera sa usmiala.
 
-Nie kawaii. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký Tami od nej videla — smutný, unavený, ale čistý. Úsmev ženy, ktorá práve splnila sľub.
+Nie sladký. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký Tami od nej videla — smutný, unavený, ale čistý. Úsmev ženy, ktorá práve splnila sľub.
 
 *[Hotovo. Semienko zasadené. Odpusť mi, dieťa — raz pochopíš.]*
 
@@ -701,7 +701,7 @@ Sera mlčala. Dlho. Čierne oči — nekonečné, bezodné — na ňom spočíva
 
 *[Pýta sa na ňu. Otázky, na ktoré nemám právo odpovedať. Ale jednu vec poviem — jednu, pretože si to zaslúži.]*
 
-A potom prehovorila. Nie hlbokým hlasom. Nie kawaii hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
+A potom prehovorila. Nie hlbokým hlasom. Nie sladký hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
 
 Prachové čiastočky vo vzduchu zastali. Nie spomalili. *Zastali.* Viseli v priestore ako hmyz v jantári. Fialový svit zo stien sa v nich lámal na nehybné ihly — zavesené medzi stropom a podlahou, neposlúchajúce nič. Tami to videla — a nevedela, či to bol svet, alebo len jej oči. [NOTE: Ambivalentné — Tami POV. Môže byť subjektívny dojem z Serinej prítomnosti, alebo Prach v svätyni naozaj reaguje na Serin Hlas Pravdy. Čitateľ sa rozhodne sám.]
 

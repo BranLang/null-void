@@ -6,7 +6,7 @@
 
 ## Prológ: Pozorovatelia
 
-Viac ako dvetisíc rokov ležal laptop zabudnutý v trezore. Na jeho šasi vyblednuté písmená: `i_net_is`. Kawaii nálepky, poškriabané, ale zázračne neporušené. Relikt zo Zeme. Z čias pred Pádom.
+Viac ako dvetisíc rokov ležal laptop zabudnutý v trezore. Na jeho šasi vyblednuté písmená: `i_net_is`. Roztomilé nálepky, poškriabané, ale zázračne neporušené. Relikt zo Zeme. Z čias pred Pádom.
 
 **Sera** si pamätala. Ale aj ona na ten notebook zabudla — kým jej na stôl nepristála diplomová práca istého mladého muža.
 

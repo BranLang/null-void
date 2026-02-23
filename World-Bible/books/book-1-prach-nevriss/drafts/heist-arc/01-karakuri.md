@@ -622,4 +622,4 @@ Majster stál v tichu dielne. Jeho vnútorné logy bežali šialenou rýchlosťo
 
 Pomaly, veľmi pomaly, sa otočil späť k svojmu čaju. Jeho kovové prsty, pokryté tisícročnou patinou, sa jemne zachveli.
 
-„*Kowai*,“ zašepkal do ticha. *Desivá.* [→ characters/Sera.md: „Kowai“ = jej signature, kawaii hlas + desivý obsah] [→ 12-genre-positioning.md: anime tónový shift]
+„*Kowai*,“ zašepkal do ticha. *Desivá.* [→ characters/Sera.md: „Kowai“ = jej signature, sladký hlas + desivý obsah] [→ 12-genre-positioning.md: anime tónový shift]
