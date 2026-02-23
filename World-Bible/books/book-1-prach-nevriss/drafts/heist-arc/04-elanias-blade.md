@@ -212,7 +212,15 @@ Pradávny kamenný chodník sa vinul cez jaskyňu — široký ako cesta, vytesa
 
 Paladíni boli niekoľko stoviek yardov pred ním. Dve modré siluety na kamennom chodníku — malé v obrovskom priestore, ich taktické lampy zbytočné v žiari húb. Kráčali pokojne. Poznali cestu.
 
-Maks vykročil za nimi. Ticho. Modré svetlo húb mu stačilo — nepotreboval nič z toho, čo mal v sebe. Len oči. Len nohy. Len trpezlivosť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — aktívny, ale Maks ho nepotrebuje na navigáciu. Jaskyňa svieti sama.]
+Maks vykročil za nimi. A vtedy to zacítil.
+
+Tlak. Nie vo vzduchu, ale v samotnom priestore. 
+*Varovanie. Masívna elektromagnetická anomália,* ohlásil Asistent v jeho hlave. Hlas znel prvýkrát... skreslene. *Zlyhávanie pasívnych senzorov.*
+Maks zastal. HUD v jeho videní zablikal, zrnil sa statickou elektrinou, akú nezažil od čias vojny so Samaellom. Zhluky dát sa rozpadali na nezmyselné znaky. Priestor pred ním — tam, kam mierili Paladíni — vyžaroval auru, ktorá ohýbala bežnú fyziku. Bolo to, akoby sa blížili ku klietke, v ktorej nespí len technológia, ale niečo obrovské, rozhnevané a veľmi staré. 
+
+Maks vypol optiku. Modré svetlo húb mu stačilo — teraz už beztak nemohol veriť ničomu, čo mal v sebe. Len očiam. Len nohám. Len trpezlivosti. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — aktívny, ale pod vplyvom aury artefaktu padá.]
+
+A medzi hubami — pohyb. Nie zvieratá. Nie Paladíni. Niečo, pre čo nemal meno — tiene, čo sa pohli o zlomok sekundy *neskôr*, než mali. Maks neotočil hlavu. Videl ich periférne — tvary bez tvarov, obrysy bez hrán. Plávali medzi hubami smerom *dole*. K hĺbke. K tomu, čo volalo. [NOTE: Prvé náznaky duchov (Wraithov) mimo kryptu — artefakt ich priťahuje aj na vzdialenosť. Maks ich vidí periférne, nevie klasifikovať.]
 
 ---
 
@@ -312,11 +320,37 @@ Krypta.
 
 Priestor bol iný než jaskyňa — nie prírodný, nie organický. *Stavaný.* Stovky kamenných pilierov sa dvíhali z podlahy k stropu desiatky stôp nad hlavou — masívne, hranaté, vytesané s presnosťou, ktorá nechávala rovné plochy a ostré hrany aj po tisícročiach. Na pilieroch — reliéfy. Výjavy zo života postáv, ktoré Maks nepoznal — ženy v ceremoniálnych rúchach, procesie, rituály, ohňostroje Spiry. Príbehy, čo tu stáli tisícročia a čakali, kým ich niekto prečíta. Nikto neprišiel. [NOTE: Reliéfy na pilieroch = výjavy zo života Mormiel (Požehnanej Matky, Hlasu Inetis) a jej nasledovníčok — ďalších Matiek Kultu. Egyptsko-antický štýl. Toto je z čias Impéria Nevriss.] [→ 06-society.md: Kult Matky, história]
 
-Medzi piliermi — tma. Hustá, studená tma, čo pohltila modré svetlo húb z jaskyne a nechala len piliere a ich tiene.
+Medzi piliermi — tma. Ale tá tma nebola prázdna. 
 
-Vzduch tu páchol inak. Sucho. Prach. A niečo — slabo, takmer nepostrehnuteľne — *staré*. Nie vlhkosť, nie plieseň. Vek sám. Čas usadený do kameňa.
+Maks zamrzol. Vzduch tu páchol inak. Sucho. Prach. Ozón. Tá drvivá aura z jaskyne tu zhustla do hmatateľného tlaku, akoby celá krypta dýchala z jedných obrovských pľúc. A vo fialovom polotieni medzi prastarými stĺpmi sa niečo hýbalo.
 
-Na konci krypty — za stovkami pilierov, za dĺžkou celého Chrámu nad nimi — sa črtalo niečo iné.
+Prízraky.
+
+Maks ich poznal. Obrysy tiel, kde svetlo *chýbalo* — nie tiene, lebo nemali zdroj. Čierny Prach, rozptýlený, voľný, staré konfigurácie, čo si pamätali tvary, ktoré kedysi nosili. Miesta, kde sa tma zahustila do tvaru človeka a pohltila všetko okolo seba. *Reziduá.* Prachové patterny po mŕtvych, čo odmietali sa rozpadnúť. Lovil ich dvanásť rokov. Jeden tu, dva tam — po ruinách, po hroboch, po miestach, kde niekto zomrel a Prach si ho zapamätal. Exorcizmus. Jedno za druhým. Rutina.
+
+Ale nie toto.
+
+Toto boli *desiatky*. Možno stovky. Plávali vzduchom, bez tvárí, bez zvuku, ťahané neviditeľnou silou hlbšie do krypty. Nedívali sa na neho. Nedívali sa na Paladínov. Všetky tie mŕtve ozveny sa zlievali k jedinému bodu na konci sály. Ako železné piliny priťahované gigantickým, bezcitným magnetom.
+
+Za dvanásť rokov nikdy nevidel viac než tri na jednom mieste. Tu ich bolo toľko, že vzduch medzi piliermi *hmatal*. Niečo ich sem volalo. Niečo silnejšie než čokoľvek, s čím sa stretol. [NOTE: Wraithovia = reziduálne konfigurácie Čierneho Prachu (Gen 1 nanotech). Staré patterny po mŕtvych — Prach si „pamätá" tvary hostiteľov a odmieta sa resetovať. Nie nadprirodzené — je to tech, primitívne, ako zombie procesy v OS. Maks ich loví 12 rokov (exorcizmus) — vie ich absorbovať/rozbiť. Ale takúto koncentráciu nikdy nevidel. Artefakt (Anténa) ich priťahuje — rezonancia na Gen 1 frekvencii. Foreshadowing pre Book 2 — Wraithy, posadnutie, démoni.]
+
+A potom sa reziduá začali *zhlukovať*. Nie k bodu na konci sály — k Paladínom. Tmavé obrysy sa stiahli z priestoru medzi piliermi a obtočili sa okolo dvoch modrých siluet — tam, kde boli reziduá, svetlo jednoducho *nebolo*. Svetelný Štít. Elektrika v brnení. Reziduá to *cítili* — žiarenie, energiu, niečo, k čomu sa dalo priľnúť.
+
+Kira sa zastavila. Švihla sekerou — vibrovlna prešla tmavým zhlukom. Nič. Reziduá sa rozptýlili a znova stiahli. Hustejšie. Bližšie.
+
+Rau siahol na opasok. Malý guľatý predmet — matný, veľkosť päste. Hodil ho pod nohy.
+
+Pulz. Tichý. Neviditeľný.
+
+Reziduá *zmizli*. Všetky naraz — stovky fialových obrysov sa rozpadli ako dym vo vetre. EMP ich rozprášil. Roztrhal patterny, prerušil konfigurácie, *vymazal*. Krypta bola zrazu prázdna. Studená. Mŕtva.
+
+Maks stál za pilierom. Nehýbal sa. Nedýchal.
+
+*Vedia, čo sú. Majú na nich zbraň. A používajú ju rutinne.*
+
+Títo ľudia neboli prví, čo prešli touto kryptou. [NOTE: Paladíni poznajú wraithov a majú countermeasure — EMP granát rozptýli Prachové reziduá. Rau ho použije rutinne — nie je to pre nich nové. Maks zaregistruje: Paladíni majú hlbšie znalosti o Čiernom Prachu, než čakal. Setup pre neskoršie použitie EMP v boji — Maks už vie, čo ten granát robí.]
+
+Na konci krypty — tam, kde sa pred chvíľou zlievali stovky reziduí — sa črtalo niečo iné.
 
 Dvere. Menšie než kamenná brána. Čierne. Matné. Z materiálu, ktorý nesvieti, neodráža, len *pohlcuje*. Maks ich videl aj z tejto vzdialenosti — jeho oči — tie, čo neboli celkom ľudské — rozpoznali ten materiál okamžite.
 
@@ -357,7 +391,9 @@ Tieň vedľa piliera sa pohol.
 
 Nie vietor. Nie svetlo. *Osoba.* Niečo na koži tej osoby pustilo tmu — Čierny Prach, matný, pohlcujúci — a z ničoho sa *zhmotnila* žena. [→ 03a-nanotechnology.md: Gen 1 Čierny Prach — Sera ho používa ako kamufláž.]
 
-Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke, skrátená, puzdro prázdne.
+Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke — skrátená, puzdro na páse prázdne. Vyzerala ako píšťala. Matný kov — starý, nepoznajúci čas.
+
+A potom ju roztiahla. Jeden plynulý pohyb ruky a píšťala sa stala kopijou — šesťstopovou, tichou, trpezlivou. Gesto, ktoré nepatrilo tomuto storočiu.
 
 Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prológ. Pre Tami nie je prekvapenie. Pre Maksa áno.]
 
@@ -415,7 +451,13 @@ Zmizla. Čierny Prach na koži pohltil svetlo a Sera prestala existovať.
 
 Maks a Tami stáli medzi piliermi. Tichá krypta okolo nich.
 
-Skontrolovali zbrane. Vykročili k čiernej bráne.
+Nie celkom tichá. Tami cítila niečo — nie zvuk, nie pohyb. *Pozornosť.* Chlad na šiji, jemný ako dotyk prstov, ktoré tam neboli. Medzi piliermi sa niečo tlačilo — niečo, čo nevidela, ale čo videlo *ju*. Čím bližšie k čiernej bráne, tým hustejšie. Ako keby vzduch medzi stĺpmi bol plný neviditeľných tiel.
+
+„Nie sme tu sami," zašepkala.
+
+Maks prikývol. Nepovedal, čo videl po ceste sem.
+
+Skontrolovali zbrane. Tami odložila pušku strážnika k pilieru — príliš dlhá, príliš ťažkopádna na to, čo príde. Vytiahla pištoľ z puzdra na stehne. Nadel v pravej, pištoľ v ľavej. Vykročili k čiernej bráne.
 
 ---
 
@@ -464,7 +506,7 @@ Nadel prenikla cez svetlo — nie na zlomok sekundy. *Úplne.* Hrot rapiera pre�
 
 Kira zavrčala. Krv — na hrote Nadelu, na ornamentálnom brnení. Nie smrteľné. Ale *rana*. Druhá za túto noc. [NOTE: Spevnený Nadel (Sera haiku) prenikol cez Svetelný Štít AJ pancier. Bez spevnenia Nadel prenikol len štít a zanechal škrabanec. So spevnením = plná penetrácia. Kira je zranená druhýkrát — prvá rana bola Pursang kopija (stehno, r.235). Kira už krívala. Teraz ďalšia rana. Paladíni degradujú — Pursang ich zranili, teraz ich zranila Tami. Tami nie je náhodná líška — je Pursang (Rennov tréning), bojový tréning od Maksa (13 rokov), a teraz spevnenie od Sery. Tri generácie skúseností v jednom údere.]
 
-Potom Kira udrela sekerou do Tami. Tami odrazila úder Spira štítom — pentagram sa rozžiaril, absorboval vibráciu — ale sila nárazu ju odhodila tri metre dozadu. Spadla medzi piliere.
+Potom Kira udrela sekerou do Tami. Tami odrazila úder Spira štítom — pentagram sa rozžiaril, absorboval vibráciu — ale sila nárazu ju odhodila desať stôp dozadu. Spadla medzi piliere.
 
 Kira sa pozrela na bok. Na krv. *Znova.* Stehno, teraz bok. Tieto primitívne tvory ju *zraňovali*.
 
@@ -500,11 +542,7 @@ Nie teleport. Nie mágia. Tieň sa odlepil od piliera — Čierny Prach na jej k
 
 *[Prvý. Krk. Otočený.]*
 
-A v jej ruke bol **Yari**.
-
-Kopija. Dvojmetrová. Matný kov — starý, nepoznajúci čas. Vyzerala ako píšťala, keď ju vytiahla z puzdra na páse — a potom sa roztiahla na plnú dĺžku.
-
-Zašepkala haiku — tichý, nežný, takmer modlitba. Špica Yari sa rozžiarila. Čepeľ počula poéziu a *spevnila sa*. Niečo v tom kove sa prebudilo — zhustilo sa, spevnilo, prešlo hranicou medzi hmotou a úmyslom. [→ 03a-nanotechnology.md: Spevnenie = nanoboty reagujú na frekvenciu hlasu — ale v próze: „čepeľ počula“]
+A v jej ruke bol **Yari**. Šesťstopová kopija — roztiahnutá, pripravená, čakajúca. Čepeľ sa rozžiarila.
 
 Bodla.
 
@@ -520,7 +558,7 @@ Zarevala. Zvuk, aký Tami nikdy nepočula — hlboký, hrdelný, zvierací. Vrhl
 
 *[Hnev. Dobre. Nahnevaní robia chyby.]*
 
-Tami videla príležitosť. Vyrazila spredu. Nadel vpred — spevnený hrot stále žiaril fialovo. Bodla priamo do náprsníka. Prenikla.
+Tami videla príležitosť. Vyrazila spredu. Nadel vpred — spevnený hrot stále žiaril zlatou. Bodla priamo do náprsníka. Prenikla.
 
 Kira sa na zlomok sekundy otočila k Tami. Sekera zmenila smer.
 
@@ -601,7 +639,9 @@ Sera vykročila cez bránu. Maks, Tami a Kito za ňou.
 ---
 
 
-Za čiernou bránou sa krypta skončila.
+Za čiernou bránou sa krypta skončila. A s ňou — prízraky. Maks to cítil okamžite — ten tlak, čo ho sprevádzal celou kryptou, *prestal*. Akoby niečo v čiernom priestore za bránou povedalo *nie* — a ony poslúchli. Zhromaždili sa pri prahu, desiatky neviditeľných prítomností stlačených o seba, ale ďalej nevkročili. Tami sa otočila. Chlad na šiji zmizol.
+
+„Čokoľvek to bolo," povedala ticho, „sem to nejde." [NOTE: Svätyňa (nedokončené jadro) funguje ako bariéra — Wraithovia sa nedostanú dnu. Artefakt ich priťahuje, ale čierny Prach svätyni ich drží vonku. Paradox: volá ich, ale nedovolí im prísť. Foreshadowing pre moment, keď Tami artefakt *vynesie* von — čo sa stane s duchmi, keď bariéra zmizne?]
 
 Nie postupne — naraz. Jeden krok kameň a reliéfy a tisícročia ľudského staviteľstva. Ďalší — *čerň*. Všade. Steny, strop, podlaha — ten istý matný čierny materiál ako dvere za nimi. Rovnaký ako Maksova krv. Celý priestor bol z neho — nie postavený, nie vytesaný. *Sformovaný.* Akoby niekto pred veľmi dávnou dobou povedal Prachu, čím má byť, a Prach si to pamätal dodnes. [NOTE: Svätyňa je z nakonfigurovaného Čierneho Prachu — rovnaký materiál ako Elysium/Ynetis. Toto miesto je fragment pôvodnej civilizácie NULL VOID, pochovaný pod Itakou tisícročia pred vznikom Chrámu. Krypta Mormiel bola postavená NAD týmto miestom — Kult Matky „adoptoval“ svätyňu, ale nikdy neprenikol za čiernu bránu.]
 
@@ -659,11 +699,11 @@ Tami pozrela na Maksa. Maks mal tvrdý výraz — ale neprotestoval. Oči — ti
 
 Tami vzala artefakt.
 
-A v momente, keď sa jej prsty dotkli studeného kovu — niečo sa stalo.
+A v momente, keď sa jej prsty dotkli studeného kovu — drvivý tlak v miestnosti náhle preblikol. Akcia a reakcia.
 
 *Teplo.*
 
-Prešlo jej rukami. Jemné, takmer nepostrehnuteľné. Ako keby sa v nej niečo *prebudilo*. Ako prvý lúč slnka na koži po dlhej noci. Artefakt bol studený — ale teplo neprišlo z kovu. Prišlo zvnútra.
+Prešlo jej rukami. Jemné, takmer nepostrehnuteľné, ale neskutočne mocné. Artefakt v jej rukách nebola len relikvia. Cítila to. Bola to *anténa*. Niečo, čo nevysielalo len signály, ale rezonovalo s energiou celých planét — a s dušami vonku v krypte. Ako keby sa v nej niečo *prebudilo*. Ako prvý lúč slnka na koži po dlhej noci. Artefakt bol studený — ale teplo neprišlo z kovu. Prišlo zvnútra palice, spievajúcej na rovnakej frekvencii ako jej krv.
 
 Tami žmurkla. Pocit zmizol rovnako rýchlo, ako prišiel. Zostala len palica v rukách — prekvapivo ľahká. Kov mal svoju hmotnosť, svoje miesto v priestore — ale menej, než sľuboval jeho vzhľad. Ako zbraň, ktorá sa *chcela* nechať niesť.
 
@@ -675,13 +715,13 @@ Nie sladký. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký 
 
 Narovnala sa. Hlas sa vrátil k hĺbke.
 
-„Poznala si ju?“ Urobil krok vpred. Hlas kontrolovaný, ale ruky — tie sa *trochu* triasli. Poznala si Netu“?
+„Poznala si ju?” Urobil krok vpred. Hlas kontrolovaný, ale ruky — tie sa *trochu* triasli. „Poznala si Netu?”
 
 Sera mlčala. Dlho. Čierne oči — nekonečné, bezodné — na ňom spočívali s ťarchou tritisíc rokov.
 
 *[Pýta sa na ňu. Otázky, na ktoré nemám právo odpovedať. Ale jednu vec poviem — jednu, pretože si to zaslúži.]*
 
-A potom prehovorila. Nie hlbokým hlasom. Nie sladký hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
+A potom prehovorila. Nie hlbokým hlasom. Nie sladkým hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
 
 Prachové čiastočky vo vzduchu zastali. Nie spomalili. *Zastali.* Viseli v priestore ako hmyz v jantári. Fialový svit zo stien sa v nich lámal na nehybné ihly — zavesené medzi stropom a podlahou, neposlúchajúce nič. Tami to videla — a nevedela, či to bol svet, alebo len jej oči. [NOTE: Ambivalentné — Tami POV. Môže byť subjektívny dojem z Serinej prítomnosti, alebo Prach v svätyni naozaj reaguje na Serin Hlas Pravdy. Čitateľ sa rozhodne sám.]
 
