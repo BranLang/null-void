@@ -583,6 +583,7 @@ Maks sa zarazil. Vodík. Samozrejme."
    ```
 
 4. **Hlas postavy** - slovník, rytmus, myšlienky musia sedieť
+5. **Pozemské merné jednotky a Čas** - Výrazy ako "roky" používajú **LEN** ľudia v ľudskom POV (Maks, Sera, Elania, Renn). Pri Varietas POV (napr. Tami) a v opisoch mimo ľudského POV sa rokom a zemským metrickým jednotkám vyhýbame. Vždy zvažuj, či použitie pozemskej mernej jednotky (času, vzdialenosti) dáva v danom kontexte zmysel. Pre Varietas používaj lore-alternatívy.
 
 ### POV Voice Guide:
 
