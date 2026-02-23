@@ -164,11 +164,40 @@ Yera stuhla. Ruka jej automaticky vystrelila k maske — *zakryť, schovať, od�
 
 „Nie," povedala. [→ books/planning/yera-arc-novela.md: Beat 3 — „Stratila si sa?" / „Nie." (Ale áno.)]
 
-Pauza. Vzdialená hudba. Kvapkanie vody z okapu.
+Pauza. Vzdialená hudba doľahla až k nim; pomalší, tiahly rytmus strún z námestia. Kvapkanie vody z okapu.
 
-Chlapec sa usmial. Pomaly, lenivy úsmev opitého človeka, ktorý neočakáva nič a nediví sa ničomu. Leopardie škvrny na jeho krku sa zachveli, keď prehltol.
+Chlapec zvoľna ukázal na fľašu vo svojich rukách.
+„Víno?“ spýtal sa jednoducho.
 
-„Odtiaľ hore je to lepšie," povedal a kývol hlavou smerom k streche.
+Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
+
+Natiahla ruku a vzala si ju.
+
+Napila sa. Pálilo. Zakašľala si do predlaktia. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako zblúdilý kameň hodený do vody.
+
+„Prvýkrát?“ spýtal sa.
+
+„Nie,“ klamala. A potom, pretože klam sa jej v ústach cítil ako falošná minca — „áno.“
+
+Zasmial sa znova a ona tiež. Smiech dvoch cudzincov na opustenej ulici, keď všetko bolo možné.
+
+Arkot vstal. Oprášil si nohavice, odložil fľašu na schod a natiahol k nej ruku s drsnými prstami. Nepýtal sa na meno. Len kývol hlavou smerom k vysvietenému, hlučnému námestiu, z ktorého sa valil rytmus stoviek strún a bubnov.
+
+„Tak poď,“ usmial sa s pomalým, lenivým úsmevom.
+
+Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia, nieto ešte v dave* — no maska ju chránila. Za ňou nebola kňažka, len slobodná mačka v noci. Položila svoju dlaň do jeho.
+
+Vtrhol s ňou priamo do pulzujúceho davu.
+
+Okolo nich sa mihal vír masiek, tiel a lampiónov. Arkot ju viedol isto, drzo a pritom plynulo, akoby bol s tým hlukom a tancom zrastený. Yera spočiatku stuhla, no jeho ruka na jej páse bola pevná a presne rytmizovaná do krokov ostatných okolo. Postupne sa nechala viesť. Hudba ju strhávala, svaly sa jej uvoľňovali, prestala myslieť na Chrám. Okolo nich sa preplietali iné tancujúce páry, nočná vôňa kvetov, korenín a potu zapĺňala námestie.
+
+Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, v dave, kde nebola dcérou nikoho, iba stredom vlastnej eufórie.
+
+Keď struny dospeli do búrlivého finále a tanec odznel, odfúkli si, opretí o seba ramenami, dýchajúc zrýchlene. Vymanili sa z hlavného prúdu námestia a opäť zišli do tichšieho tieňa skladísk.
+
+Arkot stál blízko nej a potom pomaly kývol bradou hore k oblohe.
+
+„Vieš... odtiaľ hore je to ešte lepšie," povedal a ukázal smerom k streche.
 
 ---
 
@@ -243,17 +272,7 @@ Pieseň stíchla. Posledný tón sa rozplynul v nočnom vzduchu, zmiešal sa s v
 
 Zdvihol fľašu. Potiahol. Podal ju Yere.
 
-Pozrela na ňu — tmavé sklo, mastnota na hrdle, lacné víno, druh, čo kupujú námorníci v prístavných krčmách. Príliš silné, príliš surové pre dcéru klanu Saéli.
-
-Napila sa.
-
-Pálilo. Na jazyku, v hrdle, v hrudi. Zakašľala — rýchlo, potichu, za predlaktím, ako keby sa hanibila. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako kameň hodený do vody.
-
-„Prvýkrát?" spýtal sa.
-
-„Nie," klamala. A potom, pretože klam sa jej v ústach cítil ako falošná minca — „áno."
-
-Zasmial sa znova. Ona tiež. Smiech bol hlúpy, úprimný, ľudský — smiech dvoch cudzincov na streche nad svietiacim mestom v noci, keď lampióny stúpali k hviezdam a všetko bolo možné, pretože sa nepoznali a nepoznanie bolo dar.
+Tentokrát ju vzala s oveľa väčšou istotou ako predtým dole na ulici. Napila sa trpkastej chuti morského hrozna a nevrátila mu ju okamžite. Leopardie škvrny na jeho krku sa zachveli, keď s úsmevom sledoval, ako si tentokrát pýta ďalší hlt z jeho sveta bez odkašľania.
 
 Ticho.
 

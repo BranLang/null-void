@@ -40,13 +40,19 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 „Hľadáme *Knihomoľa*,“ povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy.“
 
-Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy. 
+Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 
-Vlk vkĺzol dnu prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho rohu stiesnenej miestnosti, usadený medzi kopami starých kníh, kde naňho okamžite všetci zabudli. Nastražil uši.
+Prešli cez tmavý obchod — prázdne police, zaprášené vitríny, vzduch zatuchnutý nepoužívaním. Kito ich viedol za pult, kde pod prepálenou lampou čerňali úzke kamenné schody do zeme. [NOTE: obchod je len fasáda — Kito presťahoval všetko cenné do pivnice, odkedy začalo bombardovanie]
+
+„Dole," povedal len.
+
+Vlk vkĺzol prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho rohu pivnice, usadený medzi kopami starých kníh, kde naňho okamžite všetci zabudli. Nastražil uši.
 
 ---
 
-Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
+Pivnica bola stiesnená a nízka. Klenbový strop z kameňa, pod ktorým sa Maks musel skloniť. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami — Kito sem presťahoval všetko, čo malo hodnotu, vrátane seba a Mayi. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Vedľa postele stála kanvica s vodou a miska s omrvinkami. Niekto tu žil. Niekto tu umieral. [NOTE: pivnica = Kitov skutočný domov odkedy sa zhoršilo bombardovanie. Kamenná klenba prežila tri vojny]
+
+Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
 
 *Neznáme. Žiadna zhoda.*
 
@@ -156,7 +162,7 @@ Obchodníkovi z antikvariátu sa rozšírili zreničky. Telekinetické vibrácie
 
 „To… to je Jazyk z počiatkov,” zašepkal Kito hlasom, ktorý sa lámal strachom. Cúvol až k rohu postele. „Kto si? Heretik? Nejaký fanatik z Juhu? Iba stroje ho používajú ako modlitbu.“
 
-Maks neurobil krok vpred, len tam stál ako stĺp tieňa. Kito si musel spojiť Jazyk a samotný fakt, že hľadajú ústredný relikviár v kobkách zaplavených Duchmi, aby pochopil proporcie svojho vlastného zúfalstva.
+Maks neurobil krok vpred, len tam stál ako stĺp tieňa. Kito si musel spojiť Jazyk a samotný fakt, že hľadajú ústredný relikviár v žalári zaplavenom Duchmi, aby pochopil proporcie svojho vlastného zúfalstva.
 
 „Ak si ten, kto sa rozpráva so Stvoriteľkou…” Kito zaváhal. Mýtus bojoval so zdravým rozumom pursanga. 
 
@@ -204,15 +210,107 @@ Kito ešte chvíľu kľačal. Potom vstal. Keď sa otočil, v očiach mal niečo
 
 Trasúcimi sa rukami odsunul mapy a vytiahol kovový tubus. „Chrám má slabinu. Nie v múroch, ale v kanalizácii…”
 
-Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná.
+Rozvinul mapu na stole. Bola stará, kreslená rukou, ale detailná — ruka niekoho, kto tie tunely poznal osobne. Vrstvy sa prekrývali: povrch mesta navrchu, pod ním siete geotermálnych tubulov a parovodov z čias, keď toto mesto ešte nemalo meno. [→ 03-technology.md: geotermálne parovody z éry Impéria Nevriss, pôvodne elektráreň]
 
-„Vstup je pri bitúnku,“ ukázal dlhým prstom. „Starý kanál. Ideme pri odlive.“ Prst sa posunul po mape k Chrámu. „Dve hodiny. Potom nás voda vyženie.“ [→ 05-geography.md: Sai prílivový cyklus, odlivové okno ~2h]
+Všetci štyria sa zošli okolo stola. Maks na jednej strane, Tami na druhej, Kito medzi nimi. Vlk sa nepohol z rohu, ale jeho oči — sivé, nehybné — bežali po mape s presnosťou, ktorá nepatrila zvieraťu. [NOTE: Vlk si zapamätáva trasu. Foreshadowing zrady — odovzdá info Inkvizícii]
 
-„Ale pozor. V tuneloch nie sú stráže. Je tam niečo horšie.“
+„Vstup je tu.” Kito ukázal dlhým prstom na bod pri okraji mapy. „Bitúnok. Starý kanál. Mreža v zemi — pol tony železa, ale korózia ju zožrala zospodu.”
 
-„Čo?“ spýtal sa Maks.
+„Načasovanie?” spýtal sa Maks.
 
-„To, čo tam Cirkev hádže, keď sa nepodarí experiment,“ pozrel sa na nich Kito vážne. „Odpad.“
+„Ťažká hodina.” Kito ťukol na ručne napísané čísla v rohu mapy — prepočty gravitácie, prílivové tabuľky. „Sai za planétou. Gravitácia stúpne, more klesne. Tunely budú priechodné — voda po členky, nie po pás.” Kútik úst sa mu zdvihol. „A stráže ostanú sedieť na zadku. V Ťažkú hodinu sa nikto nechce hýbať.” [→ 05-geography.md: Sai cyklus — fáza 3, gravitácia ~1.45g, odliv]
+
+Prst sa posunul po mape. „Kanál nás dovedie sem — pod mesto. Tu sa tunely delia.” Ukázal na križovatku. „Doľava k dokom. Doprava pod Chrám.”
+
+„Doprava,” povedal Maks.
+
+„Doprava,” súhlasil Kito. „Tu, pod Chrámom, je stará ventilačná komora. Obrovská — strop tri poschodia, mŕtva turbína uprostred. A z nej vedú šachty.” Prst sa zdvihol po mape nahor. „Hore — do žalára.”
+
+Tami sa naklonila. „Tu sú moji ľudia?”
+
+„Áno. Cez ventilačnú šachtu, dva poschodia nad komorou. Šachta je úzka — zmestí sa jeden človek. Strážnik pri celách býva jeden. Mladý, lenivý, v Ťažkú hodinu polospí.”
+
+„Beriem to,” povedala Tami. Žiadne otázky. „Ja a Kito cez šachtu, otvoríme cely, von rovnakou cestou.”
+
+„Vlk ide s vami,” dodal Maks.
+
+Vlk v rohu nereagoval. Len počúval.
+
+Tami kývla. „A ty?”
+
+Maks sa pozrel na mapu. Kitov prst už smeroval hlbšie — pod žalár, pod Chrám, pod všetko.
+
+„Tu,” Kito ťukol na bod, kde mapa prechádzala z presných čiar do neurčitých škrabancov. „Pod komorou sú schody. Točité. Vytesané do skaly — hrany zaoblené tisícročiami krokov. Bol som tam raz, keď ma Cirkev ešte púšťala do archívov.” Odmlčal sa. „Tridsať, možno tridsaťdva otočiek. Vedú hlboko. Hlbšie, než by Chrám kedy priznal.” [→ 04-elanias-blade.md: 32 otočiek kamenného schodiska, zaoblené hrany, skala]
+
+„Kam?”
+
+„Najprv jaskyňa. Niečo staré — staršie než mesto, staršie než Chrám. A za ňou krypta.” Kitov hlas stíchol. „Hrobka Požehnanej Matky. Stovky pilierov. Tma.” [→ 04-elanias-blade.md: krypta Mormiel, stovky kamenných pilierov, reliéfy]
+
+„A pri krypte?” spýtal sa Maks.
+
+Kito stisol pery. „Pri bráne stoja dvaja. Vždy dvaja. Ceremoniálna stráž — elitní Pursangovia.” Prstom nakreslil na stole neviditeľný pentagram. „Títo nie sú tí červení kabáty z mesta. Sú niečo iné. Spevnené zbrane — kopije, meče, aktivované cez haiku. Pentagramové štíty. Generácie strážcov, trénovaných na jedinú úlohu.” [→ 04-elanias-blade.md: Pursang ceremoniálna stráž, haiku-enchanted zbrane, spevnené čepele]
+
+Ticho.
+
+„Dajú sa obísť?” spýtal sa Maks.
+
+Kito pokrútil hlavou. „Cez tých dvoch neprejde nikto. Žiadny protokol. Žiadne hlásenie. Kto sa priblíži, zomrie. To je celé.” [NOTE: ceremoniálna stráž nemá eskalačný protokol — ich jediná úloha je zabiť kohokoľvek, kto sa priblíži k bráne]
+
+Ticho bolo ťažšie než predtým.
+
+„Dvaja,” povedal Maks.
+
+„Počul si, čo som povedal?” Kitov hlas stúpol o oktávu. „Tí dvaja nie sú stráže. Sú *popravčí*. Generácie výcviku. Spevnené čepele, ktoré prerežú čokoľvek. Nikto cez nich —“
+
+„Dvaja,” zopakoval Maks. Rovnakým tónom. Akoby počítal prekážky, nie ľudí.
+
+Kito stisol zuby. Videl Maksove oči. Videl Čierny Prach. Nepovedal nič viac.
+
+Otočil sa na Tami, hľadajúc v jej tvári rovnaký strach.
+
+Nenašiel ho.
+
+Líška stála opretá o stenu s rukami skríženými na hrudi a pozerala na Maksa, akoby práve povedal, že ide na trh kúpiť chlieb. [NOTE: Tami videla Maksa zabiť Samaella — slepého, slabšieho, Ex Inferis. Dvaja Pursangovia s kopijami pre ňu nie sú diera v pláne. Sú najistejší bod celého plánu. → characters/Maks.md: zabil Samaella v AY 3001]
+
+„A za strážcami sú dvere.” Kitov prst sa vrátil na mapu — na miesto, kde čiary končili a začínal prázdny priestor s jedinou poznámkou: *Brána*. „Kamenná brána. Monolitná žula. Vysoká ako tri muži, široká ako piati.” Pozrel na Maksa. „Normálne ju otvára pár desiatok inkvizítorov s pákami a kladkami. Neviem, ako cez to chceš prejsť.” [→ 04-elanias-blade.md: kamenná brána — monolitný blok žuly, výška troch mužov, šírka piatich]
+
+Maks študoval mapu. „Materiál?”
+
+„Žula.”
+
+„Hrúbka?”
+
+„Tri stopy. Možno viac.”
+
+Prikývol. Pomaly. Akoby počítal niečo, čo nikto iný v pivnici nevidel. [→ 03a-nanotechnology.md: Gen 1 — dekonštrukcia materiálu na molekulárnej úrovni, rovnaký princíp ako poklop pri bitúnku]
+
+„Dvere sú môj problém.”
+
+Kito mal sto otázok. Nepoložil ani jednu.
+
+„Za bránou je krypta,” pokračoval namiesto toho. „Hrobka Požehnanej. Stovky pilierov, reliéfy na stenách. Bol som tam raz.” Zaváhal. „Ale len po prvý rad pilierov. Ďalej nás nepustili. Čo je za tým — “ Pokrčil plecami. „Tam mapa končí.”
+
+„Palica je tam,” povedal Maks.
+
+„Podľa textov áno. V srdci krypty.” Kito sa odmlčal. „Ak texty neklamú.”
+
+Tami sa oprela o stôl a spočítala to na prstoch. „Ja, Kito a vlk hore — žalár, dvaja väzni, jeden strážnik. Ty dole — schody, dvaja popravčí, kamenná brána, krypta, palica.” Zdvihla päť prstov. „A dve hodiny na všetko.”
+
+„Dve hodiny,” potvrdil Kito. „Potom nás voda vyženie.” [→ 05-geography.md: Sai prílivový cyklus, odlivové okno ~2h]
+
+„Kde sa stretneme?” spýtala sa Tami.
+
+„Ventilačná komora.” Kito ťukol na mapu. „Tam, kde sa cesty delia. Kto príde prvý, čaká.”
+
+Maks kývol. „Ak do hodiny a pol nebudem na mieste, nechoďte ma hľadať. Vezmite väzňov a choďte.”
+
+Tami otvorila ústa — a zavrela ich. Poznala ten tón. Nemalo zmysel sa hádať.
+
+„Ale pozor,” dodal Kito a jeho hlas stvrdol. „V tuneloch nie sú stráže. Je tam niečo horšie.”
+
+„Čo?” spýtal sa Maks.
+
+„To, čo tam Cirkev hádže, keď sa nepodarí experiment,” pozrel sa na nich Kito vážne. „Odpad.” [→ 03-tunnels.md: nepodarené Spira experimenty, monštrózna kryštalická premena]
 
 A potom sa to stalo.
 
@@ -232,7 +330,7 @@ Vzduch vonku sa roztrhol.
 
 *BOOOOM.*
 
-Okná zabrinčali. Prach zo stropu sa zosypal na Kitove mapy.
+Klenba zadunela. Prach a omietka sa zosypali na Kitove mapy.
 
 O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťažkého delostrelectva.
 
@@ -252,25 +350,25 @@ Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
 
 „Pohyb!“ vykríkla Tami, keď sa ozvala siréna civilnej obrany.
 
-Kito sa vytiahol z Maksovho zovretia. Nohy sa mu triasli, ale stál. Pozrel späť na posteľ, kde Maya ležala — nehybná, krehká, kryštálová ruka na deke ako monument bolesti.
+Kito sa vytiahol z Maksovho zovretia. Nohy sa mu triasli, ale stál. Pozrel na Mayu — pätnásť krokov od neho, v rohu pivnice, pod kamennou klenbou, ktorá prežila tri vojny.
 
-„Maya — “ začal.
+„Tridsať sekúnd,” povedal.
 
-„Poď,“ povedala Tami. Tvrdšie, než chcela. Ale jemnosť by ho zabila — a on to vedel.
+Nečakal na odpoveď. Pristúpil k posteli. Pritiahol deku pod Mayinu bradu. Položil vedľa nej plecháčik s vodou — tak, aby naň dosiahla zdravou rukou. Odhrnul jej vlasy z čela. Rýchle, presné pohyby muža, ktorý túto rutinu opakoval dvakrát denne už mesiace. [NOTE: Kito sa o Mayu stará sám — ráno aj večer rovnaký rituál. Toto je posledný raz pred odchodom]
 
-Kito pristúpil k posteli. Kľakol si. Vzal Mayinu zdravú ruku — tú, čo bola ešte z mäsa — a priložil si ju k tvári. Zatvoril oči. Tri sekundy. Štyri.
+Potom kľakol. Vzal jej zdravú ruku — tú, čo bola ešte z mäsa — a priložil si ju k tvári.
 
-„Vrátim sa,“ zašepkal. „Prisahám na Matku a na každú knihu, čo som kedy prečítal. Vrátim sa s liekom.“
+„Vrátim sa,” zašepkal. „Prisahám na Matku a na každú knihu, čo som kedy prečítal. Vrátim sa s liekom.”
 
 Maya neotvorila oči. Ale jej prsty sa na zlomok sekundy stisli okolo jeho ruky.
 
-Kito ju pustil. Vstal. Otočil sa k dverám.
+Kito ju pustil. Vstal. Vybehol hore po schodoch.
 
 Neohliadol sa.
 
-Vlk, ktorý celý ten čas ticho sedel v rohu a absorboval každé slovo o podzemí, starých plánoch a vzácnom artefakte, sa zdvihol a čakal pri vchode.
+Vlk, ktorý celý ten čas ticho sedel v rohu a absorboval každé slovo o podzemí, starých plánoch a vzácnom artefakte, sa zdvihol a nasledoval ho hore.
 
-Vybehli z bytu do noci, ktorá sa práve menila na peklo.
+Vybehli z obchodu do noci, ktorá sa práve menila na peklo.
 
 ---
 
@@ -288,7 +386,7 @@ Maks ju nasledoval. Neváhal. Nekľučkoval. Šiel rovno, akoby vedel, kam dopad
 
 Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia — bol to palivo. [→ 03a-nanotechnology.md: adrenalín = chemický kofaktor pre Gen 1 procesory]
 
-„Tri bloky!“ zajachtal Kito, visiaci dolu hlavou. „Tri bloky od dopadu — pravdepodobnosť zásahu nášho domu je — musím sa vrátiť, musím ju dostať do pivnice, ona sa nemôže hýbať sama — “
+„Tri bloky!” zajachtal Kito, visiaci dolu hlavou. Stisol zuby. *Kamenná klenba. Pätnásť stôp pod zemou. Tri vojny prežila.* Opakoval si to, kým prestal cítiť pálenie za očami. [NOTE: Kito sa upokojuje — urobil maximum, Maya je v pivnici pod kameňom. Strach nezmizol, ale nebrzdí ho]
 
 „Kde je vstup?“ prerušil ho Maks.
 
