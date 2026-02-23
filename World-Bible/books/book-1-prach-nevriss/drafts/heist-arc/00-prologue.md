@@ -12,7 +12,7 @@ Plamienok v lampe sa náhle nepravidelne rozkmital, naposledy zažiaril v jasný
 
 Muž sediaci v kresle si zťažka povzdychol, pozdvihol pohár pálenky k symbolickému prípitku a v tichosti do seba obsah vyprázdnil.
 
-Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Dlhé medené vlasy jej divoko vliali okolo tváre, pramenmi sa zachytávali o mosadzné letecké okuliare, ktoré mala odsunuté na čelo. Pod kožušinovým golierom blúdiace pramene zakrývali — až na okamih — špicaté líščie uši.
+Dvere jemne zaškrípali. Do miestnosti sa vkradla mladá žena v leteckom kabáte. Dlhé medené vlasy jej divoko viali okolo tváre, prameňmi sa zachytávali o mosadzné letecké okuliare, ktoré mala odsunuté na čelo. Ani husté pramene nad kožušinovým golierom však nedokázali skryť jej výrazné, špicaté líščie uši, ktoré hrdo vytŕčali do priestoru.
 
 Jej oči boli Zafírovo modré, jasné ako zamrznuté jazero v slnečnom svetle. 
 

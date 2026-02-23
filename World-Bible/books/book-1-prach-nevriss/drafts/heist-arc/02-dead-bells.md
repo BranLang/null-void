@@ -54,7 +54,7 @@ Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá kniha
 
 „Nie sme zlodeji,“ povedal Maks a prešiel prstom po starom zvitku na stole. Bol to nákres ventilačného systému. *Chrámu Vševedúcej Matky.* „A vy nie ste len knihovník, však, Kito?“
 
-Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne zavibroval — prejav silnej telekinézy pod vplyvom stresu. Kniha na stole sa sama od seba posunula o centimeter.
+Kito stuhol. Jeho oči, žlté štrbiny, sa zúžili. Vzduch okolo neho jemne zavibroval — prejav silnej telekinézy pod vplyvom stresu. Kniha na stole sa sama od seba posunula o palec.
 
 „Kto vás poslal?“ zasyčal.
 
@@ -70,7 +70,7 @@ Kito otvoril ústa, ale nevyšiel z nich žiadny zvuk. To sa nedalo vymyslieť. 
 
 „Priateľov,“ zrýchlila Tami. „Cirkev zadržiava pod Chrámom dvoch členov mojej posádky. Majú ísť na verejnú popravu. Vieme, že tam dole vedú staré tunely, a ty si jediný, kto má plány pôvodnej ventilácie.“
 
-„A ten artefakt,“ doplnil ju Maks s ťažkým prízvukom, úplne ignorujúc jej predchádzajúcu vetu. „Tá metrová čierna palica schovaná v tme. To je zaplatenie za jej priateľov.“
+„A ten artefakt,“ doplnil ju Maks s ťažkým prízvukom, úplne ignorujúc jej predchádzajúcu vetu. „Tá trojstopová čierna palica schovaná v tme. To je zaplatenie za jej priateľov.“
 
 Tami ho prepadla pohľadom, ale mlčala. Na ďalšiu hádku pred svedkami nebol priestor.
 
@@ -338,7 +338,7 @@ Ticho.
 
 Bolo to prvé, čo si uvedomili.
 
-Hore zúrilo peklo a tu, päť metrov pod dlažbou, jeho ozveny kruto dorážali. Každý dopad granátu hore na ulici zatriasol celým tubusom, zo stropu sa so škrípaním zosypával prach a úlomky keramiky priamo do čiernej vody. Bolo tu tichšie, áno — ale ticho tu definoval iba tlmený hrkot padajúceho mesta a ťažký, zrýchlený dych štyroch bytostí.
+Hore zúrilo peklo a tu, pätnásť stôp pod dlažbou, jeho ozveny kruto dorážali. Každý dopad granátu hore na ulici zatriasol celým tubusom, zo stropu sa so škrípaním zosypával prach a úlomky keramiky priamo do čiernej vody. Bolo tu tichšie, áno — ale ticho tu definoval iba tlmený hrkot padajúceho mesta a ťažký, zrýchlený dych štyroch bytostí.
 
 Maks sa postavil. Jeho topánky čvachtali v niečom, čo nechcel analyzovať. Zapol nočné videnie.
 
@@ -350,7 +350,7 @@ Senzory mu na sekundu zlyhali. Nanoboty v krvi zaregistrovali stresový výkyv a
 
 „Zlomená vetva,“ ozvala sa Tami z tmy. Vo zvuku jej krokov sa dalo rozoznať škrípanie roztrieštených kúskov pod podrážkou. Luskla chemickou tyčinkou.
 
-Modrá žiara zaplavila meter priestoru a odrazila sa v jej úzkych líščich zreničkách. Pod jej topánkou nebola vetva. Bol to sčernetý, rozdrtený hrudný kôš potiahnutý tými istými kryštálmi, aké pred chvíľou videli u Mayi. Ibaže tieto boli stvrdnuté, hnijúce a prerazené deformovanými rebrami.
+Modrá žiara zaplavila stopu priestoru a odrazila sa v jej úzkych líščich zreničkách. Pod jej topánkou nebola vetva. Bol to sčernetý, rozdrtený hrudný kôš potiahnutý tými istými kryštálmi, aké pred chvíľou videli u Mayi. Ibaže tieto boli stvrdnuté, hnijúce a prerazené deformovanými rebrami.
 
 „Takto tu končia,“ šepla Tami a znechutene stiahla nohu z torza.
 

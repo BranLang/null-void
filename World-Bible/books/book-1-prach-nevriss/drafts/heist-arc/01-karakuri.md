@@ -16,7 +16,7 @@ Mesto to vedelo. A mesto sa pripravovalo na posledný úder.
 
 Prístav nebol úplne zamrznutý — termálne pramene pod mestom udržiavali vodu v pohybe a soľ robila zvyšok — ale kryhy sa pomaly tlačili medzi kotviacimi loďami a nosiči museli rozbíjať ľad na mólach palicami, aby vôbec mohli vykladať.
 
-Na doku o dvesto metrov od nich práve kotvila obrovská nákladná bárka. Žeriavy vyťahovali z jej útrob hrozivo vyzerajúce drevené debny — desiatky, stovky — a nosiči ich na zamrznutých vozíkoch odvážali do skladov. Zbrane. Poloautomatické karabíny, debny s delostreleckými granátmi, sudy s korditom, bojové nože z kvalitnej ocele. Tami cítila ten ostrý pach kovu a konzervačného oleja až sem hore.
+Na doku o dvesto yardov od nich práve kotvila obrovská nákladná bárka. Žeriavy vyťahovali z jej útrob hrozivo vyzerajúce drevené debny — desiatky, stovky — a nosiči ich na zamrznutých vozíkoch odvážali do skladov. Zbrane. Poloautomatické karabíny, debny s delostreleckými granátmi, sudy s korditom, bojové nože z kvalitnej ocele. Tami cítila ten ostrý pach kovu a konzervačného oleja až sem hore.
 
 Z inej bárky vykladali vrecia — obilie, sušené mäso, sudy s pitnou vodou. Zásoby na obliehanie. Celý prístav sa zmenil na vojenskú základňu. Vzducholode, riečne parníky a nákladné vlaky sa navzájom blokovali a vytvárali zápchy. Kolosálne žeriavy neustále prekladali náklad z miesta na miesto, snažiac sa vytvoriť koridor pre tisíce robotníkov pracujúcich v tomto mrazivom pekle.
 
@@ -26,7 +26,7 @@ Za ňou stáli agitátori s megafónmi — parné trúby zosilňujúce hlas — 
 
 A medzi tým všetkým — žoldnieri. Prúdili do mesta z každej strany — z lodí, z brán, z ciest vedúcich na východ aj západ. Svalnatí muži a ženy v rozličných brneniach a uniformách, so zbraňami na chrbte a peniazmi na mysli. Najatí mečiari z pobrežných miest, veteráni z východných hraníc, skupina s guľometmi a krutými tvárami. Boli tu aj dobrodruzi — menšie skupinky s menej profesionálnym výrazom, ale s rovnako smrteľnými zbraňami. Prichádzali za zlatom, za slávou, alebo len za teplým jedlom a strechou nad hlavou.
 
-Niektorí z nich mali okolo zápästí mystické tetovanie — bojové znaky, dôkaz posvätných schopností. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Dar Matky bol v čase vojny menou drahšou než zlato.
+Niektorí z nich mali okolo zápästí mystické tetovanie — dôkaz posvätných schopností. [→ 03-technology.md: Wa-Spira, bojová aplikácia nanotech] Tami si všimla, že verbovací dôstojníci takých púšťali dopredu v rade a ponúkali im vyšší žold. Dar Matky bol v čase vojny menou drahšou než zlato.
 
 Vojna bola pre obchodníkov tragédia a pre žoldnierov svadba.
 
@@ -40,12 +40,13 @@ Odtiahla sa od motora a oprela si chrbát o stenu. Zavrela oči. Len na chvíľu
 
 Za posledných 24 hodín nespala. Pristávací manéver vyžadoval maximálne sústredenie. Museli vypnúť motory míle pred prístavom a nechať loď kĺzať tichým pádom, aby ich nezachytili Grawské akustické zrkadlá na hrebeňoch hôr. Dokĺzať zotrvačnosťou do doku sedemnásť, s poškodeným čerpadlom a vetrom v chrbte, bola hra nervov. Stačila jedna chyba a skončili by rozbití o útesy.
 
-Odtiaľ to bolo k Hlavnému chrámu šesť kilometrov cez celé mesto.
+Odtiaľ to bolo k Hlavnému chrámu štyri míle cez celé mesto.
 
-Šesť kilometrov cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
+Štyri míle cez pohraničné mesto, ktoré sa od začiatku tejto zimy zmenilo z obchodného prístavu na vojenskú základňu.
 
+Arkot, Yera, Flint.
 
-Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Arkot, Yera, Flint. Prvá posádka, s ktorou si vybudovala meno. [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela] Boli to hľadači pokladov. Spolu preskúmali mnohé ruiny. Tami hľadala poklady — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — osem rokov po boku Exorcistu z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale našli niečo, čo nemali nájsť.
+Spomienka na nich ju zasiahla nečakane, ako bodnutie. Videla ich tváre. Prvá posádka, s ktorou si vybudovala meno. [→ characters/Arkot.md: väzeň] [→ characters/Yera.md: Požehnaná, čistá cela] Boli to hľadači pokladov. Spolu preskúmali mnohé ruiny. Tami hľadala poklady — artefakty z dávnych dôb, čokoľvek s hodnotou. Kostry a duchovia v ruinách boli rutina — vyrastať po boku Exorcistu, to z človeka vyžmýka strach z mŕtvych. [→ characters/Maks.md: Exorcista, 13 rokov na Nevriss] Nevenovala im pozornosť. Ale našli niečo, čo nemali nájsť.
 
 Flinta za to zabili pri zatýkaní. Tasil zbraň — *samozrejme, že tasil zbraň, ten idiot* — a strážcovia Chrámu ho prešpikovali dvoma guľkami na mieste. 
 
@@ -86,9 +87,9 @@ Potlačila nutkanie sa nahlas zasmiať. „Šo“ v jazyku Líščieho národa z
 
 „S kým mám tú česť? Odkiaľ vedie vaša cesta a aký je dôvod vašej návštevy?“ vyzvedal dôstojník autoritatívnym tónom.
 
-Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po siedmich rokoch po jeho boku sa naučila čítať jeho tvár lepšie než mapy. [→ characters/Tami.md: vzťah Tami-Maks, 7 rokov spolu + 5 odlúčenia]
+Tami pozorovala Maksa. Poznala ten jeho výraz — tú drobnú vrásku medzi obočím, ktorá sa objaví, keď ho niekto otravuje. Po detstve strávenom po jeho boku sa naučila čítať jeho tvár lepšie než mapy. [→ characters/Tami.md: vzťah Tami-Maks, 7 rokov spolu + 5 odlúčenia]
 
-*Po piatich rokoch odlúčenia sa ju stále neodnaučila.*
+*Ani po dlhom odlúčení sa ju stále neodnaučila.*
 
 Maks sa rozhliadol naokolo, akoby hľadal osobu, ktorej bola otázka smerovaná. Nikto iný tam nebol. Posádka sa už pravdepodobne rozpŕchla do mesta, ako vždy, keď zakotvili niekde, kde existovali krčmy. Až na Borga — obrovský medveď s jedným okom sedel na otočnej plošine kanóna a leštil mosadzný záver s trpezlivosťou mnícha. [→ planning/peaceful-squishing-glacier.md: zmienka Borg a Nix] A Nix — niekde dolu pod palubou počula jeho chraptivý hlas nadávať na prasknuté potrubie. Nix mal talent na vulgarizmy v štyroch jazykoch a opravu čohokoľvek, čo sa dalo mlátiť kľúčom. [→ characters/Tami.md: Nix, Usagi Varietas, hlavný mechanik]
 
@@ -103,9 +104,7 @@ A tu jeden stál na palube ich doku, s rukami za chrbtom, ako keby mu to mesto p
 Dôstojníkov tón sa okamžite zmenil. Zdvorilosť zmizla ako para z kávovára. „Exorcista,“ zopakoval a to slovo znelo z jeho úst, akoby žuval niečo kyslé. „V Nevriss nemáme vo zvyku vítať *vašich*. Exorcisti patria do hôr, nie do našich prístavov.“ Ruky sa mu nepatrne posunuli bližšie k šabli na opasku. „Aký je dôvod vašej prítomnosti? A hovorte rýchlo — nemám čas na hádanky.“
 
 
-*No samozrejme*, pomyslela si Tami. *Ten prízvuk. Prízvuk Staroreči — jazyka, ktorý tu nik nepoužíva tri tisícročia. A aj po trinástich rokoch v Terre znie, ako keby sem nepatril. Lebo on sem nepatrí.* [→ characters/Maks.md: pozemský pôvod, Staroreč = angličtina/ukrajinčina] [→ concepts/maks-ukraine-origin.md]
-
-Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami videla, ako sa mu čeľusť nepatrne napla. Ovládal sa.
+*No samozrejme*, pomyslela si Tami. *Ten prízvuk.* Maks rozprával hrubým, úsečným dialektom z Belladiss — jazykom, ktorý sa navždy nalepil na jeho hlasivky počas jeho exorcistických ciest. Ona sama hovorila plynule tuctom jazykov od Nyau až po Raiju, dokázala napodobniť aristokratov aj prístavných robotníkov, ale tu — v Nevriss, kde bola prvýkrát v živote — znela jej reč ako zvláštny zlepenec severu a východu. Obaja tu na juhu svietili ako požiar v noci. [→ concepts/maks-belladiss-accent.md] [→ characters/Tami.md: polyglot, prvá návšteva Nevriss]
 
 „Artefakt,“ povedal Maks a prízvuk mu prekĺzol cez slovíčka ako prsty po rozbitom skle. „Váš Chrám má niečo v kobkách. Niečo staré. Niečo, čo priťahuje Duchov.“ [→ concepts/antenna-essence-transfer.md: Anténa v kobkách Chrámu] Nechal tie slová visieť vo vzduchu. „Prišiel som preventívne. Možno bude robota.“
 
@@ -113,7 +112,7 @@ Maks ostal pokojný. Kamenná tvár. Tmavé okuliare mu skrývali oči, ale Tami
 
 Dôstojník sa zamračil. „O žiadnom artefakte neviem. Budem musieť kontaktovať úrady.” Uši mu nervózne strhli dozadu. *Klamal.*
 
-„Nie je to nutné,“ prerušil ho Maks a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o centimeter vyššie. „Neobťažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy.“
+„Nie je to nutné,“ prerušil ho Maks a urobil krok vpred. Nebol to veľký krok, ale vojaci za dôstojníkom automaticky zdvihli zbrane o palec vyššie. „Neobťažujte ich kvôli mne. Mesto má momentálne o dosť vážnejšie problémy.“
 
 Kývol hlavou smerom k oblohe, kde medzi mrakmi visel dym z grawských pozícií za priesmykmi.
 
@@ -362,7 +361,7 @@ Prešla okolo skupiny žoldnierov, ktorí si pred krčmou čistili zbrane. Jeden
 
 Niekde tam dole, pod dlažbou, pod kanálmi, pod základmi Hlavného Chrámu Vševedúcej Matky, ležal **Artefakt**. Vec, ktorá by nemala existovať. [→ concepts/antenna-essence-transfer.md: Anténa, hlavný McGuffin Book 1]
 
-*Šesť kilometrov*, pomyslela si. *Šesť kilometrov, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vyslobodiť Yaru a vziať to a zmiznúť skôr, než nás chytia, zabiť pri tom čo najmenej ľudí.*
+*Štyri míle*, pomyslela si. *Štyri míle, jeden deň na opravu lode, a potom sa musíme dostať do kobiek, vyslobodiť Yeru a vziať to a zmiznúť skôr, než nás chytia, zabiť pri tom čo najmenej ľudí.*
 
 Vojna im hrala do karát. Celé mesto sa opevňovalo a Chrám Vševedúcej Matky mal teraz iné starosti než strážiť kobky. Stráže sa presúvali na hradby, kňažky organizovali evakuáciu cenností na juh a v uliciach vládol chaos, v ktorom sa dva tiene mohli stratiť.
 
@@ -404,7 +403,7 @@ Dopíjala druhé pivo, keď to ucítila. Pohľad. Nie z vedľajšieho stola — 
 
 Pod stolom sa pohli dve šedé oči — jedno jasné, druhé zakalené šedým závojom. [→ characters/Vlk.md: Ghorki zradca, poznal Renna]
 
-Veľký vlk. Šedá srsť, miestami vypadaná, matná, špinavá. Jazvy na ľavom uchu — odhryznuté, starý boj. Vyzeralo to, akoby ho mesto žuvalo roky a potom vypľulo. Ghorki. Chiméra. Quadrupedálny — žiadne ruky, žiadna bipedálna postava. Skutočný vlk, ktorý hovoril. [→ 06-society.md: Ghorki Chiméry, quadrupedálne bytosti s takmer ľudskou inteligenciou]
+Veľký vlk. Šedá srsť, miestami vypadaná, matná, špinavá. Jazvy na ľavom uchu — odhryznuté, starý boj. Vyzeralo to, akoby ho mesto žuvalo a potom vypľulo. Ghorki. Chiméra. Quadrupedálny — žiadne ruky, žiadna bipedálna postava. Skutočný vlk, ktorý hovoril. [→ 06-society.md: Ghorki Chiméry, quadrupedálne bytosti s takmer ľudskou inteligenciou]
 
 V Nevriss boli Ghorki neviditeľní. Nikto si nevšimol vlka pod stolom. Nikto nikdy nevšimol vlka nikde.
 
@@ -504,7 +503,7 @@ O päť sekúnd bola ulička prázdna. Odkrajoval ich len šedý sneh.
 
 Tami pustila štít. Zlaté svetlo zhaslo rovnako náhle, ako vzniklo. Chlad v prstoch sa rozlial do celej ľavej ruky. Zanadávala a pošúchala si predlaktie. Nadel vrátila do pošvy rýchlym, čistým pohybom.
 
-Maks k nej prišiel. Zastal len meter od nej.
+Maks k nej prišiel. Zastal sotva krok od nej.
 
 „Zlý inštinkt,“ poznamenal neutrálnym hlasom.
 
