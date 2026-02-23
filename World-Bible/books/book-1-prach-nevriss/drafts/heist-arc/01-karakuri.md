@@ -186,7 +186,7 @@ Maki vedeli. Tí záhadní, tichí mechanici, ktorí boli najlepšími technoló
 
 Vysušila si ruky, prehodila si cez hlavu čistý kabát a stiahla kapucňu hlboko do čela. Uši schovala pod šatkou — v Nevriss nepotrebovala zbytočnú pozornosť. Nie dnes.
 
-Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maksov výcvik. Trinásť rokov starý návyk, ktorý sa jej vryl do kostí. [→ characters/Tami.md: vojenský výcvik od Maksa]
+Na opasok si pripla obe pištole. Desiatky zásobníkov po celom tele — v čižmách, za opaskom, v podšívke kabáta. Maksov výcvik. Starý návyk, ktorý sa jej vryl do kostí. [→ characters/Tami.md: vojenský výcvik od Maksa]
 
 *Jeho hlas, pokojný, trpezlivý, nekonečne trpezlivý. „Nie zápästím. Celým ramenom. Cíť váhu. Pištoľ je predĺženie tvojej vôle.“*
 
@@ -196,7 +196,7 @@ Iný hlas. Starší. Mechanický, aj keď sa ho naučil robiť teplým.
 
 *„Kanón pôjde. Ja nie.“* [→ characters/Felix.md: Felix odmietol ísť, strach z vonkajšieho sveta] [→ planning/peaceful-squishing-glacier.md: Zmena D — Felix flashback]
 
-Felix stál v dielni v Kitsune — osemsto rokov v tých istých ruinách. Tami pred ním s mapou v jednej ruke a zúfalstvom v druhej.
+Felix stál v dielni v Kitsune — v ruinách v ktorých sa ukrýval pred svetom 160 zím. Tami pred ním s mapou v jednej ruke a zúfalstvom v druhej.
 
 *„Felix, prosím. Potrebujem ťa.“*
 
@@ -253,7 +253,7 @@ Vedel to. Tami to vedela. Každý dospelý na tom námestí to vedel. Žiadny �
 
 *A v tom úsmeve bolo všetko*, pomyslela si Tami. *Celý tento svet. Krása a krutosť v jednom dychu.*
 
-Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred dvoma rokmi v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
+Pri Tretej Bráne sa zastavila. Bránu strážili dve sochy — Matka s mečom a Matka s váhami. Ich kamenné oči boli prázdne, slepé, presne ako spravodlivosť v tomto meste. Odtiaľ viedla úzka, kľukatá ulička dolu k Remeselnému okrsku. Tami vedela — z máp, ktoré kúpila ešte pred začiatkom zimy v prístavnom meste ďaleko na východe — že práve tu bývali kováči, hodinári a mechanici. Ak bol v meste Mako, nachádzal sa tu.
 
 Schádzala po schodoch z namrznutého kameňa. Ulička sa zužovala. Domy sa k sebe nakláňali, akoby sa šeptali. Bielenie padalo zo stien v plátoch. Prádlo viselo medzi oknami na lanách, zamrznuté do strnulých tvarov — košele s roztiahnutými rukávmi, ponožky stuhnuté v smere vetra.
 
@@ -313,7 +313,7 @@ Mako prekvapene zdvihol obočie.
 
 „Ten štvrtý mám na lodi.“
 
-Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaželo, akoby vzduch zhustol pod váhou storočí. Potom sa jeho pery, ktoré vyzerali ako zapečatené, pomaly pohli a prvýkrát prelomil mlčanie. Jeho hlas znel ako škrípanie hrdzavých pántov brány, ktorá nebola otvorená tisíc rokov.
+Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaželo, akoby vzduch zhustol pod váhou storočí. Potom sa jeho pery, ktoré vyzerali ako zapečatené, pomaly pohli a prvýkrát prelomil mlčanie. Jeho hlas znel ako škrípanie hrdzavých pántov brány, ktorá nebola otvorená veky.
 
 „Nový prototyp?“
 
@@ -335,7 +335,7 @@ Mako ju chvíľu pozoroval. Potom znova ukázal dva prsty, ale tentoraz jeden z 
 
 Tami mu do nej vložila malé vrecko mincí. „Záloha. Pošlem niekoho z posádky s čerpadlom ešte dnes večer. Budete ho mať na stole do západu slnka.“
 
-Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — hrubý nákres Chrámu Vševedúcej Matky, kreslený z pamäte podľa máp, ktoré kúpila pred dvoma rokmi.
+Zaváhala. Potom z vnútorného vrecka kabáta vytiahla poskladaný papier — hrubý nákres Chrámu Vševedúcej Matky, kreslený z pamäte podľa máp.
 
 „Ešte niečo. Pozná niekto v meste pôvodné plány ventilácie? Z čias pred prestavbou.“ [→ planning/01-prach-nevriss.md: heist plán, ventilácia Chrámu]
 
