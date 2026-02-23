@@ -320,8 +320,6 @@ Maksov Asistent vykreslil červenú zónu dopadu priamo na ich pozíciu.
 
 Nečakal, kým Tami odskočí. Pozrel sa na poklop.
 
-Nanoboty v jeho krvi sa aktivovali.
-
  Masívny železný poklop, vážiaci pol tony a zhrdzavený storočiami nepoužívania, sa rozpadol na drobné kocky — presne, chirurgicky, ako keď niekto nakrája maslo kuchynským drôtom.
 
 Vlastnou váhou sa prepadol poklop do tmy.
@@ -345,8 +343,6 @@ Maks sa postavil. Jeho topánky čvachtali v niečom, čo nechcel analyzovať. Z
 Svet sa zmenil na odtiene zelenej a šedej. Stáli v tuneli, ktorý nebol vykopaný lopatami. Bol to *tubus*. Dokonalý kruh, steny pokryté keramickými panelmi, teraz popraskanými a pokrytými slizom.
 
 Pre Maksa to však nebol len sliz. Teplota. Vlhkosť. Pach ozónu a hniloby. Niečo mu tu bolo povedomé a z toho mu bolo zle.
-
-Senzory mu na sekundu zlyhali. Nanoboty v krvi zaregistrovali stresový výkyv a potlačili ho skôr, než si to stihol uvedomiť.
 
 „Zlomená vetva,“ ozvala sa Tami z tmy. Vo zvuku jej krokov sa dalo rozoznať škrípanie roztrieštených kúskov pod podrážkou. Luskla chemickou tyčinkou.
 
