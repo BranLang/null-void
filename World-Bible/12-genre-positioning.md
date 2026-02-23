@@ -12,7 +12,7 @@ Nie je to jeden žáner s príchuťou iného. Je to **DNA helix** — štyri vl�
 
 | Vlákno | Čo prináša | Príklad v NULL VOID |
 |--------|------------|---------------------|
-| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere dobrodruhka. Sera = kawaii hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
+| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere dobrodruhka. Sera = sladký hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
 | **Sci-Fi (Hard)** | Pravidlá, limity, logika, Clarke's Law ako motor deja | Pentagram = IDE. Modlitby = voice-activated skripty. Wraithy = nanoboty s pudom sebazáchovy. |
 | **Dieselpunk** | Estetika, technologická úroveň, atmosphere | Vodíkové vzducholode, revolvery, art deco, žiadna elektronika. Rúry, ozubené kolesá, para. |
 | **Grimdark** | Dôsledky, morálna komplexita, žiadny plot armor | Verejné popravy a vystavenia tiel. Body horror (Maya → kryštál). Kastový systém. Smrť je permanentná. |
@@ -92,7 +92,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 | Worldbuilding / prieskum | 4-6 | Mako workshop s čajovým rituálom. Tržnica v Šoravene. |
 | Bonding / oddych | 6-8 | Tami snark na palube Itaky. Maks „turista" na colnici. |
 | Politika / náboženstvo | 3-5 | Goro Interlude. Cirkev exorcizmy. Sera/Elania dialóg. |
-| Sera scény | 2-8 | Zámerne nepredvídateľné — JE to jej charakter. Kawaii hlas → brutálny boj. |
+| Sera scény | 2-8 | Zámerne nepredvídateľné — JE to jej charakter. Sladký hlas → brutálny boj. |
 
 ### Kedy humor
 
@@ -101,7 +101,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
   - Slovenský wordplay — „Šo" = hovno v líščom jazyku (Ch1)
   - Japonské kultúrne humory — Mako rituály, Tami nesprávny úklon, „Kowai"
   - Tami irreverentnosť vs. Maksov stoicizmus
-  - Sera kawaii hlas ako unsettling komika
+  - Sera sladký hlas ako unsettling komika
 - **Pravidlo:** Humor nikdy nepodkopáva stávky — existuje VEDĽA tmy, nie namiesto nej.
 - **Príklad z Ch1:** Tami myslí „Šo?" o Šoravene, zatiaľ čo mesto je pod obliehaním a telo jej mŕtveho priateľa bolo vystavené na námestí.
 

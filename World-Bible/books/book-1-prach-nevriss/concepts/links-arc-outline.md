@@ -107,7 +107,7 @@
 [→ links-notebook-first-contact.md: DETAILNÝ POPIS]
 - **Lokácia:** Kitov antikvariát, izba kde leží Maya.
 - **Setup:** Po lore dumpe s Kitom (Scene 4.5, viď links-kito-healing.md). Kito odišiel do kuchyne.
-- **Akcia:** Links otvára notebook. Kawaii nálepky, gravírovanie `i_net_is 2065`. Linux, žiadne heslo, rovno desktop. Adresáre: photos, diary, music, anime, manga. Súkromný život Inetis.
+- **Akcia:** Links otvára notebook. Roztomilé nálepky, gravírovanie `i_net_is 2065`. Linux, žiadne heslo, rovno desktop. Adresáre: photos, diary, music, anime, manga. Súkromný život Inetis.
 - **Objavenie:** Notifikácia — 2 nearby devices. Links sa pripojí na bližšie ID → Mayine nanoboty. SPIRA-LINK v0.7.3-alpha. Source code. README.md. *"What If the Gods Left Source Code?" Nechali.*
 - **Eskalácia:** Ďalšie zariadenia — 2, 4, 13, 35, 60, 100, 340... Links vytiahne Spira kryštál. Notebook zhasne.
 - **Prečo:** Notebook napájaný Spirou generuje EM pole → prebúdza dormantné nanoboty v okolí → priťahuje ich k sebe. Toto je dôvod, prečo Terra nemá elektriku.

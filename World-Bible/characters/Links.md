@@ -31,7 +31,7 @@
   - Linux terminál (hackovanie dronov)
   - Scrambler (rušenie komunikácie)
 - **Sera's Laptop:** Ancient Relic (rok 2065).
-  - Gravírovanie `i_net_is`, Kawaii nálepky.
+  - Gravírovanie `i_net_is`, Roztomilé nálepky.
   - **Powered by Spira Crystal** (retrofit od J-Seven).
   - Obsahuje "Translation Engine" pre Gen 1/2 a **osobné denníky Inetis**.
 - **Vznášadlo:** Staré, opravované, ale spoľahlivé — jeho "biely kôň"

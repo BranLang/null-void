@@ -579,7 +579,7 @@ J-Seven neodpovedal. Natiahol ruku. Kovové prsty — tri z piatich — sa otvor
 
 „Daj mi to."
 
-Links nevedel prečo, ale poslúchol. Ako keby ho tie modré oči *presvedčili* bez jediného argumentu. Siahol do batohu a vytiahol **Prastarý Laptop**. Mŕtvu tehlu z roku 2065. Kawaii nálepky na kryte — mačky, hviezdy, smajlíky v štýle, ktorý neexistoval dvetisíc rokov. Gravírovanie na boku: `i_net_is 2065`.
+Links nevedel prečo, ale poslúchol. Ako keby ho tie modré oči *presvedčili* bez jediného argumentu. Siahol do batohu a vytiahol **Prastarý Laptop**. Mŕtvu tehlu z roku 2065. Roztomilé nálepky na kryte — mačky, hviezdy, smajlíky v štýle, ktorý neexistoval dvetisíc rokov. Gravírovanie na boku: `i_net_is 2065`.
 
 J-Seven ho vzal. Kovové prsty sa pohybovali pomaly, skoro *nežne*. Odšrauboval zadný kryt — malou skrutkou z puzdra pri páse, presným, nacvičeným pohybom. Otvoril. Vytrhol starú batériu — vytečenú, korodovanú, mŕtvu.
 

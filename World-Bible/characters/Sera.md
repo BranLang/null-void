@@ -502,7 +502,7 @@ Sera celý život chránila Elaniin rod. A nevedomky:
 
 **Tri hlasy:**
 1. **Hlboký hlas** (business): studený, starý, scary
-2. **Kawaii hlas** (manipulácia): fake cute, destabilizuje
+2. **Sladký hlas** (manipulácia): fake cute, destabilizuje
 3. **Hlas pravdy** (proroctvo): vzácny, rezonujúci, desivý
 
 **SPRÁVNE:**
@@ -516,7 +516,7 @@ Sera celý život chránila Elaniin rod. A nevedomky:
 ```
 ❌ "To bola úžasná práca s tými nanobotmi!"
 ❌ Dlhé vysvetľovania a prednášky
-❌ Technické info v kawaii hlase
+❌ Technické info v sladký hlase
 ```
 
 **POVINNÉ poznámky:**
@@ -568,12 +568,12 @@ Kalkulácia: nech hovoria oni prvé.]*
 
 **Špecifické hlasy (Voice Modes):**
 1. **Hlboký hlas (Business)**: Studený, starý, scary.
-2. **Kawaii hlas (Manipulácia)**: Fake cute, destabilizuje, *nikdy* nehovorí technické info.
+2. **Sladký hlas (Manipulácia)**: Fake cute, destabilizuje, *nikdy* nehovorí technické info.
 3. **Hlas pravdy (Proroctvo)**: Vzácny, rezonujúci, desivý.
 
 **POVINNOSŤ:** Pri písaní Seriných dialógov MUSÍ byť ku KAŽDEJ jej vete poznámka v hranatých zátvorkách vysvetľujúca:
 - Prečo zvolila tieto konkrétne slová
-- Aký tón/hlas použila (hlboký/kawaii/pravda)
+- Aký tón/hlas použila (hlboký/sladký/pravda)
 - Čo tým chce dosiahnuť
 - Čo NECHCE povedať
 - Aká je jej kalkulácia

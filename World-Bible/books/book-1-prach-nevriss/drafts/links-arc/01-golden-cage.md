@@ -420,7 +420,7 @@ Prvý: tenká kniha. Ručne šitá väzba, požltnutý papier. Na obálke nič �
 
 Druhý: laptop.
 
-Starý. Ťažký. Poškrabaný. Na zadnej strane vygravírované slová: `i_net_is 2065`. A po celom povrchu — nálepky. Kawaii nálepky. Labky. Dúhy. Hviezdy. Mačiatko v astronautickom helme. Vyblednuté, popukané, niektoré už len tiene lepidla na plastu. Tritisíc rokov staré. Niekto ich tam nalepil s láskou, dávno, na inom svete. Dievča jeho veku, na planéte, ktorú už nikto nepamätal.
+Starý. Ťažký. Poškrabaný. Na zadnej strane vygravírované slová: `i_net_is 2065`. A po celom povrchu — nálepky. Roztomilé nálepky. Labky. Dúhy. Hviezdy. Mačiatko v astronautickom helme. Vyblednuté, popukané, niektoré už len tiene lepidla na plastu. Tritisíc rokov staré. Niekto ich tam nalepil s láskou, dávno, na inom svete. Dievča jeho veku, na planéte, ktorú už nikto nepamätal.
 
 Links sa díval na laptop. Na nálepky. Na gravírovanie.
 
@@ -432,7 +432,7 @@ Pauza.
 
 A potom sa niečo zmenilo. Hlas sa zlomil. Nie — *pretvoril*. Z hlbokého, autoritatívneho tónu sa stal niečo ľahké, mladé, takmer hravé. Akoby dvadsaťročné dievča žartovalo s kamarátom.
 
-„*Laptop-chan* je mŕtvy," povedala a v hlase bolo niečo, čo Links nevedel pomenovať — smiech? Nostalgia? „Ale nájdeš niekoho, kto ho oživí. Na juhu." [→ characters/Sera.md: Kawaii hlas — destabilizácia]
+„*Laptop-chan* je mŕtvy," povedala a v hlase bolo niečo, čo Links nevedel pomenovať — smiech? Nostalgia? „Ale nájdeš niekoho, kto ho oživí. Na juhu." [→ characters/Sera.md: Sladký hlas — destabilizácia]
 
 Links cítil, ako mu po chrbte prebehol mráz. Nie zo strachu. Z *nesúladu*. Krásna mladá žena s hlasom dievčaťa, ktorá pred sekundou hovorila ako generál. A on tu stál, s červenou tvárou a trasúcimi sa rukami, a jeho mozog sa snažil rozhodnúť medzi „utekaj" a „povedz niečo inteligentné" a zlyhal v oboch.
 

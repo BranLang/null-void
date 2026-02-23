@@ -88,7 +88,7 @@ Sera mu pred odchodom z Neuropy darovala dve veci:
     *   **Pôvod**: Sera naň zabudla. Bol uložený v **špeciálnom trezore** po dobu 2000 rokov, odkedy Inetis ("Neta") zmizla.
     *   **Stav**: Batéria je mŕtva už storočia. Laptop je "tehla".
     *   **Obsah**: Okrem technických dát obsahuje **osobné denníky Inetis** (z obdobia pred jej cestou do Cave of Ela — tam si viedla iný denník).
-    *   **Vzhľad**: Gravírovanie `i_net_is`, rok **2065**, poškriabané kawaii nálepky.
+    *   **Vzhľad**: Gravírovanie `i_net_is`, rok **2065**, poškriabané roztomilé nálepky.
     *   **Sera's Plan**: Sera verí, že **Unit J-Seven** dokáže využiť **Spira kryštály** na jeho napájanie a že Links ho dokáže hacknúť. To bol jej plán.
     *   **Význam**: Rosetta Stone pre Gen 1/2 + osobný vhľad do mysle Inetis.
 

@@ -52,7 +52,7 @@ Sera podala Anténu Tami.
 
 Nie Maksovi. **Tami.**
 
-A pri tom urobila **kawaii úsmev**. Ten falošný, ten príliš sladký. Ten, čo posielal zimomriavky po chrbte.
+A pri tom urobila **sladký úsmev**. Ten falošný, ten príliš sladký. Ten, čo posielal zimomriavky po chrbte.
 
 > *"Pre teba, líška~"*
 
@@ -66,7 +66,7 @@ A v tom momente — keď sa jej prsty dotkli kovu — niečo sa stalo.
 
 Prešlo jej rukou. Jemné, takmer nepostrehnuteľné. Ako keby sa v nej niečo *prebudilo*.
 
-Sera sa usmiala. Nie kawaii. Ani business.
+Sera sa usmiala. Nie sladko. Ani business.
 
 *Úprimne.*
 

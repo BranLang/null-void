@@ -176,7 +176,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - **Yari:** Nanotech telescopic spear (otcova zbraň zo Zeme)
 
 ### Sera's Abilities:
-- **Voice manipulation:** Hlboký (business) ↔ Kawaii (fake cute)
+- **Voice manipulation:** Hlboký (business) ↔ Sladký (fake cute)
   - 3000 rokov social engineering mastery
   - Tami cíti manipulation, ale funguje to anyway
 - **Haiku skript mastery:** Najlepšia Gen 2 programátorka na planéte
@@ -444,7 +444,7 @@ Draft `03-antiquarian.md` obsahuje Kito + Maya healing + Vex/Second Chance odcho
 - **Sera's Shadow Plot:** Sera directed Links to Kito not just to save Maya, but so Kito would *tell Links about Tami*. It's a matchmaking scheme for political power (unification of North & South).
 - **Essence Transfer:** Kito reveals that Sera GAVE the Antenna to Tami (not Maks). This is a critical lore point: Tami is now the "Carrier" of Inetis's Essence.
 - **Links' Motivation:** He doesn't see Tami as a "Chosen One" (mysticism). He sees her as an **Anomaly** (scientific curiosity). A Fox who uses Spira better than Masters? A creature that defies probability? He *needs to analyze her*.
-- **Sera's Secret Hobby:** **Manga Artist (Ecchi/Fan Service).** Despite being a 3000-year-old assassin, Sera loves "Kawaii" aesthetics and drawing. She sketches hyper-idealized, slightly erotic manga-style portraits of people she finds interesting (like Tami as a "Waifu"). Only Elania knows this secret. Links finding her drawing of Tami in Chapter 7 (and his subsequent blush/fascination) creates his initial obsession with the "Fox".
+- **Sera's Secret Hobby:** **Manga Artist (Ecchi/Fan Service).** Despite being a 3000-year-old assassin, Sera loves "Roztomilá" estetika and drawing. She sketches hyper-idealized, slightly erotic manga-style portraits of people she finds interesting (like Tami as a "Waifu"). Only Elania knows this secret. Links finding her drawing of Tami in Chapter 7 (and his subsequent blush/fascination) creates his initial obsession with the "Fox".
 
 ---
 
@@ -492,7 +492,7 @@ Tri veže prejdeš.
 V poslednej pravda čaká.
 Pravda patrí El.
 ```
-- Spoken in TRUTH MODE voice (not business, not kawaii)
+- Spoken in TRUTH MODE voice (nie obchodný, nie sladký)
 - Ancient, beautiful, terrible — sends shivers through everyone
 - **Sera sa pozerá na TAMI, nie na Maksa** — proroctvo patrí Tami
 - Maks si automaticky myslí, že je pre neho (ego + "El" = Elania = jeho dcéra)
@@ -580,7 +580,7 @@ Pravda patrí El.
 
 **Sera:**
 - Introduction: Perfect counter vs Apes, ninja assassin
-- Voice manipulation showcase (business ↔ kawaii)
+- Voice manipulation showcase (business ↔ sladký)
 - Haiku mastery (opens gate with poetry)
 - Admits weakness (vs Maks's nanodrony)
 - Mission: Intel on Maks → Success → Report to Elania
