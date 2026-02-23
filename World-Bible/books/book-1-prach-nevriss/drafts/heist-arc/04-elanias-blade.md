@@ -346,7 +346,7 @@ Tami sa takmer usmiala. „Tu. *Ona* nám pomôže.“
 
 *Kto?*
 
-Maks skenoval priestor — automaticky, reflexívne. Teplota. Pohyb vzduchu. Vibrácie. Nič. Žiadna ďalšia prítomnosť. Žiadny signál. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Sera je mimo detekcie. Čierny Prach kamufláž blokuje aj Maksov sken.]
+Maks sledoval priestor v okolí Tami — automaticky, reflexívne. Teplota. Pohyb vzduchu. Vibrácie. Nič. Žiadna ďalšia prítomnosť. Žiadny signál. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Sera je mimo detekcie. Čierny Prach kamufláž blokuje aj Maksov sken.]
 
 „Kto?“ zopakoval Maks.
 
@@ -359,7 +359,6 @@ Nie vietor. Nie svetlo. *Osoba.* Niečo na koži tej osoby pustilo tmu — Čier
 
 Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke, skrátená, puzdro prázdne.
 
-Maks ju skenoval automaticky — teplota, pohyb vzduchu, vibrácie. Nič. *Prázdno.* Nanoboty ho neinformovali o ničom — žiadna teplota, žiadny signál. Ako keby tam nestál nikto. [→ 03a-nanotechnology.md: Čierny Prach kamufláž blokuje aj pasívny Gen 1 sken — Sera je mimo detekcie]
 
 Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prológ. Pre Tami nie je prekvapenie. Pre Maksa áno.]
 
@@ -405,7 +404,7 @@ Tami sa zhlboka nadýchla.
 *zobudený pre krv v tme,*
 *rozdeľ tento svet.“*
 
-Nadel sa zachvela. Jemne — takmer neviditeľne. Hrot sa rozžiaril — zlatý záblesk, kratší než mrknutie. Čepeľ počula poéziu a *spevnila sa*. [NOTE: Sera spevňuje Tamin rapier haiku. Rovnaký princíp ako Yari — nanoboty v kove reagujú na frekvenciu hlasu. Tami má teraz spevnený Nadel = prenikne cez Svetelný Štít AJ pancier. Sera tým mení pravidlá boja — Tami už nie je len návnada, je skutočná hrozba. Haiku je dar: „Pamätaj navždy“ = Sera učí Tami spevňovať zbrane. Toto je Serin štýl — nedáva rybu, učí loviť.]
+Nadel sa zachvela. Jemne — takmer neviditeľne. Hrot sa rozžiaril — zlatý záblesk, kratší než mrknutie. Čepeľ počula poéziu a *spevnila sa*. [NOTE: Sera spevňuje Tamin rapier haiku. Rovnaký princíp ako Yari — spira v kove reaguje na frekvenciu hlasu. Tami má teraz spevnený Nadel = prenikne cez Svetelný Štít AJ pancier. Sera tým mení pravidlá boja — Tami už nie je len návnada, je skutočná hrozba. Haiku je dar: „Pamätaj navždy“ = Sera učí Tami spevňovať zbrane. Toto je Serin štýl — nedáva rybu, učí loviť.]
 
 Tami pozrela na žiariaci rapier. Potom na Seru.
 
