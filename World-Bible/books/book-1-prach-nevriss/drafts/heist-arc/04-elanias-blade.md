@@ -415,7 +415,7 @@ Zmizla. Čierny Prach na koži pohltil svetlo a Sera prestala existovať.
 
 Maks a Tami stáli medzi piliermi. Tichá krypta okolo nich.
 
-Skontrolovali zbrane. Vykročili k čiernej bráne.
+Skontrolovali zbrane. Tami odložila pušku strážnika k pilieru — príliš dlhá, príliš ťažkopádna na to, čo príde. Vytiahla pištoľ z puzdra na stehne. Nadel v pravej, pištoľ v ľavej. Vykročili k čiernej bráne.
 
 ---
 
@@ -520,7 +520,7 @@ Zarevala. Zvuk, aký Tami nikdy nepočula — hlboký, hrdelný, zvierací. Vrhl
 
 *[Hnev. Dobre. Nahnevaní robia chyby.]*
 
-Tami videla príležitosť. Vyrazila spredu. Nadel vpred — spevnený hrot stále žiaril fialovo. Bodla priamo do náprsníka. Prenikla.
+Tami videla príležitosť. Vyrazila spredu. Nadel vpred — spevnený hrot stále žiaril zlatou. Bodla priamo do náprsníka. Prenikla.
 
 Kira sa na zlomok sekundy otočila k Tami. Sekera zmenila smer.
 
@@ -675,13 +675,13 @@ Nie sladký. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký 
 
 Narovnala sa. Hlas sa vrátil k hĺbke.
 
-„Poznala si ju?“ Urobil krok vpred. Hlas kontrolovaný, ale ruky — tie sa *trochu* triasli. Poznala si Netu“?
+„Poznala si ju?” Urobil krok vpred. Hlas kontrolovaný, ale ruky — tie sa *trochu* triasli. „Poznala si Netu?”
 
 Sera mlčala. Dlho. Čierne oči — nekonečné, bezodné — na ňom spočívali s ťarchou tritisíc rokov.
 
 *[Pýta sa na ňu. Otázky, na ktoré nemám právo odpovedať. Ale jednu vec poviem — jednu, pretože si to zaslúži.]*
 
-A potom prehovorila. Nie hlbokým hlasom. Nie sladký hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
+A potom prehovorila. Nie hlbokým hlasom. Nie sladkým hlasom. *Tretím.* Hlas Pravdy — starý, krásny a strašný. Hlas, ktorý bol ako staroveký zvon — nízky, rezonujúci, vibračný, čo sa dotýkal niečoho v hrudnej kosti a chrbte.
 
 Prachové čiastočky vo vzduchu zastali. Nie spomalili. *Zastali.* Viseli v priestore ako hmyz v jantári. Fialový svit zo stien sa v nich lámal na nehybné ihly — zavesené medzi stropom a podlahou, neposlúchajúce nič. Tami to videla — a nevedela, či to bol svet, alebo len jej oči. [NOTE: Ambivalentné — Tami POV. Môže byť subjektívny dojem z Serinej prítomnosti, alebo Prach v svätyni naozaj reaguje na Serin Hlas Pravdy. Čitateľ sa rozhodne sám.]
 
