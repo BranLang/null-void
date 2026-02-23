@@ -391,7 +391,9 @@ Tieň vedľa piliera sa pohol.
 
 Nie vietor. Nie svetlo. *Osoba.* Niečo na koži tej osoby pustilo tmu — Čierny Prach, matný, pohlcujúci — a z ničoho sa *zhmotnila* žena. [→ 03a-nanotechnology.md: Gen 1 Čierny Prach — Sera ho používa ako kamufláž.]
 
-Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke, skrátená, puzdro prázdne.
+Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke — skrátená, puzdro na páse prázdne. Vyzerala ako píšťala. Matný kov — starý, nepoznajúci čas.
+
+A potom ju roztiahla. Jeden plynulý pohyb ruky a píšťala sa stala kopijou — šesťstopovou, tichou, trpezlivou. Gesto, ktoré nepatrilo tomuto storočiu.
 
 Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prológ. Pre Tami nie je prekvapenie. Pre Maksa áno.]
 
@@ -540,11 +542,7 @@ Nie teleport. Nie mágia. Tieň sa odlepil od piliera — Čierny Prach na jej k
 
 *[Prvý. Krk. Otočený.]*
 
-A v jej ruke bol **Yari**.
-
-Kopija. Šesťstopová. Matný kov — starý, nepoznajúci čas. Vyzerala ako píšťala, keď ju vytiahla z puzdra na páse — a potom sa roztiahla na plnú dĺžku.
-
-Zašepkala haiku — tichý, nežný, takmer modlitba. Špica Yari sa rozžiarila. Čepeľ počula poéziu a *spevnila sa*. Niečo v tom kove sa prebudilo — zhustilo sa, spevnilo, prešlo hranicou medzi hmotou a úmyslom. [→ 03a-nanotechnology.md: Spevnenie = nanoboty reagujú na frekvenciu hlasu — ale v próze: „čepeľ počula“]
+A v jej ruke bol **Yari**. Šesťstopová kopija — roztiahnutá, pripravená, čakajúca. Čepeľ sa rozžiarila.
 
 Bodla.
 
