@@ -41,7 +41,8 @@
       "Bash(xxd:*)",
       "Bash(pip show:*)",
       "Bash(python scripts/spellcheck.py:*)",
-      "Bash(tee:*)"
+      "Bash(tee:*)",
+      "WebFetch(domain:drive.google.com)"
     ]
   }
 }
