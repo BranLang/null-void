@@ -409,15 +409,20 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         # Remove map image (rendered as separate full-bleed page)
         clean = re.sub(r'!\[.*?\]\([^)]*map-achilles[^)]*\)\n*', '', clean)
 
-        # Convert image paths to base64 data URIs for Puppeteer compatibility
-        # Using HTML img tag wrapped in div to prevent marked.js from running regex on huge base64 strings
+        # Convert image paths to relative HTTP links by copying them to export/_assets
+        # Using HTML img tag wrapped in div
         def fix_img_path(match):
+            import shutil
             alt = match.group(1)
             rel_path = match.group(2)
             abs_path = (src.parent / rel_path).resolve()
             if abs_path.exists():
-                b64_uri = img_to_base64_uri(abs_path)
-                return f'\n<div class="image-wrapper"><img src="{b64_uri}" alt="{alt}" /></div>\n\n'
+                export_assets_dir = books_dir.parent.parent / 'export' / '_assets'
+                export_assets_dir.mkdir(parents=True, exist_ok=True)
+                dest_name = f"{src.stem}_{abs_path.name}"
+                dest_path = export_assets_dir / dest_name
+                shutil.copy2(abs_path, dest_path)
+                return f'\n<div class="image-wrapper"><img src="_assets/{dest_name}" alt="{alt}" /></div>\n\n'
             print(f"    Warning: image not found: {rel_path}")
             return ''  # Remove if image not found
         clean = re.sub(r'!\[(.*?)\]\((.*?)\)\n*', fix_img_path, clean)

@@ -85,7 +85,7 @@ Tami prišla k nim. Mokrá, ale funkčná. Uši napriamené, oči chladné.
 
 „Dojemné. Ale ak sa nepohneme, táto *pamäť* sa utopí v sračkách.“ Ukázala do tmy, kde sa tunel rozdvojoval. „Cesta sa rozdeľuje. Ľavá ide pod doky. Pravá pod Chrám.“
 
-Tri dole. Tri zostávajú. Osemdesiat metrov, smer Chrám. Maks to vedel aj bez Asistenta — cítil ich cez steny.
+Tri dole. Tri zostávajú. Osemdesiat yardov, smer Chrám. Maks to vedel aj bez Asistenta — cítil ich cez steny.
 
 „Chrám,“ povedal Maks. „Všetci.“
 
@@ -200,7 +200,7 @@ Kito pomaly vstal. V jeho očiach, za prasknutými sklami mokrých okuliarov, u�
 
 ---
 
-Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Blížili sa k základom Chrámu — päťsto metrov, štyristo, tristo — [→ 03a-nanotechnology.md: Maks počíta vzdialenosť cez pasívny sken]
+Kráčali v rade — Tami vpredu, Kito uprostred, Maks vzadu. Tunel sa zužoval. Steny sa menili z keramiky na holý betón, vlhký a studený. Blížili sa k základom Chrámu — päťsto yardov, štyristo, tristo — [→ 03a-nanotechnology.md: Maks počíta vzdialenosť cez pasívny sken]
 
 Maks zastal. Zdvihol päsť. *Stoj.*
 
@@ -220,7 +220,7 @@ Tami na to myslela v zlomku sekundy. Vlk, ktorý odišiel ventilačnou šachtou.
 
 „Pasca,“ povedala potichu. Hlas jej neznel vystrašene. Znel ako sklo, ktoré sa práve začalo trieštiť.
 
-„Viem,“ odpovedal Maks. Pokojne. Príliš pokojne. „Vedel som o nich posledných dvesto metrov.“ [NOTE: Maks vedel a nič nepovedal — čakal, kým sa sformujú, aby vedel presný počet. Taktik, nie zradca. Ale Tami to bude hryžť.]
+„Viem,“ odpovedal Maks. Pokojne. Príliš pokojne. „Vedel som o nich posledných dvesto yardov.“ [NOTE: Maks vedel a nič nepovedal — čakal, kým sa sformujú, aby vedel presný počet. Taktik, nie zradca. Ale Tami to bude hryžť.]
 
 Kito medzi nimi stuhol. Ruku stisol na tubus s mapami tak kŕčovito, až mu praskli kĺby.
 
@@ -232,7 +232,7 @@ Z predného tunela vykročil dôstojník. Vysoký Mezra — vlčie uši, ostrý 
 
 Tami ho poznala. Prístav. Dok. Ten istý muž, čo im dával otázky na palube Itaky. [→ 01-karakuri.md: dôstojník z Časti I — rovnaká postava]
 
-Dôstojník sa zastavil. Pohľad mu preskočil z Tami na Kita, potom na Maksa — a tam zostal. Niečo sa v ňom zmenilo. Sotva viditeľne. Čeľusť sa stisla. Vlčie uši sa stiahli dozadu o milimeter. [NOTE: Involuntárna reakcia — pozná slovo „Exorcista“ z legiend, ale nikdy jedného nestretol. Nikto v novodobom Nevriss nebojoval s Exorcistom. Nevie, čo dokáže. Vie len príbehy.]
+Dôstojník sa zastavil. Pohľad mu preskočil z Tami na Kita, potom na Maksa — a tam zostal. Niečo sa v ňom zmenilo. Sotva viditeľne. Čeľusť sa stisla. Vlčie uši sa stiahli dozadu o zlomok palca. [NOTE: Involuntárna reakcia — pozná slovo „Exorcista“ z legiend, ale nikdy jedného nestretol. Nikto v novodobom Nevriss nebojoval s Exorcistom. Nevie, čo dokáže. Vie len príbehy.]
 
 „Exorcista.“ Slovo vyslovil opatrne. Ako keby držal v ústach niečo, čo by ho mohlo hrýzť.
 
@@ -290,7 +290,7 @@ Nepotreboval ich. Videl aj bez nich. Každú zbraň. Každý prst na spúšti. K
 
 „Tami,“ povedal ticho. „Drž sa blízko mňa. Zavri oči.“ [NOTE: Maks v taktickom móde — Tami = priorita (ochrana), Kito = irelevantný. Nie krutosť — vojenský pragmatizmus. Kito v jeho výpočte jednoducho nefiguruje.]
 
-Potom ich zhasol. [→ 03a-nanotechnology.md: Gen 1 v1.5 termálna absorpcia — roj odčerpá tepelnú energiu z plameňov v okruhu niekoľkých metrov. Spotreba: minimálna.]
+Potom ich zhasol. [→ 03a-nanotechnology.md: Gen 1 v1.5 termálna absorpcia — roj odčerpá tepelnú energiu z plameňov v okruhu niekoľkých stôp. Spotreba: minimálna.]
 
 Tma bola absolútna.
 
@@ -360,7 +360,7 @@ Dva kužele — ostré, biele, chirurgické — z taktických lámp na prilbách
 
 Za svetlom — *dvaja*.
 
-Obrovskí. Monolitickí. Brnenie pokrývalo každý centimeter ich tiel — svetlý materiál, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — Svetelné Štíty, vibro-sekery; Brotherhood of Steel estetika — taktické lampy, masívne brnenie, vojenský pragmatizmus]
+Obrovskí. Monolitickí. Brnenie pokrývalo každý palec ich tiel — svetlý materiál, vykladaný zlatými líniami, čo sledovali kontúry ich masívnych tiel ako tetivy na luku. Na prilbách chocholy — modrý na väčšom, červený na štíhlejšej. V rukách sekery veľké ako človek — čepele, čo vibrovali tak rýchlo, že vzduch okolo nich praskotal. Na chrbtoch pulzovalo modré svetlo — tenké obrysy, ako svätožiara, chvejúce sa vlastnou frekvenciou. [→ planning/01-prach-nevriss.md: Rau a Kira, Paladíni — Svetelné Štíty, vibro-sekery; Brotherhood of Steel estetika — taktické lampy, masívne brnenie, vojenský pragmatizmus]
 
 Tami otvorila oči. Svetlo ju oslepilo na okamih — po absolútnej tme boli taktické lampy ako dva slnká. Keď sa jej zrak prispôsobil, videla.
 
@@ -378,7 +378,7 @@ Všetko zasiahlo Paladínov.
 
 Spira strely zasiahli Svetelný Štít — a zomreli na ňom. Spevnenie sa rozpadlo pri kontakte. Cez štít prešli len oceľové jadrá — spomalené, mŕtve, bez sily. Odrazili sa od panciera ako kamienky od hradnej steny. Blesk narazil do modrej bariéry a rozplynul sa — pohltený, rozložený, preč. Telekinetická vlna zasiahla štít a vrátila sa späť — tlmená, rozptýlená, neškodná. [→ 03-technology.md: Svetelný Štít zastaví VŠETKU Spira energiu. Spevnenie sa rozbije pri kontakte. Oceľ prejde ale bez penetrácie. Blesk/TK absorbované štítom.] [NOTE: Inkvizítori prvýkrát v živote vidia niečo, čo ich Spira nedokáže zraniť. Nič z ich arzenálu neprejde cez tú modrú čiaru.]
 
-Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami *praskol*. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch metrov. Brnenia, štíty, telá — ako nič. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku, nie len kontaktná zbraň]
+Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami *praskol*. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch yardov. Brnenia, štíty, telá — ako nič. [→ planning/01-prach-nevriss.md: vibrosekery = rezonančná vlna, účinná na diaľku, nie len kontaktná zbraň]
 
 Výkrik. Ďalší pentagram. Dôstojník — ten s vlčími ušami — aktivoval plnú Spiru. Päť línií mu žiarilo na oboch dlaniach. Z jeho úst vyšiel zvuk, ktorý nebol ľudský — bojový pokrik, zúfalý, statočný, zbytočný. Ohnivá guľa — veľká ako hlava — vyletela z jeho dlaní priamo na Rauovu hruď.
 
@@ -506,7 +506,7 @@ Puška klesla. Rána z nej vyšla do podlahy — tupý, zbytočný zvuk, náboj,
 
 Strážnik sa na ňu pozeral.
 
-Boli od seba na dĺžku rapiera — menej než meter. Tak blízko, že cítila jeho dych. Cítila, ako sa mu chveje telo okolo čepele. Videla mu do očí — žlté, mačacie, rozšírené — a v nich nebola nenávisť. Nebol hnev. Len *prekvapenie*. Čisté, detské prekvapenie niekoho, kto sa práve zobudil do sveta, kde sa takéto veci dejú jemu.
+Boli od seba na dĺžku rapiera — sotva tri stopy. Tak blízko, že cítila jeho dych. Cítila, ako sa mu chveje telo okolo čepele. Videla mu do očí — žlté, mačacie, rozšírené — a v nich nebola nenávisť. Nebol hnev. Len *prekvapenie*. Čisté, detské prekvapenie niekoho, kto sa práve zobudil do sveta, kde sa takéto veci dejú jemu.
 
 Ústa sa mu otvorili. Zvuk — nie slovo, len začiatok slova. „Ne — “
 

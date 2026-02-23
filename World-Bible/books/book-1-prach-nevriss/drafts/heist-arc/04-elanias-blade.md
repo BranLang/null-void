@@ -198,7 +198,7 @@ Schody sa skončili.
 
 Maks vykročil do priestoru, ktorý nemal čo existovať pod mestom.
 
-Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky metrov nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archanjelov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
+Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky stôp nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archanjelov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
 
 A svietilo to.
 
@@ -210,7 +210,7 @@ Vzduch tu bol iný. Vlhký, ale čistý — žiadny smrad kanalizácie, žiadny 
 
 Pradávny kamenný chodník sa vinul cez jaskyňu — široký ako cesta, vytesaný do skalného dna s presnosťou, ktorá nebola prírodná. Okraje rovné. Povrch hladký, ale nie ošúchaný — skôr *navrhnutý*. Chodník, po ktorom kráčali iní, dávno predtým, než tu niekto postavil chrám. [NOTE: Chodník = pôvodná infraštruktúra z čias Impéria Nevriss. Kto ho postavil? Čitateľ sa má pýtať.]
 
-Paladíni boli niekoľko stoviek metrov pred ním. Dve modré siluety na kamennom chodníku — malé v obrovskom priestore, ich taktické lampy zbytočné v žiari húb. Kráčali pokojne. Poznali cestu.
+Paladíni boli niekoľko stoviek yardov pred ním. Dve modré siluety na kamennom chodníku — malé v obrovskom priestore, ich taktické lampy zbytočné v žiari húb. Kráčali pokojne. Poznali cestu.
 
 Maks vykročil za nimi. Ticho. Modré svetlo húb mu stačilo — nepotreboval nič z toho, čo mal v sebe. Len oči. Len nohy. Len trpezlivosť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — aktívny, ale Maks ho nepotrebuje na navigáciu. Jaskyňa svieti sama.]
 
@@ -222,7 +222,7 @@ Záblesk.
 
 Ďaleko pred ním — pri konci chodníka, kde sa jaskyňa zužovala do skalnej steny — sa rozsvietilo niečo žlté. Ostré. Geometrické. *Pentagramy.* Zlaté línie v tme, rotujúce prstence Spiry — a proti nim modré záblesky Paladínskych štítov.
 
-Maks sa zastavil. Z tejto vzdialenosti to boli len farebné škvrny — ale niečo v ňom videlo viac. Detaily, čo nemali byť viditeľné na tristo metrov. Dve postavy v ľahkom brnení — štíhle, rýchle, s vlčími ušami prilepenými k lebkám — stáli pred kamennou stenou. Pursang. Ceremoniálna stráž, kopije v rukách, meče na opaskoch, pentagramy vo vzduchu. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí“ detaily na veľkú vzdialenosť, ale nie očami. Drony.]
+Maks sa zastavil. Z tejto vzdialenosti to boli len farebné škvrny — ale niečo v ňom videlo viac. Detaily, čo nemali byť viditeľné na tristo yardov. Dve postavy v ľahkom brnení — štíhle, rýchle, s vlčími ušami prilepenými k lebkám — stáli pred kamennou stenou. Pursang. Ceremoniálna stráž, kopije v rukách, meče na opaskoch, pentagramy vo vzduchu. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí“ detaily na veľkú vzdialenosť, ale nie očami. Drony.]
 
 Boj trval krátko. Ale nie tak krátko, ako Paladíni čakali.
 
@@ -258,7 +258,7 @@ Strážca s mečom sa pozrel dole. Poznal granáty — Pursang mal vlastné, tr�
 
 Na *zlý* granát.
 
-Pulz. Tichý. Neviditeľný. Žiadna explózia, žiadny záblesk — len vlna, čo prešla priestorom ako tieň. A Spira *zomrela*. [NOTE: EMP granát — Paladínska technológia z juhu. Elektromagnetický pulz, ktorý vyradí Spiru v okruhu niekoľkých metrov. Pursang stráž pozná bežné granáty (výbuch, šrapnel, zápal) — majú na ne odpoveď (Spira štít). EMP nepoznajú. Nikto na severe ho nepozná. Paladíni ho vyvinuli presne na toto — na nepriateľa, ktorý sa spolieha na Spiru.]
+Pulz. Tichý. Neviditeľný. Žiadna explózia, žiadny záblesk — len vlna, čo prešla priestorom ako tieň. A Spira *zomrela*. [NOTE: EMP granát — Paladínska technológia z juhu. Elektromagnetický pulz, ktorý vyradí Spiru v okruhu niekoľkých yardov. Pursang stráž pozná bežné granáty (výbuch, šrapnel, zápal) — majú na ne odpoveď (Spira štít). EMP nepoznajú. Nikto na severe ho nepozná. Paladíni ho vyvinuli presne na toto — na nepriateľa, ktorý sa spolieha na Spiru.]
 
 Pentagramy zhasli. Všetky naraz — ako keby niekto vyfúkol sviečku. Zlaté kruhy sa rozplynuli v tme. Runy na spevnenom meči — tie krásne, žiariace znaky haiku — stmavli. Kopija v ruke druhého strážcu prestala svietiť. Spira odišla. A s ňou všetko, čo ich chránilo.
 
@@ -310,7 +310,7 @@ Maks čakal. Počítal sekundy. A potom — ticho, rýchlo, ako tieň medzi tie�
 
 Krypta.
 
-Priestor bol iný než jaskyňa — nie prírodný, nie organický. *Stavaný.* Stovky kamenných pilierov sa dvíhali z podlahy k stropu desiatky metrov nad hlavou — masívne, hranaté, vytesané s presnosťou, ktorá nechávala rovné plochy a ostré hrany aj po tisícročiach. Na pilieroch — reliéfy. Výjavy zo života postáv, ktoré Maks nepoznal — ženy v ceremoniálnych rúchach, procesie, rituály, ohňostroje Spiry. Príbehy, čo tu stáli tisícročia a čakali, kým ich niekto prečíta. Nikto neprišiel. [NOTE: Reliéfy na pilieroch = výjavy zo života Mormiel (Požehnanej Matky, Hlasu Inetis) a jej nasledovníčok — ďalších Matiek Kultu. Egyptsko-antický štýl. Toto je z čias Impéria Nevriss.] [→ 06-society.md: Kult Matky, história]
+Priestor bol iný než jaskyňa — nie prírodný, nie organický. *Stavaný.* Stovky kamenných pilierov sa dvíhali z podlahy k stropu desiatky stôp nad hlavou — masívne, hranaté, vytesané s presnosťou, ktorá nechávala rovné plochy a ostré hrany aj po tisícročiach. Na pilieroch — reliéfy. Výjavy zo života postáv, ktoré Maks nepoznal — ženy v ceremoniálnych rúchach, procesie, rituály, ohňostroje Spiry. Príbehy, čo tu stáli tisícročia a čakali, kým ich niekto prečíta. Nikto neprišiel. [NOTE: Reliéfy na pilieroch = výjavy zo života Mormiel (Požehnanej Matky, Hlasu Inetis) a jej nasledovníčok — ďalších Matiek Kultu. Egyptsko-antický štýl. Toto je z čias Impéria Nevriss.] [→ 06-society.md: Kult Matky, história]
 
 Medzi piliermi — tma. Hustá, studená tma, čo pohltila modré svetlo húb z jaskyne a nechala len piliere a ich tiene.
 
@@ -324,7 +324,7 @@ Dvere. Menšie než kamenná brána. Čierne. Matné. Z materiálu, ktorý nesvi
 
 Nakonfigurovaný. Zhustený do pevnej hmoty, do tvaru, do úmyslu. Niekto ho pred veľmi dávnou dobou nariadil byť *toto* — a on poslúchol a nezabudol. [NOTE: Čierna brána = nakonfigurovaný Čierny Prach. Maks rozpoznáva — má ten istý materiál v žilách. Rovnaký ako na Elysiu/Ynetis. Vedenie Cirkvi pozná haiku syntax a vie túto bránu otvoriť — tak uložili artefakt (palicu) do svätyni za ňou. Mormiel ich to naučila. Bežní veriaci a archeológovia (ako Kito) o čiernej bráne nevedia — vidia len kryptu.]
 
-Paladíni si vykračovali k čiernym dverám. Pokojne. Kira mierne krívala. Akoby im krypta patrila. Maks sa zakrádal pomedzi piliere — tieň medzi tieňmi, kamenné stĺpy ho kryli z oboch strán. Dvesto metrov medzi ním a nimi. Sto. Osemdesiat.
+Paladíni si vykračovali k čiernym dverám. Pokojne. Kira mierne krívala. Akoby im krypta patrila. Maks sa zakrádal pomedzi piliere — tieň medzi tieňmi, kamenné stĺpy ho kryli z oboch strán. Dvesto yardov medzi ním a nimi. Sto. Osemdesiat.
 
 A potom počul niečo za sebou.
 
@@ -488,7 +488,7 @@ To slovo Tami nikdy od neho nepočula. Nie rozkaz. *Prosba.*
 
 Pozrela mu do tváre — do tých čiernych, bezodných očí — a videla to. Veterán z pekla, muž, ktorý nosil smrť ako kabát — sa *bál*. Bál sa o ňu.
 
-Rau zdvihol sekeru. Kira urobila krok k Tami. Kliešte. Desať metrov od najbližšieho piliera. Nikam utiecť.
+Rau zdvihol sekeru. Kira urobila krok k Tami. Kliešte. Desať yardov od najbližšieho piliera. Nikam utiecť.
 
 Rau napriahol sekeru — pomaly, istotne, ako kat zdvíhajúci nástroj, o ktorom vie, že ho nič nezastaví.
 
@@ -890,7 +890,7 @@ Zem sa pohla.
 
 Nie zatriasla. *Pohla.* Ako keby sa celé mesto nadýchlo a vypustilo dych, o ktorý nežiadalo.
 
-Výbuch prišiel zdola — hlboký, basový, infrazvukový. Nie oheň. Nie explózia. *Kolaps.* Svetlo pohltilo Paladínov, ich zbrane, ich štíty a všetko v okruhu dvesto metrov — premenilo to na žiarivú hmlu, ktorá sa rozšírila ako tlaková vlna a zomrela o steny jaskyne.
+Výbuch prišiel zdola — hlboký, basový, infrazvukový. Nie oheň. Nie explózia. *Kolaps.* Svetlo pohltilo Paladínov, ich zbrane, ich štíty a všetko v okruhu dvesto yardov — premenilo to na žiarivú hmlu, ktorá sa rozšírila ako tlaková vlna a zomrela o steny jaskyne.
 
 Ale to stačilo.
 
