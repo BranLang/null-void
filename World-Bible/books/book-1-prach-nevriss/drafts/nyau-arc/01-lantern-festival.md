@@ -166,33 +166,36 @@ Yera stuhla. Ruka jej automaticky vystrelila k maske — *zakryť, schovať, od�
 
 Pauza. Vzdialená hudba doľahla až k nim; pomalší, tiahly rytmus strún z námestia. Kvapkanie vody z okapu.
 
-Chlapec vstal. Oprášil si nohavice a natiahol k nej ruku s drsnými prstami. Nepýtal sa na meno.
+Chlapec zvoľna ukázal na fľašu vo svojich rukách.
+„Víno?“ spýtal sa jednoducho.
 
-„Takže neblúdiš,“ usmial sa s pomalým, lenivým úsmevom. „Iba stojíš v tieni, kým vonku hrá hudba.“
+Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
 
-Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia* — no maska ju chránila. Za ňou nebola kňažka, len slobodná mačka v noci.
+Natiahla ruku a vzala si ju.
 
-Položila svoju dlaň do jeho.
-
-Pritiahol si ju k sebe a viedol do tanca. Na tmavých dlažobných kockách pri prístave, len v tieni skladísk a blikotavých lampiónov. Yera spočiatku stuhla, no Arkotova ruka na jej páse bola pevná a trpezlivá. Postupne sa nechala viesť. Krok za krokom sa jej svaly uvoľňovali, prestala myslieť na Chrám. 
-
-Hudba ich obalila. Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti a cudzej prítomnosti zatočila. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, vzdialení ľudia — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou na ramene cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, v tme, na pokraji prístavu, kde nebola dcérou nikoho.
-
-Keď struny stíchli, Arkot zvoľnil a ustúpil o pol kroka. Zdvihol zo schodov svoju fľašu s tmavým sklom. Potiahol si a s lenivým úsmevom ju podal Yere.
-
-Pozrela na ňu — mastnota na hrdle, lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
-
-Napila sa.
-
-Pálilo. Zakašľala si do predlaktia. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako zblúdilý kameň hodený do vody.
+Napila sa. Pálilo. Zakašľala si do predlaktia. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako zblúdilý kameň hodený do vody.
 
 „Prvýkrát?“ spýtal sa.
 
 „Nie,“ klamala. A potom, pretože klam sa jej v ústach cítil ako falošná minca — „áno.“
 
-Zasmial sa znova a ona tiež. Smiech dvoch cudzincov na opustenej ulici, keď všetko bolo možné, pretože nepoznanie bolo dar.
+Zasmial sa znova a ona tiež. Smiech dvoch cudzincov na opustenej ulici, keď všetko bolo možné.
 
-Arkot stál blízko a potom pomaly kývol bradou hore k oblohe.
+Arkot vstal. Oprášil si nohavice, odložil fľašu na schod a natiahol k nej ruku s drsnými prstami. Nepýtal sa na meno. Len kývol hlavou smerom k vysvietenému, hlučnému námestiu, z ktorého sa valil rytmus stoviek strún a bubnov.
+
+„Tak poď,“ usmial sa s pomalým, lenivým úsmevom.
+
+Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia, nieto ešte v dave* — no maska ju chránila. Za ňou nebola kňažka, len slobodná mačka v noci. Položila svoju dlaň do jeho.
+
+Vtrhol s ňou priamo do pulzujúceho davu.
+
+Okolo nich sa mihal vír masiek, tiel a lampiónov. Arkot ju viedol isto, drzo a pritom plynulo, akoby bol s tým hlukom a tancom zrastený. Yera spočiatku stuhla, no jeho ruka na jej páse bola pevná a presne rytmizovaná do krokov ostatných okolo. Postupne sa nechala viesť. Hudba ju strhávala, svaly sa jej uvoľňovali, prestala myslieť na Chrám. Okolo nich sa preplietali iné tancujúce páry, nočná vôňa kvetov, korenín a potu zapĺňala námestie.
+
+Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, v dave, kde nebola dcérou nikoho, iba stredom vlastnej eufórie.
+
+Keď struny dospeli do búrlivého finále a tanec odznel, odfúkli si, opretí o seba ramenami, dýchajúc zrýchlene. Vymanili sa z hlavného prúdu námestia a opäť zišli do tichšieho tieňa skladísk.
+
+Arkot stál blízko nej a potom pomaly kývol bradou hore k oblohe.
 
 „Vieš... odtiaľ hore je to ešte lepšie," povedal a ukázal smerom k streche.
 
