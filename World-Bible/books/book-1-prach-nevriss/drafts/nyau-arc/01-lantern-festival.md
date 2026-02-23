@@ -1,3 +1,5 @@
+
+
 > *„A El povedala: Pusť svetlo. Nech stúpa. Nech sa dotkne hviezd a nech sa vráti ako dážď — lebo každé svetlo, čo vypustíš, sa k tebe vráti stonásobne."*
 > — Kniha El, 1:7
 
@@ -185,6 +187,11 @@ A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé
 Sai. Hviezdy. Obzor, kde sa more stretalo s nebom. [→ 05-geography.md: Sai — jantárový mesiac s prstencom, splň]
 
 Yera zabudla dýchať.
+
+
+![Yera](../../../../assets/characters/Yera/yera-lantern.jpeg)
+
+
 
 Nie preto, že to nikdy nevidela. Videla to každý večer. Z balkóna, z izby, z Chrámovej záhrady. Ale nikdy *takto*. Nikdy zo strechy, v noci, vedľa cudzieho chlapca s fľašou vína, s teplým kameňom pod nohami a bez mena na tvári.
 

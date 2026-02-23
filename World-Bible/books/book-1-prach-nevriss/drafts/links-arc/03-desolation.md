@@ -415,7 +415,7 @@ Pristúpil k chlapcovi.
 
 „Nechaj ma," povedal ticho.
 
-Chlapec ho nechápavo pozrel. Links vzal tú zranenú ruku a aplikoval gél. Strieborná tekutina sa rozlila po rane. Nanoboty okamžite začali pracovať — krvácanie sa zastavilo, tkanivo sa zatiahlo, bolesť ustúpila. Nie dokonale — prsty nedorástli — ale rana sa zatvorila za sekundy.
+Chlapec ho nechápavo pozrel. Links vzal tú zranenú ruku a aplikoval gél. Strieborná tekutina sa rozliala po rane. Nanoboty okamžite začali pracovať — krvácanie sa zastavilo, tkanivo sa zatiahlo, bolesť ustúpila. Nie dokonale — prsty nedorástli — ale rana sa zatvorila za sekundy.
 
 Lekár vedľa vydýchol. „Matka milosrdná..."
 

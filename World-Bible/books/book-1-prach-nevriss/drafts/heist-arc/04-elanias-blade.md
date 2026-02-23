@@ -359,8 +359,6 @@ Nie vietor. Nie svetlo. *Osoba.* Niečo na koži tej osoby pustilo tmu — Čier
 
 Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, čo by ju označila za živú. Yari v ruke, skrátená, puzdro prázdne.
 
-Maks ju skenoval automaticky — teplota, pohyb vzduchu, vibrácie. Nič. *Prázdno.* Nanoboty ho neinformovali o ničom — žiadna teplota, žiadny signál. Ako keby tam nestál nikto. [→ 03a-nanotechnology.md: Čierny Prach kamufláž blokuje aj pasívny Gen 1 sken — Sera je mimo detekcie]
-
 Tami ani nestrhla. Poznala ju. [NOTE: Tami Seru stretla v tuneloch — viď Prológ. Pre Tami nie je prekvapenie. Pre Maksa áno.]
 
 Čierne oči sa upreli na Maksa.
@@ -371,7 +369,7 @@ A niečo v nej sa zastavilo. Nie výraz. Nie pohyb. Len hĺbka v tých čiernych
 
 *[Nie je to možné — nie tu, nie teraz. Tá tvár…]*
 
-*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej frajer? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladší Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho stretneš.. nikdy nedopovedala myšlienku.” — Inetisine posledné slová Sere.]
+*[Fuji sa vzďaľuje. Oblaky. Tma. Modrý obrys Zeme pod ňou — Japonsko, také malé. Na obrazovke v kabíne muž ďakuje svetu. Propaganda. Ďakovačky. Veľký krok pre ľudstvo. Po jeho pravici dcéra — krásna, usmievavá. Aj ja chcem byť taká, keď budem veľká. A vedľa nej — niekto. Mladý. Celý v čiernom. Vojenská uniforma. Stál za ňou ako tieň. Je to jej priateľ? Mala som päť rokov. Mala som plyšového medvedíka menom Haru. Pozerala som na tú krásnu dievčinu a chcela som mať jej vlasy.]* [NOTE: Serin flashback — odlet ARK-11, EY 2150. Na obrazovke PR prenos: Koordinátor John Reef, jeho dcéra Neta Fujiwara-Reef, a vedľa Nety — mladší Maks v čiernej vojenskej uniforme. Sera si ho ako 5-ročná nevšimla. Ale teraz — 3467 rokov neskôr — rozpoznáva tú tvár. „Ak ho stretneš.. nikdy nedopovedala myšlienku.” — Inetisine posledné slová Sere.]
 
 ---
 
@@ -406,6 +404,8 @@ Tami sa zhlboka nadýchla.
 *rozdeľ tento svet.“*
 
 Nadel sa zachvela. Jemne — takmer neviditeľne. Hrot sa rozžiaril — zlatý záblesk, kratší než mrknutie. Čepeľ počula poéziu a *spevnila sa*. [NOTE: Sera spevňuje Tamin rapier haiku. Rovnaký princíp ako Yari — nanoboty v kove reagujú na frekvenciu hlasu. Tami má teraz spevnený Nadel = prenikne cez Svetelný Štít AJ pancier. Sera tým mení pravidlá boja — Tami už nie je len návnada, je skutočná hrozba. Haiku je dar: „Pamätaj navždy“ = Sera učí Tami spevňovať zbrane. Toto je Serin štýl — nedáva rybu, učí loviť.]
+
+![Tami — prvé spevnenie Nadelu](../../../../assets/characters/Tami/tami_enchantment.png)
 
 Tami pozrela na žiariaci rapier. Potom na Seru.
 
@@ -528,7 +528,7 @@ Kira sa na zlomok sekundy otočila k Tami. Sekera zmenila smer.
 
 A v tom momente Sera bodla. Zozadu. Znova.
 
-*[Hotovo.]*
+![Sera — Elaniina Čepeľ](../../../../assets/books/book-1/chapter-4-sera-2.jpeg)
 
 Yari — stále spevnená, stále žiariaca — prenikla cez svetelný štít, cez pancier, priamo do chrbtovej miechy. Ako do masla. Kira stuhla. Vibro-sekera vypadla z rúk. Telo sa zrútilo.
 
@@ -584,7 +584,7 @@ Hlas. Hlboký. Starý. Tichý. Slová — rytmické, presné, staršie než pili
 
 *„Tobira yo hirake“*
 
-Ozvena sa rozlila kryptou.
+Ozvena sa rozliala kryptou.
 
 *„Haha no te ga michibiku“*
 
@@ -695,18 +695,6 @@ Nie kawaii. Nie business. *Úprimne.* Prvý a posledný úprimný úsmev, aký T
 
 Narovnala sa. Hlas sa vrátil k hĺbke.
 
-„Kto… kto ťa učil bojovať?” Maksov hlas bol chrapľavý.
-
-*[Vie.]*
-
-„Inetis.“
-
-Jedno slovo. Ako úder zvona.
-
-Maks zbledol. „…Inetis.”
-
-Ticho.
-
 „Poznala si ju?“ Urobil krok vpred. Hlas kontrolovaný, ale ruky — tie sa *trochu* triasli. Poznala si Netu“?
 
 Sera mlčala. Dlho. Čierne oči — nekonečné, bezodné — na ňom spočívali s ťarchou tritisíc rokov.
@@ -728,8 +716,6 @@ Sera sa zadívala do prázdna. Oči čierne, nekonečné.
 *„Tri veže prejdeš.*
 *V poslednej pravda čaká.*
 *Pravda patrí El.“*
-
-*[Pravda patrí dcére. Nie služobníčke.]*
 
 Maks stál pred ňou, počúval, spracovával — *El*, tri veže, čo to znamená — a nevedel, že posledné dve vety neboli preňho. Tami stála vzadu s artefaktom v rukách.
 
@@ -764,7 +750,7 @@ Maks mlčal.
 
 Potom — chrapľavým, napätým hlasom:
 
-„Niekto, kto poznal Inetis. Niekto, kto vie, čo sa stalo.“ Pauza. Čeľusť sa mu napla. „A niekto, kto mi to nepovie.“
+„Niekto, kto poznal Netu. Niekto, kto vie, čo sa stalo.“ Pauza. Čeľusť sa mu napla. „A niekto, kto mi to nepovie.“
 
 ---
 
