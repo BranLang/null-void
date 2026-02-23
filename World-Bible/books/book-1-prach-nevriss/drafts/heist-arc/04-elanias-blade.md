@@ -107,7 +107,7 @@ Nevedela prečo.
 
 ---
 
-Žena sa na ňu pozerala. Ticho. Dlho. Tie čierne oči — nehybné, nečitateľné — prešli po Tamiho tvári, ušiach, očiach. Zastavili sa na očiach.
+Žena sa na ňu pozerala. Ticho. Dlho. Tie čierne oči — nehybné, nečitateľné — prešli po Taminej tvári, ušiach, očiach. Zastavili sa na očiach.
 
 *[Modré oči. Rennove oči.]*
 
