@@ -164,11 +164,37 @@ Yera stuhla. Ruka jej automaticky vystrelila k maske — *zakryť, schovať, od�
 
 „Nie," povedala. [→ books/planning/yera-arc-novela.md: Beat 3 — „Stratila si sa?" / „Nie." (Ale áno.)]
 
-Pauza. Vzdialená hudba. Kvapkanie vody z okapu.
+Pauza. Vzdialená hudba doľahla až k nim; pomalší, tiahly rytmus strún z námestia. Kvapkanie vody z okapu.
 
-Chlapec sa usmial. Pomaly, lenivy úsmev opitého človeka, ktorý neočakáva nič a nediví sa ničomu. Leopardie škvrny na jeho krku sa zachveli, keď prehltol.
+Chlapec vstal. Oprášil si nohavice a natiahol k nej ruku s drsnými prstami. Nepýtal sa na meno.
 
-„Odtiaľ hore je to lepšie," povedal a kývol hlavou smerom k streche.
+„Takže neblúdiš,“ usmial sa s pomalým, lenivým úsmevom. „Iba stojíš v tieni, kým vonku hrá hudba.“
+
+Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia* — no maska ju chránila. Za ňou nebola kňažka, len slobodná mačka v noci.
+
+Položila svoju dlaň do jeho.
+
+Pritiahol si ju k sebe a viedol do tanca. Na tmavých dlažobných kockách pri prístave, len v tieni skladísk a blikotavých lampiónov. Yera spočiatku stuhla, no Arkotova ruka na jej páse bola pevná a trpezlivá. Postupne sa nechala viesť. Krok za krokom sa jej svaly uvoľňovali, prestala myslieť na Chrám. 
+
+Hudba ich obalila. Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti a cudzej prítomnosti zatočila. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, vzdialení ľudia — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou na ramene cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, v tme, na pokraji prístavu, kde nebola dcérou nikoho.
+
+Keď struny stíchli, Arkot zvoľnil a ustúpil o pol kroka. Zdvihol zo schodov svoju fľašu s tmavým sklom. Potiahol si a s lenivým úsmevom ju podal Yere.
+
+Pozrela na ňu — mastnota na hrdle, lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
+
+Napila sa.
+
+Pálilo. Zakašľala si do predlaktia. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako zblúdilý kameň hodený do vody.
+
+„Prvýkrát?“ spýtal sa.
+
+„Nie,“ klamala. A potom, pretože klam sa jej v ústach cítil ako falošná minca — „áno.“
+
+Zasmial sa znova a ona tiež. Smiech dvoch cudzincov na opustenej ulici, keď všetko bolo možné, pretože nepoznanie bolo dar.
+
+Arkot stál blízko a potom pomaly kývol bradou hore k oblohe.
+
+„Vieš... odtiaľ hore je to ešte lepšie," povedal a ukázal smerom k streche.
 
 ---
 
@@ -243,17 +269,7 @@ Pieseň stíchla. Posledný tón sa rozplynul v nočnom vzduchu, zmiešal sa s v
 
 Zdvihol fľašu. Potiahol. Podal ju Yere.
 
-Pozrela na ňu — tmavé sklo, mastnota na hrdle, lacné víno, druh, čo kupujú námorníci v prístavných krčmách. Príliš silné, príliš surové pre dcéru klanu Saéli.
-
-Napila sa.
-
-Pálilo. Na jazyku, v hrdle, v hrudi. Zakašľala — rýchlo, potichu, za predlaktím, ako keby sa hanibila. Arkot sa zasmial. Nie z nej — *s ňou*. Tichý, krátky smiech, ako kameň hodený do vody.
-
-„Prvýkrát?" spýtal sa.
-
-„Nie," klamala. A potom, pretože klam sa jej v ústach cítil ako falošná minca — „áno."
-
-Zasmial sa znova. Ona tiež. Smiech bol hlúpy, úprimný, ľudský — smiech dvoch cudzincov na streche nad svietiacim mestom v noci, keď lampióny stúpali k hviezdam a všetko bolo možné, pretože sa nepoznali a nepoznanie bolo dar.
+Tentokrát ju vzala s oveľa väčšou istotou ako predtým dole na ulici. Napila sa trpkastej chuti morského hrozna a nevrátila mu ju okamžite. Leopardie škvrny na jeho krku sa zachveli, keď s úsmevom sledoval, ako si tentokrát pýta ďalší hlt z jeho sveta bez odkašľania.
 
 Ticho.
 

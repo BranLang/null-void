@@ -40,13 +40,19 @@ Dvere sa s vŕzganím pootvorili. Z tmy na nich hľadeli dve veľké, žlté, ma
 
 „Hľadáme *Knihomoľa*,“ povedala Tami pokojne. „Posiela nás Mako. Povedal, že máte mapy.“
 
-Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy. 
+Pursang chvíľu váhal. Jeho chvost sa nepokojne mykol, ale potom ustúpil a gestom ich pozval do tmy.
 
-Vlk vkĺzol dnu prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho rohu stiesnenej miestnosti, usadený medzi kopami starých kníh, kde naňho okamžite všetci zabudli. Nastražil uši.
+Prešli cez tmavý obchod — prázdne police, zaprášené vitríny, vzduch zatuchnutý nepoužívaním. Kito ich viedol za pult, kde pod prepálenou lampou čerňali úzke kamenné schody do zeme. [NOTE: obchod je len fasáda — Kito presťahoval všetko cenné do pivnice, odkedy začalo bombardovanie]
+
+„Dole," povedal len.
+
+Vlk vkĺzol prvý, ako šedý tieň, a nepozorovane zapadol do najtmavšieho rohu pivnice, usadený medzi kopami starých kníh, kde naňho okamžite všetci zabudli. Nastražil uši.
 
 ---
 
-Vnútro bolo stiesnené a preplnené. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
+Pivnica bola stiesnená a nízka. Klenbový strop z kameňa, pod ktorým sa Maks musel skloniť. Každá voľná plocha bola pokrytá knihami, zvitkami a mapami — Kito sem presťahoval všetko, čo malo hodnotu, vrátane seba a Mayi. V rohu, na provizórnom lôžku, ležala postava zabalená v dekách. Vedľa postele stála kanvica s vodou a miska s omrvinkami. Niekto tu žil. Niekto tu umieral. [NOTE: pivnica = Kitov skutočný domov odkedy sa zhoršilo bombardovanie. Kamenná klenba prežila tri vojny]
+
+Dýchanie bolo ťažké, pískavé — zvuk tekutiny v pľúcach. Maks niečo zachytil. Niečo, čo nedokázal zaradiť. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — anomália, žiadna klasifikácia]
 
 *Neznáme. Žiadna zhoda.*
 
@@ -232,7 +238,7 @@ Vzduch vonku sa roztrhol.
 
 *BOOOOM.*
 
-Okná zabrinčali. Prach zo stropu sa zosypal na Kitove mapy.
+Klenba zadunela. Prach a omietka sa zosypali na Kitove mapy.
 
 O sekundu neskôr ďalší výbuch. A ďalší. Bližšie. Rytmické dunenie ťažkého delostrelectva.
 
@@ -252,25 +258,25 @@ Telekinetická vlna opadla tak rýchlo, ako prišla. Kito sa nezmohol na odpor.
 
 „Pohyb!“ vykríkla Tami, keď sa ozvala siréna civilnej obrany.
 
-Kito sa vytiahol z Maksovho zovretia. Nohy sa mu triasli, ale stál. Pozrel späť na posteľ, kde Maya ležala — nehybná, krehká, kryštálová ruka na deke ako monument bolesti.
+Kito sa vytiahol z Maksovho zovretia. Nohy sa mu triasli, ale stál. Pozrel na Mayu — pätnásť krokov od neho, v rohu pivnice, pod kamennou klenbou, ktorá prežila tri vojny.
 
-„Maya — “ začal.
+„Tridsať sekúnd,” povedal.
 
-„Poď,“ povedala Tami. Tvrdšie, než chcela. Ale jemnosť by ho zabila — a on to vedel.
+Nečakal na odpoveď. Pristúpil k posteli. Pritiahol deku pod Mayinu bradu. Položil vedľa nej plecháčik s vodou — tak, aby naň dosiahla zdravou rukou. Odhrnul jej vlasy z čela. Rýchle, presné pohyby muža, ktorý túto rutinu opakoval dvakrát denne už mesiace. [NOTE: Kito sa o Mayu stará sám — ráno aj večer rovnaký rituál. Toto je posledný raz pred odchodom]
 
-Kito pristúpil k posteli. Kľakol si. Vzal Mayinu zdravú ruku — tú, čo bola ešte z mäsa — a priložil si ju k tvári. Zatvoril oči. Tri sekundy. Štyri.
+Potom kľakol. Vzal jej zdravú ruku — tú, čo bola ešte z mäsa — a priložil si ju k tvári.
 
-„Vrátim sa,“ zašepkal. „Prisahám na Matku a na každú knihu, čo som kedy prečítal. Vrátim sa s liekom.“
+„Vrátim sa,” zašepkal. „Prisahám na Matku a na každú knihu, čo som kedy prečítal. Vrátim sa s liekom.”
 
 Maya neotvorila oči. Ale jej prsty sa na zlomok sekundy stisli okolo jeho ruky.
 
-Kito ju pustil. Vstal. Otočil sa k dverám.
+Kito ju pustil. Vstal. Vybehol hore po schodoch.
 
 Neohliadol sa.
 
-Vlk, ktorý celý ten čas ticho sedel v rohu a absorboval každé slovo o podzemí, starých plánoch a vzácnom artefakte, sa zdvihol a čakal pri vchode.
+Vlk, ktorý celý ten čas ticho sedel v rohu a absorboval každé slovo o podzemí, starých plánoch a vzácnom artefakte, sa zdvihol a nasledoval ho hore.
 
-Vybehli z bytu do noci, ktorá sa práve menila na peklo.
+Vybehli z obchodu do noci, ktorá sa práve menila na peklo.
 
 ---
 
@@ -288,7 +294,7 @@ Maks ju nasledoval. Neváhal. Nekľučkoval. Šiel rovno, akoby vedel, kam dopad
 
 Zem sa otriasla. Niekde o dva bloky ďalej sa zrútila veža s hodinami. Tlaková vlna im vmietla prach do tváre. Ďalší granát dopadol krížom cez blok, prevrátil uhoľný povoz a vysypal žeravý náklad cez pol ulice. Nebežali *pred* obliehaním, bežali priamo *skrz* neho. Tami si musela obmotať šatku okolo tváre, aby sa neudusila hustým čiernym dymom. Maks necítil strach, ani pálivý vzduch. Cítil len *kalkulácie*. Adrenalín pre neho nebol emócia — bol to palivo. [→ 03a-nanotechnology.md: adrenalín = chemický kofaktor pre Gen 1 procesory]
 
-„Tri bloky!“ zajachtal Kito, visiaci dolu hlavou. „Tri bloky od dopadu — pravdepodobnosť zásahu nášho domu je — musím sa vrátiť, musím ju dostať do pivnice, ona sa nemôže hýbať sama — “
+„Tri bloky!” zajachtal Kito, visiaci dolu hlavou. Stisol zuby. *Kamenná klenba. Pätnásť stôp pod zemou. Tri vojny prežila.* Opakoval si to, kým prestal cítiť pálenie za očami. [NOTE: Kito sa upokojuje — urobil maximum, Maya je v pivnici pod kameňom. Strach nezmizol, ale nebrzdí ho]
 
 „Kde je vstup?“ prerušil ho Maks.
 
