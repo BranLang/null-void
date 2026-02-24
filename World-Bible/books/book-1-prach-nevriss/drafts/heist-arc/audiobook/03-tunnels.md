@@ -417,7 +417,7 @@ Maks stál v tme. Úplnej. Za ním zával. Pred ním — nič, čo by videli ľu
 
 „Pohyb," povedal do tmy. A vykročil smerom k bráne.
 
-Scéna sa teraz presúva pod Chrám, kam Tami a Kito pokračovali cez ventilačné šachty.
+Hlboko pod Chrámom, Tami a Kito pokračovali cez ventilačné šachty.
 
 Ventilačná šachta bola úzka ako hrob a smrdela rovnako.
 

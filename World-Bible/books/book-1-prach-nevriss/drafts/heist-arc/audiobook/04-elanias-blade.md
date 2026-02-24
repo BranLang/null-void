@@ -393,7 +393,7 @@ Vysoká. Čierne vlasy. Tvár dokonalá — bez asymetrie, bez jedinej línie, �
 
 A potom ju roztiahla. Jeden plynulý pohyb ruky a píšťala sa stala kopijou — šesťstopovou, tichou, trpezlivou. Gesto, ktoré nepatrilo tomuto storočiu.
 
-Tami ani nestrhla. Poznala ju — to bola Sera, žena, ktorú stretla v tuneloch.
+Tami ani nestrhla. Žena z tunelov.
 
 Čierne oči sa upreli na Maksa.
 
