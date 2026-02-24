@@ -1,36 +1,64 @@
 import os
 import re
+import sys
 import asyncio
 import edge_tts
 
 # Absolute paths
 REPO_DIR = '/Users/branislavlang/Documents/GitHub/null-void'
-SOURCE_FILE = os.path.join(REPO_DIR, 'export/book-1-prach-nevriss.md')
+SOURCE_FILE_BOOK = os.path.join(REPO_DIR, 'export/book-1-prach-nevriss.md')
+SOURCE_FILE_AUDIOBOOK = os.path.join(REPO_DIR, 'export/book-1-prach-nevriss-audiobook.md')
 OUTPUT_DIR = os.path.join(REPO_DIR, 'export/audio')
 TEMP_DIR = os.path.join(OUTPUT_DIR, 'temp')
 VOICE = 'sk-SK-LukasNeural'
+
 
 def clean_markdown_general(text):
     if text.startswith('---'):
         parts = text.split('---', 2)
         if len(parts) >= 3:
             text = parts[2]
-            
+
     text = re.sub(r'<div class="image-wrapper">.*?</div>', '', text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)
     text = re.sub(r'!\[.*?\]\(.*?\)', '', text)
+    # Strip inline comments (lore refs, notes, todos)
+    text = re.sub(r'\[→[^\]]*\]', '', text)
+    text = re.sub(r'\[NOTE:[^\]]*\]', '', text)
+    text = re.sub(r'\[TODO:[^\]]*\]', '', text)
+    text = re.sub(r'\[FIXME:[^\]]*\]', '', text)
     text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
     text = re.sub(r'\*(.*?)\*', r'\1', text)
     text = re.sub(r'_(.*?)_', r'\1', text)
     text = re.sub(r'^---\s*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^\*\*\*\s*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)
+    # Convert pause markers (...) to empty space (TTS will pause naturally)
+    text = re.sub(r'^\.\.\.\.*\s*$', '', text, flags=re.MULTILINE)
+    # Clean up excessive whitespace
+    text = re.sub(r'\n{4,}', '\n\n\n', text)
+    text = re.sub(r'^\s+$', '', text, flags=re.MULTILINE)
     return text.strip()
+
 
 async def generate_audio():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(TEMP_DIR, exist_ok=True)
-    
-    with open(SOURCE_FILE, 'r', encoding='utf-8') as f:
+
+    # Prefer audiobook-adapted source if it exists
+    if os.path.exists(SOURCE_FILE_AUDIOBOOK):
+        source = SOURCE_FILE_AUDIOBOOK
+        print(f"[INFO] Using audiobook-adapted source: {source}")
+    else:
+        source = SOURCE_FILE_BOOK
+        print(f"[INFO] Using book source (no audiobook adaptation found): {source}")
+
+    # Allow override via CLI
+    if len(sys.argv) > 1 and sys.argv[1] == '--book':
+        source = SOURCE_FILE_BOOK
+        print(f"[INFO] Forced book source: {source}")
+
+    with open(source, 'r', encoding='utf-8') as f:
         content = f.read()
         
     content = clean_markdown_general(content)
