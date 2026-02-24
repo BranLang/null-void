@@ -37,7 +37,7 @@ Obrovský vlk bez slova vyskočil s prekvapivou ľahkosťou na hrdzavé pletivo 
 
 Maks ďalej istil zadný voj. Ruku mal na puzdre samopalu, hoci vedel, že tu dole by mu streľba nepomohla. Metánové vrecká v kanalizácii starého mesta boli nepredvídateľné. Jeden výstrel do správneho miesta a celý tunel by sa zmenil na pec.
 
-„Hovorí sa, že tieto tunely pamätajú Éru Temnoty,“ povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvie. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch.“
+„Hovorí sa, že tieto tunely pamätajú Éru Temnoty,“ povedal Kito. Kráčal medzi nimi, trasúce sa ruky zvierali kožený tubus s mapami nad hladinou, akoby to bola relikvia. Mokré okuliare sa mu zosúvali z nosa. „Že tu dole sa schovávali prví ľudia, keď Wraithovia ovládli povrch.“
 
 Maks mlčal. Niečo v ňom čítalo steny — pod vrstvou slizu a korózie rozpoznával kontúry niečoho presného, inžinierskeho. [→ 03a-nanotechnology.md: Gen 1 pasívny sken] Staré značky, ktoré nepatrili žiadnemu Kultu. Technické kódy vytlačené do kovu.
 
@@ -47,7 +47,7 @@ Angličtina. Čistá, stará, bez diakritiky tohto sveta. Boli v základoch nie�
 
 „Ľudia sa neschovávali,“ povedal Maks ticho. Prešiel rukou po zhrdzavenej stene — pod prstami cítil kontúry technického reliéfu, presné ako chirurgický rez. „Pracovali tu.“
 
-Kito sa zastavil. Voda mu šľachtila okolo pása. „Ako to vieš?“
+Kito sa zastavil. Voda mu šplichtala okolo pása. „Ako to vieš?“
 
 „Pretože toto nie sú katakomby, Kito. Sú to parovody. Geotermálna elektráreň.“ Maks ukázal na hrdzavú rúru, ktorá sa tiahla po strope — kedysi lesklá meď, teraz zelenohnedá kostra. „Napájala celé toto prekliate údolie. Kým ju nevypli.“
 
@@ -125,7 +125,7 @@ Tretia — Mezra, vlčica — mala tvár zo slonoviny. Doslova. Jej koža bola u
 
 Neboli naživu. Neboli mŕtve. Boli to telá bežiace na poškodenom kóde — rovnaká nekonečná modlitba ako Mayina, len ďalej v procese. Tam, kde Maya ešte šepkala, tieto už len útočili. Posledný príkaz, ktorý ich Spira dokázala prečítať.
 
-Kito vykríkol a ustavil sa, akoby ho niekto udrel. Ruky sa mu roztriasli natoľko, že upustil mapy. Kolená sa mu podlomili. Vzduch v komore zhustol, keď jeho nekontrolovaná telekinéza vybuchla ako tlaková vlna — voda sa rozčerila, starý panel sa odlomil zo steny a spadol do kaluže.
+Kito vykríkol a zastavil sa, akoby ho niekto udrel. Ruky sa mu roztriasli natoľko, že upustil mapy. Kolená sa mu podlomili. Vzduch v komore zhustol, keď jeho nekontrolovaná telekinéza vybuchla ako tlaková vlna — voda sa rozčerila, starý panel sa odlomil zo steny a spadol do kaluže.
 
 „Dozadu,“ povedal Maks. Hlasne. Jasne. Rozkaz.
 
@@ -183,7 +183,7 @@ Tami čistila pištoľ, ale jej pohyby neboli plynulé. Palec jej dvakrát skĺz
 
 „Každý druhý týždeň,“ odpovedal Maks s mechanickým chladom, zatiaľ čo jeho prsty so strojovou presnosťou cvakli nový zásobník do samopalu. Ani nezvýšil hlas. Vedel, že obom vedľa neho búši srdce. On sám necítil nič. Prijal hrozbu. Eliminoval hrozbu. Rovnica končila. [→ 03a-nanotechnology.md: Gen 1 senzory — Maks registruje vitálne funkcie spoločníkov]
 
-„Ten medveď… to bol Dren,” povedal Kito a zovrel päste tak silno, až mu zbeleli hánky. Voda okolo jeho topánok začala vrieť telekinetickým tlakom. „Zabrali ho do služby Chrámu pred štyrmi rokmi! A Yara… vlčica… študovala so mnou botaniku! Mali *mená*! Boli to *veriaci*! Ako môže… ako toto…” Nedokázal to ani dopovedať. Jadro jeho viery sa práve trieštilo na tisíc kúskov priamo pred ich očami.
+„Ten medveď… to bol Dren,” povedal Kito a zovrel päste tak silno, až mu zbeleli kĺby. Voda okolo jeho topánok začala vrieť telekinetickým tlakom. „Zabrali ho do služby Chrámu pred štyrmi rokmi! A Yara… vlčica… študovala so mnou botaniku! Mali *mená*! Boli to *veriaci*! Ako môže… ako toto…” Nedokázal to ani dopovedať. Jadro jeho viery sa práve trieštilo na tisíc kúskov priamo pred ich očami.
 
 Tami sa narovnala a pevne stisla rukoväť pištole. „Práve preto sme ich zabili rýchlo, Kito,“ povedala tvrdo. Príliš tvrdo na to, aby to znelo prirodzene. Hlasom sa presviedčala rovnako ako jeho. „Bez zbytočnej hry.“
 
@@ -276,7 +276,7 @@ Maks sa pohol. Nie telom — len hlavou. Otočil sa na Tami. A v tom pohľade bo
 
 Dôstojník to videl. Vlčie uši sa mu stiahli k lebke. Ruka klesla. Prehltol.
 
-„Tak dobre,“ povedal ticho. Hlas mu zvrdol. „Dvadsaťdva Spira nábojov. Aj Exorcista je z mäsa.“ Pokývol hlavou smerom k strážam. Bezpečie sa odparovalo z tunelov ako para z mokrého kameňa.
+„Tak dobre,“ povedal ticho. Hlas mu stvrdol. „Dvadsaťdva Spira nábojov. Aj Exorcista je z mäsa.“ Pokývol hlavou smerom k strážam. Bezpečie sa odparovalo z tunelov ako para z mokrého kameňa.
 
 Prsty na spúšťach sa napli. [NOTE: Dôstojník sa pokúsil vyjednávať — preferoval riešenie bez strát. Keď Maks odmietol vydať Tami, nezostáva nič. Rozkaz je rozkaz. Ale jeho „aj Exorcista je z mäsa“ je sebapresvedčovanie — sám tomu neverí.]
 
@@ -458,9 +458,9 @@ Dunenie z povrchu sem doliehalo len ako hlboký, vzdialený pulz. Grawské delos
 
 Tami sa zastavila. Zdvihla päsť. *Stoj.*
 
-Na konci chodby — svetlo. Olejová lampa na háku v stene, kopcovitý plameň, čo vrhal chvejúce sa tiene na klenbu. A pod ňou — stolička. A na stoličke — strážnik.
+Na konci chodby — svetlo. Olejová lampa na háku v stene, koptivý plameň, čo vrhal chvejúce sa tiene na klenbu. A pod ňou — stolička. A na stoličke — strážnik.
 
-Mladý. Mezra. Kočkovitá tvár — krátke tmavé fúzy, široký nos, uši stiahnuté nabok v polospánku. [→ 06-society.md: Mezra = stredná kasta, bežní vojaci] Na sebe uniformu Chrámovej stráže, ale zle padnúcu — príliš veľká v ramenách, príliš dlhá v rukávoch. Nováčik, ktorého niekto obliekol do toho, čo zostalo v sklade. Na nohách čižmy so zlomenou prackou. Puška oprená o stenu vedľa neho — nie v rukách. Hlava opadnutá na hruď. Ťažká hodina Sai ho ťahala do zeme rovnako ako všetkých. [→ 03-tunnels.md: „Ťažká hodina. Stráže ostanú sedieť na zadku.“]
+Mladý. Mezra. Mačkovitá tvár — krátke tmavé fúzy, široký nos, uši stiahnuté nabok v polospánku. [→ 06-society.md: Mezra = stredná kasta, bežní vojaci] Na sebe uniformu Chrámovej stráže, ale zle padnúcu — príliš veľká v ramenách, príliš dlhá v rukávoch. Nováčik, ktorého niekto obliekol do toho, čo zostalo v sklade. Na nohách čižmy so zlomenou prackou. Puška oprená o stenu vedľa neho — nie v rukách. Hlava opadnutá na hruď. Ťažká hodina Sai ho ťahala do zeme rovnako ako všetkých. [→ 03-tunnels.md: „Ťažká hodina. Stráže ostanú sedieť na zadku.“]
 
 Za jeho chrbtom — dvoje zatvorených dverí. Posledné cely na konci chodby. Zamknuté.
 
@@ -638,7 +638,7 @@ Jemne. Ale definitívne. Jedným pohybom — plece, lakeť, zápästie — Arkot
 
 Modrý pentagram nepoľavil. Dlane na hrudi. Svetlo stekajúce do rany.
 
-Arkot stál s rukou vo vzduchu. Ústa otvorené. A potom — pomaly, bolestivo — zatvorené. Lebo v tom jednom geste videl niečo, čo poznal. Niečo, čo bolo v Yere vždy — pred Itakou, pred jakyňou, pred kobkami — a čo mesiace s Mormielom nedokázali vytrhnúť.
+Arkot stál s rukou vo vzduchu. Ústa otvorené. A potom — pomaly, bolestivo — zatvorené. Lebo v tom jednom geste videl niečo, čo poznal. Niečo, čo bolo v Yere vždy — pred Itakou, pred jaskyňou, pred kobkami — a čo mesiace s Mormielom nedokázali vytrhnúť.
 
 Yera prehovorila.
 

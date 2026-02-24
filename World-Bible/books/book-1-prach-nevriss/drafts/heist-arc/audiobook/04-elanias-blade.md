@@ -23,7 +23,7 @@ Spoza rohu vyšla vec, čo bola kedysi Varietas.
 
 Experiment. Jeden. Sám — odrezaný od ostatných, stratený v tuneloch, zlákaný zvukom jej krokov. Telo mačky — nie. Telo, čo si pamätalo, že bolo mačkou. Koža nahradená fialovými kryštálovými výrastkami, oči — príliš veľa očí — rozložené po hlave ako kvety. Z papule mu kvapkala tekutina, čo sa leptala do podlahy. Jedna predná labka — väčšia, než mala byť — sa zdvihla a zavesila vo vzduchu.
 
-Tami nedvihla pušku.
+Tami nezdvihla pušku.
 
 V tuneloch, keď zabíjala Experimenty s Maksom — triasla sa. Lebo to boli oni. Dren. Yara. Kitovi priatelia. Jej ľudia. Triasla sa a svetielko neprichádza, keď sa trasieš. Roky tréningu, tisíce žabiek na jazere — a nič z toho nefunguje, keď tvoja ruka nevie, či chce zabiť alebo plakať.
 
@@ -797,12 +797,6 @@ Maks neodpovedal. Pozrel smerom, kde zmizla Sera.
 Pozrel na Tami. Na artefakt v jej rukách. A na jej oči — tie tyrkysové líščie oči — kde na moment preblikol záblesk. Fialový. Ako svetlo ďalekej hviezdy.
 
 Zmizol skôr, než si bol istý.
-
-„Ideme," povedal Maks. Ticho. Bez emócie. „K Itake."
-
-Tami prikývla. Presunula artefakt pod druhé rameno — nič, ani teraz nič — a chytila Kita za golier druhou rukou a viedla ho preč od sutín. Preč od kriku. Preč od mesta, ktoré sa začínalo rúcať.
-
----
 
 Potom to Maks začul.
 
