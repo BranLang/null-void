@@ -54,9 +54,13 @@ async def generate_audio():
         print(f"[INFO] Using book source (no audiobook adaptation found): {source}")
 
     # Allow override via CLI
-    if len(sys.argv) > 1 and sys.argv[1] == '--book':
-        source = SOURCE_FILE_BOOK
-        print(f"[INFO] Forced book source: {source}")
+    if len(sys.argv) > 1:
+        if sys.argv[1] == '--book':
+            source = SOURCE_FILE_BOOK
+            print(f"[INFO] Forced book source: {source}")
+        else:
+            source = sys.argv[1]
+            print(f"[INFO] Using custom source file: {source}")
 
     with open(source, 'r', encoding='utf-8') as f:
         content = f.read()
