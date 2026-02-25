@@ -333,7 +333,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.ishtar_campaign`
 - Názov: Južná kampaň (Ishtar)
 - Čas: Kniha 3 (pracovne)
-- Zhrnutie: Ishtar mučí Maksa ilúziami; odhalenie, že 4. Archanjel je Elania.
+- Zhrnutie: Ishtar mučí Maksa ilúziami; odhalenie, že 4. Archbés je Elania.
 - Účastníci: `char.maksimilian`, `char.tami`, `char.ishtar`, `char.elania`
 - Lokácie: `place.south`
 - Tagy: `psychologická_vojna`, `odhalenie`

@@ -198,7 +198,7 @@ Schody sa skončili.
 
 Maks vykročil do priestoru, ktorý nemal čo existovať pod mestom.
 
-Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky stôp nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archanjelov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
+Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky stôp nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archbésov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
 
 A svietilo to.
 

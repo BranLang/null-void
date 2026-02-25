@@ -110,7 +110,7 @@ Varietas si vysvetľujú funkcie nanobotov cez elementálny mysticizmus:
 ### Veľká Vojna Spiry (The Great Spira War) — AY ~850
 **"Deň, keď Matka plakala v blate."**
 
-Rozhodujúca bitka v **Atranskej Úžine (The Atra Narrows)** pod pohorím Hangravall (jediný vstup na Juh). Triumvirát Archanjelov (Grond, Samaell, Zaya) chcel zničiť Varietas a vziať si Spiru.
+Rozhodujúca bitka v **Atranskej Úžine (The Atra Narrows)** pod pohorím Hangravall (jediný vstup na Juh). Triumvirát Archbésov (Grond, Samaell, Zaya) chcel zničiť Varietas a vziať si Spiru.
 
 *   **Zostúpenie:** Inetis zostúpila z nebies uprostred masakru. Kráčala stredom bojiska, ignorujúc lietajúce projektily.
 *   **Slzy v blate:** Kľakla si do krvavého blata k umierajúcim a plakala. Jej plač bol taký zúfalý, že zastavil rinčanie zbraní. Hanba z toho, že rozplakali Matku, zlomila morálku oboch strán.

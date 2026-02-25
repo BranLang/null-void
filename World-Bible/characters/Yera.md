@@ -52,13 +52,18 @@
 ### Pursang z Nyau
 - Šľachtický pôvod — dedička **klanu Saéli**, najvplyvnejšej Pursang rodiny v Nyau. **Detaily neznáme** pre väčšinu posádky — Yera odmietla o tom hovoriť.
 - Mala ~3 zimy (17 rokov) a tri zimy od prvej služby v Chráme El, keď stretla Arkota.
-- **Klietka**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. Soril (prísna nadradená kňažka) ju pripravuje. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu.
+- **Klietka**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. **Soril** (Strážkyňa Denníka El) si ju vybrala ako nasledovníčku — nie len pre Chrám, ale pre tajnú funkciu stráženia originálu Knihy El. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu. [→ characters/Soril.md]
 - **Prvé stretnutie** — počas **Lampionového festivalu** v Nyau. Yera unikla z klanového balkóna (posledný festival pred zasvätením), túlala sa ulicami sama — prvýkrát v živote bez sprievodu. Arkot — trochu opitý Mezra leopard z Diss — sedel na schodoch pri prístave. *„Stratila si sa?"* Vzal ju na strechu skladiska. Pozerali hviezdy, lampióny stúpali k oblohe, on spieval piesne z Beladiss. Ponúkol ju alkoholom, chytil ju za ruku — nič sa nestalo, Yera sa zľakla a utiekla domov. Ale nasledujúce dni nemohla spať — myslela na jeho oči, na jeho hlas. Na šiesty deň ho išla hľadať do prístavu.
 - **Zakázaná láska** — Pursang + Mezra = medzikastové tabu + porušenie sľubu celibátu. Tajné stretnutia v bioluminescentných záhradách. Flint kryl. Klan Saéli sa dozvedel → škandál → ultimátum.
-- **Krádež Knihy El** — impulzívna, z kumulácie ponížení od Soril. Yera chcela ublížiť — neuvedomila si dôsledky (svätokrádež = trest smrti). NIKDY nepovie Arkotovi ani Tami. Nosí ju v príručnej taške.
+- **Noc Odhalenia** — Soril jej ukázala OG Black Book of El — originál pod oltárom. Povedala: *„El bola žena. Ako my dve."* Odmena za službu: študovať knihu, hľadať odpovede. Naučila ju tajnú techniku kňažiek — **neviditeľnosť** (Spira presmerovanie svetla). Yera mala chrániť knihu pred Démonom. Namiesto toho —
+- **Krádež Knihy El** — nie impulzívna, ale zo vzdoru informovaného pravdou. Soril jej ukázala celú El — ženu, nie bohyňu. Yera pochopila: aj El si vybrala Démona. A vyberie si aj ona. **Neviditeľnosť jej pomohla ujsť** — technika určená na ochranu knihy pomohla knihu ukradnúť. (Svätokrádež = trest smrti.) NIKDY nepovie Arkotovi ani Tami. Nosí ju v príručnej taške.
 - **Utiekla z Nyau s Arkotom a Flintom** — **pravý dôvod**: útek pred dôsledkami krádeže Knihy El. Arkot si myslí, že je hlavný dôvod. Nie je. Zanechala rodinu, privilégiá, všetko. **Ostrihala si dlhé vlasy** — praktický dôvod (aby ju nespoznali), ale aj symbolický: odrezanie starého života. Skončili na palube Itaky (~AY 3011).
 - Prišla s kvalitným vybavením (kožený kabát s kožušinou — dar od mŕtvej starej matky, jemné pazúry udržiavané) — dedičstvo z aristokratického života.
-- Najsilnejšia Spiristka v posádke — vodná Spira, hojenie rán, diagnostika. Príliš silná na to, aby bola "len dcéra z nižšej šľachty."
+- Najsilnejšia Spiristka v posádke — **kľúčové schopnosti:**
+  - **Stealth** — neviditeľnosť (tajná technika Strážkyne Denníka El, naučila ju Soril). Presmerovanie svetla okolo tela cez nanoboty. Nikto v posádke o tom nevie. Pomohla jej ukradnúť knihu a opakovane ju zachránila.
+  - **Heal** — vodná Spira, hojenie rán, diagnostika. Jej primárna identita v posádke — „liečiteľka".
+  - **Water/Ice magic** — ofenzívna vodná Spira. Manipulácia vody a ľadu. Vrátane **tajného haiku na ice glacier** — ľadový kryštál, ktorý prebodne srdce. Technika určená na zabitie Démona — naučená od Soril, z opisu Seriného útoku v origináli Knihy El (Sera bodla Samaella do srdca; Yera by urobila to isté, ale ľadovou kopijou cez Spiru). [→ characters/Soril.md: Tréning]
+  - Príliš silná na to, aby bola "len dcéra z nižšej šľachty."
 - **Čo posádka vie**: Pursang. Nyau. Liečiteľka. Nič viac.
 - **Čo posádka tuší**: Niečo sa stalo. Niečo, prečo krásna Pursang mačka z bohatej rodiny žije na dobrodruhynej lodi a odmietne hovoriť o domove.
 

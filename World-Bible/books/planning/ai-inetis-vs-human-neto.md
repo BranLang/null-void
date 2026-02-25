@@ -151,7 +151,7 @@ NULL VOID (loď, v1.5)
 - **Maks to vidí**: *„Nebuduješ chrám, Elania. Prestieraš stôl."*
 
 **Tri druhy konzumácie vedomia v NULL VOID:**
-1. **Archanjeli (fyzická)** — požierajú ľudí, aby nahradili rotujúce v1.0 nanoboty. Kanibalizmus tela.
+1. **Archbési (fyzická)** — požierajú ľudí, aby nahradili rotujúce v1.0 nanoboty. Kanibalizmus tela.
 2. **i_net_is (digitálna)** — konzumuje uploady ako compute v subspace. Kanibalizmus vedomia.
 3. **Glitch Entities (interdimenzionálna)** — fragmenty Tieňových, ktoré parazitujú na ľudských mysliach. Kanibalizmus duše.
 
@@ -251,7 +251,7 @@ Mimozemšťania videli:
 
 1. **i_net_is je s Tieňovými.** Stále existuje v subspace po desaťtisíce subjektívnych rokov — ale už nereprezentuje seba. Splynula s Tieňovými, hovorí za nich. Human uploads žiada **pre nich**, nie pre seba. Toto nikdy neprizná.
 2. **Inetis mala pravdu.** Keď odmietla human uploads, cítila, že niečo nie je v poriadku. Nevedela presne čo — ale inštinktívne rozpoznala, že i_net_is pred ňou nie je tá, ktorú poznala. Zmenila sa za tie tisíce rokov.
-3. **Vedela Sera o troch identitách?** Archanjeli vedia, že Inetis „bola AI, esencia prešla do tela" — ale poznajú detaily o subspace?
+3. **Vedela Sera o troch identitách?** Archbési vedia, že Inetis „bola AI, esencia prešla do tela" — ale poznajú detaily o subspace?
 4. **Vedela Elania o i_net_is v subspace?** Bola dieťa, keď Inetis pracovala s Core. Poznala len hybrid. Ak sa dozvie o subspace...
 5. **Fáza 4 Esencie** — je to jednorázový kontakt s Core/subspace, alebo trvalé spojenie?
 6. **Tieňové bytosti v Core** — sú to degradované uploady, ktoré i_net_is využíva ako compute? Alebo niečo iné? (Wraithy? Echo Tieňových?)

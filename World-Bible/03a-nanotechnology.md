@@ -110,7 +110,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete. Existujú š
 
 | Verzia | Označenie | Užívateľ | Hrubá sila | Sofistikovanosť | Dedičnosť | Kryštály | Glitch Rot |
 |--------|-----------|----------|------------|------------------|------------|----------|------------|
-| **v1.0** | Legacy | Ex Inferis (Archanjeli) | Vysoká | Nízka | Nie | Nie | Ano |
+| **v1.0** | Legacy | Ex Inferis (Archbési) | Vysoká | Nízka | Nie | Nie | Ano |
 | **v1.5** | Mil-Spec | Maksimilián | Veľmi vysoká | Nízka | Nie | Nie | Ano |
 | **v1.7** | God-Tier | Elania, Inetis | Absolútna | Vysoká | Nie | Nie | Ano |
 | **v2.0** | Spira | Varietas | Nízka | Veľmi vysoká | Ano | Ano | Nie |
@@ -119,7 +119,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete. Existujú š
 ### v1.0 — Legacy (Civilné nanoboty)
 
 - **Pôvod:** Pôvodné civilné nanoboty zo Zeme
-- **Užívatelia:** Ex Inferis (Archanjeli), vrátane Gronda
+- **Užívatelia:** Ex Inferis (Archbési), vrátane Gronda
 - **Vlastnosti:**
   - Robustné a silné, ale mentálne nestabilné (strata emócií pri dlhodobom použití)
   - Nedokážu sa rozmnožovať ani ukladať do kryštálov
@@ -166,7 +166,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete. Existujú š
 
 ### Paradox skúseností
 
-> Archanjeli (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archanjel dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
+> Archbési (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archbés dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
 
 [→ 03-technology.md: Generácie Nanotechnológie (Versions)]
 
@@ -213,13 +213,13 @@ Gen 1 a Gen 2 používajú fundamentálne odlišné príkazové jazyky. Tento ro
 | **Syntax** | Anglické CLI príkazy (Staroreč) | Haiku — japonská poézia |
 | **Príklad** | `sudo nanoswarm --target hostile --mode suppress` | *„Matkin dych tíchne / oceľ plače v temnote / krv volá domov"* |
 | **Vnímanie druhou stranou** | Pre Varietas = desivá mimozemská inkantácia | Pre Maksa = poetická modlitba primitívov |
-| **Prečo tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archanjeli nedokázali rozlúštiť |
+| **Prečo tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archbési nedokázali rozlúštiť |
 | **Učenie** | Manuály, technické školenie | Modlitby, rukopisy, kamenné nápisy |
 | **Rozhranie** | Interný HUD (vidí len majiteľ) | Externý Pentagram (viditeľný pre všetkých) |
 
 ### Prečo Haiku?
 
-Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archanjeli (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maksa je to dôkaz geniality Inetis.
+Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archbési (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maksa je to dôkaz geniality Inetis.
 
 **Native speaker výhoda:** Sera je jediný živý native speaker japončiny na Achilles. Varietas sa učia Haiku ako naučené frázy/modlitby — funguje to, ale nechápu jazyk (ako latinsky modliaci sa veriaci). Tami sa naučí od Sera konkrétne príkazy, ale nie je native speaker. Links reverse-engineeruje syntax z knihy. Jedine Sera dokáže improvizovať, tvoriť nové Haiku príkazy za pochodu, kombinovať — rozumie *jazyku*, nie len *frázam*.
 
@@ -253,7 +253,7 @@ Gen 1 nanoboty sú priamo napojené na vedomie hostiteľa. Toto prepojenie je ob
 | **Renn**† | v1.0 | Fatálny | Prestal praktizovať vampirizmus, degradoval, zomrel |
 | **Elania** | v1.7 | Kritický | Uväznená — musí požierať iných (Veľký Upload) |
 | **Grond** | v1.0 | Pokročilý | Kanibalizmus — ľudské obete nahrádzajú rotujúce nanoboty |
-| **Archanjeli** | v1.0 | Rôzny | Praktizujú vampirizmus ako organizovaný rituál (Odber/Zber) |
+| **Archbési** | v1.0 | Rôzny | Praktizujú vampirizmus ako organizovaný rituál (Odber/Zber) |
 
 ### Kľúčové pravidlá
 
@@ -319,7 +319,7 @@ Gen 1 nanoboty sa nedokážu rozmnožovať. Rotujúce (degradované) nanoboty je
 
 | Praktikant | Metóda | Morálny postoj |
 |------------|--------|----------------|
-| **Archanjeli (systém)** | Organizovaný Odber/Zber — lovci pátrajú po Varietas s Darom Matky | Inštitucionalizované zlo; Varietas sú "dobytok" |
+| **Archbési (systém)** | Organizovaný Odber/Zber — lovci pátrajú po Varietas s Darom Matky | Inštitucionalizované zlo; Varietas sú "dobytok" |
 | **Sera** | Chov Pursang livestock na Veži Zatratených | Nevyhnutnosť, nie sadizmus. Cíti vinu a ľútosť |
 | **Mormiel** | Rituál Nástupníctva (~100 rokov), nočný lov | Vychutnáva si to — kontrast so Serou |
 | **Grond** | Ľudské obete — kanibalizmus ako náboženský rituál | Ľudia veria, že "darovať telo Grondovi" je najvyššia česť |
@@ -335,9 +335,9 @@ Kvalita nanobotov závisí od Spira kasty obete:
 | **Ghorki** (Low Spira) | Slabá/žiadna Spira — takmer bezcenní |
 | **WaSpira** (Zero) | Žiadne nanoboty — nepoužiteľní |
 
-> Viac zdravých Varietas = viac kvalitných nanobotov pre Archanjelov. Preto tolerujú Maki technológiu (vzducholode, kanalizácia) — zabezpečuje zdravšie a početnejšie "stádo".
+> Viac zdravých Varietas = viac kvalitných nanobotov pre Archbésov. Preto tolerujú Maki technológiu (vzducholode, kanalizácia) — zabezpečuje zdravšie a početnejšie "stádo".
 
-[→ 06-society.md: Archanjeli (Ex inferis)]
+[→ 06-society.md: Archbési (Ex inferis)]
 [→ characters/Sera.md: Vampirizmus]
 
 ---
@@ -430,7 +430,7 @@ Koncentrácia Spiry v krvi určuje kastu a spoločenské postavenie Varietas.
 | **Bežní Varietas** | Mid | Väčšina populácie. Základné schopnosti |
 | **Pursang** | High | Najsilnejšia Spira. Pozdvihnutí ľudia so zvieracími črtami ale ľudským genómom. Vzácni |
 
-> **Pursang** sú najcennejší zdroj nanobotov pre vampírov (Ex Inferis). Byť Pursang znamená mať silnú Spiru — ale aj byť terčom pre Archanjelov.
+> **Pursang** sú najcennejší zdroj nanobotov pre vampírov (Ex Inferis). Byť Pursang znamená mať silnú Spiru — ale aj byť terčom pre Archbésov.
 
 [→ 06-society.md: Kasty Varietas]
 
@@ -554,7 +554,7 @@ Kompletný prehľad nanotechnológie asociovanej s kľúčovými postavami.
 | **Inetis**† | v1.7 → Esencia | N/A | Tvorkyňa Gen 2, Merge do Antény | Neaplikovateľné (mŕtva) |
 | **Tami** | v2.0 + Esencia | Neznámy | Po prevzatí Echo — prístup k architektúre sveta | Dedičná Spira + Esencia z Antény |
 | **Renn**† | v1.0 | Neznámy | Štandardné Gen 1 | Prestal praktizovať → degradácia → smrť |
-| **Archanjeli** | v1.0 | Rôzny | Štandardné Gen 1 | Organizovaný Odber/Zber z Varietas |
+| **Archbési** | v1.0 | Rôzny | Štandardné Gen 1 | Organizovaný Odber/Zber z Varietas |
 
 ### Čierny Prach — Bojový profil: Maks vs Sera
 
@@ -599,7 +599,7 @@ Kompletný prehľad nanotechnológie asociovanej s kľúčovými postavami.
 | **AY ~300+** | Bit Rot / Glitch kríza | Degradácia Gen 1 nanobotov sa stáva kritickou |
 | **AY ~500** | Éra Temnoty | Glitch Rot epidémia — masová degradácia vedomí |
 | **AY ~500–650** | Inetis tvorí Gen 2 | V Core, s pomocou inžinierov z ARK lodí. ~100 simulovaných rokov vývoja |
-| **AY ~700** | Príchod ARK-13 | Ex Inferis prinášajú v1.0 nanoboty. Vznik Archanjelov |
+| **AY ~700** | Príchod ARK-13 | Ex Inferis prinášajú v1.0 nanoboty. Vznik Archbésov |
 | **AY ~700+** | Dar Matky | Inetis osobne požehnáva Varietas — distribúcia Gen 2 |
 | **AY ~852** | Merge | Smrť Inetis. Nanoboty vsiaknu do Antény |
 | **AY ~3000** | Prebudenie Maksa | v1.5 nanoboty po 3000 rokoch kryospánku |

@@ -72,7 +72,7 @@
 ### Kapitola 5: Krvavý Rituál (Hotovo — REVÍZIA POTREBNÁ)
 **Súbor:** `drafts/main-arc/05-blood-ritual.md`
 *   **The Decision**: Maks sa rozhodne skoncovať s Grawom pred odchodom.
-*   **The Blood Ritual**: Maks uvoľní plnú vojenskú kapacitu nanodronového swarmu. **Blood Ritual = technika naučená od Samaella** (AY 3001, po technovampirizme) — spôsob, akým Archanjeli uvoľňujú nanoboty cez krv. Maks kombinuje Samaellov Blood Ritual (metóda uvoľnenia) s **dedovým FPV myslením** [→ maks-ukraine-origin.md: dronové vojny 2022-2026] (navigácia rojov na diaľku). Nanodronový roj cez 6 km, cez škáry v Power Armor, detonácia zvnútra. Grond zomrel na to, čomu nerozumel. **Maks zabije Gronda.**
+*   **The Blood Ritual**: Maks uvoľní plnú vojenskú kapacitu nanodronového swarmu. **Blood Ritual = technika naučená od Samaella** (AY 3001, po technovampirizme) — spôsob, akým Archbési uvoľňujú nanoboty cez krv. Maks kombinuje Samaellov Blood Ritual (metóda uvoľnenia) s **dedovým FPV myslením** [→ maks-ukraine-origin.md: dronové vojny 2022-2026] (navigácia rojov na diaľku). Nanodronový roj cez 6 km, cez škáry v Power Armor, detonácia zvnútra. Grond zomrel na to, čomu nerozumel. **Maks zabije Gronda.**
 *   **The Price**: 30% nanobotov sa nevráti = strata spomienok, IQ, zdravia. Maks na hranici smrti. Obetoval kus seba — doslova, nie metafora.
 *   **Arkotova smrť (NEW):** Arkot bojuje v bitke na uliciach (pomáha s obranou). Zomiera. Yera stráca partnera. Prvá skutočná strata tímu.
 
@@ -109,8 +109,8 @@
         *   Maks je slepý, bez pamäte, s degradovaným nanotechom, na cudzej planéte. Samaell má 3000 rokov skúseností.
         *   Absolútna nevýhoda — žiadny neskorší boj nebude taký ťažký. Grond (Ch.5) = Samaellov Blood Ritual + dedov FPV mindset, na diaľku. Paladínov zničila Sera (Ch.4), nie Maks. Sera (Book 4) = duel rovných.
         *   Na Zemi bol Maks #1. Na Achilles nie je nikto. Toto je jeho znovuzrodenie — z relikvie na hráča.
-        *   FPV nano-drony vs Archanjel. Technovampirizmus. Oči z Čierneho Prachu — vidí prvýkrát od prebudenia.
-    *   **Samaell = Smrť.** Duel nie je len flashback — je to **metafora**. Maks vo flashbacku poráža Samaella (Archanjela Tieňov / Smrť) → Maks poráža svoju vlastnú smrť → prebúdza sa z kómy. AY 3001 duel = AY 3014 reboot. Poraziť Smrť vtedy = prežiť teraz.
+        *   FPV nano-drony vs Archbés. Technovampirizmus. Oči z Čierneho Prachu — vidí prvýkrát od prebudenia.
+    *   **Samaell = Smrť.** Duel nie je len flashback — je to **metafora**. Maks vo flashbacku poráža Samaella (Archbésa Tieňov / Smrť) → Maks poráža svoju vlastnú smrť → prebúdza sa z kómy. AY 3001 duel = AY 3014 reboot. Poraziť Smrť vtedy = prežiť teraz.
     *   **Naratívna funkcia:** Toto je skutočné finále Knihy 1. Nie Blood Ritual (Ch.5), nie pád (Ch.6) — ale moment, keď Maks odmietne zomrieť. Samaellov duel je posledná vec, ktorú čitateľ vidí pred prebudením.
     *   **Archive materiál:** `drafts/archive/prologue-1-draft-kael-samaell.md`
 
@@ -120,7 +120,7 @@
     *   Felix mu pustí bombu: **"Bol si v kóme rok."**
     *   **AY 3014** — rok prešiel. Tami je preč (niekde na juhu). Svet sa pohol ďalej.
     *   Maks sa prebudí do sveta, ktorý ho pochoval.
-    *   **Kto ho zachránil? → SERA.** Sera po Ch.4 neodišla — pozorovala z tieňov. Videla Maksov pád, Tami plakať, odchod. Prišla k telu, prehľadávala ho (investigátor pre Elaniu). Detekovala záložný systém — Maksov nanotech (Zem, 2300) je ~150 rokov modernejší ako jej Gen 1 (ARK-11, ~2150). Rozpoznala vojenské signály, ktoré nepoznala. **Grondov kill ju desí na úplne inej úrovni** — Grond je Archanjel. Sera ho videla v bitke Atra Narrows (~AY 850), keď bola mladá a on už bol legenda. A niekto ho zabil na 6 km za 7 sekúnd. Sera to nedokáže. Toto nie je exorcista — toto je niečo, čo ešte nevidela. (Sera nevie o Samaellovi — Grond je v skutočnosti už DRUHÝ Archanjel, ktorého Maks zabil.) Uvažovala: zobrať ho k Elanii? Nie — 1) nevie, ako by Elania reagovala, 2) bytosť schopná zabiť Archanjela na diaľku + nekontrolované stretnutie = potenciálna katastrofa. Sera rozhodla **oddialiť stretnutie**, kým nepochopí, čo Maks je. Vybavila transport do Kitsune (pozná Makov osobne, vie o Felixovi). Borg a Nix vykonali fyzický transport na poškodenom Itaku na Serin príkaz. **Nikto nevie, že Sera ho zachránila.**
+    *   **Kto ho zachránil? → SERA.** Sera po Ch.4 neodišla — pozorovala z tieňov. Videla Maksov pád, Tami plakať, odchod. Prišla k telu, prehľadávala ho (investigátor pre Elaniu). Detekovala záložný systém — Maksov nanotech (Zem, 2300) je ~150 rokov modernejší ako jej Gen 1 (ARK-11, ~2150). Rozpoznala vojenské signály, ktoré nepoznala. **Grondov kill ju desí na úplne inej úrovni** — Grond je Archbés. Sera ho videla v bitke Atra Narrows (~AY 850), keď bola mladá a on už bol legenda. A niekto ho zabil na 6 km za 7 sekúnd. Sera to nedokáže. Toto nie je exorcista — toto je niečo, čo ešte nevidela. (Sera nevie o Samaellovi — Grond je v skutočnosti už DRUHÝ Archbés, ktorého Maks zabil.) Uvažovala: zobrať ho k Elanii? Nie — 1) nevie, ako by Elania reagovala, 2) bytosť schopná zabiť Archbésa na diaľku + nekontrolované stretnutie = potenciálna katastrofa. Sera rozhodla **oddialiť stretnutie**, kým nepochopí, čo Maks je. Vybavila transport do Kitsune (pozná Makov osobne, vie o Felixovi). Borg a Nix vykonali fyzický transport na poškodenom Itaku na Serin príkaz. **Nikto nevie, že Sera ho zachránila.**
 
 *   **Symetria strát:** Obe "sestry" prídu o niekoho — Tami o Maksa (zdanlivá smrť), Yera o Arkota (definitívna smrť).
 *   **Most do Book 2:** Maks v Kitsune, sám, rok pozadu. Tami v Nevriss City, bez neho.

@@ -310,10 +310,10 @@
 
 **Sera's Assumptions (po Book 1 — po Shoravene):**
 - Všetko vyššie +
-- **Zabil Gronda na vzdialenosť 6 km za 7 sekúnd** — nanodronový roj cez celé mesto. **Grond je Archanjel** — Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a Grond už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt aj ona. A niekto ho zabil na diaľku, neviditeľne, chirurgicky. **Sera to nedokáže.** S 3467 rokmi skúseností, Gen 1+2, Hard Light — nemá dosah na kill cez celé mesto. Nikto, koho pozná, to nedokáže. Toto ju desí na úplne inej úrovni — nie len "silný exorcista", ale **bytosť schopná zabiť Archanjela na diaľku**.
+- **Zabil Gronda na vzdialenosť 6 km za 7 sekúnd** — nanodronový roj cez celé mesto. **Grond je Archbés** — Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a Grond už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt aj ona. A niekto ho zabil na diaľku, neviditeľne, chirurgicky. **Sera to nedokáže.** S 3467 rokmi skúseností, Gen 1+2, Hard Light — nemá dosah na kill cez celé mesto. Nikto, koho pozná, to nedokáže. Toto ju desí na úplne inej úrovni — nie len "silný exorcista", ale **bytosť schopná zabiť Archbésa na diaľku**.
 - **Nanotech ~150 rokov modernejší** ako jej Gen 1 (detekované pri prehľadávaní "mŕtvoly")
-- **Nevie o Samaellovi** — nikto okrem Tami nevie, že Maks zabil Archanjela už v AY 3001. Grondov kill je pre Seru prvý dôkaz — ale v skutočnosti je to už **druhý Archanjel**, ktorého Maks zabil. Sera vidí špičku ľadovca.
-- **Záver:** Maks nie je len záhada — je **existenčná hrozba alebo existenčný spojenec** pre Elaniu. Niekto, kto zabije Archanjela na diaľku, môže zabiť kohokoľvek. Vrátane Elanie. Vrátane Sery. Oboje vyžaduje kontrolu a čas.
+- **Nevie o Samaellovi** — nikto okrem Tami nevie, že Maks zabil Archbésa už v AY 3001. Grondov kill je pre Seru prvý dôkaz — ale v skutočnosti je to už **druhý Archbés**, ktorého Maks zabil. Sera vidí špičku ľadovca.
+- **Záver:** Maks nie je len záhada — je **existenčná hrozba alebo existenčný spojenec** pre Elaniu. Niekto, kto zabije Archbésa na diaľku, môže zabiť kohokoľvek. Vrátane Elanie. Vrátane Sery. Oboje vyžaduje kontrolu a čas.
 
 **Mission:**
 - ~~Nájsť ho~~ ✓
@@ -417,8 +417,8 @@
    - Prišla k "mŕtvole" — prehľadávala telo (**investigátor pre Elaniu**)
    - **Detekovala záložný systém:** Maksov nanotech (Zem, 2300) je ~150 rokov modernejší ako jej Gen 1 (ARK-11, ~2150). Rozpoznala vojenské signály, ktoré nepoznala — systém žil, aj keď telo bolo mŕtve
    - **Kalkulácia**: Zobrať ho k Elanii? → NIE. Nevie, ako by Elania reagovala na otca, ktorého nikdy nepoznala. Stretnutie bez kontroly = risk. Sera rozhodla **oddialiť stretnutie**, kým sa veci nevykryštalizujú
-   - **Grondov kill ju desí:** Sera vie, že niekto zabil Gronda tú noc (Ch.5 Blood Ritual) — **Grond je Archanjel.** Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a on už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt. A niekto ho zabil nanodronovým rojom na vzdialenosť 6 km, za 7 sekúnd, chirurgicky. **Sera to nedokáže.** Nikto, koho pozná, to nedokáže. Toto nie je len "silný exorcista" — toto je bytosť schopná zabiť Archanjela na diaľku.
-   - **Maks bol pre ňu záhada** — nesmrteľný exorcista, nie je na zozname, ~150 rokov modernejší tech, a teraz aj kill Archanjela na vzdialenosť, ktorú nedokáže nikto živý. Potrebovala čas na analýzu
+   - **Grondov kill ju desí:** Sera vie, že niekto zabil Gronda tú noc (Ch.5 Blood Ritual) — **Grond je Archbés.** Sera ho videla v bitke Atra Narrows (~AY 850), keď bola ešte mladá a on už bol legenda. Bytosť v Power Armor, pred ktorou mala rešpekt. A niekto ho zabil nanodronovým rojom na vzdialenosť 6 km, za 7 sekúnd, chirurgicky. **Sera to nedokáže.** Nikto, koho pozná, to nedokáže. Toto nie je len "silný exorcista" — toto je bytosť schopná zabiť Archbésa na diaľku.
+   - **Maks bol pre ňu záhada** — nesmrteľný exorcista, nie je na zozname, ~150 rokov modernejší tech, a teraz aj kill Archbésa na vzdialenosť, ktorú nedokáže nikto živý. Potrebovala čas na analýzu
    - **Rozhodnutie nezobrať ho k Elanii — dvojitý dôvod:** 1) Nevie, ako by Elania reagovala na otca. 2) Ak je Maks schopný zabiť na takú vzdialenosť, nekontrolované stretnutie s Elaniou = potenciálna katastrofa. Sera oddialia stretnutie, kým nepochopí, čo Maks je.
    - **Vybavila transport do Kitsune** — pozná Makov osobne, vie o Felixovi v ruinách Kita. Nariadila Borgovi a Nix (posádka Itaky) previezť telo na východ
    - **Nikto nevie, že Sera ho zachránila** — Maks sa prebudí u Felixa a nevie, kto ho tam dostal. Felix vie len, že prišli Borg a Nix s telom. Borg a Nix dostali príkaz od "neznámej ženy"
@@ -464,7 +464,7 @@
 
 ### Sera a Apes — Najväčšia irónia
 
-**Sera si celý život myslela, že je najnebezpečnejšia bytosť v hemisféra.** "Biela Smrť." Anjel Smrti. Piaty Archanjel.
+**Sera si celý život myslela, že je najnebezpečnejšia bytosť v hemisféra.** "Biela Smrť." Anjel Smrti. Piaty Archbés.
 
 **Realita:** Apes mohli Seru zastaviť kedykoľvek. Mali mimozemské zbrane schopné planetárnej deštrukcie. Sera mala kopiju. Nechali ju žiť, lebo nebola hrozba pre Upload — bola len nepríjemnosť. Asset. Izolovaná bojovníčka na ostrove, ktorá chráni dcéru bohyne a *nerobí nič nebezpečné*.
 

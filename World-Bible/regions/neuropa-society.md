@@ -109,7 +109,7 @@ Apes sa bránili. **Bez vysvetlenia.** Nemohli povedať prečo — prezradili by
 - **Predmety:**
   - Wraithológia (história, správanie, slabiny Wraithov)
   - Linux (programovací jazyk nanobotov)
-  - História Zeme (Archanjeli, Ex Inferis, pád civilizácie)
+  - História Zeme (Archbési, Ex Inferis, pád civilizácie)
   - Haiku syntax (Gen 2 programovanie)
   - Bojové umenia (pre tých, čo idú do terénu)
   - Filozofia technológie

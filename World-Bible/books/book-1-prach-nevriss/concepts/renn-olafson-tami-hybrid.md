@@ -60,7 +60,7 @@
 ### Tematická paralela:
 - **Renn** zabil svoju ženu vampirizmom (nehoda z lásky)
 - **Sera** praktizuje vampirizmus vedome, s odporom, ale disciplinovane — nikdy neprekročí hranicu
-- **Archanjeli** praktizujú vampirizmus ako rituál — bez výčitiek
+- **Archbési** praktizujú vampirizmus ako rituál — bez výčitiek
 - Tri prístupy k tomu istému hriechu: vina, disciplína, bezcitnosť
 
 - Matka nie je zatiaľ rozpracovaná (meno, vzhľad TBD)
@@ -131,10 +131,10 @@
 |---|---|
 | Inetis + Maks (človek + človek) → Elania | Renn (človek) + matka (Vulpini) → Tami |
 | Elania chce zničiť biológiu (Veľký Upload) | Tami je živý dôkaz, že biológia funguje |
-| Archanjeli vs Varietas — večná vojna | Tami + Links — celebritný pár novej éry |
+| Archbési vs Varietas — večná vojna | Tami + Links — celebritný pár novej éry |
 | Sera vs Maks — dvaja vojaci v lojalite | Tami + Links — dvaja ľudia, čo si vybrali lásku |
 
-> **Celý príbeh ide od vojny k zmiereniu.** Archanjeli, Paladíni, Veľký Upload — to všetko je starý svet, ktorý sa drží rozdelenia. Tami a Links sú nový svet, kde na tom nezáleží.
+> **Celý príbeh ide od vojny k zmiereniu.** Archbési, Paladíni, Veľký Upload — to všetko je starý svet, ktorý sa drží rozdelenia. Tami a Links sú nový svet, kde na tom nezáleží.
 
 ### Tami + Links ako záver série:
 - **Tami** = hybrid (ľudská krv + Vulpini Spira) — dôkaz, že sa to dá

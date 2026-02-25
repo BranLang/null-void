@@ -25,10 +25,10 @@ Ručne písaný zápisník — denník, modlitebník a spoveď v jednom — ktor
 Elánia má ~850 rokov. Za sebou:
 - ~270 rokov raja v Elysiu s matkou
 - ~400 rokov Glitch Rotu — rozpad Elysia, Wraith útoky, kanibalizmus
-- ~150 rokov pod vplyvom Archanjelov (AY 700–850) — naučila sa konzumovať cudzie nanoboty, stala sa predátorom
+- ~150 rokov pod vplyvom Archbésov (AY 700–850) — naučila sa konzumovať cudzie nanoboty, stala sa predátorom
 - Bitka o Atra (~AY 850) — videla genocídu Vulpini (Líšok), naposledy videla Inetis (alebo si to myslela)
 
-Po Atre odchádza na východ. Sama. Prvýkrát za stáročia bez Archanjelov, bez armády, bez cieľa okrem jedného: **nájsť matku**.
+Po Atre odchádza na východ. Sama. Prvýkrát za stáročia bez Archbésov, bez armády, bez cieľa okrem jedného: **nájsť matku**.
 
 ### 13 rokov hľadania
 
@@ -42,9 +42,9 @@ Počas putovania:
 
 ### Sera ju nájde (AY ~863)
 
-Po 13 rokoch Elániu nájde Sera. Prišla z juhu — z Nevriss, z Ludus, z miest, kde Archanjeli budujú svoju ríšu. Sera plnila Inetisinu poslednú prosbu: *„Dávaj pozor na moju dcéru."*
+Po 13 rokoch Elániu nájde Sera. Prišla z juhu — z Nevriss, z Ludus, z miest, kde Archbési budujú svoju ríšu. Sera plnila Inetisinu poslednú prosbu: *„Dávaj pozor na moju dcéru."*
 
-Sera vidí, čo sa z Elánie stalo — unavenú, zlomenú bytosť na konci síl, s očami plnými niečoho medzi nádejou a šialenstvom. Dávno nie je dieťa, ktoré Inetis milovala. Ale nie je ani monštrum, ktoré Archanjeli vytvorili.
+Sera vidí, čo sa z Elánie stalo — unavenú, zlomenú bytosť na konci síl, s očami plnými niečoho medzi nádejou a šialenstvom. Dávno nie je dieťa, ktoré Inetis milovala. Ale nie je ani monštrum, ktoré Archbési vytvorili.
 
 *„Poď,"* povedala Sera. Jedno slovo. Žiadne vysvetlenie.
 

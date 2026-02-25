@@ -113,7 +113,7 @@ V roku 2070 došlo k udalosti, ktorá navždy zmenila ľudstvo.
 > `OPERÁTOR 1: „Sú tam zavretí s TÝMI VECAMI! Čo z nich vylezie, pane? Čo za ľudí vytiahneme z pekla, ktoré sme stvorili?“`
 
 ### Ex Inferis (Tí, čo sa vrátili z Pekla)
-Preživší z roku 2070 (vrátane Maksa a Archanjelov) neboli len „hráči". Boli to traumatizovaní veteráni z 5-ročnej vojny o vlastnú psychiku.
+Preživší z roku 2070 (vrátane Maksa a Archbésov) neboli len „hráči". Boli to traumatizovaní veteráni z 5-ročnej vojny o vlastnú psychiku.
 - **Psychická Fragmentácia**: Ich vedomie bolo poznačené rokmi v digitálnom pekle.
 - **Kybernetické Ukotvenie**: Potrebovali ťažké mechanické implantáty a neskôr nanoseverov (Prach), aby ich vedomia ostali spojené s „pomalou" realitou mäsa.
 
@@ -205,7 +205,7 @@ Pád Zeme nebol spôsobený len vnútorným rozkladom, ale aj príchodom **mimoz
 ### Iniciatíva Achilles (Veľké Klamstvo)
 Vláda Zeme (Koordinátor) spustila masívnu propagandu, ktorou ospravedlnila útek elity:
 - **Pevnosť, nie úkryt**: Achilles nebol prezentovaný ako útočisko, ale ako **vojenská kovadlina**, na ktorej sa vykuje sila na protiútok.
-- **Sľub návratu**: „Ak Zem padne, Achilles povstane.“ Dôstojníci (budúci Archanjeli) zložili prísahu, že sa vrátia oslobodiť materskú planétu.
+- **Sľub návratu**: „Ak Zem padne, Achilles povstane.“ Dôstojníci (budúci Archbési) zložili prísahu, že sa vrátia oslobodiť materskú planétu.
 - **Realita**: Bola to dymová clona pre definitívny útek tých najbohatších. Po pristátí bol sľub okamžite potlačený v prospech budovania vlastných kráľovstiev.
   - `ARK-11`: Elita zo Zeme smerujúca na Achilles (300-ročná cesta).
   - `ARK-12`: Loď Varietas hľadajúcich nový začiatok (300-ročná cesta).

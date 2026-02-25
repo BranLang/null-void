@@ -340,7 +340,7 @@ Za ním ďalší. A ďalší.
 
 Links stál pri ceste a pozeral sa, ako prechádzajú. Desiatky. Boli to väčšinou *ľudia*. Nie Varietas — ľudia. Blondí, hnedovlasí, bledí, špinaví. Tváre bez uší líšky, bez vlčieho čuchu, bez mačacích očí. Len ľudské tváre — mladé, staré, všetky rovnako prázdne.
 
-*Graw bol ľudská krajina.* Links to vedel z Observatória — Grond, Archanjel Vojny, vládol ľuďom. Varietas tu existovali, ale ako menšina. Druhoradí občania. Otroci v lepšom prípade, väzni v horšom. Tí, čo utekali na juh, k hraniciam Šoravenu — väčšinou ich zastrelili na hraničných hliadkach. Grondov Graw bol klietka zo železa a disciplíny, a títo vojaci boli jej deti.
+*Graw bol ľudská krajina.* Links to vedel z Observatória — Grond, Archbés Vojny, vládol ľuďom. Varietas tu existovali, ale ako menšina. Druhoradí občania. Otroci v lepšom prípade, väzni v horšom. Tí, čo utekali na juh, k hraniciam Šoravenu — väčšinou ich zastrelili na hraničných hliadkach. Grondov Graw bol klietka zo železa a disciplíny, a títo vojaci boli jej deti.
 
 Niektorí niesli veci. Batohy, vrecia, kusy kovu. *Korisť.* Z Šoravenu — z mesta, ktoré prehrali, ale stihli vydrancovať pred ústupom. Links videl jedného muža nesúceho svietnik z kostola. Ďalší mal pod kabátom niečo, čo vyzeralo ako hodiny — veľké, mosadzné, s ciferníkom. Tretí ťahal na provázku kozu.
 

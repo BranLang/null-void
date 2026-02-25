@@ -103,7 +103,7 @@ Na Achille nežije 500 druhov inteligentných zvierat. Žije tu **obmedzený po�
 
 **Genetická lotéria podtypov**: Gény pre konkrétnu mačkovitú šelmu sú nepredvídateľné. V rodine domácich mačiek, kde sa po generácie rodia neko deti, sa zrazu môže objaviť rys alebo leopard. Je to recesívny gén, ktorý sa prejaví náhodne — pôvodné modifikácie na Zemi miešali DNA rôznych mačkovitých a po 3000 rokoch kríženia sú výsledky nepredvídateľné. Pre rodičov je to niekedy šok, niekedy hrdosť. Lev v rodine domácich mačiek je ako blesk z jasného neba — vzácny, ale možný. Spoločnosť to vníma rôzne: niektorí vidia požehnanie Matky, iní kliatbu divokej krvi.
 
-**Príklady postáv**: Nix (Felis/mačka, Mezra), Arkot (Felis/leopard, Mezra), Yera (Felis/mačka, Pursang), Flint (Felis/rys, Mezra), Mormiel (Felis, Pursang — 4. Archanjel)
+**Príklady postáv**: Nix (Felis/mačka, Mezra), Arkot (Felis/leopard, Mezra), Yera (Felis/mačka, Pursang), Flint (Felis/rys, Mezra), Mormiel (Felis, Pursang — 4. Archbés)
 
 ---
 

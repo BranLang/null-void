@@ -3,14 +3,14 @@ Opravené. To je skvelý detail, dáva to zmysel, že mesto pomenovali po nej, a
 Tu je finálny, opravený Project Bible pre Knihu 3, pripravený na git push.
 
 PROJECT BIBLE: KNIHA 3 – SLZY MATKY
-Séria: NULL VOID (Časť 3 z 5) Element: Voda 💧 Téma: Pamäť, Ilúzie, Odhalenie dedičstva. Hlavný Antagonista: Ishtar (Archanjel Pôžitku)
+Séria: NULL VOID (Časť 3 z 5) Element: Voda 💧 Téma: Pamäť, Ilúzie, Odhalenie dedičstva. Hlavný Antagonista: Ishtar (Archbés Pôžitku)
 
 "Postavili sme raj na vode. Mesto Ynetis. A potom sme sa v ňom utopili. Moje slzy sú oceánom, ktorý delí to, čím sme boli, od monštier, ktorými sme sa stali." — Z posledných záznamov Inetis pred útekom z Ostrova
 
 I. ZÁKLADNÝ KONCEPT KNIHY
 Maksimilián a Tami (ktorá sa čoraz viac mení na "nádobu" pre vedomie Inetis) cestujú na juh, k pobrežiu. Ich cieľom je bájny Ostrov Zakladateľov a na ňom potopené ruiny prvého mesta, Ynetis. Dúfajú, že v jeho archívoch nájdu odpovede na to, ako sa utópia zmenila na peklo.
 
-Cestu im však prehradzuje Ishtar, Archanjel Pôžitku, ktorá ovláda dekadentné pobrežné mestá. Ishtar nebojuje silou, ale ilúziami a závislosťou.
+Cestu im však prehradzuje Ishtar, Archbés Pôžitku, ktorá ovláda dekadentné pobrežné mestá. Ishtar nebojuje silou, ale ilúziami a závislosťou.
 
 Kľúčové ciele knihy:
 
@@ -31,7 +31,7 @@ Obyvateľstvo: Ľudia tu nežijú v strachu, ale v otupenej blaženosti. Sú zá
 Hrozba: Nebezpečenstvo tu nie je zjavné. Je skryté pod krásnou maskou.
 
 2. Mechanika Ilúzií (Ishtarina moc)
-Ishtar je najnebezpečnejší Archanjel, pretože útočí na myseľ.
+Ishtar je najnebezpečnejší Archbés, pretože útočí na myseľ.
 
 Neuro-hacking: Jej nanodrony dokážu preniknúť do zrakového nervu a mozgového kmeňa obete.
 
@@ -44,7 +44,7 @@ Miesto, kde pristál Exodus a kde Inetis založila prvú civilizáciu.
 
 Vzhľad: Napoly potopené ruiny futuristického mesta, obrastené morskou flórou. "Kyberpunkové Pompeje pod vodou."
 
-Archív: V centrále pod hladinou je "Čierna skrinka" civilizácie. Pravdivý záznam histórie, ktorý Elania a Archanjeli chceli zničiť.
+Archív: V centrále pod hladinou je "Čierna skrinka" civilizácie. Pravdivý záznam histórie, ktorý Elania a Archbési chceli zničiť.
 
 III. VÝVOJ POSTÁV (CHARACTER ARCS)
 Maksimilián (Boj s prízrakmi)
@@ -61,8 +61,8 @@ Prejavy: Začína používať vedeckú terminológiu, pozná staré mapy, má no
 
 Tragédia: Tami vie, že "umiera", aby uvoľnila miesto Inetis. Bojí sa, že Maksa to teší.
 
-Ishtar (Archanjel Pôžitku)
-Motivácia: Je to najsmutnejší Archanjel. Udržiava ilúzie nielen pre iných, ale aj pre seba. Nechce vidieť realitu svojho rozpadajúceho sa, 3000 rokov starého tela. Je to "Dorian Gray" tohto sveta.
+Ishtar (Archbés Pôžitku)
+Motivácia: Je to najsmutnejší Archbés. Udržiava ilúzie nielen pre iných, ale aj pre seba. Nechce vidieť realitu svojho rozpadajúceho sa, 3000 rokov starého tela. Je to "Dorian Gray" tohto sveta.
 
 IV. DETAILNÁ OS DEJA (PLOT OUTLINE)
 1. Dejstvo: Cesta na Juh (The Descent)
@@ -98,7 +98,7 @@ Vidíme malé dievčatko, Eleniu, ktoré sa pýta na "spiaceho otca".
 
 Vidíme dospelú Eleniu, ktorá vedie prvú vzburu v meste Ynetis a vyháňa matku.
 
-CLIFFHANGER: Maks vidí na zázname tvár svojej dospelej dcéry. Je to tvár ženy, ktorú videl na sochách Archanjelov. Uvedomí si, že hlavný zloduch, ktorého musí zabiť, je jeho vlastné dieťa.
+CLIFFHANGER: Maks vidí na zázname tvár svojej dospelej dcéry. Je to tvár ženy, ktorú videl na sochách Archbésov. Uvedomí si, že hlavný zloduch, ktorého musí zabiť, je jeho vlastné dieťa.
 
 V. NÁPAD NA OBAL KNIHY 3
 Aby sme udržali vizuálnu kontinuitu série:

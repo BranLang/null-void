@@ -14,7 +14,7 @@
 
 Kito je **Pursang** — čistokrvný Varietas s vysokou koncentráciou Spiry. Má žlté mačacie oči, telekinetické schopnosti a viac vzdelania, než by väčšina Varietas vedela čo robiť. Je archivár a archeológ, posadnutý starými textami, zakázanými zvitkami a pravdou o minulosti planéty.
 
-- **Vzdelanie**: Študoval staré texty Kultu Matky, apokryfné zvitky, zakázané heretické nápisy. Vie viac o skutočnej histórii Achilles než ktokoľvek okrem Archanjelov a Elenie. Pozná legendu o **Štyroch Príchodoch**, apokryf o Spáčovi a technické detaily, ktoré Cirkev zakázala.
+- **Vzdelanie**: Študoval staré texty Kultu Matky, apokryfné zvitky, zakázané heretické nápisy. Vie viac o skutočnej histórii Achilles než ktokoľvek okrem Archbésov a Elenie. Pozná legendu o **Štyroch Príchodoch**, apokryf o Spáčovi a technické detaily, ktoré Cirkev zakázala.
 - **Telekinéza**: Pursang so silnou Spirou. Dokáže pohybovať predmetmi na diaľku (podvedome vyžaruje telekinetické pole, keď je v strese). Ale nevie liečiť.
 - **Povaha**: Akademik vo svete vojny. Nervózny, podozrievavý, neustále analyzujúci. Ale pod povrchom sa skrýva oceľová vôľa — pre Mayu by urobil čokoľvek.
 - **Jazykové znalosti**: Rozumie fragmentom Staroreči (angličtiny) — dostatočne na to, aby rozpoznal, keď Maks hovorí čistou archaickou angličtinou. Pre neho je to ako počuť mŕtvy jazyk ožiť.

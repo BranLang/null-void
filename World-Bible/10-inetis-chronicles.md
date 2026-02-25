@@ -21,7 +21,7 @@ V ruinách našla len hŕstku preživších Exorcistov, ktorí sa skrývali v ti
 
 To, čo našla v Nevriss, ju šokovalo inak, než čakala.
 
-Našla Varietas žijúcich v strachu. Až od nich sa dozvedela krutú pravdu o **Archanjeloch**.
+Našla Varietas žijúcich v strachu. Až od nich sa dozvedela krutú pravdu o **Archbésoch**.
 - Dozvedela sa o nájazdoch "démonov" (Ex Inferis) z lietajúceho mesta.
 - Dozvedela sa o únosoch žien a detí.
 - Dozvedela sa o nezmyselnom vraždení pre zábavu.
@@ -47,14 +47,14 @@ Videla utrpenie Varietas. Videla matky plakať nad unesenými deťmi. A pochopil
 Rozhodla sa. Upravila svoj "Liek" na "Zbraň/Nástroj".
 
 **Parametre Gen 2 (v2.0):**
-1.  **Downgrade Sily:** Musela obetovať 90% hrubej sily v1.7, aby dosiahla stabilitu. Spira nedokáže meniť realitu tak ako Archanjeli, ale je flexibilnejšia.
+1.  **Downgrade Sily:** Musela obetovať 90% hrubej sily v1.7, aby dosiahla stabilitu. Spira nedokáže meniť realitu tak ako Archbési, ale je flexibilnejšia.
 2.  **Sofistikovanosť:** Na rozdiel od v1.x, táto verzia sa dokáže **ukladať do kryštalických štruktúr** (Spira Crystals) a tým vytvárať Spira batérie.
 3.  **Genetický Zámok:** Kompatibilná s **Varietas** (modifikovanými ľuďmi — ľudský základ genómu). **Nekompatibilná s Chimérami** (Ghorki — modifikované zvieratá). Inetis nemala čas vyriešiť kompatibilitu so zvieracím genómom — prístup do Core bol extrémne náročný a limitovaný.
 4.  **Samoreplikácia:** Dedičné z matky na dieťa (v1.x sú sterilné).
 
 ### Jazyk Kódu (Návrat ku koreňom)
 Keď ich učila používať Dar, vedela, kto je nepriateľ.
-Vedela, že Ex Inferis (Archanjeli) hovoria anglicky (Staroreč).
+Vedela, že Ex Inferis (Archbési) hovoria anglicky (Staroreč).
 Preto pre Spiru zvolila **Japončinu** — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme.
 - **Syntax ako Poézia:** Kód zamaskovala do Haiku.
 - **Účel:** Pre Ex Inferis to bola Spira. Nemohli to hacknúť. **Bez prístupu k archívom zo Zeme (ktoré Inetis vymazala)** nemali šancu rozlúštiť syntax Haiku.
@@ -93,7 +93,7 @@ Vojna bola brutálna. Ľudské légie (v1.0) narazili na Prvých Krotiteľov (v2
 
 V rozhodujúcej bitke v **Atranskej Úžine (The Atra Narrows)** pod Hangravall (jediný pevninský vstup do Nevriss, zovretý medzi riekou a morom — miestne "Thermopyly") sa Inetis zjavila na bojisku.
 
-Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. Ale Varietas využili terén. V úzkom priestore bola prevaha Archanjelov negovaná. Líšky (Vulpes) a Varietas vytvorili stenu zo Spiry a tiel, ktorú Ex Inferis nedokázali prelomiť.
+Ex Inferis ju ignorovali, presvedčení, že cez úžinu prerazia hrubou silou. Ale Varietas využili terén. V úzkom priestore bola prevaha Archbésov negovaná. Líšky (Vulpes) a Varietas vytvorili stenu zo Spiry a tiel, ktorú Ex Inferis nedokázali prelomiť.
 
 **Dôsledky (Rozpad Triumvirátu):**
 1.  **Grond (Sever):** Stiahol sa za hory Hangravall. Zradený a rozzúrený začal budovať novú armádu (Graw), prisahajúc pomstu.
@@ -132,13 +132,13 @@ Inetis mala Gen 2 Spiru. Mohla sa liečiť — postupne, pomaly, ale mohla. **Od
 
 **Pre ňu bola smrť vykúpením.** Cítila sa stará a unavená. Tisíc rokov je príliš dlho na to, aby človek — alebo čokoľvek, čím sa stala — ešte chcel žiť.
 
-**Prečo zomrela po 1000 rokoch, keď iní žijú 3000+?** Archanjeli a Elania prežívajú — ale za cenu kanibalizmu a straty ľudskosti. Požierajú iných, aby nahradili svoje rotujúce nanoboty. Inetis **nikdy túto hranicu neprekročila**. Nikdy nepožierala. Zostala ľudská. A práve toto svedomie — vina za Glitch Event, za milióny mŕtvych, za Eleniu, za Maksa v ľade — ju nakoniec zabilo. Ostatní prežili, pretože sa stali monštrami. **Inetis zomrela, pretože ním odmietla byť.**
+**Prečo zomrela po 1000 rokoch, keď iní žijú 3000+?** Archbési a Elania prežívajú — ale za cenu kanibalizmu a straty ľudskosti. Požierajú iných, aby nahradili svoje rotujúce nanoboty. Inetis **nikdy túto hranicu neprekročila**. Nikdy nepožierala. Zostala ľudská. A práve toto svedomie — vina za Glitch Event, za milióny mŕtvych, za Eleniu, za Maksa v ľade — ju nakoniec zabilo. Ostatní prežili, pretože sa stali monštrami. **Inetis zomrela, pretože ním odmietla byť.**
 **Misia:** Nájsť Maksa.
 
 ### Prečo pešo, v utajení
-- **Ex Inferis chcú Spiru** — zostávajúci Ex Inferis (Archanjeli a ich spojenci) vedeli, že Inetis má Gen 2 Spiru. Keby použila dopravný prostriedok, vystopovali by ju.
+- **Ex Inferis chcú Spiru** — zostávajúci Ex Inferis (Archbési a ich spojenci) vedeli, že Inetis má Gen 2 Spiru. Keby použila dopravný prostriedok, vystopovali by ju.
 - **Vedela, že ju budú sledovať** — preto vyrazila sama, pešo, len s Anténou (antena ju robila neviditelnou pre nanodrony a iné technológie, fungovala aj ako rušička ak sa otocila subspace polarita). Žiadne signály, žiadna technológia, ktorú by mohli zachytiť.
-- **Zistila, že potrebuje Maksa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archanjeli ovládajú.
+- **Zistila, že potrebuje Maksa** — on jediný ich dokáže poraziť. Vojenský stratég bez zľutovania, bez Spiry, bez závislosti na technológii, ktorú Archbési ovládajú.
 
 Vedela, kde pôvodne pristáli — Jaskyňa Ela vo Východnej Divočine, kde kedysi rekonfigurovala celú loď NULL VOID na infraštruktúru a kde Maksov kryobox stále stál v minimálnej konfigurácii. Cestovala dva roky pešo. Žila len z toho, čo našla v prírode, a z posledných zbytkov Spiry. Spomínala na začiatky v jaskyni, keď jedla kašu z rias a pila vodu z kaluže.
 **Vzala so sebou Anténu** — svoju vernú palicu, nástroj, ktorým postavila Elysium a ktorý ju chránil počas všetkých jej ciest. Bez nej by cestu neprežila.

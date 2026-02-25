@@ -41,7 +41,7 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 - **Sera** — udržiava Gen 1 vampirizmom, disciplinovane, ale s odporom
 - **Renn** — prestal praktizovať vampirizmus po smrti manželky, Gen 1 degradovali → zomrel slabý
 - **Elania** — uväznená v Gen 1/1.5, Glitch Rot ju požiera, preto musí požierať iných
-- **Archanjeli** — praktizujú vampirizmus ako rituál, bez výčitiek
+- **Archbési** — praktizujú vampirizmus ako rituál, bez výčitiek
 
 ---
 

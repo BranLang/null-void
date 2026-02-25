@@ -117,7 +117,7 @@ Samaell stál pred vchodom do jaskyne. Sneh okolo jeho nôh syčal a topil sa, n
 
 Kael ležal pod koreňmi neďaleko — vysušený, rozložený na atómovej úrovni niečím, čo nebolo Prach Varietas. Samaell to cítil. To nebola jeho práca. Niečo tu zabilo pirátku s chirurgickou presnosťou vojenského dronu. A ten signál... ten signál z jaskyne zmizol.
 
-Archanjel vstúpil dovnútra. Bioluminiscenčné huby vrhali na steny prízračné modré svetlo. Videl tie kresby. Detské čmáranice, ktoré sa menili na šialené rovnice galaxií. Elania. Inetisina malá hračka.
+Archbés vstúpil dovnútra. Bioluminiscenčné huby vrhali na steny prízračné modré svetlo. Videl tie kresby. Detské čmáranice, ktoré sa menili na šialené rovnice galaxií. Elania. Inetisina malá hračka.
 
 Ignoroval ich. Jeho oči, žiariace fialovým ohňom, hľadali len jednu vec.
 

@@ -505,7 +505,7 @@ Dialóg sa opakuje. [FIXME: redundantné s predošlou scénou]
 
 ### Typy akcií:
 
-1. **Nano-combat** (Maks, Elenia, Archanjeli):
+1. **Nano-combat** (Maks, Elenia, Archbési):
    - FPV drony ako zbrane
    - Hackovanie nepriateľských dronov
    - Anténa (ovládanie Wraithov)
@@ -639,7 +639,7 @@ Maks sa zarazil. Vodík. Samozrejme."
    - Krása v post-apo svete
 
 2. **Fear** (strach)
-   - Hrozby (Wraithovia, Archanjeli)
+   - Hrozby (Wraithovia, Archbési)
    - Strata kontroly
    - Neznámo
 
@@ -659,7 +659,7 @@ Maks sa zarazil. Vodík. Samozrejme."
    - Ruins of old world
 
 6. **Rage** (hnev)
-   - Proti tyranii Archanjelov
+   - Proti tyranii Archbésov
    - Proti lžiam
    - Proti osude
 
@@ -902,7 +902,7 @@ Podporované príkazy:
 
 ---
 
-## KRITICKÉ: Dialóg 3000+ ročných postáv (Sera, Mormiel, Archanjeli)
+## KRITICKÉ: Dialóg 3000+ ročných postáv (Sera, Mormiel, Archbési)
 
 **ABSOLÚTNE PRAVIDLO**: Postavy s 3000+ rokmi skúseností hovoria INAK než mladé postavy.
 

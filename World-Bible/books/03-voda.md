@@ -5,7 +5,7 @@
 ---
 
 ## I. Dejstvo: Mesto Zrkadiel a Ishtar
-*   **Pobrežie Juhu:** Maks a Tami dorazia do domény **Ishtar (Archanjel Pôžitku)**. 
+*   **Pobrežie Juhu:** Maks a Tami dorazia do domény **Ishtar (Archbés Pôžitku)**. 
 *   **Neuro-Hacking:** Ishtar ovláda ľudí cez nanodrony v krvi ("Ambrózia"). Neviditeľný boj – Ishtar útočí na Maksovu myseľ ilúziami o Inetis a šťastnom živote na Zemi.
 *   **Tami / Echo Inetis:** Tami sa stáva čoraz silnejšou, ale jej osobnosť mizne. Vďaka "spomienkam" Inetis prekukne Ishtarinu ilúziu a zachráni Maksa z mentálneho väzenia.
 
@@ -22,7 +22,7 @@
 *   **Archív:** Nájdenie riadiaceho centra (uzol Pentagramu).
 *   **The Revelation:** Maks aktivuje záznamy z čias prvej kolonizácie (AY 300).
     *   **Bit Rot Glitch:** Maks zisťuje, že nákazu, ktorá zničila rovnováhu nanodronov a hostiteľov, nespôsobila chyba systému, ale **Elania**. Chcela urýchliť evolúciu človeka do digitálnej formy a "vylepšiť" matkin plán.
-    *   **Dedičstvo krvi:** Maks vidí tvár Elenie na záznamoch. Ishtar (alebo Echo Inetis) mu potvrdzuje: "To dievča, ktoré si hľadal... je tvoja dcéra. A ona je Archanjel, ktorého si prišiel zničiť."
+    *   **Dedičstvo krvi:** Maks vidí tvár Elenie na záznamoch. Ishtar (alebo Echo Inetis) mu potvrdzuje: "To dievča, ktoré si hľadal... je tvoja dcéra. A ona je Archbés, ktorého si prišiel zničiť."
 
 ---
 

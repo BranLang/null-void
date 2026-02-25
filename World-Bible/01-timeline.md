@@ -25,7 +25,7 @@ timeline
     title Éra Achilles (AY)
     0 : Pristátie **pristávacích modulov** z ARK-11 a ARK-12 (Materské lode ostali na orbite, neskôr sa zrútili do oceánu)
     300 - 700 : Éra Temnoty : Pád Ynetis : Glitch Rot
-    700 : Druhý Príchod (ARK-13) : Príchod Archanjelov
+    700 : Druhý Príchod (ARK-13) : Príchod Archbésov
     ~850 : Bitka Atra Narrows : Triumvirát (Grond, Samaell, Zaya) vs Varietas + Spira
     2212 : Tretí Príchod (Maki) : Lekcia Krvi : Tichá technológia
     3000 : Prebudenie Maksimiliána
@@ -41,7 +41,7 @@ timeline
 | Skratka | Význam | Poznámka |
 |---------|--------|----------|
 | **EY** | Earth Years | Roky podľa pozemského kalendára |
-| **AY** | Achilles Years | Roky od pristátia ARK-11 na Achille (Používané Archanjelmi/Ľuďmi) |
+| **AY** | Achilles Years | Roky od pristátia ARK-11 na Achille (Používané Archbésmi/Ľuďmi) |
 | **RP**| Roky Poslov | Datovanie Varietas. Začína Tretím Príchodom (AY 2212) |
 
 ### Letopočet Varietas (Dva veky)
@@ -225,16 +225,16 @@ Varietas delia históriu nábožensky:
   - Čas v simulácii beží rýchlejšie (~100 simulovaných rokov = desaťročia v realite)
 - **Návrat**: Inetis sa vracia a nachádza:
   - Elysium v ruinách (mesto duchov)
-  - Elania nezvestná (v skutočnosti už s Archanjelmi po ich príchode v AY 700, ale Inetis to nevie)
+  - Elania nezvestná (v skutočnosti už s Archbésmi po ich príchode v AY 700, ale Inetis to nevie)
 - **Nové nanotechnológie**: Prináša sofistikovanejšie nanoboty - bezpečnejšie, dedičné, prispôsobené pre biológiu Varietas
 
 ### AY ~700: Druhý Príchod (ARK-13 "Prometheus")
 - **Exodus z Alpha Centauri**: Loď **ARK-13** nachádza Alpha Centauri neobývateľnú. Po stáročiach v kryostáze urobili štyria Ex Inferis chladné rozhodnutie prežiť. 
 - **Prvotný Hriech**: Systematicky odpojili a „konzumovali“ spiacich kolonistov (10000+ ľudí). Nebol to len kanibalizmus mäsa, ale **zber biologického materiálu a nanotechnologických prekurzorov** na udržanie vlastnej existencie. Ich božský status je vybudovaný na masovom hrobe vlastných ľudí.
 - **Prílet na Achilles**: ARK-13 zachytáva signály z Achilla a mení kurz. Nachádzajú planétu v troskách a chaose.
-- **Záchrana Elenie**: Archanjeli (Samaell, Grond, Ishtar a **Mormiel** — jediná Varietas z ARK-13, disponujúca Earth nanotechom aj Spirou) nachádzajú Eleniu v ruinách centra **Ynetis**. Elania vedie zúfalý odboj proti drvivej presile Wraithov. Jej zdroje dochádzali, kým nezasiahli novoprišlí "bohovia". Mormiel sa neskôr skryje v Nevriss City ako **Požehnaná Matka** — hlava Cirkvy Vševedúcej Matky.
+- **Záchrana Elenie**: Archbési (Samaell, Grond, Ishtar a **Mormiel** — jediná Varietas z ARK-13, disponujúca Earth nanotechom aj Spirou) nachádzajú Eleniu v ruinách centra **Ynetis**. Elania vedie zúfalý odboj proti drvivej presile Wraithov. Jej zdroje dochádzali, kým nezasiahli novoprišlí "bohovia". Mormiel sa neskôr skryje v Nevriss City ako **Požehnaná Matka** — hlava Cirkvy Vševedúcej Matky.
 - **Stabilizácia a Dohoda**: 
-    - Archanjeli svojou pokročilou bojovou technológiou potlacia Wraithov v jadre mesta.
+    - Archbési svojou pokročilou bojovou technológiou potlacia Wraithov v jadre mesta.
     - Použijú znalosti z ARK-13 na stabilizáciu energetických polí, čím spomalia Glitch Rot.
     - **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu svojho ľudu. Spoločne zakladajú **Citadely** Veza Zatratenych juhozapadne od Elysia. A Severna citadela zapadne od Neverice.
     **Ex inferis** zacnu lupezne vojny na uzemia Varietas, - potrebuju ludske(varietas) obete, potraviny alebo zabavu.
@@ -259,7 +259,7 @@ Varietas delia históriu nábožensky:
 ## AY ~700 – 2987: Éra Mýtov
 
 ### Vláda Gronda (AY 700 - súčasnosť)
-- **Ex Inferis zo Zeme**: Jeden zo štyroch pôvodných Archanjelov z ARK-13
+- **Ex Inferis zo Zeme**: Jeden zo štyroch pôvodných Archbésov z ARK-13
 - **Spravodlivý vládca**: Prvých ~500 rokov vládol rozumne, Varietas ho milovali
 - **Potrebuje ľudské obete**: Ako všetci Ex Inferis, musí požierať iných ľudí aby nahrádzal rotujúce nanoboty
 - **Power Armor**: Nikto nevidel jeho tvár pod helmou už 3000 rokov — pod zbrojou je zničené telo
@@ -319,7 +319,7 @@ Varietas delia históriu nábožensky:
 
 - **Rok Tieňov (AY 3000 – 3001)**:
     - Maks je prvý rok cesty fyzicky závislý na 7-ročnej Tami. Vytvára si k nej hlboký rešpekt.
-    - **Naháňačka so Samaellom**: Archanjel Tieňov loví Maksa a Tami celý rok.
+    - **Naháňačka so Samaellom**: Archbés Tieňov loví Maksa a Tami celý rok.
     - **Rozbitie viery (The Realization)**: Maks zisťuje, že Zem je uplne zabudnuta a „Iniciatíva Achilles" sa nepodarila.
     - **Unit 734 (Felix")**: Mako-mechanik slúži ako zachranne koleso.
 
@@ -327,7 +327,7 @@ Varietas delia históriu nábožensky:
     - Maks (stále slepý) využíva nano-drony veľkosti zrnka piesku
     - Technika z Achilles simulácie: FPV drony vniknú do dýchacích ciest a explodujú
     - Duel na obrovské vzdialenosti — Samaell podcenil protivníka
-    - **Smrť Samaella**: Prvý Archanjel zabitý od príchodu ARK-13
+    - **Smrť Samaella**: Prvý Archbés zabitý od príchodu ARK-13
     - **Technovampirizmus**: Maks sa zmocní Samaellových nanobotov (Highlander štýl, nadobudne svalovu hmotu) vratia sa mu oci (z prachu)
 - **Veľké Zjavenie (AY 3001)**: Koniec prvého roka. Šok z odhalenia Tami (uši, chvost) a spoločnosti Varietas. Bod zlomu pre jeho ideológiu.
 - **AY 3001 – AY 3008**: **7-ročná cesta**: Premena z „trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň.
@@ -351,7 +351,7 @@ Varietas delia históriu nábožensky:
 
 ## Príbeh kníh
 
-**Prierezový oblúk — Triangulácia Ynetis**: Maks využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elania). Každá návšteva je spojená s konfrontáciou s miestnym Archanjelom.
+**Prierezový oblúk — Triangulácia Ynetis**: Maks využíva Anténu na trigonometrickú trianguláciu strateného mesta Ynetis. Potrebuje tri vysoké body pri mori: **Veľký Maják** (Nevriss), **Sklenú Vežu** (Zaya) a **Vežu Zatratených** (Elania). Každá návšteva je spojená s konfrontáciou s miestnym Archbésom.
 
 1. **ZEM | hmota** — Maks hľadá v novom svete Inetis. Flashbackový antagonista: Samaell (zabitý v AY 3001). Prítomní antagonisti: Grond (invázia Graw) + Paladíni (dvojitý mini boss fight pri Anténe). 
 Finalny boss je **Mormiel** ktora komunikuje prostrednictvom veze s Elaniou.

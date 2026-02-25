@@ -462,13 +462,13 @@ Pauza. Alfa si olízol jazvu na pysku — starú, bielú, hlbokú.
 
 **„Volali ho Grond."**
 
-Links prestal dýchať. *Grond.* Archanjel Vojny. Nesmrteľný vládca Graw. Muž v energetickej zbroji, o ktorom sa v Observatóriu hovorilo šeptom — nie preto, že by bol mýtus, ale pretože bol reálny, a reálne monštrá boli horšie ako legendárne. A jeho vlky — *tieto vlky* — sedeli okolo ohňa a pozerali na Linksa so zlatými očami, v ktorých bolo tritisíc rokov spomienok.
+Links prestal dýchať. *Grond.* Archbés Vojny. Nesmrteľný vládca Graw. Muž v energetickej zbroji, o ktorom sa v Observatóriu hovorilo šeptom — nie preto, že by bol mýtus, ale pretože bol reálny, a reálne monštrá boli horšie ako legendárne. A jeho vlky — *tieto vlky* — sedeli okolo ohňa a pozerali na Linksa so zlatými očami, v ktorých bolo tritisíc rokov spomienok.
 
 „Vy ste — vy ste boli na ARK-13. Na *Infere.* A Grond —"
 
 **„Pán."** Alfa to povedal s konečnosťou. Nie titul. Nie meno. Fakt. **„Boli sme jeho svorka. Strážili sme jeho spánok na ceste medzi hviezdami, tak ako si povedal vo svojej ságe. Ale naše cesty boli iné. Naši spiaci sa nikdy nezobudili."**
 
-Ticho. Links pochopil. Na ARK-13 sa stalo niečo — niečo, o čom archívy Observatória hovorili len v náznakoch. Desaťtisíc kolonistov nastúpilo. Štyria vystúpili. Štyria Ex Inferis — Archanjeli.
+Ticho. Links pochopil. Na ARK-13 sa stalo niečo — niečo, o čom archívy Observatória hovorili len v náznakoch. Desaťtisíc kolonistov nastúpilo. Štyria vystúpili. Štyria Ex Inferis — Archbési.
 
 Alfa to videl v jeho očiach. **„Vieš, čo sa stalo na lodi."**
 

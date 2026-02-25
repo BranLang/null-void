@@ -58,11 +58,11 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 | **Syntax** | Anglické CLI príkazy (Staroreč) | Haiku — japonská poézia |
 | **Príklad** | `sudo nanoswarm --target hostile --mode suppress` | *„Matkin dych tíchne / oceľ plače v temnote / krv volá domov"* |
 | **Vnímanie druhou stranou** | Pre Varietas = desivá mimozemská inkantácia | Pre Maksa = poetická modlitba primitívov |
-| **Prečo práve tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archanjeli nedokázali rozlúštiť |
+| **Prečo práve tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archbési nedokázali rozlúštiť |
 | **Učenie** | Manuály, technické školenie | Modlitby, rukopisy, kamenné nápisy |
 
 - **Heretické Nápisy (Open Source Spira)**: Varietas sa môžu naučiť nové "kúzla" z kamenných/drevených nápisov rozmiestnených po svete. Tieto nápisy zanechali **dávni heretici** z čias, keď Inetis ešte osobne učila mocné skripty. Cirkev ich neskôr zregulovala a zakázala — heretici, ktorí si ich pamätali, ich vytesali do kameňa a dreva, aby prežili. Dnes sú zabudnuté. Cirkev nápisy aktívne ničí, ale v odľahlých oblastiach stále prežívajú. Vzácne exempláre sú predmetom hľadania pokladov — a Inkvizície.
-- **Prečo Haiku?**: Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archanjeli (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maksa je to dôkaz geniality Inetis.
+- **Prečo Haiku?**: Inetis zvolila japončinu — jazyk, ktorému rozumela len ona a mŕtvi zo Zeme. Archbési (Ex Inferis) hovoria anglicky (Staroreč). Bez prístupu k archívom Zeme (ktoré Inetis vymazala) nemali šancu rozlúštiť syntax Haiku. Pre Varietas je to jazyk bohov. Pre Maksa je to dôkaz geniality Inetis.
 - **Native speaker výhoda**: Sera je jediný živý native speaker japončiny na Achilles. Varietas sa učia Haiku ako naučené frázy/modlitby — funguje, ale nechápu jazyk. Tami sa naučí od Sera konkrétne príkazy, ale nie je native speaker. Links reverse-engineeruje syntax z knihy. Jedine Sera dokáže improvizovať a tvoriť nové príkazy za pochodu.
 
 ### Pôvod Daru Matky
@@ -85,7 +85,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 
 | Verzia | Užívateľ | Popis |
 |---|---|---|
-| **v1.0 (Legacy)** | **Ex Inferis** (Archanjeli) | Pôvodné civilné nanoboty zo Zeme. Robustné, silné, ale mentálne nestabilné (strata emócií). Nedokážu sa rozmnožovať ani ukladať do kryštálov. Vyžadujú "kanibalizmus" na údržbu. |
+| **v1.0 (Legacy)** | **Ex Inferis** (Archbési) | Pôvodné civilné nanoboty zo Zeme. Robustné, silné, ale mentálne nestabilné (strata emócií). Nedokážu sa rozmnožovať ani ukladať do kryštálov. Vyžadujú "kanibalizmus" na údržbu. |
 | **v1.5 (Mil-Spec)** | **Maksimilián** | Vojenský prototyp. Zameraný na deštrukciu a hackovanie. Silnejší než v1.0, ale stále bez regenerácie a reprodukcie. **Loď NULL VOID bola postavená z v1.5 nanodronov.** |
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
@@ -98,13 +98,13 @@ Na Achillovi existuje **6 Ex Inferis** — šesť nositeľov Gen 1 nanotechnoló
 
 | Ex Inferis | Titul | Element | Japonsky | Doména | Status |
 |---|---|---|---|---|---|
-| **Grond** | Archanjel Vojny | **Zem** (Earth) | 土 *tsuchi* | Sever (Graw) | Mŕtvy (AY 3013) |
-| **Samaell** | Archanjel Tieňov | **Oheň** (Fire) | 火 *hi* | Ruiny, Pustatina | Mŕtvy (AY 3001) |
+| **Grond** | Archbés Vojny | **Zem** (Earth) | 土 *tsuchi* | Sever (Graw) | Mŕtvy (AY 3013) |
+| **Samaell** | Archbés Tieňov | **Oheň** (Fire) | 火 *hi* | Ruiny, Pustatina | Mŕtvy (AY 3001) |
 | **Mormiel** | Požehnaná Matka | **Vzduch** (Wind) | 風 *kaze* | Nevriss City (skrytá) | Živá |
-| **Ishtar (Zaya)** | Archanjel Pôžitku | **Voda** (Water) | 水 *mizu* | Juh, Mesto zrkadiel | Živá |
-| **Maksimilián** | — (nie je Archanjel) | **Kvintesencia** (Quintessence) | 照 *teru* | Nomád | Kóma (AY 3013) |
+| **Ishtar (Zaya)** | Archbés Pôžitku | **Voda** (Water) | 水 *mizu* | Juh, Mesto zrkadiel | Živá |
+| **Maksimilián** | — (nie je Archbés) | **Kvintesencia** (Quintessence) | 照 *teru* | Nomád | Kóma (AY 3013) |
 
-**Stred pentagramu: Inetis** — OG Ex Inferis, stvoriteľka nanotechnológie, Matka. Nie je hrana — je to, z čoho pentagram **vychádza**. Navrhla Gen 2 aj jeho 5 elementov. Štyria Archanjeli + Maks = 5 hrán. Inetis = bod, v ktorom sa všetky hrany stretávajú.
+**Stred pentagramu: Inetis** — OG Ex Inferis, stvoriteľka nanotechnológie, Matka. Nie je hrana — je to, z čoho pentagram **vychádza**. Navrhla Gen 2 aj jeho 5 elementov. Štyria Archbési + Maks = 5 hrán. Inetis = bod, v ktorom sa všetky hrany stretávajú.
 
 **Inetis je mŕtva, ale jej dedičstvo žije v troch daroch:**
 1. **Gen 2 / Spira** — dar celej civilizácii Varietas
@@ -148,11 +148,11 @@ Maks dokáže tieto Wraithy **absorbovať** — jeho reverse Glitch Rot ich rein
 | **Zmena charakteru** | Maks absorbuje nielen silu, ale aj **časti osobnosti** obete. Samaellova paranoja, Grondova krutosť, cudzí inštinkty sa stávajú súčasťou Maksa. Čím viac esencie absorbuje, tým viac je mozaikou cudzích osobností. |
 | **Trade-off** | Sila + schopnosti + spomienky = zisk. Kontaminácia identity + cudzie impulzy + emocionálna nestabilita = cena. |
 | **Vizuál** | Čierny prach sa formuje do hadovitých prameňov, plazí sa po zemi k Maksovi, preniká cez kožu, rany, oči, ústa. Fialové záblesky pri absorpcii. |
-| **Kto to dokáže** | **Len Maks** — reverse Glitch Rot je dar Inetis, nie generická schopnosť Gen 1. Archanjeli to nedokážu (ich Zber = ihlové injektory na vysávanie Gen 2 z živých Varietas, čo je úplne iná mechanika). |
+| **Kto to dokáže** | **Len Maks** — reverse Glitch Rot je dar Inetis, nie generická schopnosť Gen 1. Archbési to nedokážu (ich Zber = ihlové injektory na vysávanie Gen 2 z živých Varietas, čo je úplne iná mechanika). |
 | **Bežný Exorcizmus** | Maks absorbuje aj bežných Wraithov (nie len z Ex Inferis). Toto je základ jeho povolania Exorcistu — loví Wraithov, absorbuje ich nanoboty, z nazbieraného Prachu vyrába predmety. Ale bežní Wraithy nemajú silné osobnostné fragmenty — len mŕtvi Ex Inferis. |
 | **Známe prípady** | Maks ← Samaell (AY 3001): oči, Blood Ritual, predátorské inštinkty, paranoja. Maks ← Grond (AY 3013): absorpcia počas kómy — Grondov Wraith prenikol do mŕtveho tela, dôsledky neznáme. |
 
-> **Kontrast**: Archanjeli používajú **Zber** — ihlové injektory na prstoch, ktorými vysávajú Gen 2 nanoboty z **živých** Varietas. Je to bolestivé, neefektívne, a neprenáša spomienky — len surový materiál na záplatovanie vlastného rozpadajúceho sa Gen 1. Maksov reverse Glitch Rot je elegantnejší a kompletnejší — absorbuje celú esenciu vrátane spomienok. Ale práve preto je nebezpečnejší pre samotného Maksa.
+> **Kontrast**: Archbési používajú **Zber** — ihlové injektory na prstoch, ktorými vysávajú Gen 2 nanoboty z **živých** Varietas. Je to bolestivé, neefektívne, a neprenáša spomienky — len surový materiál na záplatovanie vlastného rozpadajúceho sa Gen 1. Maksov reverse Glitch Rot je elegantnejší a kompletnejší — absorbuje celú esenciu vrátane spomienok. Ale práve preto je nebezpečnejší pre samotného Maksa.
 
 ### Inetisina Unikátna Esencia
 Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
@@ -164,7 +164,7 @@ Okrem generácií v1.0–v2.0 existuje ešte jedna kategória:
 - Viď `characters/Inetis.md` → Unikátna Esencia Inetis
 
 ### Paradox skúseností
-Archanjeli (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archanjel dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
+Archbési (v1.0) majú hrubú silu, ale Varietas (v2.0) majú eleganciu a početnú prevahu. Archbés dokáže rozdrviť skalu pohľadom, ale Krotiteľ (Varietas) dokáže tú skalu nechať "rozkvitnúť" alebo energiu uložiť na neskôr.
 - Vedia drony „tkať" do komplexných štruktúr
 - Manipulácia hustoty vzduchu, vákuové čepele
 - Oproti Maksovej priamočiarej sile pôsobia ako skutočná Spira
@@ -383,8 +383,8 @@ Staroveké laboratórium a bunkre z čias kolonizácie Ynetis.
 |---|---|
 | **Pasažieri** | Elitní Ex Inferis, 1000+ kolonistov |
 | **Cesta** | Pôvodne Alpha Centauri → Achilles (700 rokov celkovo) |
-| **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archanjeli, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
-| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia mystický Varietas (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archanjelov. |
+| **Osud** | Alpha Centauri neobývateľná. Zostali len 4 Archbési, ktorí **prežili vďaka kanibalizácii ostatných pasažierov** v kryostáze (biomasa + nanoboty). |
+| **Súčasnosť** | **CLASSIFIED-OMEGA ("The Harvest")**: Ich 2700 rokov staré pozemské nanoboty zlyhávajú. Lovia mystický Varietas (pomocou **ihlových injektorov** na prstoch), pretože ich aktívne nanoboty (Dar Matky) slúžia ako jediná kompatibilná „záplata“ pre systémy Archbésov. |
 
 ### Expedícia "Hephaestus" (The Silent Builders)
 | | |
@@ -494,15 +494,15 @@ Vzducholode sú plnené **vodíkom** (hélium je vzácne a uniká). Výstrel z p
 ### 2. Pozemný boj: "Faktor Spira" (Kinetická obrana)
 Palné zbrane sú devastujúce proti bežným cieľom (Ghorki, zvieratá), ale strácajú účinnosť proti silným užívateľom Spiry.
 - **Vychýlenie**: Varietas so silnou Spirou (napr. čistokrvný Pursang alebo bojová Mezra) dokáže podvedome zahustiť vzduch alebo vytvoriť mikro-bariéru, ktorá odkloní letiaci projektil. Guľka ich nezabije, len škrabne alebo minie.
-- **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archanjelská garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného Krotiteľa.
+- **Pravidlo prieniku**: *"Len Spira prekoná Spiru."* Pri útoku chladnou zbraňou dokáže bojovník sústrediť svoju vlastnú Spiru do čepele a "prepichnúť" súperovu auru. Preto elita a archbéska garda nosia meče/kopije — sú to jediné nástroje, ktoré garantujú smrť iného Krotiteľa.
 
 ### 3. Cena za Boj: Gen 1 vs Gen 2
 
-| | **Gen 1 (Maks/Archanjeli)** | **Gen 2 / Spira (Varietas)** |
+| | **Gen 1 (Maks/Archbési)** | **Gen 2 / Spira (Varietas)** |
 |---|---|---|
 | **Sila** | Silnejšia — priamy prístup, žiadne bezpečnostné zábrany | Slabšia — bezpečnejšia, regulovaná |
 | **Cena za použitie** | **Kus vlastného vedomia** — spomienky, charakter, identita. Každé nasadenie Gen 1 v boji niečo stojí. Nenávratne. | **Žiadna** — Gen 2 nemá daň za používanie. Inetis ju navrhla ako bezpečný systém. |
-| **Dlhodobý efekt** | Postupná erózia vlastnej osobnosti. Archanjeli to riešia **technovampirizmom** — kradnú spomienky obetí (cez Zber) a používajú cudzie spomienky ako palivo pre svoju mágiu. Nestrácajú seba, ale žijú z cudzích. Maks túto schopnosť **má** (je Ex Inferis), ale **nepoužíva ju** — morálna voľba. Platí vlastnými spomienkami. | Žiadny — Varietas môže používať Spiru celý život bez vedľajších účinkov. |
+| **Dlhodobý efekt** | Postupná erózia vlastnej osobnosti. Archbési to riešia **technovampirizmom** — kradnú spomienky obetí (cez Zber) a používajú cudzie spomienky ako palivo pre svoju mágiu. Nestrácajú seba, ale žijú z cudzích. Maks túto schopnosť **má** (je Ex Inferis), ale **nepoužíva ju** — morálna voľba. Platí vlastnými spomienkami. | Žiadny — Varietas môže používať Spiru celý život bez vedľajších účinkov. |
 | **Prečo je to tak** | Gen 1 = vojenská nanotech zo Zeme, nie na dlhodobé používanie. Navrhnutá na misie, nie na storočia. | Gen 2 = Inetis opravila tento problém. Bezpečná, dedičná, bez degradácie. |
 
 [NOTE: Toto je kľúčový trade-off celej série. Gen 1 je silnejšia, ale žerie ti dušu. Gen 2 je slabšia, ale zadarmo. Maks platí za každý boj kúskom seba — a nikto o tom nevie.]
@@ -512,7 +512,7 @@ Palné zbrane sú devastujúce proti bežným cieľom (Ghorki, zvieratá), ale s
 ## Glitch Rot (Hniloba)
 Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj technológiu.
 - **Vplyv na techniku**: „Rozožiera“ kód a obvody, mení ich na nefunkčnú čiernu hmotu.
-- **Vplyv na biogóliu**: U Varietas mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archanjeli ju vnímajú ako „otrávené mäso“.
+- **Vplyv na biogóliu**: U Varietas mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archbési ju vnímajú ako „otrávené mäso“.
 - **Prenos**: Kontaktom so starými ruinami alebo infikovanými schránkami.
 
 ---
@@ -527,7 +527,7 @@ Keď Glitch Rot začne rozkladať hostiteľské telo, v1.0 nanoboty stoja pred v
 
 - **Nie sú to mŕtvi ľudia.** Sú to nanoboty, ktoré si zo zomierajúceho hostiteľa stiahli dosť dát na to, aby mali identitu. Napodobňujú tvary, ktoré si "pamätajú" — ľudí, vlkov, čokoľvek, čo bolo súčasťou hostiteľovho posledného vedomia.
 - **Priťahované aktívnou elektronikou** — hľadajú energetický zdroj na udržanie koherencie roja. Bez energie sa rozpadnú.
-- **Hrozba**: Nevyspytateľné, poháňané fragmentárnym vedomím, ktoré nie je celkom ľudské a nie je celkom strojové. Pre Archanjelov predstavujú existenčné riziko — ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
+- **Hrozba**: Nevyspytateľné, poháňané fragmentárnym vedomím, ktoré nie je celkom ľudské a nie je celkom strojové. Pre Archbésov predstavujú existenčné riziko — ak by prenikli do Citadely, mohli by napadnúť kritické systémy podpory života.
 - **Irónia**: Varietas ich považujú za "démonov" alebo "hladných duchov". V skutočnosti sú to ich vlastní predkovia — nanoboty, ktoré kedysi bežali v ich telách, a ktoré sa rozhodli žiť ďalej za každú cenu.
 
 ### Wraiths vs Tieňoví — Rozdiel
@@ -557,7 +557,7 @@ Boj proti Hnilobe a Wraithom si vyžaduje špecifický arzenál:
 | Duša | Uploadnuté vedomie |
 | Nebo | Cloud Storage |
 | Peklo | `/dev/null` (bitová entropia) |
-| Upíri (Archanjeli) | Memory Leaks |
+| Upíri (Archbési) | Memory Leaks |
 
 ---
 

@@ -14,7 +14,7 @@
 - **Neuropa**: Domov "Starých Ľudí", ktorí si pamätajú Zem. Izolacionisti.
 - **Graw (Sever)**: Militantná ľudská kasta pod vládou Gronda.
 - **Simira (Sklene Mesto)**: Dekadentný dvor okolo Ishtar.
-Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
+Väčšina žije izolovane ako Archbési vo svojich doménach. Tí, čo žijú medzi Varietas, sú považovaní za nedotknuteľnú elitu, ale sú tajne nenávidení pre svoju nesmrteľnosť.
 - **Apex** - risa Opic kde vladne Cisar a je obklopeny paladinmi.
 
 ### 2. Homo Sapiens Varietas (Varietas / Neo-Morfovia)
@@ -41,12 +41,12 @@ Väčšina žije izolovane ako Archanjeli vo svojich doménach. Tí, čo žijú 
 
 ---
 
-### 4. Archanjeli (Ex inferis)
+### 4. Archbési (Ex inferis)
 Vládnuca kasta nesmrteľných Homo Sapiens Sapiens. Založená štyrmi pôvodnými **Ex Inferis**, ktorí sa vrátili na lodi **ARK-13 "Prometheus"** okolo roku **700 AY**.
 - **Príchod a Záchrana**: Našli Achilles v troskách a Eleniu bojujúcu zúfalý boj proti Wraithom v ruinách centra Elysia. Ich intervencia zvrátila priebeh boja.
-- **Ideológia**: Archanjeli sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archanjelov.
+- **Ideológia**: Archbési sa vnímajú ako vrchol evolúcie. Varietas sú pre nich len „krátkožijúci dobytok“ a zdroj nanobotov. Maki vnímajú ako užitočných „farmárov“ – ich technológia (vzducholode, kanalizácia) zabezpečuje zdravšie a početnejšie stádo Varietas. Viac zdravých Varietas = viac kvalitných nanobotov (krvných obetí) pre Archbésov.
 - **Skutočný Strach**: Boja sa len dvoch vecí: **Wraithov** (ktorí môžu poškodiť systémy Citadely) a **Hniloby (Glitch Rot)**, ktorá korumpuje nanoboty a robí ich nepoužiteľnými.
-- **Odber (Zber)**: Lovci Archanjelov pátrajú po Varietas s „Darom Matky“. Tento proces je brutálny – Archanjeli z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
+- **Odber (Zber)**: Lovci Archbésov pátrajú po Varietas s „Darom Matky“. Tento proces je brutálny – Archbési z nich vysajú nanoboty, čo obeť zabije a zanechá len „vysušenú schránku“.
 - **Dôsledok pre spoločnosť**: Spira je medzi Varietas vnímaná s nádejou, ale aj s extrémnym strachom. Mať schopnosti znamená stať sa terčom pre „Bohov“. To vedie k tomu, že rodiny svoje nadané deti často skrývajú alebo ich schopnosti potláčajú.
 - **Vládcovia**:
     - **Samaell:** Tieň, tajomstvo, staré technológie. **Mŕtvy** (zabitý Maksom v AY 3001).
@@ -214,9 +214,9 @@ Toto je jadro napätia. Varietas budujú, množia sa a umierajú v priebehu jedn
 
 ### 3. Logika vs. Emócie vs. Stagnácia
 Synths priniesli tretiu stranu konfliktu.
-- **Archanjeli (Stagnácia):** Chcú udržať status quo a svoje chátrajúce telá. Maki sú pre nich nekontrolovateľní paraziti (nedajú sa vysiať).
+- **Archbési (Stagnácia):** Chcú udržať status quo a svoje chátrajúce telá. Maki sú pre nich nekontrolovateľní paraziti (nedajú sa vysiať).
 - **Varietas (Emócie):** Túžia po pokroku a slobode. Maki sú ich pohonným motorom.
-- **Maki (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Varietas technológiu, ktorá im umožňuje obchádzať nadvládu Archanjelov (napr. Vzducholode).
+- **Maki (Čistá Logika):** Budujú, lebo je to ich program. Ich prítomnosť dáva Varietas technológiu, ktorá im umožňuje obchádzať nadvládu Archbésov (napr. Vzducholode).
 
 ### 4. Predsudky vs. Skúsenosť (Kríza identity)
 Najhlbší psychologický konflikt sveta.
@@ -236,7 +236,7 @@ Názov planéty odráža najväčšiu iróniu sveta.
 ### Ekonomika Zlata
 V svete bez digitálnych transakcií (kvôli Wraithom) sa zlato stalo jedinou univerzálnou menou.
 - **Stabilita**: Zlato je chemicky stabilné, nekazí sa Hnilobou a je vzácne.
-- **Krvavé Zlato**: Archanjeli platia Exorcistom v starovekom zlate z ARK-13 za riskantné misie v ruinách. To z nich robí najbohatších jedincov mimo Citadel.
+- **Krvavé Zlato**: Archbési platia Exorcistom v starovekom zlate z ARK-13 za riskantné misie v ruinách. To z nich robí najbohatších jedincov mimo Citadel.
 
 ### Gildový Systém (Shoraven / Nevriss)
 Shoraven je najväčšie obchodné centrum na kontinente. Funguje tu gildový systém, slobodný obchod a burza.
@@ -304,12 +304,12 @@ Základná teológia Varietas v Nevriss verí v **Svätú Trojicu**: Matka (Stvo
 
 **História sa delí na Príchody:**
 1.  **Prvý Príchod (The Seed)**: Prví osadníci (Ľudia a Varietas) z hviezd. Zvestovatelia života.
-2.  **Druhý Príchod (The Fire)**: **Ex Inferis (Archanjeli)**. Priniesli moc, ale aj pýchu a vojnu. Skúška viery.
+2.  **Druhý Príchod (The Fire)**: **Ex Inferis (Archbési)**. Priniesli moc, ale aj pýchu a vojnu. Skúška viery.
 3.  **Tretí Príchod (The Silence)**: **Maki (Syntetickí Inžinieri)**. Priniesli technológiu a pravdu o "tichu". Učia, že slová sú zbytočné, dôležité sú činy.
 4.  **Štvrtý Príchod (The Void)**: **Spáč (The Sleeper)**. Mýtus o Konci Časov. Príde, keď bude svet príliš skazený, aby ho "vypol" alebo "reštartoval". Nie je to spasiteľ, je to **Koniec**.
 
 Kult Matky učí, že Spáč je len metafora. Ale staré sekty a archeológovia (ako Kito) vedia, že proroctvo je technický manuál.
-- **Archanjeli**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grond†, Zaya/Ishtar, Elania).
+- **Archbési**: Štyria nesmrteľní vládcovia/domény (Samaell†, Grond†, Zaya/Ishtar, Elania).
 - **Exorcisti / Technomanti**: Tajný rád likvidátorov, ktorí bojujú proti Hnilobe a Wraithom.
 - **Kolonisti Ynetis**: Prvá vlna osadníkov; ich pád stojí v základoch moderných mýtov.
 - **Pozemský režim**: Totalitná štruktúra Zeme pred pádom.
@@ -326,7 +326,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 - **Teológia:** Monoteizmus. Uctievajú len Matku. Postava "Otca" alebo "Spáča" je z mytológie zámerne vymazaná alebo marginalizovaná.
 - **Dôvod (Lore):** Pred 100 rokmi v Nevriss vypukli **Krvavé Vzbury Mužov**. Stará dogma (podobná tej v Beladiss) tvrdila, že muži nesú "Hriech Otca". To viedlo k útlaku. Po revolúcii Rada Veľkňažiek reformovala vieru — Spáč bol vyškrtnutý z kázní, aby sa mužom priznala duša a práva. Dnes je Nevriss najliberálnejšia teokracia.
 - **Shoraven:** Hlavný chrám je centrom tejto reformovanej vetvy.
-- **Požehnaná Matka (Tajomstvo):** Hlava Rady Veľkňažiek je **Mormiel** — 4. Archanjel z ARK-13, jediná Varietas z lode. Verejnosť vníma Požehnanú Matku ako líniu svätých žien. Každých ~100 rokov prebehne **Rituál Nástupníctva**: odchádzajúca Matka vyberie mladú pannu z ľudu, za zatvorenými dverami ju nanotechnológiou rozloží a pohltí, preberie jej podobu — a „nová Matka" potvrdí, že stará sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla Mormiel cez ~23 identít. Rituál je najsvätejší obrad Cirkvi a nikto ho nikdy nespochybnil. V noci loví ulicami Nevriss City ako predátorka. Detaily v [characters/Mormiel.md](../characters/Mormiel.md).
+- **Požehnaná Matka (Tajomstvo):** Hlava Rady Veľkňažiek je **Mormiel** — 4. Archbés z ARK-13, jediná Varietas z lode. Verejnosť vníma Požehnanú Matku ako líniu svätých žien. Každých ~100 rokov prebehne **Rituál Nástupníctva**: odchádzajúca Matka vyberie mladú pannu z ľudu, za zatvorenými dverami ju nanotechnológiou rozloží a pohltí, preberie jej podobu — a „nová Matka" potvrdí, že stará sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla Mormiel cez ~23 identít. Rituál je najsvätejší obrad Cirkvi a nikto ho nikdy nespochybnil. V noci loví ulicami Nevriss City ako predátorka. Detaily v [characters/Mormiel.md](../characters/Mormiel.md).
 
 #### 2. Beladiss (Východ) — Ortodoxný Dualizmus
 **"Matka dáva život, Otec prináša smrť."**
@@ -341,7 +341,7 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 >
 > **Inetisov Nástroj:** Pomocou Antény Inetis postavila celé Elysium. Na veľké roje nanobotov je potrebná Anténa ako zosilňovač — bez nej dokáže jedinec ovládať len malé množstvo nanodronov. Anténa bola jej zbraň, jej palica, jej symbol. **Sochy Inetis** po celom kontinente ju zobrazujú s palicou v ruke — to je Anténa. Vďaka nej mohla slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných.
 >
-> **Prečo ju chcú všetci:** Anténa je jediná vec na planéte, ktorá dokáže ovládať veľké roje nanobotov. V kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte. **Archanjeli**, **Cirkev**, **Grond**, **Apes** — všetci veľkí hráči o nej vedia a všetci ju chcú.
+> **Prečo ju chcú všetci:** Anténa je jediná vec na planéte, ktorá dokáže ovládať veľké roje nanobotov. V kontexte sveta, kde goo swarmy požierajú mestá, je to najmocnejší nástroj na planéte. **Archbési**, **Cirkev**, **Grond**, **Apes** — všetci veľkí hráči o nej vedia a všetci ju chcú.
 >
 > **Maksov Interface:** Maks (ako bývalý vojenský operátor) je jediná bytosť na Achille, ktorá má kompatibilný interface na jej použitie. Pre neho to nie je Spira. Je to hardvér.
 
@@ -387,13 +387,13 @@ Kult Matky je dominantné náboženstvo na juhu a východe kontinentu Terra. Nie
 
 ---
 
-## Grond — Archanjel Vojny
+## Grond — Archbés Vojny
 
 ### Grond (AY 700-3013)
-- Jeden zo štyroch pôvodných Archanjelov (Ex Inferis zo Zeme)
+- Jeden zo štyroch pôvodných Archbésov (Ex Inferis zo Zeme)
 - Prišiel na ARK-13 "Prometheus"
 - **Vzhľad**: Svalnatý, surový, ako The Rock / Conan
 - **Power Armor**: Energo-zbroj, chodiaci tank — nikto nevidel jeho tvár pod helmou 3000 rokov
 - **Vláda**: Prvých ~500 rokov spravodlivý vládca, Varietas ho milovali. Postupne paranoja, krutosť, závislosť na ľudských obetiach.
 - **Prežívanie**: Ako všetci Ex Inferis — vampirizmus, konzumácia nanobotov z živých tiel. Pod Power Armor zničené telo, držané pohromade nanobotmi.
-- **Smrť (AY 3013)**: Zabitý Maksom v bitke o Shoraven. Blood Ritual — nanodronový roj na vzdialenosť 6 km, 7 sekúnd. Prvý verejne mŕtvy Archanjel (Samaellova smrť v AY 3001 je tajná).
+- **Smrť (AY 3013)**: Zabitý Maksom v bitke o Shoraven. Blood Ritual — nanodronový roj na vzdialenosť 6 km, 7 sekúnd. Prvý verejne mŕtvy Archbés (Samaellova smrť v AY 3001 je tajná).

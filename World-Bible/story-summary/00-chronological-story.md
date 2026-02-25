@@ -87,7 +87,7 @@ Varietas emigrujú z rozpadajúceho sa Elysia na kontinent Terra Nova. Zakladaj�
 Kríza: Glitch Rot decimuje ľudstvo, v1.0 nanoboty sú nebezpečné. Inetis rekonfiguruje Foundry na **The Core** — novú simuláciu na vývoj bezpečnejších nanobotov. ~100 simulovaných rokov vývoja. Počas jej neprítomnosti Elania vedie zúfalú obranu Ynetis proti Wraithom. [→ 01-timeline.md: Inetisina Simulácia]
 
 ### Inetis sa vracia
-Prináša v2.0 nanoboty (**Dar Matky**): bezpečné, dedičné, kompatibilné s biológiou Varietas. Syntax: Haiku (japončina), nie CLI — Inetis zamaskovala kód, aby ho Archanjeli nedokázali rozlúštiť. Elysium je v ruinách. Elania nezvestná. [→ 03-technology.md: Dar Matky]
+Prináša v2.0 nanoboty (**Dar Matky**): bezpečné, dedičné, kompatibilné s biológiou Varietas. Syntax: Haiku (japončina), nie CLI — Inetis zamaskovala kód, aby ho Archbési nedokázali rozlúštiť. Elysium je v ruinách. Elania nezvestná. [→ 03-technology.md: Dar Matky]
 
 ### AY ~700 — Druhý Príchod (ARK-13 "Prometheus")
 ARK-13 nájde Alpha Centauri neobývateľnú. Štyria Ex Inferis (**Samaell, Grond, Ishtar, Mormiel**) prežili 700 rokov kryostázy systematickou konzumáciou 10 000+ spiacich kolonistov — ich "božský" status je vybudovaný na masovom hrobe. Prichádzajú na Achilles. Nájdu Elaniu v ruinách Elysia, kde vedie zúfalý odboj. Stabilizujú situáciu. **Dohoda o Zjednotení**: Elania uznáva ich nadvládu výmenou za záchranu. Zakladajú Citadely mimo Elysia. Mormiel sa skryje v Nevriss. Neskor po velkej potope ako **Požehnaná Matka** — hlava Cirkvi. [→ 01-timeline.md: AY 700]
@@ -96,7 +96,7 @@ ARK-13 nájde Alpha Centauri neobývateľnú. Štyria Ex Inferis (**Samaell, Gro
 Po návrate zo simulácie Inetis navštívi kontinent. Odovzdá Varietas nové nanotechnológie (Dar Matky). Periodicky sa vracia raz za 5-10 rokov.  [→ 01-timeline.md: Dar Matky]
 
 ### AY ~850 — Veľká Bitka (Atra Narrows)
-Triumvirát Archanjelov zaútočí na Varietas. **Genocída líšok** — najlepší stratégovia a Spira programátori zdecimovaní. **Renn** (človek zo Zeme, člen Core Teamu Inetis) eskortuje posledné líščie rodiny na východ. Inetis ide s nimi. Zakladajú **Kitanu** (budúce Kitsune/Kito). Elania Ex Inferis varuje, že jej otec "spí" — legenda, aby v nich vzbudila strach. [→ 01-timeline.md: AY 850]
+Triumvirát Archbésov zaútočí na Varietas. **Genocída líšok** — najlepší stratégovia a Spira programátori zdecimovaní. **Renn** (človek zo Zeme, člen Core Teamu Inetis) eskortuje posledné líščie rodiny na východ. Inetis ide s nimi. Zakladajú **Kitanu** (budúce Kitsune/Kito). Elania Ex Inferis varuje, že jej otec "spí" — legenda, aby v nich vzbudila strach. [→ 01-timeline.md: AY 850]
 
 ### AY 2212 — Tretí Príchod (Expedícia Hephaestus)
 Na Achilles dorazí semenná loď s tisíckami **Maki** (syntetický androidy). Pre Varietas to je biblická udalosť — začiatok **Veku Poslov (RP 0)**. Maki spustia fúzny reaktor. Signál pritiahne obrovský cyklón Wraithov — zmasakruje Maki a čiastočne zdevastuje Kitsune. Medzi prezivsich androidov patrí **Séria-J a unit 734 / Felix**. Maki pochopia: elektrina priťahuje Wraithov. Prechádzajú na **Tichú Technológiu** — analógové majstrovstvo, para, mechanika. [→ 01-timeline.md: AY 2212] [→ 03-technology.md: Hephaestus]
@@ -115,10 +115,10 @@ Chce prebudiť Maksa, aby jej pomohol dostať sa k Jadru Elysium. Zomiera na Gli
 Piráti **Vix a Kael** zabíjajú **Renna** (človek zo Zeme, zakladateľ Kita, otec Tami) a držia jeho 7-ročnú dcéru **Tami** v klietke. Kael nechtiac aktivuje obranny system v jakysni azobudí Maksa. Maks sa prebúdza fyzicky slepý (kryo-slepota — explodované oči mrazom), pokrytý modrou kryo-tekutinou. **Samaell** roky putoval okolo jaskyne, hľadajúc Inetisin stopu. Piráti ho navedú k jaskyni, ale bunker sa uzavrie. Piráti nájdu Maksa v snehu a berú ho na palubu. Maks a Tami sa stretnú na lodi. [→ 01-timeline.md: AY 3000]
 
 ### AY 3000-3001 — Rok Tieňov
-Maks je prvý rok fyzicky závislý na 7-ročnej Tami. Naháňačka so Samaellom — Archanjel ich loví celý rok. **Unit 734 / Felix** (Mako-mechanik) slúži ako záchranné koleso. Maks zisťuje, že Zem je zabudnutá — "Iniciatíva Achilles" zlyhala. [→ 01-timeline.md: Rok Tieňov]
+Maks je prvý rok fyzicky závislý na 7-ročnej Tami. Naháňačka so Samaellom — Archbés ich loví celý rok. **Unit 734 / Felix** (Mako-mechanik) slúži ako záchranné koleso. Maks zisťuje, že Zem je zabudnutá — "Iniciatíva Achilles" zlyhala. [→ 01-timeline.md: Rok Tieňov]
 
 ### AY 3001 — Duel so Samaellom
-Maks (stále slepý) využíva FPV nanodrony veľkosti zrnka piesku. Technika z Achilles simulácie: drony vniknú do dýchacích ciest a explodujú. Duel na obrovské vzdialenosti. **Smrť Samaella** — prvý Archanjel zabitý od príchodu ARK-13. **Technovampirizmus**: Maks si privlastni Samaellove nanoboty — získava svalovú hmotu a **nové oči z Prachu** (Black Dust Eyes: čierne prachové uzly prepletené ako hniezdo hadov, fialovo svetielkujúce). Šok z odhalenia Varietas — uši, chvosty, zvieracie črty. Bod zlomu pre jeho ideológiu. [→ 01-timeline.md: AY 3001] [→ 03-technology.md: Gen 1 vizuál]
+Maks (stále slepý) využíva FPV nanodrony veľkosti zrnka piesku. Technika z Achilles simulácie: drony vniknú do dýchacích ciest a explodujú. Duel na obrovské vzdialenosti. **Smrť Samaella** — prvý Archbés zabitý od príchodu ARK-13. **Technovampirizmus**: Maks si privlastni Samaellove nanoboty — získava svalovú hmotu a **nové oči z Prachu** (Black Dust Eyes: čierne prachové uzly prepletené ako hniezdo hadov, fialovo svetielkujúce). Šok z odhalenia Varietas — uši, chvosty, zvieracie črty. Bod zlomu pre jeho ideológiu. [→ 01-timeline.md: AY 3001] [→ 03-technology.md: Gen 1 vizuál]
 
 ### AY 3001-3008 — Sedemročná cesta
 Premena z "trosky" na legendárneho Exorcistu. Putovanie s Tami ako mentor a učeň. [→ 01-timeline.md: AY 3001-3008]
@@ -168,7 +168,7 @@ Leží v kóme v Kitsune. Felix sa o neho stará. Občasné interlúdia: Felix p
 **Tami vs Elania** — dcéra Renna vs dcéra Inetis. Dve dedičky dvoch žien. Elania aktivuje **Doomsday Protocol / Protokol Null**. Cliffhanger: ticho pred búrkou. [→ planning/00-books-overview.md: Book 4]
 
 ### Triangulácia Ynetis (prierezový oblúk, Books 1-4)
-Maks/Tami využívajú Anténu na trianguláciu strateného Ynetis. Tri vysoké body pri mori: **Veľký Maják** (Nevriss, Book 1), **Sklená Veža** (Zaya/Ishtar, Book 2), **Veža Zatratených** (Elania, Book 3). Každá návšteva = konfrontácia s Archanjelom. [→ 01-timeline.md: Triangulácia]
+Maks/Tami využívajú Anténu na trianguláciu strateného Ynetis. Tri vysoké body pri mori: **Veľký Maják** (Nevriss, Book 1), **Sklená Veža** (Zaya/Ishtar, Book 2), **Veža Zatratených** (Elania, Book 3). Každá návšteva = konfrontácia s Archbésom. [→ 01-timeline.md: Triangulácia]
 
 ---
 

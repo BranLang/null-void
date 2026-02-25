@@ -247,8 +247,8 @@ Hlavné mesto Graw leží pod mohutným horským masívom pri severnom okraji ob
 - **Dediny**: Roztrúsené osady v lesoch, zásobované z hlavného mesta. Počas zím sa mnohé vyprázdnia.
 - **Severná hranica**: Za horským masívom začína zamrznutá zóna. Občasné výpravy za vzácnymi minerálmi.
 
-### Grond — Archanjel Vojny
-- **Grond (AY 700-3013)**: Originálny Archanjel, Ex Inferis zo Zeme. Jeden zo štyroch pôvodných z ARK-13.
+### Grond — Archbés Vojny
+- **Grond (AY 700-3013)**: Originálny Archbés, Ex Inferis zo Zeme. Jeden zo štyroch pôvodných z ARK-13.
 - **Vláda**: Prvých ~500 rokov spravodlivý vládca. Postupne paranoja, krutosť, závislosť na ľudských obetiach.
 - **Power Armor**: Nikto nevidel jeho tvár pod helmou 3000 rokov — pod zbrojou zničené telo, držané pohromade nanobotmi.
 - **Smrť (AY 3013)**: Zabitý Maksom v bitke o Shoraven (Blood Ritual — 6 km, 7 sekúnd).
@@ -296,7 +296,7 @@ Nevriss zaberá strednú a južnú časť Terry — od Hangravall na severe až 
 Nevriss nebolo vždy len jedno kráľovstvo na Terre. Kedysi to bolo **impérium** — najväčšia mocnosť, akú planéta Achilles videla.
 
 #### Zlatý Vek Spiry (~AY 800 – ~AY 1500)
-Po tom, čo Inetis odovzdala Varietas **Dar Matky** a veľká bitka s ľuďmi (Archanjeli) skončila, nastal na juhu Terry zlatý vek. Nevriss bolo prvé kráľovstvo, ktoré plne využilo potenciál Spiry — nie na vojnu, ale na **budovanie**.
+Po tom, čo Inetis odovzdala Varietas **Dar Matky** a veľká bitka s ľuďmi (Archbési) skončila, nastal na juhu Terry zlatý vek. Nevriss bolo prvé kráľovstvo, ktoré plne využilo potenciál Spiry — nie na vojnu, ale na **budovanie**.
 
 - **Námorná expanzia**: Nevrisské lode sa šírili pozdĺž južných brehov Terry. Južné pobrežie nikdy nezamŕza — teplé prúdy z rovníka udržiavajú more otvorené celoročne, čo umožňovalo námornú dopravu aj počas Dlhých Zím. Lode plávali od prístavu k prístavu, zakladali kolónie a obchodné stanice.
 - **Kolonizácia**: Nevrisské lode založili desiatky miest a osád pozdĺž pobrežia. Priniesli so sebou **jazyk, kultúru, náboženstvo (Kult Matky)** a spôsob života. Mnoho dnešných krajín na južnej Terre má nevrisské korene.
@@ -385,7 +385,7 @@ Nevriss City je hlavné mesto a srdce celého Nevriss. Leží na južnom pobrež
 - **Obranná pozícia**: Útesy sú prirodzená pevnosť z juhu — more a skaly sú neprekonateľné. Zo severu mesto chránia hradby a vzdialenosť od frontu. Mesto sa spolieha na to, že Shoraven a severné pevnosti zadržia nepriateľa.
 - **Obyvateľstvo**: Najväčšie mesto na kontinente — obchodníci, kňažky, remeselníci, šľachta, utečenci zo severu. Počas Dlhej Zimy populácia narastá — evakuovaní z pohraničia sa sťahujú sem.
 - **Atmosféra**: Na rozdiel od drsného Shoravenu je Nevriss City civilizovanejšie, teplejšie (vďaka južnej polohe) a bohatšie. Ulice sú dláždené, trhy plné, chrámy osvetlené. Z okraja útesov je výhľad na nekonečné more. Ale pod povrchom rastie napätie — správy z frontu sú čoraz horšie.
-- **Požehnaná Matka (Tajomstvo)**: Na tróne v Hlavnom Chráme sedí **Požehnaná Matka** — najvyššia kňažka, hlava Rady Veľkňažiek, uctievaná milostivá vodkyňa. Verejnosť vníma Požehnanú Matku ako **líniu svätých žien** — každých ~100 rokov odchádzajúca Matka vyberie mladú pannu z ľudu a za zatvorenými dverami „odovzdá požehnanie". V skutočnosti je to **Mormiel** — 4. Archanjel z ARK-13, ktorá kandidátku nanotechnológiou rozloží, pohltí a preberie jej podobu. „Nová Matka" potom potvrdí, že stará Matka sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla cez ~23 identít. V noci loví ulicami mesta ako predátorka — mestská legenda o **"Nočnom Tieni"** je v skutočnosti ona. Detaily v [characters/Mormiel.md](characters/Mormiel.md).
+- **Požehnaná Matka (Tajomstvo)**: Na tróne v Hlavnom Chráme sedí **Požehnaná Matka** — najvyššia kňažka, hlava Rady Veľkňažiek, uctievaná milostivá vodkyňa. Verejnosť vníma Požehnanú Matku ako **líniu svätých žien** — každých ~100 rokov odchádzajúca Matka vyberie mladú pannu z ľudu a za zatvorenými dverami „odovzdá požehnanie". V skutočnosti je to **Mormiel** — 4. Archbés z ARK-13, ktorá kandidátku nanotechnológiou rozloží, pohltí a preberie jej podobu. „Nová Matka" potom potvrdí, že stará Matka sa premenila na svetlo a Inetis si ju povolala k sebe. Za ~2300 rokov prešla cez ~23 identít. V noci loví ulicami mesta ako predátorka — mestská legenda o **"Nočnom Tieni"** je v skutočnosti ona. Detaily v [characters/Mormiel.md](characters/Mormiel.md).
 
 ---
 
@@ -429,7 +429,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich d
 > - **70% Feline** (Mačkovité šelmy - Mačky, Pumy, Tigre, Levy)
 > - **20% Canis/Lupus** (Psy, Vlci - väčšinou imigranti alebo pohraničníci)
 > - **10% Ostatní** (Medvede, Vydry, Plazy...)
-> - **Maki (Androidi):** V celom Nevriss žije presne **5** funkčných Makov. Sú vzácnejší než Archanjeli.
+> - **Maki (Androidi):** V celom Nevriss žije presne **5** funkčných Makov. Sú vzácnejší než Archbési.
 
 - **Priesmyky**: Strategicky dôležité, kontrolované pevnosťami. Hlavná cesta armád medzi Severom a Juhom. Grawská armáda postupuje práve cez ne.
 - **Tunely**: Staré bane a tunely z éry Zlatého veku, dnes často brlohy pre šelmy alebo pašerácke trasy.
@@ -450,7 +450,7 @@ Mohutné pohorie oddeľujúce Sever od Juhu. Pre Sever je to stena, ktorá ich d
 ### 2. Územie Graw (Sever)
 - **Vzhľad:** Tmavé ihličnaté lesy po oboch stranách magmového mesta. Industriálne, temné, studené.
 - **Ruiny:** Pozostatky starovekej architektúry — monolitické biele štruktúry medzi stromami, zasnežené a zarastené.
-- **Vládca**: Grond — originálny Archanjel, Ex Inferis zo Zeme (AY 700-3013)
+- **Vládca**: Grond — originálny Archbés, Ex Inferis zo Zeme (AY 700-3013)
 - **Klíma:** Najchladnejšia obývaná oblasť — na hranici ľadovej zóny. Počas 5-ročných zím je takmer neobývateľná mimo vyhrievané mesto.
 - **Fauna**: V lesoch sa túlajú nebezpečné šelmy — na detailnej mape viditeľný veľký vlk/šelma medzi stromami. Genetické mutácie z éry teraformácie.
 
@@ -537,7 +537,7 @@ Takmer nič. Simira je oddelená morom a Varietas z Terry nemajú dôvod ani pro
 | **Charakter** | Izolacionistická, dekadentná |
 | **Doprava** | Jediné funkčné vlaky na planéte |
 
-- Ishtar sa nezaujíma o ostatných Archanjelov
+- Ishtar sa nezaujíma o ostatných Archbésov
 - Sklené Mesto leží **pri pobreží Simiry** — nie na ňom, ale v jeho tesnej blízkosti. Na mape viditeľné ako výrazná ružovo-fialová štruktúra — architektonicky úplne odlišná od čohokoľvek iného na planéte.
 - **Tichá dohoda s Apes**: Ishtar a Apes majú neformálnu dohodu o vzájomnom neútočení. Apes tolerujú jej prítomnosť na svojom pobreží výmenou za pokoj. Nikto na severe o tejto dohode nevie.
 - Má vlastnú, uzavretú civilizáciu
@@ -551,7 +551,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 
 | | |
 |---|---|
-| **Vládkyňa** | **Elania** (Archanjel Zradenej Krvi) |
+| **Vládkyňa** | **Elania** (Archbés Zradenej Krvi) |
 | **Sídlo** | **Veža Zatratených** — starobylé mesto postavené okolo pradávnej veže |
 | **Lokácia** | **Ostrov na západe** (Zelený kruh na mape), oddelený od pevniny. Nie je súčasťou Elysia (Fialový kruh). |
 | **Charakter** | Temný, nostalgický, stagnujúci |
@@ -559,7 +559,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
 - **Pôvod**: Veža Zatratených vznikla ako **druhé mesto po Ynetis** — ešte počas Zlatej éry, ako pokus o expanziu, keď bol Ynetis preľudnený. Starobylá veža v centre mesta je jednou z najstarších stavieb na planéte.
 - **Obyvatelia**: Ľudia, ktorí prežili Glitch Rot — pretože **obmedzili používanie nanotechnológie na minimum**. Používajú nanotech len na predlžovanie životov. Nič viac.
 - **Mentalita**: Spomínajú na minulosť a neplánujú budúcnosť. Stagnujúca civilizácia — technologicky schopná, ale bez vôle niečo meniť. Žijú v tieni toho, čo bolo.
-- **Tajomstvo**: Elania nevie o osude ostatných Archanjelov.
+- **Tajomstvo**: Elania nevie o osude ostatných Archbésov.
 - **Rola v príbehu (Triangulácia)**: Veža Zatratených je **tretí a posledný bod** Maksovej trigonometrickej triangulácie. Po získaní meraní z Veľkého Majáku (Nevriss) a Sklenej Veže (Zaya) tu Maks dokončí výpočet presnej polohy Ynetis — strateného mesta za morom (Kniha 4).
 
 #### Ludus — Mesto Ľudí
@@ -664,7 +664,7 @@ Ruiny z čias "Hráčov" (Éra Zlatého veku) pripomínajú **antické Grécko**
 - **Ynetis (Stratené mesto)**: Centrum Zlatého veku; dnes zaplavené Wraithy. Lokácia neznáma — všeobecne sa verí, že sa potopilo. V skutočnosti stojí na súostroví pri rovníku, ale žiadna výprava sa nevrátila.
 - **Jaskyňa Inetis / Jaskyňa Ela**: Miesto pristátia lode NULL VOID — Inetis tu rekonfigurovala celú loď na infraštruktúru (jaskyňu, hydroponiku, laboratórium). Zostali len dve veci: Maksov kryobox (minimálna konfigurácia) a Anténa (špeciálne zariadenie Inetis). Po ~3 rokoch odišla s Eleniou na Elysium. Neskôr sa sem vrátila zomrieť pri Maksom kryoboxe. Po Maksom prebudení (~AY 3000) sa kryobox rozpadol na prach — ostala len Anténa. Miesto jej posledného odpočinku a nálezu denníkov.
 - **Shoraven**: Strategické hraničné mesto na severe Nevriss; severný prístav na hranici s Graw (nezamŕza vďaka termálnym prúdom); Hlavný Chrám (pobočka) s Anténa v kobkách; 3. rok Dlhej Zimy; prvá línia obrany proti grawskej invázii.
-- **Nevriss City**: Hlavné mesto Nevriss; prístavné mesto na vysokých útesoch nad južným morom. Prežilo Veľkú Potopu (~AY 1500) — tsunami sa rozbíjali o útesy, ale flotila bola zničená. K prístavu pod útesmi vedie masívny výťahový systém a tunely v skale. Dominanta: **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta po tisíce rokov). Sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza. **Tajomstvo**: Požehnaná Matka je v skutočnosti **Mormiel** — 4. Archanjel z ARK-13. Každých ~100 rokov vykoná Rituál Nástupníctva (pohltí mladú kandidátku a preberie jej podobu). Za ~2300 rokov prešla cez ~23 identít. Nočná lovkyňa („Nočný Tieň").
+- **Nevriss City**: Hlavné mesto Nevriss; prístavné mesto na vysokých útesoch nad južným morom. Prežilo Veľkú Potopu (~AY 1500) — tsunami sa rozbíjali o útesy, ale flotila bola zničená. K prístavu pod útesmi vedie masívny výťahový systém a tunely v skale. Dominanta: **Veľký Maják** (3D-tlačená komunikačná anténa, symbol mesta po tisíce rokov). Sídlo Rady Veľkňažiek a centrálny Hlavný Chrám Vševedúcej Matky; gildové sídla a centrálna burza. **Tajomstvo**: Požehnaná Matka je v skutočnosti **Mormiel** — 4. Archbés z ARK-13. Každých ~100 rokov vykoná Rituál Nástupníctva (pohltí mladú kandidátku a preberie jej podobu). Za ~2300 rokov prešla cez ~23 identít. Nočná lovkyňa („Nočný Tieň").
 - **Magmové Mesto**: Hlavné mesto Graw pod horským masívom; vyhrievané magmovými komorami.
 - **Veža Zatratených**: Sídlo Elenie; druhé mesto po Ynetis, založené počas Zlatej éry. Ľudia čo prežili Glitch Rot obmedzením nanotech-u.
 - **Ludus**: Najväčšie mesto Ľudí (čistokrvných); 95% smrteľníkov, 5% nesmrteľných zakladateľov. Cieľ: vyčistiť svet od Wraiths.

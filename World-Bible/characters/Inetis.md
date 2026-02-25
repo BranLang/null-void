@@ -53,7 +53,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - **Nemá fyzické komponenty** — funguje na vyššej dimenzii
 - Gen 2 sú fotonické (manipulujú hmotu cez svetlo). Inetisina Esencia je nad tým — "Gen 2 na steroidoch", ale presnejšie úplne iná kategória
 - **Prenos**: Po smrti Inetis jej v1.7 nanoboty + unikátna Esencia prešli do Antény (posledný príkaz: Merge). Pri prvom dotyku Tami s Anténou sa interdimenzionálna Esencia preniesla na Tami.
-- **Dôsledok**: Táto Esencia sa vymyká chápaniu aj najstarších bytostí (Archanjeli, Sera, Elania). Nikto nevie čo presne Tami nesie.
+- **Dôsledok**: Táto Esencia sa vymyká chápaniu aj najstarších bytostí (Archbési, Sera, Elania). Nikto nevie čo presne Tami nesie.
 - **Otvorená otázka**: Je táto Esencia dedičná?
 
 > *"Raz, možno párkrát za existenciu, príde moment, kedy sa bariéry zrútia a ty sa mysľou dotkneš hviezd. V tej chvíli nie je strach, nie je bolesť, len čistý zmysel. Všetko dáva zmysel. A potom, v momente, je to preč. A na dlani ti zostane len malé zrnko. Ale to zrnko vieš zasadiť, kultivovať a možno z neho vyrastie les."*
@@ -112,7 +112,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 >
 > Nezobudila ho. Ale odpustila mu. A zomrela opretá o jeho kryobox.
 
-16. Po návrate z Core našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archanjelmi)
+16. Po návrate z Core našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archbésmi)
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
 18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
