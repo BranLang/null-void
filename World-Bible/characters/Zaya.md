@@ -1,4 +1,4 @@
-# Zaya (Archanjel Pôžitku)
+# Zaya (Archbés Pôžitku)
 
 | | |
 |---|---|
@@ -7,7 +7,7 @@
 | **Schopnosť** | Ilúzie, mind control, Smrtiaca hmla (Gray Goo) |
 | **Boss** | Kniha 3 |
 
-Najnebezpečnejší Archanjel — útočí na myseľ. Zaya (pôvodne Ishtar) sa pokúsila zmanipulovať Maksa cez ilúziu jeho dcéry. Nakoniec neutralizovaná Maksom a pohltená svojimi otrokmi.
+Najnebezpečnejší Archbés — útočí na myseľ. Zaya (pôvodne Ishtar) sa pokúsila zmanipulovať Maksa cez ilúziu jeho dcéry. Nakoniec neutralizovaná Maksom a pohltená svojimi otrokmi.
 
 ### Štýl reči a myslenia
 

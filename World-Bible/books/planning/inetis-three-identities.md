@@ -273,7 +273,7 @@ Prečo:
 ### Prenos na Tami:
 - Keď Inetis zomrela, jej osobné Gen 1 (v1.7) nanoboty spolu s unikátnou Esenciou prešli do **Antény** (posledný príkaz: Merge)
 - Pri prvom dotyku Tami s Anténou sa unikátna interdimenzionálna Esencia preniesla na Tami
-- Táto Esencia je tak advanced, že sa vymyká chápaniu aj tých najstarších (Archanjeli, Sera, Elania)
+- Táto Esencia je tak advanced, že sa vymyká chápaniu aj tých najstarších (Archbési, Sera, Elania)
 - **Otvorená otázka**: Je táto Esencia dedičná? Prejde na Taminých potomkov?
 
 ---
@@ -284,7 +284,7 @@ Prečo:
 |---------|----------------|
 | **Svet** | "Matka" — bohyňa, svätica, stvoriteľka |
 | **Cirkev** | Mýtická Požehnaná Matka (skomolená verzia pravdy) |
-| **Archanjeli** | Bola AI, esencia prešla do tela. Detaily nejasné. |
+| **Archbési** | Bola AI, esencia prešla do tela. Detaily nejasné. |
 | **Sera** | Pravdu o hybrid forme. Sľub: "Postaraj sa o moju dcéru." |
 | **Elania** | Vie o matke ako o hybride, ale nikdy nechápala Netinu ľudskosť — poznala len Inetis (hybrid) |
 | **Maks** | V VR poznal i_net_is (nevedel, že je AI). Po zlúčení esencie s telom poznal Inetis (hybrid). O Nete vie len z denníkov. |

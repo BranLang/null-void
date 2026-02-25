@@ -45,7 +45,7 @@
 - Plánuje atentát
 
 ### Twist: Mormiel si ju vyberie
-**Mormiel** (skutočná identita: 4. Archanjel) vykonáva každých ~100 rokov **Rituál Nástupníctva**:
+**Mormiel** (skutočná identita: 4. Archbés) vykonáva každých ~100 rokov **Rituál Nástupníctva**:
 - Vyberie si mladú ženu
 - Pohltí ju — prevezme jej telo
 - Získa nový vzhľad, nové roky života

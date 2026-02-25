@@ -1,4 +1,4 @@
-# Grond (Archanjel Vojny / "Nesmrteľný Vládca")
+# Grond (Archbés Vojny / "Nesmrteľný Vládca")
 
 | | |
 |---|---|

@@ -113,7 +113,7 @@
 ## Tematické prepojenie
 
 ### Ukrajina → Achilles:
-- Krajina, ktorá sa bránila presile → Maks, ktorý sa bráni presile (Archanjeli, 3000 rokov)
+- Krajina, ktorá sa bránila presile → Maks, ktorý sa bráni presile (Archbési, 3000 rokov)
 - Improvizácia ako filozofia boja → Maks improvizuje s nanotechom
 - "Nikdy sa nevzdávaj" mentalita → Maks po 3000 rokoch stále bojuje
 

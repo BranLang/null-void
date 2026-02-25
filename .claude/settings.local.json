@@ -42,7 +42,8 @@
       "Bash(pip show:*)",
       "Bash(python scripts/spellcheck.py:*)",
       "Bash(tee:*)",
-      "WebFetch(domain:drive.google.com)"
+      "WebFetch(domain:drive.google.com)",
+      "Bash(git ls-tree:*)"
     ]
   }
 }

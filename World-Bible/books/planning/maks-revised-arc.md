@@ -42,7 +42,7 @@ Maks po Blood Rituáli a páde zo vzducholode (Book 1, Ch6-7) upadne do kómy. T
 ### Links Arc (paralelný, pred Nocou hrdinov):
 - Links príde do Shoraven skúmať
 - Obyvatelia povedia: **"Generál zomrel v boji"**
-- Tami to potvrdí (chráni Maksa — ak by sa vedelo, že žije, Cirkev/Archanjeli by ho hľadali)
+- Tami to potvrdí (chráni Maksa — ak by sa vedelo, že žije, Cirkev/Archbési by ho hľadali)
 - **Links nikdy nevidí telo** — len počuje príbeh
 - Z Linksovho POV je Maks mŕtvy. Bodka.
 - Čitateľ pochybuje... ale bez dôkazu

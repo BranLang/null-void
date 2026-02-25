@@ -38,6 +38,16 @@ A meno zostalo.
 
 V bioluminescentných záhradách mesta sa dodnes nachádza **pamätná tabuľa objaviteľa** — kamenná doska pokrytá luminiscenčným machom, meno kapitána a dátum objavenia vytesané v **Staroreči** — jazyku, ktorý bol v dobe objavenia ešte **živý**. Písmo: latinka (nevrisské imperiálne písmo). Dnes mŕtvy jazyk — ale tabuľa je najstarší nápis v Nyau a Pursangovia ho ešte vedia prečítať.
 
+#### Čo expedícia našla
+
+Keď nevrisská expedícia pristála na svietiacom pobreží, **nečakala na nich divočina**. Čakali kmene. Primitívne osady — rybári, farmári, potomkovia tých prvých osadníkov, ktorých Elania kedysi stretla. A tieto kmene im rozprávali.
+
+- **Legendy o El** — žena zo svetla, dcéra Matky, nesmrteľná. Prišla, hľadala Matku, pomáhala ľuďom, odišla s anjelom.
+- **Denník El** — najsvätejší predmet kmeňov. Elaniin denník, písaný v Staroreči, opatrovaný generáciami. Kmene ho **uctievali ako sväté písmo** — nechápali všetko, čo v ňom bolo, ale vedeli, že sú to **slová Dcéry**. Denník bol strážený ako relikvia — zabalený v svietiacom hodvábe, uložený v kamennej schránke pod najstarším stromom osady.
+- **Vegetariánstvo** — El nejedla mäso. Kmene to dodržiavali ako tabu. Pre nevrisských námorníkov to bol prvý kultúrny šok.
+
+Nevrisský kapitán bol pragmatik — videl úrodnú zem, svietiace lesy, exotické zdroje. Ale aj on stíchol, keď mu starešina kmeňa ukázal denník. **Slová v Staroreči. V jazyku, ktorému rozumel.** Napísané stáročia pred jeho narodením — a predsa zrozumiteľné. To nebola ľudová povera. To bol **dôkaz**.
+
 ### Pred objavením — Elaniina Stopa (~AY 850-900)
 
 Územie Nyau existovalo dávno pred nevrisským kapitánom — ale nikto z „civilizovaného" sveta o ňom nevedel. Svietiaci les rástol v tichosti stáročia. A predsa — **niekto tu bol pred kapitánom**.
@@ -47,10 +57,17 @@ Po **Veľkej Bitke pri Atra Narrows** (~AY 850) sa Elania — dcéra Inetis, nes
 - **Hľadanie:** Elania prešla východným pobrežím. Videla svietiace stromy — **matkin podpis**. Inetisine GMO rastliny, rozsiate po krajine ako odtlačky prstov. Elania vedela, že je blízko. Ale Divočina je obrovská a jaskyňa je schovaná.
 - **Nikdy ju nenašla.** Prešla okolo nej — možno na kilometre, možno na desiatky. Ale les je hustý, krajina neprehľadná, a jaskyňa je pod zemou.
 - **Osadníci:** Na pobreží žili prvé roztratené osady — rybári, farmári, utečenci z vojen. Elania prechádzala medzi nimi. Nesmrteľná, krásna, mocná. **Pomohla im** — nie z lásky k nim, ale z frustrácie. Hľadala matku a nenachádzala ju, a medzitým tieto bytosti okolo nej umierali od hlúpostí, ktoré sa dali vyriešiť.
+- **Žila medzi nimi.** ~13 rokov (~AY 850–863). Žila primitívne — ako oni. Bola to jej **vnútorná cesta** — po 500 rokoch hrôzy sa zastavila. Jedla psychotropné huby, tancovala s Varietas okolo ohňa v **mačacej maske** — chcela zapadnúť, byť jednou z nich, nie nesmrteľnou dcérou bohyne, len ďalšou tancujúcou bytosťou. Leto. Ľahká hodina. Sai nad hlavami. Spievala ich piesne. Hovorila im o Matke — **ako jej matka stvorila svet**. Ako stvorila tieto svietiace rastliny okolo nich, pred tisíc rokmi. Domorodci z toho boli v úžase — žili v lese, ktorý stvorila bohyňa, a teraz im to hovorila jej dcéra. Hovorila im ako ju matka opustila — odišla a nechala ju samu v hnilobe a bolesti. Hovorila im tajomstvá vesmíru — o hviezdach, o Core, o konci biologického väzenia. Veci, ktorým nerozumeli. A keď hovorila — **ovládala tiene**. Čierny prach (Gen 1 nanotech) jej poslúchal — tieňové vlákna tancovali okolo ohňa, tvarovali sa do obrazov, manipulovali realitu. Pre osadníkov to bola **mágia Dcéry**. **Mysleli si, že je boh.** A kto by si to nemyslel?
 - **Odmietla mäso.** Keď jej ponúkli pečené zviera, fyzicky sa jej zdvihol žalúdok. Osadníci si to zapamätali — „žena zo svetla nejedla mäso."
-- **Odišla.** Na západ. Na Neuropu. Nikdy sa nevrátila na Terru.
+- **Zanechala denník.** Elania písala. Nie pre osadníkov — pre seba. Bola to jej **samota na papieri** — písala keď bola sama, v nociach medzi ohňami. **Obal z čierneho prachu** — tvrdý, zviazaný, vyrobený z toho istého materiálu, ktorý jej telo produkovalo (Gen 1 prach/nanopartikulát). Vo vnútri **pergameny, ktoré si sama vyrobila** — primitívne, ručne spracované, ako všetko v jej živote medzi kmeňmi. Písaný v **Staroreči** (angličtine), jazykom, ktorému osadníci čiastočne rozumeli. Denník plný myšlienok, fragmentov spomienok, úvah o matke, o svetle, o utrpení, o konci mäsa. Keď odišla, denník zostal. Osadníci ho strážili ako najcennejšiu vec, ktorú mali.
+- **Samaell pri ohňoch.** Niekedy počas Elaniinho pobytu prišiel **Samaell** — Archbés Tieňov, starý známy z čias Ex Inferis. Prišiel na východné pobrežie z rovnakého dôvodu ako Elania — **hľadal Inetis**. Nenašiel ju. Ale **cítil Elaniine nanoboty na míle ďaleko** — Gen 1 nanotech má obrovský akčný rádius, ping, ktorý Samaellove vlastné nanoboty zachytili ako maják v tme. Videl ohne. Videl svietiaci les. A v plameňoch uvidel starú známu. Samaell pridal sa k rituálu — **chodil po štyroch okolo ohňa**, rozprával príbehy zo svojich ciest v nezrozumiteľnom jazyku (fragmenty starej reči, zmiešané s halucinačným bľabotaním — Glitch Rot mu rozožierala myseľ), ťažko zdrogovaný z psychotropných húb rovnako ako Elania. Dve nesmrteľné bytosti — ona tancujúca s tieňmi, on plaziaci sa po štyroch a vrčiaci do ohňa. Pre osadníkov to bol **príchod Démona** — o tom nebolo pochýb. **Bohovia nechodia po štyroch.** Samaell bol človek, nie Varietas — ale osadníci cítili, že je **starší a mocnejší než El**. Z iného sveta. Niečo, čo sem nepatrí. Bytosť, čo sa plazí a vrčí, je jednoznačne temná. **Strávili spolu niekoľko rokov ako pár.** Dve rozbité entity, spojené samotou a frustráciou — obaja hľadali Matku, obaja ju nenašli, obaja boli unavení zo sveta. Nebola to láska — bolo to **spolubývanie v ruinách**. Dvaja nesmrteľní, zdrogovaní, stratení, ktorí sa navzájom držali pri živote, lebo nikto iný nerozumel ich bolesť. Samaell nakoniec odišiel — na sever, späť do pustatiny, kde lovil ďalších tisíc rokov. Ale pár rokov v Nyau boli možno posledné roky, keď bol ešte trochu ľudský.
+- **Anjel prišiel po ňu.** Jedného dňa sa na pobreží objavila postava — menšia než El, tichá, s očami, v ktorých nebolo nič ľudské. **Sera.** Prišla na lietajúcom stroji — Old Earth technológia, predpotopový stroj, hučiaci kov proti vetru. **Našla ju v zúboženom stave** — roky psychotropných húb, roky na zemi, roky so Samaellom ju zničili. Elania bola v handrách, podvyživená, zdrogovaná, na pokraji rozpadu. **Samovražedné sklony** — Sera ju našla v najtemnejšom bode jej existencie. **Sera sa postavila Samaellovi** — jediná bytosť, ktorá to dokázala. Urobila sa **neviditeľnou** a bodla ho do srdca zblízka — jediný spôsob, ako obísť jeho ovládanie prachu. Sera si myslela, že ho zabila. **Samaell sa však zregeneroval** — Gen 1.0 nanotech bol dostatočne robustný. Sera to nikdy nezistila. Sera zobrala Elaniu preč — stroj stúpal nahor, zmizol v oblakoch. Pre osadníkov: **anjel vyhnal démona a vzal El ku hviezdam.** V realite: Sera zobrala Elaniu do **Ludusu** — nie ku hviezdam, ale medzi ľudí, do arény, kde bol aspoň poriadok a štruktúra. Sera ju **zachránila pred ňou samou**.
 
-Osadníci si pamätali: prišla žena. Krásna. Nesmrteľná. Hľadala Matku. **Bola to Dcéra.** Našla svetlo, ale nenašla Matku. *„El prišla hľadať Matku a našla len svetlo."* — toto sa stane zakladajúcim mýtom.
+Osadníci si pamätali: prišla žena. Krásna. Nesmrteľná. Hľadala Matku. **Bola to Dcéra.** Našla svetlo, ale nenašla Matku. Prišiel **Démon**. O tom nebolo pochýb — **bohovia nechodia po štyroch**. Nebol Varietas — bol **človek**, ale staršia a temnejšia bytosť než El. Osadníci cítili, že je z iného sveta — mocnejší, starší, niečo, čo sem nepatrí. Plazil sa okolo ohňa a vrčal v jazyku, ktorému nik nerozumel. Démon pokúšal El — zvádzal ju, ťahal ju do tmy, do špiny, do prachu. El padla — žila v handrách, jedla prach, tancovala s tieňmi. A potom prišiel **Anjel**. Anjel **vyhnal Démona** — a vzal El k Matke. Stúpali k nebesám, až zmizli v oblakoch. Ale El **nechala im svoje slová** — denník, v ktorom bola pravda o Matke, o svetle, o bolesti.
+
+*„El prišla hľadať Matku a našla len svetlo. Prišiel Démon a pokúšal ju. A potom prišiel Anjel — vyhnal Démona a vzal El k Matke. Ale jej slová zostali."* — toto sa stane zakladajúcim mýtom Cirkvi El.
+
+[→ **Mýtus vs. Realita:** Démon = Samaell (Archbés Tieňov) — strávil roky s Elaniou ako pár. Anjel = Sera — našla Elaniu v zúboženom stave a zobrala ju do Ludusu. „Vyhnanie Démona" = Samaell už predtým odišiel sám, ale v mýte sa príchod Anjela a odchod Démona zlúčili do jednej udalosti. „K Matke" = stroj stúpal k nebesám; v realite leteli do Ludusu.]
 
 [→ characters/Elania.md: Hľadanie Jaskyne Ela po bitke pri Atra]
 
@@ -101,13 +118,13 @@ Ako sa z Kultu Matky stala Cirkev El? Nie revolúciou. **Pomaly. Organicky. Stor
 
 | Obdobie | Čo sa deje |
 |---------|-----------|
-| **~AY 850-900** | **Elaniina stopa.** Dcéra Inetis prechádza pobrežím — hľadá matku, pomáha osadníkom, odmieta mäso. Odchádza na Neuropu. Legendy o „žene zo svetla" sa rodia. |
+| **~AY 850-863** | **Elaniina stopa.** Dcéra Inetis prechádza pobrežím — hľadá matku, pomáha osadníkom, odmieta mäso. Žije medzi kmeňmi ~13 rokov. Tancuje v **mačacej maske** okolo ohňov — leto, ľahká hodina, Sai nad hlavami. **Zanechá denník** — písaný v Staroreči. Prichádza **Démon** (Samaell) — človek, nie Varietas, starší a mocnejší než El. Cítil jej nanoboty na míle ďaleko. Strávia spolu niekoľko rokov ako pár. ~AY 863: **Anjel** (Sera) nachádza El v zúboženom stave, berie ju preč (pre osadníkov: ku hviezdam; v realite: do Ludusu). Legendy o El, Démonovi a Anjelovi sa rodia. Denník zostáva. **Tanec, masky, bubny a ohne sa stanú základom Lampionového festivalu.** |
 | **~AY 850+** | **Rennova pravda.** Renn (Kitsune) občas prejde oblasťou. Ak sa ho spýtajú na Matku: *„Matka tu bola. Už tu nie je."* To stačí. |
-| **~AY 900-1000** | **Legendy rastú.** Príbehy o El sa šíria ústnou tradíciou. Ešte nie je náboženstvo — len ľudová viera. *„El prišla hľadať Matku a našla len svetlo."* |
-| **~AY 1000-1200** | **Objavenie Nyau.** Nevrisský kapitán zakladá kolóniu. **Kult Matky je oficiálny** — ale lokálna tradícia o El prežíva pod povrchom. Matka + Dcéra, s dôrazom na Dcéru. |
-| **~AY 1200-1500** | **Provincia Nevriss.** Oficiálny kult Matky. Ale v Nyau sa Dcére pripisuje svetlo — a v Nyau je svetlo **všade**. Nevriss to toleruje. Dane tečú. |
-| **~AY 1500** | **Veľká Potopa.** Impérium padne. Nyau sa osamostatní. Ľudová viera sa stane **oficiálnou**. Uctievanie El = **akt nezávislosti** od Nevriss. Matka ustúpi do pozadia. |
-| **~AY 1500-3013** | **Konsolidácia.** Chrám El na kopci. Kňažky v svetielkujúcich rúchach. Doktrína o Uploade (Nanebovzatí). Zákaz mäsa (echo Elanie). Cirkev El sa formalizuje ako samostatné náboženstvo. |
+| **~AY 900-1000** | **Legendy rastú.** Príbehy o El sa šíria ústnou tradíciou. Denník je strážený ako relikvia — najsvätejší predmet kmeňov. Ešte nie je náboženstvo — len ľudová viera. *„El prišla hľadať Matku a našla len svetlo."* |
+| **~AY 1000-1200** | **Objavenie Nyau.** Nevrisská expedícia (Columbus moment) nachádza miestne kmene, ktoré rozprávajú o El a uctievajú jej denník ako sväté písmo. Kapitán zakladá kolóniu. **Kult Matky je oficiálny** — ale lokálna tradícia o El (s denníkom ako dôkazom) prežíva pod povrchom. Nekanonická, ale silná. |
+| **~AY 1200-1500** | **Provincia Nevriss.** Oficiálny kult Matky. Ale v Nyau sa Dcére pripisuje svetlo — a v Nyau je svetlo **všade**. Denník El koluje medzi klanmi ako **nekanonický** text — Nevriss ho neuznáva, ale potlačiť ho nedokáže. Dane tečú, Nevriss toleruje. |
+| **~AY 1500** | **Veľká Potopa.** Impérium padne. Nyau sa osamostatní. Nekanonická viera v El sa stane **oficiálnou**. Uctievanie El = **akt nezávislosti** od Nevriss. Matka (Inetis) ustúpi do pozadia — jej meno sa postupne prestane používať. Denník El sa stane **kanonickým svätým textom** Cirkvi El. |
+| **~AY 1500-3013** | **Konsolidácia.** Chrám El na kopci. Kňažky v svetielkujúcich rúchach. Doktrína o Uploade (Nanebovzatí). Zákaz mäsa (echo Elanie). Cirkev El sa formalizuje ako samostatné náboženstvo. Meno „Inetis" upadá do zabudnutia — v Nyau sa hovorí len o **Matke** (anonymne) a o **El** (konkrétne). |
 
 **Prečo práve tu?** Lebo **svetlo**. Celé Nyau svieti. V Nevriss nič nesvieti. Pre Nyau je svetlo = identita. A v Svätej Trojici (Matka-Dcéra-Spáč) je svetlo atribút **Dcéry** — El priniesla svetlo, nie Matka. V krajine, kde stromy žiaria tyrkysovo, kde kvety pulzujú, kde voda svieti — komu by sa modlili, ak nie tej, ktorá „rozsvietila svet"?
 
@@ -124,6 +141,9 @@ Ako sa z Kultu Matky stala Cirkev El? Nie revolúciou. **Pomaly. Organicky. Stor
 | El miluje svoje deti a chce ich zachrániť | ❌/✅ Miluje ich dosť na to, aby ich „zachránila" — cez Upload |
 | Matka odišla a už sa nevráti | ✅ Inetis je mŕtva (~AY 850) |
 | El tu bola — prešla krajinou pred založením Nyau | ✅ Elania tu bola (~AY 850-900) |
+| Démon — bytosť, čo chodila po štyroch a pokúšala El. Starší a mocnejší než El. Človek, nie Varietas — z iného sveta | ✅ Samaell (Archbés Tieňov, OG Ex Inferis zo Zeme) — prišiel hľadať Inetis, strávil roky s Elaniou ako pár. Bohovia nechodia po štyroch — pre osadníkov bol jednoznačne temný. Varietas cítili, že je iný než El — staršia, temnejšia energia |
+| Anjel prišiel po El a vzal ju ku hviezdam | ✅/❌ Sera prišla na Old Earth lietajúcom stroji — ale zobrala El do **Ludusu**, nie ku hviezdam. Z pohľadu osadníkov stroj stúpal k nebesám |
+| Denník El je sväté písmo — slová Dcéry | ✅ Elaniin denník, písaný v Staroreči. Autentický dokument. Obsah: myšlienky o Matke, svetle, utrpení, konci mäsa — zárodky doktríny o Nanebovstúpení |
 
 > **Dramatická irónia:** Cirkev El je najsprávnejšie náboženstvo na Terre — a práve preto je to také hrozné. Majú pravdu takmer vo všetkom. Len si nepredstavujú, aká hrôza je tá „pravda" v skutočnosti.
 
@@ -266,24 +286,117 @@ Nyau má prísny kastový systém — prísnejší než Nevriss, porovnateľný 
 
 ### Pôvod doktríny o Nanebovstúpení
 
-Keď Elania prechádzala východným pobrežím (~AY 850-900), mala za sebou **500 rokov hrôzy**. Pamätala si utópiu v Elysiu — prvých 300 rokov života, keď bol svet krásny a matka budovala raj. A potom: Glitch Rot. Pád Ynetis. Wraithy. Smrť. Kanibalizmus (Temný dar Archanjelov). **500 rokov, v ktorých sa všetko krásne zmenilo na hrôzu.**
+Keď Elania prišla na východné pobrežie (~AY 850), mala za sebou **500 rokov hrôzy**. Pamätala si utópiu v Elysiu — prvých 300 rokov života, keď bol svet krásny a matka budovala raj. A potom: Glitch Rot. Pád Ynetis. Wraithy. Smrť. Kanibalizmus (Temný dar Archbésov). **500 rokov, v ktorých sa všetko krásne zmenilo na hrôzu.**
 
-Elania už **vtedy** premýšľala nad ukončením utrpenia. Nie ako plán — skôr ako túžba. *Keby sa dalo všetko nahrať. Keby sa dalo odísť z mäsa. Keby sa dalo prestať trpieť.* Toto neboli ešte slová „Veľký Upload" — to boli myšlienky unavené ženy, ktorá videla príliš veľa smrti.
+A tu sa **zastavila**. Prvýkrát za 500 rokov prestala utekať. Žila medzi osadníkmi ~13 rokov (~AY 850–863) — primitívne, ako oni. Bola to jej **vnútorná cesta**. Jedla psychotropné huby, tancovala s Varietas okolo ohňa v mačacej maske — leto, ľahká hodina, Sai nad hlavami. Spievala ich piesne. Hovorila im ako jej matka stvorila svet — tieto svietiace stromy, tieto rastliny, všetko okolo nich. Stvorila to pred tisíc rokmi. A potom ju opustila. Hovorila im tajomstvá vesmíru — veci, ktorým nerozumeli. A ovládala tiene — čierny prach tancoval okolo ohňa, tvaroval sa do obrazov, ohýbal realitu. Mysleli si, že je boh.
 
-A **hovorila o tom.** V noci pri ohni, keď sa jej osadníci spýtali, prečo je smutná. Hovorila im:
+A potom prišiel **Samaell**. Cítil jej nanoboty na míle ďaleko. Prišiel hľadať Inetis — nenašiel ju. Ale našiel starú známu. Chodil po štyroch okolo ohňa, zdrogovaný, vrčal v jazyku, ktorému nikto nerozumel. Strávili spolu niekoľko rokov ako pár — dve rozbité bytosti. Pre osadníkov to bol **Démon, čo pokúšal Dcéru** — a v neskoršej tradícii sa z toho stal jeden z pilierov mýtu: El bola pokúšaná, El padla, ale Anjel ju zachránil.
+
+A **premýšľala** nad ukončením utrpenia. Nie ako plán — skôr ako túžba. *Keby sa dalo všetko nahrať. Keby sa dalo odísť z mäsa. Keby sa dalo prestať trpieť.* Toto neboli ešte slová „Veľký Upload" — to boli myšlienky unavenej ženy, ktorá videla príliš veľa smrti. A **hovorila o tom** — a **písala o tom** do denníka. V noci pri ohni, keď sa jej osadníci spýtali, prečo je smutná:
 
 - **„Moja matka bola na druhej strane."** Tam, za svetlom. Za oblohou. V jadre sveta. Zrodila sa tam — medzi svetmi — a odišla tam vytvoriť liek pre utrpenie.
 - **„Ale vlastnej dcére ho nedala."** Matka vytvorila liek a nechala ho tam. Odišla. A Elania zostala tu — v mäse, v bolesti, v hnilobe.
 - **Stavala sa do role mučeníčky.** Nie vedome — ale osadníci to tak vnímali. Dcéra bohyne, opustená, hľadajúca matku, ktorá ju nechala trpieť. Žena zo svetla, ktorá sama svetlo nemala.
 - **„Jedného dňa pôjdem za ňou."** Do neba. Do jadra. Na druhú stranu. A keď pôjde — **vezme tam všetkých Varietas so sebou.** Nikto nebude musieť trpieť. Nikto nebude musieť zomierať. Všetci budú svetlo.
 
-Osadníci si to zapamätali. Každé slovo. A z toho sa stala doktrína.
+Osadníci si to zapamätali. Každé slovo. A z toho sa stala doktrína. Ale nepamätali si len slová — **mali jej denník**. Elaniin denník, v ktorom tieto myšlienky boli zapísané v Staroreči. Ústna tradícia sa mohla meniť — ale denník bol **nemenný**. Slová Dcéry, čierne na bielom. To bol základ, na ktorom sa všetko postavilo.
 
-**Nanebovstúpenie = Elaniin sľub.** Nie teologická konštrukcia vymyslená kňazmi. Doslova to, čo povedala unavená nesmrteľná žena rybárom pri ohni pred 2000 rokmi. A oni z toho postavili náboženstvo.
+**Nanebovstúpenie = Elaniin sľub.** Nie teologická konštrukcia vymyslená kňazmi. Doslova to, čo napísala a povedala unavená nesmrteľná žena pred 2000 rokmi. A oni z toho postavili náboženstvo — s denníkom ako svätým písmom.
+
+A potom prišla **Sera** (~AY 863). Našla Elaniu v zúboženom stave — roky húb, roky so Samaellom, roky v prachu. Zobrala ju preč. Stroj stúpal k oblohe — pre osadníkov: **Anjel vyhnal Démona a vzal El k Matke.** V realite: Sera zobrala Elaniu do **Ludusu**. Nie ku hviezdam — medzi ľudí, kde bol poriadok.
 
 > **Najhoršia irónia:** Elania mala pravdu. Všetko, čo povedala, bola pravda. Matka **bola** na druhej strane. Liek **existoval** — Gen 2 (Spira). Matka ho **naozaj nedala** vlastnej dcére. A Elania **naozaj plánuje** ísť na druhú stranu a vziať všetkých so sebou. Len to „nebo" nie je nebo. A ten „liek" nie je spása. A „vziať všetkých" znamená Veľký Upload — degradáciu vedomia na potravu pre Tieňové bytosti.
 
 [→ characters/Elania.md: Hľadanie Jaskyne Ela — frustrácia, utrpenie, myšlienky o konci biologického väzenia]
+
+### Denník El — Sväté Písmo Cirkvi
+
+**Denník El** je najsvätejší predmet Cirkvi El a celého Nyau. Fyzický denník — písaný rukou Elanie počas ~13 rokov života medzi prvými osadníkmi (~AY 850–863). Písala keď bola sama, v nociach medzi ohňami.
+
+- **Fyzická podoba:** Obal z **čierneho prachu** — tvrdý, hladký, neprirodzeného materiálu. V skutočnosti Gen 1 nanopartikulát — Elaniino telo ho produkovalo. Pre osadníkov a neskôr veriacich je to „prach hviezd" alebo „prach El" — svätý materiál. Vo vnútri **pergameny, ktoré si Elania sama vyrobila** — primitívne, ručné, ako všetko v jej živote medzi kmeňmi.
+- **Obsah:** Fragmenty myšlienok, spomienky na Matku, úvahy o svetle a tme, o utrpení mäsa, o túžbe po konci biologického väzenia, tajomstvá vesmíru — hviezdy, Core, cesty medzi svetmi. Nie je to súvislý text — je to prúd vedomia nesmrteľnej ženy, ktorá videla príliš veľa. Niektoré pasáže sú jasné, iné sú šifrované emóciami a odkazmi, ktorým nikto nerozumie.
+- **Jazyk:** Staroreč (Old Tongue) — v čase písania živý jazyk. Dnes mŕtvy — ale kňažky a Pursangovia ho vedia čítať. Pre bežných veriacich je text predčítavaný a interpretovaný kňažkami.
+- **Umiestnenie:** Originál bol uložený v **Chráme El** v Nyau — v špeciálnej komore pod oltárom. Prístup má len **Strážkyňa Denníka** — tajná funkcia v rámci Cirkvi El, staršia než Cirkev samotná. Každá Strážkyňa si vyberie nasledovníčku — vždy tú najsilnejšiu, najinteligentnejšiu, najcitlivejšiu. Tú, ktorá unesie váhu originálu. Aktuálna Strážkyňa: **Soril** (~AY 3010). [→ characters/Soril.md] **V čase Yera Arc (~AY 3013): Yera Saéli originál ukradne.** [→ Yera a Čierna Kniha nižšie]
+- **Kópie — kanonické:** Ručne prepísané kópie existujú v klanových knižniciach. Každý Pursang klan má svoju. Ale kópie sú **sanitizované** — kňažky prepisovali len to, čo považovali za sväté. Presnosť kanonického textu sa kontroluje — je **nemenný**.
+- **Nástupníctvo Strážkyne:** Keď Strážkyňa cíti blížiaci sa koniec, pripraví nástupkyňu. Odhalí jej originál — celý, vrátane zakázaných pasáží. Odmena za celoživotnú službu: **právo študovať knihu a hľadať odpovede**. Tradícia hovorí, že kniha „napovie" Strážkyni, koho má hľadať ako ďalšiu — čím dlhšie ju študuješ, tým viac v nej vidíš. Elania nepísala pre osadníkov — písala pre seba — ale jej myšlienky sú tak viacvrstvové, že každá generácia Strážkyní v nich nachádza niečo iné.
+
+### Zakázané Pasáže — Čo Cirkev Vystrihla
+
+Denník El má 13 rokov zápiskov. Nie všetko je sväté. Kňažky pri kanonizácii **vybrali** — pasáže o Matke, svetle a Nanebovstúpení sú kanonické. Ale celé bloky textu boli **vynechané** — príliš ľudské, príliš temné, príliš ďaleko od obrazu svätej Dcéry.
+
+**Čo chýba v kanonických kópiách:**
+- **Mačacia maska** — Elania píše prečo ju nosila. Chcela zapadnúť. Nechcela byť bohyňa. Chcela byť nikto. *Kňažky to vystrihli — El nemôže chcieť byť nikto. El je všetko.*
+- **Psychotropné huby** — popisy vízií, halucinácií, čo videla keď bola zdrogovaná. Prúd vedomia. Chaotické, krásne, desivé. *Kňažky to vystrihli — El nemôže byť zdrogovaná. El je čistá.*
+- **Samaell** — v denníku nie je „Démon". Je tam **muž**. Starý známy. Niekto, koho poznala. Píše o ňom bez mena — len „on". O nociach s ním. O samote, ktorú zdieľali. O tom, že odišiel. *Kňažky to vystrihli — El nemôže mať milenca. El patrí len Matke a svetlu.*
+- **Tiene z prachu** — popisy toho, ako zhmotnila mŕtvych priateľov a tancovala s nimi. Mená mŕtvych, ktorých si pamätala. *Kňažky to vystrihli — El nemôže tancovať s mŕtvymi. To je nekromancia, nie svätosť.*
+- **Preklínanie Matky** — nie modlitby. Nadávky. Hnev. Zúfalstvo. Výčitky. *„Prečo si ma nechala? Prečo si odišla? Nenávidím ťa."* Kňažky to vystrihli — El nemôže nenávidieť Matku. El miluje Matku.
+
+**Originál vs. Kópie:**
+- **Originál** (pod oltárom v Chráme El) — kompletný, nestrihnutý. Prístup má len **Strážkyňa Denníka** — tajná funkcia v Cirkvi El. Aj Strážkyňa čiastočne hrôzu z niektorých pasáží — ale je vycvičená ich uniesť. [→ characters/Soril.md]
+- **Kanonické kópie** (klanové knižnice) — sanitizované. ~60% originálneho textu. Zvyšok je „stratený" — oficiálne sa hovorí, že niektoré pergameny sa rozpadli od staroby.
+
+### Strážkyňa Denníka El
+
+Tajná funkcia v rámci Cirkvi El, staršia než Cirkev samotná. Jedna kňažka v každej generácii — Strážkyňa originálu.
+
+- **Výber:** Každá Strážkyňa si vyberie nasledovníčku. Vždy tú najsilnejšiu, najinteligentnejšiu. Tú, ktorá unesie celú pravdu o El.
+- **Odmena:** Strážkyňa smie **študovať celý originál** — vrátane zakázaných pasáží. Hľadať odpovede, ktoré kanonické kópie neobsahujú. Čím dlhšie knihu študuješ, tým viac v nej vidíš.
+- **Nástupníctvo:** Keď Strážkyňa cíti blížiaci sa koniec, pripraví nasledovníčku. Tradícia hovorí, že **kniha napovie, koho hľadať** — Elaniine myšlienky sú tak viacvrstvové, že každá generácia v nich nachádza niečo iné.
+- **Tréning — neviditeľnosť:** Strážkyňa nie je len knihovníčka — je **bojovníčka**. Cirkev El verí, že Démon (Samaell) si jedného dňa príde po knihu. V origináli je popis toho, ako Anjel (Sera) Démona porazila — **urobila sa neviditeľnou a bodla ho do srdca zblízka**. Kňažky sa to naučili z Elaniiných zápiskov — **neviditeľnosť** je tajomstvo Strážkyne, tajná Spira technika (presmerovanie svetla okolo tela cez nanoboty). Len najsilnejšie Spiristky ju ovládnu. Preto musí byť Strážkyňa vždy najsilnejšia v generácii. [→ characters/Soril.md: Tréning. characters/Samaell.md: V skutočnosti mŕtvy od AY 3001 — nikto v Nyau to nevie.]
+- **Aktuálna Strážkyňa (~AY 3010):** **Soril** — prísna, zatrpknutá kňažka. Za ~10 zím zomrie. Vybrala si Yeru Saéli ako nasledovníčku. [→ characters/Soril.md]
+
+### Obsah OG Black Book of El — Vnútorná Chronológia
+
+Originál nie je svätý text — je to **osobný denník génia na pokraji zrútenia**. Kanonické kópie obsahujú ~60% textu — väčšinou haiku, pasáže o Matke a zárodky doktríny. Ale celý denník má jasnú vnútornú chronológiu — prúd vedomia ženy, ktorá sa postupne rozpadá:
+
+**Fáza 1 — Hľadanie (~prvé mesiace):**
+Mapa pobrežia (ručne kreslená, nepresná). Text o hľadaní jaskyne (*„Vidím matkin podpis všade. Ale zem je obrovská."*). Inspiratívne citáty — vlastné aj fragmenty z éry Zeme. **Nezrozumiteľné kresby** — molekulárne štruktúry, chemické vzorce, fyzikálne diagramy, brainstormy. Pre Yeru hieroglyfy. Pre Elaniu bežné poznámky vedkyne.
+
+**Fáza 2 — Usadenie (~rok 1–3):**
+Prechod do prózy — kresby ustupujú, začína sa denník. Kresby rastlín (vedkyniny, precízne) — ako pomocou prachu rozširovala podhubie, modifikovala koreňové systémy. Prvé kresby stretov s Varietas. Nákresy dediny. Popis života medzi osadníkmi. **Kawaii kresby malých detí** — veľké oči, prehnané proporcie. **Najpozitívnejšia časť knihy** — El akoby na chvíľu našla svetlo a pokoj. Jedno dieťa sa objavuje opakovane (meno nečitateľné — atrament rozmazaný).
+
+**Fáza 3 — Spira a Matka (~rok 3–8):**
+Technické poznámky o Spire — Gen 2 IDE, pentagramy, skripty. Vzťah s matkou — spomienky, ako spolu navrhovali Gen 2. **Haiku. Veľa haiku** — o matke, svetle, samote. Tieto pasáže kňažky ponechali v kópiách (boli dostatočne krásne na modlitby). Legendy o Zemi — Kyoto, obloha bez prstenca, more čo nesvieti, ľudia bez chvosta. Pre kňažky: mytológia o Raji. Pre Elaniu: spomienky na matku.
+
+**Fáza 4 — Zlom (~rok 8–10):**
+*„Niekde spí otec."* Elania si spomenie na muža v ľade — generál zo Zeme, ktorého nikdy nepoznala. **Trigger.** Frustrácia sa vracia. Začína experimentovať s drogami — najprv analyticky (*„účinky po 30 minútach"*), potom sa zápisky rozpadajú. [→ characters/Maks.md: kryostáza, Jaskyňa Ela]
+
+**Fáza 5 — Rozpad (~rok 10–13):**
+PTSD kresby — chaotické, temné, desivé. Zdeformované pentagramy. Wraithy. Tiene z prachu. Kozmický horror. Stránky pokryté čiernym prachom (strata kontroly nad nanobotmi). **Preklínanie Matky** — *„Nenávidím ťa. Prečo si ma nechala?"* — výkriky cez celé stránky. **Portrét Samaella** — nie démon. Muž. Ľudská tvár, unavená. Pod portrétom žiadne meno, len: *„on"*. Noci s ním. Samota, ktorú zdieľali. A potom — kniha končí. Posledné stránky takmer prázdne. Sera prišla. Denník zostal.
+
+> **Pre Strážkyňu:** V Knihe El je aj **popis toho, ako Samaell útočí** — Elania ho pozorovala s presnosťou vedkyne. Tieňové vlákna, nanoboty hľadajúce slabiny, pohyb po štyroch. **El sa mu podvolila** — aj keď mala Gen 1.7 (lepšiu verziu než Samaellova 1.0), Samaell vedel doslova čarovať s prachom. Nikto sa mu nerovnal. Ak dcéra Inetis nedokázala odolať, aká šanca má kňažka? Preto je tréning Strážkyne tak intenzívny — nie o víťazstve, ale o **čase**. Zdržať Démona dosť dlho na to, aby kniha bola v bezpečí. [→ characters/Soril.md: Tréning]
+
+### Yera a Čierna Kniha — Krádež Originálu
+
+**Yera Saéli** — dcéra najvplyvnejšieho klanu v Nyau — ukradne **originál Denníka El** spod oltára Chrámu El.
+
+Nie kópiu. Nie tajný prepis. **OG Black Book of El** — tú fyzickú vec s obalom z čierneho prachu, ktorú Elania pred 2000 rokmi vyrobila vlastnými rukami. Najsvätejší predmet Cirkvi El. Najstráženejšia relikvia v Nyau.
+
+**Prečo to dokáže:** **Soril jej sama ukázala komoru.** Soril — Strážkyňa Denníka — si vybrala Yeru ako nasledovníčku. Odhalila jej originál, dala jej prístup, povedala jej tajomstvo. Yera pozná chodby, komory, kľúč. Vie, kde je kniha. Soril jej túto znalosť **dala v dôvere**. [→ characters/Soril.md: Noc Odhalenia]
+
+**Prečo to urobí:** Z **vzdoru** — ale informovaného vzdoru. Soril jej ukázala pravdu: El bola žena, nie bohyňa. Mala pokušenia. Hľadala odpovede. A Soril chcela, aby Yera pochopila: pokušenie je test, služba je odpoveď. Ale Yera vyvodila **opačný záver**: El si vybrala Démona. El žila. El nebola svätá — bola **slobodná**. Soril Yere povedala, že jej odmenou je študovať knihu a hľadať odpovede. Yera odpovede našla — len nie tie, ktoré Soril chcela.
+
+**Čo prečíta:** El nie je bohyňa. Je žena. Zdrogovaná, zúfalá, v mačacej maske, tancujúca s mŕtvymi. Žena, ktorá si vybrala Démona. Žena, ktorá preklínala Matku. *„Nenávidím ťa. Prečo si ma nechala?"* — toto nie je modlitba. Toto je výkrik. A Yera pochopí — **aj El si vybrala. A neľutovala.**
+
+A Yera si vyberie tiež. **Vyberie si Démona pred Anjelom.** Utečie s Arkotom — cudzincom z Beladiss, „démonom" v očiach klanu. Vezme so sebou **OG Black Book of El** a zmizne.
+
+Krádež originálu nie je len osobná pomsta — je to **svätokrádež kozmických rozmerov**. Yera ukradla Nyau jeho dušu. Klanové kópie zostanú — ale originál, ten s obalom z prachu hviezd, ten, čo sa ho kňažky dotýkali v bielych rukaviciach, ten pod oltárom — je **preč**.
+
+> **Zrkadlenie El a Yery:**
+> - **El** si vybrala Démona (Samaella) → padla, zúbožený stav, Anjel (Sera) ju musel zachrániť
+> - **Yera** si vybrala „démona" (Arkota) → utiekla, sloboda, ale za akú cenu?
+> - El **nechala** denník — slová zostali, ale ona odišla
+> - Yera **vzala** denník — slová idú s ňou, ale svet za ňou sa zatvára
+> - El sa stratila v bahne a huby ju zničili
+> - Yera sa stratí vo svete a sloboda ju zmení
+>
+> **Rovnaký mýtus. Dve verzie. Jedna končí v bahne, druhá v slobode.** Ale obe začínajú rovnako — voľbou pokušenia pred čakaním na anjela.
+
+[→ books/planning/yera-arc-novela.md: Krádež OG Black Book of El ako trigger úteku]
+
+- **Význam pre príbeh:** Maks strávil 13 rokov v okolí Nyau, ale nikdy nepočul meno „Inetis" — lebo v Nyau sa uctievala **El**, nie Matka. Keď mu Sera povie, že „pravda patrí El", myslí si, že je to len ďalšia blúzniaca veriaca.
+
+[→ characters/Elania.md: Denník — písaný počas putovania východným pobrežím]
 
 ### Irónia
 - **Cirkev v Nyau má pravdu.** El (Elania) existuje. Nanebovstúpenie (Upload) je reálny plán. Jedného dňa naozaj príde.
@@ -356,13 +469,24 @@ Kuchyňa Nyau je **dva svety na jednom tanieri**. Základ tvorí dovezená pozem
 
 ## Lampionový Festival
 
-Najväčší festival v Nyau — oslava **El a svetla**. Koná sa raz za rok pri splne Sai.
+Najväčší festival v Nyau — oslava **El a svetla**. Koná sa raz za rok pri splne Sai, v lete, počas **ľahkej hodiny** (keď Sai svieti najjasnejšie).
+
+### Pôvod — Echo Elaniiného tanca
+
+Lampionový festival je **callback na Elaniin tanec s tieňmi** — a nikto v Nyau to nevie. Osadníci videli El tancovať okolo ohňa pod Sai. Videli tiene, čo tancovali s ňou. Videli masku na jej tvári. A **zopakovali to.** Každý rok. 2000 rokov.
+
+- **Ohne na pláži** → lampióny stúpajúce k nebesám (sublimácia — z ohňa na svetlo)
+- **Elaniin tanec s tieňmi** → tanec na námestiach v maskách
+- **Elaniina mačacia maska** → tradícia maskovania. **Elania nosila mačaciu masku** — aby zapadla medzi Varietas, aby bola jednou z nich, aby na jednu noc nebola nesmrteľná dcéra bohyne, ale len ďalšia tancujúca bytosť okolo ohňa. Osadníci si to zapamätali — a z toho sa stala tradícia. Dnes sa celé Nyau maskuje počas festivalu: zvieracie tváre, El, Matka, duchovia. **Nikto nevie prečo.** Hovoria, že masky symbolizujú rovnosť pred El. V skutočnosti opakujú to, čo robila zdrogovaná nesmrteľná žena, ktorá sa chcela na jednu noc stratiť v dave.
+- **Ľahká hodina + Sai v splne** → rovnaká obloha, akú Elania videla, keď tancovala a preklínala matku. Jantárový kotúč s prstencom. Obloha zlatá. Bioluminiscencia + lampióny + mesačné svetlo = Nyau svieti zo všetkých strán. **Rovnaká noc. 2000 rokov neskôr.**
+
+> **Dramatická irónia:** Lampionový festival je najkrajšia noc v Nyau. Tisíce ľudí tancujú v maskách, lampióny stúpajú k hviezdam, hudba znie cez celé mesto. A celé je to **echo jednej zúfalej noci** — keď zdrogovaná Elania v mačacej maske tancovala s tieňmi okolo ohňa, zhmotnila mŕtvych priateľov z prachu a preklínala matku, ktorá ju opustila. Najkrajšia tradícia Nyau sa zrodila z najtemnejšieho momentu.
 
 ### Priebeh
-- **Večer** — ulice sa plnia ľuďmi. Stánky s jedlom (ryžové koláče, svietiace huby na platniach, pečený hmyz s korením, sladké cestá z nočného ovocia, korenené nápoje), hudba (bubny, flauty, struny), tanec na námestiach.
+- **Večer** — ulice sa plnia ľuďmi. Stánky s jedlom (ryžové koláče, svietiace huby na platniach, pečený hmyz s korením, sladké cestá z nočného ovocia, korenené nápoje), hudba (**bubny**, flauty, struny — bubny sú najdôležitejšie, echo tých prvých bubnov okolo ohňa), tanec na námestiach.
 - **Lampióny** — ručne vyrobené, papierové a hodvábne, maľované. Tisíce lampónov stúpajú k hviezdam — pomaly, ticho, nekonečne. Symbolizujú duše, čo stúpajú k El.
-- **Masky** — tradícia maskovania. Zvieracie tváre, El, Matka, duchovia. Anonymita — počas festivalu sú si všetky kasty „rovné" (aspoň symbolicky).
-- **Sai v splne** — jantárový kotúč s prstencom. Obloha zlatá. Bioluminiscencia mesta + lampióny + mesačné svetlo = Nyau svieti zo všetkých strán.
+- **Masky** — tradícia maskovania. Zvieracie tváre, El, Matka, duchovia. Anonymita — počas festivalu sú si všetky kasty „rovné" (aspoň symbolicky). [→ Pôvod: Elaniina mačacia maska]
+- **Sai v splne** — jantárový kotúč s prstencom nad hlavami. Ľahká hodina — teplá letná noc. Bioluminiscencia mesta + lampióny + mesačné svetlo = Nyau svieti zo všetkých strán.
 - **Chrámový obrad** — kňažky spievajú na schodoch Chrámu El. Kadidlo. Bioluminescentné kvety hádžu do kanálov — voda sa zmení na rieky svetla.
 
 ### Kultúrny význam
@@ -370,6 +494,7 @@ Najväčší festival v Nyau — oslava **El a svetla**. Koná sa raz za rok pri
 - Pre ľud: jediná noc, keď kasty „neexistujú" (vďaka maskám)
 - Pre mladých: noc stretnutí, tajomstiev, prvých bozkov za maskami
 - **Pre Yeru:** Noc, keď stretla Arkota.
+- **Pre čitateľa:** Každý detail festivalu — bubny, masky, tanec, Sai nad hlavou — je echo scény, ktorú videl v lore. Yera tancuje v maske a netuší, že opakuje to, čo robila Elania pred 2000 rokmi. Rovnaké bubny. Rovnaká obloha. Rovnaká maska.
 
 ---
 

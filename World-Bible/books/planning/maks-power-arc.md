@@ -98,7 +98,7 @@ Maks prežije pád. Sotva. **Upadne do kómy.**
 
 Tami ho nájde. Naloží na Itaku. Odvezie do **Kitsune**. Felix sa o neho stará.
 
-Tami klame svetu: *"Generál zomrel v boji."* Chráni ho — ak by sa vedelo, že žije, Cirkev/Archanjeli by ho hľadali.
+Tami klame svetu: *"Generál zomrel v boji."* Chráni ho — ak by sa vedelo, že žije, Cirkev/Archbési by ho hľadali.
 
 | Aspekt | Detail |
 |--------|--------|
@@ -867,7 +867,7 @@ Ishtar si myslí, že **manipuluje Apes.** 3000 rokov sedí na pobreží Simiry 
 
 Ale Ishtar nič nespustila. Nikdy. Lebo je izolacionistka. A tak ju nechali sedieť. Tisíce rokov. V presvedčení, že je šachová majsterka. Kým Apes hrali na úplne inej doske.
 
-**Toto je najväčšia irónia celého sveta:** Archanjel, ktorý si myslí, že je najchytrejší v miestnosti, je jediný, kto nevie, čo sa naozaj deje. Ishtar hrá šach. Apes hrajú Go. Na úplne inej doske. S úplne inými figúrkami.
+**Toto je najväčšia irónia celého sveta:** Archbés, ktorý si myslí, že je najchytrejší v miestnosti, je jediný, kto nevie, čo sa naozaj deje. Ishtar hrá šach. Apes hrajú Go. Na úplne inej doske. S úplne inými figúrkami.
 
 ### Prečo toto mení všetko
 

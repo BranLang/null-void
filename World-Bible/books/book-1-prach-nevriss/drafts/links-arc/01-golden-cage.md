@@ -106,7 +106,7 @@ Erol sa oprel. „Tvrdíte v nej, že posvätné texty — modlitby k Vševedúc
 
 „Správne, Majster."
 
-„Tvrdíte, že Archanjeli — bytosti, ktoré Terra uctieva ako božstvá — boli *technici*. Správcovia systému. Administrátori."
+„Tvrdíte, že Archbési — bytosti, ktoré Terra uctieva ako božstvá — boli *technici*. Správcovia systému. Administrátori."
 
 Links cítil, ako sa mu napla čeľusť. „Tvrdím, že *Genesis.sh* nie je žalm, Majster. Je to inicializačný skript. Ak by sme zmenili parameter *Growth_Rate* z 1.0 na 1.5, teoreticky by sme mohli zrýchliť rast úrody na juhu trojnásobne. Je to kód. Fungujúci kód."
 

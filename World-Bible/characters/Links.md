@@ -64,7 +64,7 @@
 **Štúdium & Zlomová Práca:**
 - **Wraithológia:** História, správanie, slabiny Wraithov
 - **Linux:** Programovací jazyk nanobotov (základy Haiku skriptu)
-- **História Zeme:** Archanjeli, Ex Inferis, pád civilizácie
+- **História Zeme:** Archbési, Ex Inferis, pád civilizácie
 - **Záverečná práca (v 20 rokoch):** *"What If the Gods Left Source Code?"*
     - **Teória:** Navrhol vytvorenie **Translation Enginu**, ktorý by dokázal rozlúštiť source code Gen 2 na základe poznatkov z Gen 1.
     - **Hypotéza:** Gen 2 je ľahší na výrobu pretože nepotrebuje fyzické komponenty a vyžaduje minimálne množstvo vstupnej energie (efektivita kódu vs hrubá sila).

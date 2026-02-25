@@ -15,7 +15,7 @@ All character profiles have been moved to the `characters` directory.
 - [Zaya](./characters/Zaya.md)
 - [The Void](./characters/TheVoid.md)
 - [Coordinator](./characters/Coordinator.md)
-- [Archanjeli Lore](./characters/Archanjeli_Lore.md)
+- [Archbési Lore](./characters/Archdemons_Lore.md)
 
 - [Renn](./characters/Renn.md)
 

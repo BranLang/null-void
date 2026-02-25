@@ -63,7 +63,7 @@ MARKDOWN_PATTERNS = [
 WHITELIST = {
     # Characters
     "maks", "kaito", "elania", "yera", "tami", "otami",
-    "spira", "varietas", "archanjel", "archanjeli",
+    "spira", "varietas", "archbés", "archbési",
     "wraith", "wraithy",
     "sera", "kito", "maya", "borg", "nix", "renn", "dren",
     "yara", "arkot", "flint", "rau", "vlk", "felix",

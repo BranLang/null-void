@@ -109,7 +109,7 @@ GRIMDARK         NEUTRÁL         ANIME HUMOR
 
 - **Účel:** Dôsledky majú váhu. Svet je reálny. Stávky sú skutočné.
 - **Typy:**
-  - Inštitucionálne násilie — verejné popravy a vystavenia tiel, kastový systém, Blood Harvest Archanjelov
+  - Inštitucionálne násilie — verejné popravy a vystavenia tiel, kastový systém, Blood Harvest Archbésov
   - Body horror — Maya kryštalizácia, Glitch Rot, Blood Ritual sebazranenie
   - Morálny kompromis — Maks zabíja rutinne, Tami pragmaticky akceptuje násilie
   - Psychologická tma — Elania nihilizmus, 2750 rokov samoty

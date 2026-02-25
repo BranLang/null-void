@@ -111,11 +111,11 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 |---|---|---|---|
 | Machine | Machina → Makina | **Maki** (mn.č.) / **Mako** (j.č.) | Androidi — "Stroje" |
 | — | — | **Varietas** | Hybridná rasa ľudí so zvieracími črtami |
-| — | — | **Archanjeli** / **Ex Inferis** | Nesmrteľní pozemšťania |
+| — | — | **Archbési** / **Ex Inferis** | Nesmrteľní pozemšťania |
 
 ### Maki / Mako
 - **Pôvod**: *Machine* (angl.) → *Machina* (lat.) → *Makina* → **Maki** (mn.č.) / **Mako** (j.č.)
-- **Kontext**: Na celom Nevriss žije presne 5 funkčných Makov. Sú vzácnejší než Archanjeli.
+- **Kontext**: Na celom Nevriss žije presne 5 funkčných Makov. Sú vzácnejší než Archbési.
 
 ---
 
@@ -181,7 +181,7 @@ Všetky jazyky na Achilles pochádzajú z angličtiny (Staroreč), ale za 3000 r
 
 ### Staroreč (Old Tongue)
 - **Čo je to**: Angličtina — mŕtvy jazyk, ako latinčina v stredoveku
-- **Kto hovorí**: Len Ex Inferis (Archanjeli) a Maki (RP English)
+- **Kto hovorí**: Len Ex Inferis (Archbési) a Maki (RP English)
 - **Status**: Občas spoznáš slovo, ale nedorozumieš sa
 
 ### Nevriss (jazyk)
@@ -232,7 +232,7 @@ Všetky jazyky na Achilles pochádzajú z angličtiny (Staroreč), ale za 3000 r
 Inetis navrhla UI pre Spiru inšpirované japonskou kultúrou (jej matka bola Japonka). Varietas si toto písmo osvojili. Pre nich je to posvätný jazyk bohov — nevedia, že je to japonský dizajn.
 
 ### Prečo Haiku?
-Gen 2 Spira sa programuje haiku syntaxou — japonskou poéziou. Inetis to zvolila, pretože len ona a mŕtvi pozemšťania rozumeli japončine. Archanjeli (Ex Inferis), ktorí hovoria Starorečou (angličtinou), nemajú prístup.
+Gen 2 Spira sa programuje haiku syntaxou — japonskou poéziou. Inetis to zvolila, pretože len ona a mŕtvi pozemšťania rozumeli japončine. Archbési (Ex Inferis), ktorí hovoria Starorečou (angličtinou), nemajú prístup.
 
 ---
 
@@ -273,7 +273,7 @@ Achilles má odlišnú rotáciu aj orbitálnu periódu než Zem. Niektoré pozem
 | **Saiový cyklus** | ~20 hodín | Jeden kompletný obeh Sai — najbližší ekvivalent "dňa", ale nie je totožný s rotáciou planéty |
 
 ### Poznámky
-- **Archanjeli a Maki** stále používajú pozemské jednotky (roky, dni) — sú to nesmrteľní pozemšťania, pre ktorých je to natívny systém.
+- **Archbési a Maki** stále používajú pozemské jednotky (roky, dni) — sú to nesmrteľní pozemšťania, pre ktorých je to natívny systém.
 - **Varietas** nemajú pojem "rok" — ich najdlhšia bežná časová jednotka je **zima**. Stáročia a tisícročia sú abstraktné ("časy pred", "dávno").
 - **Kultúrny konflikt**: Keď Maks (pozemšťan) hovorí "pred tridsiatimi rokmi", Varietas nerozumejú. Keď Tami hovorí "štyri zimy", Maks musí počítať.
 

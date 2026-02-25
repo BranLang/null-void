@@ -23,7 +23,7 @@ Spoza rohu vyšla vec, čo bola kedysi Varietas.
 
 Experiment. Jeden. Sám — odrezaný od ostatných, stratený v tuneloch, zlákaný zvukom jej krokov. Telo mačky — nie. *Telo, čo si pamätalo, že bolo mačkou.* Koža nahradená fialovými kryštálovými výrastkami, oči — príliš veľa očí — rozložené po hlave ako kvety. Z papule mu kvapkala tekutina, čo sa leptala do podlahy. Jedna predná labka — väčšia, než mala byť — sa zdvihla a zavesila vo vzduchu. [NOTE: Experiment z Ch3 — mutovaný Varietas, produkt zakázaného výskumu. Tami ich zabíjala v Ch3 s triaškami. Teraz nie.] [→ 03-tunnels.md: Experimenty — Dren, Yara, tretia — Kitovi priatelia]
 
-Tami nedvihla pušku.
+Tami nezdvihla pušku.
 
 V tuneloch, keď zabíjala Experimenty s Maksom — triasla sa. Lebo to boli *oni*. Dren. Yara. Kitovi priatelia. *Jej* ľudia. Triasla sa a svetielko neprichádza, keď sa trasieš. Roky tréningu, tisíce žabiek na jazere — a nič z toho nefunguje, keď tvoja ruka nevie, či chce zabiť alebo plakať.
 
@@ -198,7 +198,7 @@ Schody sa skončili.
 
 Maks vykročil do priestoru, ktorý nemal čo existovať pod mestom.
 
-Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky stôp nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archanjelov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
+Jaskyňa. Nie komora, nie sála — *jaskyňa*. Strop sa strácal v tme desiatky stôp nad jeho hlavou. Steny sa rozbiehali do strán tak ďaleko, že ich videl len ako hmlisté obrysy v slabom svetle. Priestor tak veľký, že v ňom Chrám Matky mohol stáť celý — i s vežou, i s kupolou — a ešte by zostalo miesto na námestie okolo neho. [NOTE: Podzemná jaskyňa epických rozmerov — predchádzajúca Chrám, predchádzajúca mesto. Šoraven bolo posvätné miesto, kde Inetis ukončila vojnu Varietas a Archbésov. Jaskyňa slúžila ako útočisko pred zimou v pradávnych časoch.] [→ 09-event-database.md: Šoraven — miesto mieru, kde Inetis uzavrela prímerie]
 
 A svietilo to.
 

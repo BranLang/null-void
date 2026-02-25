@@ -124,7 +124,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 
 **Lore Notes:**
 - **Staroreč (Angličtina)** = mŕtvy jazyk Prvej Éry, ekvivalent latinčiny. Nikto živý ňou nehovorí. Maki ju citujú mechanicky. Kito pochopil: kto ňou hovorí plynulo, nie je smrteľný.
-- **Štyri Príchody:** 1. Matka (Inetis), 2. Archanjeli, 3. [zakázaný], 4. Spáč (Maks)
+- **Štyri Príchody:** 1. Matka (Inetis), 2. Archbési, 3. [zakázaný], 4. Spáč (Maks)
 - **Maya:** Pursang, Kitova žena. Našla zakázané skriptá, pomýlila sa v jednom slove → nekonečná Spira slučka → premena mäsa na kameň
 - Karakuri dal Tami hint na Kita (meno "Ciferník" + adresa)
 - Nadel = Tamina rapier (nemecké meno, Felix legacy)
@@ -140,7 +140,7 @@ Links Arc je vsadený **medzi** Heist a Noc Hrdinov. Chronologicky sa odohráva 
 - ❌ "rapier" (generic) → ✅ "Nadel" (proper name, introduced)
 - ❌ "pazúrom" → ✅ "prstom" (humanizácia Kita)
 - ❌ "zaskuwičal" → ✅ "zavzlykal" (správna slovenčina)
-- ❌ "Archaniela" → ✅ "Archanjela" (správny pravopis)
+- ❌ "Archaniela" → ✅ "Archbésa" (správny pravopis)
 - ❌ Raw notes bez diakritiky → ✅ Plne leštená próza
 - ❌ Rýchla Kito-Maya rozlúčka → ✅ Expanded emotional beat
 
@@ -362,7 +362,7 @@ Pôvodný obsah archivovaný v: `archive/04-kaplnka-original.md`
 ## Links Ch1: The Golden Cage (links-arc/01-golden-cage.md)
 
 **Key Events:**
-- Links defends thesis: "Gods Left Source Code" (Archanjeli = Admini)
+- Links defends thesis: "Gods Left Source Code" (Archbési = Admini)
 - Erol grants him title **Scholaris**
 - Links experiences Ludus stagnation (perfect but dead)
 - Father gives him **Hover-Skiff Icarus-IV**

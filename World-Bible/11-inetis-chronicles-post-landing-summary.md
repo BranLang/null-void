@@ -1,6 +1,6 @@
 # NULL VOID: Kronika Achilla a Tajomstvá minulosti
 
-Tento dokument je konsolidovaným prehľadom kľúčových udalostí, postáv a technologických konceptov ságy **NULL VOID**. Zachytáva hĺbku sveta Achilles (Kepler-452b), od prvotnej izolácie až po rúcajúce sa impériá Archanjelov.
+Tento dokument je konsolidovaným prehľadom kľúčových udalostí, postáv a technologických konceptov ságy **NULL VOID**. Zachytáva hĺbku sveta Achilles (Kepler-452b), od prvotnej izolácie až po rúcajúce sa impériá Archbésov.
 
 ---
 
@@ -77,7 +77,7 @@ Maks kľačí pri kostre Inetis, ktorá zomrela v agónii, opretá o jeho kryobo
 ## 5. Kráľovstvo Zayi (Prehnitý Raj)
 Maks a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Maks je presvedčený, že našiel svoju dcéru Eleniu.
 
-*   **Bozk zrady:** Zaya (v skutočnosti Archanjel **Ishtar**) Chce Maxove "čisté" nanity na vyliečenie vlastného rozkladu.
+*   **Bozk zrady:** Zaya (v skutočnosti Archbés **Ishtar**) Chce Maxove "čisté" nanity na vyliečenie vlastného rozkladu.
 *   **Pád Ružového kráľovstva:** Keď Maks odmietne jej lásku a žiada informácie o dcére, Zaya sa mení na monštrum. Púšťa **Smrtiacu hmlu** (Gray Goo), ktorá rozkladá všetko v okolí.
 *   **Anténa Protiútok:** Maks aktivuje palicu, vytvára tunel kyanového svetla v hmle a neutralizuje Zayu. Tyranku nakoniec pohlcuje dav jej vlastných otrokov.
 *   **Cesta do Ynetis:** Oslobodení Varietas odovzdávajú Maksovi mapu do **Ynetis** – mesta, kde Elania (Gatekeeper) plače prachom.

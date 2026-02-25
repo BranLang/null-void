@@ -47,9 +47,9 @@ graph TD
 
 ### Konflikt
 - Boj s Grawskou armádou a Kultom Matky
-- Maks vs. Grond (Archanjel Vojny)
+- Maks vs. Grond (Archbés Vojny)
 
-### Grond (Archanjel Vojny) — nie boss fight, nie antagonista
+### Grond (Archbés Vojny) — nie boss fight, nie antagonista
 - Čitateľ ho nepozná — Grond je sila prírody, kataklizmus, nie osobný nepriateľ
 - Zabitý Maksom v Ch.5 Blood Ritual (nanodronový roj, 6 km, 7 sekúnd)
 - **Možný Grond POV chapter** — dať mu hlas, ukázať vojnového boha zvnútra (paranoja, rozpadajúce sa telo, posledná noc)
@@ -77,7 +77,7 @@ graph TD
 - Tami v Nevriss City — vstup do srdca Kultu Matky
 - **Nevriss City:** Požehnaná Matka (Mormiel) si vyberie Tami na Rituál Nástupníctva. Tami a Maks nevedia, že rituál je pohltenie. Mormiel chce Taminu Spiru — najsilnejšiu od čias Inetis.
 
-### Boss: **Mormiel** (Požehnaná Matka / 4. Archanjel)
+### Boss: **Mormiel** (Požehnaná Matka / 4. Archbés)
 - Odhalenie pravej identity — nie svätá matka, ale predátorka s 23 pohltenými identitami
 - Rituál Nástupníctva ako centrálna hrozba
 
@@ -99,7 +99,7 @@ graph TD
 - **Mesto Zrkadiel (Zayina doména):** Miesto ilúzií a neuro-hackingu.
 - **Ynetis (Mesto Duchov):** Čiastočne zarastený ostrov plný rogue AI (Duchovia).
 
-### Boss: **Zaya** (Archanjel Pôžitku)
+### Boss: **Zaya** (Archbés Pôžitku)
 - Útok na Maksovu psychiku cez ilúziu dcéry/dokonalej rodiny
 - Neutralizovaná Maksom, pohltená vlastnými otrokmi
 

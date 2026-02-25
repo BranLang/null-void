@@ -268,7 +268,7 @@ Keď v 15 odišla od Maksa — zlomená srdcom, nahnevaná — nemala kam ísť.
 Maks bol v podstate **už mŕtvy** — spal vedľa Inetis v Jaskyni Ela, v pokoji. Pirát **Kael** prerušil jeho odpočinok (~AY 3000), keď s Vixom zabil Renna a ukradol mapu k jaskyni. Piráti našli Maksa v snehu — slepého, s amnéziou — a vytiahli ho von.
 
 Za 13 rokov (~AY 3000–3013) Maks **dal do pohybu veci, ktoré by Tami sama nedokázala**:
-- **Zabil Samaella** — odstranil jedného z posledných Archanjelov
+- **Zabil Samaella** — odstranil jedného z posledných Archbésov
 - **Zabil Gronda** — skoncoval s vojnou na severe
 - **Zabil pirátov Vixa a Kaela** — pomstil Renna (aj keď o tom nevedel)
 - **Vychoval Tami** — 7 rokov tréningu. Pripravil ju na jej veľkú rolu.

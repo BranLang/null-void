@@ -164,6 +164,39 @@
 
 ---
 
+## Klasifikácia Entít (Apes Intel)
+
+> Apes nepoužívajú cirkevné termíny Varietas ("Archbés", "Požehnaná Matka"). Sú vedci — klasifikujú hrozby podľa dát, nie podľa mýtov.
+
+### Terminológia
+- **Entita** — Apes označenie pre tisícročné bytosti s Gen 1 nanotechom (to, čo Varietas volajú "Archbési"). Neutrálny, vedecký termín. Uznáva, že tieto bytosti sa vymykajú bežnej klasifikácii.
+- **Menšie entity** — Jedinci s nadštandardnými schopnosťami (Spira majstri, strážcovia katakomb, gladiátori). Apes na nich majú zložky — dáta dodáva Zaya.
+
+### Databáza Entít
+
+| Entita | Apes klasifikácia | Stav | Zdroj intelu |
+|---|---|---|---|
+| **Grond** | Entita — Sever (Graw) | Mŕtvy (AY 3013) | Archívy + Zaya |
+| **Samaell** | Entita — Pustatina | Mŕtvy (AY 3001) | Archívy + Zaya |
+| **Ishtar/Zaya** | Entita — Juh (Sklené Mesto) | Aktívna — spolupracuje | Priamy kontakt |
+| **Elania** | Entita — Neuropa (Veža Zatratených) | Aktívna | Zaya (fragmenty) |
+| **Mormiel** | **Neklasifikovaná** | Aktívna — nedostatok dát | Zaya (varovanie) |
+| **Sera** | Entita — pri Elanii | Aktívna | Archívy (vizuálny záznam) |
+
+### Mormiel — Neznáma
+- Goro vie, *že* existuje (od Zayi), ale nevie *čo* je
+- Nemá klasifikáciu — nemá dosť dát
+- Zaya varuje: *"nie je to svätá žena"* — ale ani ona nemá kompletný profil
+- Pre Gora najnebezpečnejší typ hrozby: **neznáme neznáme**
+- V dialógu nikdy nepoužíva meno ani titul — len *"ona"*
+
+### Menšie entity (príklady z databázy)
+- **Kael** — gladiátor, Ludus. Zložka od Zayi.
+- **Strážcovia katakomb Šoravenu** — 2 Spira majstri. Dáta od Zayi.
+- Apes majú zložky na desiatky jedincov po celej Terre — všetko cez Zayinu sieť
+
+---
+
 ## Vzťahy
 
 ### Rau & Kira (Paladíni)
@@ -171,10 +204,12 @@
 - **Kira (Cobalt Guard):** Veliteľka Modrej Gardy. Strieborná zbroj, modrý chochol. Defenzívna špecialistka, Gorov "Štít".
 - **Vzájomný rešpekt:** Goro ich neverbaluje — pozná ich schopnosti. Sú to najlepší z najlepších.
 
-### Zaya (Ishtar)
-- **Komunikácia:** Má holografické spojenie s ňou
-- **Opatrná spolupráca:** Neveria si úplne, ale majú spoločné záujmy
-- **Intel o Terre:** Zaya mu poskytuje informácie o kontinente
+### Zaya (Ishtar) — Spymaster
+- **Komunikácia:** Holografické spojenie (pravidelné briefy)
+- **Zaya = spravodajský asset Apes:** Má špionážnu sieť po celej Terre — oči v mestách, v Luduse, medzi gildami, dokonca v cirkvi
+- **Obojstranná hra:** Zaya si myslí, že manipuluje Apes. Goro to vie. Apes overujú jej dáta vlastnými modelmi (*"Jej dáta sedia s našimi modelmi"*). Obaja sa potrebujú — Goro potrebuje oči na kontinentoch, Zaya potrebuje Apes technológiu
+- **Intel tečie cez ňu:** Informácie o entitách, politickej situácii na Terre, vojenských pohyboch, kľúčových jedincoch
+- **Dôvera:** Limitovaná. Goro jej dáva presne toľko, koľko potrebuje. Ani o kúsok viac
 
 ### Elania
 - **Záujem:** Vie o nej málo, ale zaujíma ho jej technológia
@@ -182,7 +217,7 @@
 - **Ale:** Elania má Seru. To mení všetko.
 
 ### Sera ("Tenshi no Shi" — Anjel Smrti)
-- **Legenda:** Piaty Archanjel v očiach Apes — horšia než ostatní štyria
+- **Legenda:** Piaty Archbés v očiach Apes — horšia než ostatní štyria
 - **Prečo:** Nie je Ex Inferis (žiadne slabiny), čistý Gen 1 nanotech, 3200 rokov
 - **Intel:** Goro má záznamy. Videli ju bojovať. *Raz stačilo.*
 - **Rešpekt:** Goro ju nepodceňuje — je to jediná bytosť, ktorej sa skutočne bojí
@@ -361,7 +396,7 @@ Zaya "poskytuje Gorovi intel o Terre." Myslí si, že je informátorka. V skuto�
 
 ### Hľadané
 - **Nanotechnológie:** Fundamentálne pochopenie
-- **Predĺženie života:** Aby Apes mohli súťažiť s Archanjelmi
+- **Predĺženie života:** Aby Apes mohli súťažiť s Archbésmi
 - **Anténa:** Kľúč k ovládaniu veľkých rojov nanobotov
 
 ### Chýbajúce
