@@ -19,22 +19,36 @@ def clean_markdown_general(text):
         if len(parts) >= 3:
             text = parts[2]
 
+    # Remove the POV/Location/Time/Mood metadata block common in drafts
+    text = re.sub(r'\*\*POV\*\*:.*?\n---\n', '', text, flags=re.DOTALL)
+    text = re.sub(r'\*\*POV\*\*:.*?\n\n', '', text, flags=re.DOTALL) # Alternative format without ---
+
     text = re.sub(r'<div class="image-wrapper">.*?</div>', '', text, flags=re.DOTALL | re.IGNORECASE)
     text = re.sub(r'<!--.*?-->', '', text, flags=re.DOTALL)
     text = re.sub(r'!\[.*?\]\(.*?\)', '', text)
+    
     # Strip inline comments (lore refs, notes, todos)
-    text = re.sub(r'\[→[^\]]*\]', '', text)
-    text = re.sub(r'\[NOTE:[^\]]*\]', '', text)
-    text = re.sub(r'\[TODO:[^\]]*\]', '', text)
-    text = re.sub(r'\[FIXME:[^\]]*\]', '', text)
+    text = re.sub(r'\[→[^\]]*\]', '', text, flags=re.DOTALL)
+    text = re.sub(r'\[NOTE:[^\]]*\]', '', text, flags=re.DOTALL)
+    text = re.sub(r'\[TODO:[^\]]*\]', '', text, flags=re.DOTALL)
+    text = re.sub(r'\[FIXME:[^\]]*\]', '', text, flags=re.DOTALL)
+    
+    # Blockquotes with > needs to be removed entirely if it's just lore/quote, but if it's text we just strip the >
+    # Actually, looking at the chapter, the blockquote at the top is a lore quote. We should just strip the > character itself so the TTS reads it without saying "greater than"
+    text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)
+    
+    # Text formatting
     text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
     text = re.sub(r'\*(.*?)\*', r'\1', text)
     text = re.sub(r'_(.*?)_', r'\1', text)
-    text = re.sub(r'^---\s*$', '', text, flags=re.MULTILINE)
+    
+    # Horizontal rules
+    text = re.sub(r'^---+\s*$', '', text, flags=re.MULTILINE)
     text = re.sub(r'^\*\*\*\s*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'^>\s*', '', text, flags=re.MULTILINE)
+    
     # Convert pause markers (...) to empty space (TTS will pause naturally)
     text = re.sub(r'^\.\.\.\.*\s*$', '', text, flags=re.MULTILINE)
+    
     # Clean up excessive whitespace
     text = re.sub(r'\n{4,}', '\n\n\n', text)
     text = re.sub(r'^\s+$', '', text, flags=re.MULTILINE)

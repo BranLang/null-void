@@ -1,4 +1,4 @@
-> *„Blahoslavená je dcéra, ktorá svieti pre svoj klan. Beda dcére, ktorá svieti len pre seba."*
+> *„Blahoslavená je dcéra, ktorá svieti pre svoj ľud. Beda dcére, ktorá svieti len pre seba."*
 > — Kniha El, 2:16
 
 # Kapitola 2: Prvé Svetlo
