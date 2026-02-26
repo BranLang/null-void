@@ -468,13 +468,13 @@ Za viečkami — fialové žilky. Pomalé. Trpezlivé. Čakajúce.
 
 [TODO: Zvážiť, či pridať krátku dennú scénu s otcom — Saéli dynamika, ďalší tlak. Alebo nechať minimalistické — otec existuje len cez absenciu.]
 
-[TODO: V Ch4 (alebo 03.5-rozlucka) — Arkot odíde. Yera sa rozhodne. Nie aktívne — reaktívne. Svet vyberie za ňu.]
+[TODO: V Ch4 (alebo 03.5-farewell) — Arkot odíde. Yera sa rozhodne. Nie aktívne — reaktívne. Svet vyberie za ňu.]
 
-[→ Celá kapitola vychádza z books/planning/nyau-arc/03-pokusenie.md — 7-scénový plán]
+[→ Celá kapitola vychádza z books/planning/nyau-arc/03-temptation.md — 7-scénový plán]
 [→ Kniha El: the-book-of-El.md — apokryfy, šifry, haiku, posledný zápis]
 [→ Yera voice: characters/Yera.md — tichá, premyslená, otázky nie tvrdenia, dvojité mlčanie]
 [→ Arkot: characters/Arkot.md — navigátor, kurzy, smer, pragmatik]
 [→ Soril: characters/Soril.md — prísna mentorka, Strážkyňa, kontrola cez detaily]
 [→ Podzemná knižnica: regions/nyau.md — tajná knižnica pod chrámom El]
 [→ Kvintesencia tréning: 03-technology.md — piaty element, vedomie, kľúč ku Core]
-[→ Kontaminácia: books/planning/nyau-arc/03-pokusenie.md — kľúčový motív kapitoly]
+[→ Kontaminácia: books/planning/nyau-arc/03-temptation.md — kľúčový motív kapitoly]

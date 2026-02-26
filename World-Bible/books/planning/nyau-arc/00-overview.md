@@ -38,13 +38,13 @@
 
 ### Kapitola 2: Čierna Kniha El *(Revelation)*
 > Soril pristihne Yeru s Arkotom. Namiesto trestu — odvedie ju pod chrám. Odhalí originálnu Knihu El, Kvintescenciu, Samaellov portrét. „Bola som ako ty." Dva opačné závery z jedného textu.
-> - **Draft:** `03-cierna-kniha.md` (kompletná próza)
+> - **Draft:** `03-black-book.md` (kompletná próza)
 > - **Planning:** → `02-cierna-kniha.md`
 
 ### Kapitola 3: Pokušenie *(Rising Tension — NOVÁ)*
 > Yera medzi dvoma svetmi. Každú noc má oboje: tajné čítanie Knihy El (apokryfy, šifry, Elaniin denník) a stretnutia s Arkotom v záhrade. Nevie sa rozhodnúť. Aj keď je s Arkotom, myslí na Knihu. Aj keď číta Knihu, myslí na Arkota. Dva ťahy — pravda a láska — ju trhajú na polovicu.
 > - **Draft:** žiadny — nutné napísať
-> - **Planning:** → `03-pokusenie.md`
+> - **Planning:** → `03-temptation.md`
 
 ### Interludium: Itaka v prístave *(POV Switch)*
 > Arkot & Flint vidia Itaku v prístave. Flint sa prihovorí Tami. Dostanú miesto na palube. Arkot ide povedať Yere — foreshadowing rozlúčky.
@@ -53,7 +53,7 @@
 
 ### Kapitola 4: Útek — Krádež *(Climax + Resolution)*
 > Rozlúčka s Arkotom. Soril degraduje Yeru. Týždeň tichej prípravy. Noc krádeže — peniaze, vlasy, neviditeľnosť, Kniha. Útek z Nyau. Beladiss. Tami. „Štvrtá kajuta, ľavá strana."
-> - **Drafty:** `03.5-rozlucka.md` (kompletná próza), `04-kradzez.md` (kompletná próza)
+> - **Drafty:** `03.5-farewell.md` (kompletná próza), `04-the-heist.md` (kompletná próza)
 > - **Planning:** → `04-utek-kradez.md`
 
 ---

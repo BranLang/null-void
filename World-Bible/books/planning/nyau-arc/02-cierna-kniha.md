@@ -12,7 +12,7 @@
 | **Lokácia** | Nyau — chrámová záhrada → podzemná knižnica pod chrámom El |
 | **Čas** | ~AY 3011, niekoľko mesiacov po festivale |
 | **Nálada** | Napätá, odhaľujúca — intímna tma pod chrámom, dve ženy a jedna kniha |
-| **Existujúci draft** | `03-cierna-kniha.md` (kompletná próza, ~275 riadkov) |
+| **Existujúci draft** | `03-black-book.md` (kompletná próza, ~275 riadkov) |
 
 ---
 
@@ -97,7 +97,7 @@
 
 | Scéna | Draft | Status |
 |---|---|---|
-| Pristihnutá + Podzemie + Kniha + Samaell + Paradox + Priznanie | `03-cierna-kniha.md` | ✅ Kompletná próza |
+| Pristihnutá + Podzemie + Kniha + Samaell + Paradox + Priznanie | `03-black-book.md` | ✅ Kompletná próza |
 
 **Poznámka:** Draft je veľmi silný a takmer finálny. Sorilino priznanie je emocionálne jadro kapitoly.
 

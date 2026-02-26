@@ -170,5 +170,5 @@ Scéna 7: Posledná noc v podzemí ─────────── Rozlúčka 
 - [→ `characters/Arkot.md`: navigátor, kurzy, smer, „cítim že to nie je len obloha"]
 - [→ `characters/Soril.md`: dala Yere prístup — pedagogický akt, ktorý sa obráti]
 - [→ `02.5-interlude-itaka.md`: Itaka v prístave — Arkotova zmienka v scéne 6]
-- [→ `03.5-rozlucka.md`: rozlúčka s Arkotom — priamo nasleduje po tejto kapitole]
+- [→ `03.5-farewell.md`: rozlúčka s Arkotom — priamo nasleduje po tejto kapitole]
 - [→ `regions/nyau.md`: podzemná knižnica, bioluminiscencia, nočná záhrada]

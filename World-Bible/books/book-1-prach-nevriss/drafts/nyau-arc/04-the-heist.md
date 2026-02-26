@@ -106,7 +106,7 @@ Yera išla k chrámu. [NOTE: Najprv chrám — potom prístav. Poradie je dôle�
 
 Chrámová záhrada bola prázdna.
 
-Tá lavička. Bez zastavenia, bez pohľadu. Prešla popri nej ako popri cudzom kusu dreva — lebo to tak teraz bolo. Len kus dreva na nohách. [→ 03.5-rozlucka.md: „lavička vyzerala menšia cez deň než v tme. Len kus dreva na nohách." — rovnaký obraz, teraz definitívny]
+Tá lavička. Bez zastavenia, bez pohľadu. Prešla popri nej ako popri cudzom kusu dreva — lebo to tak teraz bolo. Len kus dreva na nohách. [→ 03.5-farewell.md: „lavička vyzerala menšia cez deň než v tme. Len kus dreva na nohách." — rovnaký obraz, teraz definitívny]
 
 Bočné dvere do chrámu. Kľúč — ten čo mala od prvého dňa tréningu.
 

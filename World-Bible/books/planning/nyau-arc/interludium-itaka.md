@@ -95,6 +95,6 @@ Alebo alternatívne: Interludium ako celok medzi Ch3 a Ch4.
 - [→ `characters/Arkot.md`: navigátor, Beladiss, tichý, priamy]
 - [→ `characters/Flint.md`: impulzívny, lojalita, najrýchlejšia ruka]
 - [→ `characters/Tami.md`: Rennov štýl, modré oči, veliteľ]
-- [→ `03-pokusenie.md`: Arkotova zmienka o Itake v scéne 6]
-- [→ `03.5-rozlucka.md`: priamo nasledujúce — „Flint mi vybavil miesto"]
+- [→ `03-temptation.md`: Arkotova zmienka o Itake v scéne 6]
+- [→ `03.5-farewell.md`: priamo nasledujúce — „Flint mi vybavil miesto"]
 - [→ `books/planning/itaka-arc/00-overview.md`: posádka Itaky]

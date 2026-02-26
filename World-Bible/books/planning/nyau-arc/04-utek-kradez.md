@@ -12,7 +12,7 @@
 | **Lokácia** | Nyau — záhrada → Sorilina pracovňa → vila Saéli → chrámové podzemie → prístav → Beladiss → Itaka |
 | **Čas** | ~AY 3011–3012, od rozlúčky s Arkotom po nástup na Itaku |
 | **Nálada** | Zlomená ticho → studený zlom → precízna príprava → noc krádeže → definitívny odchod |
-| **Existujúce drafty** | `03.5-rozlucka.md` (kompletná próza, ~122 riadkov), `04-kradzez.md` (kompletná próza, ~243 riadkov) |
+| **Existujúce drafty** | `03.5-farewell.md` (kompletná próza, ~122 riadkov), `04-the-heist.md` (kompletná próza, ~243 riadkov) |
 
 ---
 
@@ -166,10 +166,10 @@ Soril zistí krádež na rutinnej mesačnej kontrole:
 
 | Scéna | Draft | Status |
 |---|---|---|
-| A: Rozlúčka (scény 1–5) | `03.5-rozlucka.md` | ✅ Kompletná próza |
-| B: Zlom (scéna 6–7) | `04-kradzez.md` (úvod) | ✅ Kompletná próza |
-| C: Noc krádeže (scény 8–11) | `04-kradzez.md` (jadro) | ✅ Kompletná próza |
-| D: Beladiss + Itaka (scény 12–13) | `04-kradzez.md` (záver) | ✅ Kompletná próza |
+| A: Rozlúčka (scény 1–5) | `03.5-farewell.md` | ✅ Kompletná próza |
+| B: Zlom (scéna 6–7) | `04-the-heist.md` (úvod) | ✅ Kompletná próza |
+| C: Noc krádeže (scény 8–11) | `04-the-heist.md` (jadro) | ✅ Kompletná próza |
+| D: Beladiss + Itaka (scény 12–13) | `04-the-heist.md` (záver) | ✅ Kompletná próza |
 
 **Poznámka:** Oba drafty sú silné a takmer finálne. Draft 03.5 (Rozlúčka) je jednou z najlepších scén arcu — tichá, bolestivá, bez dramatiky. Draft 04 (Krádež) má vynikajúcu precíznosť a tempo.
 
