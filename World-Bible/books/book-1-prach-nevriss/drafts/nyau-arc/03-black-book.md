@@ -144,7 +144,7 @@ Poznala ho. Nie z teológie — nie z Sorilinich hodín o piatich elementoch vie
 
 V rohu strany, drobne, v Staroreči: *architecture.*
 
-Jedno slovo. Elaniin rukopis. Yera ich prečítala a niečo sa v nej potichu prevrátilo — nie dramaticky, nie so zvukom, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život.
+Jedno slovo. Elaniin rukopis. Yera ho prečítala a niečo sa v nej potichu prevrátilo — nie dramaticky, nie so zvukom, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život.
 
 Fialové žilky v obale blikli — rýchlejšie na sekundu, dve — a vrátili sa k pôvodnému rytmu. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
 

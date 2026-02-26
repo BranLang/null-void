@@ -48,7 +48,9 @@ Pod maskami. Na jednu noc. Symbolicky.
 
 Yera stisla ruky v lone. Pazúry — jemné, krátke, tmavé — sa zaťali do hodvábu.
 
-Otec sa k nej naklonil. „Posledný festival pred zasvätením," povedal tichšie. Nie smutne — vecne. Konštatovanie, nie lúčenie. „Užívaj si ho."
+Otec sa k nej naklonil. Neusmial sa. Jeho pohľad ani na sekundu neskĺzol k lampiónom.
+
+„Posledný festival pred zasvätením," povedal tichšie. Nie smutne — vecne. Konštatovanie, nie lúčenie. Jeho hlas mal presne ten tón, ktorým Saéli preberali obchodné zmluvy. „Užívaj si ho."
 
 *Užívaj si ho.* Zhora. Z balkóna. V správnych šatách, v správnej farbe, vedľa správnych ľudí. Ako vždy. Yera sa na lampióny dívala a premýšľala, koľko z nich sa vznieslo z rúk ľudí, ktorí sa dnes v noci prvýkrát dotknú. Koľko z nich stúpa nahor s prianím, na ktoré ešte neexistujú slová. Koľko z nich nesie v sebe túžbu, o ktorej ich majiteľ ráno nebude chcieť hovoriť.
 
@@ -70,7 +72,7 @@ Na konci schodov boli ulice. A v uliciach bol svet.
 
 Prvých päť krokov bolo najťažších.
 
-Nie fyzicky — fyzicky bolo všetko ľahšie. Sai v zenite, ľahká hodina. Telo plavalo. Každý krok bol plynulý, takmer tanečný — akoby ju vzduch niesol. [→ 05-geography.md: Sai v zenite — gravitácia ~1.0g, ľahká hodina]
+Nie fyzicky — fyzicky bolo všetko ľahšie. Sai v zenite, ľahká hodina. Telo plávalo. Každý krok bol plynulý, takmer tanečný — akoby ju vzduch niesol. [→ 05-geography.md: Sai v zenite — gravitácia ~1.0g, ľahká hodina]
 
 Ťažké bolo iné. Prvýkrát v živote stála na uliciach Nyau v noci bez sprievodu. Bez strážkyne. Bez klanového plášťa, bez Saéli mena na tvári. V tyrkysových hodvábnych šatách, áno, ale bez znaku, bez výšivky — zvyšok klanu mal na hrudi klanové emblémy. Yera ich nemala. Soril ich nedovolila — *kňažky nepotrebujú klanové znaky. Kňažky patria El, nie klanu.*
 
@@ -106,15 +108,13 @@ Prešla popri stánku s maskami. Drevené, maľované, lakované — zvieracie t
 
 Yera kúpila masku. Nie — kúpiť by znamenalo mať peniaze. Predavač ju zbadal bez masky, zbadal šaty, zbadal bosé nohy, a podal jej jednu zadarmo. Bielu. Mačaciu. S modrými očami namaľovanými na mieste, kde by boli skutočné.
 
-Nasadila si ju. Svet sa zmenil.
+Nasadila si ju.
 
-Za maskou nebola Yerana Saéli. Za maskou bola len mačka v dave. Anonymná. Bezmenná. *Slobodná.*
-
-Dýchala cez prierezy v dreve. Vzduch mal inú chuť — intímnejšiu, bližšiu, osobnejšiu. Akoby maska vytvorila malý priestor medzi ňou a svetom, v ktorom sa dalo existovať bez pravidiel. [NOTE: Maska = symbol slobody, ale aj skrývania. Yera celý život skrýva — čo cíti, čo chce, kto je. Maska je pre ňu paradoxne prirodzená.]
+Dýchala cez prierezy v dreve. Vzduch mal zrazu inú chuť. Intímnejšiu, osobnejšiu. Akoby drevená prekážka vytvorila malý priestor medzi ňou a svetom, v ktorom sa dalo existovať bez pravidiel. Za bielou fasádou už nebola Yerana Saéli, iba cudzie teplo s pulzujúcim dychom. [NOTE: Maska = symbol slobody, ale aj skrývania. Yera celý život skrýva — čo cíti, čo chce, kto je. Maska je pre ňu paradoxne prirodzená.]
 
 ---
 
-Námestie pred Chrámom bolo najživšie. Tanečníci — desiatky párov krútiacich sa v prachu a svetle, masky na tvárach, tela blízko, ruky na bokoch, na ramenách, na plecích. Pursang vedľa Mezra, Mezra vedľa Ghorki — pod maskami sa kasty nerozoznávali. Alebo predstierali, že sa nerozoznávajú. [→ regions/nyau.md: Počas festivalu sú si všetky kasty „rovné" — symbolicky]
+Námestie pred Chrámom bolo najživšie. Tanečníci — desiatky párov krútiacich sa v prachu a svetle, masky na tvárach, tela blízko, ruky na bokoch, na ramenách, na pleciach. Pursang vedľa Mezra, Mezra vedľa Ghorki — pod maskami sa kasty nerozoznávali. Alebo predstierali, že sa nerozoznávajú. [→ regions/nyau.md: Počas festivalu sú si všetky kasty „rovné" — symbolicky]
 
 Yera kráčala pomedzi nich. Hudba sa menila — od bubnov ku flaute, od flauty ku strunám, a potom sa všetko spojilo do jedného zvuku, ktorý bol väčší než súčet častí. Kňažky na schodoch Chrámu spievali — ich hlasy sa niesli nad davom ako kadidlo, jemné, jasné, nesmrteľné. Yera poznala tú pieseň. *Pieseň Prvého Svetla.* Spievala ju od detstva. Slová, ktoré vedela naspamäť, melódia, ktorá jej bola vrytá do kostí.
 
@@ -134,11 +134,11 @@ Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťa
 
 Tak jej hovorili v Chráme. *Infera. Nepozeraj sa na ňu.* Kňažky tvrdili, že je to oko tmy — niečo, čo dohliada na svet, keď El odvrátila zrak. Protipól svetla. Stará poverčivosť. Niečo, čomu Yera nikdy neverila — ale v noci, s maskou na tvári, v dave cudzích ľudí, keď červený bod pomaly prechádzal oblohou ako prst ťahaný po čiernom zamate, cítila niečo. Nie strach. Nie vieru. Niečo staršie. Niečo, čo žilo v kostiach, nie v hlave. [→ regions/nyau.md: Nyau = Cirkev El, Infera = poverčivosť. El = svetlo, Infera = tma] [→ 13-etymology.md: Infera — z lat. Infernus, peklo]
 
-Infera zmizla za horizontom. Lampióny stúpali ďalej. Sai sa nehýbal. A Yera stála na moste a mala pocit, že videla niečo, čo nemala vidieť.
+Infera zmizla za horizontom strechy pri prístave. Lampióny stúpali ďalej. Sai sa nehýbal. A Yera stála na moste a s každým úderom srdca si podvedome lámala drobné prsty nad obrubníkom. Červené teplo toho malého svetla ju vyhnalo — akoby sa do davu votrelo cudzie teleso, pri ktorom všetky modré a tyrkysové svetlá pálili.
 
-Otočila sa.
+Cúvla dozadu so zavretými očami a jej rameno narazilo do hrude jedného z rozhorúčených, prepotených tanečníkov. Zhlboka sa nadýchla, ale vzduch na seba natiahol tú ťaživú medzierku hudby. Stratila tempo s dupaním dlaní a bosých umazaných nôh ostatných okolo nej. Ten jeden rytmický výpadok stačil. Dav do nej prudko vrazil, hrubé ramená a lakte ju omietli ako prekážku, až kým sa nepotkla a nevypadla z tancujúceho kruhu rovno na hrubé dláždenie postranných dokov.
 
-Dav ju niesol ďalej. Preč od Chrámu, preč od námestia, preč od hudby, smerom k prístavu, kde boli ulice užšie, tmavšie, a hudba sa menila na vzdialenú melódiu, tlmenú stenami a vzdialenosťou.
+Preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a páchla soľ a olej.
 
 ---
 
@@ -160,7 +160,7 @@ Lampión preletel nad ulicou — osamotený, oneskorený, jeden z posledných, �
 
 Hlas bol pokojný. Trochu chrapľavý — od vína, od noci, od samoty. Nebol to podvádzajúci hlas. Nebol to hlas muža, čo sa prihovára dievčatám. Bola to otázka. Skutočná otázka bytosti, ktorá sedela sama na schodoch a videla niekoho, kto vyzerá rovnako stratený.
 
-Yera stuhla. Ruka jej automaticky vystrelila k maske — *zakryť, schovať, odísť* — ale maska už bola na tvári. A za maskou nebola Saéli. Za maskou nebola kňažka. Za maskou bola len mačka v noci.
+Yera stuhla. Ruka jej automaticky vystrelila k tvári — *zakryť, schovať, odísť* — no prsty už klopli iba na chladné lakované drevo masky, ktorá bola po celý ten čas s ňou. Prvý raz si vydýchla a ostala sedieť na mieste s ušitými perami.
 
 „Nie," povedala. [→ books/planning/yera-arc-novela.md: Beat 3 — „Stratila si sa?" / „Nie." (Ale áno.)]
 
@@ -185,13 +185,13 @@ Arkot vstal. Oprášil si nohavice, odložil fľašu na schod a natiahol k nej r
 
 „Tak poď,“ usmial sa s pomalým, lenivým úsmevom.
 
-Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia, nieto ešte v dave* — no maska ju chránila. Za ňou nebola kňažka, len slobodná mačka v noci. Položila svoju dlaň do jeho.
+Yera sa inštinktívne chcela stiahnuť — *sme na ulici, toto dcéry klanu nerobia, nieto ešte v dave* — no útočisko drevenej tváre vyhralo. Položila svoju krehkú, studenú dlaň do jeho teplej.
 
 Vtrhol s ňou priamo do pulzujúceho davu.
 
 Okolo nich sa mihal vír masiek, tiel a lampiónov. Arkot ju viedol isto, drzo a pritom plynulo, akoby bol s tým hlukom a tancom zrastený. Yera spočiatku stuhla, no jeho ruka na jej páse bola pevná a presne rytmizovaná do krokov ostatných okolo. Postupne sa nechala viesť. Hudba ju strhávala, svaly sa jej uvoľňovali, prestala myslieť na Chrám. Okolo nich sa preplietali iné tancujúce páry, nočná vôňa kvetov, korenín a potu zapĺňala námestie.
 
-Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, v dave, kde nebola dcérou nikoho, iba stredom vlastnej eufórie.
+Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila, dvakrát neisto prešľapla na dlažbe, úplne mimo rytmus ostatných. No on voľnú ruku pevne navinul na jej obruč nad pásom a strhol ju opäť k hudbe, hladko a bez jedinej myšlienky odporu z oboch strán. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, uprostred spoteného, prístavného davu.
 
 Keď struny dospeli do búrlivého finále a tanec odznel, odfúkli si, opretí o seba ramenami, dýchajúc zrýchlene. Vymanili sa z hlavného prúdu námestia a opäť zišli do tichšieho tieňa skladísk.
 
@@ -282,7 +282,7 @@ Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým
 
 „Vieš..." povedal pomaly, „...veria tomu ľudia v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
 
-Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi — Chrám El ich učil naspamäť ako modlitby.
+Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi.
 
 „Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch2 (Čierna kniha) uvidí originál — kompletný, neporušený, so všetkým čo biela Kniha neprevzala. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
 
@@ -304,7 +304,7 @@ Jeho prsty sa dotkli jej prstov.
 
 Nie agresívne. Nie zámerne. Len — položil ruku na jej ruku. Ľahko. Akoby sa pýtal. Akoby ani on nevedel, prečo to robí.
 
-Yera stuhla. Srdce jej búšilo tak hlasno, že bola presvedčená, že ho počuje celý prístav. Teplo jeho dlane na jej ruke. Drsné prsty — prsty muža, čo nakladá vrecia, čo ťahá laná, čo nikdy nič nedostal zadarmo. Na jej ruke — na ruke, čo lieči stromy a drží pentagram a nikdy sa nedotkla ničoho, čo si sama nevybrala.
+Yera stuhla. Srdce jej búšilo tak hlasno, že bola presvedčená, že ho počuje celý prístav. Teplo jeho dlane na jej ruke. Drsné prsty — prsty muža, čo nakladá vrecia, čo ťahá laná, čo nikdy nič nedostal zadarmo. Na jej ruke — na ruke, čo lieči stromy a nikdy sa nedotkla ničoho, čo si sama nevybrala.
 
 *Nič sa nestalo*, povedala si. *Nič sa nedeje. Len sedíme. Len sa díva na hviezdy. Len mi drží ruku.*
 
@@ -314,7 +314,7 @@ Celý svet sa zmenil. Vzduch mal inú chuť. Hviezdy mali inú farbu. Nyau pod n
 
 *Kedy som prestala vidieť?* pomyslela si. *Teraz vidím.* [NOTE: callback na otázku z Ch2 — „Kedy som prestala vidieť?" V Ch2 je to o Nyau. Tu je to o svete. Iný význam.]
 
-Sai klesol bližšie k horizontu. Prstenec okolo neho žiaril ostrejšie — rozpustené svetlo, jantárové a zlaté, sa rozlievalo po hladine mora v diaľke. Hviezdy sa zdali bližšie — alebo to bola len ľahká hodina, ktorá jej zdvíhala srdce a zľahčovala kosti a všetko, čo bolo ťažké, na okamih nechala plavať.
+Sai klesol bližšie k horizontu. Prstenec okolo neho žiaril ostrejšie — rozpustené svetlo, jantárové a zlaté, sa rozlievalo po hladine mora v diaľke. Hviezdy sa zdali bližšie — alebo to bola len ľahká hodina, ktorá jej zdvíhala srdce a zľahčovala kosti a všetko, čo bolo ťažké, na okamih nechala plávať.
 
 Chcela ostať.
 
@@ -338,7 +338,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. [→ characters/Yera.md: malá izba, biele steny, posteľ so ľanovými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
@@ -346,13 +346,13 @@ Videla leopardie škvrny na jeho krku v mesačnom svetle. Počula jeho hlas — 
 
 Otvorila oči.
 
-Na stole vedľa postele ležali lekárske nástroje — pipety, misky, sušené byliny v sklenených nádobách. Pentagram na jej predlaktí — akvamarínové línie, tenké, mŕtve, čakajúce. Vedľa zápisníka stáli chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
+Na stole vedľa postele ležali lekárske nástroje — pipety, misky, sušené byliny v sklenených nádobách. Tetovania na jej predlaktí — akvamarínové línie, tenké, mŕtve, čakajúce. Vedľa zápisníka stáli chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
 
 Zavrela oči.
 
 Cítila teplo jeho ruky na svojej ruke.
 
-Na koži pod dlaňou. Na prstoch, na kĺboch, na mieste, kde sa jej pazúry dotýkali kamienka na streche a jeho prsty sa dotkli jej prstov. Teplo, ktoré nešlo zmyť. Teplo, ktoré nepatrilo Saéli mene, ani Chrámu El, ani Soril, ani otcovi, ani nikomu okrem nej.
+Na koži pod dlaňou. Na prstoch, na kĺboch, na mieste, kde sa jej pazúriky dotýkali kamienka na streche a jeho prsty sa dotkli jej prstov. Teplo, ktoré nešlo zmyť. Teplo, ktoré nepatrilo Saéli mene, ani Chrámu El, ani Soril, ani otcovi, ani nikomu okrem nej.
 
 *Kto si?* pomyslela si. *Odkiaľ si? Prečo ti záleží na hviezdach?*
 
