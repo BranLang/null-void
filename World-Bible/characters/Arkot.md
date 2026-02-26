@@ -37,7 +37,7 @@
 - **Strach**: Že Yeru vezmú a on to neuvidí. Že jedného dňa prestane počuť jej kroky v chodbe.
 - **Trauma**: Videl Flintovu smrť pri zatýkaní — Flint tasil zbraň, stráže ho zastrelili. Arkot stál vedľa neho. Flintova krv mu ostala na rukách. A bol to Flintov plán — jeho najlepší priateľ zomrel kvôli vlastnej chybe.
 - **Hodnoty**: Lojalita k priateľom > vlastné prežitie. Vždy.
-- **Slabosť**: Tvrdohlavosť. Nič neprezradí — ani keby to zachránilo životy. Princíp mu je dôležitejší než pragmatizmus.
+- **Slabosť**: **Pasivita** — Arkotova definičná chyba. Celý život nasledoval Flinta. Videl, ako Flint po rozchode s Tami pomaly degeneruje. Videl plán ukradnúť Anténu. A nepovedal Tami. Nie lebo schvaľoval — lebo nechcel konfliktu. **Mlčanie z pohodlnosti. A to je horšie než súhlas.** Arkot vždy vedel, čo je správne — a vždy nechal niekoho iného rozhodnúť. Plus tvrdohlavosť v kobkách — nič neprezradí, ani keby to zachránilo životy. Princíp mu je dôležitejší než pragmatizmus.
 
 ---
 
@@ -64,8 +64,8 @@
 - Našli Anténu (nevedeli, čo je) a ďalšie artefakty
 
 ### Zrada a zatýkanie (~AY 3012)
-- **Flint vymyslel plán** — ukradnúť Anténu a predať ju v Šoravene. Motivácia: Flint miloval Tami, Tami ho odmietla. Chcel zbohatnúť a začať nový život bez nej.
-- **Arkot šiel s bratom z detstva.** Vedel, že je to zrada. Ale Flint bol jeho najlepší priateľ — celý život ho nasledoval. Racionalizoval si: Tami nájde ďalšie artefakty, je v tom dobrá. Tento jeden nález — prečo by nemohol byť pre nich?
+- **Flint vymyslel plán** — ukradnúť Anténu a predať ju v Šoravene. Motivácia bola vrstvená: odmietnutá láska k Tami + únik od bolesti (Tami sa po jaskyni zmenila — vstávala v noci, mrmlala v cudzom jazyku, bola niekde inde, bez vysvetlenia) + peniaze ako nový začiatok + zranená pýcha. **Flint o Maksovi nevedel.** Tami o Maksovi nikdy nehovorila — nikdy, nikomu. Flint prehral nie s konkrétnym chlapom — ale s niečím neviditeľným, nepomenovaným. A to bolo horšie.
+- **Arkot šiel s bratom z detstva.** Vedel, že je to zrada. Ale Flint bol jeho najlepší priateľ — celý život ho nasledoval. **Toto je Arkotova definičná chyba — pasivita.** Videl, ako Flint po rozchode s Tami pomaly degeneruje. Videl plán. A nepovedal Tami. Nie lebo schvaľoval — lebo nechcel konfliktu. Mlčanie z pohodlnosti. Racionalizoval si: Tami nájde ďalšie artefakty, je v tom dobrá. Tento jeden nález — prečo by nemohol byť pre nich?
 - **Yera nesúhlasila** — videla to jasne. Ale šla za Arkotom. Jej najväčšia vina.
 - V Šoravene ich dolapila Inkvizícia — Mormielin špehovia zachytili správy o náleze
 - Flint tasil zbraň → zastrelený na mieste, telo verejne vystavené na námestí
@@ -99,9 +99,10 @@
 ### Flint (mŕtvy najlepší priateľ)
 - Flint bol Mezra Felis (Rys) — nervózny, rýchly, dobrý so zbraňami
 - **Najlepší priatelia od detstva v Beladiss.** Spolu vyrastali, spolu odišli do Nyau, spolu na Itaku.
-- Flint vymyslel plán kradnúť Anténu — Arkot šiel s ním, lebo ho celý život nasledoval
+- Flint vymyslel plán kradnúť Anténu — Arkot šiel s ním, lebo ho celý život nasledoval. **Mohol povedať nie. Mohol povedať Tami. Neurobil nič z toho.**
 - Flintova smrť je rana, ktorá sa nezahojí — **jeho najlepší priateľ zomrel kvôli vlastnému plánu.** Arkot stál vedľa neho. Flintova krv mu ostala na rukách.
-- V kobkách Arkot nesie dvojitú vinu: zradil Tami A nedokázal zastaviť Flinta
+- V kobkách Arkot nesie **trojitú vinu**: (1) zradil Tami, (2) nedokázal zastaviť Flinta, (3) jeho pasivita Flinta nepriamo zabila — keby povedal nie, Flint by možno nešiel sám
+- **Foreshadowing**: Arkot zomiera rovnako ako Flint — koná namiesto úteku. Obaja z Beladiss, obaja v Šoravene, obaja mŕtvi. Ale Arkotova smrť je opak jeho života — celý život bol pasívny, a v poslednom momente koná. Príliš neskoro, ale koná.
 
 ---
 

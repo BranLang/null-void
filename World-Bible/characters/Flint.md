@@ -53,19 +53,39 @@
 - Flint Yeru prijal — bola Arkotova, a čo je Arkotovo, je v poriadku.
 
 ### Flint a Tami — Odmietnutá láska
-- Flint sa zamiloval do Tami. Pomaly, ale isto.
-- **Tami to skúsila.** Nie z lásky — z potreby. Z osamelosti. Z toho, že Maks bol preč 5 rokov a bolesť z odmietnutia ju stále páčila. Flint bol tu, bol milý, bol odvážny. Tak to skúsila.
-- **Potom si to rozmyslela.** Necítila to. Nemohla. Maks bol stále v jej hlave — aj keď ho nenávidela za to, čo urobil.
-- Flint dostal najhoršiu odpoveď — nie "nie", ale "skúsila som a **nedokážem**."
-- **Toto bola rozbušká.** Keby Tami povedala rovno "nie", Flint by to zniesol. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
+
+**Prvé stretnutie (~AY 3009-3010):**
+- Flint bol najkrajší chlapec v Beladiss — a vedel to. Lámač ženských sŕdc, rovnaké veľké ego ako Tami. Keď sa prvýkrát stretli, boli dvaja narcisi — každý čakal, že ten druhý padne prvý.
+- Tami padla? Nie. Všimla si ho — ale ona si všimne každého. Pre ňu bol Flint zaujímavý. Pre Flinta bola Tami *problém*.
+- Flint sa zamiloval pomaly, ale isto — a nikdy to nečakal.
+
+**Vzťah (~AY 3010-3012):**
+- Boli spolu ~2 roky. Komplikovaný vzťah — 17 až 19, Tami nikdy úplne neinvestovala, Flint vždy príliš.
+- **Tami to skúsila.** Nie z lásky — z osamelosti. Z toho, že Maks bol preč 5 rokov a bolesť z odmietnutia ju stále páčila. Flint bol tu, bol milý, bol odvážny. Tak to skúsila.
+
+**Rozchod a jaskyňa (~AY 3012):**
+- Rozišli sa. Potom prišla jaskyňa.
+- Po expedícii do Jaskyne Ela transfer esencie Inetis prešiel na Tami — a Tami sa **zmenila**. Vstávala v noci, mrmlala v cudzom jazyku, bola niekde inde. Odťahovala sa od všetkých.
+- **Flint to videl.** Ale **nerozumel**. Tami o Maksovi nikdy nehovorila — nikdy, nikomu, za žiadnych okolností. *„Nehovoríme o Maksovi."* Flint nevedel o 7 rokoch putovania, o vyznaní v 15-tich, o odmietnutí. Pre Flinta bola Tami záhada — krásna kapitánka, ktorá ho skúsila a potom sa stratila do seba bez vysvetlenia.
+- **Toto bolo horšie než prehrať s konkrétnym chlapom.** Keby vedel s kým prehráva, mohol by bojovať alebo sa vzdať. Ale prehrať s niečím neviditeľným, nepomenovaným — to je šialenstvo. Niečo ju ťahalo preč a on nevedel čo.
+- Toto bola finálna rozbúška. Nie samotný rozchod — ale to, čo prišlo po ňom. Strata bez vysvetlenia.
+
+**Flintova motivácia pred krádežou:**
+- **Nie** pomsta. **Nie** plán prebudiť niekoho. Flint o Maksovi nevedel.
+- **Únik.** Odísť od ženy, ktorá ho milovala a potom sa stratila do seba. Od posádky, kde sa cítil treťoradý. Od života, kde bol strelec na cudzej lodi.
+- **Peniaze** = nový začiatok. Anténa vyzerala hodnotne. Šoravene Shobors = čierny trh.
+- **Zranená pýcha** = motor. Flint celý život skákal prvý. Teraz bol ten, čo zostal pozadu. To pre neho bolo neznesiteľné.
+
+**Flint dostal najhoršiu odpoveď — nie "nie", ale "skúsila som a nedokážem."**
+- Keby Tami povedala rovno nie, Flint by to zniesol. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
 - Flint sa nezlomil nahlas. Zahoril. Začal byť tichší, nervóznejší, trpkejší. Posádka to cítila. Arkot to videl. Yera to videla.
 - *„Keby som bol Pursang, pozrela by sa na mňa?"* — Flint si myslel, že je kastový problém. Nebol. Tami bola kastovo slepá. Ale Flint to nechápal.
 
 ### Plán — Krádež Antény
-- Po expedícii do Jaskyne Ela (kde našli Anténu) Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors, zbohatnúť a odísť.**
-- Motivácia nebola len peniaze — bola to **únik**. Odísť od Tami. Začať nový život. Zabudnúť.
+- Po expedícii a po tom, čo videl Tami strácať sa do seba bez vysvetlenia, Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors.**
+- Motivácia bola vrstvená: **únik** od ženy, ktorá ho milovala a potom sa stratila do seba + **peniaze** = nový začiatok (Anténa vyzerala hodnotne, Šoravene Shobors = čierny trh) + **zranená pýcha** = motor (celý život skákal prvý, teraz bol ten, čo zostal pozadu).
 - Presvedčil Arkota: *„Poď so mnou. Tami nájde ďalšie artefakty. Je v tom dobrá. Tento jeden — ten je náš."*
-- Arkot nesúhlasil, ale šiel. Lebo Flint bol jeho najlepší priateľ a celý život ho nasledoval.
+- **Arkot nesúhlasil, ale šiel.** Lebo Flint bol jeho najlepší priateľ a celý život ho nasledoval. Toto je Arkotova definičná chyba — pasivita. Videl, ako Flint po rozchode s Tami pomaly degeneruje. Videl plán. A nepovedal Tami. Nie lebo schvaľoval — lebo nechcel konfliktu. Mlčanie z pohodlnosti. A to je horšie než súhlas.
 - **Yera nesúhlasila** — ale šla za Arkotom.
 - **Tami sa dozvedela o zrade.** Vie, že ju podrazili.
 
