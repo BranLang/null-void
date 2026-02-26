@@ -53,19 +53,37 @@
 - Flint Yeru prijal — bola Arkotova, a čo je Arkotovo, je v poriadku.
 
 ### Flint a Tami — Odmietnutá láska
-- Flint sa zamiloval do Tami. Pomaly, ale isto.
-- **Tami to skúsila.** Nie z lásky — z potreby. Z osamelosti. Z toho, že Maks bol preč 5 rokov a bolesť z odmietnutia ju stále páčila. Flint bol tu, bol milý, bol odvážny. Tak to skúsila.
-- **Potom si to rozmyslela.** Necítila to. Nemohla. Maks bol stále v jej hlave — aj keď ho nenávidela za to, čo urobil.
-- Flint dostal najhoršiu odpoveď — nie "nie", ale "skúsila som a **nedokážem**."
-- **Toto bola rozbušká.** Keby Tami povedala rovno "nie", Flint by to zniesol. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
+
+**Prvé stretnutie (~AY 3009-3010):**
+- Flint bol najkrajší chlapec v Beladiss — a vedel to. Lámač ženských sŕdc, rovnaké veľké ego ako Tami. Keď sa prvýkrát stretli, boli dvaja narcisi — každý čakal, že ten druhý padne prvý.
+- Tami padla? Nie. Všimla si ho — ale ona si všimne každého. Pre ňu bol Flint zaujímavý. Pre Flinta bola Tami *problém*.
+- Flint sa zamiloval pomaly, ale isto — a nikdy to nečakal.
+
+**Vzťah (~AY 3010-3012):**
+- Boli spolu ~2 roky. Komplikovaný vzťah — 17 až 19, Tami nikdy úplne neinvestovala, Flint vždy príliš.
+- **Tami to skúsila.** Nie z lásky — z osamelosti. Z toho, že Maks bol preč 5 rokov a bolesť z odmietnutia ju stále páčila. Flint bol tu, bol milý, bol odvážny. Tak to skúsila.
+
+**Rozchod a jaskyňa (~AY 3012):**
+- Rozišli sa. Potom prišla jaskyňa.
+- Po expedícii do Jaskyne Ela transfer esencie Inetis prešiel na Tami — a Tami začala snívať o Maksovi. Nie abstraktne. Konkrétne. Tvár, hlas, možno útržky jeho spomienok.
+- **Flint to videl.** Pozoroval, ako Tami vstáva v noci, ako sa mení, ako je niekde inde. A pochopil: *prehral som nie s iným chlapcom — ale s duchom. S mŕtvym mužom v kryostáze.*
+- Toto bola finálna rozbúška. Nie samotný rozchod — ale to, čo prišlo po ňom.
+
+**Flintova logika pred krádežou:**
+- Flint si myslel: *Ak prebudím Maksa, Tami bude musieť čeliť skutočnému človeku, nie ideálu v snoch. A skutočný Maks ju znova odmietne — lebo ona je jeho padavan, bol jej mentor, a to sa nezmení. A potom sa vráti ku mne.*
+- Tragicky chybná logika. Ale psychologicky presná pre 27-ročného muža beznadejne zaľúbeného.
+- Krádež Antény nebola len únik — bola to pokus vymazať Maksa tým, že ho prebudí do reality.
+
+**Flint dostal najhoršiu odpoveď — nie "nie", ale "skúsila som a nedokážem."**
+- Keby Tami povedala rovno nie, Flint by to zniesol. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
 - Flint sa nezlomil nahlas. Zahoril. Začal byť tichší, nervóznejší, trpkejší. Posádka to cítila. Arkot to videl. Yera to videla.
 - *„Keby som bol Pursang, pozrela by sa na mňa?"* — Flint si myslel, že je kastový problém. Nebol. Tami bola kastovo slepá. Ale Flint to nechápal.
 
 ### Plán — Krádež Antény
-- Po expedícii do Jaskyne Ela (kde našli Anténu) Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors, zbohatnúť a odísť.**
-- Motivácia nebola len peniaze — bola to **únik**. Odísť od Tami. Začať nový život. Zabudnúť.
+- Po expedícii do Jaskyne Ela a po tom, čo videl Tami snívať o Maksovi, Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors.**
+- Motivácia bola vrstvená — sám nevedel, ktoré bolo primárne: únik od bolesti + zúfalý pokus prebudiť Maksa do reality (ak ho Tami stretne ako skutočného človeka, nie ako ideál v snoch, Maks ju znova odmietne a ona sa vráti) + peniaze ako vedľajší efekt.
 - Presvedčil Arkota: *„Poď so mnou. Tami nájde ďalšie artefakty. Je v tom dobrá. Tento jeden — ten je náš."*
-- Arkot nesúhlasil, ale šiel. Lebo Flint bol jeho najlepší priateľ a celý život ho nasledoval.
+- **Arkot nesúhlasil, ale šiel.** Lebo Flint bol jeho najlepší priateľ a celý život ho nasledoval. Toto je Arkotova definičná chyba — pasivita. Videl, ako Flint po rozchode s Tami pomaly degeneruje. Videl plán. A nepovedal Tami. Nie lebo schvaľoval — lebo nechcel konfliktu. Mlčanie z pohodlnosti. A to je horšie než súhlas.
 - **Yera nesúhlasila** — ale šla za Arkotom.
 - **Tami sa dozvedela o zrade.** Vie, že ju podrazili.
 

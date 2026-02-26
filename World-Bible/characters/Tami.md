@@ -85,21 +85,38 @@ Keď v 15 odišla od Maksa — zlomená srdcom, nahnevaná — nemala kam ísť.
 | **AY 3000-3001** | 7-8 | Naháňačka so Samaellom — Tami vedie slepého Maksa |
 | **AY 3001** | 8 | Maks zabije Samaella v dueli |
 | **AY 3001-3008** | 8-15 | Putovanie s Maksom — Tami sa stáva jeho padavanom. Maks ju trénuje ako Exorcistku: boj, zbrane, prežitie, duchovia a kostry v ruinách sú rutina — vie na ducha spraviť `sudo kill`. 7 rokov terénneho výcviku (ale bez teórie, hackingu, Linuxu — nedoučená, odišla pred dokončením) |
-| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju bezcitne odmietne (je pre neho dieťa, on je tisícročný veterán). Trauma, ktorá definuje ich vzťah |
-| **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme vzducholoď a nechá Maksa v pustatine. 5 rokov sa neozve |
+| **AY 3008** | 15 | **Vyznanie a odmietnutie** — Tami sa vyzná Maksovi, on ju odmietne (je pre neho dieťa, on je tisícročný veterán — pre neho je to absurdné). Pre Tami je to najväčšie poníženie v živote. Ego zdrvené. Trauma, ktorá definuje ich vzťah. |
+| **AY 3008** | 15 | **Odchod** — Tami sa zbalí, vezme Itaku a nechá Maksa samého v divočine. 5 rokov sa neozve. Vracia sa do Kitsune k Felixovi. |
 | **AY 3008** | 15 | Návrat do Kitsune. Felix: *"Tvoj otec by nechcel, aby si tu sedela v ruinách. Chcel, aby si lietala."* Tami prevezme Rennov sen — obnoviť Kitsune |
 | **AY 3008-3009** | 15-16 | Prvé solo expedície. Učí sa lietať Itaku poriadne. Malé nálezy v ruinách, predáva v menších prístavoch. Naberá **Borga** (Ghorki medveď — nikto ho nechcel, ona ho vzala) |
 | **AY 3009-3010** | 16-17 | Prvý veľký nález — vrak starej Maki lode. Zarába dosť na opravu Itaky. Buduje meno v Raiju (východný prístav) |
 | **AY 3010-3011** | 17-18 | Naberá **Nixa** (Mezra králik, mechanik na dne). Itaka konečne funguje spoľahlivo. Začína mapovať Divočinu systematicky |
-| **AY 3010-3011** | 17-18 | Naberá **Flinta** (Mezra rys z Beladiss — strelec, nervózny, rýchly). Flint zavolá svojho najlepšieho priateľa **Arkota** (navigátor) — ten príde aj s **Yerou** (Pursang mačka z Nyau, utekajúci pred rodinou). Posádka kompletná. |
-| **AY 3011-3012** | 18-19 | Väčšie expedície, väčšie nálezy. Buduje sieť kontaktov v prístavoch. **Flint sa do Tami zamiluje.** Tami to skúsi — z osamelosti, z potreby zabudnúť na Maksa. Potom si to rozmyslí. *„Skúsila som a nedokážem."* Toto je rozbúška — Flint pomaly horkne. |
-| **~AY 3012** | ~19 | **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (**Fáza 1 — Seed/Semeno**). Malá dávka dormantných nanodronov. Tami nič necíti, nevie o tom. Efekty sú subtílne: nočné mory v cudzom jazyku, vylepšená Spira intuícia, podvedomé ťahanie k Maksovi |
-| **~AY 3012** | ~19 | **Zrada.** Flint vymyslí plán — ukradnúť Anténu a predať ju v Šoravene v Shobors. Motivácia: odmietnutá láska k Tami, túžba po úniku. Presvedčí Arkota (najlepší priateľ z detstva), Yera nesúhlasí ale nasleduje Arkota. **Tami vie o zrade.** |
+| **AY 3009-3010** | 16-17 | Naberá **Flinta** (Mezra rys z Beladiss — strelec, nervózny, rýchly, najkrajší chlapec v Beladiss, rovnaké veľké ego ako Tami). Prvé stretnutie: dvaja narcisi, každý čaká že ten druhý padne. Flint padol. |
+| **AY 3010** | 17 | Flint zavolá svojho najlepšieho priateľa **Arkota** (navigátor) — ten príde. V Beladiss stretne Yeru (Pursang mačka z Nyau, uteká pred rodinou aj pred krádežou Knihy El). Posádka kompletná. Tami si všimne Yeru — modré oči, podobná výška, podobný vek. Záblesk niečoho — otec Renn chodíval do Nyau ako domov. Nevie čo s tým. |
+| **AY 3010-3012** | 17-19 | Vzťah Flint + Tami — ~2 roky, komplikovaný. Tami nikdy úplne neinvestovala, Flint vždy príliš. Tami to skúsila z osamelosti — Maks bol preč 5 rokov, bolesť stále tam. Potom si to rozmyslela. *„Skúsila som a nedokážem."* Toto je rozbúška. |
+| **~AY 3012** | ~19 | **Rozchod s Flintom.** Potom — **Expedícia do jaskyne** s Arkotom, Yerou a Flintom. Tami sa dotkne pozostatkov Inetis — „hladné" nanodrony prejdú na ňu (**Fáza 1 — Seed/Semeno**). Efekty subtílne: **nočné sny o Maksovi** (konkrétne — tvár, hlas, útržky spomienok), vylepšená Spira intuícia, podvedomé ťahanie. Tami to nerozumie. Flint to vidí — a pochopí, že prehrával nie s iným chlapcom, ale s duchom. |
+| **~AY 3012** | ~19 | **Zrada.** Flint vymyslí plán — ukradnúť Anténu. Motivácia vrstvená: únik od bolesti + zúfalý pokus prebudiť Maksa do reality (aby Tami videla skutočného človeka, nie ideál v snoch). Presvedčí Arkota. Arkot vie. Mlčí. Yera nesúhlasí, ide za Arkotom. **Tami vie o zrade.** |
 | **~AY 3012** | ~19 | Trojica zatknutá Inkvizíciou v Šoravene. **Flint zabitý pri zatýkaní** (tasil zbraň), telo verejne vystavené ako varovanie. **Arkot a Yera uväznení** v kobkách pod Chrámom — Arkot mučený pre informácie, Yera oddelená do čistej cely (Mormiel si ju "skladuje" pre Rituál). **Anténa uložená do Mormielin falošnej krypty** — strážená dvoma majstrami Spiry. Tami sa dozvedá — a **napriek zrade príde ich zachrániť**. Sú jej rodina. |
 | **AY 3013** | 20 | **Opening** — znovuzjednotenie s Maksom (podvedome ťahaná k nemu cez Echo Inetis) |
 | **AY 3013** | 20 | **Fáza 2 — Aktivácia:** Sera odomkne Artefakt v tuneloch pod Šoravenom a podá ho Tami (NIE Maksovi). Koncentrovaná Esencia Inetis prejde na Tami — plné prebudenie. Schopnosti, spomienky, spojenie s Inetis |
 | **AY 3013** | 20 | **Fáza 3 — Zosilnenie:** Po Maksovej smrti sa Tami vráti do Jaskyne Ela a pochová Maksa vedľa Inetis. Blízkosť Inetisiných pozostatkov zosilní Esenciu — plné flashbacky, Inetisine spomienky ako film |
 | **Book 5** | ~20+ | **Fáza 4 — Kontakt s Core:** Tami vstúpi do Core (Ynetis) s Linksom a Elaniou. Esencia sa spojí s AI i_net_is — umelou inteligenciou uzamknutou v Core 3000+ rokov. AI odhalí pravdu o Uploade. Links prekladá. |
+
+### Tami v 17-19 — Ego a nebezpečné vedomosti
+
+**Charakter:**
+- Veľké ambície — chcela byť slávna ako Renn, možno slávnejšia. Ego ktoré štípe do hlavy.
+- Namyslenosť krytá výkonom — mala na ňu právo, aspoň čiastočne. Skutočne vedela veci, čo ostatní nevedeli.
+- Vizuálne: sakura v rozkvete. 17, krásna, líščie uši, medeno-zrzavé vlasy, modré oči ktoré nikto nechápal. Vedela, že na ňu ľudia pozerajú.
+
+**Nebezpečné vedomosti:**
+- Po rokoch s Maksom vedela heretické veci — Waspira (nelegálna Spira technika, zakázaná v 10 kráľovstvách), zakázané haiku-techniky útoku. Keby bola v Nevriss alebo Beladiss a niekto by to zistil — Inkvizícia.
+- Maks ju trénoval vedou, nie vierou — jeho prístup k nanotech bol bez dogmy Cirkvi Matky. To jej dalo schopnosti, ktoré veriaci Varietas nedokážu.
+- Tají to. Nie zo strachu — z inštinktu. Maks ju naučil: *čo nepovieš, nemôžu ti vziať.*
+
+**Sieť — Felix a Kitsune:**
+- Felixov vzťah s Tami: on dodáva tovar, ona mu kupuje suroviny. Spoločne vyvíjajú nové veci pre Kitsune — hydrauliku, čerpadlá, náhradné diely. Výmena, nie obchod. Felix neopúšťa ruiny, ale cez Tami má oči vo svete.
+- Tami má za sebou skvelú posádku (Borg, Nix) + Felixa ako zázemie. Malé impérium pre 17-ročnú.
 
 ### Tami po odchode od Maksa (AY 3008-3013)
 - **Kariéra**: Dobrodruhka, prieskumníčka, lovkyňa artefaktov — „Lara Croft Achillu"

@@ -278,6 +278,22 @@ Ticho.
 
 Dlhé, mäkké ticho, v ktorom nebolo nič treba povedať. Hudba z mesta dozvibrovala. Posledné lampióny zmizli medzi hviezdami. Vôňa korenia a grilovaných húb sa premiešala s morskou soľou a nočnými kvetmi, ktoré sa práve otvárali na fasádach domov pod nimi — fialové, ružové, biele — a pulzovali mäkkým svetlom.
 
+Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým navigovať — nie kráse, ale smerom.
+
+„Vieš..." povedal pomaly, „...veria tomu ľudia v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
+
+Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi — Chrám El ich učil naspamäť ako modlitby.
+
+„Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch3 uvidí originál a zistí čo Cirkev vystrihla. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
+
+Arkot sa usmial — nie pohrdlivo, len tým pomalým úsmevom muža, čo videl veľa prístavov a málo chrámov. „V Diss hovoria, že prišli z mora. Že svet bol len voda a z tej vody sme vyliezli."
+
+„A ty čomu veríš?"
+
+Pokrčil plecami. Pozrel na hviezdy. „Neviem. Ale keď som na mori v noci a hľadím hore..." Odmlčal sa. „...cítim, že to nie je len obloha."
+
+Yera nič nepovedala. Pozerala tam kde on — na to čierne, plné, tiché nebo — a premýšľala nad niečím, nad čím nikdy predtým nepremýšľala. *Ak je to pravda. Ak sme naozaj prišli odtiaľ.* Čo to znamená? Čo sú potom lampióny, čo stúpajú k hviezdami každý rok? [NOTE: Lampióny = duše stúpajúce k El. Ale ak predkovia prišli z hviezd — lampióny stúpajú *domov*. Yera to nedopovie nahlas. Čitateľ to domyslí.]
+
 Arkot položil ruku vedľa jej ruky.
 
 Nie na ňu. *Vedľa.* Na teplý kameň. Centimetre od jej prstov. Tak blízko, že cítila teplo jeho kože — alebo si to namýšľala. Leopardie škvrny na jeho zápästí v mesačnom svetle vyzerali ako ostrovčeky na mape sveta, ktorý ešte nikto neobjavil.
