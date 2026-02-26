@@ -250,6 +250,94 @@ Na šiesty deň pôjde do prístavu.
 
 ---
 
+Šla.
+
+Arkot stál pri lodiach a nakladal vrecia. Zbadal ju skôr, než ona jeho — otočil sa, akoby vedel. Nič nepovedal. Len sa usmial tým pomalým úsmevom a kývol hlavou smerom k mestu.
+
+Prišla znova na siedmy deň. Na ôsmy. Na deviaty.
+
+Na desiaty deň povedal: *„Vieš o záhrade za starým kanálom? Tá so svietiacimi stromami. V noci tam nikto nechodí."*
+
+Yera vedela o záhrade. Chodila tadiaľ každý deň cestou z chrámu. Stromy tam svietili tyrkysovo a zeleno, mach na kameňoch fosforeskoval, a lavičky boli staré a rozpadajúce sa, nikto ich neopravoval, lebo nikto tam večer nechodil.
+
+*„Viem,"* povedala.
+
+*„Dnes o polnoci?"*
+
+Zaváhala. Jeden takt. Dva.
+
+*„Áno,"* povedala.
+
+---
+
+Tréning začal ráno po rozhovore s otcom. Soril nestrácala čas.
+
+Chodili do malej miestnosti za chrámovou knižnicou — kamenné steny, jeden stôl, dve stoličky, okno, cez ktoré len žmurkalo svetlo. Žiadne dekorácie. Žiadne modlitby na stenách. Pracovňa, nie svätyňa. [→ characters/Soril.md: Soril rozlišuje medzi prácou a vierou — chrám je pre veriacich, pracovňa je pre Strážkyňu]
+
+Prvý deň Soril položila na stôl bielu Knihu El. Tú z oltára. Yera ju poznala naspamäť.
+
+*„Čítaj,"* povedala Soril.
+
+*„Poznám ju."*
+
+*„Čítaj."*
+
+Yera čítala. Nahlas, pomaly, verš po verši. Soril sedela oproti a nepozrela na knihu ani raz. Pozerala na Yeru.
+
+Keď Yera skončila prvú kapitolu, Soril povedala: *„Čo si nepochopila?"*
+
+*„Nič."* Pauza. *„Všetko."*
+
+Soril prikývla. Ako keby to bola správna odpoveď. *„Zajtra znova."*
+
+Každý deň čítala. Každý deň iná pasáž, iná kapitola, iný verš. Soril kládla otázky — nie teologické, nie o viere. Technické. *Prečo El opisuje svetlo takto a nie inak? Čo znamená „iný breh" v kontexte tejto kapitoly? Prečo práve tu autorka prepína čas?*
+
+Autorka. Nie svätá. Nie bohyňa. *Autorka.*
+
+Yera si to prvýkrát všimla po treťom týždni. Soril hovorila o Knihe El ako o texte, nie o zjavení. [NOTE: Soril vie viac než hovorí — pozná originál. Ale nepovie to ešte. Len pomaly mení Yerin referenčný rámec. Zámerné.]
+
+Okrem čítania — Spira. Soril učila techniky, ktoré Yera nepoznala. Nie liečenie, nie základy. Pokročilé vrstvy Vody — manipulácia teploty, presmerovanie prúdov na diaľku, diagnostika tkanív bez dotyku. Veci, ktoré kňažky nevedeli, lebo kňažky nepotrebovali vedieť. Strážkyňa potrebovala. [→ 03-technology.md: Gen 2 Spira, element vody — čas/procesy, diagnostika, manipulácia teploty]
+
+Yera sa učila rýchlo. Príliš rýchlo — Soril to videla, aj keď nepovedala nič.
+
+Každý deň tréning. Každú noc park.
+
+---
+
+Záhrada za starým kanálom bola iná v noci než cez deň.
+
+Cez deň — stromy, mach, stará lavička, chodník. Pokojné. Trochu smutné, lebo nikto neprišiel.
+
+V noci — iný svet. Stromy svietili intenzívnejšie, lebo nebolo s čím súperiť — len tma a ich vlastné tyrkysové svetlo, ktoré robilo tiene tam kde tiene nemali byť, a menilo vzduch na niečo husté a opojné. Mach na kameňoch fosforeskoval slabo, modrozeleno, ako keby kamene dýchali. Nočné kvety pozdĺž múru — fialové, ružové, biele — sa otvárali práve teraz a pulzovali, každý vo vlastnom rytme, a spolu to vyzeralo ako náhodná hudba. [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
+
+Arkot čakal na lavičke. Vždy tam bol skôr.
+
+Prvú noc sedeli na opačných koncoch lavičky a hovorili o Beladiss. O Nyau. O mori. Bezpečné témy. Veľká medzera medzi nimi na drevenom sedadle.
+
+Druhú noc sa medzera zmenšila. Tretiu noc zmizla.
+
+Štvrtú noc mu položila hlavu na rameno a sledovala, ako sa fialové žilky svetla z kvetov pohybujú po jeho tvári. Leopardie škvrny na jeho krku v tom svetle vyzerali ako súhvezdzia. Myslela na to, čo povedal na streche — *cítim, že to nie je len obloha* — a myslela na Knihu El a na verš, ktorý Soril ten deň označila ceruzkou bez vysvetlenia: *A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.*
+
+Povedala mu to. Nahlas, do tmy.
+
+Arkot chvíľu mlčal. Potom: *„To je z tej svätej knihy?"*
+
+*„Áno."*
+
+*„Zvláštne slová pre svätú knihu."*
+
+*„Áno,"* povedala Yera. *„Viem."* [NOTE: Foreshadowing — Yera začína cítiť nesúlad medzi tým čo vie a tým čo číta. Toto je zárodok pochybnosti. → the-book-of-El.md]
+
+Arkot si ju pritiahol bližšie. Len o kúsok. Ramenom, nie rukou. A Yera zavrela oči a cítila teplo jeho tela a vôňu mora a soli a niečoho, čo bol čisto on, a záhrada svietila okolo nich tichým fialovým svetlom, a nikde inde na svete nebolo nič dôležité.
+
+Zostávala dlho. Príliš dlho. Vracala sa domov keď Sai klesal k horizontu, bosými nohami cez tiché ulice, strážkyne doma spali, a ona vchádzala bočnou bránou a sadla si na posteľ a nedokázala spať.
+
+Ráno prišla k Soril. Čítala. Trénovala. Odpovedala na otázky.
+
+A čakala na noc. [NOTE: Dvojitý život — deň: Soril, Kniha, Spira. Noc: Arkot, záhrada, teplo. Yera žije v oboch svetoch súčasne a postupne vie, že to tak nemôže ostať. Ale ešte nevie ako to skončí.]
+
+---
+
 [NOTE: Druhá kapitola = prebudenie do reality po festivale. Yera, Nyau, zlatá klietka, Cirkev El, otec. Klietka NIE JE zásnuby — je to ZASVÄTENIE do Chrámu El (celibát, celoživotná služba). Kontrast s festivalovou nocou (Ch1) — zo slobody do klietky. Otázka „Kedy som prestala vidieť?" dostáva nový význam po stretnutí s Arkotom.]
 
 [NOTE: ZMENA OPROTI yera-arc-novela.md — pôvodný plán mal zásnuby s klanom Mireth. Nový smer: Yera má byť strážkyňa/kňažka Chrámu El. Celibát na celý život. Obrovská prestíž pre klan Saéli. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu.]

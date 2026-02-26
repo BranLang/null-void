@@ -65,16 +65,14 @@
 
 **Rozchod a jaskyňa (~AY 3012):**
 - Rozišli sa. Potom prišla jaskyňa.
-- Po expedícii do Jaskyne Ela transfer esencie Inetis prešiel na Tami — a Tami sa **zmenila**. Vstávala v noci, mrmlala v cudzom jazyku, bola niekde inde. Odťahovala sa od všetkých.
-- **Flint to videl.** Ale **nerozumel**. Tami o Maksovi nikdy nehovorila — nikdy, nikomu, za žiadnych okolností. *„Nehovoríme o Maksovi."* Flint nevedel o 7 rokoch putovania, o vyznaní v 15-tich, o odmietnutí. Pre Flinta bola Tami záhada — krásna kapitánka, ktorá ho skúsila a potom sa stratila do seba bez vysvetlenia.
-- **Toto bolo horšie než prehrať s konkrétnym chlapom.** Keby vedel s kým prehráva, mohol by bojovať alebo sa vzdať. Ale prehrať s niečím neviditeľným, nepomenovaným — to je šialenstvo. Niečo ju ťahalo preč a on nevedel čo.
-- Toto bola finálna rozbúška. Nie samotný rozchod — ale to, čo prišlo po ňom. Strata bez vysvetlenia.
+- Po expedícii do Jaskyne Ela transfer esencie Inetis prešiel na Tami — a Tami začala snívať o Maksovi. Nie abstraktne. Konkrétne. Tvár, hlas, možno útržky jeho spomienok.
+- **Flint to videl.** Pozoroval, ako Tami vstáva v noci, ako sa mení, ako je niekde inde. A pochopil: *prehral som nie s iným chlapcom — ale s duchom. S mŕtvym mužom v kryostáze.*
+- Toto bola finálna rozbúška. Nie samotný rozchod — ale to, čo prišlo po ňom.
 
-**Flintova motivácia pred krádežou:**
-- **Nie** pomsta. **Nie** plán prebudiť niekoho. Flint o Maksovi nevedel.
-- **Únik.** Odísť od ženy, ktorá ho milovala a potom sa stratila do seba. Od posádky, kde sa cítil treťoradý. Od života, kde bol strelec na cudzej lodi.
-- **Peniaze** = nový začiatok. Anténa vyzerala hodnotne. Šoravene Shobors = čierny trh.
-- **Zranená pýcha** = motor. Flint celý život skákal prvý. Teraz bol ten, čo zostal pozadu. To pre neho bolo neznesiteľné.
+**Flintova logika pred krádežou:**
+- Flint si myslel: *Ak prebudím Maksa, Tami bude musieť čeliť skutočnému človeku, nie ideálu v snoch. A skutočný Maks ju znova odmietne — lebo ona je jeho padavan, bol jej mentor, a to sa nezmení. A potom sa vráti ku mne.*
+- Tragicky chybná logika. Ale psychologicky presná pre 27-ročného muža beznadejne zaľúbeného.
+- Krádež Antény nebola len únik — bola to pokus vymazať Maksa tým, že ho prebudí do reality.
 
 **Flint dostal najhoršiu odpoveď — nie "nie", ale "skúsila som a nedokážem."**
 - Keby Tami povedala rovno nie, Flint by to zniesol. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
@@ -82,8 +80,8 @@
 - *„Keby som bol Pursang, pozrela by sa na mňa?"* — Flint si myslel, že je kastový problém. Nebol. Tami bola kastovo slepá. Ale Flint to nechápal.
 
 ### Plán — Krádež Antény
-- Po expedícii a po tom, čo videl Tami strácať sa do seba bez vysvetlenia, Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors.**
-- Motivácia bola vrstvená: **únik** od ženy, ktorá ho milovala a potom sa stratila do seba + **peniaze** = nový začiatok (Anténa vyzerala hodnotne, Šoravene Shobors = čierny trh) + **zranená pýcha** = motor (celý život skákal prvý, teraz bol ten, čo zostal pozadu).
+- Po expedícii do Jaskyne Ela a po tom, čo videl Tami snívať o Maksovi, Flint vymyslel plán: **Ukradnúť Anténu, predať ju v Šoravene v Shobors.**
+- Motivácia bola vrstvená — sám nevedel, ktoré bolo primárne: únik od bolesti + zúfalý pokus prebudiť Maksa do reality (ak ho Tami stretne ako skutočného človeka, nie ako ideál v snoch, Maks ju znova odmietne a ona sa vráti) + peniaze ako vedľajší efekt.
 - Presvedčil Arkota: *„Poď so mnou. Tami nájde ďalšie artefakty. Je v tom dobrá. Tento jeden — ten je náš."*
 - **Arkot nesúhlasil, ale šiel.** Lebo Flint bol jeho najlepší priateľ a celý život ho nasledoval. Toto je Arkotova definičná chyba — pasivita. Videl, ako Flint po rozchode s Tami pomaly degeneruje. Videl plán. A nepovedal Tami. Nie lebo schvaľoval — lebo nechcel konfliktu. Mlčanie z pohodlnosti. A to je horšie než súhlas.
 - **Yera nesúhlasila** — ale šla za Arkotom.
