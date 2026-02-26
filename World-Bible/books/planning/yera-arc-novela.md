@@ -566,6 +566,60 @@
 
 ---
 
+## [ALTERNATÍVA] — Yera ako katalyzátor post-Book 1
+
+> *Nepotvrdené. Brainstorming. Ale zaujímavé.*
+
+### Situácia po Book 1
+
+- **Maks** — mŕtvy (alebo stále v kóme — nedožil sa)
+- **Arkot** — mŕtvy (padol v Book 1)
+- **Flint** — mŕtvy (zastrelený v Šoravene, ešte pred Book 1)
+- **Tami** — uniká s Anténou. Stratila všetkých.
+- **Yera** — zajatá Mormiel. Má Knihu El (nikto o tom nevie). Je „skladovaná" pre Rituál Nástupníctva.
+
+### Mormiel doráža s celou armádou
+
+Mormiel prichádza po Yeru — nie len kvôli Rituálu. Ak sa dozvie o Knihe El (a najmä o Kvintesencii v nej), motivácia sa znásobí. Yera nie je len kandidátka na Rituál — je **kľúč k absolútnej moci**.
+
+### Tami uniká
+
+Tami s Anténou uteká — smer **Kitsune**? Alebo inam. Stratila Arkota, stratila Yeru. Má Anténu, ale nemá nikoho.
+
+### Sera zamiešala karty — ale Yera ich prevrátila
+
+**Sera** — trpezlivá, šachová hráčka, plánuje v storočiach. Jej masterplan: **spojiť Links a Tami**. Dať ich dokopy. Spoločne poraziť Mormiel.
+
+- Sera posiela/naviguje **Links** smerom na Nevriss
+- Links ide **zachrániť Tami** — Serin plán
+- **Ale Tami tam nie je** — utiekla. Alebo je preč.
+- **Links nájde Yeru** — zajatú, alebo skrývajúcu sa, alebo v Mormieliných rukách
+- **Links zachráni Yeru namiesto Tami**
+
+### Prečo je to silné
+
+1. **Sera prvýkrát stratí kontrolu** — na šachovnici je figúrka, ktorú tam nepoložila. Yera. Pacifistka z Nyau s najnebezpečnejším artefaktom na planéte. Sera plánovala storočia — a dievča so svetielkujúcou knihou rozbilo celý plán.
+
+2. **Links a Yera** — nečakaná dvojica. Links (človek z Ludus → Nevriss) namiesto romantického stretnutia s Tami nájde Yeru (Neko z Nyau). Oba outsideri v Nevriss — on je človek medzi Varietas, ona je Neko z exotického juhu. Iná dynamika. Iný príbeh. A Tami ostane sama — jej arc nie je o láske, je o povinnosti a obete.
+
+3. **Tami musí chrániť Yeru** — ale nie je pri nej. Tami sa dozvie, že Yera je v nebezpečenstve a musí sa vrátiť. Arc: Tami znovu zachraňuje svoju rodinu, aj keď ju tá rodina predtým zradila.
+
+4. **Tami ostane sama** — Serin plán zlyhá. Sera chcela Links + Tami. Dostane Links + Yera. A Tami ide vlastnou cestou — s Anténou a Echom Inetis v hlave. Jej arc nie je o romantike. Je o povinnosti, obete a samote. Všetkých stratila. A aj tak ide ďalej.
+
+5. **Tami + Links sa stretnú neskôr** — ale nie romanticky. Cez Yeru. Sera chcela priamu cestu (Links → Tami). Dostala obchádzku (Links → Yera → Tami). Achilles je živý organizmus — neposlúcha šachové plány.
+
+### Otvorené otázky
+
+- [ ] Kedy presne zomrie Maks? V Book 1 alebo neskôr?
+- [ ] Ako sa Links dozvie o Yere? Sera ho naviguje, ale nečaká Yeru.
+- [ ] Čo Mormiel chce od Yery? Len Rituál? Alebo aj Knihu El / Kvintesenciu?
+- [ ] Vie Tami, že Yera má Knihu El? (Odpoveď: nie. Nikdy jej to nepovedala.)
+- [ ] Kde je Tami, keď Links hľadá v Nevriss? Kitsune? Na ceste?
+
+[NOTE: Brainstorming. Nepotvrdené pre žiadnu knihu. Ale potenciálne silný arc, ktorý dáva Yere ústrednú rolu a rozbíja Serin masterplan organicky.]
+
+---
+
 ## Referencie
 
 - **Yerana**: → `characters/Yera.md`
@@ -573,6 +627,9 @@
 - **Flint**: → `characters/Flint.md`
 - **Tami**: → `characters/Tami.md`
 - **Felix**: → `characters/Felix.md`
+- **Links**: → `characters/Links.md`
+- **Sera**: → `characters/Sera.md`
+- **Mormiel**: → `characters/Mormiel.md`
 - **Kitsune**: → `regions/kitsune.md`
 - **Mormiel**: → `characters/Mormiel.md` (falošná krypta, Anténa)
 - **Cirkev**: → `06-society.md`

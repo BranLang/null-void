@@ -163,6 +163,13 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - Inetis: **softvér** — Pentagram IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
 - Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Simire). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
 
+**Inetis a Kvintesencia — Zakázané poznanie:**
+Kvintesencia — piaty element Pentagramu, Vedomie — bola téma, o ktorej Elania s matkou veľa hovorili. Ešte v čase Elysia, kým boli spolu. Inetis nakoniec Kvintesenciu **implementovala** — pochopila mechanizmus, ako vedomie funguje ako príkazový kód pre nanoboty. Ale odmietla toto poznanie zdieľať s Varietas. Dôvod: **bála sa, že by boli príliš silní.** Kto ovláda Kvintesenciu, ovláda všetky štyri elementy zároveň. Žiadna Spira Rada, žiadna rovnováha — len absolútna moc.
+
+Kľúčový rozdiel: Varietas používajú štyri elementy cez Spiru — cez nanoboty, cez prach. Kvintesencia je **prach bez prachu** — nehmotný prach. Priamy príkaz vedomia do subspace bez prostredníka, bez nanobotov, bez fyzického média. Čistá energia zo subspace, ovládaná len vôľou. Kto ovláda Kvintesenciu, nepotrebuje Spiru. Je nad celým systémom.
+
+Inetis si toto tajomstvo nechala pre seba a zobrala si ho do hrobu. Aspoň si to myslela — ale fragmenty tohto poznania prežili v **Knihe El**, zabalené v haiku, ktorým už nikto nerozumie. [→ 03-technology.md: Kvintesencia] [→ characters/Yera.md: Kniha El — tajné experimenty]
+
 **Inetis a Veľký Upload — Odmietnuté poznanie:**
 Inetis bola na stope tomu istému ako Elania. Ako bývalá AI, ktorá sa stala človekom, chápala lepšie než ktokoľvek, že existencia je len stav vedomia a telo je len médium — médium, ktoré vedomie obmedzuje. Tieňoví jej ponúkli cestu von z tohto obmedzenia. Videla to matematicky.
 

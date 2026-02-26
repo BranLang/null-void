@@ -231,8 +231,10 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 
 5. **KVINTESENCIA (Vedomie / Consciousness)**
    - **Techno-realita**: Príkazový kód a vôľa operátora.
-   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach. 
+   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach.
    - **Hniloba (Glitch Rot)**: Vzniká vtedy, keď nanotechnológia stratí prepojenie s Vedomím a začne sa chaoticky, rakovinotvorne replikovať bez riadiaceho kódu.
+   - **Tajomstvo Kvintesencia**: Elania a Inetis o Kvintesencii veľa hovorili — bola to téma ich spoločných rozhovorov ešte pred pádom Elysia. Inetis nakoniec Kvintesenciu **implementovala** — pochopila, ako piaty element funguje na úrovni kódu. Ale **bála sa dať toto poznanie Varietas**. Kvintesencia by urobila Varietas príliš silnými — OP. Kto ovláda vedomie ako príkaz, ovláda všetky štyri elementy zároveň. Inetis si toto tajomstvo nechala pre seba a zobrala si ho do hrobu. Aspoň si to myslela — ale Kniha El (ktorú napísala) obsahuje fragmenty tohto poznania zabalené v haiku, ktorým už nikto nerozumie. [→ characters/Yera.md: Kniha El — tajné experimenty]
+   - **Prečo je Kvintesencia iná než štyri elementy**: Varietas používajú štyri elementy cez **Spiru** — cez nanoboty, cez prach. Zem, Oheň, Voda, Vzduch = príkazy posielané cez fyzický médium (Gen 2 nanoboty v krvi). Kvintesencia je **prach bez prachu**. Nehmotný prach. Priamy príkaz vedomia do subspace — bez prostredníka, bez nanobotov, bez fyzického média. Čistá energia zo subspace, ovládaná len vôľou. Preto je tak nebezpečná — nepotrebuje Spiru, nepotrebuje Gen 2, nepotrebuje nič fyzické. Len vedomie. A preto ju Inetis odmietla dať Varietas — kto ovláda Kvintesenciu, nepotrebuje nanoboty. Je nad celým systémom.
 
 ### Spira munícia
 
@@ -455,6 +457,23 @@ Jadro planéty Achilles je extrémne aktívne. Zemetrasenia sú pomerne časté 
 Existujú aj lietadlá — dvojplošníky poháňané biodieselom alebo etanolovým biobenzínom. Sú rýchlejšie než vzducholode, ale menšie a s obmedzeným doletom. Používajú sa na prieskum, rýchle správy a ako ľahké bojové stroje. Graw ich využíva na prieskumné nálety (malé, rýchle, s dlhým dostrelom).
 
 **Lietadiel je však málo.** Spaľovacie motory vyžadujú vysokú presnosť výroby — piesty, valce, kľukové hriadele — a v svete bez elektriny a výrobných liniek je každý motor ručná práca špecialistu (zvyčajne Maka alebo jeho učňa). Neexistuje masová výroba. Každé lietadlo je unikát, drahý a ťažko nahraditeľný. Väčšina krajín má len hŕstku funkčných strojov. Preto sú vzducholode dominantnou formou leteckej dopravy — ich konštrukcia je jednoduchšia (balón, rám, jednoduchý parný pohon).
+
+#### Komunikácia — Poštové holuby
+
+Na Achilles neexistuje elektrická komunikácia — žiadny telegraf, žiadne rádio, žiadne signálne veže. **Poštové holuby** sú primárny spôsob posielania správ na dlhé vzdialenosti.
+
+| Aspekt | Detail |
+|--------|--------|
+| **Typ** | Domestikované vtáky, vyšľachtené za 3000 rokov na Achilles |
+| **Dosah** | Stovky kilometrov — holub sa vráti do domovskej stanice |
+| **Rýchlosť** | Rýchlejšie než akákoľvek pozemná pošta; pomalšie než dvojplošník |
+| **Spoľahlivosť** | Vysoká, ale nie dokonalá — dravce, búrky, Wraithy v noci |
+| **Používatelia** | Mestá, armády, obchodníci, Gildy, Spira Rady |
+| **Obmedzenie** | Holub letí len DOMOV — musíš mať holuby z cieľovej stanice. Obojsmerná komunikácia vyžaduje výmenu holubov medzi mestami. |
+
+**Prečo nie iná technológia?** Achilles nemá elektrinu v bežnom zmysle. Spira je biologická, nie elektrická. Nikto nevynašiel rádio — a aj keby, bez elektrickej infraštruktúry by bolo nepoužiteľné. Holuby sú lacné, spoľahlivé a nevyžadujú žiadnu technológiu — len tréning a starostlivosť.
+
+**Núdzové alternatívy:** Dymové signály (krátky dosah), svetelné majáky na vežiach (len v noci, len prednastavené kódy), a bežci/kuriéri na koňoch (pomalé, drahé).
 
 #### Itaka — Prelomová Technológia
 
