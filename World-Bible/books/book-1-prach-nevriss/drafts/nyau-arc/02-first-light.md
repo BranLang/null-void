@@ -56,7 +56,7 @@ Soril mlčala. Čakala.
 
 Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala ju. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
 
-Trvalo to dlho. Kňažky okolo nej stáli a pozerali. Chrámová záhrada bola tichá — len cvrkot svetlušiek a vzdialený šum gondoly na kanáli pod kopcom. Sai sa posunul o kúsok ďalej. Kadidlo slablo.
+Trvalo to dlho. Kňažky okolo nej stáli a pozerali. Chrámová záhrada bola tichá — len cvrčky v trávach medzi koreňmi a vzdialený šum gondoly na kanáli pod kopcom. Svetlušky poletovali nízko nad zemou — modré, tyrkysové, zelené bodky — krúžili okolo kmeňa stromu, ktorý Yera liečila, akoby kontrolovali jej prácu. Sai sa posunul o kúsok ďalej. Kadidlo slablo.
 
 Keď Yera zdvihla ruky, prsty mala studené ako ľad. Ale strom sa pomaly rozsvietil — tyrkysová žiara sa vliala od koreňov nahor, vetvu po vetve, list po liste, akoby sa prebúdzal zo sna. Chrámová záhrada sa o niečo rozjasnila.
 
@@ -86,11 +86,11 @@ Cesta z chrámu dolu kopcom trvala štvrťhodinu. Yera ju poznala naspamäť —
 
 Strážkyne kráčali tri kroky za ňou. Dve. Tiché, neviditeľné, ako tiene, ktoré sa nedajú zhodiť. Yera ich nepočítala. Boli tam, odkedy si pamätala. Súčasť sveta, ako svetlo a horúčava. Nie pre ochranu — kto by ublížil Saéli? — ale pre *poriadok*. Dcéra klanu nechodila sama. To sa nerobilo. To sa nikdy nerobilo.
 
-Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. Ale Nyau nikdy celkom nespalo. Na terase kaviarne pri kanáli sedeli traja starí muži a hrali hru s kamennými kockami. Gondolier pod mostom spieval potichu — pieseň, ktorú Yera poznala, ale nikdy nepočúvala. Mačkovitý chlapec, sedel na zábradlí mostu a kýval nohami nad vodou, jedol pečený hmyz zo zamasteného papiera. Voňal korením. [→ regions/nyau.md: pečený hmyz, bežné streetfood]
+Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. Ale Nyau nikdy celkom nespalo. Na terase kaviarne pri kanáli sedeli traja starí muži a hrali hru s kamennými kockami, odháňajúc veľké zelené muchy, čo im krúžili okolo pohára. Gondolier pod mostom spieval potichu — pieseň, ktorú Yera poznala, ale nikdy nepočúvala. Mačkovitý chlapec, sedel na zábradlí mostu a kýval nohami nad vodou, jedol pečený hmyz zo zamasteného papiera. Voňal korením. [→ regions/nyau.md: pečený hmyz, bežné streetfood]
 
 Yera prešla okolo neho. Chlapec zdvihol oči — zaregistroval chrámové rúcho, Pursang držanie tela, strážkyne — a rýchlo sklopil zrak. Tak fungovalo Nyau. Kasty sa nestretávali. Kasty sa míňali. [→ regions/nyau.md: kastový systém, Pursang + Mezra = absolútne neprípustné]
 
-Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Svetlušky. Ticho, prerušované len šuchom koreňov a jej vlastnými krokmi na štrkové ceste.
+Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Svetlušky — desiatky, stovky, vznášajúce sa medzi kmeňmi v pomalých oblúkoch, modré a tyrkysové a zelené, a niektoré žlté, a jedna veľká fialová, čo sa vzniesla nad koruny a zmizla. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk. Ticho medzi nimi, prerušované len šuchom koreňov a jej vlastnými krokmi na štrkové ceste.
 
 A pamätná tabuľa na konci aleje.
 
@@ -146,7 +146,7 @@ Yera čakala. Vedela, že veta nekončí.
 
 „Soril hovorila s Radou kňažiek." Otec hovoril pokojne. Bez emócií. Vecne. Slová ako šachové ťahy — premyslené tri kroky dopredu. „Chcú ťa. Pre Chrám. Ako strážkyňu." [→ regions/nyau.md: Kňažky Cirkvi El majú nezávislé postavenie — mimo klanovej politiky. Pre dcéru klanu je vstup do Chrámu = obrovská prestíž pre celú rodinu]
 
-Pauza. Svetlo stromu sa zachvelo — vánok cez korunu, tiene na otcovej tvári, tiene na Yerinej. Vzduch bol horúci a ťažký, napustený vôňou kvetov zo záhrady, vôňou čaju, vôňou kadidla, ktoré sa sem nieslo z chrámu cez celé mesto. Strunová hudba dozvibrovala. Posledná modlitba dňa.
+Pauza. Svetlo stromu sa zachvelo — vánok cez korunu, tiene na otcovej tvári, tiene na Yerinej. Vzduch bol horúci a ťažký, napustený vôňou kvetov zo záhrady, vôňou čaju, vôňou kadidla, ktoré sa sem nieslo z chrámu cez celé mesto. Cikády v korune stromu vibrovali — ten vysoký, ostrie-brúsiaci zvuk, čo patril k nyauským nociam tak isto ako kadidlo a svetlo. Strunová hudba dozvibrovala. Posledná modlitba dňa.
 
 „Po festivale začne zasvätenie."
 
@@ -180,7 +180,7 @@ Otec odložil šálku. Pomaly, premyslene, gesto muža, ktorý nikdy nič nerobi
 
 „A kým som?"
 
-Otec sa takmer usmial. Takmer. Kútiky úst sa zdvihli o milimeter — a vrátili sa. „Saéli," povedal. Akoby to bola odpoveď na všetky otázky naraz.
+Otec sa takmer usmial. Takmer. Kútiky úst sa zdvihli o šestnástinu palca — a vrátili sa. „Saéli," povedal. Akoby to bola odpoveď na všetky otázky naraz.
 
 Yera vstala. „Dobrú noc, otec."
 
@@ -211,6 +211,8 @@ Vedela, čo to znamenalo. Videla kňažky v chráme — krásne, dôstojné, pok
 V Nyau sa nechcelo. V Nyau sa plnilo. Klan Saéli si nevyberal. Klan Saéli rozhodoval. A dcéry klanu boli buď sľúbené mužom, alebo sľúbené bohom. Iná klietka, rovnaký zámok.
 
 Položila ruky na zábradlie. Kameň bol teplý — aj v noci, aj po hodinách tmy, ako keby nikdy nechladol, ako keby si pamätal slnko aj potme. Pazúry — jemné, krátke, tmavé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
+
+Cvrčky za oknom hrali svoju nočnú litániu — rovnakú včera, rovnakú zajtra, rovnakú odkedy Nyau stálo. Svetlušky krúžili okolo nočných kvetov v záhrade pod balkónom — tyrkysové, modré, niektoré zelenkavé — a z kanálu sa niesol slabý šum vody a vôňa rias.
 
 Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci. Päť, šesť postáv v lampášovom svetle, stavali konštrukcie, vešali šnúry medzi kamenné stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené, ako mŕtve svetlušky na nitiach.
 
@@ -248,7 +250,7 @@ Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
 ---
 
-Prístav ožil skorým poobedím. Voniačim drevom cudzích lodí a potom nakladačov. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prepaľovala očami každý nakladací dok.
+Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prepaľovala očami každý nakladací dok.
 
 Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. 
 
@@ -310,13 +312,13 @@ A cez noc — tepot srdca a záhrada.
 
 ---
 
-Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholická cez deň, temná a pulzujúca za šera. Stromy horeli hustou tyrkysovou šťavou v lyku a pohlcovali celú architektúru záhrady. Chladný kameň i hlinená cesta podliehali slabo fosforeskujúcim modrozeleným lišajníkom, akoby chodili po chrbte dýchajúceho prastarého zvieraťa. Všadeprítomné fialové a ružové kvety otvárali svoje hluché ústa a chytali nočný vzduch. [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
+Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholická cez deň — horúca, smradľavá od stojatej vody v kanáli, s muchami krúžiacimi nad rozpadajúcimi sa lavičkami. Ale za šera sa menila. Stromy horeli hustou tyrkysovou šťavou v lyku a pohlcovali celú architektúru záhrady. Chladný kameň i hlinená cesta podliehali slabo fosforeskujúcim modrozeleným lišajníkom, akoby chodili po chrbte dýchajúceho prastarého zvieraťa. Všadeprítomné fialové a ružové kvety otvárali svoje hluché ústa a chytali nočný vzduch. A svetlušky — stovky — sa zdvíhali z trávy a z kríkov a z machu na kameňoch, modré a tyrkysové a zelené, niektoré žlté, sem-tam fialová väčšia než ostatné, a poletovali v pomalých oblúkoch medzi kmeňmi, akoby záhrada dýchala svetlom. Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo hovoriť potichu a nikto ťa nepočul. [→ regions/nyau.md: svetlušky = bioluminiscenčný hmyz, farby: modrá, tyrkisová, zelená, žltá, fialová. Cvrčky a cikády = stála zvuková kulisa Nyau v noci] [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
 
 Lavička s prasknutou mosadznou opierkou bola vždy obsadená ešte pred padnutím prvej rosy. Arkot vždy došiel prvý.
 
-Prvé noci presedeli presne meter od seba. Rozprávali sa o ničom — o tom, kto varí lepšie ryby, pobrežie Nyau alebo prístavné stánky v Beladiss. O tom, ako Arkot raz zaspal na hliadke a prebudil ho až racek, ktorý mu sadol na hlavu. O najškaredšom tetovaní, aké kedy videli. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho prerušované len odkvapkávaním vlhkosti z listov, počas ktorého obaja hľadeli rôznymi smermi a nevedeli, kam s rukami.
+Prvé noci presedeli presne tri stopy od seba. Rozprávali sa o ničom — o tom, kto varí lepšie ryby, pobrežie Nyau alebo prístavné stánky v Beladiss. O tom, ako Arkot raz zaspal na hliadke a prebudil ho až racek, ktorý mu sadol na hlavu. O najškaredšom tetovaní, aké kedy videli. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov, počas ktorého obaja hľadeli rôznymi smermi a nevedeli, kam s rukami. Svetlušky im krúžili okolo hláv — modré, tyrkysové — a Arkot jednu chytil do dlane a ukázal jej, ako svieti cez prsty, a Yera sa smiala a on ju pustil a ona odletela k ostatným.
 
-Druhá noc tú centimetrovú vzdialenosť prepolila. Tretia ju úplne zmazala.
+Druhá noc tú palcovú vzdialenosť prepolila. Tretia ju úplne zmazala.
 
 A na tú štvrtú Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír z koží Varietas. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
 

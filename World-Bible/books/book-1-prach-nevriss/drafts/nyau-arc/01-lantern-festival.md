@@ -144,6 +144,8 @@ Preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu d
 
 Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviacé laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
 
+A cvrčky. Všadeprítomné, neúnavné, splývajúce do jedného vysokého tónu, ktorý patril k Nyau tak isto ako soľ a horúčava. Cikády na stromoch pri kanáli sa pridávali vlnami — jedna skupina začala, druhá odpovedala, tretia sa prekrývala s prvou — a zvuk sa valil pomedzi skladiská ako neviditeľná rieka. Medzi nimi — svetlušky. Nie tie rastlinné, nie bioluminiscencia stromov. Živé. Hmyz so žiariacimi bruškami, modré a tyrkysové bodky poletujúce tesne nad hladinou kanálu, niektoré zelené, niektoré s nádychom žltej, a sem-tam jedna fialová, väčšia než ostatné, čo sa vzniesla vyššie a zmizla medzi strechami. [→ regions/nyau.md: svetlušky = bioluminiscenčný hmyz, nie rastliny. Farby: modrá, tyrkysová, zelená, žltá, fialová. Subtropický Nyau — cvrčky a cikády sú stálou zvukovou kulisou.]
+
 Yera sa zastavila. Nevstúpila sem úmyselne — dav sa rozriedil a ona len kráčala za vôňou mora, za tichom, za niečím, čo nevedela pomenovať.
 
 Chlapec sedel na schode.
@@ -264,7 +266,7 @@ Arkot spieval a Yera pozerala na mesto. Na kanály. Na svetlá. Na lampióny, kt
 
 Nepovedala to. Nikdy nehovorila to, čo naozaj myslela. Už ani nevedela prečo.
 
-Pieseň stíchla. Posledný tón sa rozplynul v nočnom vzduchu, zmiešal sa s vôňou soli a kadidla a kvietkov na vode.
+Pieseň stíchla. Posledný tón sa rozplynul v nočnom vzduchu, zmiešal sa s vôňou soli a kadidla a kvietkov na vode. Cikády, čo počas spevu mlčali, sa okamžite vrátili — akoby len čakali na pauzu v programe.
 
 „To je z domova?" spýtala sa.
 
@@ -276,7 +278,7 @@ Tentokrát ju vzala s oveľa väčšou istotou ako predtým dole na ulici. Napil
 
 Ticho.
 
-Dlhé, mäkké ticho, v ktorom nebolo nič treba povedať. Hudba z mesta dozvibrovala. Posledné lampióny zmizli medzi hviezdami. Vôňa korenia a grilovaných húb sa premiešala s morskou soľou a nočnými kvetmi, ktoré sa práve otvárali na fasádach domov pod nimi — fialové, ružové, biele — a pulzovali mäkkým svetlom.
+Dlhé, mäkké ticho, v ktorom nebolo nič treba povedať. Hudba z mesta dozvibrovala. Posledné lampióny zmizli medzi hviezdami. Vôňa korenia a grilovaných húb sa premiešala s morskou soľou a nočnými kvetmi, ktoré sa práve otvárali na fasádach domov pod nimi — fialové, ružové, biele — a pulzovali mäkkým svetlom. Cvrčky hrali pod nimi svoju monotónnu pieseň, stálu a trpezlivú, a svetlušky sa vznášali medzi kvetmi — modré, tyrkysové, zelené bodky, živé hviezdy pri zemi, poletujúce hore-dolu vo vzorkách, ktorým nikto nerozumel.
 
 Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým navigovať — nie kráse, ale smerom.
 
@@ -338,7 +340,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
