@@ -80,7 +80,7 @@ Zavrela Knihu.
 
 Nie — nezavrela. Zaklapla tabuľky k sebe, pergameny medzi nimi, a položila ich späť na stôl s opatrnosťou, ktorá bola v rozpore s rýchlosťou, akou vstala. Sfúkla sviečku. Zamkla dvere. Zbehla po schodoch — bosé nohy na studenom kameni, dych príliš rýchly na to, čo robila.
 
-Nočný vzduch na chrámovom dvore ju zasiahol ako facka. Horúci, vlhký, voňajúci kadidlom a nočnými kvetmi — normálny, živý vzduch sveta, ktorý nebol podzemie a pergamen a fialové svetlo. [→ regions/nyau.md: subtropická klíma, horúce aj v noci]
+Nočný vzduch na chrámovom dvore ju zasiahol ako facka. Horúci, vlhký, voňajúci kadidlom a nočnými kvetmi — normálny, živý vzduch sveta, ktorý nebol podzemie a pergamen a fialové svetlo. Cikády sa ozvali hneď — ten vysoký, vibrujúci zvuk, čo napĺňal celú chrámovú záhradu — a cvrčky pod nimi, nižšie, stálejšie. Svetlušky sa vznášali medzi kmeňmi — modré a zelené bodky, živé, hlúpe, bezstarostné. [→ regions/nyau.md: subtropická klíma, horúce aj v noci]
 
 Yera bežala cez záhradu.
 
@@ -100,11 +100,11 @@ Arkot prikývol. Nemal dôvod pochybovať. Položil ruku na lavičku vedľa nej 
 
 Záhrada svietila.
 
-Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — hádali z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Spolu to vyzeralo ako tichá hudba. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
+Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — hádali z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Svetlušky medzi nimi — krúžiace, poletujúce, modré a tyrkysové a žlté — pridávali pohyblivé bodky svetla k nehybným. Cvrčky sa ozvali v tom istom okamihu keď Yera sadla — akoby len čakali na publikom. Spolu to vyzeralo a znelo ako tichá hudba. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
 
 Arkot hovoril.
 
-O práci v prístave — vrecia, laná, žeriavy, kapitán, čo sa hádal s colníkom pre tri debny korenia. O Flintovi, ktorý dnes spadol do kanálu a musel sa sušiť na slnku ako ryba. O lodi, čo priplávala z Beladiss — malá bárka s opravenými plachtami, plná sušených rýb a správ z domova, ktoré už neboli jeho domov. Normálne veci. Zemské veci. [→ characters/Arkot.md: Beladiss, prístav. Flint = najlepší priateľ od detstva.]
+O práci v prístave — vrecia, laná, žeriavy, kapitán, čo sa hádal s colníkom pre tri debny korenia. O Flintovi, ktorý dnes spadol do kanálu a musel sa sušiť na slnku ako ryba. O poštovom holubovi, čo sa vrátil z Beladiss s prázdnym puzdrom — niekto zabudol vložiť správu, celý prístav sa smial. O lodi, čo priplávala z Beladiss — malá bárka s opravenými plachtami, plná sušených rýb a správ z domova, ktoré už neboli jeho domov. Normálne veci. Zemské veci. [→ characters/Arkot.md: Beladiss, prístav. Flint = najlepší priateľ od detstva.]
 
 A Yera počúvala napoly.
 
@@ -326,7 +326,7 @@ Nedokončil vetu.
 
 Nemusel. Yera poznala jeho svet — vedela, ako fungoval, aké bolo jeho gravitačné pole. Flint bol stred. Flint bol prvý — prvý v Diss, prvý v Nyau, prvý na lodi. Kam šiel Flint, šiel Arkot. Celý život. Nie z podriadenosti — z vernosti. Z toho tichého, tvrdohlavého druhu vernosti, aký existuje medzi ľuďmi, čo spolu vyrastali v prachu a nemali nič okrem seba navzájom. [→ characters/Arkot.md: Flint = najlepší priateľ od detstva. Nerozlučná dvojica z Beladiss. → characters/Yera.md: Yera vie o tomto pute — vie, že Flint je pre Arkota to, čo Kniha pre ňu. Gravitácia.]
 
-Záhrada svietila. Stromy, mach, kvety — všetko na svojom mieste. Rovnaké ako včera. Rovnaké ako zajtra.
+Záhrada svietila. Stromy, mach, kvety — všetko na svojom mieste. Rovnaké ako včera. Rovnaké ako zajtra. Cvrčky hrali rovnakú pieseň. Svetlušky lietali rovnakými oblúkmi. Cikáda na starom strome pri kanáli vibrovala tým istým vysokým tónom, čo Yera počúvala každú noc a nikdy nepočúvala.
 
 A Yera sedela na lavičke a prvýkrát si uvedomila niečo, čo vedela odjakživa, ale odmietala pomenovať:
 
@@ -410,7 +410,7 @@ Chrámová chodba bola prázdna. Liehové lampy v rovnakých rozostupoch. Kamenn
 
 Yera stála na prahu a počúvala.
 
-Nočné Nyau. Za múrmi — kanály, tichý šum vody, vzdialená gondola. Niekde na námestí strúnový nástroj — jeden, osamotený, hrajúci pre seba alebo pre nikoho. Nočné kvety pulzovali za oknom chodby — fialové, biele, ružové. [→ regions/nyau.md: Nyau v noci — kanály, gondoly, strunová hudba, bioluminiscencia]
+Nočné Nyau. Za múrmi — kanály, tichý šum vody, vzdialená gondola. Cvrčky a cikády — ten stály, ten nikdy-nekončiaci šum, do ktorého sa človek narodil a v ktorom zomrel. Niekde na námestí strúnový nástroj — jeden, osamotený, hrajúci pre seba alebo pre nikoho. Nočné kvety pulzovali za oknom chodby — fialové, biele, ružové — a medzi nimi svetlušky, modré a zelené, poletujúce v pomalých oblúkoch. [→ regions/nyau.md: Nyau v noci — kanály, gondoly, strunová hudba, bioluminiscencia, cvrčky, svetlušky]
 
 Krásne. Všetko bolo krásne. Vždy bolo krásne.
 
@@ -422,7 +422,7 @@ A nevedela, že keď sa vráti, vezme Knihu so sebou. [NOTE: Foreshadowing krád
 
 ---
 
-Vonku bol vzduch horúci a ťažký a voňal kadidlom a morskou soľou a nočnými kvetmi. Yera prešla cez chrámovú záhradu — tá známa cesta, schodky, chodník, bioluminiscenčné stromy.
+Vonku bol vzduch horúci a ťažký a voňal kadidlom a morskou soľou a nočnými kvetmi. Cvrčky hrali bez prestávky — nikdy neprestávali, celú noc, celé leto, celý život — a svetlušky poletovali ponad chodník ako malé modré a zelené lampáše. Yera prešla cez chrámovú záhradu — tá známa cesta, schodky, chodník, bioluminiscenčné stromy.
 
 Zastavila sa.
 

@@ -98,7 +98,7 @@ Vonkajšia brána mala dva zámky. Kľúč na krku — ten chrámový, ten čo d
 
 Dvere sa otvorili do tmy.
 
-Nyau v predsvitaní. Kanály tiché, gondolieri ešte spali. Prvé stánky zatvárali — tí čo predávali nočným hosťom. Bioluminiscencia stromov bledšia v tej šedivej hodine, keď tma nevie, že prehrá.
+Nyau v predsvitaní. Kanály tiché, gondolieri ešte spali. Prvé stánky zatvárali — tí čo predávali nočným hosťom. Bioluminiscencia stromov bledšia v tej šedivej hodine, keď tma nevie, že prehrá. Cvrčky stíchli pred minútou — alebo dvoma — a ešte bolo príliš skoro na prvé cikády. Posledné svetlušky doletávali do trávy pri kanáli a zhasínali. Tá zvláštna predsvitajúca prázdnota, keď ani hmyz nevedel, čo robiť.
 
 Yera išla k chrámu. [NOTE: Najprv chrám — potom prístav. Poradie je dôležité. Yera nejde po Arkotovi, ide po Knihe. Prístav je druhý krok.]
 
@@ -138,7 +138,7 @@ Potom odišla.
 
 Prístav sa prebúdzal.
 
-Prvé bárky vychádazali z kanálov, prvé gondoly nakladali tovar. Rybári, obchodníci, námorníci čo odchádzali skôr než sa mesto zobudí. Normálne ráno. Yera v kabáte a čižmách prešla pomedzi ne bez zastávky — zlatá mládež, bohatá, možno trochu opitá, čo idem domov ráno, nepýtaj sa, nepýtaj sa.
+Prvé bárky vychádzali z kanálov, prvé gondoly nakladali tovar. Rybári, obchodníci, námorníci čo odchádzali skôr než sa mesto zobudí. Muchy sa prebúdzali — ešte lenivé, ešte pomalé, ale už tu, bzučiace okolo rybích debien na mole. O hodinu ich budú tisíce. Normálne ráno. Yera v kabáte a čižmách prešla pomedzi ne bez zastávky — zlatá mládež, bohatá, možno trochu opitá, čo idem domov ráno, nepýtaj sa, nepýtaj sa.
 
 Nikto sa nepýtal.
 
@@ -166,7 +166,7 @@ Nevie. Ešte. Ale vie toto: vonku je priestor, kde si môžeš vybrať — aj d�
 
 Beladiss malo iný zápach než Nyau.
 
-Menej bioluminiscencie, viac dymu, viac kovárne, viac rybieho oleja. Prístav bol hlučnejší, nahustejší, pracujúcejší. Žiadna architektúra z koralov — len kameň a drevo a lode nahustené pri moloch ako sardiny.
+Menej bioluminiscencie, viac dymu, viac kovárne, viac rybieho oleja. Žiadne cikády — príliš ďaleko na severe. Namiesto nich racky, stovky, kričiace a krúžiace nad rybími trhmi. Muchy tu boli tiež, ale menšie, tmavšie, drzejšie. Prístav bol hlučnejší, nahustejší, pracujúcejší. Žiadna architektúra z koralov — len kameň a drevo a lode nahustené pri moloch ako sardiny.
 
 Yera sa pýtala v prvej krčme pri prístave.
 

@@ -20,7 +20,7 @@
 
 ---
 
-Lampa v parku hádzala žlté kruhy na dlažbu.
+Lampa v parku hádzala žlté kruhy na dlažbu. Cvrčky hrali svoju nočnú litániu a svetlušky — modré, tyrkysové, zelené — krúžili pomedzi kríky pri lavičke, kde Yera sedela s Arkotom. Cikáda na strome nad nimi vibrovala tak hlasno, že takmer prekryla zvuk krokov.
 
 Yera ani nezačula kroky. [NOTE: zámerné — Soril je Strážkyňa, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
 
