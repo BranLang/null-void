@@ -284,7 +284,7 @@ Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým
 
 Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi — Chrám El ich učil naspamäť ako modlitby.
 
-„Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch3 uvidí originál a zistí čo Cirkev vystrihla. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
+„Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch2 (Čierna kniha) uvidí originál — kompletný, neporušený, so všetkým čo biela Kniha neprevzala. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
 
 Arkot sa usmial — nie pohrdlivo, len tým pomalým úsmevom muža, čo videl veľa prístavov a málo chrámov. „V Diss hovoria, že prišli z mora. Že svet bol len voda a z tej vody sme vyliezli."
 

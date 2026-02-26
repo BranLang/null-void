@@ -346,7 +346,7 @@ A čakala na noc. [NOTE: Dvojitý život — deň: Soril, Kniha, Spira. Noc: Ark
 
 [NOTE: PRAVÝ DÔVOD ÚTEKU — Yera neuteká KVÔLI Arkotovi. Uteká PRED dôsledkami krádeže. Keď zistia, že Kniha chýba, pôjde jej o život. Arkot je reálna láska, ale aj úniková cesta. ON SI MYSLÍ, že je hlavný dôvod — že Yera si ho vybrala nad klan, nad chrám, nad všetko. Romantický príbeh, ktorý si rozpráva. Ale pravda je škaredšia: Yera už bola v úteku, keď sa k nemu pridala. Toto je jej najhlbšie tajomstvo — hlbšie než mlčanie o Flintovom pláne.]
 
-[NOTE: TIKAJÚCA BOMBA — Kniha El sa odhaľuje verejnosti každých 5 zím počas najsilnejšej zimy (keď sa zima obracia). Toto sa časovo kryje s vojnou o Šoraven (Book 1). Keď príde čas odhalenia a Kniha tam nebude → katastrofa. Kto ju ukradol? Kde je? → spája nyau-arc s hlavným dejom.]
+[NOTE: TIKAJÚCA BOMBA — Kniha El sa odhaľuje verejnosti každú zimu (1 zima = 5 rokov). Toto sa časovo kryje s vojnou o Šoraven (Book 1). Keď príde čas odhalenia a Kniha tam nebude → katastrofa. Kto ju ukradol? Kde je? → spája nyau-arc s hlavným dejom.]
 
 [NOTE: DVOJITÉ MLČANIE — Yera mlčí o dvoch veciach: (1) o Flintovom pláne ukradnúť Anténu, (2) o vlastnej krádeži Knihy El. Obe sú impulzívne, obe majú katastrofálne dôsledky, pri oboch mohla konať inak. Yerin arc = postava definovaná tým, čo NEPOVIE.]
 

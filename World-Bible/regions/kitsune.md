@@ -101,6 +101,19 @@ Kitsune nie je mŕtve. V centre obrovských ruín je **udržiavaná časť mesta
 - Liehové lampy zavesené na antických stĺpoch
 - Trh s jedlom z lesa, ktorý rastie na ruinách
 
+### Viera — Agnosticizmus a Kult Predkov
+
+**Vulpini neuctievajú bohov.** Renn ich učil pravdu — Inetis nebola bohyňa, bola vedkyňa. Spira nie je dar z nebies, je technológia. Výsledok: líšky sú **agnostici**. Nemajú chrámy, nemajú kňažky, nemajú Kult Matky.
+
+Čo majú:
+
+- **Kult predkov** — uctievajú si mŕtvych. Pamätajú si mená. Rozprávajú príbehy o tých, čo odišli. Po Lekcii Krvi — keď z milióna zostalo pár tisíc — sa predkovia stali všetkým. Každá rodina pozná svoje mená dozadu stovky rokov.
+- **Zvláštny vzťah k Wraithom** — Renn učil líšky, že Wraithy sú **duše ľudí blúdiace svetom**. Nie démoni. Nie zlo. Stratené duše. Vulpini sa Wraithov boja — ale neboja sa ich tak, ako zvyšok sveta. Neexorcizujú ich. Niekedy im nechajú jedlo za bránou. Niekedy im hovoria mená mŕtvych. Renn im dal **empatiu k niečomu, čomu sa všetci ostatní len bránia**.
+- **Neboja sa ľudí ani Makov** — zvyšok sveta sa bojí Exorcistov, mystifikuje Archbésov, a Makov považuje za vzácnych cudzincov. Vulpini nie. Ich zakladateľ bol človek. Žili s Rennom tisícročia. Felix je ich sused 800 rokov. Vedia, čo sú ľudia (nie bohovia, nie démoni — len ľudia) a čo sú Maki (nie poslovia — stroje). Preto keď Maks príde do Kitsune, líšky neklačia. Ponúknu mu čaj.
+- **Kontrast s Nevriss** — v Nevriss je Spira zabalená do náboženstva, Wraithy sú démoni na exorcizmus, ľudia sú padlí anjeli, a Kult Matky vládne duchom. V Kitsune je Spira nástroj, Wraithy sú stratené duše, ľudia sú susedia, a nikto nevládne ničomu.
+
+---
+
 ### Spoločenské usporiadanie — Anarchia
 
 **Kitsune nemá vládcu.** Žiadneho starostu, žiadnu radu, žiadneho kráľa. Je to **anarchia v najčistejšom zmysle** — komunita rodín, ktoré si pomáhajú, pretože inak neprežijú.

@@ -647,6 +647,7 @@ Rozsiahly kontinent juhozápadne od Terry. Ľudia ho nazývajú **Neuropa** — 
     - **Prostredie**: V starých časoch bola táto oblasť holá. Dnes je Kito pohltené lesom, ktorý vyrástol po ústupe ľadu — a čiastočne aj vďaka Inetisiným GMO rastlinám, ktoré sa rozšírili z neďalekej Jaskyne Ela.
     - **Osud**: Zničené Wraithami počas Lekcie Krvi. Teraz obrovské ruiny.
     - **Obyvatelia**: Felix (Mako) žije v ruinách. Tami tu vyrastala s otcom Rennom, ktorý ruiny objavil a urobil z nich domov.
+- **Severovýchodné územia**: Rozsiahla oblasť severne a východne od Kitsune. Počas Golden Age Vulpini kráľovstva (~AY 850–2212) tu existovala sieť osád, fariem a prístavov. Po Lekcii Krvi všetko mŕtve — ruiny zarastené lesom. V oblasti sa nachádza aj **The Pit** (geologická trhlina s komunitou vlčích Ghorki) a trosky pristávacích modulov Hephaesta. → Detaily: `regions/northeast-territories.md`
 
 ---
 

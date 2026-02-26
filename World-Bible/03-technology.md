@@ -150,7 +150,7 @@ Maks dokáže tieto Wraithy **absorbovať** — jeho reverse Glitch Rot ich rein
 | **Vizuál** | Čierny prach sa formuje do hadovitých prameňov, plazí sa po zemi k Maksovi, preniká cez kožu, rany, oči, ústa. Fialové záblesky pri absorpcii. |
 | **Kto to dokáže** | **Len Maks** — reverse Glitch Rot je dar Inetis, nie generická schopnosť Gen 1. Archbési to nedokážu (ich Zber = ihlové injektory na vysávanie Gen 2 z živých Varietas, čo je úplne iná mechanika). |
 | **Bežný Exorcizmus** | Maks absorbuje aj bežných Wraithov (nie len z Ex Inferis). Toto je základ jeho povolania Exorcistu — loví Wraithov, absorbuje ich nanoboty, z nazbieraného Prachu vyrába predmety. Ale bežní Wraithy nemajú silné osobnostné fragmenty — len mŕtvi Ex Inferis. |
-| **Známe prípady** | Maks ← Samaell (AY 3001): oči, Blood Ritual, predátorské inštinkty, paranoja. Maks ← Grond (AY 3013): absorpcia počas kómy — Grondov Wraith prenikol do mŕtveho tela, dôsledky neznáme. |
+| **Známe prípady** | Maks ← Samaell (AY 3001): oči, Blood Ritual, predátorské inštinkty, paranoja. **Maks nevedel koho zabíja** — Samaell bol len tieň, príliš zmenený po 2000+ rokoch Glitch Rot. Maks ho nepoznal. Až po ~13 rokoch, keď prečíta Knihu El (Samaellove kapitoly v Staroreči), spozná hlas zvnútra a docvakne mu. Maks ← Grond (AY 3013): absorpcia počas kómy — Grondov Wraith prenikol do mŕtveho tela, dôsledky neznáme. |
 
 > **Kontrast**: Archbési používajú **Zber** — ihlové injektory na prstoch, ktorými vysávajú Gen 2 nanoboty z **živých** Varietas. Je to bolestivé, neefektívne, a neprenáša spomienky — len surový materiál na záplatovanie vlastného rozpadajúceho sa Gen 1. Maksov reverse Glitch Rot je elegantnejší a kompletnejší — absorbuje celú esenciu vrátane spomienok. Ale práve preto je nebezpečnejší pre samotného Maksa.
 
@@ -230,9 +230,15 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
    - **Využitie**: Presné smerovanie mračna dronov, manipulácia s hustotou vzduchu, priestorová orientácia (FPV drony, teleportácia).
 
 5. **KVINTESENCIA (Vedomie / Consciousness)**
-   - **Techno-realita**: Príkazový kód a vôľa operátora.
-   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach. 
+   - **Techno-realita**: Príkazový kód a vôľa operátora. Programovanie samotnej reality nanotech vrstvy.
+   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach.
    - **Hniloba (Glitch Rot)**: Vzniká vtedy, keď nanotechnológia stratí prepojenie s Vedomím a začne sa chaoticky, rakovinotvorne replikovať bez riadiaceho kódu.
+   - **Kľúč ku Core**: Kvintesencia je jediná sila, ktorá dokáže **otvoriť dvere do The Core**. Anténa na seba naviaže Wraithy, ale len Kvintesencia otvorí dvere. Dva kľúče, jedna brána — Maks (Anténa, Gen 1) zabezpečí Wraithy, Tami (Kvintesencia, Gen 2) otvorí vstup.
+   - **Len born-Spira**: Kvintescenciu dokáže zavolať **len niekto, kto sa so Spirou narodil**. Nie je to naučiteľná technika pre kohokoľvek — vyžaduje Gen 2 nanotech integrovaný od narodenia. Elania to NEDOKÁZALA (Inetis sa jej nikdy nedotkla potom, čo vynašla Spiru — Elania nemá Gen 2). Sera to nedokáže (Gen 1 / Archbés). Maks to nedokáže (Gen 1).
+   - **Strážené tajomstvo Nyau**: Na celej planéte ovládajú Kvintescenciu **len kňažky v Nyau**. Cirkev El to interpretuje ako najvyšší stupeň viery — „dar Matky". V skutočnosti je to emergentná schopnosť Pursang narodených do Spira-saturovaného sveta. Cirkev stráži techniku, ktorú ich bohyňa nikdy nemala.
+   - **Reťazec**: Soril (Nyau) → učí Yeru → Yera učí Tami → Tami otvára The Core (Book 5: Kvintesencia)
+
+   [NOTE: Pentagram Elanie v Knihe El — kreslila z pamäte, čo videla od matky. Vedela čo to je (*architecture, not prayer*), ale sama to nedokázala POUŽIŤ. 2000 rokov Pursang v Nyau sa rodili so Spirou → Kvintesencia sa objavila ako emergentná schopnosť → Cirkev ju zdedila, ale nepochopila.]
 
 ### Spira munícia
 
@@ -511,9 +517,28 @@ Palné zbrane sú devastujúce proti bežným cieľom (Ghorki, zvieratá), ale s
 
 ## Glitch Rot (Hniloba)
 Agresívna nanotechnologická nákaza, ktorá korumpuje organickú hmotu aj technológiu.
-- **Vplyv na techniku**: „Rozožiera“ kód a obvody, mení ich na nefunkčnú čiernu hmotu.
-- **Vplyv na biogóliu**: U Varietas mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archbési ju vnímajú ako „otrávené mäso“.
+- **Vplyv na techniku**: „Rozožiera” kód a obvody, mení ich na nefunkčnú čiernu hmotu.
+- **Vplyv na biogóliu**: U Varietas mení nanoboty (Dar Matky) na toxickú zmes, ktorá hostiteľa bolestivo mutuje alebo zabíja. Archbési ju vnímajú ako „otrávené mäso”.
 - **Prenos**: Kontaktom so starými ruinami alebo infikovanými schránkami.
+
+### Prach-craft (Recyklácia Glitch Rot)
+
+Všetci, čo prežili Glitch Rot, sa naučili **identifikovať poškodené nanoboty** v krvi a buď ich recyklovať, alebo **vytiahnuť z tela a tvarovať do predmetov**.
+
+| Aspekt | Detail |
+|--------|--------|
+| **Princíp** | Nositeľ Gen 1 nanotech dokáže rozlíšiť zdravé nanoboty od Glitch Rot-infikovaných a cielene ich extrahovať z krvného obehu |
+| **Proces** | Extrakcia poškodených častíc → konfigurácia do pevnej hmoty (nakonfigurovaný Čierny Prach) → tvarovanie do predmetu |
+| **Výsledok** | Predmety z nakonfigurovaného Prachu — čierne, matné, pohlcujú svetlo, fialové podsvetlo (intrinsická vlastnosť Prachu). Extrémne trvanlivé — Prach „nezabudne” tvar, ktorý mu bol daný |
+| **Kto to dokáže** | Univerzálny survival skill medzi Gen 1 nositeľmi, nie unikátna schopnosť. Každý, kto prežil Glitch Rot, sa to naučil z nutnosti |
+| **Známe predmety** | Čierne tabuľky Knihy El (Elania, ~AY 850–863), čierna brána svätyni pod Šoravenom, steny svätyní a hrobiek |
+| **Paralela** | *„Niekto ho pred veľmi dávnou dobou nariadil byť toto — a on poslúchol a nezabudol.”* — Maks o čiernej bráne, 04-elanias-blade.md |
+
+**Elaniine čierne tabuľky**: Elania mala v sebe Gen 1 Prach (v1.7, z Elysia/Inetis). Prišla na to, že Glitch Rotom napadnuté častice môže vytiahnuť z vlastného tela a nakonfigurovať do pevnej hmoty — obalu pre svoj denník. Robila to kým sa úplne „nezasekla” (Glitch Rot progredoval). Čierne tabuľky Knihy El = doslova Elaniina choroba pretavená do artefaktu. Po 2000 rokoch Prach v tabuľkách stále pulzuje — fialové žilky, rovnaké ako v stenách svätyni pod Šoravenom.
+
+[→ books/book-1-prach-nevriss/concepts/the-book-of-El.md: fyzický popis Knihy]
+[→ 04-elanias-blade.md: svätyňa pod Šoravenom — rovnaký materiál]
+[NOTE: Irónia — Cirkev El zakaždým, keď zakryjú čierne tabuľky bielym plátnom a pozlatia ich, zahaľujú zhmotnenenú bolesť svojej bohyne do krásy. Uctievajú jej chorobu.]
 
 ---
 

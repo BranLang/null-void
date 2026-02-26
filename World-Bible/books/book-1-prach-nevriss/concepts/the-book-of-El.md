@@ -12,11 +12,16 @@ Ručne písaný zápisník — denník, modlitebník a spoveď v jednom — ktor
 
 ## Fyzický popis
 
-- Kožený obal, zošívaný ručne (Elania nemala prístup k vyspelej technológii na východnom pobreží)
-- ~200 strán tenkého pergamenu / kôry z bioluminiscenčných stromov (niektoré strany svietia v tme)
-- Písmo: zmiešanina Staroreči (angličtina, ktorú Elania zdedila od Maksa cez Inetis), japonskej hiragany (Inetisina materčina) a lokálneho Terranského dialektu
-- Kresby uhľom a bioluminiscenčným atramentom (extrakt z húb)
-- Niektoré strany poškodené vodou, niektoré chýbajú
+- **Čierne tabuľky (obal)**: Nakonfigurovaný **Čierny Prach** — Glitch Rotom napadnuté Gen 1 nanočastice (v1.7), ktoré Elania extrahovala z vlastného tela a nakonfigurovala do pevnej hmoty. Matné, čierne, pohlcujú svetlo. Fialové žilky = intrinsická vlastnosť Prachu, pulzujú v pomalých vlnách. Rovnaký materiál ako čierna brána svätyni pod Šoravenom a steny vnútri. Elania to robila kým sa úplne „nezasekla" — progredujúci Glitch Rot.
+- **Pergameny (~200 strán)**: Tenký pergamen / kôra z bioluminiscenčných stromov (niektoré strany svietia v tme). Stromy sú Inetisine GMO rastliny — Elania ich rozpoznávala počas putovania.
+- **Písmo**: Zmiešanina Staroreči (angličtina zdedená od Maksa cez Inetis), japonskej hiragany (Inetisina materčina) a lokálneho Terranského dialektu
+- **Kresby**: Uhľom a bioluminiscenčným atramentom (extrakt z húb)
+- **Stav**: Niektoré strany poškodené vodou, niektoré chýbajú
+- **Reakcia na Spiru**: Prach v tabuľkách reaguje na živú Gen 2 Spiru v okolí — pulzuje silnejšie v prítomnosti Pursang (vysoká bazálna hladina). Gen 1 materiál rozpoznáva Gen 2 signál.
+
+[NOTE: Elania mala Gen 1 nanotech (v1.7, z Elysia/Inetis) — NIE Gen 2. Inetis sa Elanie nikdy nedotkla potom, čo vynašla Spiru. Elania nemá Dar Matky. Pentagramy v Knihe kreslila z PAMÄTE — vedela čo to je (*architecture, not prayer*), ale sama to nedokázala použiť.]
+[→ 03-technology.md: Prach-craft (Recyklácia Glitch Rot)]
+[→ 04-elanias-blade.md: svätyňa pod Šoravenom — rovnaký materiál]
 
 ## Ako vznikla (AY 850–863)
 
@@ -89,6 +94,55 @@ Epigraph knihy — *„Raz — možno párkrát za celú existenciu..."* — je 
 
 **Dramatická irónia**: Cirkev El pripisuje tento verš Matke (Inetis) hovoriace cez Dcéru (Elániu). A majú pravdu — sú to Inetisine slová. Ale kontext je úplne iný. Inetis hovorila o vedeckom objavovaní, o momentoch clarity pri výskume nanobotov. Cirkev to číta ako mystické proroctvo o duchovnom osvietení.
 
+## Samaellove kapitoly
+
+### Ako sa dostal ku Knihe
+
+Elania odišla so Serou (~AY 863) a zápisník **nechala za sebou** — v jaskyni, pri ohnisku, ktoré ešte dymilo. Samaell ju hľadal. Našiel zápisník. Nie Elaniu.
+
+### Čo napísal
+
+Samaell pridal vlastné kapitoly — jeho POV, v čistej Staroreči (vojenská angličtina, jazyk ARK-13). Obsah:
+- **ARK-13** — čo sa skutočne stalo na lodi. 700 rokov. Alpha Centauri prázdna. Kanibalizmus nanobotov na prežitie. **Mená všetkých štyroch preživších: Ishtar, Grond, Mormiel, Samaell.** Toto je pre Maksa spravodajský briefing — prvýkrát sa dozvie mená svojich nepriateľov.
+- [ ] Jeho pohľad na Elaniu — nie teologický, nie romantický, surový
+- [ ] Možno aj o Inetis — čo pre neho znamenala (nie Elania — Inetis bola tá, ktorú chcel)
+- [ ] Hľadanie po tom, čo Elania odišla — samota, rozpad, Glitch Rot
+
+### Zmiešané strany
+
+Posledné strany Knihy sú **zmiešané** — Elaniin a Samaellov rukopis na tých istých stranách. Dva hlasy, jedna kniha. Nie dialóg — skôr palimpsest:
+- Elania písala posledné zápisky pred odchodom (fáza rozpadu, drogy, spirálové čmáranice)
+- Samaell našiel tieto strany a **písal medzi riadky, na okraje, cez jej text** — reagoval na jej slová, odpovedal na otázky, ktoré mu nikdy nepoložila
+
+Podpis pod Samaellovým portrétom — *He* — mohol napísať **Samaell sám** pod kresbu, ktorú nakreslila **Elania**. Jedno slovo. Potvrdenie: *áno, to som ja. Toto je to, čo zo mňa zostalo.*
+
+### Čo z toho vidí Cirkev El
+
+- Strany v Staroreči = **„démonove kliatby"** — Cirkev ich nevie prečítať, ale NIKDY ich nevystrihla. Originál je svätý — nedotknuteľný. Samaellove strany sú v Knihe dodnes, kompletné, neporušené.
+- Cirkev tieto strany neprevzala do bielych kópií — označila ich ako „démonovu kontamináciu" a ignorovala. Ale v origináli sú všetky.
+- Zmiešané strany na konci = „démon sa pokúšal znesvätiť Knihu" — v skutočnosti: dvaja zlomení ľudia písali do tej istej knihy, každý sám, každý o tom druhom
+- **PRAVIDLO: Originál Knihy El je KOMPLETNÝ. Žiadna strana nikdy nebola vystrihnutá. Preto existuje Strážkyňa — jedna žena, ktorá pozná celú pravdu a chráni Knihu neporušenú. Keby Cirkev strany strihala, nepotrebovala by Strážkyňu.**
+
+### Čo z toho vidí Maks
+
+**Kontext**: Maks zabil Samaella v AY 3001 — ale **nevedel koho zabíja**. Samaell bol len tieň, ktorý ho prenasledoval. 2000+ rokov Glitch Rot degradácie ho zmenili natoľko, že Maks ho nepoznal — už to nebol ten človek, ktorého kedysi poznal na Zemi/v ARK ére. Maks absorboval jeho Wraitha a 13 rokov nosil v sebe cudzie inštinkty, paranoju, fragmenty spomienok — bez toho, aby vedel, komu patria.
+
+Keď sa Maks dostane ku Knihe (~AY 3014):
+- Rozpozná **Staroreč** — vojenský štandard Zeme, jeho vlastný jazyk
+- Číta Samaellove kapitoly a spozná **hlas** — nie z Knihy. **Zvnútra.** Fragmenty Samaellovej esencie, ktoré nosí 13 rokov, sa zrazu spoja s textom na pergamene. Docvakne.
+- **Spravodajský briefing**: Z Samaellových kapitol sa dozvie, čo sa stalo na ARK-13, a prvýkrát zistí **mená všetkých Archbésov — Ishtar, Grond, Mormiel, Samaell.** Doteraz boli bezmenné hrozby. Teraz majú mená, históriu, motivácie.
+- **Realizácia**: Zabil som ho. Absorboval som ho. Je súčasťou mňa 13 rokov. A nevedel som ani jeho meno.
+- Elaniine strany sú pre Maksa niečo iné — hlas jeho dcéry, ktorú nikdy nepoznal, citujúcej ženu, ktorú miloval
+
+[NOTE: Toto je jeden z najsilnejších momentov Maksovho arcu. 13 rokov oneskorené rozpoznanie. Čitateľ to vidí postupne — najprv cudzie impulzy (Book 1–3), potom Kniha (Book 3–4?), potom docvaknutie. Maks sa musí vyrovnať s tým, že muž, ktorého zabil a absorboval, bol kedysi niekto, koho poznal — a že jeho fragmenty sú teraz trvalou súčasťou Maksovej identity.]
+
+[NOTE: Wordplay — Sama-EL / Book of EL. „El" ich spája. V hebrejčine El = Boh, Sama-El = „Jed Boha." Na Achille El = Elania. Samaell nesie v mene tú, kvôli ktorej sa stratil — ale v skutočnosti chcel Inetis, nie Elaniu. Elania bola náhrada. A predsa — napísal do jej knihy.]
+[→ characters/Samaell.md: ARK-13, vzťah s Elaniou, smrť AY 3001]
+[→ 03-technology.md: Staroreč = anglické CLI príkazy, vojenský štandard Zeme]
+[→ characters/Maks.md: absorpcia Samaellovho Wraitha, fragmenty spomienok]
+
+---
+
 ## McGuffin — Prečo je Kniha El dôležitá pre dej
 
 
@@ -131,6 +185,9 @@ Fyzicky je kniha v relikviári z bielo-modrého kameňa (bioluminiscenčný mram
 
 ## Otvorené otázky
 
+- [x] Z čoho je obal Knihy? → Nakonfigurovaný Čierny Prach z Elaniinho tela (Glitch Rot recyklácia)
+- [x] Odkiaľ fialové žilky? → Intrinsická vlastnosť Prachu, NIE reziduálna Spira
+- [x] Mala Elania Gen 2? → NIE. Inetis sa jej nikdy nedotkla po vynáleze Spiry. Elania má v1.7 (Gen 1).
 - [ ] Kedy presne sa Kniha El objaví v deji? Book 2? Book 3?
 - [ ] Kto ju ukradne / získa prístup? Maks? Kito (archeológ)? Felix?
 - [ ] Čo presne je na technických náčrtoch? Dosť na to, aby Maks našiel jaskyňu?
