@@ -24,7 +24,7 @@
 - Keď počuje o Tami — **detské nadšenie**, ktoré sa snaží skryť
 
 **Vybavenie:**
-- **Žiadne nanoboty** — čistý človek (bez Spiry)
+- **Gen 1 seed** — minimálna dávka prenesená Serou (bozk). Nezachytiteľná detektormi. Žiadna regenerácia, žiadne vylepšenia — len inštinktívne cítenie prachu. [→ Noc pred odchodom — Sera v izbe]
 - **Žiadna Spira** — nie je Varietas
 - **Technológie:** Vlastnoručne postavené zariadenia z Inštitútu
   - Detektor nanobotov (cíti Gen 1/2/3 signatúry)
@@ -92,6 +92,42 @@
 - Links si zapamätal frekvencie, vzory, ID čísla
 - *Keby niekto mal Gen 1... poznal by ho.*
 
+### Noc pred odchodom — Sera v izbe
+
+**Posledná noc v Ludus.** Links sa vracia do svojej izby. Dvere sú otvorené. Vnútri sedí žena. Čierne vlasy, tmavé oči, príliš dokonalá tvár. Nikdy ju nevidel. A predsa vie — z kníh, z legiend, z Inštitútu — kto to je.
+
+**Tri dary Sery:**
+
+1. **Notebook** — starý laptop s gravírovaním `i_net_is` a roztomilými nálepkami. Antický relikt (rok 2065). Obsahuje Translation Engine pre Gen 1/2 a osobné denníky Inetis. *Vedomosti — hlava.*
+
+2. **Zápisník** — ručne viazaný, prázdny. *"Všetko, čo uvidíš. Všetko, čo pochopíš. Zapíš."* Misia — ruky.
+
+3. **Bozk** — Sera vstane. Pristúpi k nemu. Chytí ho za tvár oboma rukami. A pobozká ho na čelo. Nie romanticky. Nie matersky. **Rituálne.** A Links cíti — niečo vchádza do neho. Teplo. Prach. Niečo staré a cudzie, čo mu prúdi pod kožou.
+
+**Čo sa stalo:** Sera mu prenesla **Gen 1 prach** — semienka nanobotov do tela. Nie plnú dávku. Nie dosť na to, aby bol ako Maks alebo Sera. Len dosť na to, aby **cítil**. Aby rozpoznal Hnilob v tme. Aby jeho detektor nebol len zariadenie v ruke, ale **inštinkt v krvi**.
+
+**Prečo:** Exorcista musí poznať prach. Nie z kníh. Nie z dát. Zvnútra. Sera to vedela — lebo sama žije s prachom 3000 rokov. Nedá sa hackovať niečo, čo necítiš.
+
+**Emocionálny dopad:** Links je 22-ročný panic. Nikdy nemal vzťah. Nikdy ho nikto nepobozkal. A teraz — v noci, v jeho izbe — najkrajšia žena, akú kedy videl, mu drží tvár v dlaniach a bozkáva ho na čelo. Sera odišla bez slova. Dvere sa zavreli. Links stál v izbe s laptopom, zápisníkom a niečím novým pod kožou.
+
+**Nemôže spať.** Nie kvôli prachu v krvi. Kvôli nej. Celú cestu cez Graw si myslí, že to teplo pod kožou je *ona*. Že sa zamiloval. Netuší, že to je Gen 1 prach, čo mu rastie v kostiach.
+
+A potom uvidí kresbu Tami na nástenke v Šoravene — "Pirate Princess" — a zabudne na Seru za pol sekundy. Lebo Sera bola bohyňa. Ale Tami je *skutočná*.
+
+**Tri vrstvy bozku (Sera vie presne, čo robí):**
+1. **Prach** — exorcista musí cítiť démona zvnútra
+2. **Manipulácia** — emocionálna väzba na ňu = kontrola. Links pôjde kam ho Sera pošle. Panic po prvom bozku urobí čokoľvek.
+3. **Možno ľútosť** — hlboko, po 3200 rokoch, niečo v nej cítilo ľútosť nad tým chlapcom, ktorého posiela do vojny. Ale to by nikdy nepriznala. Ani sebe.
+
+**Links o tom nebude hovoriť.** Nikdy nikomu nepovie, čo sa stalo tú noc.
+
+**Dôsledky:**
+- Links nie je "čistý človek" — má Gen 1 seed. Ale tak málo, že to žiadny detektor nezachytí. Len on cíti rozdiel.
+- V Nevriss, keď stretne Mormiel, jeho telo **reaguje** skôr než detektor. Vie, kde je Gen 1, lebo ho cíti v kostiach.
+- Sera ho pripravila na vojnu, o ktorej nevedel, že príde.
+
+[NOTE: Toto mení Linksov status z "čistý človek bez nanobotov" na "človek s Gen 1 seedom — tak málo, že je to takmer nič, ale dosť na inštinkt." Žiadna regenerácia, žiadne vylepšenia — len schopnosť cítiť prach.]
+
 ### Solo Trip — Spoznať Terru
 
 **Motivácia:**
@@ -104,6 +140,12 @@
 - Našiel **poloprázdne mestá** — muži vo vojne, ženy a deti hladujú
 - Nikto sa nevracia z juhu
 - *"Čo sa tam deje?"*
+
+**Prvý exorcizmus — Wolf's Pass:**
+- Na ceste cez **Wolf's Pass** narazí na ruiny mesta, ktoré si už nikto nepamätá. Žiadne meno na mapách. Len kamene, mach a ticho.
+- V ruinách je **Wraith**. Links ho cíti skôr, než ho vidí — teplo pod kožou, Gen 1 seed reaguje. Prvýkrát pochopí, čo mu Sera dala. Nie technológiu. **Inštinkt.**
+- Prvý exorcizmus. Nie hrdinský — chaotický, vystrašený, improvizovaný. Linux terminál, scrambler, trasúce sa ruky. Ale funguje.
+- Links odchádza z ruín iný, než keď vošiel. Už nie je študent. Je exorcista.
 
 **Bitka pri Shoravene:**
 - Počul príbehy v hostincoch
@@ -398,7 +440,7 @@
 
 ### Limity
 
-- **Nemá nanoboty:** Žiadna regenerácia, žiadne vylepšenia
+- **Gen 1 seed (minimálny):** Žiadna regenerácia, žiadne vylepšenia — len inštinkt na cítenie prachu
 - **Nemá Spiru:** Žiadna mágia, žiadne schopnosti Varietas
 - **Len technológia:** A tá sa môže pokaziť, vybiť, stratiť
 - **Smrteľný:** Jeden správny úder a je koniec
