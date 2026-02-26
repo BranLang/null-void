@@ -71,7 +71,7 @@
 - **Kanonické kópie vs. Originál:** Klanové knižnice majú sanitizované kópie (~60% textu). V kópiách je El bohyňa. V origináli je El **žena**.
 - **KĽÚČOVÉ**: Yera **ukradne ORIGINÁL** — Soril jej sama ukázala komoru, dala jej prístup v dôvere. A Yera tú dôveru zradí. Nie kópiu. Originál spod oltára. Svätokrádež kozmických rozmerov. NIKDY nepovie Arkotovi ani Tami, že ju má. Nosí ju v príručnej taške.
 - **ZRKADLENIE:** Soril chce, aby Yera pochopila: *„Aj El bola pokúšaná, a Anjel ju zachránil."* Yera pochopí: *„Aj El si vybrala Démona. A neľutovala."* Rovnaký text. Dva protichodné závery. Soril vidí potvrdenie viery. Yera vidí povolenie na útek.
-- **TIKAJÚCA BOMBA**: Kniha sa odhaľuje verejnosti každých 5 zím počas najsilnejšej zimy. Timing sa kryje s vojnou o Šoraven (Book 1).
+- **TIKAJÚCA BOMBA**: Kniha sa odhaľuje verejnosti každú zimu (1 zima = 5 rokov). Timing sa kryje s vojnou o Šoraven (Book 1).
 - **PRAVÝ DÔVOD ÚTEKU**: Yera neuteká KVÔLI Arkotovi. Uteká PRED dôsledkami krádeže originálu (svätokrádež = trest smrti). Arkot SI MYSLÍ, že je hlavný dôvod. Ale pravda je škaredšia.
 
 **Arkot a Flint prichádzajú:**
@@ -232,7 +232,7 @@
 - Yera ukradne Knihu El impulzívne (kumulácia ponížení od Soril, nie plán)
 - Neuvedomí si dôsledky — svätokrádež = trest smrti
 - NIKDY nepovie Arkotovi ani Tami → tajomstvo hlbšie než mlčanie o Flintovom pláne
-- Kniha sa verejnosti odhaľuje každých 5 zím (najsilnejšia zima) → timing sa kryje s vojnou o Šoraven (Book 1)
+- Kniha sa verejnosti odhaľuje každú zimu (1 zima = 5 rokov) → timing sa kryje s vojnou o Šoraven (Book 1)
 - Keď Kniha chýba → katastrofa. Kto ju ukradol? Kde je? → spája nyau-arc s hlavným dejom
 - **PRAVÝ DÔVOD ÚTEKU**: Yera neuteká kvôli Arkotovi. Uteká pred smrťou. Arkot je reálna láska, ale aj úniková cesta. ON SI MYSLÍ, že je hlavný dôvod — romantický príbeh, ktorý si rozpráva. Pravda je škaredšia.
 

@@ -325,15 +325,15 @@ A potom prišla **Sera** (~AY 863). Našla Elaniu v zúboženom stave — roky h
 Denník El má 13 rokov zápiskov. Nie všetko je sväté. Kňažky pri kanonizácii **vybrali** — pasáže o Matke, svetle a Nanebovstúpení sú kanonické. Ale celé bloky textu boli **vynechané** — príliš ľudské, príliš temné, príliš ďaleko od obrazu svätej Dcéry.
 
 **Čo chýba v kanonických kópiách:**
-- **Mačacia maska** — Elania píše prečo ju nosila. Chcela zapadnúť. Nechcela byť bohyňa. Chcela byť nikto. *Kňažky to vystrihli — El nemôže chcieť byť nikto. El je všetko.*
-- **Psychotropné huby** — popisy vízií, halucinácií, čo videla keď bola zdrogovaná. Prúd vedomia. Chaotické, krásne, desivé. *Kňažky to vystrihli — El nemôže byť zdrogovaná. El je čistá.*
-- **Samaell** — v denníku nie je „Démon". Je tam **muž**. Starý známy. Niekto, koho poznala. Píše o ňom bez mena — len „on". O nociach s ním. O samote, ktorú zdieľali. O tom, že odišiel. *Kňažky to vystrihli — El nemôže mať milenca. El patrí len Matke a svetlu.*
-- **Tiene z prachu** — popisy toho, ako zhmotnila mŕtvych priateľov a tancovala s nimi. Mená mŕtvych, ktorých si pamätala. *Kňažky to vystrihli — El nemôže tancovať s mŕtvymi. To je nekromancia, nie svätosť.*
-- **Preklínanie Matky** — nie modlitby. Nadávky. Hnev. Zúfalstvo. Výčitky. *„Prečo si ma nechala? Prečo si odišla? Nenávidím ťa."* Kňažky to vystrihli — El nemôže nenávidieť Matku. El miluje Matku.
+- **Mačacia maska** — Elania píše prečo ju nosila. Chcela zapadnúť. Nechcela byť bohyňa. Chcela byť nikto. *Do kópií neprevzaté — El nemôže chcieť byť nikto. El je všetko.*
+- **Psychotropné huby** — popisy vízií, halucinácií, čo videla keď bola zdrogovaná. Prúd vedomia. Chaotické, krásne, desivé. *Do kópií neprevzaté — El nemôže byť zdrogovaná. El je čistá.*
+- **Samaell** — v denníku nie je „Démon". Je tam **muž**. Starý známy. Niekto, koho poznala. Píše o ňom bez mena — len „on". O nociach s ním. O samote, ktorú zdieľali. O tom, že odišiel. *Do kópií neprevzaté — El nemôže mať milenca. El patrí len Matke a svetlu.*
+- **Tiene z prachu** — popisy toho, ako zhmotnila mŕtvych priateľov a tancovala s nimi. Mená mŕtvych, ktorých si pamätala. *Do kópií neprevzaté — El nemôže tancovať s mŕtvymi. To je nekromancia, nie svätosť.*
+- **Preklínanie Matky** — nie modlitby. Nadávky. Hnev. Zúfalstvo. Výčitky. *„Prečo si ma nechala? Prečo si odišla? Nenávidím ťa."* Do kópií neprevzaté — El nemôže nenávidieť Matku. El miluje Matku.
 
 **Originál vs. Kópie:**
-- **Originál** (pod oltárom v Chráme El) — kompletný, nestrihnutý. Prístup má len **Strážkyňa Denníka** — tajná funkcia v Cirkvi El. Aj Strážkyňa čiastočne hrôzu z niektorých pasáží — ale je vycvičená ich uniesť. [→ characters/Soril.md]
-- **Kanonické kópie** (klanové knižnice) — sanitizované. ~60% originálneho textu. Zvyšok je „stratený" — oficiálne sa hovorí, že niektoré pergameny sa rozpadli od staroby.
+- **Originál** (pod oltárom v Chráme El) — **kompletný, nedotknutý, neporušený**. Žiadna strana nikdy nebola vystrihnutá ani poškodená. Originál je svätý — nedotknuteľný — a práve preto je taký nebezpečný. Prístup má len **Strážkyňa Denníka** — tajná funkcia v Cirkvi El. Preto existuje vždy len JEDNA Strážkyňa: keby originál zničili alebo cenzurovali, nepotrebovali by ju. Ale originál musí zostať kompletný — vrátane bolesti, vrátane hrôzy, vrátane všetkého — lebo je to slovo El. A slovo El sa nemaže. [→ characters/Soril.md]
+- **Kanonické kópie** (klanové knižnice) — sanitizované. ~60% originálneho textu. Pri kanonizácii kňažky jednoducho **neprevzali** nebezpečné pasáže do kópií. Zvyšok je „stratený" — oficiálne sa hovorí, že niektoré pergameny sa rozpadli od staroby. V skutočnosti sú všetky strany v origináli zachované.
 
 ### Strážkyňa Denníka El
 

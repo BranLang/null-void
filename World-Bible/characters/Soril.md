@@ -92,7 +92,7 @@ Ale namiesto trestu — **hovorí:**
 - **Yera je šokovaná.** Nie strachom — úžasom. Celý život čítala sanitizovanú verziu. A teraz drží v rukách originál a vidí mapy, vzorce, kresby detí, haiku, portréty — **celú ženu**, nie bohyňu. A Soril jej hovorí, že toto všetko môže byť jej.
 
 **Nástupníctvo — keď Soril zomrie:**
-- Soril je stará — za ~10 zím zomrie. Povedala to Yere priamo, vecne, bez emócií. *„Za desať zím odídem. A ty si nájdeš svoju nástupkyňu."*
+- Soril je v strednom veku pre Pursang (~14 zím z ~40) — za ~10 zím plánuje odovzdať úlohu. Povedala to Yere priamo, vecne, bez emócií. *„Za desať zím odídem. A ty si nájdeš svoju nástupkyňu."*
 - **Kniha napovie, koho hľadať.** Toto je najzáhadnejšia časť tradície — Strážkyňa nečíta knihu len raz. Študuje ju celý život. A čím dlhšie ju študuje, tým viac rozumie. A niekde v tých stránkach — v kresbách, v haiku, v prúde vedomia nesmrteľnej ženy — **sú odpovede na otázky, ktoré Strážkyňa ešte ani nepoložila**. Vrátane toho, kto má byť ďalšia.
 - Soril to vysvetlí jednoducho: *„Kniha ti napovie, koho máš hľadať. Nehovorí to priamo. Ale keď budeš pripravená — budeš vedieť."*
 - **Implikácia:** Originál nie je len historický dokument. Pre Strážkyňu je to **živý text** — čím viac sa mení čitateľka, tým viac v ňom vidí. Elania nepísala pre osadníkov. Písala pre seba. Ale jej myšlienky sú tak hlboké a viacvrstvové, že každá generácia Strážkyní v nich nachádza niečo iné. Niečo, čo potrebuje práve ona.
@@ -148,8 +148,8 @@ Keď Soril otvorí knihu, Yera uvidí niečo, čo žiadna kanonická kópia neob
 ### Fáza 5 — Rozpad (~rok 10–13)
 
 - **PTSD kresby.** Chaotické, temné, desivé. Elania kreslí veci, ktoré vidí pod vplyvom húb — alebo veci, ktoré si pamätá z 500 rokov hrôzy. **Pentagramy** — nie elegantné IDE diagramy, ale zúrivé, škrabané, zdeformované. **Wraithy** — tieňové bytosti s prázdnymi tvárami. **Tiene z prachu** — zhmotnení mŕtvi priatelia, tancujúci okolo ohňa. **Kozmický horror** — tvary, ktoré nemajú meno, pocity, ktoré nemajú slová. Niektoré stránky sú pokryté čiernym prachom — akoby Elania stratila kontrolu a nanoboty jej zaplavili stránku.
-- **Preklínanie Matky.** Nie modlitby. Výkriky. *„Prečo si ma nechala?"* *„Nenávidím ťa."* *„Kde si? Kde si? Kde si?"* Opakovane, cez celé stránky, niekedy čitateľné, niekedy len škrabance. **Toto kňažky vystrihli.** El nemôže nenávidieť Matku.
-- **Portrét Samaella.** Niekde v poslednej tretine knihy — **portrét muža**. Nie démona. Muža. Ľudská tvár — unavená, stará, ale nie škaredá. Oči, v ktorých je niečo rozpoznateľné — rovnaká únava ako v Elaniných očiach. Pod portrétom žiadne meno. Len: *„on"*. A potom niekoľko stránok o ňom — o nociach s ním, o tom, že rozumie jej bolesti, o tom, že je rovnako stratený. **Toto kňažky vystrihli.** El nemôže mať milenca. [→ characters/Samaell.md: Ohne na východnom pobreží]
+- **Preklínanie Matky.** Nie modlitby. Výkriky. *„Prečo si ma nechala?"* *„Nenávidím ťa."* *„Kde si? Kde si? Kde si?"* Opakovane, cez celé stránky, niekedy čitateľné, niekedy len škrabance. **V bielej Knihe toto nie je.** El nemôže nenávidieť Matku. Ale v origináli je každá strana zachovaná — nedotknutá. Preto existuje Strážkyňa.
+- **Portrét Samaella.** Niekde v poslednej tretine knihy — **portrét muža**. Nie démona. Muža. Ľudská tvár — unavená, stará, ale nie škaredá. Oči, v ktorých je niečo rozpoznateľné — rovnaká únava ako v Elaniných očiach. Pod portrétom žiadne meno. Len: *„on"*. A potom niekoľko stránok o ňom — o nociach s ním, o tom, že rozumie jej bolesti, o tom, že je rovnako stratený. **V bielej Knihe toto nie je.** El nemôže mať milenca. Ale originál je svätý — slovo El sa nemaže. [→ characters/Samaell.md: Ohne na východnom pobreží]
 - **A potom kniha končí.** Posledné stránky sú takmer prázdne — pár slov, pár čiar. Rukopis sa rozpadá. Posledná čitateľná veta je niečo o svetle. Alebo o konci. Alebo o oboch. A potom — nič. Sera prišla. Anjel vzal El ku hviezdam. Denník zostal.
 
 ---
@@ -174,7 +174,7 @@ Keď Soril otvorí knihu, Yera uvidí niečo, čo žiadna kanonická kópia neob
 ## Čo Soril neurobí
 
 - **Neprezradí Yeru.** Nie okamžite. Keď zistí, že kniha chýba — bude vedieť, kto ju vzala. Ale prezradiť Yeru znamená prezradiť, že **Strážkyňa zlyhala**. Že ukázala originál dievčaťu, ktoré utieklo. Že systém, ktorý funguje 2000 rokov, sa rozpadol za nej.
-- **Bude mlčať.** Dočasne. Bude hľadať spôsob, ako knihu získať späť bez toho, aby sa svet dozvedel, že je preč. Ale čas beží — a verejné odhalenie každých 5 zím sa blíži.
+- **Bude mlčať.** Dočasne. Bude hľadať spôsob, ako knihu získať späť bez toho, aby sa svet dozvedel, že je preč. Ale čas beží — a verejné odhalenie každú zimu sa blíži.
 - **Toto je Soril tikajúca bomba** — paralelná k Yerinej. Obe mlčia. Obe vedia. Obe sa boja.
 
 ---
