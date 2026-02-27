@@ -196,49 +196,33 @@ Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si
 
 Vyšla na balkón.
 
-Bosé nohy na teplom kameni. Nočný vzduch na koži — horúci, vlhký, nasiaknutý vôňou nočných kvetov, ktoré sa otvorili pred hodinou a teraz pulzovali mäkkým svetlom v záhradách pod ňou. Ružové. Fialové. Biele. V tme vyzerali ako rozhodené hviezdy, spadnuté z oblohy a zachytené v listoch. [→ regions/nyau.md: nočné kvety, otvárajú sa po západe slnka, mäkké svetlo]
-
-Pod ňou ležalo mesto. Kanály, mosty, bazár zatvorený a tmavý, plachty sa hojdali vo vánku. A ďalej — prístav. Svetlá lodí. Siluety žeriavov. Holubník na streche prístavnej správy, odkiaľ každé ráno vzlietali poštové holuby so správami do Beladiss, do Kitsune, do Nevriss. [→ regions/nyau.md: poštové holuby = hlavný komunikačný systém medzi prístavmi. Správy trvajú dni — žiadna rýchla komunikácia.] Prístavné ulice, kde žili ľudia, ktorých Yera nepoznala a nikdy nespozná. Námorníci. Robotníci. Cudzinci z miest, ktoré pre ňu boli len mená na mapách v otcovej pracovni. [→ regions/nyau.md: prístav, obchod s východom, Beladiss]
-
-Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami.
+Pod ňou ležalo mesto — kanály, mosty, prístav v diaľke. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami. [→ regions/nyau.md: prístav, poštové holuby, obchod s východom]
 
 Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
 
 *Strážkyňa.*
 
-Vedela, čo to znamenalo. Videla kňažky v chráme — krásne, dôstojné, pokojné. Kadidlo a modlitby. Celý život za chrámovými múrmi. Celý život v službe El. Žiadny muž. Žiadne deti. Žiadna loď v prístave, žiadny obzor za horizontom. Len kadidlo, spev a strom, ktorý treba liečiť. [→ regions/nyau.md: Kňažky Cirkvi El — nezávislé postavenie, ale celoživotný záväzok. Pre dcéru klanu je vstup do Chrámu jediná alternatíva k dohodnutému zväzku.]
+Vedela, čo to znamenalo. Celý život za chrámovými múrmi. Žiadny muž. Žiadne deti. Žiadna loď v prístave, žiadny obzor za horizontom. Len kadidlo, spev a strom, ktorý treba liečiť. [→ regions/nyau.md: Kňažky Cirkvi El — nezávislé postavenie, ale celoživotný záväzok]
 
-V Nyau sa nechcelo. V Nyau sa plnilo. Klan Saéli si nevyberal. Klan Saéli rozhodoval. A dcéry klanu boli buď sľúbené mužom, alebo sľúbené bohom. Iná klietka, rovnaký zámok.
+V Nyau sa nechcelo. V Nyau sa plnilo. Dcéry klanu boli buď sľúbené mužom, alebo sľúbené bohom. Iná klietka, rovnaký zámok.
 
-Položila ruky na zábradlie. Kameň bol teplý — aj v noci, aj po hodinách tmy, ako keby nikdy nechladol, ako keby si pamätal slnko aj potme. Pazúry — jemné, krátke, tmavé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
+Položila ruky na zábradlie. Pazúry — jemné, krátke, tmavé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
 
-Cvrčky za oknom hrali svoju nočnú litániu — rovnakú včera, rovnakú zajtra, rovnakú odkedy Nyau stálo. Svetlušky krúžili okolo nočných kvetov v záhrade pod balkónom — tyrkysové, modré, niektoré zelenkavé — a z kanálu sa niesol slabý šum vody a vôňa rias.
+Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené.
 
-Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci. Päť, šesť postáv v lampášovom svetle, stavali konštrukcie, vešali šnúry medzi kamenné stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené, ako mŕtve svetlušky na nitiach.
-
-*Festival.*
-
-O dva dni. Lampionový festival — najväčšia noc v roku. Tisíce lampónov stúpajú k hviezdam. Masky, hudba, tanec, jedlo na každom rohu. Noc, keď sa kasty stretávajú pod anonymitou masiek a nikto sa nepýta meno. Noc, keď je Nyau najkrajšie. [→ regions/nyau.md: Lampionový festival, tradícia maskovania, „počas festivalu sú si všetky kasty rovné"]
-
-A Yera bude sedieť na klankovom balkóne. V hodvábnych šatách. Vedľa otca. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, tri poschodia nad ulicami, kde sa ľudia smejú a tancujú a dotýkajú sa.
-
-Ako vždy.
+*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampionový festival, tradícia maskovania]
 
 Stisla ruky na zábradlí. Pazúry zaškrípali hlasnejšie. Nikto to nepočul. Nikto nikdy nepočul.
 
-Vietor priniesol poslednú melódiu z chrámu — kňažky dokonávali nočnú modlitbu. Spev stíchol. Strunové nástroje dozvibrovali. A potom ticho — to zvláštne, absolútne ticho, keď celé Nyau na okamih zastaví a čaká. [→ regions/nyau.md: Cirkev El, rituály — modlitby pod svietiacimi stromami, kadidlo, strunová hudba]
-
-*El je svetlo. El je cesta. El sa vráti.* [→ regions/nyau.md: Cirkev El, základná modlitba. IRÓNIA: Elania skutočne plánuje „návrat" cez Upload — a Cirkev má pravdu]
-
-Yera zavrela oči. Poznala tie slová naspamäť. Poznala melódiu. Poznala aj tichý okamih na konci, keď hudba stíchne a kňažky zdvihnú ruky k oblohe, k Sai, k hviezdam — k El, nech je kdekoľvek. Moment, keď celé mesto zadrží dych.
+Z chrámu sa niesla posledná melódia — kňažky dokonávali nočnú modlitbu. *El je svetlo. El je cesta. El sa vráti.* [→ regions/nyau.md: Cirkev El, základná modlitba. IRÓNIA: Elania skutočne plánuje „návrat" cez Upload]
 
 Yera cítila len horúci vzduch a ťažké kadidlo.
 
-Otvorila oči. Mesto svietilo. Hviezdy svietili. Sai visel nad obzorom, jantárový, s prstencom. A medzi tým všetkým — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Liečiteľka. Zasvätená. Klietková.
+Mesto svietilo. Hviezdy svietili. A medzi tým všetkým — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Liečiteľka. Zasvätená. Klietková.
 
 *Kedy som prestala svietiť?*
 
-Dívala sa na prístav. Na svetlá lodí. Na obzor za nimi — tmavý, nekonečný, plný vecí, ktoré nevidela a možno nikdy neuvidí.
+Dívala sa na prístav. Na obzor za ním — tmavý, nekonečný, plný vecí, ktoré nevidela a možno nikdy neuvidí.
 
 ---
 
@@ -252,7 +236,7 @@ Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
 Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prepaľovala očami každý nakladací dok.
 
-Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. 
+Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak.
 
 Zbadal ju skôr, než by očakávala. Uprostred pohybu otočil hlavu, akoby mu inštinkt povedal, že ho niekto pozoruje. Pustil vrece. Všetci tí tvrdí námorníci stíchli, keď sa usmial tým pomalým, asymetrickým úsmevom, ignorujúc kňažkine rúcho, pre ktoré by iní odvrátili zrak do zeme.
 
@@ -354,9 +338,9 @@ Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholick
 
 Lavička s prasknutou mosadznou opierkou bola vždy obsadená ešte pred padnutím prvej rosy. Arkot vždy došiel prvý.
 
-Prvé noci presedeli presne jednu stopu od seba. Rozprávali sa o ničom — o tom, kto varí lepšie ryby, pobrežie Nyau alebo prístavné stánky v Beladiss. O tom, ako Arkot raz zaspal na hliadke a prebudil ho až racek, ktorý mu sadol na hlavu. O najškaredšom tetovaní, aké kedy videli. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov, počas ktorého obaja hľadeli rôznymi smermi a nevedeli, kam s rukami. Svetlušky im krúžili okolo hláv — modré, tyrkysové — a Arkot jednu chytil do dlane a ukázal jej, ako svieti cez prsty, a Yera sa smiala a on ju pustil a ona odletela k ostatným.
+Prvá noc: jedna stopa medzi nimi. Rozprávali sa o ničom — kto varí lepšie ryby, pobrežie Nyau alebo stánky v Beladiss. Ako Arkot raz zaspal na hliadke a prebudil ho racek, ktorý mu sadol na hlavu. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov. Nevedeli, kam s rukami.
 
-Druhá noc tú stopu prepolila. Tretia ju úplne zmazala.
+Druhá noc tú stopu prepolila. Tretia ju zmazala. Rozprávali sa o čoraz menej a sedeli čoraz bližšie — a Yera si uvedomila, že na záhradné stretnutia nemyslí cez deň, ale čaká na ne celým telom, od úsvitu po súmrak, ako zver čaká na noc, kedy je bezpečné vyjsť z úkrytu.
 
 Na štvrtú noc Arkot prišiel s krvácaním na predlaktí — lano mu prešlo cez ruku, povedal, nič vážne. Yera nepovedala nič. Sadla si vedľa neho — bližšie než predtým, bez premýšľania, akoby telo vedelo niečo, čo hlava ešte odmietala — a položila prsty na ranu. Prsty jej ochladli. Pod dotykom sa objavilo jemné svetlo — slabé, modrasté, sotva viditeľné oproti lišajníku na lavičke. Voda z nočného vzduchu, z rosy na lišajníku, z vlhkosti v jeho koži sa sústredila pod jej prstami a pomaly, trpezlivo, umývala krv z okrajov. Nemusela premýšľať. Stalo sa to samo — tichý impulz, naučený reflex, niečo medzi dýchaním a modlitbou. [NOTE: Yera tu používa Spiru, ale nevedome — cez tetovania (makra), ktoré umožňujú vysoko kvalifikovaným používateľom aktivovať Spiru bez vedomého „otvorenia IDE." Zdroj tetovaní: buď Waspira (Maksov tréning) alebo tajné tetovania kňaziek v Nyau (zatiaľ nepomenovaný systém). Pre čitateľa to vyzerá ako mágia — pre Yeru je to len svalová pamäť.]
 
@@ -388,7 +372,19 @@ Vracala sa domov, keď Sai klesal k horizontu, bosými nohami cez tiché ulice, 
 
 Ráno prišla k Soril. Čítala. Trénovala. Odpovedala na otázky.
 
-A čakala na noc. [NOTE: Dvojitý život — deň: Soril, Kniha, Spira. Noc: Arkot, záhrada, teplo. Yera žije v oboch svetoch súčasne a postupne vie, že to tak nemôže ostať. Ale ešte nevie ako to skončí.]
+A čakala na noc.
+
+Jedného rána — bolo to po siedmej, možno ôsmej noci v záhrade — Soril nečakane zatvorila Knihu skôr, než zvyčajne. Pozrela na Yeru. Dlho. Tým pohľadom, ktorý nebol otázka a nebol odpoveď. Bol to pohľad ženy, ktorá vidí niečo, čo ešte nechce pomenovať.
+
+*„Dobre spíš?"* spýtala sa.
+
+*„Áno,"* klamala Yera.
+
+Soril mlčala. Prsty na doskovej väzbe. Potom — akoby sa rozhodla, že dnes nie — vstala a otvorila dvere.
+
+*„Zajtra."*
+
+Dvere sa zavreli. Yera zostala sedieť s rukami v lone a so srdcom, ktoré bilo o niečo rýchlejšie než pred otázkou. [NOTE: Hook — Soril tuší. Alebo vie. „Dobre spíš?" nie je nevinná otázka od ženy, ktorá vidí všetko. Čitateľ ide do Ch3 (Black Book) s vedomím, že Soril sleduje Yeru bližšie, než Yera tuší. Setup pre záhradnú scénu v Ch3, kde Soril pristihne Yeru s Arkotom.]
 
 ---
 
