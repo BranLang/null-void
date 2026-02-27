@@ -100,7 +100,7 @@ Potom si stiahla stoličku, druhú posunula k Yere, a sadla si. Ako matka pri la
 
 Yera sadla.
 
-*„To, čomu sa celé kráľovstvo každú zimu klaňa,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
+*„To, čomu sa celé kráľovstvo každú zimu klania,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
 
 Prst prešiel po okraji čiernej tabuľky. Pomaly.
 
@@ -169,10 +169,6 @@ Jedna sa opakovala. Na dvoch stranách, na troch, vždy trochu inak — väčši
 Ticho. Sviečka zapraskala. Yera hľadela na tú rozmazanú tvár s líščím chvostom a myslela: *toto bol niekto živý. Niekto, koho El milovala. Nie teológia. Nie symbol. Dieťa.* [NOTE: Yera sa tu prvýkrát dotkne jadra — El nebola bohyňa. Bola žena, ktorá kreslila deti a poznala ich mená.]
 
 Soril nekomentovala. Otočila stranu.
-
-Yera sa narovnala na stoličke. Chrbtica bolela — sedela nahnutá nad pergamenmi dlhšie, než si uvedomovala. Vzduch v miestnosti bol ťažký, voňal voskom a niečím starším — suchým pergamenom, prachom, stáročiami. Ozvala sa — niekde hore, za dverami, za schodmi — tlmená polnočná zvonica chrámu. Dvanásť úderov. Každý sa stratil v kameni, než dorazil dole.
-
-Soril sa nepohla. Čakala, kým dozvoní. [NOTE: Senzorický break — čitateľ aj Yera sa nadýchnu. Dvanásť úderov = polnoc. Orientácia v čase. Všetko predtým bolo veda, toto je telo — bolesť v chrbte, ťažký vzduch. Po tomto príde breakdown.]
 
 ---
 
