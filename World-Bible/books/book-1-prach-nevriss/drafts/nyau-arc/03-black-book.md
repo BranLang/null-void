@@ -7,7 +7,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrámová záhrada, podzemná knižnica pod chrámom El
-**Čas**: ~AY 3010, niekoľko mesiacov po Lampionovom festivale [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci. „Zima" = 5-ročná sezóna, nasledujúca ešte nenastala.]
+**Čas**: ~AY 3010, niekoľko mesiacov po Lampiónovom festivale [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci. „Zima" = 5-ročná sezóna, nasledujúca ešte nenastala.]
 **Nálada**: Napätá, odhaľujúca — intímna tma pod chrámom, dve ženy a jedna kniha
 
 ## Ciele kapitoly:
@@ -34,7 +34,7 @@ Tá žena nebola nahnevaná.
 
 Bola niečo iné.
 
-Zastavila sa pred kovanými dverami do vnútra chrámu. Ruky poklesli k bokoch. Vydychla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
+Zastavila sa pred kovanými dverami do vnútra chrámu. Ruky poklesli k bokoch. Vydýchla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
 
 *„Nech to Samaell vezme,"* povedala Soril.
 

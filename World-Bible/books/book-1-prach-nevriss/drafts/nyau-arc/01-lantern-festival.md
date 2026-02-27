@@ -3,22 +3,22 @@
 > *„A El povedala: Pusť svetlo. Nech stúpa. Nech sa dotkne hviezd a nech sa vráti ako dážď — lebo každé svetlo, čo vypustíš, sa k tebe vráti stonásobne."*
 > — Kniha El, 1:7
 
-# Kapitola 1: Lampionový Festival
+# Kapitola 1: Lampiónový Festival
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — hlavné námestie, ulice, prístav, strechy
-**Čas**: ~AY 3010, noc Lampionového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
+**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
 **Nálada**: Horúca, voňavá, opojná — a pod tým všetkým dusivá
 
 ---
 
-Prvý lampión vzlietol z námestia pred Chrámom El presne v okamihu, keď Sai prešiel zenith.
+Prvý lampión vzlietol z námestia pred Chrámom El presne v okamihu, keď Sai prešiel zenit.
 
-Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotel ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampionový festival, lampióny = duše stúpajúce k El]
+Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotal ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampiónový festival, lampióny = duše stúpajúce k El]
 
 Tisíce.
 
-Papierové, hodvábne, maľované, jednofarebné, strakaté. Niektoré tvarované do kvetov, iné do vtákov, jedno — odletelo z Chrámových schodov — malo tvar El s rozprestretými rukami. Stúpali všetky naraz, v tom istom tichom okamihu, a z balkóna vyzerali ako roj svetlušiek, ktoré sa rozhodli odísť z tohto sveta a nájsť si lepší. [→ regions/nyau.md: Lampionový festival — symbolizujú duše stúpajúce k El]
+Papierové, hodvábne, maľované, jednofarebné, strakaté. Niektoré tvarované do kvetov, iné do vtákov, jedno — odletelo z Chrámových schodov — malo tvar El s rozprestretými rukami. Stúpali všetky naraz, v tom istom tichom okamihu, a z balkóna vyzerali ako roj svetlušiek, ktoré sa rozhodli odísť z tohto sveta a nájsť si lepší. [→ regions/nyau.md: Lampiónový festival — symbolizujú duše stúpajúce k El]
 
 Pod ňou mesto vybuchlo zvukom. Bubny — desiatky, stovky, basy ako srdce, malé bubienky ako dážď na plechovej streche. Flauty sa zapojili — vysoké, presné tóny, čo sa vinuli pomedzi bubnový rytmus ako dym medzi stromami. A struny. Vždy struny — dlhé, ťahané akordy, ktoré vibrovali v kameni pod nohami a v kostiach pod kožou. Hudba Nyau. Hudba, ktorú Yera poznala od prvej zimy a ktorá nikdy neznela rovnako dvakrát. [→ regions/nyau.md: hudba — bubny, flauty, struny]
 
@@ -40,9 +40,9 @@ Nikto nesedel nesprávne. Nikto sa nedíval nesprávnym smerom. Nikto sa nehýba
 
 Vôňa kadidla stúpala z Chrámu — ťažká, hustá, sladká — a pod ňou sa valila tá druhá vôňa, tá zdola, zo stánkov a námestia: grilované huby, korenie, morská soľ z prístavu, rozohriate telá stoviek ľudí stlačených na kameňoch. Voňalo to životom. Voňalo to všetkým, čo Yera nemala právo chcieť. [→ regions/nyau.md: Vôňa — kadidlo, korenie, grilované huby, nočné kvety, morská soľ]
 
-Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, El s rukami zdvihnutými k nebu, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, klzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
+Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, El s rukami zdvihnutými k nebu, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, kĺzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
 
-*Počas festivalu sú si všetky kasty rovné.* [→ regions/nyau.md: Lampionový festival — tradícia maskovania, symbolická rovnosť]
+*Počas festivalu sú si všetky kasty rovné.* [→ regions/nyau.md: Lampiónový festival — tradícia maskovania, symbolická rovnosť]
 
 Pod maskami. Na jednu noc. Symbolicky.
 
@@ -378,7 +378,7 @@ Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými
 
 ---
 
-[NOTE: NOVÁ ŠTRUKTÚRA — Kapitola 1 = Lampionový festival. Otvorenie celého arcu. Čitateľ vstupuje priamo do exotického sveta Nyau v najkrajší moment. Romantika, exotika, teplo, mágia. Klietka je cítiť, ale ešte ju nedominuje — festival je sloboda, aj keď len na jednu noc.]
+[NOTE: NOVÁ ŠTRUKTÚRA — Kapitola 1 = Lampiónový festival. Otvorenie celého arcu. Čitateľ vstupuje priamo do exotického sveta Nyau v najkrajší moment. Romantika, exotika, teplo, mágia. Klietka je cítiť, ale ešte ju nedominuje — festival je sloboda, aj keď len na jednu noc.]
 
 [NOTE: Kapitola 2 (pôvodná „Prvé Svetlo") = Prebudenie do reality. Chrám, strom, Soril, otec, zasvätenie. Kontrast s festivalom — zo slobody do klietky. „Kedy som prestala vidieť?" dostáva iný význam.]
 
@@ -391,7 +391,7 @@ Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými
 [NOTE: MASKA ZADARMO — predavač masiek dá Yere masku zadarmo. Nie z charity — z komunity. Festival ruší hierarchie. Yera si zvykla platiť menom, nie peniazmi. Tu je prvýkrát nikým — a dostáva viac. Jedlo nekupuje — nemá peniaze. Stojí, vonia, ide ďalej. Jeden dar zadarmo stačí — a maska je silnejší symbol.]
 
 [→ Celá kapitola vychádza z Beat 2 + Beat 3 z books/planning/yera-arc-novela.md]
-[→ Festival: regions/nyau.md — Lampionový festival, jedlo, masky, chrámový obrad]
+[→ Festival: regions/nyau.md — Lampiónový festival, jedlo, masky, chrámový obrad]
 [→ Arkot: characters/Arkot.md — Mezra leopard, Beladiss, navigátor]
 [→ Yera voice: characters/Yera.md — tichá, premyslená, pýta sa otázky, nie tvrdenia]
 [→ Infera: 05-geography.md — ARK-13, Diablovo Oko, červená „hviezda"]

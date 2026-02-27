@@ -5,7 +5,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrám El, ulice, vila Saéli
-**Čas**: ~AY 3010, dni pred a po Lampionovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
+**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
 **Nálada**: Dusivá, nespokojná — kontrast s festivalovou nocou
 
 ---
@@ -14,7 +14,7 @@ Strom v chrámovej záhrade prestal svietiť.
 
 Yera to zbadala ešte počas večernej modlitby — z miesta, kde kľačala v druhom rade za kňažkami, videla na okraj záhrady. Štvrtá vetva zdola, severná strana. Kôra, ktorá ešte ráno žiarila tyrkysovo, bola tmavá. Mŕtva. Akoby niekto v strome zhasol lampu. [→ regions/nyau.md: bioluminiscencia = vedľajší efekt Inetisiných GMO rastlín]
 
-Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlato-zelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
+Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlatozelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
 
 Yera kľačala, ruky zopnuté, oči zatvorené — tak ako sa patrilo — a myslela na strom.
 
@@ -120,7 +120,7 @@ Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vi
 
 Otec sedel v záhrade pod stromom.
 
-Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú konvicu vedľa neho, tieň jeho ramien v zeleno-tyrkysovom svetle. Chcela prejsť rovno. Hore po schodoch, do izby, do tmy, pod prikrývku, kde bol svet jednoduchší.
+Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú kanvicu vedľa neho, tieň jeho ramien v zeleno-tyrkysovom svetle. Chcela prejsť rovno. Hore po schodoch, do izby, do tmy, pod prikrývku, kde bol svet jednoduchší.
 
 „Yerana."
 
@@ -140,7 +140,7 @@ Vyliečený."
 
 Otec nalial čaj. Dve šálky — vedel, že príde. Vždy vedel. Čaj voňal miestnym korením — niečím sladkastým a korenitým zároveň, vôňa, ktorú nikto mimo Nyau nepoznal. [→ regions/nyau.md: korenený čaj, každý klan má vlastnú receptúru]
 
-„Lampionový festival je o dva dni," povedal. Akoby hovoril o počasí. Akoby to nebola udalosť, pre ktorú žilo celé mesto.
+„Lampiónový festival je o dva dni," povedal. Akoby hovoril o počasí. Akoby to nebola udalosť, pre ktorú žilo celé mesto.
 
 Yera čakala. Vedela, že veta nekončí.
 
@@ -210,7 +210,7 @@ Položila ruky na zábradlie. Pazúry — jemné, krátke, tmavé — zaškrípa
 
 Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené.
 
-*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampionový festival, tradícia maskovania]
+*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampiónový festival, tradícia maskovania]
 
 Stisla ruky na zábradlí. Pazúry zaškrípali hlasnejšie. Nikto to nepočul. Nikto nikdy nepočul.
 

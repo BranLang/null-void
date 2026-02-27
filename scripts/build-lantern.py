@@ -34,11 +34,20 @@ from importlib import import_module
 clean_module = import_module('export-clean-drafts')
 strip_comments = clean_module.strip_comments
 
+# Epigraph — Kniha El 1:7 (same quote as Ch1, which gets its epigraph removed)
+EPIGRAPH_HTML = """<div class="epigraph">
+<p>„A El povedala: Pusť svetlo. Nech stúpa. Nech sa dotkne hviezd a nech sa vráti ako dážď — lebo každé svetlo, čo vypustíš, sa k tebe vráti stonásobne."</p>
+<p class="epigraph-author">Kniha El, 1:7</p>
+</div>
+"""
+
 # Chapter order for each book
 BOOK_CHAPTERS = {
     'book-1-prach-nevriss': [
-        'nyau-arc/audiobook/01-lantern-festival.md',
+        'nyau-arc/01-lantern-festival.md',
         'nyau-arc/02-first-light.md',
+        'nyau-arc/02.1-interlude-itaka.md',
+        'nyau-arc/03-black-book.md',
     ],
 }
 
@@ -75,6 +84,40 @@ h1:first-of-type {
   page-break-before: avoid;
   margin-top: 0;
   font-size: 24pt;
+}
+
+/* Chapter epigraph: own page, vertically centered */
+.chapter-epigraph {
+  page-break-before: always;
+  page-break-after: always;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chapter-epigraph blockquote {
+  font-style: italic;
+  text-align: center;
+  border-left: none;
+  text-indent: 0;
+  margin: 0 2em;
+  max-width: 80%;
+}
+
+.chapter-epigraph blockquote p {
+  text-indent: 0;
+  font-size: 9pt;
+  line-height: 1.6;
+}
+
+.chapter-epigraph .epigraph-source {
+  display: block;
+  margin-top: 0.8em;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 7.5pt;
 }
 
 h2 {
@@ -260,13 +303,14 @@ html, body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background: #000;
 }
 
 .cover-page img {
   width: 100vw;
   height: 100vh;
-  object-fit: cover;
-  object-position: center 15%;
+  object-fit: contain;
+  object-position: center center;
   display: block;
   margin: 0;
   padding: 0;
@@ -330,7 +374,7 @@ def img_to_base64_uri(img_path: Path) -> str:
 
 def build_cover_markdown(books_dir: Path) -> str:
     """Build markdown for the cover page only."""
-    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-xy-arkot-yera-cover.png').resolve()
+    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1' / 'covers' / 'book-nyau-arc-cover.png').resolve()
     if not cover_path.exists():
         return ''
     cover_b64 = img_to_base64_uri(cover_path)
@@ -422,6 +466,11 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         # Remove trailing "— koniec interlúdia —" markers (we use page breaks)
         clean = re.sub(r'\n*\*— koniec interlúdia —\*\n*', '\n', clean)
 
+        # First chapter: remove its blockquote epigraph (it's used as the book epigraph)
+        if i == 0:
+            clean = clean.lstrip('\n')
+            clean = re.sub(r'^(>.*\n)+\s*\n*', '', clean)
+
         # Add a few newlines between chapters. CSS handles page and headings.
         if i > 0:
             parts.append('\n\n')
@@ -440,7 +489,46 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         parts.append('\n\n')
         print(f"  + {chapter_file}")
 
-    return ''.join(parts)
+    merged = ''.join(parts)
+
+    # Put chapter epigraphs on their own centered page, heading on next page
+    def wrap_chapter_epigraph(match):
+        blockquote = match.group(1)
+        heading = match.group(2)
+        # Convert markdown blockquote to HTML, converting *...* to <em>...</em>
+        # and wrapping source line (— Kniha El, ...) in span for uppercase styling
+        quote_lines = []
+        source_line = None
+        for line in blockquote.strip().split('\n'):
+            line = line.lstrip('> ').strip()
+            if not line:
+                continue
+            # Convert markdown italic *...* to HTML <em>...</em>
+            line = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', line)
+            # Detect source attribution line (starts with —)
+            if line.startswith('—') or line.startswith('–'):
+                source_line = f'<span class="epigraph-source">{line}</span>'
+            else:
+                quote_lines.append(line)
+        quote_html = '<br>\n'.join(quote_lines)
+        if source_line:
+            bq_html = f'<blockquote>\n<p>{quote_html}</p>\n<p>{source_line}</p>\n</blockquote>'
+        else:
+            bq_html = f'<blockquote>\n<p>{quote_html}</p>\n</blockquote>'
+        return f'\n<div class="chapter-epigraph">\n{bq_html}\n</div>\n\n{heading}\n'
+
+    merged = re.sub(
+        r'((?:^>.*\n)+)\s*\n*(# [^\n]+)',
+        wrap_chapter_epigraph,
+        merged,
+        flags=re.MULTILINE
+    )
+
+    # Remove --- (horizontal rules) that immediately follow </div> (chapter-epigraph)
+    # These are just markdown separators from source files, not scene breaks
+    merged = re.sub(r'(</div>)\s*\n+---\n*', r'\1\n\n', merged)
+
+    return merged
 
 
 def run_md_to_pdf(md_path: Path, css_path: Path) -> Path:
@@ -474,8 +562,8 @@ def main():
                         help='Book directory name (default: book-1-prach-nevriss)')
     parser.add_argument('--no-pdf', action='store_true',
                         help='Only generate merged markdown, skip PDF conversion')
-    parser.add_argument('--output', default='export/lantern-festival.pdf',
-                        help='Output filename (default: export/lantern-festival.pdf)')
+    parser.add_argument('--output', default='export/nyau-arc.pdf',
+                        help='Output filename (default: export/nyau-arc.pdf)')
     args = parser.parse_args()
 
     repo_root = Path(__file__).parent.parent
@@ -487,13 +575,14 @@ def main():
 
     # Build cover, maps, and content markdown separately
     cover_md = build_cover_markdown(books_dir)
+    map_md = build_map_markdown(books_dir)
     terra_map_md = build_terra_map_markdown(books_dir)
     content_md = build_content_markdown(args.book, books_dir)
 
-    # Extract epigraph from content (built as separate page without page numbers)
-    epigraph_md, content_md = extract_epigraph_markdown(content_md)
-    if epigraph_md:
-        print("  Epigraph extracted (separate page)")
+    # Use hardcoded epigraph (same as heist arc) and strip any existing from content
+    epigraph_md = EPIGRAPH_HTML
+    _, content_md = extract_epigraph_markdown(content_md)  # remove if present in chapters
+    print("  Epigraph: Kniha El, 3:11")
 
     # Write merged content markdown (for reference/--no-pdf)
     content_with_config = CONTENT_MD_CONFIG + content_md
@@ -524,6 +613,12 @@ def main():
         cover_md_path.write_text(COVER_MD_CONFIG + cover_md, encoding='utf-8')
         cover_pdf = run_md_to_pdf(cover_md_path, cover_css_path)
 
+        # Generate Achilles map PDF (zero margins, full bleed)
+        print("Generating Achilles map PDF...")
+        map_md_path = export_dir / '_map.md'
+        map_md_path.write_text(COVER_MD_CONFIG + map_md, encoding='utf-8')
+        map_pdf = run_md_to_pdf(map_md_path, cover_css_path)
+
         # Generate Terra map PDF (landscape A5, full bleed)
         print("Generating Terra map PDF (landscape)...")
         terra_map_md_path = export_dir / '_terra-map.md'
@@ -531,12 +626,10 @@ def main():
         terra_map_pdf = run_md_to_pdf(terra_map_md_path, terra_map_css_path)
 
         # Generate epigraph PDF (no page numbers)
-        epigraph_pdf = None
-        if epigraph_md:
-            print("Generating epigraph PDF...")
-            epigraph_md_path = export_dir / '_epigraph.md'
-            epigraph_md_path.write_text(EPIGRAPH_MD_CONFIG + epigraph_md, encoding='utf-8')
-            epigraph_pdf = run_md_to_pdf(epigraph_md_path, epigraph_css_path)
+        print("Generating epigraph PDF...")
+        epigraph_md_path = export_dir / '_epigraph.md'
+        epigraph_md_path.write_text(EPIGRAPH_MD_CONFIG + epigraph_md, encoding='utf-8')
+        epigraph_pdf = run_md_to_pdf(epigraph_md_path, epigraph_css_path)
 
         # Generate content PDF (normal margins + page numbers)
         print("Generating content PDF...")
@@ -544,24 +637,23 @@ def main():
         content_md_path.write_text(content_with_config, encoding='utf-8')
         content_pdf = run_md_to_pdf(content_md_path, content_css_path)
 
-        # Merge: cover + terra map + [epigraph] + content
+        # Merge: cover + achilles map + terra map + epigraph + content
         print("Merging PDFs...")
         merger = PyPDF2.PdfMerger()
         merger.append(str(cover_pdf))
+        merger.append(str(map_pdf))
         merger.append(str(terra_map_pdf))
-        if epigraph_pdf:
-            merger.append(str(epigraph_pdf))
+        merger.append(str(epigraph_pdf))
         merger.append(str(content_pdf))
         merger.write(str(pdf_output))
         merger.close()
 
         # Clean up temp files
-        temp_files = [cover_md_path, cover_pdf,
+        temp_files = [cover_md_path, cover_pdf, map_md_path, map_pdf,
                       terra_map_md_path, terra_map_pdf,
+                      epigraph_md_path, epigraph_pdf,
                       content_md_path, content_pdf,
                       cover_css_path, terra_map_css_path, epigraph_css_path]
-        if epigraph_pdf:
-            temp_files.extend([epigraph_md_path, epigraph_pdf])
         for f in temp_files:
             f.unlink(missing_ok=True)
 
