@@ -306,21 +306,43 @@ Soril to učila bez emócií, ako keby ukazovala techniku šitia. Roztiahla ruku
 
 Yera to vstrebávala dychtivo, omámená zakázanosťou toho všetkého. Učila sa neprípustne rýchlo. Soril jej to videla v očiach, aj keď navonok mlčala a len rozdávala príkazy.
 
-Celý tento dvojitý život naberal šialené tempo. Deň plný chladnej mágie a kacírskych rozborov svätého písma so starou jastrabicou. 
+Jedno ráno, po noci v záhrade, Yera kľačala v Sorilin pracovni a trénovala Ľad. Miska s vodou pred ňou. Sústredila sa — prsty nad hladinou, vôľa, chlad. Voda stuhla. Ale Soril pokrútila hlavou.
 
-A cez noc — tepot srdca a záhrada.
+„Prsty," povedala.
+
+Yera sa pozrela na vlastné ruky. Stále teplé. Teplé od noci — od kameňa, od jeho kože, od všetkého, čo Soril nevedela a nesmela vedieť.
+
+„Ľad ide z prázdna," povedala Soril. „Nie z tepla. Kým v tebe niečo horí, nezmrazíš nič."
+
+Yera stiahla ruky. Zavrela oči. Hľadala prázdno.
+
+Nenašla ho. [NOTE: Kontrast teploty — ráno Ľad (chlad, prázdno, deštrukcia), noc Arkot (teplo, plnosť, dotyk). Yera nemôže robiť oboje. Ešte to nevie.]
+
+A cez noc — záhrada.
 
 ---
 
-Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholická cez deň — horúca, smradľavá od stojatej vody v kanáli, s muchami krúžiacimi nad rozpadajúcimi sa lavičkami. Ale za šera sa menila. Stromy horeli hustou tyrkysovou šťavou v lyku a pohlcovali celú architektúru záhrady. Chladný kameň i hlinená cesta podliehali slabo fosforeskujúcim modrozeleným lišajníkom, akoby chodili po chrbte dýchajúceho prastarého zvieraťa. Všadeprítomné fialové a ružové kvety otvárali svoje hluché ústa a chytali nočný vzduch. A svetlušky — stovky — sa zdvíhali z trávy a z kríkov a z machu na kameňoch, modré a tyrkysové a zelené, niektoré žlté, sem-tam fialová väčšia než ostatné, a poletovali v pomalých oblúkoch medzi kmeňmi, akoby záhrada dýchala svetlom. Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo hovoriť potichu a nikto ťa nepočul. [→ regions/nyau.md: svetlušky = bioluminiscenčný hmyz, farby: modrá, tyrkisová, zelená, žltá, fialová. Cvrčky a cikády = stála zvuková kulisa Nyau v noci] [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
+Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholická cez deň — horúca, smradľavá od stojatej vody v kanáli, s muchami krúžiacimi nad rozpadajúcimi sa lavičkami. Ale za šera sa menila. Stromy horeli hustou tyrkysovou šťavou v lyku a pohlcovali celú architektúru záhrady. Chladný kameň i hlinená cesta podliehali slabo fosforeskujúcim modrozeleným lišajníkom, akoby chodili po chrbte niečoho živého. Všadeprítomné fialové a ružové kvety otvárali hluché ústa do noci. A svetlušky — stovky — sa zdvíhali z trávy a z kríkov a z machu na kameňoch, modré a tyrkysové a zelené, niektoré žlté, sem-tam fialová väčšia než ostatné, a poletovali v pomalých oblúkoch medzi kmeňmi, akoby záhrada dýchala svetlom. Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo hovoriť potichu a nikto ťa nepočul. [→ regions/nyau.md: svetlušky = bioluminiscenčný hmyz, farby: modrá, tyrkisová, zelená, žltá, fialová. Cvrčky a cikády = stála zvuková kulisa Nyau v noci] [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
 
 Lavička s prasknutou mosadznou opierkou bola vždy obsadená ešte pred padnutím prvej rosy. Arkot vždy došiel prvý.
 
-Prvé noci presedeli presne tri stopy od seba. Rozprávali sa o ničom — o tom, kto varí lepšie ryby, pobrežie Nyau alebo prístavné stánky v Beladiss. O tom, ako Arkot raz zaspal na hliadke a prebudil ho až racek, ktorý mu sadol na hlavu. O najškaredšom tetovaní, aké kedy videli. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov, počas ktorého obaja hľadeli rôznymi smermi a nevedeli, kam s rukami. Svetlušky im krúžili okolo hláv — modré, tyrkysové — a Arkot jednu chytil do dlane a ukázal jej, ako svieti cez prsty, a Yera sa smiala a on ju pustil a ona odletela k ostatným.
+Prvé noci presedeli presne jednu stopu od seba. Rozprávali sa o ničom — o tom, kto varí lepšie ryby, pobrežie Nyau alebo prístavné stánky v Beladiss. O tom, ako Arkot raz zaspal na hliadke a prebudil ho až racek, ktorý mu sadol na hlavu. O najškaredšom tetovaní, aké kedy videli. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov, počas ktorého obaja hľadeli rôznymi smermi a nevedeli, kam s rukami. Svetlušky im krúžili okolo hláv — modré, tyrkysové — a Arkot jednu chytil do dlane a ukázal jej, ako svieti cez prsty, a Yera sa smiala a on ju pustil a ona odletela k ostatným.
 
-Druhá noc tú palcovú vzdialenosť prepolila. Tretia ju úplne zmazala.
+Druhá noc tú stopu prepolila. Tretia ju úplne zmazala.
 
-A na tú štvrtú Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír z koží Varietas. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
+Na štvrtú noc Arkot prišiel s krvácaním na predlaktí — lano mu prešlo cez ruku, povedal, nič vážne. Yera nepovedala nič. Sadla si vedľa neho — bližšie než predtým, bez premýšľania, akoby telo vedelo niečo, čo hlava ešte odmietala — a položila prsty na ranu. Prsty jej ochladli. Voda z nočného vzduchu, z rosy na lišajníku, z vlhkosti v jeho koži sa sústredila pod jej dotykom a pomaly, trpezlivo, umývala krv z okrajov. Nie Spira — nie vedome. Len prsty a voda a ticho.
+
+Arkot nič nepovedal. Pozeral na jej ruky na svojom ramene — studené, presné, opatrné — a potom sa spýtal: „Toto robíš v tom chráme?"
+
+„Toto robím stromom," povedala Yera.
+
+Pauza. Cvrčky. Svetlušky.
+
+„Nikdy som nebol strom," povedal Arkot.
+
+Yera sa zasmiala. Skutočný smiech — nie ten zdvorilý, nie ten klanový, ten od brucha, ten, čo ju prekvapil viac než jeho. Zahryzla sa do spodnej pery, aby ho zastavila. Nefungovalo to.
+
+Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír z koží Varietas. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
 
 *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.“*
 Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci a zvuku mora z prístavu. 
