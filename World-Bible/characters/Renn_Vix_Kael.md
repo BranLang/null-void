@@ -27,8 +27,8 @@ Renn bol **Renn Ólafsson** — Islanďan, človek zo Zeme, jeden z ~100 preživ
 
 ### Itaka — Najväčšia loď na Terre
 
-- **Pôvod lode**: **Felix a ďalší Maki** postavili **Itaku** pre Renna — väčší projekt, nie práca jedného stroja. Použili zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Itaka bola prototyp štvrtej série vzducholodí triedy Makina — malá, rýchla, ale s jedným revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Itake stačí voda a pár Spira kryštálov za zlomok ceny.
-- **Pôvodné Maki označenie**: *Makina* („Malý Stroj" v jazyku Makov) — pocta staviteľov vlastnému remeslu
+- **Pôvod lode**: **Generačný projekt Kitsune** — nie Rennov solo effort a nie práca jedného stroja. Felix a ďalší Maki navrhovali a dodávali súčiastky na základe Felixových a Rennových návrhov, chlapi z Kitsune ju stavali. Kolektívna investícia celého mesta. Použili zvyšky technológie z lode Hephaestus, kombinované s lokálnymi materiálmi. Kitsune postavilo celkom **4 vzducholode triedy Makina** — Itaka je **4. prototyp** (najnovšia séria). Malá, rýchla, s revolučným detailom: **Spira-kryštálový pohon**. Zatiaľ čo väčšina vzducholodí spaľuje drahý biodiesel alebo etanol, Itake stačí voda a pár Spira kryštálov za zlomok ceny.
+- **Pôvodné Maki označenie**: *Makina* („Malý Stroj" v jazyku Makov) — meno celej triedy, nie len jednej lode
 - **Meno — Itaka**: Renn ju premenoval. Celý život hľadal domov — pomenoval loď po ostrove, na ktorý sa Odysseus takmer nedokázal vrátiť.
 - **Felix 88**: Na loď Felix nainštaloval aj svoj majstrovský kus — **88mm kanón „Felix"**, ťažký delostrelecký kus vlastnej výroby. Legenda medzi zbrojármi.
 - **Prečo najväčšia**: Itaka nie je najväčšia rozmerom — je to malá, rýchla loď. Ale vďaka Spira pohonu má **neobmedzený dolet** a **minimálne prevádzkové náklady**. V svete, kde palivo stojí imanie, je to neoceniteľná výhoda. Žiadna iná loď na Terre nemá túto technológiu.

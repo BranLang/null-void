@@ -94,15 +94,9 @@ Stánok s jedlom. Svietiace huby na železných platniach — grilované, syčia
 
 Vedľa nich stánok s pečeným hmyzom — chrumkavé telá, posypané červeným korením a morskou soľou, podávané v kornútkoch z listov. Korenené nápoje v hlinených pohároch — horúce, sladké, štipľavé na jazyku. Ryžové koláče posypané sušenými bioluminescentnými kvetmi — svietili cez cukrovú glazúru ako drobné hviezdy. [→ regions/nyau.md: jedlo — pečený hmyz, korenené nápoje, ryžové koláče. Žiadne mäso — Cirkev El zakazuje]
 
-Yera sa zastavila. Nemala peniaze — odišla z balkóna bez ničoho. Stála pred stánkom a pozerala, ako staršia mačka s jedným okom obracia huby na platni s drevenou paličkou, a cítila vôňu tak intenzívne, že jej hrdlo zvieralo.
+Yera sa zastavila. Nemala peniaze — odišla z balkóna bez ničoho. Stála pred stánkom a pozerala, ako staršia mačka s jedným okom obracia huby na platni s drevenou paličkou. Vôňa bola tak blízko, že jej hrdlo zvieralo.
 
-Žena zdvihla oči. Pozrela na Yeru — na hodvábne šaty, na bosé nohy, na modré oči. Na okamih stuhla. Potom siahla pod pult, vybrala kornútok z listu, naplnila ho hubami a korením, a podala ho Yere bez slova.
-
-Yera sa chcela ohradiť — *zaplatím, nemôžem* — ale žena sa už otočila k ďalšiemu zákazníkovi.
-
-Prvé sústo bolo horúce a bolelo. Druhé bolo dokonalé — zemité, slané, korenené, s tým zvláštnym posmrtným svietením húb, ktoré jej pulzovalo na jazyku. Jedla rukami, v dave, stojac, v hodvábnych šatách, bez príboru, bez servítky, bez etikety.
-
-*Nikto sa nedíval.* V dave jedli všetci. Stojac. Rukami. Bez mien.
+Nestála dlho. Nemusela — festival nebol o jedení, bol o pohybe. Stála, dýchala tú vôňu, a potom šla ďalej. Okolo nej jedli všetci. Stojac. Rukami. Bez mien.
 
 Prešla popri stánku s maskami. Drevené, maľované, lakované — zvieracie tváre, El s pokojným úsmevom, démoni s červenými očami a vyplazenými jazykmi, duchovia v bielom závoji. Predavač — drobný králik s odstávajúcimi ušami a šibalským úsmevom — vyťahoval masky jednu za druhou, nasadzoval si ich na tvár, robil hlasy, deti okolo neho sa skvíkali od smiechu. [→ regions/nyau.md: Masky — zvieracie tváre, El, duchovia. Anonymita.]
 
@@ -134,11 +128,11 @@ Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťa
 
 Tak jej hovorili v Chráme. *Infera. Nepozeraj sa na ňu.* Kňažky tvrdili, že je to oko tmy — niečo, čo dohliada na svet, keď El odvrátila zrak. Protipól svetla. Stará poverčivosť. Niečo, čomu Yera nikdy neverila — ale v noci, s maskou na tvári, v dave cudzích ľudí, keď červený bod pomaly prechádzal oblohou ako prst ťahaný po čiernom zamate, cítila niečo. Nie strach. Nie vieru. Niečo staršie. Niečo, čo žilo v kostiach, nie v hlave. [→ regions/nyau.md: Nyau = Cirkev El, Infera = poverčivosť. El = svetlo, Infera = tma] [→ 13-etymology.md: Infera — z lat. Infernus, peklo]
 
-Infera zmizla za horizontom strechy pri prístave. Lampióny stúpali ďalej. Sai sa nehýbal. A Yera stála na moste a s každým úderom srdca si podvedome lámala drobné prsty nad obrubníkom. Červené teplo toho malého svetla ju vyhnalo — akoby sa do davu votrelo cudzie teleso, pri ktorom všetky modré a tyrkysové svetlá pálili.
+Infera zmizla za horizontom strechy pri prístave. Lampióny stúpali ďalej. Sai sa nehýbal. A Yera stála na moste a pozerala na miesto na oblohe, kde červená bodka bola pred chvíľou — prázdne, čierne, normálne — a cítila, že niečo nie je v poriadku. Nie v oblohe. V nej.
 
-Cúvla dozadu so zavretými očami a jej rameno narazilo do hrude jedného z rozhorúčených, prepotených tanečníkov. Zhlboka sa nadýchla, ale vzduch na seba natiahol tú ťaživú medzierku hudby. Stratila tempo s dupaním dlaní a bosých umazaných nôh ostatných okolo nej. Ten jeden rytmický výpadok stačil. Dav do nej prudko vrazil, hrubé ramená a lakte ju omietli ako prekážku, až kým sa nepotkla a nevypadla z tancujúceho kruhu rovno na hrubé dláždenie postranných dokov.
+Otočila sa a odišla.
 
-Preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a páchla soľ a olej.
+Nie utiekla. Len — prestala stáť. Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a páchla soľ a olej.
 
 ---
 
@@ -378,7 +372,7 @@ A Yera ležala v posteli so srdcom, ktoré bilo príliš rýchlo a príliš hlas
 
 [NOTE: MASKA — symbol slobody cez anonymitu. Yera celý život skrýva kto je (pred Arkotom, pred posádkou, pred svetom). Maska je paradoxne najúprimnejší moment — keď sa skryje, je slobodnejšia. To sa vráti v celom arcu — Yera definovaná tým, čo NEPOVIE a čo SKRYJE.]
 
-[NOTE: JEDLO ZADARMO — žena zo stánku aj predavač masiek dajú Yere veci zadarmo. Nie z charity — z komunity. Festival ruší hierarchie. Yera si zvykla platiť menom, nie peniazmi. Tu je prvýkrát nikým — a dostáva viac.]
+[NOTE: MASKA ZADARMO — predavač masiek dá Yere masku zadarmo. Nie z charity — z komunity. Festival ruší hierarchie. Yera si zvykla platiť menom, nie peniazmi. Tu je prvýkrát nikým — a dostáva viac. Jedlo nekupuje — nemá peniaze. Stojí, vonia, ide ďalej. Jeden dar zadarmo stačí — a maska je silnejší symbol.]
 
 [→ Celá kapitola vychádza z Beat 2 + Beat 3 z books/planning/yera-arc-novela.md]
 [→ Festival: regions/nyau.md — Lampionový festival, jedlo, masky, chrámový obrad]
