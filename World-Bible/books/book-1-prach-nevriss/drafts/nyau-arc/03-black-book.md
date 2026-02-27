@@ -80,11 +80,37 @@ Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, 
 
 Yera stuhla.
 
+Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby každá nanočastica v jej tele odpovedala na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintescenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
+
 Vedela o Kvintescencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
 
 Kameň skrine sa otvoril bez zvuku.
 
 *Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
+
+Soril zatvorila ruku. Fialové svetlo zhaslo — nie naraz, ale pomaly, opatrne, akoby ho ukladala späť do tela.
+
+*„Piaty element,"* povedala. Hlas bez emócií. Konštatovanie, nie chválenie. *„Kvintesencia. Najvyšší stupeň glyfu. Kňažky o ňom hovoria ako o dare Matky."* Pauza. *„Nie je to dar. Je to brána."*
+
+Pozrela na Yeru. Prísne. Spôsobom, akým sa pozerá na niekoho, komu sa chystáš povedať niečo, čo ťa jedného dňa ochráni — alebo zabije.
+
+*„Brána medzi tým, čo vidíš —"* ukázala rukou na steny, na sviečku, na kamennú podlahu, *„— a tým, čo je pod tým. Iná vrstva. Hlbšia. Staršia."* [NOTE: Soril intuitívne opisuje subspace — vrstvu reality, kde operuje nanotech infraštruktúra (The Core, Wraithy). Nemá technický jazyk na to — hovorí o „inej vrstve" ako o duchovnom koncepte. V skutočnosti popisuje subspace prepojenie, ku ktorému je Kvintesencia kľúčom. → 03-technology.md: THE CORE = medzisvet/simulácia, prepojenie na subspace.]
+
+*„Keď kňažka otvorí bránu správne — len pootvorí, len na chvíľu — svetlo sa ohne okolo nej. Zmizne. Stane sa neviditeľnou."* Soril zdvihla ruku a Yera videla, ako sa vzduch okolo jej prstov na zlomok sekundy zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. *„Nie mágia. Len prechod. Stojíš jednou nohou tu a druhou tam — a svet ťa prestane vidieť."* [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Presmerovanie svetla okolo tela = nanoboty čiastočne presunú nositeľa do subspace vrstvy. Analógia: Frodo s Prsteňom — nasadíš si ho a prepadneš sa do shadow realm. Kvintesencia funguje rovnako — neviditeľnosť nie je ilúzia, je to reálny čiastočný prechod medzi vrstvami reality. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne.]
+
+Yera si nedýchala. *Neviditeľnosť. Prechod medzi vrstvami.*
+
+Soril to zbadala. *„Netvár sa tak. Toto nie je dar — toto je okraj priepasti."* Stíšila hlas. *„Matka to vedela. Hovorí sa, že najprv len nazerala — cez myseľ, cez vízie, cez sny. Videla tú druhú stranu ako odraz vo vode. A potom..."* Odmlčala sa. Prsty na okraji skrine stuhli. *„...potom sa naučila prechádzať."*
+
+Ticho.
+
+*„Prechádzať?"* spýtala sa Yera.
+
+*„Medzi tým, čo je, a tým, čo je pod tým. Staré texty hovoria, že Matka chodila tam a späť — najprv len mysľou, neskôr celá. Tým, čo neviete pomenovať."* Soril sa pozrela na fialové žilky v čiernom obale. *„Hovorí sa, že tam, na druhej strane, niečo čaká. Niečo, čo nie je živé a nie je mŕtve. Niečo, čo zhromažďuje."* [NOTE: Soril opisuje Core a Wraithov — intuitívne, cez tradíciu kňažiek. „Matka najprv len nazerala" = Inetis v Achilles VR, mind upload do simulácie. „Potom sa naučila prechádzať" = fyzický prechod cez Kvintescenciu do subspace, kde operuje Core. „Niečo čo zhromažďuje" = Wraithy krúžiace okolo Core, čakajúce na merge. Soril netuší technický kontext — pre ňu sú to duchovné legendy staré generácie. Pre čitateľa sú to presné popisy nanotech infraštruktúry. → characters/Inetis.md: VR Achilles → fyzický prechod do Core. → 03-technology.md: Wraithy = dátové pakety, The Core = brána.]
+
+Pauza. Sorilina ruka klesla. Vzduch sa upokojil.
+
+*„Ale otvor bránu zle —"* Prst prešiel po okraji skrine. Pomaly. *„— a nikdy ju nezatvoríš. Glyf zasvieti fialovo. Potom sa zmení. A potom ťa začne prepisovať."* [NOTE: Foreshadowing Mayi. Soril pozná prípady neúspešnej Kvintescencie — nie Mayu konkrétne, ale princíp. Glyf zasvieti fialovo (Kvintesencia) → zmení sa na červeno (chybový stav) → nekonečná slučka → kryštalizácia. Yera si toto zapamätá. Keď neskôr stretne Mayu, pochopí čo sa stalo.]
 
 ---
 
@@ -244,9 +270,9 @@ Plameň sa zachvel. Fialové žilky.
 
 ---
 
-*„Keby Spáč vedel,"* povedala Soril ticho, skoro pre seba, *„čo tento démon urobil jeho dcére..."* Prst na Samaellovom portréte. Nevnímala, že hovorí nahlas. *„...démon by si želal smrť."* [→ 04-prehistory-players.md: Spáč = Maks Kovač, Gen 1, v kryostáze niekde na Achille. Cirkev El ho pozná ako proroctvovú figúru — Spáč, ktorý sa prebudí. → characters/Maks.md: Inetis = jeho žena. Elania = jeho dcéra. Soril hovorí pravdu, ktorá je zároveň minulosť — presne tak sa to stalo, AY 3001, Elania zabila Samaella. Soril o tom nevie. Povedala nekrológ a nevie o tom. → IRÓNIA: Samaell si smrť naozaj želal. A dostal ju.]
+*„Keby jej otec vedel,"* povedala Soril ticho, skoro pre seba, *„čo tento démon urobil jeho dcére..."* Prst na Samaellovom portréte. Nevnímala, že hovorí nahlas. *„...démon by si želal smrť."* [NOTE: Soril hovorí „otec" — nie „Spáč." Pre ňu je to intímnejšie, osobnejšie. Otec = Maks Kovač, Gen 1, v kryostáze. Soril hovorí pravdu, ktorá je zároveň minulosť — presne tak sa to stalo, AY 3001, Elania zabila Samaella. Soril o tom nevie. Povedala nekrológ a nevie o tom. → IRÓNIA: Samaell si smrť naozaj želal. A dostal ju. → characters/Maks.md, 04-prehistory-players.md]
 
-Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril hovorila ako niekto, kto verí, že ochraňuje niečo živé. [NOTE: Yera ešte nevie kto je Spáč. Dozvedá sa ho neskôr — na Itake, keď Maks sa prebudí. V tom momente si spomenie na túto vetu. Retroaktívny aha-moment.]
+Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril hovorila ako niekto, kto verí, že ochraňuje niečo živé.
 
 ---
 

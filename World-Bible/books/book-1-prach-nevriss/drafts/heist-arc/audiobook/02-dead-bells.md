@@ -308,7 +308,7 @@ Tami si sadla oproti nemu. Čakala. Nechcela ho prerušiť.
 
 Obrátil dlaň hore. Nad ňou sa zachvel vzduch — Kitova telekinéza, jemná, nekontrolovaná.
 
-„Vidíte toto? Keď sa Spira aktivuje správne, trvá to sekundu. Nabije sa, urobí čo má, a skončí." Vzduch sa upokojil. „Mayina modlitba sa neskončila. Glyf sa jej rozžiaril na červeno a ona spanikárila. Nevedela, ako to vypnúť. Nechala ho svietiť." Hlas sa mu zlomil. „Hodiny. Celú noc."
+„Vidíte toto? Keď sa Spira aktivuje správne, trvá to sekundu. Nabije sa, urobí čo má, a skončí." Vzduch sa upokojil. „Mayina modlitba sa neskončila." Odmlčal sa. Prehltol. „Najprv glyf zasvietil na fialovo. Čisto. Krásne. Nikdy som taký nevidel — nie od nej, nie od nikoho v našej štvrti. Fialová. Piaty element. Pomyslel som si —" Hlas sa mu zachvel. „Pomyslel som si, že sa jej to podarilo." Stisol zuby. „Potom sa farba zmenila. Fialová stmavla, začala pulzovať, rýchlejšie a rýchlejšie — a potom prešla na červeno. Ako keď sa oheň mení na uhlíky. Len opačne. Z niečoho krásneho na niečo choré." Pozrel na svoje ruky. „Ona spanikárila. Nevedela, ako to vypnúť. Nechala ho svietiť." Hlas sa mu zlomil. „Hodiny. Celú noc."
 
 Kito pozrel na Maksa. Žlté oči mu horeli zúfalstvom.
 
