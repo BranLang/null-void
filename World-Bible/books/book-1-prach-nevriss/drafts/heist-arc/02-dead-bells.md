@@ -78,23 +78,23 @@ Lenže pes s kušou nemal pevné nervy. Alebo mal zlý deň. Spúšť cvakla. Ne
 
 Inštinkt mal prednosť pred utajením. Spira sa prebudila rýchlejšie, než jej vedomie stihlo vybrať diskrétnu možnosť. [→ 03a-nanotechnology.md: adrenalín aktivuje nanoboty — obranný reflex]
 
-Pred jej ľavou dlaňou sa s oslepujúcim bleskom rozžiaril pentagram. [NOTE: VEDOMÁ VOĽBA ZMENENÁ NA OBRANNÝ INŠTINKT. Prežitie > utajenie. Cukne sebou od výstrelu.]
+Pred jej ľavou dlaňou sa s oslepujúcim bleskom rozžiaril glyf. [NOTE: VEDOMÁ VOĽBA ZMENENÁ NA OBRANNÝ INŠTINKT. Prežitie > utajenie. Cukne sebou od výstrelu.]
 
-Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Geometria zavesená v priestore centimetre od jej prstov odrazila projektil s ostrým *cinknutím* a zhlukom iskier, ktorý ožiaril kamennú stenu uličky. [→ 03-technology.md: pentagram = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
+Najprv len obrys — päť tenkých zlatých línií, ktoré sa vykreslili vo vzduchu, akoby ich niekto nakreslil neviditeľným perom z čistého svetla. Prepojili sa. Geometria zavesená v priestore centimetre od jej prstov odrazila projektil s ostrým *cinknutím* a zhlukom iskier, ktorý ožiaril kamennú stenu uličky. [→ 03-technology.md: glyf = mnemotechnická pomôcka, zjednodušené UI pre ovládanie reality]
 
 Potom kruhy.
 
-Okolo pentagramu sa začali vynárať sústredné prstence. Bol to obranný reflex — Spira sa aktivovala na maximum. Prstence rotovali opačnými smermi, na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku]
+Okolo glyfu sa začali vynárať sústredné prstence. Bol to obranný reflex — Spira sa aktivovala na maximum. Prstence rotovali opačnými smermi, na ich povrchu sa leskli drobné symboly — geometrické obrazce, alchemické vzorce. [→ 03-technology.md: nanotech = vizuálne evokuje rituálnu geometriu, alchemickú estetiku]
 
 A potom — znaky.
 
-Vynorili sa na vrcholoch pentagramu — jemné, presné, žiariace hiraganou Písma Matky. *Kaze. Mizu. Teru. Hi.* A v strede — *Tsuchi.* [→ 03-technology.md: 5 elementov pentagramu — Vzduch, Voda, Kvintesencia, Oheň, Zem] [NOTE: PRVÝ REVEAL elementov. Čitateľ netuší čo znamenajú — len vidí krásu. Vysvetlenie príde neskôr.]
+Vynorili sa na vrcholoch glyfu — jemné, presné, žiariace hiraganou Písma Matky. *Kaze. Mizu. Teru. Hi.* A v strede — *Tsuchi.* [→ 03-technology.md: 5 elementov glyfu — Vzduch, Voda, Kvintesencia, Oheň, Zem] [NOTE: PRVÝ REVEAL elementov. Čitateľ netuší čo znamenajú — len vidí krásu. Vysvetlenie príde neskôr.]
 
-Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami, zanechávajúce za sebou zlaté stopy ako svetlušky v tme. Alchemické symboly na kruhoch sa rozžiarili v reťazovej reakcii — jeden po druhom, prstenec za prstencom — a medzi nimi prebleskovalo svetlo, tenké lúče spájajúce symbol so symbolom, ako elektrické výboje v sklenenej guli. Vzduch vo vnútri konštrukcie zhustol. Vibroval. Praskalo to tichým statickým nábojom a padajúce snehové vločky, ktoré sa dotkli okraja vonkajšieho prstenca, sa okamžite odparili v záblesku mikroskopických iskier. [NOTE: vizuálny kontrast — zlaté svetlo pentagramu vs biely sneh v tmavej uličke. Alchemická geometria + anime mágia v jednom]
+Znaky sa roztočili. Pomaly, potom rýchlejšie — rotujúce spolu s prstencami, zanechávajúce za sebou zlaté stopy ako svetlušky v tme. Alchemické symboly na kruhoch sa rozžiarili v reťazovej reakcii — jeden po druhom, prstenec za prstencom — a medzi nimi prebleskovalo svetlo, tenké lúče spájajúce symbol so symbolom, ako elektrické výboje v sklenenej guli. Vzduch vo vnútri konštrukcie zhustol. Vibroval. Praskalo to tichým statickým nábojom a padajúce snehové vločky, ktoré sa dotkli okraja vonkajšieho prstenca, sa okamžite odparili v záblesku mikroskopických iskier. [NOTE: vizuálny kontrast — zlaté svetlo glyfu vs biely sneh v tmavej uličke. Alchemická geometria + anime mágia v jednom]
 
 Svet sa spomalil.
 
-Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle pentagramu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku s palcátom — pomaly, tak strašne pomaly — a Tami mala čas spočítať jeho prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia]
+Nie naraz — skôr ako keby vzduch zhustol na med. Tlkot srdca sa roztiahol do dlhých, ťažkých úderov. Dych sa stal pomalý, hlboký, vedomý. Snehové vločky padali pomaly, tak pomaly, že videla každú zvlášť — kryštálové hviezdy, otáčajúce sa v zlatom svetle glyfu. Žoldnieri sa hýbali ako ponorení vo vode. Muž s jazvou dvíhal ruku s palcátom — pomaly, tak strašne pomaly — a Tami mala čas spočítať jeho prsty, skôr než dokončil pohyb. [→ 03-technology.md: časová dilatácia]
 
 *Kurva, budem svietiť na pol štvrti.*
 
@@ -318,7 +318,7 @@ Tami si sadla oproti nemu. Čakala. Nechcela ho prerušiť.
 
 Obrátil dlaň hore. Nad ňou sa zachvel vzduch — Kitova telekinéza, jemná, nekontrolovaná.
 
-„Vidíte toto? Keď sa Spira aktivuje správne, trvá to sekundu. Nabije sa, urobí čo má, a skončí.“ Vzduch sa upokojil. „Mayina modlitba sa *neskončila*. Pentagram sa jej rozžiaril na červeno a ona spanikárila. Nevedela, ako to vypnúť. Nechala ho svietiť.“ Hlas sa mu zlomil. „Hodiny. Celú noc.“
+„Vidíte toto? Keď sa Spira aktivuje správne, trvá to sekundu. Nabije sa, urobí čo má, a skončí.“ Vzduch sa upokojil. „Mayina modlitba sa *neskončila*. Glyf sa jej rozžiaril na červeno a ona spanikárila. Nevedela, ako to vypnúť. Nechala ho svietiť.“ Hlas sa mu zlomil. „Hodiny. Celú noc.“
 
 Pozrel na Maksa. Žlté oči mu horeli zúfalstvom.
 
@@ -440,7 +440,7 @@ Maks sa pozrel na mapu. Kitov prst už smeroval hlbšie — pod žalár, pod Chr
 
 „A pri krypte?” spýtal sa Maks.
 
-Kito stisol pery. „Pri bráne stoja dvaja. Vždy dvaja. Ceremoniálna stráž — elitní Pursangovia.” Prstom nakreslil na stole neviditeľný pentagram. „Títo nie sú tí červení kabáty z mesta. Sú niečo iné. Spevnené zbrane — kopije, meče, aktivované cez haiku. Pentagramové štíty. Generácie strážcov, trénovaných na jedinú úlohu.” [→ 04-elanias-blade.md: Pursang ceremoniálna stráž, haiku-enchanted zbrane, spevnené čepele]
+Kito stisol pery. „Pri bráne stoja dvaja. Vždy dvaja. Ceremoniálna stráž — elitní Pursangovia.” Prstom nakreslil na stole neviditeľný glyf. „Títo nie sú tí červení kabáty z mesta. Sú niečo iné. Spevnené zbrane — kopije, meče, aktivované cez haiku. Glyfové štíty. Generácie strážcov, trénovaných na jedinú úlohu.” [→ 04-elanias-blade.md: Pursang ceremoniálna stráž, haiku-enchanted zbrane, spevnené čepele]
 
 Ticho.
 

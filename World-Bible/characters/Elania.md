@@ -72,7 +72,7 @@ Premeniť všetok život na dáta (Duchov). Nikto nebude trpieť ani zomierať.
 - **Vedkyňa** — rovnako ako Inetis (architektka, tvorca systémov)
 - **Preferuje ženské partnerky** — echo Inetis a Heleny. Inetis videla v Elanii Helenu, nie Maksa. Pomenovala ju po Helene. A Elania vyrástla do ženy, ktorá miluje rovnako ako Helena milovala. Irónia: dcéra z traumy sa stala monumentom lásky, ktorú trauma zničila.
 - **Ale invertované znamienko**: Inetis si zvolila biológiu — opustila VR, vrátila sa do fyzického tela, dala ľuďom nanotechnológiu aby prežili vo fyzickom svete. Elania chce opak — všetkých nahrať DO VR, opustiť biológiu. Dcéra je negáciou matky — formou je jej kópiou, smerom je jej opakom.
-- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Pentagram IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire. Za ~2300 rokov vybudovala **Beastlands** — celú civilizáciu bioengineered bytostí na juhu Terry, kde ju uctievajú ako bohyňu-stvoriteľku. Vedie večnú vojnu proti Apex (Super-Primátom) na Simire. [→ 14-varietas-species.md: Elaniine výtvory, 4. vetva inteligencie]
+- **Genetická expertka** — lepšia než matka. Inetis bola primárne softvérová inžinierka (Glyf IDE, nanodronový kód, Spira skripty). Elania prevzala biologickú/hardwarovú stránku a doviedla ju ďalej. Kým Inetis seedovala okolie jaskyne experimentálnymi GMO organizmami, Elania vytvorila celé ekosystémy — vrátane "Jurassic Parku" na Simire. Za ~2300 rokov vybudovala **Beastlands** — celú civilizáciu bioengineered bytostí na juhu Terry, kde ju uctievajú ako bohyňu-stvoriteľku. Vedie večnú vojnu proti Apex (Super-Primátom) na Simire. [→ 14-varietas-species.md: Elaniine výtvory, 4. vetva inteligencie]
 - Kreativita hraničiaca so šialenstvom
 - *"Čo keby sme jednoducho... nahrali všetkých do počítača?"*
 
@@ -130,10 +130,10 @@ Elania má **fialové oči so špirálami galaxií** — nie po Maksovi (modré)
 
 Fialové oči sú **vizuálna signatúra prítomnosti i_net_is**:
 - **Inetis pred Core** — obe fialové galaxie (kontakt s Tieňovými v subspace)
-- **Inetis po Core** — jedno fialová galaxia, druhé **žltý pentagram** (synchronizácia s AI i_net_is) [→ inetis-three-identities.md]
+- **Inetis po Core** — jedno fialová galaxia, druhé **žltý glyf** (synchronizácia s AI i_net_is) [→ inetis-three-identities.md]
 - **Elania** — fialové od narodenia. Echo matky. Fragment digitálneho sveta, ktorý jej matka opustila, ale ktorý sa v dcére nikdy nevypol.
 - **Tami** — modré oči (Rennove) → po transfere esencie cez Anténu sa zmenia na fialové galaxie [→ antenna-essence-transfer.md]
-- **Tami aj Elania po synchronizácii v Core** — jedno fialová galaxia, druhé **žltý pentagram**. Rovnaká heterochromia ako Inetis. Synchronizácia s i_net_is = pentagram sa objaví. Obe to ťahá do jadra — a obe tam nájdu rovnakú cenu.
+- **Tami aj Elania po synchronizácii v Core** — jedno fialová galaxia, druhé **žltý glyf**. Rovnaká heterochromia ako Inetis. Synchronizácia s i_net_is = glyf sa objaví. Obe to ťahá do jadra — a obe tam nájdu rovnakú cenu.
 
 **Volanie do Core:**
 
@@ -151,8 +151,8 @@ A potom sa objaví Tami — líška s fialovými galaxiami v očiach. Rovnakými
 > **Farby očí v NULL VOID:**
 > - 🔵 Modré = biológia, Renn, Achilles, planéta (Tami pred transferom)
 > - 🟣 Fialové galaxie = i_net_is, kód, Core, volanie do VR (Inetis, Elania, Tami po transfere)
-> - 🟡 Žltý pentagram = synchronizácia s AI i_net_is. Syntetický vzor, neexistuje v prírode. Objaví sa po kontakte s Core. (Inetis po Core, Elania po Core, Tami po Core)
-> - 🟣🟡 Heterochromia = fialová galaxia + žltý pentagram = plná synchronizácia. Tri ženy, tri generácie, rovnaká cena.
+> - 🟡 Žltý glyf = synchronizácia s AI i_net_is. Syntetický vzor, neexistuje v prírode. Objaví sa po kontakte s Core. (Inetis po Core, Elania po Core, Tami po Core)
+> - 🟣🟡 Heterochromia = fialová galaxia + žltý glyf = plná synchronizácia. Tri ženy, tri generácie, rovnaká cena.
 > - ⚫ Čierne = prach, Maks, Gen 1 nanotech v rozpadnutých očných jamkách
 >
 > *Japonská symbolika:* 🤍 biela = smrť/pohreb (i_net_is je *yūrei* — duch Nety), 🔵 modrá = démoni/nadprirodzené (Taminy oči), 🟣 fialová = prechod medzi svetmi. [→ inetis-three-identities.md: Japonská symbolika farieb]

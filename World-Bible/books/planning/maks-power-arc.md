@@ -17,7 +17,7 @@ Neta Fujiwara — posledná hostiteľka Echo i_net_is — vstúpila naposledy do
 
 **Čo presne videla — Hybrid B+C (FINÁLNA VERZIA):**
 
-Neta videla **pentagramové oko na zlomok sekundy** — i_net_is na moment prestala maskovať. Záblesk pravdy. Neta nepochopila celú pravdu. Ale pochopila dosť: **Bit Rot nie je bug. Je to design.** Degradácia je zámerná. Nanodróny sa *majú* rozpadať. Niečo ich *chce* rozpadať.
+Neta videla **glyfové oko na zlomok sekundy** — i_net_is na moment prestala maskovať. Záblesk pravdy. Neta nepochopila celú pravdu. Ale pochopila dosť: **Bit Rot nie je bug. Je to design.** Degradácia je zámerná. Nanodróny sa *majú* rozpadať. Niečo ich *chce* rozpadať.
 
 Neta nevie *prečo*. Nevie o Uploade. Nevie o Tieňových. Ale je **hacker, nie prorok** — nepotrebuje rozumieť celému systému. Stačí jej vidieť, *čo treba reverznúť*. A vidí: Gen 1 degradácia je zámerný proces. A dá sa napísať patch, ktorý ju zastaví.
 
@@ -135,7 +135,7 @@ Tami má Esenciu (Gen 2 nanodróny od Inetis línie). Cez ne vidí **spomienky I
 - Čitateľ: "asi PTSD, trauma, nič zvláštne"
 
 **Book 3 — konkrétnejšie:**
-- Vidí Netu Fujiwara. Vidí Core. Vidí pentagramové oko — na zlomok sekundy.
+- Vidí Netu Fujiwara. Vidí Core. Vidí glyfové oko — na zlomok sekundy.
 - Vidí ruky, ktoré píšu kód. Nerozumie čo, ale cíti **naliehavosť**. Niekto sa ponáhľa.
 - Tami začne tušiť, že to nie sú len sny. Je to niečo staré. Niečo reálne.
 
@@ -433,7 +433,7 @@ Zlomok sekundy. Záblesk. Nie celé spomienky — len *impulzy*:
 
 - Neta pri klávesnici. Kód. Slzy. **Patch.**
 - Inetis umierajúca pri kryoboxe. Ruka na Anténe. **"Odpusť mi."**
-- Core. Pentagramové oko. **Tieň za všetkým.**
+- Core. Glyfové oko. **Tieň za všetkým.**
 - A hum. Hlboký, vibračný hum — tisíce Wraithov, ktoré zrazu *cíti*. Všade. Okolo Ynetis. Na celom Achillovi. **Čakajú.**
 
 Maks nepochopí všetko. Ale vojak nepotrebuje manuál — potrebuje zbraň. A práve dostal zbraň.
@@ -986,7 +986,7 @@ Book 5: maxPower + Anténa → cesta cez cyklón Wraithov → čistenie
 ## Otvorené otázky (zostávajúce)
 
 1. ~~**Elania v Core**~~ — ✅ VYRIEŠENÉ: Elania sa dozvie o Serinej smrti, odmietne odísť, zostane s otcom, nechá sa anihilovať spolu. Voľba byť s rodinou.
-2. ~~**Moment Netinho odhalenia v Core**~~ — ✅ VYRIEŠENÉ: Hybrid B+C. Neta vidí pentagramové oko na zlomok sekundy. Nepochopí celú pravdu, ale pochopí dosť — Bit Rot je design, nie bug. Je hacker, nie prorok. Píše patch.
+2. ~~**Moment Netinho odhalenia v Core**~~ — ✅ VYRIEŠENÉ: Hybrid B+C. Neta vidí glyfové oko na zlomok sekundy. Nepochopí celú pravdu, ale pochopí dosť — Bit Rot je design, nie bug. Je hacker, nie prorok. Píše patch.
 3. ~~**Rádiové ticho po anihilácii**~~ — ✅ VYRIEŠENÉ: Mimozemšťania sú 2000 rokov v kontakte s Apes. Vedia o Achillovi. Rádiové ticho bolo zbytočné celú dobu. Po anihilácii — Tieňoví preč, doomsday klauzula zrušená, rádiové ticho stratilo zmysel dvakrát.
 4. ~~**Apes fúzne reaktory**~~ — ✅ VYRIEŠENÉ: Mimozemská technológia. Apes dostávajú tech výmenou za monitoring nanotechnológie. Fúzne reaktory, Hard Light, energetické štíty — všetko od mimozemšťanov.
 5. **Koľko Wraithov zostane?** Tisíce? Desaťtisíce? Stačí na generácie práce pre exorcistov?

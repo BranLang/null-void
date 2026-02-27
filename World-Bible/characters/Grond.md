@@ -4,7 +4,7 @@
 |---|---|
 | **Status** | **Mŕtvy** — zabitý Maksom v bitke o Shoraven (AY 3013, Book 1, Ch5 Blood Ritual) |
 | **Vek** | ~3300 rokov (chronologicky), vyzerá ~50 |
-| **Element** | 土 *tsuchi* / **Zem** (Earth) — pentagram Ex Inferis |
+| **Element** | 土 *tsuchi* / **Zem** (Earth) — glyf Ex Inferis |
 | **Doména** | Sever (Graw), priemyselné peklo |
 | **Vzhľad** | Power Armor = chodiaci tank |
 | **Smrť** | Book 1, Ch5 — Blood Ritual (nanodronový roj, 6 km, 7 sekúnd) |

@@ -75,7 +75,7 @@ Nie každé "posadnutie" je parazitické. Existuje jeden známy prípad **symbi�
 [NOTE: Toto je dôležitý kontrast ku klasickému posadnutiu. Keď Varietas vidia posadnutého, vidia monštrum. Keď by videli Tami — videli by to isté? Je Tami "posadnutá" z pohľadu Cirkvi? Ak áno, je to hereza. Ak nie — prečo nie? Kde je hranica medzi posadnutím a požehnaním?]
 
 [→ characters/Tami.md: Echo Inetis — fázy]
-[→ characters/Inetis.md: Unikátna Esencia, stred pentagramu]
+[→ characters/Inetis.md: Unikátna Esencia, stred glyfu]
 [→ 03-technology.md: Inetisina Unikátna Esencia — nie Gen 1, nie Gen 2]
 
 ---
@@ -93,7 +93,7 @@ Posadnutý nevyzerá ako v horor filmoch. Nie je to exorcizmus s otáčaním hla
 ### Pokročilé štádium (Fáza 4)
 - Hostiteľovo správanie je plne cudzie. Iná reč, iný postoj, iné spomienky.
 - Ak bol pôvodný Wraith z Ex Inferis — démon môže hovoriť Starorečou. Ghorki, čo zrazu hovorí po anglicky? To si ľudia zapamätajú.
-- Spira hostiteľa je corrupted — pentagram pri IDE otváraní bliká, má artefakty, znaky sú skomolené.
+- Spira hostiteľa je corrupted — glyf pri IDE otváraní bliká, má artefakty, znaky sú skomolené.
 - Teplota tela klesá. Prach (čierny, Gen 1) sa občas objaví na koži, v kútikoch očí, pod nechtami.
 
 ### Terminálne štádium (Fáza 5)

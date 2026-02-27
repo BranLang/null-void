@@ -3,7 +3,7 @@
 | **Vek** | **~2950+ chronologických rokov** (nar. ~2050 na Zemi; biologicky ~60 vďaka kryostáze a nanotechu) |
 | **Identita** | **OG *ex inferis*** (Veterán VR pekla Achilles) |
 | **Pôvod** | Zem → Alpha Centauri → Achilles (ARK-13) |
-| **Element** | 火 *hi* / **Oheň** (Fire) — pentagram Ex Inferis |
+| **Element** | 火 *hi* / **Oheň** (Fire) — glyf Ex Inferis |
 | **Doména** | Ruiny laboratórií, Severná Pustatina |
 | **Rola** | Techno-Predátor / Flashback antagonista (Book 1, Ch.7 Fáza 3 — duel AY 3001) |
 | **Status** | **Mŕtvy** — zabitý Maksom v AY 3001 (prvý Archbés zabitý od ARK-13) |

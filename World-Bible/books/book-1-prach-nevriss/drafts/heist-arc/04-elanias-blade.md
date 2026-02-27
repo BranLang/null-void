@@ -228,15 +228,15 @@ A medzi hubami — pohyb. Nie zvieratá. Nie Paladíni. Niečo, pre čo nemal me
 
 Záblesk.
 
-Ďaleko pred ním — pri konci chodníka, kde sa jaskyňa zužovala do skalnej steny — sa rozsvietilo niečo žlté. Ostré. Geometrické. *Pentagramy.* Zlaté línie v tme, rotujúce prstence Spiry — a proti nim modré záblesky Paladínskych štítov.
+Ďaleko pred ním — pri konci chodníka, kde sa jaskyňa zužovala do skalnej steny — sa rozsvietilo niečo žlté. Ostré. Geometrické. *Glyfy.* Zlaté línie v tme, rotujúce prstence Spiry — a proti nim modré záblesky Paladínskych štítov.
 
-Maks sa zastavil. Z tejto vzdialenosti to boli len farebné škvrny — ale niečo v ňom videlo viac. Detaily, čo nemali byť viditeľné na tristo yardov. Dve postavy v ľahkom brnení — štíhle, rýchle, s vlčími ušami prilepenými k lebkám — stáli pred kamennou stenou. Pursang. Ceremoniálna stráž, kopije v rukách, meče na opaskoch, pentagramy vo vzduchu. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí“ detaily na veľkú vzdialenosť, ale nie očami. Drony.]
+Maks sa zastavil. Z tejto vzdialenosti to boli len farebné škvrny — ale niečo v ňom videlo viac. Detaily, čo nemali byť viditeľné na tristo yardov. Dve postavy v ľahkom brnení — štíhle, rýchle, s vlčími ušami prilepenými k lebkám — stáli pred kamennou stenou. Pursang. Ceremoniálna stráž, kopije v rukách, meče na opaskoch, glyfy vo vzduchu. [→ 03a-nanotechnology.md: Gen 1 pasívny sken — Maks „vidí“ detaily na veľkú vzdialenosť, ale nie očami. Drony.]
 
 Boj trval krátko. Ale nie tak krátko, ako Paladíni čakali.
 
-Strážcovia ich videli prichádzať. Nevyčkávali — vykročili oproti. Kopije vodorovne, pentagramy aktivované, sústredné kruhy zlatej Spiry rotujúce vo vzduchu pred každým z nich. Profesionáli. Stráž, čo toto miesto strážila po generácie a trénovala na niečo presne takéto.
+Strážcovia ich videli prichádzať. Nevyčkávali — vykročili oproti. Kopije vodorovne, glyfy aktivované, sústredné kruhy zlatej Spiry rotujúce vo vzduchu pred každým z nich. Profesionáli. Stráž, čo toto miesto strážila po generácie a trénovala na niečo presne takéto.
 
-Rau švihol sekerou — vibrovlna narazila na zlatý pentagram. Kruhy sa zachveli. Absorbovali energiu. *Držali.* Sekundu. Dve. Tri. Spira pohltila vibráciu a pentagram sa len rozžiaril jasnejšie. Rau švihol znova — plná sila. Pentagram praskol na okrajoch, ale stredom držal.
+Rau švihol sekerou — vibrovlna narazila na zlatý glyf. Kruhy sa zachveli. Absorbovali energiu. *Držali.* Sekundu. Dve. Tri. Spira pohltila vibráciu a glyf sa len rozžiaril jasnejšie. Rau švihol znova — plná sila. Glyf praskol na okrajoch, ale stredom držal.
 
 Prvý strážca zašepkal. Tri slabiky — haiku fragment, tichý a presný. Runy na kopiji sa rozžiarili — zlaté znaky pozdĺž ratiska, dávne, krásne. Spira sa sústredila do hrotu, zhustila, zmenila — už to nebola len energia. Bol to *úmysel*. Spevnená čepeľ. [NOTE: Pursang spevnenie — rovnaký princíp ako Sera. Haiku aktivácia, Spira sa mení na prierazný mód. Ceremoniálna stráž pozná túto techniku — strážili svätyňu generácie. Staršia technika než čokoľvek na severe.]
 
@@ -262,13 +262,13 @@ Rau siahol na opasok.
 
 Malý predmet — guľatý, matný, veľkosť päste. Hodil ho medzi strážcov. Ľahko. Takmer nedbalo.
 
-Strážca s mečom sa pozrel dole. Poznal granáty — Pursang mal vlastné, tréningové aj bojové. Zdvihol pentagram. Tri kruhy Spiry sa sformovali okolo oboch strážcov — štít proti výbuchu. Automatická reakcia. Správna.
+Strážca s mečom sa pozrel dole. Poznal granáty — Pursang mal vlastné, tréningové aj bojové. Zdvihol glyf. Tri kruhy Spiry sa sformovali okolo oboch strážcov — štít proti výbuchu. Automatická reakcia. Správna.
 
 Na *zlý* granát.
 
 Pulz. Tichý. Neviditeľný. Žiadna explózia, žiadny záblesk — len vlna, čo prešla priestorom ako tieň. A Spira *zomrela*. [NOTE: EMP granát — Paladínska technológia z juhu. Elektromagnetický pulz, ktorý vyradí Spiru v okruhu niekoľkých yardov. Pursang stráž pozná bežné granáty (výbuch, šrapnel, zápal) — majú na ne odpoveď (Spira štít). EMP nepoznajú. Nikto na severe ho nepozná. Paladíni ho vyvinuli presne na toto — na nepriateľa, ktorý sa spolieha na Spiru.]
 
-Pentagramy zhasli. Všetky naraz — ako keby niekto vyfúkol sviečku. Zlaté kruhy sa rozplynuli v tme. Runy na spevnenom meči — tie krásne, žiariace znaky haiku — stmavli. Kopija v ruke druhého strážcu prestala svietiť. Spira odišla. A s ňou všetko, čo ich chránilo.
+Glyfy zhasli. Všetky naraz — ako keby niekto vyfúkol sviečku. Zlaté kruhy sa rozplynuli v tme. Runy na spevnenom meči — tie krásne, žiariace znaky haiku — stmavli. Kopija v ruke druhého strážcu prestala svietiť. Spira odišla. A s ňou všetko, čo ich chránilo.
 
 Dvaja strážcovia stáli v tme jaskyne. Bez štítov. Bez spevnenia. Len ľahké brnenie a holý kov v rukách — proti dvom obrom v pancieri zo Svetelného Štítu.
 
@@ -280,7 +280,7 @@ Druhý strážca — ten s kopijou — stál ešte. Kopija v rukách — tmavá,
 
 Rau ho zastavil.
 
- Tam, kde boli zlaté pentagramy, nebolo nič. [NOTE: Pursang stráž krypty — ceremoniálna, ale elitná. Spevnenie cez haiku — stará technika zdedená od Cirkvi/Mormiel. Spira spevnenie prebíja Svetelný Štít (rovnaký princíp ako Serin Yari). Spevnená kopija zranila Kiru do stehna — skĺzla po sekere do stehna, prešla pancierom. Spevnený meč škrabal cez Svetelný Štít. Pursangovia boli reálna hrozba — *kým mali Spiru*. Paladíni to vedeli. EMP granát zrušil Spiru a boj bol v tej sekunde rozhodnutý. Pursangovia bojovali ďalej — bez štítov, bez spevnenia, s holým kovom. So cťou. Ale česť nestačí na Svetelný Štít.]
+ Tam, kde boli zlaté glyfy, nebolo nič. [NOTE: Pursang stráž krypty — ceremoniálna, ale elitná. Spevnenie cez haiku — stará technika zdedená od Cirkvi/Mormiel. Spira spevnenie prebíja Svetelný Štít (rovnaký princíp ako Serin Yari). Spevnená kopija zranila Kiru do stehna — skĺzla po sekere do stehna, prešla pancierom. Spevnený meč škrabal cez Svetelný Štít. Pursangovia boli reálna hrozba — *kým mali Spiru*. Paladíni to vedeli. EMP granát zrušil Spiru a boj bol v tej sekunde rozhodnutý. Pursangovia bojovali ďalej — bez štítov, bez spevnenia, s holým kovom. So cťou. Ale česť nestačí na Svetelný Štít.]
 
 Kira si siahla na stehno. Krv stále vytekala. Posunkové znamenie k Rauovi. *Pokračujeme.* Vykročili ďalej. Nie tak pokojne ako predtým. Kira mierne krívala.
 
@@ -506,7 +506,7 @@ Nadel prenikla cez svetlo — nie na zlomok sekundy. *Úplne.* Hrot rapiera pre�
 
 Kira zavrčala. Krv — na hrote Nadelu, na ornamentálnom brnení. Nie smrteľné. Ale *rana*. Druhá za túto noc. [NOTE: Spevnený Nadel (Sera haiku) prenikol cez Svetelný Štít AJ pancier. Bez spevnenia Nadel prenikol len štít a zanechal škrabanec. So spevnením = plná penetrácia. Kira je zranená druhýkrát — prvá rana bola Pursang kopija (stehno, r.235). Kira už krívala. Teraz ďalšia rana. Paladíni degradujú — Pursang ich zranili, teraz ich zranila Tami. Tami nie je náhodná líška — je Pursang (Rennov tréning), bojový tréning od Maksa (13 rokov), a teraz spevnenie od Sery. Tri generácie skúseností v jednom údere.]
 
-Potom Kira udrela sekerou do Tami. Tami odrazila úder Spira štítom — pentagram sa rozžiaril, absorboval vibráciu — ale sila nárazu ju odhodila desať stôp dozadu. Spadla medzi piliere.
+Potom Kira udrela sekerou do Tami. Tami odrazila úder Spira štítom — glyf sa rozžiaril, absorboval vibráciu — ale sila nárazu ju odhodila desať stôp dozadu. Spadla medzi piliere.
 
 Kira sa pozrela na bok. Na krv. *Znova.* Stehno, teraz bok. Tieto primitívne tvory ju *zraňovali*.
 
@@ -598,7 +598,7 @@ Tami mlčala. Nadel v ruke — hrot pokrytý krvou. Nie škrabanec. Rana. Spevne
 
 Maks neodpovedal.
 
-Zvuk za nimi. Kroky — rýchle, nekoordinované, ľudské. Maks zdvihol samopal. Za pilierom sa objavil Kito — zadýchaný, mokrý, bez okuliarov. V ruke — meč. Pursangský meč s vyhasnutým pentagramom na záštite, príliš veľký pre jeho ruku. [NOTE: Kito vyviedol Arkota a Yeru k dokom, dal im mapu, bežal späť za Maksom a Tami. Prešiel cez jaskyňu — okolo tiel Pursang stráže — a zobral si meč jedného z nich. Kito netuší, čo je Sera. Len vie, že Maks a Tami sú dole.]
+Zvuk za nimi. Kroky — rýchle, nekoordinované, ľudské. Maks zdvihol samopal. Za pilierom sa objavil Kito — zadýchaný, mokrý, bez okuliarov. V ruke — meč. Pursangský meč s vyhasnutým glyfom na záštite, príliš veľký pre jeho ruku. [NOTE: Kito vyviedol Arkota a Yeru k dokom, dal im mapu, bežal späť za Maksom a Tami. Prešiel cez jaskyňu — okolo tiel Pursang stráže — a zobral si meč jedného z nich. Kito netuší, čo je Sera. Len vie, že Maks a Tami sú dole.]
 
 „Oneskoril som sa,“ vydýchol. Pozrel na čiernu bránu. Na telá pred ňou. Oči sa mu rozšírili. „Tiež — prepáčte — vzal som niekomu meč. Nevedel som, či ešte bude potrebovať.“ Pauza. „Asi nebude.“
 

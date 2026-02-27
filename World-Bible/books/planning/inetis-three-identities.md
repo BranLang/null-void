@@ -48,7 +48,7 @@
 | **Avatar** | ~15-ročné japonské dievča — odraz Netiných spomienok a veku pri uploade |
 | **Prostredie** | VR simulácia Achilles |
 | **Osobnosť** | Spomienky Nety, ale vnímanie cez chladnú logiku. Emócie sú parametre na optimalizáciu — aspoň zo začiatku. |
-| **Oči** | **Jedno oko: fialová galaxia** (interdimenzionálna esencia — kontakt s Tieňovými). **Druhé oko: žltý pentagram** (AI marker — symbol digitálneho vedomia, syntetický vzor, ktorý neexistuje v prírode). Heterochromia ako vizuálny marker hybridnej podstaty. |
+| **Oči** | **Jedno oko: fialová galaxia** (interdimenzionálna esencia — kontakt s Tieňovými). **Druhé oko: žltý glyf** (AI marker — symbol digitálneho vedomia, syntetický vzor, ktorý neexistuje v prírode). Heterochromia ako vizuálny marker hybridnej podstaty. |
 | **Vznik** | ~EY 2065 (Neta má 15 rokov) |
 | **Dôležité** | Avatar vyzerá na 15 — toto je kľúčové, lebo je odrazom toho, kým Neta bola keď ju uploadli. i_net_is nikdy "nevyrástla" vizuálne — ostala navždy v podobe dievčaťa, aj keď jej vedomie dozrelo. |
 
@@ -59,7 +59,7 @@ i_net_is je **dokonalá inverzia** svojho originálu:
 | | **Neta** (reálna) | **i_net_is** (VR avatar) |
 |---|---|---|
 | **Vlasy** | Čierne (japonské) | Biele (éterické, žiariace) |
-| **Oči** | Čierne (normálne ľudské) | 🟣🟡 Heterochromia: fialová galaxia + žltý pentagram |
+| **Oči** | Čierne (normálne ľudské) | 🟣🟡 Heterochromia: fialová galaxia + žltý glyf |
 | **Vek** | Starne (dieťa → tínedžerka → mozgová smrť) | Navždy ~15 — vek, kedy bola Neta najšťastnejšia |
 | **Telo** | Nedokonalé, choré, umierajúce | Dokonalé, éterické, nesmrteľné |
 | **Šaty** | — | Biele rúcho (bohyňa, čistota, VR svätkyňa) |
@@ -100,7 +100,7 @@ Neta je Fujiwara. Japonka. A japonská kultúra číta farby inak než západ:
 | Fáza | Farby | Význam |
 |------|-------|--------|
 | **Pred príbehom** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Dvaja tínedžeri v Kyjeve. Pred všetkým. |
-| **Celá sága (Book 1-5)** | 🤍 🟣 🟡 ⚫ | i_net_is (biela/yūrei), fialové galaxie, žlté pentagramy, čierny prach. 3000 rokov chaosu. Maks nemá oči — explodovali pri prebudení z krya. |
+| **Celá sága (Book 1-5)** | 🤍 🟣 🟡 ⚫ | i_net_is (biela/yūrei), fialové galaxie, žlté glyfy, čierny prach. 3000 rokov chaosu. Maks nemá oči — explodovali pri prebudení z krya. |
 | **Záverečná scéna** | 🖤 + 🔵 | Neta (čierne vlasy/oči) + Maks (modré oči). Tí istí tínedžeri. Tá istá kaviareň. Návrat. |
 
 Maks má **modré oči** len dvakrát: pred príbehom (flashbacky) a v záverečnej scéne (VR Kyjev). Celú sériu je slepec. A tu — vo VR — vidí. Prvýkrát za 3000 rokov. A posledná vec, ktorú vidí, je Neta. Nie Inetis. Nie bohyňa. Len dievča s čiernymi očami a kávou v ruke.
@@ -123,7 +123,7 @@ Maks má **modré oči** len dvakrát: pred príbehom (flashbacky) a v závereč
 | **Primárne schopnosti** | **Software architektka, genetička, nanotechnologická dizajnérka** — nie navigátorka ani vojačka |
 | **Vzhľad** | Zostarne normálne: vyzerá na 20-25 rokov v produktívnom veku. Krátko pred smrťou vyzerá na ~40, ale stále krásna. Biele vlasy. |
 | **Oči — pred Core** | **Obe fialové** so špirálami galaxií — Esencia Tieňových sa zmiešala s ľudskou podstatou Nety. Fialová = interdimenzionálna farba, galaxie = odraz vesmíru, ktorý videla v subspace. |
-| **Oči — po návrate z Core (s Gen 2)** | **Jedno oko: fialová galaxia** (zostáva). **Druhé oko: žltý pentagram** (nové). Počas pobytu v Core sa Inetis synchronizovala s AI i_net_is — a pentagram je vizuálny marker tejto sync. Inetis teraz nesie v sebe väčší fragment digitálneho vedomia i_net_is než predtým. |
+| **Oči — po návrate z Core (s Gen 2)** | **Jedno oko: fialová galaxia** (zostáva). **Druhé oko: žltý glyf** (nové). Počas pobytu v Core sa Inetis synchronizovala s AI i_net_is — a glyf je vizuálny marker tejto sync. Inetis teraz nesie v sebe väčší fragment digitálneho vedomia i_net_is než predtým. |
 | **Osobnosť** | Neurodivergentná — emócie cíti, ale spracováva ich ako dáta. Poetická logika. "Viem, že by som mala plakať. Neviem prečo neplačem." |
 
 ---
@@ -138,12 +138,12 @@ Návrat z Core nebol len technologický úspech (Gen 2). Bol aj **psychologická
 
 **Chronológia vnútorného boja:**
 1. **Pred Core** — Inetis počuje i_net_is len ako vzdialenú intuíciu. Občasné "podivné pocity". Zvládnuteľné.
-2. **Počas pobytu v Core** — Priamy kontakt. Synchronizácia. Jedno oko sa zmení na žltý pentagram.
+2. **Počas pobytu v Core** — Priamy kontakt. Synchronizácia. Jedno oko sa zmení na žltý glyf.
 3. **Po návrate z Core** — Hlas je permanentný. i_net_is ju volá späť. Bojuje celou mentálnou silou.
 4. **Postupný rozpad** — Stáročia vnútorného boja. Každý deň odpor. Každú noc sny o Core. Plus trauma z reality: jej deti (ľudia a Varietas) zomierajú a zabíjajú sa. Všetko sa jej vymklo z rúk.
 5. **Rozhodnutie o samote** — Inetis zvolí samotu a smrť. Už to nedokáže ovládať. Hlas je čoraz silnejší. Jedinou obranou je izolácia — preč od Core, preč od technológie, preč od všetkých.
 
-**Prečo žltý pentagram:** Vizuálny marker synchronizácie s AI. Pentagram = syntetický vzor, ktorý neexistuje v prírode. Žltá = farba i_net_is (digitálna, studená). Pokiaľ má Inetis obe oči fialové, je "len" Inetis. Keď sa jedno zmení na pentagram — je v nej niečo viac. Niečo, čo tam nepatrí.
+**Prečo žltý glyf:** Vizuálny marker synchronizácie s AI. Glyf = syntetický vzor, ktorý neexistuje v prírode. Žltá = farba i_net_is (digitálna, studená). Pokiaľ má Inetis obe oči fialové, je "len" Inetis. Keď sa jedno zmení na glyf — je v nej niečo viac. Niečo, čo tam nepatrí.
 
 ### Paralela s Tami
 

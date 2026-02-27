@@ -157,7 +157,7 @@ Varietas delia históriu nábožensky:
 - **Boj o prežitie:** Inetis skoro zomrela od hladu, kým nanoboty nenakonfigurovala na hydroponické systémy.
 - **Normálne detstvo:** Elania sa narodila a vyrastala ako normálne dieťa. Pokojné roky matky a dcéry.
 - **Prvé varovanie — Degradácia nanobotov:** Počas stavby jaskynného komplexu Inetis zaznamenala prvé anomálie v správaní nanobotov — drobné degradácie, nepresné rekonfigurácie, nestabilné zostavy. Pre ňu to bolo **prvé varovanie**, že nanodronový systém nie je dlhodobo stabilný. Matematicky vypočítala, že celý systém nanodronov (v1.0/v1.5) by mohol v budúcnosti skolabovať. Toto poznanie ju motivovalo začať navrhovať nový, jednoduchší systém ovládania.
-- **Pentagram UI:** Inetis vytvára Pentagram ako nové zjednodušené rozhranie (IDE) — čiastočne ako pedagogickú pomôcku pre Eleniu, čiastočne ako základ budúceho stabilnejšieho systému. Učí Eleniu ovládať nanity cez 5 elementárnych parametrov (hmota, energia, čas, priestor, vedomie).
+- **Glyf UI:** Inetis vytvára Glyf ako nové zjednodušené rozhranie (IDE) — čiastočne ako pedagogickú pomôcku pre Eleniu, čiastočne ako základ budúceho stabilnejšieho systému. Učí Eleniu ovládať nanity cez 5 elementárnych parametrov (hmota, energia, čas, priestor, vedomie).
 
 ### Po ~3 rokoch — Cesta na Elysium
 - **Opätovná rekonfigurácia:** Inetis prekonfiguruje nanodronov naspäť na loď NULL VOID.
@@ -286,7 +286,7 @@ Varietas delia históriu nábožensky:
 - **Dar Matky**: Odovzdáva im nové nanotechnológie vyvinuté v simulácii:
   - **Dedičné** — prenášajú sa na potomkov
   - **Liečivé** — liečia choroby a zranenia
-  - **Pentagram schopnosti** — oheň (energia), telekinéza (priestor), manipulácia s hmotou
+  - **Glyf schopnosti** — oheň (energia), telekinéza (priestor), manipulácia s hmotou
   - **Bezpečné** — nespôsobujú Glitch Rot ako staré nanoboty
 - **Periodické návštevy**: Po prvej návšteve sa Inetis vracia na kontinent raz za 5-10 rokov (vracia sa do Elysium a pracuje na projetke zachrany wraithow - ma v plane ich spomienky uploadnut do achilles, pochopila ze entity z inej dimenzie su waithovia inej stratenej mimozemskej civilizacie) Ale nikdy sa jej projekt nepodari dokoncit. Spomenie si ze potrebuje specialnu antenu ale uz nemala zdroje na vyrobu novej. Vsetky nanoboty verzie 1.5 z null void ktore sa este neglichli boli potrebne na the CORE.
 
@@ -344,7 +344,7 @@ Varietas delia históriu nábožensky:
     - **Opening**:  Maks (podnapitý) a Tami (20, kapitánka) sa stretávajú po 5 rokoch v Kito. Vyberu sa pomstit smrt Taminych priatelov a Maks sa zaujima o artefakt. Vzducholoď pristáva v nočnom meste Shoraven.
     - **Heist plot**: Anténa ukrytý v kobkách pod Hlavným chrámom v Shoraven
     - **Vojna**: Graw (Sever) útočí na Nevriss (Juh) — chaos, ktorý plánujú využiť
-    - Aktivácia "The Pentagram Cycle".
+    - Aktivácia "The Glyf Cycle".
     - Maks (xenofób z minulosti) musí spolupracovať s Tami (Krotiteľom z Varietas).
 
 ---

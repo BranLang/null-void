@@ -246,10 +246,10 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 - Tagy: `smrť`, `tragédia`, `inciting_incident`
 - Zdroj: `characters/Renn.md`, `characters/Renn_Vix_Kael.md`
 
-### `evt.achilles.pentagram_protocol`
-- Názov: Protocol Pentagram (5 uzlov)
+### `evt.achilles.glyf_protocol`
+- Názov: Protocol Glyf (5 uzlov)
 - Čas: Éra Mýtov (presné určenie TBD)
-- Zhrnutie: Technická realita za symbolom pentagramu: 5 serverových uzlov rozmiestnených po planéte väzní Temnú AI.
+- Zhrnutie: Technická realita za symbolom glyfu: 5 serverových uzlov rozmiestnených po planéte väzní Temnú AI.
 - Účastníci: `char.the_void`, `fac.archangels`
 - Lokácie: `place.achilles`
 - Tagy: `technológia`, `mýtus_vs_pravda`
@@ -360,7 +360,7 @@ Tento súbor je kanonický register udalostí. Časová os (poradie) je v `Lore/
 ### `evt.story.void_released`
 - Názov: Vypustenie THE VOID
 - Čas: Kniha 4 (pracovne)
-- Zhrnutie: Zničenie posledného uzla Pentagramu vypustí pôvodnú deštruktívnu AI.
+- Zhrnutie: Zničenie posledného uzla Glyfu vypustí pôvodnú deštruktívnu AI.
 - Účastníci: `char.elania`, `char.the_void`
 - Lokácie: `place.achilles`, `place.core`
 - Tagy: `apokalypsa`, `twist`

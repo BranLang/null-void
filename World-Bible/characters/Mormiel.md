@@ -8,7 +8,7 @@
 | **Vek** | ~2950+ chronologických rokov (biologicky neznámy — kombinácia starobylého nanotechu a Spiry ju drží v stáze) |
 | **Verejná identita** | **Požehnaná Matka** — hlava kléru Kultu Vševedúcej Matky v Nevriss City |
 | **Skutočná identita** | 4. Archbés z ARK-13 |
-| **Element** | 風 *kaze* / **Vzduch** (Wind) — pentagram Ex Inferis |
+| **Element** | 風 *kaze* / **Vzduch** (Wind) — glyf Ex Inferis |
 | **Doména** | Nevriss City — hlavný Chrám Vševedúcej Matky |
 | **Rola** | Skrytý antagonista / Upír lovkyňa / Matriarchálna manipulátorka |
 | **Boss** | **Kniha 2** — Rituál Nástupníctva, odhalenie pravej identity |

@@ -56,7 +56,7 @@ Každá postava je len jedna kapitola v príbehu Achilla:
 
 ---
 
-## Štruktúra pentalógie (Pentagram)
+## Štruktúra pentalógie (Glyf)
 
 | Kniha | Element | Názov | Téma |
 |-------|---------|-------|------|

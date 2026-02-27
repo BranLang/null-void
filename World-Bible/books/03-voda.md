@@ -19,7 +19,7 @@
 ---
 
 ## III. Dejstvo: Veľký Glitch a Odhalenie
-*   **Archív:** Nájdenie riadiaceho centra (uzol Pentagramu).
+*   **Archív:** Nájdenie riadiaceho centra (uzol Glyfu).
 *   **The Revelation:** Maks aktivuje záznamy z čias prvej kolonizácie (AY 300).
     *   **Bit Rot Glitch:** Maks zisťuje, že nákazu, ktorá zničila rovnováhu nanodronov a hostiteľov, nespôsobila chyba systému, ale **Elania**. Chcela urýchliť evolúciu človeka do digitálnej formy a "vylepšiť" matkin plán.
     *   **Dedičstvo krvi:** Maks vidí tvár Elenie na záznamoch. Ishtar (alebo Echo Inetis) mu potvrdzuje: "To dievča, ktoré si hľadal... je tvoja dcéra. A ona je Archbés, ktorého si prišiel zničiť."

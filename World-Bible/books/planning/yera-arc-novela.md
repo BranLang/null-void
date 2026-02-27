@@ -67,7 +67,7 @@
   - *Fáza 2 — Usadenie:* Prechod do prózy (~rok 1). Kresby rastlín, mutácie cez prach, rozsievanie podhubia. Prvé kresby stretov s Varietas. Nákresy dediny. **Kawaii kresby malých detí** — najpozitívnejšia časť knihy, El akoby na chvíľu našla svetlo a pokoj
   - *Fáza 3 — Spira a Matka:* Veľa o Spire (technické poznámky). Vzťah s matkou — ako spolu navrhovali Gen 2 IDE. **Haiku. Veľa haiku.** Legendy o Zemi (Kyoto, obloha bez prstenca)
   - *Fáza 4 — Zlom:* *„Niekde spí otec..."* — trigger. Experimentovanie s drogami. Kresby chaotickejšie
-  - *Fáza 5 — Rozpad:* PTSD kresby — pentagramy, wraithy, tiene, kozmický horror. Preklínanie Matky (*„Nenávidím ťa"*). **Portrét Samaella** — nie démon, muž. Pod ním len: *„on"*. A potom kniha končí
+  - *Fáza 5 — Rozpad:* PTSD kresby — glyfy, wraithy, tiene, kozmický horror. Preklínanie Matky (*„Nenávidím ťa"*). **Portrét Samaella** — nie démon, muž. Pod ním len: *„on"*. A potom kniha končí
 - **Kanonické kópie vs. Originál:** Klanové knižnice majú sanitizované kópie (~60% textu). V kópiách je El bohyňa. V origináli je El **žena**.
 - **KĽÚČOVÉ**: Yera **ukradne ORIGINÁL** — Soril jej sama ukázala komoru, dala jej prístup v dôvere. A Yera tú dôveru zradí. Nie kópiu. Originál spod oltára. Svätokrádež kozmických rozmerov. NIKDY nepovie Arkotovi ani Tami, že ju má. Nosí ju v príručnej taške.
 - **ZRKADLENIE:** Soril chce, aby Yera pochopila: *„Aj El bola pokúšaná, a Anjel ju zachránil."* Yera pochopí: *„Aj El si vybrala Démona. A neľutovala."* Rovnaký text. Dva protichodné závery. Soril vidí potvrdenie viery. Yera vidí povolenie na útek.

@@ -64,7 +64,7 @@
 **Scéna 6: Strom v chráme** *(Zasvätenie — klietka sa zmenší)*
 - Chrámový strom prestal svietiť. Yera diagnostikuje — prasknutá cieva, kameň tlačí koreň.
 - Soril: „Oprav ho." Tón psa — *Sadni. Podaj. Oprav.*
-- Yera opraví strom (vodná Spira, pentagram). Prsty studené ako ľad.
+- Yera opraví strom (vodná Spira, glyf). Prsty studené ako ľad.
 - Soril: „Saéli krv." Nie pochvala — očakávanie.
 - „Tvoj otec a ja sme sa rozprávali." → Zasvätenie.
 
@@ -138,4 +138,4 @@
 - [→ `characters/Arkot.md`: Mezra leopard, Beladiss, navigátor]
 - [→ `characters/Soril.md`: Strážkyňa, tréning, foreshadowing]
 - [→ `05-geography.md`: Sai, Infera (ARK-13)]
-- [→ `03-technology.md`: Spira, pentagram, element vody]
+- [→ `03-technology.md`: Spira, glyf, element vody]

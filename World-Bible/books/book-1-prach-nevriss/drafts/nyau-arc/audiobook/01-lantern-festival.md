@@ -71,7 +71,7 @@ A tak Yera stála v dave a nikto ju nepoznal. Bola len ďalšia mačka s dlhými
 
 Dav ju pohltil.
 
-Hudba bola hlasnejšia dolu — nie tlmený ozvuk z balkóna, ale živá, surová, pulzujúca vec, ktorá jej vibráciami prechádzala od chodidiel cez kolená do hrude. Bubeníci na rohu námestia hrali synchrónne — štyria Mezra v maskách, bez trička, srsťou pokrytá ramená blýskajúce sa v svetle lampášov, paličky rozmazané od rýchlosti. Flautistka vedľa nich — starena so sivými fúzmi a rukami, na ktorých svietili tetované pentagramy — hrala tón tak vysoký a čistý, že sa zdalo, akoby ním rezala vzduch na polovicu.
+Hudba bola hlasnejšia dolu — nie tlmený ozvuk z balkóna, ale živá, surová, pulzujúca vec, ktorá jej vibráciami prechádzala od chodidiel cez kolená do hrude. Bubeníci na rohu námestia hrali synchrónne — štyria Mezra v maskách, bez trička, srsťou pokrytá ramená blýskajúce sa v svetle lampášov, paličky rozmazané od rýchlosti. Flautistka vedľa nich — starena so sivými fúzmi a rukami, na ktorých svietili tetované glyfy — hrala tón tak vysoký a čistý, že sa zdalo, akoby ním rezala vzduch na polovicu.
 
 Yera stála a počúvala. Zvuk vchádzal dovnútra a niečo v nej odpovedalo — nie Spira, nie nanotechnológia, len telo, len srdce, len to hlúpe, jednoduché, zvieracie niečo, čo cítiš, keď ťa hudba zasiahne tak hlboko, že zabudneš dýchať.
 
@@ -274,7 +274,7 @@ Jeho prsty sa dotkli jej prstov.
 
 Nie agresívne. Nie zámerne. Len — položil ruku na jej ruku. Ľahko. Akoby sa pýtal. Akoby ani on nevedel, prečo to robí.
 
-Yera stuhla. Srdce jej búšilo tak hlasno, že bola presvedčená, že ho počuje celý prístav. Teplo jeho dlane na jej ruke. Drsné prsty — prsty muža, čo nakladá vrecia, čo ťahá laná, čo nikdy nič nedostal zadarmo. Na jej ruke — na ruke, čo lieči stromy a drží pentagram a nikdy sa nedotkla ničoho, čo si sama nevybrala.
+Yera stuhla. Srdce jej búšilo tak hlasno, že bola presvedčená, že ho počuje celý prístav. Teplo jeho dlane na jej ruke. Drsné prsty — prsty muža, čo nakladá vrecia, čo ťahá laná, čo nikdy nič nedostal zadarmo. Na jej ruke — na ruke, čo lieči stromy a drží glyf a nikdy sa nedotkla ničoho, čo si sama nevybrala.
 
 *Nič sa nestalo*, povedala si. *Nič sa nedeje. Len sedíme. Len sa díva na hviezdy. Len mi drží ruku.*
 
@@ -316,7 +316,7 @@ Videla leopardie škvrny na jeho krku v mesačnom svetle. Počula jeho hlas — 
 
 Otvorila oči.
 
-Na stole vedľa postele ležali lekárske nástroje — pipety, misky, sušené byliny v sklenených nádobách. Pentagram na jej predlaktí — akvamarínové línie, tenké, mŕtve, čakajúce. Vedľa zápisníka stáli chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
+Na stole vedľa postele ležali lekárske nástroje — pipety, misky, sušené byliny v sklenených nádobách. Glyf na jej predlaktí — akvamarínové línie, tenké, mŕtve, čakajúce. Vedľa zápisníka stáli chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
 
 Zavrela oči.
 

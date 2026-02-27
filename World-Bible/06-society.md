@@ -292,7 +292,7 @@ Izolácia a úpadok technológií rozbili jednotnú reč na niekoľko vrstiev:
 - Význam: Rituálna ochrana pred nanotechnologickými hrozbami.
 
 ### Rituálne obrazce
-- Kreslenie pentagramov alebo obvodov **vodivou pastou**.
+- Kreslenie glyfov alebo obvodov **vodivou pastou**.
 - V skutočnosti ide o uzatváranie obvodov a aktiváciu starých bezpečnostných alebo údržbových postupov.
 
 ---

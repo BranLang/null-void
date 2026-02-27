@@ -10,7 +10,7 @@
 | 4 | 🜁 Vietor-priestor | Búrka Strojov | **Sera** | Vojna, otec vs. dcéra |
 | 5 | ✧ KVINTESENCIA- Vedomie | Null Void | **Elania + I_NET_IS** | Finále, obeta, nový začiatok |
 
-### Vizuálny plán (Pentagram Cycle)
+### Vizuálny plán (Glyf Cycle)
 
 ```mermaid
 graph TD
