@@ -12,8 +12,6 @@
 
 ---
 
-## Scéna 1: Prvá noc po odhalení
-
 Kľúč bol ťažší, než si pamätala.
 
 Soril jej ho dala ráno. Bez ceremónie — položila ho na stôl vedľa čajovej konvice, medzi zápisník a sušené byliny, akoby to bol príbor alebo hrebeň. Malý, tmavý, kovový. Jednoduchý. Kľúč od dverí, za ktorými ležala celá pravda. [→ characters/Soril.md: Soril odovzdáva Yere kľúč od podzemnej knižnice — akt dôvery, odmena za odhalenie v Ch2. Pedagogický zámer: nech Yera číta sama, nech si vytvorí vlastný vzťah k textu.]
@@ -86,8 +84,6 @@ Yera bežala cez záhradu.
 
 ---
 
-## Scéna 2: Záhrada — Kontaminovaná noc
-
 Arkot na lavičke. Pomalý úsmev. Mesačné svetlo na leopardích škvrnách.
 
 *„Neskorá dnes."*
@@ -135,8 +131,6 @@ A medzi slovami, v tých malých medzerách, kde dych nahradzoval hlas, stále b
 *Prvá trhlina,* pomyslela si neskôr, v posteli, s otvorenými očami a stropom, na ktorom bioluminiscenčný mach svietil príliš jasne na spánok. *Nie od klanu. Nie od Soril. Od Knihy. Kniha El kradne Yeru zevnútra.* [NOTE: Yera to vie. Reflektuje to. Ale neprestane. Toto je definícia závislosti — vedomie problému bez schopnosti prestať.]
 
 ---
-
-## Scéna 3: Haiku v tme
 
 Iná noc. Podzemie.
 
@@ -191,8 +185,6 @@ Potom vyšla hore. Zamkla dvere. Bežala cez záhradu — a Arkot bol na lavičk
 A o haiku nepovedala nič.
 
 ---
-
-## Scéna 4: Hviezdy
 
 Záhrada. Iná noc — koľká? Yera prestala počítať. Noci splývali — podzemie, záhrada, podzemie, záhrada — ako prílivy, ktoré nikto nereguloval.
 
@@ -250,17 +242,19 @@ A potom — v tichu, keď Arkot ukazoval na hviezdu nad obzorom a vysvetľoval, 
 
 Myšlienka blikla a zhasla. Yera ju zachytila — ale nedokončila. Arkot hovoril o prúdoch a vetrom a uhle 47 stupňov z Kitsune do Beladiss a ona sa nechala viesť jeho hlasom preč od šifier, preč od podzemnej kaplnky, preč od fialových žiliek.
 
-Ale myšlienka sa vrátila.
-
-Neskôr. V posteli. V tme. Keď Arkotovo teplo vyprchalo z ramena a zostal len teplý kameň pod chrbtom a strop svietiaci machom.
+Ale myšlienka sa vrátila. Ešte tam, na lavičke, s jeho ramenom na svojom. Ešte s hviezdami nad sebou a mosadzným nástrojom v lone.
 
 *Symboly na mape sú rovnaké ako v šifrách.*
 
-A niečo sa v nej potichu preklopilo — ako keď závaží na váhach zrazu nájde svoju protiváhu a všetko sa na okamih zastaví. [NOTE: Kontaminácia — aj v Arkotovom objatí, aj pod hviezdami, Kniha je tu. V hlave. Vždy. Yera nevie vypnúť jedno, keď je v druhom. To je cena dvojitého života.]
+Yera stuhla. Arkot to pocítil — jemné napnutie ramena, sotva viditeľné, ale on čítal ľudí ako more.
+
+*„Čo je?"*
+
+*„Nič,"* povedala. *„Zima."*
+
+Nebola zima. Bolo leto. Obaja to vedeli. [NOTE: Kontaminácia sa teraz deje v reálnom čase — nie v posteli neskôr. Yera má objav POČAS Arkotovho momentu. Silnejšie než retrospektíva. Arkot cíti, že niečo nie je v poriadku, ale nepýta sa ďalej — jeho spôsob rešpektu. Klamstvo „Zima" v lete = rovnaká mechanika ako „Som tu" v Sc.2.]
 
 ---
-
-## Scéna 5: Dešifrovanie
 
 Dni boli Sorilové.
 
@@ -276,7 +270,11 @@ A niekedy — Kvintesencia. Tréning piateho elementu. Soril zdvihla ruku a fial
 
 Klamstvo. Také plynulé, také automatické, že ho Yera ani nepočula vychádzať. Saéli školenie. Nikdy nedaj najavo slabosť.
 
-Soril si ju zmerala. Tmavé kruhy pod Yerinými očami — jemné, ale tam. Pre niekoho, kto pozoroval Yeru každý deň celé mesiace, viditeľné ako nápis na stene. [NOTE: Soril vidí zmenu. Ale nekomentuje — ešte nie. Sleduje. Meria. Čaká.]
+Soril si ju zmerala. Tmavé kruhy pod Yerinými očami — jemné, ale tam. Pre niekoho, kto pozoroval Yeru každý deň celé mesiace, viditeľné ako nápis na stene.
+
+Sorilina ruka sa zdvihla — pomaly, akoby chcela položiť dlaň na Yerino čelo. Diagnostika. Reflex liečiteľky, staršej než Chrám. Na polceste sa zastavila. Prsty sa zavreli do päste. Ruka klesla späť.
+
+*„Zajtra fáza štyri,"* povedala namiesto toho. [NOTE: Soril vidí zmenu a TAKMER zasahuje — diagnostický reflex liečiteľky. Ale zastaví sa. Prečo? Lebo diagnostika by ukázala nedostatok spánku, a potom by sa musela pýtať prečo. A Soril sa nechce pýtať — lebo odpoveď by mohla byť niečo, čo by musela riešiť. Kým sa nepýta, nemusí vedieť. Kým nevie, nemusí konať. Toto je Sorilina vlastná verzia Yeriného dvojitého mlčania.]
 
 ---
 
@@ -309,8 +307,6 @@ A Yera medzi nimi. Každú noc. Prvá polovica dolu, druhá vonku. Alebo naopak 
 Spala menej. O hodinu. O dve. Ráno prichádzala k Soril s tmavšími kruhmi pod očami a plynulejšími klamstvami na jazyku.
 
 ---
-
-## Scéna 6: Noc, keď sa takmer rozhodne
 
 Záhrada. Neskorá noc. Arkot bol iný.
 
@@ -362,8 +358,6 @@ Arkot prikývol. Vedel, že viac nedostane. Nie teraz. Pritiahol si ju bližšie
 
 ---
 
-## Scéna 7: Posledná noc v podzemí
-
 Nie posledná.
 
 Yera to nevedela — ešte nie. Sedela v podzemí, sviečka horela, zápisník bol plný a ona otvorila stranu, ktorú doteraz neotvorila. [NOTE: Yera sa ku koncu Knihy blíži systematicky — strana po strane, noc po noci. Túto stranu nechávala nakoniec. Nie preto, že by bola zakázaná. Preto, že vedela — inštinktom, nie rozumom — že keď ju otvorí, niečo sa zmení.]
@@ -374,7 +368,7 @@ Nie šifra. Nie vzorec. Nie haiku. Nie portrét.
 
 Obyčajné slová. Elaniina Staroreč — nie tá presná z máp a vzorcov, nie tá chladná z vedeckých zápiskov. Iná. Mäkšia. Pomalšia. Slová ženy, ktorá si sadla k ohňu a vedela, že zajtra odíde.
 
-Yera čítala pomaly. Vedela dosť Staroreči.
+Yera čítala pomaly. Vedela dosť Staroreči — dosť na to, aby sa brodila cez vety, nie dosť na to, aby plávala. Niektoré slová musela hádať z okolia. Niektoré nechávala prázdne a šla ďalej.
 
 *I found no cave. I found no mother.* [→ the-book-of-El.md: Elaniin posledný zápis — pred príchodom Sery. Elania hľadala jaskyňu 13 rokov. Nenašla. Sera ju našla. → NOTE: Yera číta doslovne — El nenašla čo hľadala. Čitateľ vie: jaskyňa existuje, Maks v nej spí. Elania sa k nej vrátila neskôr, so Serou. Ale tieto slová sú pravdivé pre moment, v ktorom boli napísané.]
 
@@ -392,13 +386,23 @@ Riadok pod tým — prázdny. Dva riadky. Tri. Potom:
 
 *He is not what they will call him. He is not evil. He is not a demon. He is just tired. Like me.*
 
+*Demon.* Yera poznala to slovo — Staroreč pre niečo, čo Chrám nazýval inak, ale bolo to blízke. Posadnutý. Bytosť, ktorá nie je tým, čím vyzerá. El našla niekoho takého — a napísala: *nie je zlý. Len unavený.* [NOTE: Yera chápe „demon" cez kultúrny filter — Posadnutí (Wraith hostiteľ). Nechápe, že Elania myslí Samaella konkrétne. Pre Yeru je to generické — El našla niekoho nebezpečného a nebála sa ho. → characters/Samaell.md]
+
 *We are the same. Both looking for someone who left us behind. Both too stubborn to stop.*
 
 Yera čítala a fialové žilky v čiernom obale pulzovali — rýchlejšie, akoby Prach cítil niečo v jej krvi, niečo, čo sa hýbalo rýchlejšie ako zvyčajne. [→ 04-elanias-blade.md: Prach reaguje na emocionálny stav Spira-nositeľa.]
 
 Posledný riadok.
 
-*Tomorrow the angel comes. I don't know what she wants. I don't know if I want to go. But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps. And maybe one day, someone will find him. And maybe one day, someone will read this. And maybe that will be enough.* [NOTE: Elaniin hlas — nie vedkyňa, nie bohyňa, nie matka. Žena. Žena, ktorá sa lúči so svetom, o ktorom nevie, či ho ešte uvidí. „Anjel" = Sera. „Otec" = Maks. „Niekto" = Yera. Toto je moment, keď text hovorí priamo k čitateľke — cez 2000 rokov, cez pergamen, cez fialové žilky.]
+*Tomorrow the angel comes.*
+
+Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archanjel" v Yerinom svete. Pre Yeru Archanjeli = nesmrteľní vládcovia (Grom, Sera, Mormiel). Elaniin „angel" je niečo staršie, z inej tradície. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
+
+*I don't know what she wants. I don't know if I want to go. But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps.*
+
+*Father.* Toto slovo Yera poznala. *Otec.* Elaniin otec. Niekto, kto spal niekde v tme — a El to vedela, a nechala ho spať. Yera si pomyslela na vlastného otca, na muža, čo jedného dňa povedal *zasvätenie* a tým jej spečatil budúcnosť. Ale Elaniin otec bol iný — nie meno, nie autorita. Niečo stratené. Niečo čakajúce. [NOTE: Yera interpretuje „father" doslovne — Elaniin otec. Čitateľ vie: Maks. Dramatická irónia — Yera drží v rukách príbeh muža, ktorý spí v jaskyni pod Nyau, a nemá tušenie. „Otec" pre Yeru evokuje jej vlastného otca (Saéli klan) = autoritársky, vzdialený. Pre Elaniu = stratený, milovaný.]
+
+*And maybe one day, someone will find him. And maybe one day, someone will read this. And maybe that will be enough.* [NOTE: Elaniin hlas — nie vedkyňa, nie bohyňa, nie matka. Žena. Žena, ktorá sa lúči so svetom, o ktorom nevie, či ho ešte uvidí. „Niekto" = Yera. Toto je moment, keď text hovorí priamo k čitateľke — cez 2000 rokov, cez pergamen, cez fialové žilky.]
 
 *Maybe that will be enough.*
 
@@ -474,7 +478,7 @@ Za viečkami — fialové žilky. Pomalé. Trpezlivé. Čakajúce.
 
 [NOTE: Scéna 5 (Dešifrovanie) = vzorce v šifrách korešpondujú s glyfovým systémom. Yera vidí spojenie, ale nemá kontext. Pre čitateľa: Elaniin kód = technická dokumentácia Spiry, napísaná dcérou ženy, ktorá Spiru vynašla. Yera drží v ruke návod k technológii, ktorá poháňa jej svet — a nevie to. → 03-technology.md: Glyf IDE, Elaniin prístup]
 
-[TODO: Zvážiť, či pridať krátku dennú scénu s otcom — Saéli dynamika, ďalší tlak. Alebo nechať minimalistické — otec existuje len cez absenciu.]
+[NOTE: RESOLVED — otec zostáva cez absenciu. Kapitola je o dvoch magnetoch (Kniha/Arkot). Tretí by rozbíjal binárnu tenziu. Otec existuje implicitne cez „Saéli školenie" zmienky (r.115, r.277) — to stačí.]
 
 [TODO: V Ch4 (alebo 03.5-farewell) — Arkot odíde. Yera sa rozhodne. Nie aktívne — reaktívne. Svet vyberie za ňu.]
 
