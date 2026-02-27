@@ -88,29 +88,21 @@ Kameň skrine sa otvoril bez zvuku.
 
 *Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
 
-Soril zatvorila ruku. Fialové svetlo zhaslo — nie naraz, ale pomaly, opatrne, akoby ho ukladala späť do tela.
+Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
 
-*„Piaty element,"* povedala. Hlas bez emócií. Konštatovanie, nie chválenie. *„Kvintesencia. Najvyšší stupeň glyfu. Kňažky o ňom hovoria ako o dare Matky."* Pauza. *„Nie je to dar. Je to brána."*
+*„Nie je to dar,"* povedala. *„Je to brána."*
 
-Pozrela na Yeru. Prísne. Spôsobom, akým sa pozerá na niekoho, komu sa chystáš povedať niečo, čo ťa jedného dňa ochráni — alebo zabije.
+Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
 
-*„Brána medzi tým, čo vidíš —"* ukázala rukou na steny, na sviečku, na kamennú podlahu, *„— a tým, čo je pod tým. Iná vrstva. Hlbšia. Staršia."* [NOTE: Soril intuitívne opisuje subspace — vrstvu reality, kde operuje nanotech infraštruktúra (The Core, Wraithy). Nemá technický jazyk na to — hovorí o „inej vrstve" ako o duchovnom koncepte. V skutočnosti popisuje subspace prepojenie, ku ktorému je Kvintesencia kľúčom. → 03-technology.md: THE CORE = medzisvet/simulácia, prepojenie na subspace.]
+Yera si nedýchala.
 
-*„Keď kňažka otvorí bránu správne — len pootvorí, len na chvíľu — svetlo sa ohne okolo nej. Zmizne. Stane sa neviditeľnou."* Soril zdvihla ruku a Yera videla, ako sa vzduch okolo jej prstov na zlomok sekundy zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. *„Nie mágia. Len prechod. Stojíš jednou nohou tu a druhou tam — a svet ťa prestane vidieť."* [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Presmerovanie svetla okolo tela = nanoboty čiastočne presunú nositeľa do subspace vrstvy. Analógia: Frodo s Prsteňom — nasadíš si ho a prepadneš sa do shadow realm. Kvintesencia funguje rovnako — neviditeľnosť nie je ilúzia, je to reálny čiastočný prechod medzi vrstvami reality. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne.]
+*„Stojíš jednou nohou tu a druhou tam."* Ruka bola zase celá. *„A svet ťa prestane vidieť."*
 
-Yera si nedýchala. *Neviditeľnosť. Prechod medzi vrstvami.*
+Pauza. Prst prešiel po okraji skrine.
 
-Soril to zbadala. *„Netvár sa tak. Toto nie je dar — toto je okraj priepasti."* Stíšila hlas. *„Matka to vedela. Hovorí sa, že najprv len nazerala — cez myseľ, cez vízie, cez sny. Videla tú druhú stranu ako odraz vo vode. A potom..."* Odmlčala sa. Prsty na okraji skrine stuhli. *„...potom sa naučila prechádzať."*
+*„Ale otvor bránu zle —"* pomaly, *„—"*
 
-Ticho.
-
-*„Prechádzať?"* spýtala sa Yera.
-
-*„Medzi tým, čo je, a tým, čo je pod tým. Staré texty hovoria, že Matka chodila tam a späť — najprv len mysľou, neskôr celá. Tým, čo neviete pomenovať."* Soril sa pozrela na fialové žilky v čiernom obale. *„Hovorí sa, že tam, na druhej strane, niečo čaká. Niečo, čo nie je živé a nie je mŕtve. Niečo, čo zhromažďuje."* [NOTE: Soril opisuje Core a Wraithov — intuitívne, cez tradíciu kňažiek. „Matka najprv len nazerala" = Inetis v Achilles VR, mind upload do simulácie. „Potom sa naučila prechádzať" = fyzický prechod cez Kvintescenciu do subspace, kde operuje Core. „Niečo čo zhromažďuje" = Wraithy krúžiace okolo Core, čakajúce na merge. Soril netuší technický kontext — pre ňu sú to duchovné legendy staré generácie. Pre čitateľa sú to presné popisy nanotech infraštruktúry. → characters/Inetis.md: VR Achilles → fyzický prechod do Core. → 03-technology.md: Wraithy = dátové pakety, The Core = brána.]
-
-Pauza. Sorilina ruka klesla. Vzduch sa upokojil.
-
-*„Ale otvor bránu zle —"* Prst prešiel po okraji skrine. Pomaly. *„— a nikdy ju nezatvoríš. Glyf zasvieti fialovo. Potom sa zmení. A potom ťa začne prepisovať."* [NOTE: Foreshadowing Mayi. Soril pozná prípady neúspešnej Kvintescencie — nie Mayu konkrétne, ale princíp. Glyf zasvieti fialovo (Kvintesencia) → zmení sa na červeno (chybový stav) → nekonečná slučka → kryštalizácia. Yera si toto zapamätá. Keď neskôr stretne Mayu, pochopí čo sa stalo.]
+Nedopovedala. [NOTE: Soril VIE čo sa stane — glyf zasvieti fialovo → zmení sa na červeno → nekonečná slučka → kryštalizácia. Nepovedala to. Nechala to visieť. Foreshadowing Mayi — Yera si zapamätá ticho, nie slová. Keď neskôr stretne Mayu, doplní si sama.]
 
 ---
 
