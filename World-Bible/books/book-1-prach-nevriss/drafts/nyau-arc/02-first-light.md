@@ -330,7 +330,7 @@ Prvé noci presedeli presne jednu stopu od seba. Rozprávali sa o ničom — o t
 
 Druhá noc tú stopu prepolila. Tretia ju úplne zmazala.
 
-Na štvrtú noc Arkot prišiel s krvácaním na predlaktí — lano mu prešlo cez ruku, povedal, nič vážne. Yera nepovedala nič. Sadla si vedľa neho — bližšie než predtým, bez premýšľania, akoby telo vedelo niečo, čo hlava ešte odmietala — a položila prsty na ranu. Prsty jej ochladli. Voda z nočného vzduchu, z rosy na lišajníku, z vlhkosti v jeho koži sa sústredila pod jej dotykom a pomaly, trpezlivo, umývala krv z okrajov. Nie Spira — nie vedome. Len prsty a voda a ticho.
+Na štvrtú noc Arkot prišiel s krvácaním na predlaktí — lano mu prešlo cez ruku, povedal, nič vážne. Yera nepovedala nič. Sadla si vedľa neho — bližšie než predtým, bez premýšľania, akoby telo vedelo niečo, čo hlava ešte odmietala — a položila prsty na ranu. Prsty jej ochladli. Pod dotykom sa objavilo jemné svetlo — slabé, modrasté, sotva viditeľné oproti lišajníku na lavičke. Voda z nočného vzduchu, z rosy na lišajníku, z vlhkosti v jeho koži sa sústredila pod jej prstami a pomaly, trpezlivo, umývala krv z okrajov. Nemusela premýšľať. Stalo sa to samo — tichý impulz, naučený reflex, niečo medzi dýchaním a modlitbou. [NOTE: Yera tu používa Spiru, ale nevedome — cez tetovania (makra), ktoré umožňujú vysoko kvalifikovaným používateľom aktivovať Spiru bez vedomého „otvorenia IDE." Zdroj tetovaní: buď Waspira (Maksov tréning) alebo tajné tetovania kňaziek v Nyau (zatiaľ nepomenovaný systém). Pre čitateľa to vyzerá ako mágia — pre Yeru je to len svalová pamäť.]
 
 Arkot nič nepovedal. Pozeral na jej ruky na svojom ramene — studené, presné, opatrné — a potom sa spýtal: „Toto robíš v tom chráme?"
 
