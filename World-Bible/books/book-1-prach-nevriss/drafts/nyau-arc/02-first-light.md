@@ -218,6 +218,10 @@ Z chrámu sa niesla posledná melódia — kňažky dokonávali nočnú modlitbu
 
 Yera cítila len horúci vzduch a ťažké kadidlo.
 
+Poriv vetra zdvihol z prístavu vôňu, ktorá nepatrila balkónom — soľ, decht, surové drevo. Hodvábna šatka, zabudnutá na zábradlí vedľajšieho balkóna, sa strhla a odletela do tmy. Yera ju sledovala — biely vtáčik, menší a menší — kým nezmizla nad kanálom.
+
+*Tak ľahko.*
+
 Mesto svietilo. Hviezdy svietili. A medzi tým všetkým — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Liečiteľka. Zasvätená. Klietková.
 
 *Kedy som prestala svietiť?*
@@ -226,9 +230,11 @@ Dívala sa na prístav. Na obzor za ním — tmavý, nekonečný, plný vecí, k
 
 ---
 
---- [NOTE: ČASOVÝ SKOK. Festival (Ch1) prebehne tu. Pred = klietka, samota, otázky bez odpovedí. Po = zmena.]
+Festival prišiel a odišiel. [NOTE: ČASOVÝ SKOK. Festival (Ch1) prebehne tu. Pred = klietka, samota, otázky bez odpovedí. Po = zmena.]
 
-Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
+Prešla ním — celou nocou, od balkóna po strechu, od strechy po úsvit — a ráno sa vrátila do izby s rukami, ktoré voňali vínom a soľou a niečím, na čo nemala slovo. Umyla si ich. Trikrát. Vôňa zostala.
+
+Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Ruky jej voňali čisto — mydlo, byliny, nič — a predsa zakaždým, keď zavrela oči, cítila teplý kameň a cudziu kožu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
 
 Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
@@ -242,7 +248,11 @@ Zbadal ju skôr, než by očakávala. Uprostred pohybu otočil hlavu, akoby mu i
 
 Kývol jej hlavou smerom k mestu a vrhol sa naspäť k lanám. Ostrý tón prístavného majstra ho zahnal do práce, ale Yera cítila to tiché sprisahanie pod kožou. Odchádzala s pocitom, že ten krátky moment trval celú večnosť.
 
-Vrátila sa aj nasledujúci deň. A ďalší. Stavali sa k sebe stále bližšie k okraju móla, vymieňali si len pár tichých slov.
+Vrátila sa aj nasledujúci deň. Stála v tom istom tieni, za tou istou roletou. On ju nezbadal — alebo predstierať, že nie. Nakladal vrecia, smial sa s robotníkmi, existoval bez nej. Odišla skôr, než by musela.
+
+Tretí deň jej hodil jablko. Nepovedal nič — len ho vytiahol z vreca, otočil sa jej smerom a hodil, jedným pohybom, cez pätnásť stôp horúceho prašného vzduchu. Yera ho chytila. Chytila ho oboma rukami, kňažkovými rukami, čistými rukami — a jablko bolo teplé a prašné a voňalo poľom a jeho dlaňou. Zahryzla sa do neho až cestou domov.
+
+Piaty deň sa postavila bližšie. Šiesty ešte bližšie. Vymieňali si len pár tichých slov — komentáre o vetre, o počasí, o hlúpom žeriavnikovi, čo zaspal na stoličke — vety, ktoré nič neznamenali a znamenali všetko.
 
 Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to neustúpenie, bolo to zastavenie.
 „Vieš o záhrade za starým kanálom, hej?“ opýtal sa s pohľadom upretým na nákladnú loď trhavo bijúcu o vlnolam.
