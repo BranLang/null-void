@@ -154,7 +154,7 @@ Na Achille nežije 500 druhov inteligentných zvierat. Žije tu **obmedzený po�
 
 **Prečo Pursang**: Na Zemi boli kozie modifikácie niche — ale extrémne štylistické. Rohy, vertikálne zreničky, elegantná postava. Black metal estetika. Boli to modi pre umelcov, hudobníkov, aristokratov — ľudí, ktorí chceli vyzerať *nadpozemsky*, nie *roztomilo*.
 
-**Charakteristika**: Rohy (kozle/kozacie), vertikálne zreničky, štíhla aristokratická postava. Silná väzba na náboženskú estetiku — mnohí kňazi a kňažky Kultu Matky sú Capra. Pentagramy, rituálny oheň, temná elegancia.
+**Charakteristika**: Rohy (kozle/kozacie), vertikálne zreničky, štíhla aristokratická postava. Silná väzba na náboženskú estetiku — mnohí kňazi a kňažky Kultu Matky sú Capra. Glyfy, rituálny oheň, temná elegancia.
 
 **Príklady**: Agitátor Kultu v Shoravene (Ch1 — Capra s kozími rohmi)
 

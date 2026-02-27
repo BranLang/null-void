@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Status** | Živý (s amnéziou a **kryo-slepotou** po prebudení; oči nahradené **Čiernym Prachom** po porážke Samaella) |
-| **Element** | 照 *teru* / **Kvintesencia** (Quintessence) — 5. vrchol pentagramu Ex Inferis |
+| **Element** | 照 *teru* / **Kvintesencia** (Quintessence) — 5. vrchol glyfu Ex Inferis |
 | **Pôvod** | Zem (nar. 2050), **Major** počas Marťanskej vojny → povýšený na **Generála** Pozemskej Obrany po jej skončení |
 
 ### Nie je Chosen One (ale vyzerá ako jeden)

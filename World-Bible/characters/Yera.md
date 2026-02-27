@@ -76,10 +76,10 @@
 - **Kniha El — tajné experimenty**: [→ 10-inetis-chronicles.md: Kniha El ako technický manuál]
   - Yera nosí originál Knihy El v príručnej taške. Číta ju potajomky — na palube, v noci, keď ostatní spia.
   - V Knihe sú **haiku, ktoré nikto za 3000 rokov nepoužil**. Nie preto, že by boli zakázané — ale preto, že nikto nemal originál. Všetky kópie sú cenzúrované, preložené, zredukované. Yera má zdrojový kód. Ostatní majú readme.
-  - **Yera nechápe, čo robí.** Netuší, že haiku sú programovacie príkazy na nanotech (Pentagram IDE). Pre ňu sú to staré modlitby, rituálne texty, poézia zakladateľky El. Recituje ich — a občas sa stane niečo nečakané. Vzduch zavibruje. Voda zmení smer. Svetlo sa ohne. Yera to nedokáže vysvetliť. Pre ňu je to mystérium — možno viera, možno dar, možno šialenstvo.
-  - **Nové haiku** = Spira príkazy, ktoré svet nevidel 3000 rokov. Nie preto, že je silnejšia — ale preto, že má originálny text. Inetis napísala Knihu El ako technický manuál Pentagramu zabalený do náboženského jazyka. Za 3000 rokov sa z manuálu stala Biblia. Nikto už nechápe, že haiku sú príkazy.
+  - **Yera nechápe, čo robí.** Netuší, že haiku sú programovacie príkazy na nanotech (Glyf IDE). Pre ňu sú to staré modlitby, rituálne texty, poézia zakladateľky El. Recituje ich — a občas sa stane niečo nečakané. Vzduch zavibruje. Voda zmení smer. Svetlo sa ohne. Yera to nedokáže vysvetliť. Pre ňu je to mystérium — možno viera, možno dar, možno šialenstvo.
+  - **Nové haiku** = Spira príkazy, ktoré svet nevidel 3000 rokov. Nie preto, že je silnejšia — ale preto, že má originálny text. Inetis napísala Knihu El ako technický manuál Glyfu zabalený do náboženského jazyka. Za 3000 rokov sa z manuálu stala Biblia. Nikto už nechápe, že haiku sú príkazy.
   - **Yera je prvá za 3000 rokov, kto recituje originálne haiku z Knihy El.** A jej Spira — najsilnejšia v posádke — reaguje. Výsledky sú nepredvídateľné, niekedy krásne, niekedy desivé.
-  - **Tri haiku — Dev konzola**: [→ 03-technology.md: Pentagram IDE] V Knihe El sú tri špeciálne haiku, ktoré keď sa recitujú v správnej kombinácii, otvoria niečo, čo Inetis navrhla ako **dev konzolu** — priamy prístup k Pentagram IDE bez bežného rozhrania. Root access. Backdoor do nanotech systému, ktorý poháňa celú Spiru na Achille. Yera o tom nevie. Zatiaľ recituje jednotlivé haiku naslepo a občas sa stane niečo divné. Ale keď jedného dňa — náhodou alebo z núdze — recituje správne tri v správnom poradí... **[NOTE: Chekhov's Gun. Setup v Nyau novele alebo Book 1. Payoff v neskorších knihách. Presný efekt a timing podľa autora.]**
+  - **Tri haiku — Dev konzola**: [→ 03-technology.md: Glyf IDE] V Knihe El sú tri špeciálne haiku, ktoré keď sa recitujú v správnej kombinácii, otvoria niečo, čo Inetis navrhla ako **dev konzolu** — priamy prístup k Glyf IDE bez bežného rozhrania. Root access. Backdoor do nanotech systému, ktorý poháňa celú Spiru na Achille. Yera o tom nevie. Zatiaľ recituje jednotlivé haiku naslepo a občas sa stane niečo divné. Ale keď jedného dňa — náhodou alebo z núdze — recituje správne tri v správnom poradí... **[NOTE: Chekhov's Gun. Setup v Nyau novele alebo Book 1. Payoff v neskorších knihách. Presný efekt a timing podľa autora.]**
   - Toto je dôvod, prečo Mormiel bude Yeru hľadať — nie len kvôli Rituálu, ale kvôli **Knihe**. Ak Mormiel zistí, že Yera má originál... to zmení všetko.
 - **Čo posádka vie**: Pursang. Nyau. Liečiteľka. Nič viac.
 - **Čo posádka tuší**: Niečo sa stalo. Niečo, prečo krásna Pursang mačka z bohatej rodiny žije na dobrodruhynej lodi a odmietne hovoriť o domove.
@@ -151,7 +151,7 @@
 
 **Predpoklad**: Yera celý život potláča emócie. Klan, Chrám, Soril — vždy kontrola, vždy dokonalosť. Na povrchu tichá a ovládaná. Ale vnútri sa hromadí stres — Flintova smrť, mesiace izolácie, Arkotova smrť. Koľko tlaku znesie pacifistka, kým praskne?
 
-**Mechanizmus — Kvintesencia kolaps**: [→ 03-technology.md: Pentagram, Kvintesencia]
+**Mechanizmus — Kvintesencia kolaps**: [→ 03-technology.md: Glyf, Kvintesencia]
 - Kvintesencia = vedomie = riadiaci kód nanobotov. Bez čistého vedomia sú nanoboty inertný prach.
 - Keď vedomie stratí kontrolu → nanoboty stratia riadiaci kód → **chaotická replikácia bez príkazu** (Hniloba / Glitch Rot princíp).
 - Yera má najsilnejšiu Spiru v posádke. Čím silnejšia Spira, tým väčšia explózia pri kolapsy vedomia.

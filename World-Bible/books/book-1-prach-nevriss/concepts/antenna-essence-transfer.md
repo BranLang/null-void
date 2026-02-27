@@ -137,7 +137,7 @@ Ak má Tami v sebe Inetisovu esenciu, stáva sa **kľúčovou figúrkou** pre El
 - Možno pocit tepla, déja vu, divné sny.
 
 ### Dlhodobé efekty (postupne)
-- **Fialové oči**: Do pár hodín sa Taminy modré oči (Rennove) zafarbia na **fialové galaxie** — obe oči, ako Inetis pred Core. Vizuálna signatúra prítomnosti i_net_is. Po synchronizácii v Core → **heterochromia**: jedno fialová galaxia, druhé žltý pentagram (rovnako ako Inetis a Elania). [→ characters/Tami.md] [→ characters/Elania.md: Fialové oči — Signatúra i_net_is]
+- **Fialové oči**: Do pár hodín sa Taminy modré oči (Rennove) zafarbia na **fialové galaxie** — obe oči, ako Inetis pred Core. Vizuálna signatúra prítomnosti i_net_is. Po synchronizácii v Core → **heterochromia**: jedno fialová galaxia, druhé žltý glyf (rovnako ako Inetis a Elania). [→ characters/Tami.md] [→ characters/Elania.md: Fialové oči — Signatúra i_net_is]
 - **Intuícia**: Bude vedieť veci, ktoré by nemala vedieť.
 - **Haiku**: Môže začať rozumieť Gen 2 syntaxi bez tréningu.
 - **Flashbacky**: Fragmenty Inetisiných spomienok (nie úplné, len záblesky).

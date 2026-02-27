@@ -42,7 +42,7 @@ Yera si zapálila sviečku. Posadila sa. Otvorila stranu, ktorú Soril preskoči
 
 Elaniin rukopis sa tu menil.
 
-Na stránkach, ktoré Soril komentovala — mapách, rastlinách, pentagramoch — bolo písmo presné. Vedkyňa pri práci. Každé písmeno na svojom mieste, s presnosťou chirurga, s istotou niekoho, kto vie, čo robí a prečo. [→ the-book-of-El.md: Fáza 1-3 — presný, vedecký rukopis]
+Na stránkach, ktoré Soril komentovala — mapách, rastlinách, glyfoch — bolo písmo presné. Vedkyňa pri práci. Každé písmeno na svojom mieste, s presnosťou chirurga, s istotou niekoho, kto vie, čo robí a prečo. [→ the-book-of-El.md: Fáza 1-3 — presný, vedecký rukopis]
 
 Tu, v medzipriestore — na stránkach, ktoré Soril preskočila — bol iný rukopis. Menší. Rýchlejší. Šikmejší, akoby Elaniin zápästok na chvíľu zabudlo byť rukou vedkyne a stalo sa zápästkom ženy, ktorá píše, lebo nemôže spať, lebo niečo v nej nedá pokoj. Písmo niekoho, kto nepíše pre čitateľa. Písmo pre seba. [NOTE: Soril preskočila tieto strany zámerne — apokryfy. Osobné zápisky, ktoré nezapadajú do pedagogického rámca „El bola žena, ale Anjel ju zachránil." Soril ich pozná, ale nekomentuje. Yera ich teraz číta prvýkrát — sama.]
 
@@ -258,9 +258,9 @@ Dni boli Sorilové.
 
 Ráno: čítanie z bielej Knihy. Nahlas, pomaly, verš po verši. Soril oproti, oči na Yere, nikdy na texte. Otázky — technické, presné, neúprosné. *„Prečo El prepína čas v tomto verši? Čo znamená ‚iný breh'? Prečo tu autorka mlčí?"* Autorka. Nie bohyňa. Soril stále hovorila *autorka*. [→ characters/Soril.md: Soril rozlišuje text a vieru. El = autorka. Kniha = text. Chrám = miesto, kde text žije.]
 
-Poobede: Spira. Pokročilé vrstvy Vody — presmerovanie teploty na diaľku, diagnostika tkanív bez dotyku, odoberanie vlhkosti z ovzdušia. Pentagram na Yerinom predlaktí žiaril akvamarínovým svetlom, prsty chladli od manipulácie. Soril korigovala — slovom, pohľadom, niekedy len tichom, ktoré bolo hlasnejšie než akákoľvek výčitka. [→ 03-technology.md: Gen 2 Spira, element vody. Soril učí Yeru pokročilé techniky — diagnostika, manipulácia teploty, presmerovanie prúdov.]
+Poobede: Spira. Pokročilé vrstvy Vody — presmerovanie teploty na diaľku, diagnostika tkanív bez dotyku, odoberanie vlhkosti z ovzdušia. Glyf na Yerinom predlaktí žiaril akvamarínovým svetlom, prsty chladli od manipulácie. Soril korigovala — slovom, pohľadom, niekedy len tichom, ktoré bolo hlasnejšie než akákoľvek výčitka. [→ 03-technology.md: Gen 2 Spira, element vody. Soril učí Yeru pokročilé techniky — diagnostika, manipulácia teploty, presmerovanie prúdov.]
 
-A niekedy — Kvintesencia. Tréning piateho elementu. Soril dvihla ruku a fialové svetlo rozkvitlo medzi jej prstami — pomalé, presné, kontrolované. *„Toto nie je element. Toto je jazyk. Príkaz. Kód."* Yera sa pokúšala napodobniť — a pentagram na predlaktí blikal, váhal, akoby nevedel, čo od neho chce. *„Znova,"* povedala Soril. A Yera znova. A znova. [→ 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. Len born-Spira používatelia ju môžu aktivovať — strážené tajomstvo Nyau. Soril učí Yeru, lebo Yera je jej nástupkyňa.]
+A niekedy — Kvintesencia. Tréning piateho elementu. Soril dvihla ruku a fialové svetlo rozkvitlo medzi jej prstami — pomalé, presné, kontrolované. *„Toto nie je element. Toto je jazyk. Príkaz. Kód."* Yera sa pokúšala napodobniť — a glyf na predlaktí blikal, váhal, akoby nevedel, čo od neho chce. *„Znova,"* povedala Soril. A Yera znova. A znova. [→ 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. Len born-Spira používatelia ju môžu aktivovať — strážené tajomstvo Nyau. Soril učí Yeru, lebo Yera je jej nástupkyňa.]
 
 *„Dosť,"* povedala Soril. Pohľad na Yeru — tvrdý, vecný. Potom, tichšie: *„Spíš dosť?"*
 
@@ -276,11 +276,11 @@ Noci boli Yeriny.
 
 Podzemie. Sviečka. Kniha.
 
-Zápisník sa plnil. Yera si kreslila symboly z Elaninich šifier — prekreslovala ich, porovnávala, hľadala vzory. Niekedy vedľa pentagramového systému z chrámových príručiek. Niekedy vedľa hiragany. Niekedy vedľa Staroreči.
+Zápisník sa plnil. Yera si kreslila symboly z Elaninich šifier — prekreslovala ich, porovnávala, hľadala vzory. Niekedy vedľa glyfového systému z chrámových príručiek. Niekedy vedľa hiragany. Niekedy vedľa Staroreči.
 
 Niektoré symboly sa začali otvárať. Nie ako slová — nie preklady, nie definície. Ako vzorce. Niečo opakujúce sa, niečo systémové, niečo, čo malo logiku, aj keď Yera nevedela akú.
 
-*Tri symboly sa vrátili na každej tretej strane.* Vždy v rovnakom poradí — trojuholník, kruh, čiarka. Vedľa nich čísla v desiatkovej sústave. A pod nimi — vždy — jeden z pentagramových elementov v Elaniinej notácii. [→ the-book-of-El.md: Elaniin kód = vedecká notácia pre nanotechnológiu. Yera vidí vzory, ale nechápe obsah. Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie.]
+*Tri symboly sa vrátili na každej tretej strane.* Vždy v rovnakom poradí — trojuholník, kruh, čiarka. Vedľa nich čísla v desiatkovej sústave. A pod nimi — vždy — jeden z glyfových elementov v Elaniinej notácii. [→ the-book-of-El.md: Elaniin kód = vedecká notácia pre nanotechnológiu. Yera vidí vzory, ale nechápe obsah. Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie.]
 
 *Toto nie je jazyk,* pomyslela si Yera. *Toto je notácia. Zápis niečoho, pre čo neexistujú slová v žiadnej reči, ktorú poznám.*
 
@@ -464,7 +464,7 @@ Za viečkami — fialové žilky. Pomalé. Trpezlivé. Čakajúce.
 
 [NOTE: Sorilina postava v tejto kapitole = periférna, ale prítomná. Vidí tmavé kruhy pod Yerinými očami. Vidí zmenu. Nekomentuje — ešte nie. Soril je trpezlivá predátorka. Keď zasiahne, bude to presné a devastujúce. → characters/Soril.md: „Smrť tisíckou rezov."]
 
-[NOTE: Scéna 5 (Dešifrovanie) = vzorce v šifrách korešpondujú s pentagramovým systémom. Yera vidí spojenie, ale nemá kontext. Pre čitateľa: Elaniin kód = technická dokumentácia Spiry, napísaná dcérou ženy, ktorá Spiru vynašla. Yera drží v ruke návod k technológii, ktorá poháňa jej svet — a nevie to. → 03-technology.md: Pentagram IDE, Elaniin prístup]
+[NOTE: Scéna 5 (Dešifrovanie) = vzorce v šifrách korešpondujú s glyfovým systémom. Yera vidí spojenie, ale nemá kontext. Pre čitateľa: Elaniin kód = technická dokumentácia Spiry, napísaná dcérou ženy, ktorá Spiru vynašla. Yera drží v ruke návod k technológii, ktorá poháňa jej svet — a nevie to. → 03-technology.md: Glyf IDE, Elaniin prístup]
 
 [TODO: Zvážiť, či pridať krátku dennú scénu s otcom — Saéli dynamika, ďalší tlak. Alebo nechať minimalistické — otec existuje len cez absenciu.]
 

@@ -3,7 +3,7 @@
 
 [→ the-book-of-El.md: Fáza 4 — Breaking, zakázané pasáže. Tento citát v bielej Knihe neexistuje.]
 
-# Kapitola 2: Čierna kniha
+# Kapitola 3: Čierna kniha
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrámová záhrada, podzemná knižnica pod chrámom El
@@ -76,7 +76,7 @@ Yera sadla.
 
 Soril zdvihla pravú ruku.
 
-Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Pentagram na stene skrine sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Pentagram system — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
+Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na stene skrine sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
 
 Yera stuhla.
 
@@ -126,7 +126,7 @@ Séria haiku v hiragane, atrament vyblednutý do šeda, písmo tenkšie, rýchle
 
 V origináli nad každým haiku poznámka. Drobná, technická, vecná.
 
-Yera sa sklonila bližšie. Fialové žilky v čiernom obale po stranách sa rozžiarili — jemne, takmer nežne, akoby jej Prach ponúkal svetlo na čítanie.
+Yera sa sklonila bližšie. Čierny obal sa zachvel — jemne, takmer nežne, akoby jej ponúkal svetlo na čítanie.
 
 *Osvetlenie laboratória. Experiment č. 7. Filtrovaný UV zdroj, bioluminiscenčný extrakt z G-47.* [NOTE: Modlitba k Matke bola zápis o osvetlení. Do bielej Knihy prevzali haiku — ale nie kontext nad nimi. Originál je kompletný, nikdy nebol strihaný. Yera to vidí prvýkrát. Teológia sa rozpúšťa v reálnom čase.]
 
@@ -134,25 +134,25 @@ Soril ju pozorovala. Nič nehovorila. Čakala.
 
 ---
 
-Potom pentagram.
+Potom Glyf.
 
-Celostranový výkres — päť línií, päť vrcholov, koncentrické kruhy, alchemické symboly v medzipriestore. Presný ako geometrický dôkaz. Soril otočila stranu a položila prst na okraj, akoby hovorila: *tu sa pozri.* [→ 03-technology.md: Pentagram system = Gen 2 IDE architecture. Päť elementov = operačné módy nanotechnológie.]
+Celostranová kresba — päť línií, päť vrcholov, koncentrické kruhy, alchemické symboly v medzipriestore. Presná ako geometrický dôkaz. Soril otočila stranu a položila prst na okraj, akoby hovorila: *tu sa pozri.* [→ 03-technology.md: Glyf system = Gen 2 IDE architecture. Päť elementov = operačné módy nanotechnológie.]
 
 Yera naň hľadela dlho.
 
-Poznala ho. Nie z teológie — nie z Sorilinich hodín o piatich elementoch viery. Z niečoho iného. Z technických príručiek o Spire. Z diagramov, ktoré sa učili adeptky v prvom ročníku — praktické, prevádzkové, bez kadidla a modlitieb. [NOTE: Cirkev interpretuje pentagram ako náboženský symbol. Elania ho kreslila ako to, čím bol — technický diagram. Yera je prvá v Nyau, kto to vidí z oboch strán — trénuje Spiru a pozná pentagram aj z chrámovej teológie aj z technických príručiek.]
+Poznala ju. Tá istá hviezda, tie isté pomery — kresba, ktorú Soril preskočila v bielej Knihe pred mesiacmi, keď sa Yera opýtala a dostala len *„Niečo, na čo nie si pripravená."* Tu bola celá. Väčšia, detailnejšia, s koncentrickými kruhmi a alchemickými symbolmi, ale tá istá päťcípa konštrukcia. Nie modlitba. Nie symbol viery. Technický výkres. [NOTE: Prepojenie s Ch2 — Yera tu SPOZNÁVA glyf z bielej Knihy. Nie nový objav, ale potvrdenie toho, čo tušila — Soril jej ukazuje originál toho, čo predtým skrývala. Posun od „čo je to?" k „takže toto je to, čo si skrývala."]
 
 V rohu strany, drobne, v Staroreči: *architecture.*
 
-Jedno slovo. Elaniin rukopis. Yera ho prečítala a niečo sa v nej potichu prevrátilo — nie dramaticky, nie so zvukom, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život.
+Jedno slovo. Elaniin rukopis. A Yera pochopila — nie náhle, nie dramaticky, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život. Soril nepreskakovala strany z opatrnosti. Preskakovala ich, lebo v bielej Knihe bola modlitba. V origináli bol výkres.
 
-Fialové žilky v obale blikli — rýchlejšie na sekundu, dve — a vrátili sa k pôvodnému rytmu. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
+Obal blikol — rýchlejšie na sekundu, dve — a vrátil sa k pôvodnému rytmu. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
 
 ---
 
 Potom prišli deti.
 
-Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostmi, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmárance, nečitateľné, ako keby ich písali samotné deti a Elania len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/pentagramom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
+Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostmi, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmárance, nečitateľné, ako keby ich písali samotné deti a Elania len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/glyfom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
 
 Jedna sa opakovala. Na dvoch stranách, na troch, vždy trochu inak — väčšia, staršia, rastúca. Malá dievčinka s líščím chvostom. Oči veľké, úsmev na celú tvár. Meno napísané pod portrétom — rozmazané od vlhkosti, nečitateľné. [NOTE: jedna dievčinka sa opakuje — identita neznáma. Cirkev toto neprevzala do kópií — nechápala kontext. V origináli je strana kompletná.]
 
@@ -160,9 +160,13 @@ Jedna sa opakovala. Na dvoch stranách, na troch, vždy trochu inak — väčši
 
 *„Nevieme,"* povedala Soril. *„Ona vedela."*
 
-Ticho. Sviečka zapraskala. Fialové žilky v obale pulzovali pomalšie, takmer v rytme dychu — a Yera hľadela na tú rozmazanú tvár s líščím chvostom a myslela: *toto bol niekto živý. Niekto, koho El milovala. Nie teológia. Nie symbol. Dieťa.* [NOTE: Yera sa tu prvýkrát dotkne jadra — El nebola bohyňa. Bola žena, ktorá kreslila deti a poznala ich mená.]
+Ticho. Sviečka zapraskala. Yera hľadela na tú rozmazanú tvár s líščím chvostom a myslela: *toto bol niekto živý. Niekto, koho El milovala. Nie teológia. Nie symbol. Dieťa.* [NOTE: Yera sa tu prvýkrát dotkne jadra — El nebola bohyňa. Bola žena, ktorá kreslila deti a poznala ich mená.]
 
 Soril nekomentovala. Otočila stranu.
+
+Yera sa narovnala na stoličke. Chrbtica bolela — sedela nahnutá nad pergamenmi dlhšie, než si uvedomovala. Vzduch v miestnosti bol ťažký, voňal voskom a niečím starším — suchým pergamenom, prachom, stáročiami. Ozvala sa — niekde hore, za dverami, za schodmi — tlmená polnočná zvonica chrámu. Dvanásť úderov. Každý sa stratil v kameni, než dorazil dole.
+
+Soril sa nepohla. Čakala, kým dozvoní. [NOTE: Senzorický break — čitateľ aj Yera sa nadýchnu. Dvanásť úderov = polnoc. Orientácia v čase. Všetko predtým bolo veda, toto je telo — bolesť v chrbte, ťažký vzduch. Po tomto príde breakdown.]
 
 ---
 
@@ -214,7 +218,7 @@ Legenda. Každé dieťa v Nyau ju poznalo — Samaell, démon, pokušiteľ. Chce
 
 A Yera ju teraz čítala inak — na ten unavený portrét, na to jediné slovo pod ním, a myslela si: *on ju ešte stále hľadá.* Stáročia po nej. V lesoch, v tme, sám. Nie pokušiteľ. Nie kliatba. Niekto, kto príliš dlho hľadal niečo, čo mu nikdy nepatrilo — a hľadanie ho zmenilo viac než strata. [NOTE: Yera si z portrétu domyslí romantický príbeh — démon ako smútiaci milostník. Oficiálna verzia hovorí „pokušiteľ." Yera vidí „muž, ktorý miloval." Obe sú mylné. Pravda: Samaell chcel Inetis, nie Elaniu — Elania bola náhrada. 2000 rokov čakania bez Inetis ho rozložilo. Nie na démona — na troskovinu. Soril pozná len cirkevnú verziu + to, čo videla v lese. Yera si doplní romantický obraz a odnesie si ho.]
 
-Dlhé ticho. Sviečka zapraskala. Fialové žilky v obale sa pomaly strácali a objavovali, strácali a objavovali. [NOTE: ticho = Soril sa rozhoduje, či to povie. Toto nie je informácia, ktorú dáva všetkým. Dáva ju Yere — lebo Yera je jej vybraná nástupkyňa. A lebo park.]
+Dlhé ticho. Sviečka zapraskala. Vosk stekal po okraji — pomaly, neodvratne. [NOTE: ticho = Soril sa rozhoduje, či to povie. Toto nie je informácia, ktorú dáva všetkým. Dáva ju Yere — lebo Yera je jej vybraná nástupkyňa. A lebo park.]
 
 ---
 
@@ -226,7 +230,7 @@ Dlhé ticho. Sviečka zapraskala. Fialové žilky v obale sa pomaly strácali a 
 
 Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri svieche, ktorá ovláda Kvintescenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
 
-Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela.]
+Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Strážkyňa, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred päťdesiatimi rokmi. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
 
 *„Najviac v živote, dieťa."*
 
@@ -300,7 +304,7 @@ Ale Soril bola hotová.
 
 Len si to neuvedomila.
 
-Ruky jej ležali na čiernych tabuľkách — suché ruky, silné, s prstami, ktoré vedeli robiť fialové pentagramy a vliecť dievčatá za ucho z parku. Ruky, ktoré nikdy neobjali toho krásneho chlapca druhýkrát po tom, čo si vybrala.
+Ruky jej ležali na čiernych tabuľkách — suché ruky, silné, s prstami, ktoré vedeli robiť fialové Glyfy a vliecť dievčatá za ucho z parku. Ruky, ktoré nikdy neobjali toho krásneho chlapca druhýkrát po tom, čo si vybrala.
 
 *„Ešte nenadišiel tvoj čas,"* povedala. Vrátil sa tvrdší tón. Strážkyňa. *„Ale príde. A keď príde — budeš vedieť, čo si vybrať."*
 
@@ -308,7 +312,7 @@ Ruky jej ležali na čiernych tabuľkách — suché ruky, silné, s prstami, kt
 
 Soril vstala. Kapitola uzavretá.
 
-*„Sadni si bližšie,"* povedala. *„Ešte máme veľa strán."* [NOTE: Soril neodpovie. Odpoveď je celý jej život — chrám, kľúč na krku, fialový pentagram, päťdesiat rokov ticha. Yera to vie. Soril to vie. Nikto to nepovie nahlas.]
+*„Sadni si bližšie,"* povedala. *„Ešte máme veľa strán."* [NOTE: Soril neodpovie. Odpoveď je celý jej život — chrám, kľúč na krku, fialový Glyf, päťdesiat rokov ticha. Yera to vie. Soril to vie. Nikto to nepovie nahlas.]
 
 ---
 
@@ -348,5 +352,5 @@ Yera rozumela. Len nie to, čo Soril chcela.
 [→ Kapitola vychádza z characters/Soril.md, characters/Yera.md, the-book-of-El.md, regions/nyau.md]
 [→ Samaell: 04-prehistory-players.md, 01-timeline.md AY 3001]
 [→ Spáč: concepts/maks-awakening-concept.md, characters/Maks.md]
-[→ Kvintesencia: 03-technology.md pentagram system]
+[→ Kvintesencia: 03-technology.md glyf system]
 [→ Inline komentárový štýl: skills/null-void-writer — povinná prax]

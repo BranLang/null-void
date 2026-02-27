@@ -231,7 +231,7 @@ Kto nájde Jaskyňu Ela, nájde odpoveď na otázku, **prečo tu všetko rastie*
 - Bežní ľudia (Mezra, Ghorki) nemajú prístup k vzdelaniu v Staroreči — čítanie starých textov je privilégium Pursangov a Cirkvi El.
 
 ### Spira písmo — Hiragana (strážené)
-- **Hiragana je výhradne pre Spiru** — IDE, skripty, zaklínadlá, pentagramy, makrá.
+- **Hiragana je výhradne pre Spiru** — IDE, skripty, zaklínadlá, glyfy, makrá.
 - Pursangovia si Hiraganu strážia **oveľa prísnejšie než v Nevriss**. V Nevriss je Hiragana relatívne rozšírená (nápisy na chrámoch, obchodné značky). V Nyau je **svätá a tajná**.
 - Prístup k Hiragane = prístup k Spire. Kto ju pozná, pozná jazyk Matky. Cirkev El a Pursang klany kontrolujú, kto sa ju smie učiť.
 - **Dôsledok:** Spira v Nyau je elitárskejšia — menší počet praktikantov, ale vyššia kvalita. Pursangovia z Nyau sú známi ako jedni z najsilnejších Spiristov na Terre.
@@ -356,13 +356,13 @@ Mapa pobrežia (ručne kreslená, nepresná). Text o hľadaní jaskyne (*„Vid�
 Prechod do prózy — kresby ustupujú, začína sa denník. Kresby rastlín (vedkyniny, precízne) — ako pomocou prachu rozširovala podhubie, modifikovala koreňové systémy. Prvé kresby stretov s Varietas. Nákresy dediny. Popis života medzi osadníkmi. **Kawaii kresby malých detí** — veľké oči, prehnané proporcie. **Najpozitívnejšia časť knihy** — El akoby na chvíľu našla svetlo a pokoj. Jedno dieťa sa objavuje opakovane (meno nečitateľné — atrament rozmazaný).
 
 **Fáza 3 — Spira a Matka (~rok 3–8):**
-Technické poznámky o Spire — Gen 2 IDE, pentagramy, skripty. Vzťah s matkou — spomienky, ako spolu navrhovali Gen 2. **Haiku. Veľa haiku** — o matke, svetle, samote. Tieto pasáže kňažky ponechali v kópiách (boli dostatočne krásne na modlitby). Legendy o Zemi — Kyoto, obloha bez prstenca, more čo nesvieti, ľudia bez chvosta. Pre kňažky: mytológia o Raji. Pre Elaniu: spomienky na matku.
+Technické poznámky o Spire — Gen 2 IDE, glyfy, skripty. Vzťah s matkou — spomienky, ako spolu navrhovali Gen 2. **Haiku. Veľa haiku** — o matke, svetle, samote. Tieto pasáže kňažky ponechali v kópiách (boli dostatočne krásne na modlitby). Legendy o Zemi — Kyoto, obloha bez prstenca, more čo nesvieti, ľudia bez chvosta. Pre kňažky: mytológia o Raji. Pre Elaniu: spomienky na matku.
 
 **Fáza 4 — Zlom (~rok 8–10):**
 *„Niekde spí otec."* Elania si spomenie na muža v ľade — generál zo Zeme, ktorého nikdy nepoznala. **Trigger.** Frustrácia sa vracia. Začína experimentovať s drogami — najprv analyticky (*„účinky po 30 minútach"*), potom sa zápisky rozpadajú. [→ characters/Maks.md: kryostáza, Jaskyňa Ela]
 
 **Fáza 5 — Rozpad (~rok 10–13):**
-PTSD kresby — chaotické, temné, desivé. Zdeformované pentagramy. Wraithy. Tiene z prachu. Kozmický horror. Stránky pokryté čiernym prachom (strata kontroly nad nanobotmi). **Preklínanie Matky** — *„Nenávidím ťa. Prečo si ma nechala?"* — výkriky cez celé stránky. **Portrét Samaella** — nie démon. Muž. Ľudská tvár, unavená. Pod portrétom žiadne meno, len: *„on"*. Noci s ním. Samota, ktorú zdieľali. A potom — kniha končí. Posledné stránky takmer prázdne. Sera prišla. Denník zostal.
+PTSD kresby — chaotické, temné, desivé. Zdeformované glyfy. Wraithy. Tiene z prachu. Kozmický horror. Stránky pokryté čiernym prachom (strata kontroly nad nanobotmi). **Preklínanie Matky** — *„Nenávidím ťa. Prečo si ma nechala?"* — výkriky cez celé stránky. **Portrét Samaella** — nie démon. Muž. Ľudská tvár, unavená. Pod portrétom žiadne meno, len: *„on"*. Noci s ním. Samota, ktorú zdieľali. A potom — kniha končí. Posledné stránky takmer prázdne. Sera prišla. Denník zostal.
 
 > **Pre Strážkyňu:** V Knihe El je aj **popis toho, ako Samaell útočí** — Elania ho pozorovala s presnosťou vedkyne. Tieňové vlákna, nanoboty hľadajúce slabiny, pohyb po štyroch. **El sa mu podvolila** — aj keď mala Gen 1.7 (lepšiu verziu než Samaellova 1.0), Samaell vedel doslova čarovať s prachom. Nikto sa mu nerovnal. Ak dcéra Inetis nedokázala odolať, aká šanca má kňažka? Preto je tréning Strážkyne tak intenzívny — nie o víťazstve, ale o **čase**. Zdržať Démona dosť dlho na to, aby kniha bola v bezpečí. [→ characters/Soril.md: Tréning]
 

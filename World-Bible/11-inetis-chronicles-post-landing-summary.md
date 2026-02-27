@@ -8,7 +8,7 @@ Tento dokument je konsolidovaným prehľadom kľúčových udalostí, postáv a 
 Svet NULL VOID stojí na **Clarkeovom zákone**, kde sa technologická minulosť (éra Hráčov) stretáva so stredovekou súčasnosťou (éra Varietas).
 *   **Žánrový mix:** Sci-Fi / Techno-Fantasy / Post-Apo.
 *   **Hlavný motív:** Vina otca a následky rozhodnutí predkov (Elania ako "chyba v kóde" rodičov).
-*   **Symbolika:** Pentagram ako UI (používateľské rozhranie) pre realitu, ktorý dáva Spire v príbehu logický hard-sci-fi základ.
+*   **Symbolika:** Glyf ako UI (používateľské rozhranie) pre realitu, ktorý dáva Spire v príbehu logický hard-sci-fi základ.
 
 ---
 
@@ -27,13 +27,13 @@ Po Maksom prebudení (~AY 3000) sa kryobox rozpadol na prach — Anténa ostala 
 
 ### ~3 roky v jaskyni (Prvá fáza)
 *   **Boj o prežitie a hydroponika:** Inetis skoro zomrela od hladu. Pomocou nanodronov z rozloženej lode vybudovala hydroponickú farmu a rastliny, čím vytvorila útulný domov uprostred nehostinného sveta. Ako genetický základ použila rastliny z lode.
-*   **Genetické experimenty (Seedovanie):** Inetis v laboratóriu Ely geneticky upravovala rastliny a faunu — vytvárala organizmy optimalizované pre drsné podmienky Achilles. Bola to primárne **softvérová inžinierka** (Pentagram IDE, nanodronový kód, systémová architektúra), nie genetička — tieto experimenty boli vedľajší produkt prežitia, nie cielený terraforming. Ale fungovali. Experimenty neskôr vzala so sebou do Elysia ako základ. Čo zasadila okolo jaskyne, to tam zostalo — a po jej odchode sa rozšírilo po okolitej krajine ako oheň. Po ~1000 rokoch sa celý región (budúce Nyau) premenil na najúrodnejšiu oblasť kontinentu. **Elania** neskôr zdedila a rozvinula matkin biologický talent — kým Inetis len seedovala okolie jaskyne, Elania vytvorila celé ekosystémy ("Jurassic Park" na Simire). Lepšia genetička než matka, pretože to bola jej špecializácia.
+*   **Genetické experimenty (Seedovanie):** Inetis v laboratóriu Ely geneticky upravovala rastliny a faunu — vytvárala organizmy optimalizované pre drsné podmienky Achilles. Bola to primárne **softvérová inžinierka** (Glyf IDE, nanodronový kód, systémová architektúra), nie genetička — tieto experimenty boli vedľajší produkt prežitia, nie cielený terraforming. Ale fungovali. Experimenty neskôr vzala so sebou do Elysia ako základ. Čo zasadila okolo jaskyne, to tam zostalo — a po jej odchode sa rozšírilo po okolitej krajine ako oheň. Po ~1000 rokoch sa celý región (budúce Nyau) premenil na najúrodnejšiu oblasť kontinentu. **Elania** neskôr zdedila a rozvinula matkin biologický talent — kým Inetis len seedovala okolie jaskyne, Elania vytvorila celé ekosystémy ("Jurassic Park" na Simire). Lepšia genetička než matka, pretože to bola jej špecializácia.
 *   **Seedovanie planéty:** Počas hľadania vhodného miesta na Elysium s Elaniou na Null Voide seedovali aj ďalšie časti planéty — nie celú, len ~3 kontinenty (Terra, Neuropa, Simira). Možno viac — ktovie.
 *   **Normálne detstvo:** Elania sa narodila a vyrastala ako normálne dieťa. Boli to pokojné roky — matka a dcéra samy v jaskyni, učenie sa, kresby na stenách, prvé slová.
-*   **Jaskyňa Null-Void:** Tento priestor sa stal "Hrobkou technológie" a najväčšou učebňou v histórii. Steny sú pokryté vedeckými terminálmi vedľa detských kresieb a haiku a architektonických nápadov na mesto Elysium, kresby zvierat a rastlín, ktoré už neexistujú. V jaskyni je stále vidieť stopy po nanodronoch, ktoré vyhĺbili jaskyňu a vytvorili hydroponickú farmu. Na stene sú aj pentagramy, ktoré si Inetis kreslila pri vymýšľaní Pentagram IDE a jej variantov.
+*   **Jaskyňa Null-Void:** Tento priestor sa stal "Hrobkou technológie" a najväčšou učebňou v histórii. Steny sú pokryté vedeckými terminálmi vedľa detských kresieb a haiku a architektonických nápadov na mesto Elysium, kresby zvierat a rastlín, ktoré už neexistujú. V jaskyni je stále vidieť stopy po nanodronoch, ktoré vyhĺbili jaskyňu a vytvorili hydroponickú farmu. Na stene sú aj glyfy, ktoré si Inetis kreslila pri vymýšľaní Glyf IDE a jej variantov.
 
 *   **Prvé varovanie — Degradácia nanobotov:** Počas stavby jaskynného komplexu Inetis zaznamenala prvé anomálie v správaní nanobotov — drobné degradácie, nepresné rekonfigurácie, nestabilné zostavy. Pre ňu to bolo **prvé varovanie**, že nanodronový systém nie je dlhodobo stabilný. Matematicky vypočítala, že celý systém v1.0/v1.5 nanodronov by mohol v budúcnosti skolabovať — zárodok toho, čo sa neskôr stane Glitch Rotom.
-*   **Pentagram ako nové IDE:** Toto poznanie motivovalo Inetis vytvoriť **Pentagram Cycle** — nové zjednodušené užívateľské rozhranie (IDE) pre ovládanie nanodronov. Čiastočne pedagogická pomôcka pre Eleniu, čiastočne základ budúceho stabilnejšieho systému (v2.0 / Spira). Naučila Eleniu ovládať nanity cez 5 základných parametrov (hmota, energia, čas, priestor a vedomie).
+*   **Glyf ako nové IDE:** Toto poznanie motivovalo Inetis vytvoriť **Glyf Cycle** — nové zjednodušené užívateľské rozhranie (IDE) pre ovládanie nanodronov. Čiastočne pedagogická pomôcka pre Eleniu, čiastočne základ budúceho stabilnejšieho systému (v2.0 / Spira). Naučila Eleniu ovládať nanity cez 5 základných parametrov (hmota, energia, čas, priestor a vedomie).
 
 ### Cesta na Elysium (Po ~3 rokoch)
 *   **Opätovná rekonfigurácia:** Inetis prekonfigurovala nanodrony naspäť na loď NULL VOID.
@@ -92,7 +92,7 @@ Maks a Tami smerujú na juh do domény "múdrej vládkyne" **Zayi**. Maks je pre
 
 ---
 
-## 7. Pentalógia (Pentagram Cycle)
+## 7. Pentalógia (Glyf Cycle)
 1.  **Zem | hmota (Prach Nevriss):** Prebudenie a realita prachu.
 2.  **Oheň | energia (Plamene Impéria):** Minulosť na Zemi, trauma a stret s falošným Grondom na severe. 
 3.  **Voda | čas (Slzy Matky):** POV Inetis, Ilúzie v kráľovstve Zayi, hlboké pravdy a návrat do Ynetis.

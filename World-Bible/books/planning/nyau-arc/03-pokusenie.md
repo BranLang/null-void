@@ -73,7 +73,7 @@ Zároveň Yera stále chodí za Arkotom do záhrady.
 ### Scéna 5: Dešifrovanie *(Obsesia rastie)*
 
 - Podzemie. Yera trávi viac času s Knihou. Menej s Arkotom? Nie — rovnako. Ale spí menej. Tmavé kruhy pod očami. Soril si to všimne pri tréningu — „Spíš dosť?" — „Dosť."
-- Yera si kreslí symboly z Knihy do zápisníka. Porovnáva ich s pentagramovým systémom, s hiragana, so Staroreč. Niektoré sa začínajú otvárať — nie ako slová, ale ako vzorce. Vzory. Niečo opakujúce sa.
+- Yera si kreslí symboly z Knihy do zápisníka. Porovnáva ich s glyfovým systémom, s hiragana, so Staroreč. Niektoré sa začínajú otvárať — nie ako slová, ale ako vzorce. Vzory. Niečo opakujúce sa.
 - **Obraz:** Elaniin kód nie je jazyk — je to notácia. Vedecká notácia pre niečo, čo Yera nemá ako pomenovať, lebo jej svet nemá pre to slová. (Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie — ale Yera vidí len „šifry".)
 - Yera cíti, že je blízko niečomu. Netuší čomu — ale ten pocit je návykový. Rovnako návykový ako Arkotovo teplo.
 - **Beat:** Dva závislosti. Arkot = emocionálna droga. Kniha = intelektuálna droga. Obe produkujú rovnaký pocit: „toto je moje."

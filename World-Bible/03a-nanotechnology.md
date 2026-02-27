@@ -14,7 +14,7 @@
 6. [Wraithy (Autonómne Nanobotové Roje)](#wraithy-autonómne-nanobotové-roje)
 7. [Vampirizmus a údržba Gen 1](#vampirizmus-a-údržba-gen-1)
 8. [Dar Matky (Gen 2 — Spira)](#dar-matky-gen-2--spira)
-9. [Pentagram IDE](#pentagram-ide)
+9. [Glyf IDE](#glyf-ide)
 10. [Spira kasty](#spira-kasty)
 11. [Inetisina Unikátna Esencia](#inetisina-unikátna-esencia)
 12. [Kľúčové artefakty a mechanizmy](#kľúčové-artefakty-a-mechanizmy)
@@ -159,7 +159,7 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete. Existujú š
   - Stabilná, elegantná, organická technológia
   - **Samoreprodukcia** — dedičné, prenášajú sa na potomkov
   - **Ukladanie dát/energie** do Spira kryštálov (čo v1.x nedokáže)
-  - Kompatibilné s Pentagram rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
+  - Kompatibilné s Glyf rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
   - **Nespôsobujú Glitch Rot**
 - **Nekompatibilné** s Chimérami (Ghorki — modifikované zvieratá so zvieracím základom genómu)
 - **Operačný systém:** Haiku-based (zamaskovaný Inetis)
@@ -190,11 +190,11 @@ Všetky Gen 1 nanoboty zdieľajú rovnaký vizuál:
 
 **Špecifický prípad — Maksove oči:** Čierny Prach v očných jamkách, prachové uzly poprepletané ako hniezdo hadov, neustále sa hýbu a preplietajú, pri aktivite jemne fialovo svetielkujú.
 
-### Gen 2 (v2.0) — Spira / Pentagram
+### Gen 2 (v2.0) — Spira / Glyf
 
 | Stav | Vzhľad |
 |------|--------|
-| **Aktivácia** | Svietiaci pentagramový kruh na dlaniach / zemi / zbrani / tele |
+| **Aktivácia** | Svietiaci glyfový kruh na dlaniach / zemi / zbrani / tele |
 | **Viditeľnosť** | Externý a vizuálny — **viditeľný pre všetkých** (na rozdiel od Gen 1 HUD) |
 | **Elementy** | Päť svietiacich bodov: Matéria, Energia, Čas, Priestor, Vedomie |
 
@@ -215,7 +215,7 @@ Gen 1 a Gen 2 používajú fundamentálne odlišné príkazové jazyky. Tento ro
 | **Vnímanie druhou stranou** | Pre Varietas = desivá mimozemská inkantácia | Pre Maksa = poetická modlitba primitívov |
 | **Prečo tento jazyk** | Vojenský štandard Zeme (21. storočie) | Inetis zamaskovala kód do Haiku, aby ho Archbési nedokázali rozlúštiť |
 | **Učenie** | Manuály, technické školenie | Modlitby, rukopisy, kamenné nápisy |
-| **Rozhranie** | Interný HUD (vidí len majiteľ) | Externý Pentagram (viditeľný pre všetkých) |
+| **Rozhranie** | Interný HUD (vidí len majiteľ) | Externý Glyf (viditeľný pre všetkých) |
 
 ### Prečo Haiku?
 
@@ -364,7 +364,7 @@ Kvalita nanobotov závisí od Spira kasty obete:
 |-----------|--------|
 | **Dedičnosť** | Prenášajú sa na potomkov — nevyžadujú ceremóniu pre každú generáciu |
 | **Kryštály** | Schopnosť ukladať dáta a energiu do Spira kryštálov |
-| **Pentagram** | Kompatibilné s Pentagram IDE (5 elementov) |
+| **Glyf** | Kompatibilné s Glyf IDE (5 elementov) |
 | **Stabilita** | Nespôsobujú Glitch Rot |
 | **Nezávislosť** | Stratiť Spiru bolí, ale **nezničí to kto si** (na rozdiel od Gen 1) |
 | **Bez vampirizmu** | Žiadna závislosť na externom zdroji nanobotov |
@@ -382,9 +382,9 @@ Po prevzatí dronov Inetis (Echo v jaskyni) Tami získava prístup k architektú
 
 ---
 
-## Pentagram IDE
+## Glyf IDE
 
-Externé rozhranie Gen 2 nanotechnológie — na rozdiel od Gen 1 interného HUD, Pentagram je viditeľný pre všetkých.
+Externé rozhranie Gen 2 nanotechnológie — na rozdiel od Gen 1 interného HUD, Glyf je viditeľný pre všetkých.
 
 ### Päť elementov
 
@@ -398,7 +398,7 @@ Externé rozhranie Gen 2 nanotechnológie — na rozdiel od Gen 1 interného HUD
 
 ### Ako funguje
 
-- Varietas "programujú" cez kombinácie elementov v Pentagram kruhu
+- Varietas "programujú" cez kombinácie elementov v Glyf kruhu
 - Rôzne kombinácie = rôzne efekty ("kúzla")
 - Cirkev to vníma ako **sväté znamenie**
 - Maks to vníma ako **debug overlay**
@@ -408,7 +408,7 @@ Externé rozhranie Gen 2 nanotechnológie — na rozdiel od Gen 1 interného HUD
 | Aspekt | **Gen 1 (Kliatba)** | **Gen 2 (Sloboda)** |
 |--------|---------------------|---------------------|
 | **Vzťah k identite** | Rozšírenie vedomia — súčasť teba | Nástroj — externý, oddeliteľný |
-| **Rozhranie** | Interný HUD (vidí len majiteľ), priamy vstup do vizuálneho kortexu | Externý Pentagram (viditeľný pre všetkých) |
+| **Rozhranie** | Interný HUD (vidí len majiteľ), priamy vstup do vizuálneho kortexu | Externý Glyf (viditeľný pre všetkých) |
 | **AI asistent** | Komunikuje myšlienkami; po 3000 rokoch hranica Maks/Asistent nejasná | Žiadny AI asistent — čistý nástroj |
 | **Spomienky** | Nanoboty uchovávajú spomienky (cloud pamäte) | Nezasahuje do vnútornej identity |
 | **Strata** | Stratiť ich = stratiť seba (doslova) | Stratiť Spiru bolí, ale nezničí to kto si |
@@ -532,7 +532,7 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 
 ### Rituálne obrazce
 
-- Kreslenie pentagramov **vodivou pastou**
+- Kreslenie glyfov **vodivou pastou**
 - V skutočnosti: uzatváranie elektrických obvodov
 - Aktivácia starých postupov údržby nanobotov
 

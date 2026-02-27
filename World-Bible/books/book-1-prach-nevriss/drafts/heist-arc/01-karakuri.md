@@ -214,7 +214,7 @@ Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť 
 
 *Rovné*, pomyslela si Tami s trpkosťou, keď videla Ghorki ženu s mačacími ušami vliecť vrece ťažšie než ona sama, kým vedľa nej biodieslový žeriav robil to isté bez námahy. *Rovné, ale niektoré sú rovnejšie.*
 
-Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matky, propaganda] Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi pentagramami [→ 03-technology.md: pentagram = IDE interface pre Spiru] — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBEŤ! JEJ DAR JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!“*
+Na každom treťom stĺpe visel čerstvý plagát. [→ 06-society.md: Kult Matky, propaganda] Tami sa pri jednom zastavila. Drsný drevoryt — postava v brnení s mečom, obklopená žiariacimi glyfami [→ 03-technology.md: glyf = IDE interface pre Spiru] — a pod ním text v miestnom písme: *„MATKA VIDÍ TVOJU OBEŤ! JEJ DAR JE TVOJA ZBRAŇ! BRÁŇ SVÄTÚ ZEM! ZLATO PRE ŽIVÝCH, ČESŤ PRE MŔTVYCH!“*
 
 Verbovací plagát. Mesto platilo za meče. A ešte viac za meče v rukách niekoho s Darom.
 

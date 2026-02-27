@@ -49,13 +49,13 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 
 **Čo Gen 2 robí:**
 - Dáva Varietas kvalitnejší život — silu, schopnosti, spojenie so Spirou
-- **Pentagram IDE** — externé rozhranie, nie súčasť vedomia
+- **Glyf IDE** — externé rozhranie, nie súčasť vedomia
 - Nezasahuje do vnútornej identity — je to nástroj, nie rozšírenie mysle
 - **Bez kliatby večnosti** — Gen 2 nedáva dlhovekosť, len lepší život
 
 **Prečo je to lepšie:**
 - Máš nástroj, ktorý ti pomáha žiť lepšie
-- Pentagram IDE je rozhranie, nie vedomie
+- Glyf IDE je rozhranie, nie vedomie
 - Stratiť Spiru bolí, ale **nezničí to kto si**
 - Nepostihuje Bit Rot — Spira je stabilná
 - Žiadna závislosť na vampirizme
@@ -71,7 +71,7 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 
 | | **Gen 1** | **Gen 2 (Spira)** |
 |---|---|---|
-| **Vzťah k majiteľovi** | **Rozšírenie vedomia** — súčasť identity, mysle, spomienok | **Nástroj** — Pentagram IDE, externé rozhranie |
+| **Vzťah k majiteľovi** | **Rozšírenie vedomia** — súčasť identity, mysle, spomienok | **Nástroj** — Glyf IDE, externé rozhranie |
 | **Dopad na život** | Brutálny zásah — dlhovekosť, vedomie, pamäť, zdravie | Kvalitnejší život, ale bez kliatby večnosti |
 | **Strata** | Strata identity — spomienky, IQ, HUD, AI asistent | Strata nástroja — bolestivé, ale nie existenčné |
 | **Bit Rot / Glitch Rot** | **Hniloba vedomia** — degradácia mysle, osobnosti, dlhovekosti | Nepostihuje Gen 2 — Spira je stabilná |
@@ -91,7 +91,7 @@ Gen 1 nanoboty splynuli s majiteľom. Stali sa súčasťou vedomia, pamäte, ide
 
 ---
 
-## Vizuálne rozhranie — Gen 1 HUD vs Gen 2 Pentagram
+## Vizuálne rozhranie — Gen 1 HUD vs Gen 2 Glyf
 
 ### Gen 1: Interný HUD
 
@@ -103,24 +103,24 @@ Asistent (AI) komunikuje rovnako — nie textom, nie hlasom. Myšlienkami, ktor�
 
 **Pravidlo pre prózu:** Maks nikdy nehovorí v scan reportoch. Informácie z HUD prekladá do vlastných slov, vlastných myšlienok. Čitateľ vidí výsledok, nie rozhranie.
 
-### Gen 2: Pentagramový kruh (IDE)
+### Gen 2: Glyfový kruh (IDE)
 
-Gen 2 Pentagram je **externý a vizuálny** — viditeľný pre všetkých. Keď Varietas aktivuje Spiru, na dlaniach (alebo na zemi, na zbrani, na tele) sa objaví svietiaci pentagramový kruh — päť elementov (Matéria, Energia, Čas, Priestor, Vedomie) usporiadaných do geometrického vzoru.
+Gen 2 Glyf je **externý a vizuálny** — viditeľný pre všetkých. Keď Varietas aktivuje Spiru, na dlaniach (alebo na zemi, na zbrani, na tele) sa objaví svietiaci glyfový kruh — päť elementov (Matéria, Energia, Čas, Priestor, Vedomie) usporiadaných do geometrického vzoru.
 
-**Čo to je naozaj:** Vývojové prostredie. IDE. Varietas „programujú" Spiru cez kombinácie elementov — ale nevedia to. Pre nich je to modlitba, rituál, svätý obrad. Pohyby rúk, slová, sústredenie — to všetko sú len *inputy* do kompilátora. Pentagram je vizuálny feedback — ukazuje, čo sa kompiluje, aký je stav procesu.
+**Čo to je naozaj:** Vývojové prostredie. IDE. Varietas „programujú" Spiru cez kombinácie elementov — ale nevedia to. Pre nich je to modlitba, rituál, svätý obrad. Pohyby rúk, slová, sústredenie — to všetko sú len *inputy* do kompilátora. Glyf je vizuálny feedback — ukazuje, čo sa kompiluje, aký je stav procesu.
 
 **Cirkev to interpretuje ako:** Sväté znamenie. Dôkaz požehnania Matky. Vizuálny znak milosti.
 
 **Maks to vidí ako:** Debug overlay. Vizuálne rozhranie nanobotového systému. Ako keby sa niekto díval na terminál a myslel si, že číta modlitby.
 
-**Kľúčový rozdiel:** Gen 1 HUD je v hlave, súkromný, neviditeľný. Gen 2 Pentagram je vonku, verejný, viditeľný. Gen 1 je rozšírenie vedomia. Gen 2 je nástroj v ruke.
+**Kľúčový rozdiel:** Gen 1 HUD je v hlave, súkromný, neviditeľný. Gen 2 Glyf je vonku, verejný, viditeľný. Gen 1 je rozšírenie vedomia. Gen 2 je nástroj v ruke.
 
 ---
 
 ## Otázky na rozpracovanie
 
 - [ ] Vedela Inetis pri tvorbe Gen 2 konkrétne o Elaniiných problémoch? Alebo to bola všeobecná vízia?
-- [x] ~~Ako presne funguje Pentagram IDE? Je to vizuálne rozhranie? Hlasové?~~ → Vizuálne + haptické. Pentagramový kruh na dlaniach. Viď sekciu vyššie.
+- [x] ~~Ako presne funguje Glyf IDE? Je to vizuálne rozhranie? Hlasové?~~ → Vizuálne + haptické. Glyfový kruh na dlaniach. Viď sekciu vyššie.
 - [ ] Čo sa stane, keď Varietas stratí Spiru? Aké sú dôsledky?
 - [ ] Existujú ľudia, čo odmietajú Gen 2 / Spiru? Prečo?
 - [ ] Ako vníma Sera rozdiel medzi Gen 1 a Gen 2? Závidí Varietas ich slobodu?

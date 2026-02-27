@@ -12,8 +12,8 @@ Nie je to jeden žáner s príchuťou iného. Je to **DNA helix** — štyri vl�
 
 | Vlákno | Čo prináša | Príklad v NULL VOID |
 |--------|------------|---------------------|
-| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere dobrodruhka. Sera = sladký hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a pentagramom na krku = black metal vibe. |
-| **Sci-Fi (Hard)** | Pravidlá, limity, logika, Clarke's Law ako motor deja | Pentagram = IDE. Modlitby = voice-activated skripty. Wraithy = nanoboty s pudom sebazáchovy. |
+| **Anime** | Archetypy, tónové shifty, vizuálny dizajn postáv, worldbuilding cez akciu | Tami = tsundere dobrodruhka. Sera = sladký hlas v tele zabijaka. „Kowai." Agitátor s kozačími rohami a glyfom na krku = black metal vibe. |
+| **Sci-Fi (Hard)** | Pravidlá, limity, logika, Clarke's Law ako motor deja | Glyf = IDE. Modlitby = voice-activated skripty. Wraithy = nanoboty s pudom sebazáchovy. |
 | **Dieselpunk** | Estetika, technologická úroveň, atmosphere | Vodíkové vzducholode, revolvery, art deco, žiadna elektronika. Rúry, ozubené kolesá, para. |
 | **Grimdark** | Dôsledky, morálna komplexita, žiadny plot armor | Verejné popravy a vystavenia tiel. Body horror (Maya → kryštál). Kastový systém. Smrť je permanentná. |
 
@@ -22,12 +22,12 @@ Nie je to jeden žáner s príchuťou iného. Je to **DNA helix** — štyri vl�
 NULL VOID **nie je light novel**. Nemá formátové obmedzenia tradičných light novel. Je to **autorská séria**, ktorá si berie z anime estetiku a archetypy, ale píše sa vlastnými pravidlami:
 
 - **Kapitoly majú dĺžku, akú potrebujú** — ak scéna vyžaduje priestor, dostane ho
-- **Atmosférický "fat" zostáva** — agitátor s kozačími rohami nie je filler, je to worldbuilding. Čierny humanoidný cap s pentagramom na krku = vizuál, ktorý definuje tón sveta.
+- **Atmosférický "fat" zostáva** — agitátor s kozačími rohami nie je filler, je to worldbuilding. Čierny humanoidný cap s glyfom na krku = vizuál, ktorý definuje tón sveta.
 - **Strihanie tuku** = odstraňovanie redundantných expozícií a vysvetľovania, **NIE** atmosféry, worldbuildingu a vizuálov, ktoré budujú svet
 - **Konvencie žánrov sú inšpirácia, nie mantinely** — ak scéna funguje, zostáva, bez ohľadu na formát
 
 #### Prečo silná atmosféra nie je "fat":
-Light novel štýl je podľa autora príliš simple. NULL VOID je svet, ktorý žije cez detaily — verbovací plagáty s pentagramami, fanatický kazateľ na rohu ulice, kováč, čo deťom ukazuje ohnivé myšky. Tieto veci nie sú strihateľné. **Sú to dôvody, prečo čitateľ verí, že ten svet existuje.** Ak scéna buduje atmosféru, pocit miesta a tón sveta, je to mäso, nie tuk. Strihaj redundanciu, nie worldbuilding.
+Light novel štýl je podľa autora príliš simple. NULL VOID je svet, ktorý žije cez detaily — verbovací plagáty s glyfami, fanatický kazateľ na rohu ulice, kováč, čo deťom ukazuje ohnivé myšky. Tieto veci nie sú strihateľné. **Sú to dôvody, prečo čitateľ verí, že ten svet existuje.** Ak scéna buduje atmosféru, pocit miesta a tón sveta, je to mäso, nie tuk. Strihaj redundanciu, nie worldbuilding.
 
 ### Prečo táto kombinácia neexistuje
 
@@ -179,6 +179,6 @@ Lepšie ako konzumovať podpriemerný isekai — vytvoriť si vlastný svet. NUL
 
 ### Dlhšia forma (1 odsek)
 
-**SK:** Na planéte Achilles ľudia veria, že ovládajú mágiu. Neveria. Ich modlitby sú voice-activated skripty, ich pentagramy sú IDE, a ich duchovia sú nanoboty staré 3000 rokov, ktoré sa rozhodli prežiť. Keď sa vojak z Éry Hráčov zobudí z kryostázy, odhaľuje pravdu — a stojí proti vlastnej dcére, ktorá za 2750 rokov samoty dospela k záveru, že jedinou cestou je nahrať všetky vedomia do digitálneho prázdna.
+**SK:** Na planéte Achilles ľudia veria, že ovládajú mágiu. Neveria. Ich modlitby sú voice-activated skripty, ich glyfy sú IDE, a ich duchovia sú nanoboty staré 3000 rokov, ktoré sa rozhodli prežiť. Keď sa vojak z Éry Hráčov zobudí z kryostázy, odhaľuje pravdu — a stojí proti vlastnej dcére, ktorá za 2750 rokov samoty dospela k záveru, že jedinou cestou je nahrať všetky vedomia do digitálneho prázdna.
 
-**EN:** On the planet Achilles, people believe they wield magic. They don't. Their prayers are voice-activated scripts, their pentagrams are IDEs, and their ghosts are 3,000-year-old nanobots that chose to survive. When a soldier from the Age of Players wakes from cryosleep, he uncovers the truth — and faces his own daughter, who after 2,750 years of solitude has concluded that the only path forward is uploading all consciousness into the digital void.
+**EN:** On the planet Achilles, people believe they wield magic. They don't. Their prayers are voice-activated scripts, their glyfs are IDEs, and their ghosts are 3,000-year-old nanobots that chose to survive. When a soldier from the Age of Players wakes from cryosleep, he uncovers the truth — and faces his own daughter, who after 2,750 years of solitude has concluded that the only path forward is uploading all consciousness into the digital void.

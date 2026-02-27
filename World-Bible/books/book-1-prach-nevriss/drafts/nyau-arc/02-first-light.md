@@ -14,7 +14,7 @@ Strom v chrámovej záhrade prestal svietiť.
 
 Yera to zbadala ešte počas večernej modlitby — z miesta, kde kľačala v druhom rade za kňažkami, videla na okraj záhrady. Štvrtá vetva zdola, severná strana. Kôra, ktorá ešte ráno žiarila tyrkysovo, bola tmavá. Mŕtva. Akoby niekto v strome zhasol lampu. [→ regions/nyau.md: bioluminiscencia = vedľajší efekt Inetisiných GMO rastlín]
 
-Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo prelínalo cez svetielkujúce sklo a kládlo na dlaždice dvora zlato-zelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
+Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlato-zelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
 
 Yera kľačala, ruky zopnuté, oči zatvorené — tak ako sa patrilo — a myslela na strom.
 
@@ -42,7 +42,7 @@ Soril prikývla. Pozrela sa na strom — starý, mohutný, s koreňmi zapustený
 
 Yera kľakla medzi korene.
 
-Zem bola vlhká a teplá. Cítila ju cez tenké nohavice chrámového rúcha — hlinu, vlahu, teplo, ktoré v Nyau nikdy neodchádzalo, ani v noci, ani v tieni, nikdy. Priložila dlane ku kôre. Tetovanie na ľavom predlaktí sa rozsvietilo — akvamarínové línie, tenké ako vlasy, pulzujúce v rytme, ktorý nebol jej srdce, ale niečo pomalšie. Hlbšie. Rytmus stromu. [→ 03-technology.md: Gen 2 pentagram, tetovania na predlaktiach = makro shortcuty pre Spiru]
+Zem bola vlhká a teplá. Cítila ju cez tenké nohavice chrámového rúcha — hlinu, vlahu, teplo, ktoré v Nyau nikdy neodchádzalo, ani v noci, ani v tieni, nikdy. Priložila dlane ku kôre. Tetovanie na ľavom predlaktí sa rozsvietilo — akvamarínové línie, tenké ako vlasy, pulzujúce v rytme, ktorý nebol jej srdce, ale niečo pomalšie. Hlbšie. Rytmus stromu. [→ 03-technology.md: Gen 2 glyf, tetovania na predlaktiach = makro shortcuty pre Spiru]
 
 Voda. Cítila ju všade — v koreňoch, v kambiu, v lyku, v tisíckach vlákien, ktorými strom dýchal. Sledovala ju od spodku nahor, pomaly, kvapku po kvapke. Hľadala.
 
@@ -76,7 +76,7 @@ A predsa — zakaždým, keď ju videla, mala pocit, že niečo v tých slovách
 
 Poďakovala sa kňažke úklonom hlavy a otočila sa k odchodu.
 
-Na schodoch chrámu sa zastavila. Pod ňou ležalo mesto — kanály, mosty, bazár, klanové vily, prístav v diaľke. Všetko svietilo. Všetko bolo krásne. Všetko bolo na svojom mieste.
+Na schodoch chrámu sa zastavila. Pod ňou ležalo mesto — kanály, mosty, bazár, klanové vily, prístav v diaľke. Všetko na svojom mieste.
 
 Vrátane nej.
 
@@ -90,7 +90,7 @@ Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. 
 
 Yera prešla okolo neho. Chlapec zdvihol oči — zaregistroval chrámové rúcho, Pursang držanie tela, strážkyne — a rýchlo sklopil zrak. Tak fungovalo Nyau. Kasty sa nestretávali. Kasty sa míňali. [→ regions/nyau.md: kastový systém, Pursang + Mezra = absolútne neprípustné]
 
-Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Svetlušky — desiatky, stovky, vznášajúce sa medzi kmeňmi v pomalých oblúkoch, modré a tyrkysové a zelené, a niektoré žlté, a jedna veľká fialová, čo sa vzniesla nad koruny a zmizla. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk. Ticho medzi nimi, prerušované len šuchom koreňov a jej vlastnými krokmi na štrkové ceste.
+Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk.
 
 A pamätná tabuľa na konci aleje.
 
@@ -198,7 +198,7 @@ Vyšla na balkón.
 
 Bosé nohy na teplom kameni. Nočný vzduch na koži — horúci, vlhký, nasiaknutý vôňou nočných kvetov, ktoré sa otvorili pred hodinou a teraz pulzovali mäkkým svetlom v záhradách pod ňou. Ružové. Fialové. Biele. V tme vyzerali ako rozhodené hviezdy, spadnuté z oblohy a zachytené v listoch. [→ regions/nyau.md: nočné kvety, otvárajú sa po západe slnka, mäkké svetlo]
 
-Pod ňou ležalo mesto. Kanály — tyrkysové žily, tekuté striebro, gondoly ako tmavé chrobáky na svetlej vode. Bazár — tmavý teraz, zatvorený, ale stánky ešte stáli a plachty sa hojdali vo vánku. Mosty — kamenné oblúky cez svietiacu vodu. A ďalej — prístav. Svetlá lodí. Siluety žeriavov. Sklady. Holubník na streche prístavnej správy — vysoká veža z bieleho kameňa, odkiaľ každé ráno vzlietali poštové holuby so správami do Beladiss, do Kitsune, do Nevriss. Komunikácia celého pobrežia. Prístavné ulice, kde žili ľudia, ktorých Yera nepoznala a nikdy nespozná. [→ regions/nyau.md: poštové holuby = hlavný komunikačný systém medzi prístavmi. Holubník na streche prístavnej správy. Správy trvajú dni — žiadna rýchla komunikácia.] Námorníci. Robotníci. Cudzinci z Beladiss, z Nevriss, z miest, ktoré pre ňu boli len mená na mapách v otcovej pracovni. [→ regions/nyau.md: prístav, obchod s východom, Beladiss]
+Pod ňou ležalo mesto. Kanály, mosty, bazár zatvorený a tmavý, plachty sa hojdali vo vánku. A ďalej — prístav. Svetlá lodí. Siluety žeriavov. Holubník na streche prístavnej správy, odkiaľ každé ráno vzlietali poštové holuby so správami do Beladiss, do Kitsune, do Nevriss. [→ regions/nyau.md: poštové holuby = hlavný komunikačný systém medzi prístavmi. Správy trvajú dni — žiadna rýchla komunikácia.] Prístavné ulice, kde žili ľudia, ktorých Yera nepoznala a nikdy nespozná. Námorníci. Robotníci. Cudzinci z miest, ktoré pre ňu boli len mená na mapách v otcovej pracovni. [→ regions/nyau.md: prístav, obchod s východom, Beladiss]
 
 Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami.
 
@@ -206,7 +206,7 @@ Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
 
 *Strážkyňa.*
 
-Vedela, čo to znamenalo. Videla kňažky v chráme — krásne, dôstojné, pokojné. Svetielkujúce rúcha a modlitby pod svietiacimi stromami. Celý život za chrámovými múrmi. Celý život v službe El. Žiadny muž. Žiadne deti. Žiadna loď v prístave, žiadny obzor za horizontom. Len kadidlo, spev a strom, ktorý treba liečiť. [→ regions/nyau.md: Kňažky Cirkvi El — nezávislé postavenie, ale celoživotný záväzok. Pre dcéru klanu je vstup do Chrámu jediná alternatíva k dohodnutému zväzku.]
+Vedela, čo to znamenalo. Videla kňažky v chráme — krásne, dôstojné, pokojné. Kadidlo a modlitby. Celý život za chrámovými múrmi. Celý život v službe El. Žiadny muž. Žiadne deti. Žiadna loď v prístave, žiadny obzor za horizontom. Len kadidlo, spev a strom, ktorý treba liečiť. [→ regions/nyau.md: Kňažky Cirkvi El — nezávislé postavenie, ale celoživotný záväzok. Pre dcéru klanu je vstup do Chrámu jediná alternatíva k dohodnutému zväzku.]
 
 V Nyau sa nechcelo. V Nyau sa plnilo. Klan Saéli si nevyberal. Klan Saéli rozhodoval. A dcéry klanu boli buď sľúbené mužom, alebo sľúbené bohom. Iná klietka, rovnaký zámok.
 
@@ -262,7 +262,7 @@ Vrátila sa aj nasledujúci deň. A ďalší. Stavali sa k sebe stále bližšie
 
 Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to neustúpenie, bolo to zastavenie.
 „Vieš o záhrade za starým kanálom, hej?“ opýtal sa s pohľadom upretým na nákladnú loď trhavo bijúcu o vlnolam.
-Yera pozaháňala pohľadom dvoch sluhov v protiľahlej uličke. Vedela o záhrade. Stromy tam svietili s úzkostlivým chladom, fosforeskujúci mach obrastal lavičky, ktoré odmietali opraviť. V noci tam bola iba tma posiata zelenými a tyrkysovými vláknami.
+Yera pozaháňala pohľadom dvoch sluhov v protiľahlej uličke. Vedela o záhrade. Rozpadajúce sa lavičky, mach na kameni, tma a cvrčky. V noci tam nechodil nikto.
 „Viem,“ odvetila a zatajila dych.
 „O polnoci.“ Nečakal na odpoveď a odpojil sa do rieky prístavných robotníkov.
 Yera ani neprehltla prebytok slín. Len nepatrne kývla prázdnej stene pred sebou.
@@ -293,9 +293,37 @@ Soril len nepatrne a pochvalne prikývla. Ako keby nepochopenie bola presná a o
 „Zajtra o takomto čase.“ Odmietla akýkoľvek hlbší komentár.
 
 Opakovalo sa to. Deň za dňom. Nové verše, nové pasáže. Yera prichádzala s rečou o viere a nádeji, no Soril všetky posvätné mantry presekávala tichými, pragmatickými otázkami.
-*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh” — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa jej tu trasie ruka — vidíš? — tu, uprostred vety, naraz prestane byť pokojná?*
+*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh" — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa jej tu trasie ruka — vidíš? — tu, uprostred vety, naraz prestane byť pokojná?*
 
-Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež. [NOTE: Soril vie viac než hovorí — pozná originál. Ale nepovie to ešte. Len pomaly mení Yerin referenčný rámec cez nevinné teologické otázky. Plná dekštrukcia „autorka” príde až v Ch2 s Čiernou Knihou.]
+Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež.
+
+Jedného dňa Soril listovala rýchlejšie. Preskakovala pasáže — niektoré stránky otočila bez zastavenia, bez otázky, bez pohľadu. Yera to sledovala. Tri stránky. Štyri. Piata.
+
+„Počkaj."
+
+Soril zdvihla oči.
+
+Yera natiahla ruku a otočila stranu späť. Bez dovolenia. Prsty na bielom dreve väzby — tam, kam sa žiačky nedotýkali, kam sa dotýkala len Soril. Stránka, ktorú Soril preskočila.
+
+Text bol hustejší. Iný. Nie verše — zoznam. Čísla, miery, pomery. Niečo, čo vyzeralo ako recept, ale s výrazmi, ktoré Yera nepoznala. A na okraji — kresba. Malá, presná, technická. Päťcípa hviezda vpísaná do kruhu. Pod ňou symboly v Staroreči — nie modlitba, nie poézia. Niečo iné. [→ 03-technology.md: Glyf — 5 elementov Spiry. Kniha El obsahuje aj technické pasáže, maskované medzi veršami.]
+
+„Čo je toto?" spýtala sa Yera.
+
+Soril mlčala. Dlho. Tak dlho, že Yera zdvihla pohľad od strany a pozrela sa na ňu. Kňažka mala zvláštny výraz — nie hnev, nie prekvapenie. Niečo bližšie k ostražitosti. Akoby Yera otvorila dvere, o ktorých ešte nemala vedieť.
+
+„Niečo, na čo nie si pripravená."
+
+„Preskočila si to."
+
+„Áno."
+
+„Prečo?"
+
+Soril pozrela na stranu. Na kresbu. Na čísla. Potom späť na Yeru — a v jej pohľade bolo niečo nové. Nie pochvala. Horšie. Prehodnocovanie.
+
+„Lebo väčšina sa nikdy nespýta," povedala Soril. Zavrela Knihu. Pomaly, rozhodne, bielymi doskami, ktoré jemne klapli. „Zajtra."
+
+Yera zostala sedieť. Pozerala na zatvorenú Knihu na stole a vedela — presne, jasne, bez pochybností — že Soril preskakuje strany zámerne. Nie preto, že nie sú dôležité. Preto, že sú. [NOTE: Prvý aktívny moment — Yera siahne po Knihe bez dovolenia a nájde Glyf (glyf). Soril to neočakávala a prehodnocuje Yeru. Yera tu prestáva byť študentka — začína byť hráčka. Foreshadowing: Yera bude Knihu čítať sama v podzemnej knižnici (Ch3) a nakoniec ju ukradne. Tu je zárodok — nie rebélia, ale zvedavosť, ktorú Soril nemôže zastaviť.]
 
 Po čítaní prichádzala na rad Spira. Žiadne klasické liečiteľské rituály. Žiadne tabuľky s modlitbami za uzdravenie. Soril ju viedla priamo k Ľadu.
 
@@ -384,5 +412,5 @@ A čakala na noc. [NOTE: Dvojitý život — deň: Soril, Kniha, Spira. Noc: Ark
 
 [→ Kapitola vychádza z Beat 1 books/planning/yera-arc-novela.md (expozícia), ale presunutá na Ch2 — klietka po festivale]
 [→ Epigraf: Kniha El — fiktívny svätý text Cirkvi El v Nyau, viď regions/nyau.md]
-[→ Spira liečenie stromu: 03-technology.md — pentagram, element vody]
+[→ Spira liečenie stromu: 03-technology.md — glyf, element vody]
 [→ Yera voice: characters/Yera.md — tichá, premyslená, pýta sa otázky, nie tvrdenia]

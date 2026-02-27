@@ -7,7 +7,7 @@ Ručne písaný zápisník — denník, modlitebník a spoveď v jednom — ktor
 - **Spomienok na Inetis** — slová, ktoré jej matka povedala počas ~270 rokov spoločného života v Elysiu. Elania ich cituje z pamäte po 500+ rokoch. Niektoré sú presné. Niektoré sú skresené časom. Niektoré si Elania *myslí*, že sú matkin hlas, ale sú jej vlastné.
 - **Filozofických fragmentov** — úvahy o utrpení, svetle, vedomí, biológii, „druhej strane"
 - **Osobných zápiskov** — denníkové záznamy o hľadaní Jaskyne Ela, opisy krajiny, stretnutia s osadníkmi
-- **Technických náčrtov** — schematické kresby, ktoré Elania kreslila z pamäte. Fragmenty pentagramov, nanobot štruktúr, geotermálnych systémov. Pre Nyau sú to „svätá geometria." Pre niekoho, kto rozumie technológii, sú to *blueprinty*.
+- **Technických náčrtov** — schematické kresby, ktoré Elania kreslila z pamäte. Fragmenty glyfov, nanobot štruktúr, geotermálnych systémov. Pre Nyau sú to „svätá geometria." Pre niekoho, kto rozumie technológii, sú to *blueprinty*.
 - **Mapy a orientačných bodov** — Elaniine pokusy zrekonštruovať cestu k jaskyni z troch rokov starých spomienok (bola tam vo veku 0–3). Neúplné, nejasné, ale *existujúce*.
 
 ## Fyzický popis
@@ -19,7 +19,7 @@ Ručne písaný zápisník — denník, modlitebník a spoveď v jednom — ktor
 - **Stav**: Niektoré strany poškodené vodou, niektoré chýbajú
 - **Reakcia na Spiru**: Prach v tabuľkách reaguje na živú Gen 2 Spiru v okolí — pulzuje silnejšie v prítomnosti Pursang (vysoká bazálna hladina). Gen 1 materiál rozpoznáva Gen 2 signál.
 
-[NOTE: Elania mala Gen 1 nanotech (v1.7, z Elysia/Inetis) — NIE Gen 2. Inetis sa Elanie nikdy nedotkla potom, čo vynašla Spiru. Elania nemá Dar Matky. Pentagramy v Knihe kreslila z PAMÄTE — vedela čo to je (*architecture, not prayer*), ale sama to nedokázala použiť.]
+[NOTE: Elania mala Gen 1 nanotech (v1.7, z Elysia/Inetis) — NIE Gen 2. Inetis sa Elanie nikdy nedotkla potom, čo vynašla Spiru. Elania nemá Dar Matky. Glyfy v Knihe kreslila z PAMÄTE — vedela čo to je (*architecture, not prayer*), ale sama to nedokázala použiť.]
 [→ 03-technology.md: Prach-craft (Recyklácia Glitch Rot)]
 [→ 04-elanias-blade.md: svätyňa pod Šoravenom — rovnaký materiál]
 
@@ -78,7 +78,7 @@ Zápisník je pre nich **nepochopiteľný a posvätný zároveň**:
 
 ### Štruktúra Knihy El (ako ju pozná Cirkev)
 
-Cirkev El rozdelila pôvodný zápisník do **5 kapitol** (podľa pentagramu — nie Eláníne rozdelenie, ale neskoršia teologická reedícia):
+Cirkev El rozdelila pôvodný zápisník do **5 kapitol** (podľa glyfu — nie Eláníne rozdelenie, ale neskoršia teologická reedícia):
 
 | Kapitola | Názov | Pôvodný obsah | Teologická interpretácia |
 |----------|-------|----------------|--------------------------|
@@ -149,7 +149,7 @@ Keď sa Maks dostane ku Knihe (~AY 3014):
 ### 2. Technické náčrty
 
 Eláníne kresby z pamäte obsahujú fragmenty, ktoré sú pre Cirkev El nepochopiteľné, ale pre technologicky gramotného čitateľa (Maks, Maki, Felix) sú to:
-- Schémy pentagramovej architektúry (Gen 2 Spira dizajn)
+- Schémy glyfovej architektúry (Gen 2 Spira dizajn)
 - Fragmenty Inetisiných výpočtov
 - Náčrt niečoho, čo vyzerá ako Anténa
 

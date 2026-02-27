@@ -126,7 +126,7 @@ Skrinka.
 
 Yera ich vzala.
 
-Nie pomaly, nie dramaticky. Vzala, zabalila do vrstvy látky z tašky, uložila medzi obväzy. Skrinka zavrela, pentagram zhasol, dvere zavrela za sebou. [NOTE: Yera je rýchla a presná — Pursang tréning, chrámový tréning, Soril. Ironicky — Soril ju naučila byť dostatočne dobrá na to, aby toto zvládla. → characters/Soril.md]
+Nie pomaly, nie dramaticky. Vzala, zabalila do vrstvy látky z tašky, uložila medzi obväzy. Skrinka zavrela, glyf zhasol, dvere zavrela za sebou. [NOTE: Yera je rýchla a presná — Pursang tréning, chrámový tréning, Soril. Ironicky — Soril ju naučila byť dostatočne dobrá na to, aby toto zvládla. → characters/Soril.md]
 
 V chodbe stála tridsať sekúnd.
 

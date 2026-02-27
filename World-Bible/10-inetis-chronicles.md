@@ -111,7 +111,7 @@ Inetis ostala sedieť v blate, zatiaľ čo sa jej svet rozpadol. Nie vojenskou p
 
 Toto je moment, ktorý definoval jej koniec. Kým Varietas oslavovali víťazstvo a stavali jej sochy, ona plakala. 
 - **Pravá Tvár (Human Mother)**: Najstaršie sochy v Shoraven ju zobrazujú takto — ako ľudskú ženu, kľačiacu v blate, s očami fialovými od sĺz (symbol vesmíru, ktorý stratila). Bez uší, bez chvosta. Len človek.
-- **Falošný Idol (Cat Mother)**: Cirkev neskôr túto pravdu "upravila". Pridali jej mačacie uši, aby vyzerala ako Varietas (Líška/Mačka). Zmenili jej slzy na "pentagramy moci", aby vyzerala ako bohyňa vojny, nie ako matka v depresii.
+- **Falošný Idol (Cat Mother)**: Cirkev neskôr túto pravdu "upravila". Pridali jej mačacie uši, aby vyzerala ako Varietas (Líška/Mačka). Zmenili jej slzy na "glyfy moci", aby vyzerala ako bohyňa vojny, nie ako matka v depresii.
 
 Inetis nezomrela v boji. Zomrela vnútorne v ten deň v Atranskej úžine, keď videla, ako jej dar (Spira) slúži na zabíjanie a ako jej vlastní ľudia (Ex Inferis) vraždia pre moc. Pochopila, že zlyhala ako Vedkyňa aj ako Matka.
 

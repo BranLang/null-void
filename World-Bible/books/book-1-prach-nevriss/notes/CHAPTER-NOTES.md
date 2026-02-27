@@ -545,7 +545,7 @@ Pravda patrí El.
 
 ### Show Don't Tell Rules:
 - ❌ "Maxove nanoboty zachytili príkaz — Haiku skript, kompilovaný..."
-- ✅ "Vlčica zdvihla ruky. Pentagramy zažiarili. Plameň vyšľahol — smerovaný. Ako raketa."
+- ✅ "Vlčica zdvihla ruky. Glyfy zažiarili. Plameň vyšľahol — smerovaný. Ako raketa."
 - **Pravidlo:** Žiadne hardcore lore dumpy v raných kapitolách (1-3)
 - **Gradácia:** Kapitoly 1-3 = základy, 4-8 = намeky, 9+ = hlbšie vysvetlenie
 

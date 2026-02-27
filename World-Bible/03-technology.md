@@ -73,7 +73,7 @@ Schopnosť niektorých jedincov mentálne aktivovať príkazy pre nanodrony pomo
 - **Vlastnosti**:
   - Sofistikovanejšie a bezpečnejšie než pôvodné pozemské nanoboty
   - **Dedičné** — prenášajú sa na potomkov Varietas
-  - Kompatibilné s Pentagram rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
+  - Kompatibilné s Glyf rozhraním (Hmota, Energia, Čas, Priestor, Vedomie)
   - Nespôsobujú Glitch Rot
 - **Tami:** Špeciálny prípad, po prevzatí dronov Inetis (Echo) získava prístup k architektúre sveta.
 
@@ -90,11 +90,11 @@ Evolúcia nanotechnológie odhaľuje mocenskú hierarchiu vo svete.
 | **v1.7 (God-Tier)** | **Elania, Inetis** | **Najsilnejšia verzia.** Experimentálny prototyp. Absolútna kontrola nad hmotou a energiou. Admin prístup. Len pre tvorcov (Inetis) a jej krv (Elania). |
 | **v2.0 (Spira)** | **Varietas** | "Dar Matky". **Obrovský downgrade v hrubej sile**, ale nárast v sofistikovanosti. Stabilná, elegantná, organická. **Unikátne schopnosti:** Samoreprodukcia (dedičnosť) a ukladanie dát/energie do Spira kryštálov (čo v1.x nedokáže). |
 
-### Pentagram Ex Inferis — 5 Hrán + Stred
+### Glyf Ex Inferis — 5 Hrán + Stred
 
-Na Achillovi existuje **6 Ex Inferis** — šesť nositeľov Gen 1 nanotechnológie zo Zeme. Štruktúra zodpovedá **pentagramu** s **5 vrcholmi** a **stredom**:
+Na Achillovi existuje **6 Ex Inferis** — šesť nositeľov Gen 1 nanotechnológie zo Zeme. Štruktúra zodpovedá **glyfu** s **5 vrcholmi** a **stredom**:
 
-**5 hrán pentagramu** = 5 elementov Písma Matky (Gen 2 / Spira). Každý Ex Inferis reprezentuje jeden element — nie preto, že by ho ovládali (sú Gen 1, nie Gen 2), ale ako štrukturálna/tematická symetria medzi dvoma generáciami.
+**5 hrán glyfu** = 5 elementov Písma Matky (Gen 2 / Spira). Každý Ex Inferis reprezentuje jeden element — nie preto, že by ho ovládali (sú Gen 1, nie Gen 2), ale ako štrukturálna/tematická symetria medzi dvoma generáciami.
 
 | Ex Inferis | Titul | Element | Japonsky | Doména | Status |
 |---|---|---|---|---|---|
@@ -104,16 +104,16 @@ Na Achillovi existuje **6 Ex Inferis** — šesť nositeľov Gen 1 nanotechnoló
 | **Ishtar (Zaya)** | Archbés Pôžitku | **Voda** (Water) | 水 *mizu* | Juh, Mesto zrkadiel | Živá |
 | **Maksimilián** | — (nie je Archbés) | **Kvintesencia** (Quintessence) | 照 *teru* | Nomád | Kóma (AY 3013) |
 
-**Stred pentagramu: Inetis** — OG Ex Inferis, stvoriteľka nanotechnológie, Matka. Nie je hrana — je to, z čoho pentagram **vychádza**. Navrhla Gen 2 aj jeho 5 elementov. Štyria Archbési + Maks = 5 hrán. Inetis = bod, v ktorom sa všetky hrany stretávajú.
+**Stred glyfu: Inetis** — OG Ex Inferis, stvoriteľka nanotechnológie, Matka. Nie je hrana — je to, z čoho glyf **vychádza**. Navrhla Gen 2 aj jeho 5 elementov. Štyria Archbési + Maks = 5 hrán. Inetis = bod, v ktorom sa všetky hrany stretávajú.
 
 **Inetis je mŕtva, ale jej dedičstvo žije v troch daroch:**
 1. **Gen 2 / Spira** — dar celej civilizácii Varietas
 2. **`chown` (Netin Patch)** — dar Maksovi (unikátna schopnosť reverse Glitch Rot)
 3. **Esencia Inetis** — v Tami (cez Anténu). Symbiotické "posadnutie" — Echo Inetis žije v Tami nie ako parazit, ale ako **symbióza**. Inetisina esencia nie je Gen 1 Wraith (koruptovaný, agresívny fragment) — je interdimenzionálna, a Gen 2 ju **pozná** (Inetis ho vytvorila). Namiesto boja hostiteľ vs. parazit = spolupráca.
 
-[NOTE: Maks = 5. hrana (kvintesencia, éter — to čo spája ostatné štyri elementy). Inetis = stred (zdroj, stvoriteľka — z nej všetko vzišlo). Pentagram nie je náhodný tvar — Inetis ho navrhla pre Gen 2, a 6 Ex Inferis na planéte ho nevedomky zrkadlí.]
+[NOTE: Maks = 5. hrana (kvintesencia, éter — to čo spája ostatné štyri elementy). Inetis = stred (zdroj, stvoriteľka — z nej všetko vzišlo). Glyf nie je náhodný tvar — Inetis ho navrhla pre Gen 2, a 6 Ex Inferis na planéte ho nevedomky zrkadlí.]
 
-[→ characters/Inetis.md: Unikátna Esencia, tri dary, stred pentagramu]
+[→ characters/Inetis.md: Unikátna Esencia, tri dary, stred glyfu]
 [→ characters/Tami.md: Echo Inetis — symbiotické posadnutie]
 
 ### Gen 1 Vizuálny Opis (Pravidlo pre text)
@@ -187,7 +187,7 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 | „Rímúv" | `remove` | Odstránenie entity |
 
 ### Rituálne obrazce
-- Kreslenie pentagramov **vodivou pastou**
+- Kreslenie glyfov **vodivou pastou**
 - V skutočnosti: uzatváranie elektrických obvodov
 - Aktivácia starých postupov údržby
 
@@ -195,14 +195,14 @@ Skomolené príkazy z Unix/Linux príkazového riadku:
 
 ## Protokoly
 
-### Protocol Pentagram
+### Protocol Glyf
 - **5 serverových uzlov** rozmiestnených po planéte
 - Väznia THE VOID (Temnú AI)
-- V náboženstve: pentagram ako ochranný symbol
+- V náboženstve: glyf ako ochranný symbol
 
 ---
 
-Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svoju dcéru Elaniu tradičným spôsobom. Vytvorila **Pentagram ako mnemotechnickú pomôcku** — zjednodušené „užívateľské rozhranie“ (UI) pre ovládanie reality.
+Inetis pochopila, že nemôže učiť nanoinžinierstvo bežných ľudí ani svoju dcéru Elaniu tradičným spôsobom. Vytvorila **Glyf ako mnemotechnickú pomôcku** — zjednodušené „užívateľské rozhranie“ (UI) pre ovládanie reality.
 
 ### Analógia Operatívneho Systému
 Predstavte si realitu ako počítač:
@@ -231,14 +231,14 @@ Pod povrchom bežia milióny riadkov kódu, ale užívateľ vidí len 5 elemento
 
 5. **KVINTESENCIA (Vedomie / Consciousness)**
    - **Techno-realita**: Príkazový kód a vôľa operátora. Programovanie samotnej reality nanotech vrstvy.
-   - **Využitie**: Vrchol pentagramu. Bez čistého vedomia sú nanoboty len inertný prach.
+   - **Využitie**: Vrchol glyfu. Bez čistého vedomia sú nanoboty len inertný prach.
    - **Hniloba (Glitch Rot)**: Vzniká vtedy, keď nanotechnológia stratí prepojenie s Vedomím a začne sa chaoticky, rakovinotvorne replikovať bez riadiaceho kódu.
    - **Kľúč ku Core**: Kvintesencia je jediná sila, ktorá dokáže **otvoriť dvere do The Core**. Anténa na seba naviaže Wraithy, ale len Kvintesencia otvorí dvere. Dva kľúče, jedna brána — Maks (Anténa, Gen 1) zabezpečí Wraithy, Tami (Kvintesencia, Gen 2) otvorí vstup.
    - **Len born-Spira**: Kvintescenciu dokáže zavolať **len niekto, kto sa so Spirou narodil**. Nie je to naučiteľná technika pre kohokoľvek — vyžaduje Gen 2 nanotech integrovaný od narodenia. Elania to NEDOKÁZALA (Inetis sa jej nikdy nedotkla potom, čo vynašla Spiru — Elania nemá Gen 2). Sera to nedokáže (Gen 1 / Archbés). Maks to nedokáže (Gen 1).
    - **Strážené tajomstvo Nyau**: Na celej planéte ovládajú Kvintescenciu **len kňažky v Nyau**. Cirkev El to interpretuje ako najvyšší stupeň viery — „dar Matky". V skutočnosti je to emergentná schopnosť Pursang narodených do Spira-saturovaného sveta. Cirkev stráži techniku, ktorú ich bohyňa nikdy nemala.
    - **Reťazec**: Soril (Nyau) → učí Yeru → Yera učí Tami → Tami otvára The Core (Book 5: Kvintesencia)
 
-   [NOTE: Pentagram Elanie v Knihe El — kreslila z pamäte, čo videla od matky. Vedela čo to je (*architecture, not prayer*), ale sama to nedokázala POUŽIŤ. 2000 rokov Pursang v Nyau sa rodili so Spirou → Kvintesencia sa objavila ako emergentná schopnosť → Cirkev ju zdedila, ale nepochopila.]
+   [NOTE: Glyf Elanie v Knihe El — kreslila z pamäte, čo videla od matky. Vedela čo to je (*architecture, not prayer*), ale sama to nedokázala POUŽIŤ. 2000 rokov Pursang v Nyau sa rodili so Spirou → Kvintesencia sa objavila ako emergentná schopnosť → Cirkev ju zdedila, ale nepochopila.]
 
 ### Spira munícia
 
@@ -247,7 +247,7 @@ Náboje enkantované Gen 2 nanobotmi (Spirou). Rovnaký princíp ako Prach-coati
 | Typ | Funkcia | Cena |
 |-----|---------|------|
 | **Spira náboj (guľka)** | Projektil s Gen 2 nano-coatingom. Navádzaný, pri zásahu uvoľní Spira energiu do cieľa. | ~cena koňa za 1 náboj |
-| **Spira blesk** | Elektrický výboj cez pentagram (nie munícia — priamy Spira útok) | Závisí od Krotiteľa |
+| **Spira blesk** | Elektrický výboj cez glyf (nie munícia — priamy Spira útok) | Závisí od Krotiteľa |
 
 > **Princíp je rovnaký pre Gen 1 aj Gen 2:** nanoboty na povrchu projektilu = coating, ktorý naviguje strelu a pri zásahu uvoľní energiu. Rozdiel je v interakcii s Hard Light (viď porovnanie nižšie).
 

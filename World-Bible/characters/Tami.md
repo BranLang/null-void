@@ -168,7 +168,7 @@ Keď v 15 odišla od Maksa — zlomená srdcom, nahnevaná — nemala kam ísť.
 
 **Esencia sa prebúdza:**
 - V jaskyni, v blízkosti Inetisiných pozostatkov, sa Esencia v Taminej krvi naplno prebudí
-- Tami začne mať **flashbacky** — Inetisine spomienky: jaskyňa za čias, keď bola nová. Malá Elania kreslí na steny. Inetis programuje Pentagram IDE. Pohľad na spiaceho Maksa v kryoboxe. Hviezdy nad Achillesom.
+- Tami začne mať **flashbacky** — Inetisine spomienky: jaskyňa za čias, keď bola nová. Malá Elania kreslí na steny. Inetis programuje Glyf IDE. Pohľad na spiaceho Maksa v kryoboxe. Hviezdy nad Achillesom.
 - **Tami vidí Maksa cez Inetisine oči** — nie ako vojaka, ale ako muža, ktorého Inetis milovala. Mladého, s očami. Smejúceho sa v kaviarni v Kyjeve.
 - Prvýkrát pochopí, prečo ju to ťahalo k Maksovi — nebola to len láska. Bola to Esencia. Inetis ho hľadala aj po smrti.
 

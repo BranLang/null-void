@@ -75,7 +75,7 @@ Pás územia medzi Severom a Juhom ("Stredozem"), kde neustále vznikajú a zani
 
 Toto je kľúčový rozdiel oproti ostatným kontinentom. Varietas **nevedia**, že používajú nanotechnológie. Pre nich je to **mágia**.
 
-### Elementálny Systém (Pentagram)
+### Elementálny Systém (Glyf)
 Varietas si vysvetľujú funkcie nanobotov cez elementálny mysticizmus:
 
 1.  **Oheň (Energia):** Pyrokinezia, zváranie, tavenie kovov.
@@ -118,7 +118,7 @@ Rozhodujúca bitka v **Atranskej Úžine (The Atra Narrows)** pod pohorím Hangr
     *   **Grond** (zradený a rozzúrený) sa stiahol na Sever za hory.
     *   **Zaya** (v hanbe) ušla na Simiru.
     *   **Samaell** sa stal tulákom.
-*   **Dôsledok:** Na mieste, kde Matka plakala, bolo založené mesto **Shoraven** (Mesto Zmierenia/Zmluvy). Je to posvätná pôda. Najstaršie sochy tu zobrazujú Inetis ako *človeka* (bez uší), kľačiacu v blate — obraz, ktorý Cirkev neskôr "upravila" (pridali jej mačacie uši a zmenili slzy na pentagramy moci).
+*   **Dôsledok:** Na mieste, kde Matka plakala, bolo založené mesto **Shoraven** (Mesto Zmierenia/Zmluvy). Je to posvätná pôda. Najstaršie sochy tu zobrazujú Inetis ako *človeka* (bez uší), kľačiacu v blate — obraz, ktorý Cirkev neskôr "upravila" (pridali jej mačacie uši a zmenili slzy na glyfy moci).
 
 ### Terra vs. Simira (Juh)
 *   **Postoj:** Strach a Poverčivosť.

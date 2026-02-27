@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Doména** | Juh, Mesto zrkadiel |
-| **Element** | 水 *mizu* / **Voda** (Water) — pentagram Ex Inferis |
+| **Element** | 水 *mizu* / **Voda** (Water) — glyf Ex Inferis |
 | **Schopnosť** | Ilúzie, mind control, Smrtiaca hmla (Gray Goo) |
 | **Boss** | Kniha 3 |
 

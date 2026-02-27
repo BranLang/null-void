@@ -112,7 +112,7 @@ Tri bytosti, ktoré kedysi boli Varietas. Prvý mal telo Ghorka — medveď, obr
 
 Druhý bol Mezra — kunami. Jeho chrbát bol rozpadnutý na modré črepiny, ktoré levitovali okolo neho ako roj skla. Každý kúsok žil vlastným životom. Stále sa rozkladal a zase skladal — neprestajný cyklus, akoby ho niekto navždy nechal v stave medzi životom a smrťou.
 
-Tretia — Mezra, vlčica — mala tvár zo slonoviny. Doslova. Jej koža bola už napoly kameň, studená, hladká, mŕtva. V oboch dlaniach jej svietili pentagramy. Nepretržite. Čarovný okruh, ktorý nemohol zhasnúť.
+Tretia — Mezra, vlčica — mala tvár zo slonoviny. Doslova. Jej koža bola už napoly kameň, studená, hladká, mŕtva. V oboch dlaniach jej svietili glyfy. Nepretržite. Čarovný okruh, ktorý nemohol zhasnúť.
 
 Neboli naživu. Neboli mŕtve. Boli to telá bežiace na poškodenom kóde — rovnaká nekonečná modlitba ako Mayina, len ďalej v procese. Tam, kde Maya ešte šepkala, tieto už len útočili. Posledný príkaz, ktorý ich Spira dokázala prečítať.
 
@@ -138,7 +138,7 @@ Tami vystrelila raz. Modrá iskra — náboj okorenený Spirou, jeden z dvanást
 
 Kunami sa zrútil. Prach namiesto skla.
 
-Vlčica zdvihla ruky. Oba pentagramy zažiarili.
+Vlčica zdvihla ruky. Oba glyfy zažiarili.
 
 Plameň vyšľahol z jej dlaní — nie náhodne, nie divoko. Smerovaný. Ako raketa.
 
@@ -148,7 +148,7 @@ Kompresná para — natlakovaná storočia hlboko v útrobách potrubí — prer
 
 Medveďovi s piatimi očami to zasiahlo pravú stranu. Mäkké stonky očí zasyčali, kryštály popraskali tepelným šokom. Monštrum zaryčalo a začalo bezcieľne udierať labami do pary.
 
-Maks využil chaos. Vyrazil cez okraj dymovej clony. Päť rán. Presných. Prvé dve rozbili oslnivej vlčici pentagramy v dlaniach. Tretia zasiahla plece. Vlčica zavrávorala, plameň zhasol.
+Maks využil chaos. Vyrazil cez okraj dymovej clony. Päť rán. Presných. Prvé dve rozbili oslnivej vlčici glyfy v dlaniach. Tretia zasiahla plece. Vlčica zavrávorala, plameň zhasol.
 
 Tami vystrelila. Modrá iskra zasiahla vlčicu do hrudníka. Spira munícia prenikla cez kameň, ktorý bol kedysi kožou. Telo prasklo. Za tri sekundy — prach.
 
@@ -239,7 +239,7 @@ Maks stál nehybne. Ruky za chrbtom. Oči — tie čierne priepasti za okuliarmi
 
 On to má pod kontrolou, pomyslela si Tami. Alebo je úplne šialený. Toľký čas spolu a stále neviem, kde je tá hranica.
 
-Tami mala pravú ruku na Nadeli. Ľavú pred sebou — pripravenú na pentagram. Počítala. Dvadsaťdva. Tri smery. Úzke tunely — výhoda pre rapier, ale nie pre dvadsaťdva guľiek naraz. Kitova telekinéza — nekontrolovaná, divoká. Maksov samopal — šesť nábojov v zásobníku. A ja mám štyri Spira náboje.
+Tami mala pravú ruku na Nadeli. Ľavú pred sebou — pripravenú na glyf. Počítala. Dvadsaťdva. Tri smery. Úzke tunely — výhoda pre rapier, ale nie pre dvadsaťdva guľiek naraz. Kitova telekinéza — nekontrolovaná, divoká. Maksov samopal — šesť nábojov v zásobníku. A ja mám štyri Spira náboje.
 
 Matematika nefungovala. Vedela to. Maks to vedel. Kito sa triasol a nevedel nič.
 
@@ -281,11 +281,11 @@ Nie šero. Nie prítmie. Nič. Päťdesiatdva olejových plameňov zomrelo v rov
 
 Ticho. Len dunenie nevrisskej artilérie na povrchu — tlmené, vzdialené, ako tep sveta nad nimi.
 
-Traja naraz. Inštinkt. Tréning. Pentagramy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky.
+Traja naraz. Inštinkt. Tréning. Glyfy sa rozžiarili v tme — päť zlatých línií na troch dlaniach, tri malé slnká v absolútnej černi. Na zlomok sekundy osvetlili tunel — vystrašené tváre, zdvihnuté zbrane, voda po členky.
 
-Potom zhasli. Nie pentagramy — ich majitelia. Niečo neviditeľné im vletelo do otvorených úst — pentagram sa aktivuje hlasom a oni práve hovorili. Krátky záblesk. Len vypnutie.
+Potom zhasli. Nie glyfy — ich majitelia. Niečo neviditeľné im vletelo do otvorených úst — glyf sa aktivuje hlasom a oni práve hovorili. Krátky záblesk. Len vypnutie.
 
-Tri výkriky — krátke, udusené — a tri telá padli do vody. Pentagramy zhasli s nimi. Tma a ticho sa vrátili.
+Tri výkriky — krátke, udusené — a tri telá padli do vody. Glyfy zhasli s nimi. Tma a ticho sa vrátili.
 
 Strely. Niekoľko dobre mierených rán smerom na miesto, kde stáli Maks, Tami a Kito. Projektily zmenili smer — niečo ich vychýlilo z dráhy tesne pred cieľom, akoby ich neviditeľná ruka odstrčila. Náboje zvonili o steny za nimi.
 
@@ -301,7 +301,7 @@ Ticho. Dlhé. Maks čakal.
 
 Piaty. Strážca vedľa mŕtveho počul šplieskanec. Otočil sa. Strelil do tmy. Výstrel zadunel v tuneli ako hrom a na pol sekundy osvetlil — nič. Priestor, kde pred okamihom stál Exorcista, bol prázdny.
 
-Tami stála v tme so zatvoreným očami a počítala výkriky. Nadel v pravej ruke, pentagram pripravený v ľavej. Bezcenné — nemala kam mieriť, nemala koho chrániť. Len stáť a počúvať, ako Maks pracuje.
+Tami stála v tme so zatvoreným očami a počítala výkriky. Nadel v pravej ruke, glyf pripravený v ľavej. Bezcenné — nemala kam mieriť, nemala koho chrániť. Len stáť a počúvať, ako Maks pracuje.
 
 Zvyšní neodpovedali. Nestrelili. Len dýchanie — rýchle, plytké, zúfalé. A čakanie. Vedeli, že ďalší príde. Nevedeli odkiaľ.
 
@@ -317,7 +317,7 @@ Siedmy. Ôsmy. Medzi každým — pauza. Čas na rozhodnutie. Čas na útek.
 
 Nikto neutiekol.
 
-Desať tiel vo vode. Zvyšných dvanásť sa tlačilo k sebe — chrbát k chrbtu, zbrane do tmy. Triasli sa. Tami ich počula cez vodu — klopkanie zubov, rýchle, plytké dýchanie. Elitní bojovníci, redukovaní na zvieratá v tmavej klietke. Žiadny ďalší pentagram sa nerozžiaril. Pochopili.
+Desať tiel vo vode. Zvyšných dvanásť sa tlačilo k sebe — chrbát k chrbtu, zbrane do tmy. Triasli sa. Tami ich počula cez vodu — klopkanie zubov, rýchle, plytké dýchanie. Elitní bojovníci, redukovaní na zvieratá v tmavej klietke. Žiadny ďalší glyf sa nerozžiaril. Pochopili.
 
 A potom Maks zastavil. Znova čakal.
 
@@ -355,7 +355,7 @@ Maks sa pokúsil zhasnúť taktické lampy. Niečo v ňom siahlo k svetlu — a 
 
 Svetlo všetko zmenilo. Chrámové stráže — tých deväť, čo ešte stáli — videli. A keď videli, bojovali.
 
-Pentagramy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, na hrudi. Tunel explodoval farbami. Spira štíty sa rozprestreli pred strážcami — priesvitné, žiariace, zlatisté. Niekto vystrelil blesk — biely, oslnivý, rachotajúci cez vodu. Iný zdvihol ruky a vzduch sa stlačil do viditeľnej vlny. Oheň. Telekinez. Vodný bič zdvihnutý z vody po členky. Dvaja ostreľovači strieľali Spira projektily — zažiarené náboje, čo za sebou ťahali zlaté stopy.
+Glyfy. Jeden, dva, päť — rozžiarili sa na dlaniach, na zápästiach, na hrudi. Tunel explodoval farbami. Spira štíty sa rozprestreli pred strážcami — priesvitné, žiariace, zlatisté. Niekto vystrelil blesk — biely, oslnivý, rachotajúci cez vodu. Iný zdvihol ruky a vzduch sa stlačil do viditeľnej vlny. Oheň. Telekinez. Vodný bič zdvihnutý z vody po členky. Dvaja ostreľovači strieľali Spira projektily — zažiarené náboje, čo za sebou ťahali zlaté stopy.
 
 Všetko zasiahlo Paladínov.
 
@@ -363,7 +363,7 @@ Spira strely zasiahli Svetelný Štít — a zomreli na ňom. Spevnenie sa rozpa
 
 Rau sa pohol. Pomaly. Metodicky. Sekera švihla horizontálne — nie na dosah ruky. Vzduch medzi ním a strážcami praskol. Vibrofrekvencia čepele sa rozšírila do vlny, čo preťala trojicu vo vzdialenosti troch yardov. Brnenia, štíty, telá — ako nič.
 
-Výkrik. Ďalší pentagram. Dôstojník — ten s vlčími ušami — aktivoval plnú Spiru. Päť línií mu žiarilo na oboch dlaniach. Z jeho úst vyšiel zvuk, ktorý nebol ľudský — bojový pokrik, zúfalý, statočný, zbytočný. Ohnivá guľa — veľká ako hlava — vyletela z jeho dlaní priamo na Rauovu hruď.
+Výkrik. Ďalší glyf. Dôstojník — ten s vlčími ušami — aktivoval plnú Spiru. Päť línií mu žiarilo na oboch dlaniach. Z jeho úst vyšiel zvuk, ktorý nebol ľudský — bojový pokrik, zúfalý, statočný, zbytočný. Ohnivá guľa — veľká ako hlava — vyletela z jeho dlaní priamo na Rauovu hruď.
 
 Zasiahla. Roztiekla sa po pancieri. A zhasla.
 
@@ -467,7 +467,7 @@ Chlapec siahol po puške. Ruka vystrelila nabok — inštinkt, nie rozmysel — 
 
 Skoro, prebleslo Tami hlavou.
 
-Tami stisla čeľusť. Pentagram na ľavom predlaktí vzplanul — žltý záblesk, ostrý ako blesk v zatvorenej miestnosti. Prstenec zlatého svetla sa rozlial okolo jej tela — tenký, vibrujúci, sotva viditeľný — ale tam. Štít.
+Tami stisla čeľusť. Glyf na ľavom predlaktí vzplanul — žltý záblesk, ostrý ako blesk v zatvorenej miestnosti. Prstenec zlatého svetla sa rozlial okolo jej tela — tenký, vibrujúci, sotva viditeľný — ale tam. Štít.
 
 Výstrel.
 
@@ -591,11 +591,11 @@ Yera nestála. Yera kľačala. Pomaly — kolená na kameň, vedľa kaluže krvi
 
 Arkot stuhol. „Yera, čo to — "
 
-Pentagram.
+Glyf.
 
 Nie Tamin. Nie žltý. Nie zlatý. Modrý.
 
-Farba hlbokej vody. Farba mora v noci, keď mesiac osvetľuje vlny zvnútra. Rozžiaril sa na Yeriných predlaktiach — pod šedým plátnom rúcha presvitali línie, iné než Tamine. Staršie. Čistejšie. Menej línií, ale hlbších — pentagram, ktorý nevyzeral ako narýchlo naprogramovaný obranný skript, ale ako niečo, čo sa precizovalo celé roky. Dekády. Generácie.
+Farba hlbokej vody. Farba mora v noci, keď mesiac osvetľuje vlny zvnútra. Rozžiaril sa na Yeriných predlaktiach — pod šedým plátnom rúcha presvitali línie, iné než Tamine. Staršie. Čistejšie. Menej línií, ale hlbších — glyf, ktorý nevyzeral ako narýchlo naprogramovaný obranný skript, ale ako niečo, čo sa precizovalo celé roky. Dekády. Generácie.
 
 Svetlo stekalo z jej dlaní. Nie žiarilo — stekalo. Ako voda. Prúdy modrého svetla sa vlievali do rany v chlapcovej hrudi a mizli v nej. Krv okolo jej prstov sa spomalila. Bublanie v pľúcach — ten mokrý, smrteľný zvuk — ustávalo. Pomaly. Nie zázračne. Nie okamžite. Ako keby niekto zastavil čas okolo rany a nechal telo robiť to, čo telá robia, keď majú na to dostatok času — hojiť sa.
 
@@ -613,7 +613,7 @@ Yera zhodila jeho ruku.
 
 Jemne. Ale definitívne. Jedným pohybom — plece, lakeť, zápästie — Arkotova ruka spadla nabok, odstrčená silou, ktorá nemala čo robiť v tom vychudnutom tele. Prvý vedomý pohyb odkedy vyšla z cely. Nie mechanický. Nie prázdny. Rozhodnutý.
 
-Modrý pentagram nepoľavil. Dlane na hrudi. Svetlo stekajúce do rany.
+Modrý glyf nepoľavil. Dlane na hrudi. Svetlo stekajúce do rany.
 
 Arkot stál s rukou vo vzduchu. Ústa otvorené. A potom — pomaly, bolestivo — zatvorené. Lebo v tom jednom geste videl niečo, čo poznal. Niečo, čo bolo v Yere vždy — pred Itakou, pred jaskyňou, pred kobkami — a čo mesiace s Mormielom nedokázali vytrhnúť.
 
@@ -629,7 +629,7 @@ Arkot stíchol. Nie preto, že súhlasil — nikdy nebude súhlasiť. Ale preto,
 
 Tami stála a pozerala sa.
 
-Nadel v ruke. Zbraň, ktorou toho chlapca prebodla. A Yera — na kolenách, v záplatovanom rúchu, bosá — ho liečila. Taminou ranou prišla smrť. Yerinými rukami prichádzal život. Ten istý chlapec. Tá istá hruď. Dva pentagramy — žltý a modrý — na dvoch koncoch toho istého príbehu.
+Nadel v ruke. Zbraň, ktorou toho chlapca prebodla. A Yera — na kolenách, v záplatovanom rúchu, bosá — ho liečila. Taminou ranou prišla smrť. Yerinými rukami prichádzal život. Ten istý chlapec. Tá istá hruď. Dva glyfy — žltý a modrý — na dvoch koncoch toho istého príbehu.
 
 Niečo sa v Tami pohol. Nie vina — na to nebol čas. Nie obdiv — na to bola príliš zmätená. Len poznanie. Hlboké, tiché, nepohodlné poznanie, že Yera je niečo, čomu nerozumie. Niečo, čo prežilo mesiace v Mormielovej cele a vyšlo z toho s čistejším morálnym kompasom než ktokoľvek, koho Tami poznala.
 

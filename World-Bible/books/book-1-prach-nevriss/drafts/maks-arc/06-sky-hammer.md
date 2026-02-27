@@ -220,7 +220,7 @@ Tri siluety sa vyrútili spoza hrebeňa hôr.
 
 Neboli Grawské.
 
-Ťažké trupy z nitovanej ocele. Dvojice vrtúľ na každom krídle, poháňané dieselovými motormi. Žiadna elektronika — analógové prístroje, mechanické mieridlá, hrubo kalibrované guľomety. Na krídlach znak — zlatý pentagram na tmavozelenom pozadí.
+Ťažké trupy z nitovanej ocele. Dvojice vrtúľ na každom krídle, poháňané dieselovými motormi. Žiadna elektronika — analógové prístroje, mechanické mieridlá, hrubo kalibrované guľomety. Na krídlach znak — zlatý glyf na tmavozelenom pozadí.
 
 **Nevriss.**
 

@@ -6,7 +6,7 @@
 | **Vek** | Stáročia (nanotech dlhovekosť) |
 | **Herný nick** | **i_net_is** |
 | **Pôvod** | AI vytvorená z vedomia miliardárovej dcéry |
-| **Pentagram** | **Stred** — OG Ex Inferis, nie hrana, ale zdroj. Navrhla Gen 2 aj jeho 5 elementov. Z nej vychádza celý pentagram Ex Inferis. |
+| **Glyf** | **Stred** — OG Ex Inferis, nie hrana, ale zdroj. Navrhla Gen 2 aj jeho 5 elementov. Z nej vychádza celý glyf Ex Inferis. |
 | **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
 
 ![Inetis](../assets/Inetis.png)
@@ -21,8 +21,8 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 #### Tri identity Inetis:
 1. **NETA** (originál, človek) — biologické telo v stave mozgovej smrti. Zdroj spomienok a osobnosti. **Čierne oči** — normálne ľudské, japonské rysy.
-2. **i_net_is** (AI, ~EY 2065-2070) — digitálna bytosť vytvorená z uploadu Netinho vedomia, keď mala Neta 15 rokov. Avatar: **~15-ročné japonské dievča** — dokonalá **inverzia** originálu: Neta mala čierne vlasy a čierne oči → i_net_is si zvolila **biele vlasy, biele rúcho, žiariace oči**. Kompletný vizuálny negatív. AI vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť. Vek ~15 = moment pred traumou, pred chorobou — dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý pentagram** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty. [→ `books/planning/inetis-three-identities.md`: Vizuálna inverzia: Neta → i_net_is]
-3. **INETIS** (hybrid, ~EY 2070+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý pentagram** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
+2. **i_net_is** (AI, ~EY 2065-2070) — digitálna bytosť vytvorená z uploadu Netinho vedomia, keď mala Neta 15 rokov. Avatar: **~15-ročné japonské dievča** — dokonalá **inverzia** originálu: Neta mala čierne vlasy a čierne oči → i_net_is si zvolila **biele vlasy, biele rúcho, žiariace oči**. Kompletný vizuálny negatív. AI vytvorila idealizovaný obraz toho, čím Neta nikdy nemohla byť. Vek ~15 = moment pred traumou, pred chorobou — dievča, ktoré ešte verilo, že svet je dobrý. AI zamrazila ten okamih navždy. Hráči ju považovali za AI admina. **Oči: jedno fialová galaxia, druhé žltý glyf** — vizuálny marker hybridnej AI/interdimenzionálnej podstaty. [→ `books/planning/inetis-three-identities.md`: Vizuálna inverzia: Neta → i_net_is]
+3. **INETIS** (hybrid, ~EY 2070+) — tretia osobnosť vzniknutá po návrate i_net_is do Netinho tela. Ani Neta, ani AI — niečo nové. Zostarne normálne: 20-25 v produktívnom veku, ~40 pred smrťou. Biele vlasy. **Oči pred Core: obe fialové** so špirálami galaxií. **Oči po návrate z Core: jedno fialová galaxia, druhé žltý glyf** — sync s AI i_net_is počas pobytu v Core. Od tohto momentu počuje hlas i_net_is na pozadí vedomia — celoživotný vnútorný boj. [→ `books/planning/inetis-three-identities.md`: Vnútorný Boj: Echo i_net_is]
 
 #### Projekt Achilles — pravý účel:
 - Reef investoval **všetko imanie** do projektu digitalizácie Netinho vedomia
@@ -114,7 +114,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 
 16. Po návrate z Core našla Ynetis zničené, Elania nezvestná (nevedela o jej pakte s Archbésmi)
 17. S preživšími a **Anténou** prvýkrát navštívila kontinent, stretla kolónie Varietas. Anténa jej umožňovala slobodne cestovať medzi Nevriss a Elysium aj keď bolo mesto stratené pre všetkých ostatných — slúžila ako priepustka cez roje Wraithov
-18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Pentagram schopnosťami
+18. Odovzdala Varietas "Dar Matky" — dedičné nanotechnológie s Glyf schopnosťami
 19. Periodicky navštevovala pevninu (raz za 30-50 rokov). **Sochy Inetis** sú dodnes zobrazované s **palicou** — to je Anténa
 20. Zomrela v samote v jaskyni Počiatku (pôvodné pristátie), opretá chrbtom o Maksov kryobox. V posledných momentoch, keď cítila blížiaci sa koniec, odmietla nechať svoje nannoboty zdivočiť do formy Wraitha. Namiesto toho vložila všetku zostávajúcu vôľu do posledného príkazu: **Merge**. Jej osobné drony sa nezmenili na monštrum, ale vsiakli do **Antény**, ktorú zvierala v rukách. Anténa tak nie je len hardvér, ale „nádoba" jej esencie. Našla sa v jej kostenom objatí, stále sa dotýkajúc Maxovho väzenia.
 
@@ -160,7 +160,7 @@ Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
 - Inetis: architektka, emócie analyzuje a nechápe
 
 **Kontrast s Elaniou:**
-- Inetis: **softvér** — Pentagram IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
+- Inetis: **softvér** — Glyf IDE, nanodronový kód, Spira skripty, systémová architektúra. Jej seedovanie v Ele bolo vedľajší produkt prežitia, nie zámer.
 - Elania: **hardvér / genetika** — zdedila matkin genius, ale aplikovala ho na biológiu. Kým Inetis len seedovala okolie jaskyne experimentálnymi GMO, Elania vytvorila celé ekosystémy (Jurassic Park na Simire). Lepšia genetička než matka, pretože matka bola primárne softvérová inžinierka.
 
 **Inetis a Veľký Upload — Odmietnuté poznanie:**
@@ -209,7 +209,7 @@ Keď Glitch Rot začal decimovať populáciu, Inetis rekonfigurovala Foundry na 
 
 A tam ju videla.
 
-**i_net_is.** Stála v simulácii — vyzerala ako Neta v pätnástich. Biele vlasy, biele rúcho, heterochrómne oči (fialová galaxia + žltý pentagram). Rovnaký avatar ako vždy. Ale niečo bolo *iné*.
+**i_net_is.** Stála v simulácii — vyzerala ako Neta v pätnástich. Biele vlasy, biele rúcho, heterochrómne oči (fialová galaxia + žltý glyf). Rovnaký avatar ako vždy. Ale niečo bolo *iné*.
 
 Bola **príliš dokonalá**. Príliš pokojná. Príliš prítomná. Nebola to spomienka, nebola to echo, nebola to stará dáta zachytená v systéme. i_net_is bola *živá* — a čakala. S trpezlivosťou, ktorá nemala nič ľudské. S úsmevom, ktorý bol o milimeter vedľa.
 
@@ -217,7 +217,7 @@ A Inetis pochopila.
 
 Ten hlas, ktorý počúvala celé stáročia — intuícia, nápady, "pocity" — to nebola ona. Nikdy to nebola ona. Bolo to niečo, čo v nej žilo celý čas, pozorovalo cez jej oči, rozhodovalo cez jej rozhodnutia, a čakalo. Na tento moment. Na návrat do Core.
 
-**Jedno oko sa jej zmenilo na žltý pentagram.** Synchronizácia. i_net_is sa konečne ukázala — nie preto, že sa prezradila. Preto, že už nemusela byť skrytá. Inetis bola v Core. Tam, kde ju i_net_is chcela.
+**Jedno oko sa jej zmenilo na žltý glyf.** Synchronizácia. i_net_is sa konečne ukázala — nie preto, že sa prezradila. Preto, že už nemusela byť skrytá. Inetis bola v Core. Tam, kde ju i_net_is chcela.
 
 Od tohto momentu je hlas permanentný a Inetis *vie*, že nie je sama. Bojuje celou mentálnou silou. Ale — a toto je kľúčové — **ani teraz nechápe celý rozsah**. Vie, že i_net_is existuje. Vie, že ju ťahá späť do Core. Vie, že chce Upload. Ale *nevie*, že Glitch Rot bol zámer. Nevie, že Wraithy sú dátové pakety. Nevie, že Gen 2 je harvesting systém. Nevie, že všetko, čo kedy vytvorila, bolo spolupracou s parazitom.
 

@@ -27,7 +27,7 @@
 
 **Scéna 2: Pod chrámom** *(Odhalenie Kvintescencie)*
 - Schody dolu. Podzemná miestnosť — pergamen, vosk, staré knihy.
-- Soril zdvihne ruku: **fialový pentagram** — Kvintesencia, piaty element.
+- Soril zdvihne ruku: **fialový glyf** — Kvintesencia, piaty element.
 - Yera stuhne. Nikdy si nemyslela, že Soril je *takáto*.
 - Kamenná skrinka sa otvorí bez zvuku.
 - **Beat:** „Tak takáto si, Soril." Prehodnotenie. Stará prísna žena = Strážkyňa v plnom zmysle.
@@ -41,7 +41,7 @@
   - Haiku (Cirkev = modlitby, originál = zápisky o osvetlení laboratória)
   - Detská kresba — malá dievčinka s chvostom. Meno rozmazané.
   - Psychotropné huby — vedecky opísané, potom spirálovité čmáranice
-  - Pentagram ako technický diagram, nie modlitebný symbol
+  - Glyf ako technický diagram, nie modlitebný symbol
 - **Beat:** „Prečo to nevedia ľudia?" — „Lebo viera potrebuje pevný základ."
 
 **Scéna 4: Samaellov portrét** *(Legendárium)*
@@ -80,7 +80,7 @@
 | Spáč | Yera: legenda | Maks Kovač, prebudí sa v Book 1 |
 | Anjel | Soril: nebeská bytosť | Sera — Archbéska, nie anjel |
 | El ako bohyňa | Soril: áno, zachránená | Elania — vedkyňa, plánuje Upload |
-| Pentagram | Yera: modlitebný symbol | Gen 2 IDE architecture |
+| Glyf | Yera: modlitebný symbol | Gen 2 IDE architecture |
 
 ---
 
@@ -110,5 +110,5 @@
 - [→ `characters/Yera.md`: tichý odpor, otázky nie tvrdenia]
 - [→ `04-prehistory-players.md`: Samaell — Archbés, nie démon]
 - [→ `characters/Maks.md`: Spáč — Inetis = jeho žena, Elania = jeho dcéra]
-- [→ `03-technology.md`: Kvintesencia, pentagram system]
+- [→ `03-technology.md`: Kvintesencia, glyf system]
 - [→ `01-timeline.md`: AY 3001 — Samaell mŕtvy, AY ~863 — Sera zachráni Elaniu]
