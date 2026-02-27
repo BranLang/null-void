@@ -119,7 +119,7 @@ Vtedy to uvidela.
 
 Infera.
 
-Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvieta červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť.
+Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvietia červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť.
 
 *Diablovo Oko.*
 
@@ -133,7 +133,7 @@ Dav ju niesol ďalej. Preč od Chrámu, preč od námestia, preč od hudby, smer
 
 ---
 
-Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviacé laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
+Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviace laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
 
 Yera sa zastavila. Nevstúpila sem úmyselne — dav sa rozriedil a ona len kráčala za vôňou mora, za tichom, za niečím, čo nevedela pomenovať.
 
@@ -214,7 +214,7 @@ Nie preto, že to nikdy nevidela. Videla to každý večer. Z balkóna, z izby, 
 
 „Odkiaľ si?" spýtala sa. Otázka vyšla skôr, než ju stihla zastaviť.
 
-Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj- poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
+Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj-poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
 
 „Beladiss," povedal. „Diss."
 
