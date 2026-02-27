@@ -287,37 +287,9 @@ Soril len nepatrne a pochvalne prikývla. Ako keby nepochopenie bola presná a o
 „Zajtra o takomto čase.“ Odmietla akýkoľvek hlbší komentár.
 
 Opakovalo sa to. Deň za dňom. Nové verše, nové pasáže. Yera prichádzala s rečou o viere a nádeji, no Soril všetky posvätné mantry presekávala tichými, pragmatickými otázkami.
-*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh" — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa jej tu trasie ruka — vidíš? — tu, uprostred vety, naraz prestane byť pokojná?*
+*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh" — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa tu veta zastaví — vidíš? — uprostred myšlienky, naraz prestane byť pokojná?*
 
-Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež.
-
-Jedného dňa Soril listovala rýchlejšie. Preskakovala pasáže — niektoré stránky otočila bez zastavenia, bez otázky, bez pohľadu. Yera to sledovala. Tri stránky. Štyri. Piata.
-
-„Počkaj."
-
-Soril zdvihla oči.
-
-Yera natiahla ruku a otočila stranu späť. Bez dovolenia. Prsty na bielom dreve väzby — tam, kam sa žiačky nedotýkali, kam sa dotýkala len Soril. Stránka, ktorú Soril preskočila.
-
-Text bol hustejší. Iný. Nie verše — zoznam. Čísla, miery, pomery. Niečo, čo vyzeralo ako recept, ale s výrazmi, ktoré Yera nepoznala. A na okraji — kresba. Malá, presná, technická. Päťcípa hviezda vpísaná do kruhu. Pod ňou symboly v Staroreči — nie modlitba, nie poézia. Niečo iné. [→ 03-technology.md: Glyf — 5 elementov Spiry. Kniha El obsahuje aj technické pasáže, maskované medzi veršami.]
-
-„Čo je toto?" spýtala sa Yera.
-
-Soril mlčala. Dlho. Tak dlho, že Yera zdvihla pohľad od strany a pozrela sa na ňu. Kňažka mala zvláštny výraz — nie hnev, nie prekvapenie. Niečo bližšie k ostražitosti. Akoby Yera otvorila dvere, o ktorých ešte nemala vedieť.
-
-„Niečo, na čo nie si pripravená."
-
-„Preskočila si to."
-
-„Áno."
-
-„Prečo?"
-
-Soril pozrela na stranu. Na kresbu. Na čísla. Potom späť na Yeru — a v jej pohľade bolo niečo nové. Nie pochvala. Horšie. Prehodnocovanie.
-
-„Lebo väčšina sa nikdy nespýta," povedala Soril. Zavrela Knihu. Pomaly, rozhodne, bielymi doskami, ktoré jemne klapli. „Zajtra."
-
-Yera zostala sedieť. Pozerala na zatvorenú Knihu na stole a vedela — presne, jasne, bez pochybností — že Soril preskakuje strany zámerne. Nie preto, že nie sú dôležité. Preto, že sú. [NOTE: Prvý aktívny moment — Yera siahne po Knihe bez dovolenia a nájde Glyf (glyf). Soril to neočakávala a prehodnocuje Yeru. Yera tu prestáva byť študentka — začína byť hráčka. Foreshadowing: Yera bude Knihu čítať sama v podzemnej knižnici (Ch3) a nakoniec ju ukradne. Tu je zárodok — nie rebélia, ale zvedavosť, ktorú Soril nemôže zastaviť.]
+Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež. [NOTE: Soril tu pracuje len s Bielou Knihou — sanitizovanou kópiou. Žiadne technické kresby, žiadne glyfy, žiadne preskakované strany. To všetko príde až v Ch3, keď Soril ukáže originál (Čiernu knihu). Tu Soril len učí Yeru čítať text kriticky — klásť otázky, nie opakovať.]
 
 Po čítaní prichádzala na rad Spira. Žiadne klasické liečiteľské rituály. Žiadne tabuľky s modlitbami za uzdravenie. Soril ju viedla priamo k Ľadu.
 
@@ -372,7 +344,7 @@ Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešan�
 Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a pokojným tempom plavca.
 „To je z tej svätej knihy?“
 „Áno.“
-Zacítila letný úsmev odrážajúci sa na svalvine jeho sánky.
+Zacítila letný úsmev odrážajúci sa na línii jeho sánky.
 „Zvláštne slová pre svätú knihu. Znie to skôr ako niekto, kto sa stratil.”
 „Áno,” vydýchla si Yera, upierajúc pohľad do nehybnej machovej škáry oproti nim. „Presne tak to znie.” [NOTE: Foreshadowing — Arkot, ktorý nikdy nečítal Knihu, okamžite počuje to, čo Yera po rokoch v chráme len začína cítiť: že to nie sú slová bohyne, ale strateného človeka. Zárodok pochybnosti. → the-book-of-El.md]
 
@@ -386,7 +358,7 @@ A čakala na noc.
 
 Jedného rána — bolo to po siedmej, možno ôsmej noci v záhrade — Soril nečakane zatvorila Knihu skôr, než zvyčajne. Pozrela na Yeru. Dlho. Tým pohľadom, ktorý nebol otázka a nebol odpoveď. Bol to pohľad ženy, ktorá vidí niečo, čo ešte nechce pomenovať.
 
-*„Dobre spíš?"* spýtala sa.
+*„Spávaš dobre?"* spýtala sa.
 
 *„Áno,"* klamala Yera.
 
