@@ -13,7 +13,7 @@
 ## Ciele kapitoly:
 - [x] Soril pristihne Yeru s Arkotom — crack v maske Strážkyne
 - [x] Odhalenie Kvintescencie — Yera vidí Sorilinu skutočnú silu
-- [x] Prvý kontakt s originálnou Knihou El — zakázané pasáže, Samaell, fialové pulzovanie
+- [x] Prvý kontakt s originálnou Knihou El — zakázané pasáže, Samaell, temné fialové svetlo
 - [x] Sorilino priznanie — bola ako Yera, dodnes sa bojí
 - [x] Dva opačné závery z jedného textu — zárodok Yerinej zrady
 - [x] Budovanie legendária — Spáč, Samaell, rituál Strážkyne
@@ -40,77 +40,65 @@ Zastavila sa pred kovanými dverami do vnútra chrámu. Ruky poklesli k bokoch. 
 
 Tichšie než šepot. Skoro pre seba.
 
-Zaštrngotala kľúčmi. Prvý raz od záhrady pohľad mimo Yeru — dole, na zväzok kľúčov, akoby hľadala správny, hoci ho určite poznala naslepo. [NOTE: Soril zlyhá pri premostení — neplánovala to povedať nahlas. Toto je prvý crack. Yera si to zapamätá.]
+Prvý raz od záhrady pohľad mimo Yeru — dole, na kované dvere, akoby sa rozhodovala. [NOTE: Soril zlyhá pri premostení — neplánovala to povedať nahlas. Toto je prvý crack. Yera si to zapamätá.]
 
 *„Ešte nenadišiel tvoj čas,"* povedala. Tvrdší tón — vrátila sa. *„Ešte si nedokončila tréning."*
 
-Otočila kľúčom.
+Zdvihla pravú ruku.
+
+Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
+
+Yera stuhla.
+
+Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby niečo v jej tele odpovedalo na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintescenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
+
+Vedela o Kvintescencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
+
+Dvere sa otvorili bez zvuku.
+
+*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
+
+Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
+
+Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
+
+Yera nedýchala.
+
+*„Jednou nohou tu,"* povedala Soril. Ruka bola zase celá. *„Druhou tam. A svet ťa prestane vidieť."*
+
+*„Ale zle —"* Zastavila sa. *„—"*
+
+Nedopovedala. [NOTE: Soril VIE čo sa stane — glyf zasvieti fialovo → zmení sa na červeno → nekonečná slučka → kryštalizácia. Nepovedala to. Nechala to visieť. Foreshadowing Mayi — Yera si zapamätá ticho, nie slová. Keď neskôr stretne Mayu, doplní si sama.]
 
 Schody viedli dole. [→ regions/nyau.md: podzemná časť chrámu El — tajná knižnica, existencia nie je verejná]
 
 ---
 
-Miestnosť za poslednými dverami voňala starým pergamenom a voskom. Vzduch bol chladnejší tu dole — vlhký, tichý, odrezaný od sveta.
+Miestnosť za poslednými schodmi voňala starým pergamenom a voskom. Vzduch bol chladnejší tu dole — vlhký, tichý, odrezaný od sveta.
 
 Jedna sviečka na stole, ďalšia na polici. Knihy pozdĺž stien — nie ozdobné, nie liturgické, staré a ošúchané ako veci, ktoré sa skutočne čítajú. Väzby z rôznych materiálov — koža, drevo, niečo, čo vyzeralo ako kôra bioluminiscenčného stromu. Yera ich chcela čítať všetky. [→ regions/nyau.md: zakázaná knižnica — texty, ktoré Cirkev El vyradila z obehu. Kňažky o nej nevedia.]
-
-Ale nie na to sa dívala.
-
-Na stole, medzi dvoma čiernymi tabuľkami, ležal zväzok pergamenov.
-
-Pulzoval. Nie silno — sotva znateľne, ako žilky na zápästí niekoho, kto práve bežal. Fialové svetlo sa strácalo a objavovalo v rytme, ktorý Yera nevedela pomenovať. Nie srdce. Niečo pomalšie. Hlbšie. Ako dýchanie lesa v noci, keď si myslíš, že si tam sám, a nie si. [→ 04-elanias-blade.md: čierne tabuľky = nakonfigurovaný Čierny Prach — pohlcuje svetlo, fialové podsvetlo. Rovnaký materiál ako čierna brána svätyni pod Šoravenom. Fialové žilky = intrinsická vlastnosť Prachu. → NOTE: Elania mala Prach v sebe (Gen 1, z Elysia/Inetis). Prišla na to, že Glitch Rotom napadnuté častice môže vytiahnuť z vlastného tela a nakonfigurovať do pevnej hmoty — obal Knihy. Robila to kým sa úplne nezasekla. Čierne tabuľky = doslova Elaniina choroba pretavená do artefaktu. Cirkev El uctievajú obal, ktorý je zhmotnená bolesť ich bohyne. Prach reaguje na živú Spiru v okolí — preto pulzuje silnejšie pri Yere (Pursang).]
-
-*„Čo je to, Soril?"*
 
 Soril sa na ňu pozrela.
 
 Ten pohľad nemal slová. Mal päťdesiat rokov. [NOTE: Soril má ~14 zím (~70 rokov). „Päťdesiat rokov" (= 10 zím) = odkedy si vybrala Chrám nad svojím Arkotom. Bola ~4 zimy (~20 rokov) keď sa rozhodla. → characters/Soril.md]
+
+Zdvihla ruku. Glyf na kamennej skrini v stene sa rozžiaril — rovnaká fialová, rovnaká geometria. Kameň sa otvoril bez zvuku. [NOTE: Skriňa je zapustená v stene. Kamenná, masívna, s glyfom — rovnaký princíp ako dvere hore.]
+
+Vnútri, medzi dvoma čiernymi tabuľkami, ležal zväzok pergamenov.
+
+Tabuľky boli monolitické. Čierne. Matné. Pohlcovali svetlo sviečky ako diera v stene — nič sa z nich neodrazilo. Ale niečo z nich vychádzalo: temné fialové svetlo, sotva viditeľné, tlejúce hlboko v materiáli ako uhlíky pod popolom. Nie teplo. Nie žiara. Niečo staršie. [→ 04-elanias-blade.md: čierne tabuľky = nakonfigurovaný Čierny Prach — Gen 1 nanočiastky napadnuté Glitch Rotom, extrahované z Elaniinho tela a nakonfigurované do pevnej hmoty. Pohlcujú svetlo, vyžarujú temné fialové podsvetlo. Rovnaký materiál ako čierna brána svätyni pod Šoravenom. → NOTE: Elania to robila kým sa úplne nezasekla. Čierne tabuľky = doslova Elaniina choroba pretavená do artefaktu. Cirkev El uctievajú obal, ktorý je zhmotnená bolesť ich bohyne.]
+
+*„Čo je to, Soril?"*
+
+Soril vybrala knihu zo skrine a položila ju na stôl. Opatrne — nie posvätne, skôr tak, ako kladieš na stôl niečo, čo je krehké a staré a nikto ti ho nevráti, ak sa zlomí. [→ the-book-of-El.md: originál = čierne tabuľky + pergameny. ~200 strán tenkého pergamenu z bioluminiscenčných stromov. Biela Kniha El v chráme = hand-copied, sanitizovaná kópia. Verejné odhalenie každú zimu.]
+
+Fialové svetlo v čiernom obale zosilnelo — sotva, ale Yera si bola istá. Akoby niečo v materiáli zareagovalo na jej blízkosť. [→ 04-elanias-blade.md: Prach reaguje na živú Spiru v okolí — Yera je Pursang, vysoká bazálna hladina → silnejšia reakcia. Temné fialové svetlo = intrinsická vlastnosť Prachu, NIE pergamenu — listy knihy nesvetielkujú.]
 
 Potom si stiahla stoličku, druhú posunula k Yere, a sadla si. Ako matka pri lampe. Ako učiteľka pred skúškou. Ako niekto, kto sa dlho rozhodoval a práve sa rozhodol.
 
 *„Sadni."*
 
 Yera sadla.
-
----
-
-Soril zdvihla pravú ruku.
-
-Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na stene skrine sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
-
-Yera stuhla.
-
-Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby každá nanočastica v jej tele odpovedala na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintescenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
-
-Vedela o Kvintescencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
-
-Kameň skrine sa otvoril bez zvuku.
-
-*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
-
-Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
-
-*„Nie je to dar,"* povedala. *„Je to brána."*
-
-Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
-
-Yera si nedýchala.
-
-*„Stojíš jednou nohou tu a druhou tam."* Ruka bola zase celá. *„A svet ťa prestane vidieť."*
-
-Pauza. Prst prešiel po okraji skrine.
-
-*„Ale otvor bránu zle —"* Zastavila sa. *„—"*
-
-Nedopovedala. [NOTE: Soril VIE čo sa stane — glyf zasvieti fialovo → zmení sa na červeno → nekonečná slučka → kryštalizácia. Nepovedala to. Nechala to visieť. Foreshadowing Mayi — Yera si zapamätá ticho, nie slová. Keď neskôr stretne Mayu, doplní si sama.]
-
----
-
-Soril položila knihu medzi ne. [→ the-book-of-El.md: originál = čierne tabuľky + pergameny. ~200 strán tenkého pergamenu z bioluminiscenčných stromov. Biela Kniha El v chráme = hand-copied, sanitizovaná kópia. Verejné odhalenie každú zimu.]
-
-Opatrne — nie posvätne, skôr tak, ako kladieš na stôl niečo, čo je krehké a staré a nikto ti ho nevráti, ak sa zlomí.
-
-Fialové žilky v čiernom obale sa zachveli. Rýchlejšie, silnejšie — akoby niečo v materiáli zareagovalo na Yerinu blízkosť. [→ 04-elanias-blade.md: čierne tabuľky = nakonfigurovaný Čierny Prach. Fialové žilky = intrinsická vlastnosť Prachu, NIE pergamenu — listy knihy nesvetielkujú. Prach reaguje na živú Spiru v okolí — Yera je Pursang, vysoká bazálna hladina → silnejšia reakcia.]
 
 *„To, čo ľudia prídu uctiť každú zimu,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
 
@@ -164,7 +152,7 @@ V rohu strany, drobne, v Staroreči: *architecture.*
 
 Jedno slovo. Elaniin rukopis. A Yera pochopila — nie náhle, nie dramaticky, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život. Soril nepreskakovala strany z opatrnosti. Preskakovala ich, lebo v bielej Knihe bola modlitba. V origináli bol výkres.
 
-Obal blikol — rýchlejšie na sekundu, dve — a vrátil sa k pôvodnému rytmu. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
+Fialové svetlo v obale na sekundu zosilnelo — a vrátilo sa späť. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
 
 ---
 
@@ -196,7 +184,7 @@ Na okraji strany vedecký popis: druh huby, dávkovanie, čas účinku, vedľaj�
 
 O tri riadky nižšie ten istý rukopis degeneroval do spirálovitých čmáraníc — fragmenty slov, ktoré sa nezačínali a nekončili, atrament rozmazaný po strane, akoby sa ruka triasla. Alebo plakala. [NOTE: Yera vidí bod zlomu. Nie vzostup, nie osvietenie. Rozpad. Toto v bielej Knihe nie je — nie škandál. Bolesť. Originál to však zachoval všetko.]
 
-Yera sa dotkla okraja čiernej tabuľky. Fialové žilky pod jej prstom zbledli — rýchlo, ostro — a vrátili sa, keď odtiahla ruku. [→ 04-elanias-blade.md: Prach reaguje na fyzický kontakt — rovnako ako steny svätyni pod Šoravenom reagovali na Maksa. Gen 1 materiál cíti Gen 2 nositeľa. → NOTE: Tento dotyk je dôležitý — prvý fyzický kontakt s Prachom. Intímny moment. Yera sa Knihy dotkne znova — keď ju ukradne.]
+Yera sa dotkla okraja čiernej tabuľky. Fialové svetlo pod jej prstom zbledlo — rýchlo, ostro — a vrátilo sa, keď odtiahla ruku. [→ 04-elanias-blade.md: Prach reaguje na fyzický kontakt — rovnako ako steny svätyni pod Šoravenom reagovali na Maksa. Gen 1 materiál cíti Gen 2 nositeľa. → NOTE: Tento dotyk je dôležitý — prvý fyzický kontakt s Prachom. Intímny moment. Yera sa Knihy dotkne znova — keď ju ukradne.]
 
 *„Prečo to nevedia ľudia?"* spýtala sa. Tichšie, než predtým.
 
@@ -256,7 +244,7 @@ Pauza. Dlhá.
 
 *„A dodnes sa bojím."*
 
-Plameň sa zachvel. Fialové žilky.
+Plameň sa zachvel. Fialové svetlo v obale.
 
 *„Ale viera mi dáva silu."* [NOTE: Soril nepovie čoho sa bojí. Čitateľ vidí — bojí sa, že Samaell príde po Knihe. Nevie, že je mŕtvy. Päťdesiat rokov strážila pred hrozbou, ktorá zanikla pred dvanástimi rokmi. → 01-timeline.md: Samaell AY 3001. → characters/Soril.md: jej celý život je postavený na tejto hrozbe.]
 
@@ -314,7 +302,7 @@ Soril nepozerala na ňu. Pozerala na portrét. Na unavenú tvár, na to jediné 
 
 *„Rovnako bláznivo zamilovaná do krásneho chlapca."*
 
-Sviečka horela. Fialové žilky v obale sa strácali a objavovali.
+Sviečka horela. Temné fialové svetlo v obale tlelo.
 
 Yera nič nepovedala. Čakala. Vedela — inštinktom, nie rozumom — že toto nie je koniec vety. Že Soril ešte nie je hotová. [NOTE: Yera je trpezlivý poslucháč — jeden z jej najsilnejších rysov. Vie kedy mlčať. → characters/Yera.md]
 
