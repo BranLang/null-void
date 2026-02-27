@@ -196,7 +196,7 @@ Portrét zaoberal celú plochu pergamenu. Nie abstraktný — konkrétny, detail
 
 Pod portrétom jediné slovo.
 
-*He.* [NOTE: Kto to napísal? Elania kreslila portrét. Ale *He* — jedno slovo v Staroreči — mohol napísať Samaell sám. Pod kresbu, ktorú nakreslila ona. Potvrdenie: áno, to som ja. → the-book-of-El.md: Samaellove kapitoly — pridal vlastné strany potom, čo Elania odišla so Serou.]
+*He.* [NOTE: Kto to napísal? Elania kreslila portrét. Ale *He* — jedno slovo — mohol napísať Samaell sám. Pod kresbu, ktorú nakreslila ona. Potvrdenie: áno, to som ja. Jazyk je ambivalentný — Samaell píše po nemecky (rakúsky pôvod), ale „He" je anglické. Mohol poznať oboje. Alebo je to fragment — nie jazyk, len zvuk. → the-book-of-El.md: Samaellove kapitoly sú po nemecky. Nikto na Achille nevie prečítať nemčinu okrem Felixa (Mako).]
 
 Yera hľadela na tú tvár dlho. Na tie oči. Na to slovo.
 

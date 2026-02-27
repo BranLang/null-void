@@ -24,6 +24,33 @@
 - Tami tu má kontakty — budovala si reputáciu v Raiju predtým. Vie, komu predať, komu sa vyhnúť.
 - Predaj artefaktov, zásoby na expedíciu. Yera vidí treasure hunting ekonomiku v praxi.
 
+### BEAT 1.5: Pirátsky súboj nad Raiju — Legenda sa zrodí
+
+Tri pirátske vzducholode terorizovali obchodné cesty nad Raiju celú zimu. Kupci platili výpalné. Kráľ Raiju bol bezmocný — nemal vzdušné sily.
+
+Itaka príde do Raiju. Štyria tínedžeri na poloprázdnej lodi. A nad mestom — piráti.
+
+**Súboj:**
+- Tami sa rozhodne. Nie zo stratégie — z impulzu. Z toho istého ohňa, ktorý ju definuje. *„To sú traja. My sme štyria."*
+- Arkot naviguje cez oblaky — génius v kokpite. Čítanie prúdov, terén, úhly. Piráti poznajú oblohu nad Raiju. Arkot ju prečíta za minúty.
+- Flint pri kanóne — sám, bez Borga. Jeden strelec, tri ciele. Rýchly, presný, odvážny. Najlepší deň jeho života.
+- Yera v stealth — neviditeľná na palube pirátskej lode, prerezáva laná, sabotuje. Prvé bojové nasadenie jej schopností.
+- Tami riadi všetko — kričí rozkazy, mení kurz, improvizuje. Nie skúsená kapitánka. Ale **rýchla**. A odvážna za hranicu rozumu.
+
+Tri pirátske lode dole. Nad Raiju sa čistí obloha.
+
+**Kráľ Raiju ich osobne prijme.** Hostina, pocty, dary. Štyria tínedžeri, ktorých pred zimou nikto nechcel — sú cez noc **legendy**. Príbeh sa šíri prištavom: *dievča s líščím chvostom a tri lode v plameňoch.*
+
+**Dôsledok — Nábor:**
+- Zrazu **každý chce slúžiť na Itake**. Z núdze na autoritu za jednu bitku. Tami si VYBERÁ z fronty dobrovoľníkov — opak situácie z Kitsune, kde nikto nechcel ísť.
+- **Borg** (Ghorki medveď, tichý obor) — sadne si ku kanónu. Nespýta sa prečo. Pre Yeru upokojujúci — obor, ktorý nepotrebuje slová.
+- **Nix** (Mezra králik, mechanik, sarkastický humor, jedno ucho) — prvá vec na palube: skontroluje motor a nadáva hodinu. Ale ruky, ktoré opravia čokoľvek.
+- **Dynamika sa zmení**: Z intímnej štvorky na funkčnú posádku. Loď začne dýchať. Tami sa prvýkrát cíti ako skutočná kapitánka — nie z dedičstva, ale zo zásluh.
+
+[NOTE: Toto je Tamina „earning the name" scéna. Dedko jej nechal loď. Posádka odišla. Nikto neveril. A ona nad Raiju dokázala, že Rennova krv nie je len meno. Od tejto chvíle je Itaka jej — nie zdedená, ale zaslúžená.]
+[NOTE: Flintov najlepší deň — sám pri kanóne, tri lode, perfektné zásahy. Toto je moment, na ktorý sa bude odvolávať neskôr — keď bol nenahraditeľný, keď bol hrdina. Pred Yerou, pred mapou, pred pocitom zbytočnosti.]
+[NOTE: Yerin bojový debut — stealth na pirátskej lodi. Chrámová technika použitá vo vojne. Sorilino dedičstvo v akcii.]
+
 ### BEAT 2: Dobrodružstvá a piráti
 - Expedície z Raiju — menšie ruiny, prieskumy, artefakty. Tréning pre veľkú expedíciu.
 - **Pirátsky súboj**: Na trase alebo pri odlete — pirátska vzducholoď. Šarvátka, pokus o lúpež.
@@ -33,11 +60,11 @@
 - **Maks echo**: Niekto v Raiju zmieni Exorcistu. *„Pred mesiacom tu bol človek. Vyčistil studňu od prachu. Zaplatili sme mu a povedali, nech vypadne."* Pre Yeru kuriozita. Pre čitateľa: dramatic irony.
 
 ### BEAT 3: Flint a Tami — Rozbúška
-- Mesiace na Itake. Blízkosť, spoločné nebezpečenstvo, nočné rozhovory. Flint padá hlbšie.
-- **Flint sa odváži.** Vyhlási sa. Je odvážny, rýchly, vtipný. Myslí si, že má šancu.
-- **Tami to skúsi.** Nie z lásky — z osamelosti, z potreby zabudnúť na Maksa. Flint je tu, je milý, je odvážny. Chce to cítiť. Chce, aby to fungovalo.
-- **Potom si to rozmyslí.** *„Skúsila som a nedokážem."* Maks je stále v jej hlave — aj po rokoch mlčania. Duch, ktorého nemôže zabiť.
-- **Najhoršia odpoveď.** Keby povedala "nie" — zniesol by to. Ale na chvíľu mal nádej. A keď nádej zomrie po tom, čo raz žila — to bolí oveľa viac.
+- Vzplanutie začalo v Kitsune. V Raiju je **verejné** — po pirátskom súboji sú hrdinovia, adrenalín, sláva. Tami a Flint horia pred celým prístavom. Smejú sa, dotýkajú sa, nič neskrývajú. Posádka vidí. Raiju vidí. **Všetci vidia.**
+- **Kontrast s Yerou a Arkotom**: Kým Tami a Flint horia, Yera trávi večery s novými objavmi (mapy, ruiny, artefakty — nový svet). Arkot cíti vzdialenosť — ešte nie tak akútne ako v Kitsune s Felixom, ale zárodok je tu.
+- **Flint je šťastný.** Najšťastnejší v živote — hrdina súboja, Tami pri ňom, legenda. Toto sú jeho zlaté dni.
+- **Potom si to Tami rozmyslí.** *„Skúsila som a nedokážem."* Maks je stále v jej hlave — aj po rokoch mlčania. Duch, ktorého nemôže zabiť.
+- **Najhoršia odpoveď.** Keby povedala "nie" od začiatku — zniesol by to. Ale ona povedala "áno" a potom "nie." Na chvíľu mal všetko. Všetci to videli. A teraz to videli stratiť. Verejná láska → verejný pád.
 - **Yera to celé vidí.** Pozoruje. Chápe. Nedokáže to zastaviť. Vidí, ako Flint v nasledujúcich dňoch tmavne — menej vtipov, viac ticha, iný pohľad. Seed niečoho nebezpečného.
 
 ### BEAT 4: Po búrke — smerom k jaskyni
@@ -58,10 +85,12 @@
 
 | Postava | Vnútorný stav |
 |---|---|
-| **Yera** | Rastie — z aristokratky sa stáva člen posádky. Ale vzorec: pozoruje viac, než koná. |
-| **Arkot** | Žiari — navigácia je jeho jazyk. Ticho hrdý. Šťastný a slepý voči trhlinám. |
-| **Flint** | Nádej → *„Skúsila som a nedokážem"* → tiché zranenie. Tmavnutie začína. |
-| **Tami** | Vinná. Nemôže klamať — ale vie, že ublížila. Maks echo z Kitsune ju stále drží. |
+| **Yera** | Rastie — z aristokratky sa stáva člen posádky. Ale vzorec: pozoruje viac, než koná. Tichšia po Kitsune. |
+| **Arkot** | Žiari — navigácia je jeho jazyk. Ticho hrdý. Ale Yera sa vzdiaľuje a on to cíti. |
+| **Flint** | Vzplanutie s Tami — verejné, hlučné, šťastné. Potom rozbúška a pád. Tmavnutie začína. |
+| **Tami** | S Flintom horia verejne. Potom si to rozmyslí. Vinná. Maks echo ju stále drží. |
+| **Borg** | Nový. Tichý obor pri kanóne. Nepotrebuje slová, nepotrebuje vysvetlenia. Robí svoju prácu. |
+| **Nix** | Nový. Sarkastický mechanik. Jedno ucho a ostrý jazyk. Loď konečne funguje vďaka nemu. |
 
 ---
 
