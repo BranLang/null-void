@@ -332,10 +332,10 @@
 
 ## Itaka — Najväčšia Loď na Terre
 
-- **Pôvod**: Felix a ďalší Maki postavili **Itaku** pre Renna
-- **Typ**: Prototyp štvrtej série vzducholodí triedy Makina — Spira-kryštálový pohon
+- **Pôvod**: **Generačný projekt Kitsune** — nie Rennov solo effort. Felix a ďalší Maki navrhovali a dodávali súčiastky na základe Felixových a Rennových návrhov, chlapi z Kitsune ju stavali. Kolektívna investícia celého mesta.
+- **Typ**: **4. prototyp triedy Makina** — Spira-kryštálový pohon. Kitsune predtým postavilo 3 vzducholode tohto typu (staršie série).
 - **Revolúcia**: Neobmedzený dolet, minimálne prevádzkové náklady
-- **Pôvodné Maki označenie**: Stavitelia ju volali *Makina* („Malý Stroj" v jazyku Makov) — pocta vlastnému remeslu
+- **Pôvodné Maki označenie**: Stavitelia ju volali *Makina* („Malý Stroj" v jazyku Makov) — meno celej triedy, nie len jednej lode
 - **Meno — Itaka**: Renn ju premenoval. Celý život hľadal domov. Pomenoval svoju loď po ostrove, na ktorý sa Odysseus takmer nedokázal vrátiť.
 - **Felix 88**: 88mm kanón „Felix" — Felixov majstrovský kus
 - **Dedičstvo**: Po Rennovej smrti ukradnutá pirátmi → neskôr Tamina vlajková loď

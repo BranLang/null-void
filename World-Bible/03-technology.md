@@ -474,10 +474,12 @@ Vzducholoď *Itaka* (Tami) je technologická anomália — jej pohon je radikál
 | **Výhoda 2 — Maskovanie** | Para sa dá vypustiť okolo vzducholode a vytvoriť **umelý oblak** — dokonalé maskovanie. Loď zmizne v bielej hmle za sekundy. |
 | **Výhoda 3 — Palivo zadarmo** | Itaka nepotrebuje kupovať drahý biodiesel. Stačí jej **voda** — z akéhokoľvek jazera, rieky alebo dažďa. Spira kryštály premenia vodu na paru a tá poháňa vrtule. Kým ostatné vzducholode musia pristávať v mestách a platiť za palivo, Itaka si doplní nádrže z najbližšieho potoka. |
 | **Nevýhoda** | Závisí na Spira kryštáloch — vzácnych a drahých. Dovážajú sa z ďalekého východu, z podzemných baní na severe Nyau, na pokraji civilizácie uprostred divočiny. Bez nich je Itaka len mŕtve drevo a kov. Kryštály sa časom vyčerpajú a treba ich nahradiť. |
-| **Pôvod** | Postavená v Kitó z pozostatkov lode Hephaestus. Technológia Maki. |
-| **Meno** | Pôvodne *Makina* („Malý Stroj") od staviteľov Maki. Renn ju premenoval na *Itaku* — pomenovaná po ostrove z Odyssey. |
+| **Pôvod** | **Generačný projekt Kitsune.** Nie Rennov solo effort — kolektívna investícia celého mesta. Felix a ďalší Maki navrhovali a dodávali súčiastky na základe Felixových a Rennových návrhov, chlapi z Kitsune ju stavali. Postavená v Kitó z pozostatkov lode Hephaestus. Itaka je **4. prototyp triedy Makina** — Kitsune predtým postavilo 3 vzducholode tohto typu (staršie série). Maki v Šoravene poznajú prvé tri; Itaka je pre nich neznámy 4. kus. |
+| **Meno** | Pôvodne *Makina* („Malý Stroj") od staviteľov Maki — meno celej triedy, nie len jednej lode. Renn ju premenoval na *Itaku* — pomenovanú po ostrove z Odyssey. |
 
 > **Prečo je Itaka výnimočná:** Bežné vzducholode spaľujú biodiesel — sú hlučné, pomalé, drahé na prevádzku a ľahko spozorovateľné. Itaka je ako duch — tichá, rýchla, schopná doplniť palivo z akéhokoľvek jazera a zmiznúť v oblaku vlastnej pary. Pre pašeráčku a pirátku je to dokonalý nástroj.
+
+> **Trieda Makina:** Kitsune postavilo celkom 4 vzducholode triedy Makina — generačný projekt mesta. Prvé 3 sú staršie série (osud neznámy). Itaka (4. séria) je prototyp — najnovšia a najvyspelejšia. V Karakuri (Heist Arc ch1) Mako v Šoravene pozná 3 kusy — osobne sa podieľal na výrobe súčiastok a pravdepodobne poznal Renna, lebo ten objednávky vybavoval osobne. Keď Tami povie „štyri," stuhne — netušil, že existuje ďalší.
 
 ### Maki Tech (High-End)
 Kvôli hrozbe Wraithov (ktorých priťahuje elektrina) Maki vyvinuli vrcholné analógové majstrovstvo.

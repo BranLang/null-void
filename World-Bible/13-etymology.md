@@ -142,7 +142,7 @@ Jazyk Varietas sa vyvinul z angličtiny (Staroreč) za 3000 rokov izolácie. Zmi
 ### Itaka (loď)
 - **Pôvod**: **Ithaca** — ostrov z gréckej mytológie
 - **Kontext**: Renn strávil celý život hľadaním domova. Loď pomenoval po ostrove, na ktorý sa Odyseus takmer nedokázal vrátiť.
-- **Pôvodný názov**: *Makina* ("Malý Stroj" — dali jej Maki)
+- **Pôvodný názov**: *Makina* ("Malý Stroj" — dali jej Maki) — meno celej triedy vzducholodí (Kitsune postavilo 4 kusy). Itaka je 4. prototyp.
 
 ### Felix
 - **Pôvod**: Lat. **Felix** = "Šťastný"

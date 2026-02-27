@@ -305,13 +305,13 @@ Podišiel k polici, vzal do ruky posuvné meradlo a nastavil ho. Ukázal na prá
 
 „Existuje,“ povedala Tami pevne.
 
-Mako zastal. Pozrel sa na ňu s novým záujmom. Zdvihol ruku a vystrel tri prsty.
+Mako zastal. Pozrel sa na ňu s novým záujmom. Zdvihol ruku a vystrel tri prsty. [NOTE: Mako pozná presne 3 vzducholode triedy Makina — osobne sa podieľal na výrobe súčiastok pre Kitsune. Pravdepodobne poznal Renna, lebo ten objednávky vybavoval osobne. Itaka (4. prototyp) je pre neho neznáma — preto reakcia.]
 
-„Štyri,“ opravila ho Tami.
+„Štyri," opravila ho Tami.
 
 Mako prekvapene zdvihol obočie.
 
-„Ten štvrtý mám na lodi.“
+„Ten štvrtý mám na lodi."
 
 Prastarý majster na ňu dlho hľadel bez žmurknutia. Ticho v miestnosti oťaželo, akoby vzduch zhustol pod váhou storočí. Potom sa jeho pery, ktoré vyzerali ako zapečatené, pomaly pohli a prvýkrát prelomil mlčanie. Jeho hlas znel ako škrípanie hrdzavých pántov brány, ktorá nebola otvorená veky.
 

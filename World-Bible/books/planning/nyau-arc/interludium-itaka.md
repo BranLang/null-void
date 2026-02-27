@@ -1,6 +1,6 @@
 # Interludium: Itaka v prístave
 
-> *POV Switch. Arkot & Flint vidia legendu pristáť. Flint sa prihovorí. Arkot mlčí. Všetko sa zmení.*
+> *POV Switch. Arkot & Flint vidia legendu pristáť. Flint mlčí. Arkot mlčí. Zárodok všetkého.*
 
 ---
 
@@ -8,71 +8,86 @@
 
 | | |
 |---|---|
-| **POV** | Arkot (3. osoba, limited) — jediný ne-Yera POV v celom arcu |
-| **Lokácia** | Nyau — prístav, doky, Itaka pri móle |
-| **Čas** | ~AY 3011, počas Yeriného „Pokušenia" (Ch3) — Itaka pristáva v Nyau |
-| **Nálada** | Prístavná energia, legenda, impulz, rozhodnutie |
-| **Existujúci draft** | `02.5-interlude-itaka.md` (kompletná próza, ~206 riadkov) |
+| **POV** | Arkot + Flint (3. osoba, limited — striedanie, krátke) |
+| **Lokácia** | Nyau — prístav, prístavná krčma |
+| **Čas** | ~AY 3011, niekoľko mesiacov po festivale. Ráno. |
+| **Nálada** | Robotnícka každodennosť, nečakané prekvapenie — atmosféra legendy ktorá pristála |
+| **Existujúci draft** | `02.5-interlude-itaka.md` (kompletná próza, ~140 riadkov) |
 
 ---
 
-## Scénický plán
+## Scénický plán (podľa draftu)
 
-**Scéna 1: Prístav — Itaka pristáva** *(Legenda na obzore)*
-- Arkot a Flint v prístave — nakladajú vrecia, normálny deň.
-- Na obzore: silueta vzducholode. Tmavý trup. Bez zdobenia. Felix 88mm na prídí.
-- Flint spozná prvý: „To je Itaka. Rennova loď."
-- Renn = legenda. Každý v prístave pozná meno. Mŕtvy pred rokmi — loď zdedila dcéra.
-- **Beat:** Arkot pozoruje, ako Itaka pristáva. Ťažká, elegantná, presná. Ako naložená karavána, čo nepotrebuje rýchlosť, lebo vie kam ide.
+**Scéna 1: Prístav — ráno** *(Atmosféra, setup)*
+- Arkot nakladá vrecia od svitu. Flint stojí vedľa práce a nerobí ju.
+- Normálny deň v prístave — ryby, decht, muchy, horúčava, smrad kanálov.
+- Flint ukáže na západ. Zvláštny tón.
 
-**Scéna 2: Flintov impulz** *(Prihovorenie)*
-- Flint nečaká. „Idem sa opýtať."
-- Arkot: „Čo?" — Flint je už na polceste k rampe.
-- Tami na palube — mladá, med-zrzavé vlasy, kožená bunda, líščie uši. Vydáva rozkazy posádke.
-- Flint pri rampe: „Hľadáte strelca?"
-- Tami sa pozrie dolu. Zmerá ho — Mezra rys, nervózny, rýchly, ale v očiach niečo, čo jej hovorí *tento sa nebojí.*
-- Krátky dialóg. Flint predá seba ako tovar — „najrýchlejšia ruka v Nyau" (preháňa). Tami sa usmieva (takmer).
-- **Beat:** Tami: „A čo ten druhý?" — ukáže na Arkota pri vreckách. „Navigátor?"
+**Scéna 2: Itaka pristáva** *(Legenda na obzore)*
+- Loď prichádza ticho — nie diesel, nie dym. Plynie.
+- Tmavý trup, neznámy kov, nízky agresívny tvar. Kanón na prove.
+- Meno vyrezané na boku: *ITAKA.*
+- Vlna ticha v prístave — robotníci stíchnu jeden po druhom.
+- **Beat:** Reverencia, nie konštatovanie. Itaka je legenda.
 
-**Scéna 3: Arkot a Tami** *(Tichý rozhovor)*
-- Arkot príde k rampe. Tichší. Menej impulzívny.
-- Tami sa na neho pozrie — iný pohľad než na Flinta. Meravo. Pomalšie.
-- „Odkiaľ si?" — „Beladiss. Diss." — „Poznaš trasy na západ?" — „Do Beladiss áno. Ďalej nie. Ale učím sa rýchlo."
-- Tami prikývne. „Navigátora beriem."
-- **Beat:** Arkot vidí Tami z blízka — modré oči, rovnaký vek, mladá ale nie detská. Niečo v nej je staršie než tvár. Niečo, čo mu pripomína... netuší čo. (Renn. Ale Arkot Renna nikdy nevidel. Len počul príbehy.)
+**Scéna 3: Posádka a kapitán** *(Reveal)*
+- Kitsune posádka — starí lišiaci, veteráni, vykladajú bez slova.
+- Saburo (kapitán) — trojhranný klobúk, skrížené ruky, pokoj. Rennov bývalý 1st mate, prevzal velenie po Rennovej smrti.
+- Tami — mladá líška za kapitánom. Medené vlasy, letecké okuliare, rapier, pištole. Modré oči. Nie je kapitánka — učí sa.
+- Doker identifikuje: „Rennova mladá. Dcéra. Po otcovi." — poznajú ju cez Renna, cez legendu, nie cez vlastné meno.
+- Legenda o sedemročnej, čo vzala loď späť od pirátov.
+- **Beat:** Flintov pohľad sa vracia na rampu. Arkot to vidí. Mlčí.
 
-**Scéna 4: Rozhodnutie** *(Foreshadowing rozlúčky)*
-- Flint a Arkot na doku po stretnutí. Flint je nadšený — „toto je to, Arkot. Toto je cesta von."
-- Arkot mlčí. Myslí na Yeru.
-- „Odplávame o tri dni," povedal Flint. „Tami berie zásoby a potom západ."
-- Arkot: „Musím jej to povedať." — Flint vie komu. Nepýta sa.
-- „Tri dni," zopakuje Flint. Tichšie. Vie, že Arkot si to komplikuje. Vie, že Yera je komplikácia. A kryje to aj tak.
-- **Beat:** Arkotov pohľad na Itaku — tmavý trup, bez zdobenia, pripravená odísť. Loď, ktorá nikdy nestojí dlho. „Navigátori neveria na šťastie. Veria na kurzy." A tento kurz práve začal.
+**Scéna 4: Záhadný tovar** *(Worldbuilding)*
+- Kapitán (Saburo) vybavuje s prístavným správcom. Poštové holuby.
+- Tami stojí na rampe, ruky za chrbtom, pozoruje — učí sa tým, že pozerá.
+- Tovar v skladisku: kovové časti, pumpy, hydraulika, turbíny. Príliš kvalitné. Neznámy zdroj.
+- „Kto to vyrába?" — „Nevie nikto."
+
+**Scéna 5: Tri dni + krčma** *(Foreshadowing + uzavretie)*
+- Itaka v prístave tri dni. Flint pozerá na rampu, nie na loď.
+- Arkot vidí zárodok obsesie. Nič nehovorí. (= jeho character flaw)
+- Krčma: „Čo si o nej myslíš?" — „Vie čo chce."
+- Arkot odíde. Nočný Nyau — cvrčky, svetlušky, bioluminiscencia.
+- Posledná veta: ide k Yere. Návrat do Yera-arcu.
+
+---
+
+## Čo interlude NEOBSAHUJE (zámerne)
+
+- **Žiadny recruitment** — Flint a Arkot sa Tami neprihovoria. Vidia ju len zdiaľky.
+- **Žiadny dialóg s Tami** — Tami nehovorí. Je videná, nie počutá.
+- **Žiadne rozhodnutie o odchode** — Arkot ešte nevie, že odíde.
+
+**Recruitment príde v ďalšom interludiu** (Itaka Arc setup) — keď sa Flint prihovorí a dostane miesto. Toto interludium je čistý *zárodok* — videnie legendy, nie vstup do nej.
 
 ---
 
 ## Funkcia interludia
 
-1. **POV switch** — jediný moment v celom Nyau arcu, keď čitateľ vidí svet cez Arkotove oči. Yera zmizne. Svet je jednoduchší z jeho strany — vrecia, prístav, loď, rozhodnutie.
-2. **Setup pre rozlúčku** — Arkotovo „musím jej to povedať" je most do Ch4 (rozlúčka s Yerou).
-3. **Etablovanie Tami** — prvý kontakt. Tami ako veliteľ — Rennov štýl. Rýchla, inštinktívna, presná.
-4. **Flintov charakter** — impulzívnosť (prihovorí sa prvý), lojalita (kryje Arkota), naivita (plány). Semená pre Itaka Arc.
-5. **Foreshadowing Flint/Tami** — Flint vidí Tami prvý. Iskra. V Itaka Arcu z toho bude rozbúška.
+1. **POV switch** — osvieženie rytmu po Yeriných kapitolách. Svet cez Arkotove oči je jednoduchší — vrecia, plecia, loď.
+2. **Itaka ako legenda** — čitateľ vidí loď predtým, než na ňu postavy nastúpia. Mystika, reverencia, záhada.
+3. **Tami z cudzej perspektívy** — nie hrdinka, nie kapitánka, nie POV. „Rennova mladá" — poznajú ju cez otca a legendu, nie cez vlastné meno. Meno si urobí až po Saburovej smrti, s vlastnou posádkou.
+4. **Flintov zárodok** — obsesia sa začína tu. Pohľad, ktorý sa vracia. Arkot to vidí a mlčí.
+5. **Arkotov character flaw** — pasivita pred problémami. Rovnaká pasivita, čo ho neskôr dovedie k mlčaniu pri krádeži Antény.
+6. **Záhadný tovar** — Felix/Maki foreshadowing bez expozície. Čitateľ sa čuduje, odpoveď príde neskôr.
+7. **Most k Yera-arcu** — posledná veta vedie späť k Yere. Interludium je zátvorkový oddych, nie prerušenie.
 
 ---
 
 ## Arkotov vnútorný hlas
 
-- Jednoduchší než Yera. Priamejší. Myslí v smeroch, nie v otázkach.
-- Vidí svet cez navigáciu — vzdialenosti, kurzy, body na obzore.
-- O Yere myslí ako o pevnine — niečom stabilnom, ku čomu sa dá vrátiť. (Irónia: Yera je čokoľvek, len nie stabilná.)
+- Jednoduchší než Yera. Priamejší. Myslí v plecach a vreckách.
+- Vidí svet cez fyzickú prácu — bolenie, hodiny, vrecia.
+- O Flintovi myslí s tichým pochopením — pozná ho, vie čo znamená ten úsmev.
+- O Yere myslí cez nočný vzduch — kvetiny, svetlušky, biela vila za kanálom.
 - Nemá pochybnosti o láske — má pochybnosti o práve. „Nakladám vrecia. Ona je Saéli."
 
 ---
 
 ## Chronologické zaradenie
 
-Interludium sa odohráva **počas Ch3 (Pokušenie)** — v čase, keď Yera trávi noci medzi Knihou a Arkotom. Arkotova zmienka o Itake v Ch3 scéna 6 priamo nadväzuje na udalosti tohto interludia.
+Interludium sa odohráva **počas Ch3 (Pokušenie)** — v čase, keď Yera trávi noci medzi Knihou a Arkotom. Niekoľko mesiacov po festivale.
 
 **Poradie čítania:** Ch2 → Ch3 (scény 1–5) → Interludium → Ch3 (scéna 6–7) → Ch4
 
@@ -84,17 +99,20 @@ Alebo alternatívne: Interludium ako celok medzi Ch3 a Ch4.
 
 | Scéna | Draft | Status |
 |---|---|---|
-| Všetky scény (1–4) | `02.5-interlude-itaka.md` | ✅ Kompletná próza |
+| Všetky scény (1–5) | `02.5-interlude-itaka.md` | ✅ Kompletná próza |
 
-**Poznámka:** Draft je kompletný a silný. Arkotov POV je osviežujúci kontrast k Yerinému vnútornému svetu.
+**Poznámka:** Draft je kompletný a silný. Žiadny recruitment — čistá observácia. Recruitment materiál (Flint sa prihovorí, Arkot dostane miesto navigátora, rozhodnutie o odchode) presúva sa do ďalšieho interludia.
 
 ---
 
 ## Referencie
 
-- [→ `characters/Arkot.md`: navigátor, Beladiss, tichý, priamy]
-- [→ `characters/Flint.md`: impulzívny, lojalita, najrýchlejšia ruka]
-- [→ `characters/Tami.md`: Rennov štýl, modré oči, veliteľ]
+- [→ `characters/Arkot.md`: navigátor, Beladiss, tichý, pasívny]
+- [→ `characters/Flint.md`: impulzívny, lojalita, zárodok obsesie s Tami]
+- [→ `characters/Tami.md`: Rennov štýl, modré oči, ešte nie kapitánka — učí sa pod Saburom]
+- [→ `characters/Saburo.md`: TODO — vytvoriť character file pre Sabura (kapitán Itaky v tomto období)]
+- [→ `characters/Renn.md`: Itaka, Felix, Maki technológia]
+- [→ `03-technology.md`: Spira-crystal drive — tichý pohon]
 - [→ `03-temptation.md`: Arkotova zmienka o Itake v scéne 6]
 - [→ `03.5-farewell.md`: priamo nasledujúce — „Flint mi vybavil miesto"]
 - [→ `books/planning/itaka-arc/00-overview.md`: posádka Itaky]
