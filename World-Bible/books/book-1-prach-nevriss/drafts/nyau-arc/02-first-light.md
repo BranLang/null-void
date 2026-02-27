@@ -5,7 +5,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrám El, ulice, vila Saéli
-**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 4 zimy (~20 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
+**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
 **Nálada**: Dusivá, nespokojná — kontrast s festivalovou nocou
 
 ---

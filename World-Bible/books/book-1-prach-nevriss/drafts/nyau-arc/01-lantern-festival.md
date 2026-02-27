@@ -7,7 +7,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — hlavné námestie, ulice, prístav, strechy
-**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 4 zimy (~20 rokov).
+**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
 **Nálada**: Horúca, voňavá, opojná — a pod tým všetkým dusivá
 
 ---
