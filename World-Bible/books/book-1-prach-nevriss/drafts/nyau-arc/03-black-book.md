@@ -270,9 +270,9 @@ Plameň sa zachvel. Fialové žilky.
 
 ---
 
-*„Keby Spáč vedel,"* povedala Soril ticho, skoro pre seba, *„čo tento démon urobil jeho dcére..."* Prst na Samaellovom portréte. Nevnímala, že hovorí nahlas. *„...démon by si želal smrť."* [→ 04-prehistory-players.md: Spáč = Maks Kovač, Gen 1, v kryostáze niekde na Achille. Cirkev El ho pozná ako proroctvovú figúru — Spáč, ktorý sa prebudí. → characters/Maks.md: Inetis = jeho žena. Elania = jeho dcéra. Soril hovorí pravdu, ktorá je zároveň minulosť — presne tak sa to stalo, AY 3001, Elania zabila Samaella. Soril o tom nevie. Povedala nekrológ a nevie o tom. → IRÓNIA: Samaell si smrť naozaj želal. A dostal ju.]
+*„Keby jej otec vedel,"* povedala Soril ticho, skoro pre seba, *„čo tento démon urobil jeho dcére..."* Prst na Samaellovom portréte. Nevnímala, že hovorí nahlas. *„...démon by si želal smrť."* [NOTE: Soril hovorí „otec" — nie „Spáč." Pre ňu je to intímnejšie, osobnejšie. Otec = Maks Kovač, Gen 1, v kryostáze. Soril hovorí pravdu, ktorá je zároveň minulosť — presne tak sa to stalo, AY 3001, Elania zabila Samaella. Soril o tom nevie. Povedala nekrológ a nevie o tom. → IRÓNIA: Samaell si smrť naozaj želal. A dostal ju. → characters/Maks.md, 04-prehistory-players.md]
 
-Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril hovorila ako niekto, kto verí, že ochraňuje niečo živé. [NOTE: Yera ešte nevie kto je Spáč. Dozvedá sa ho neskôr — na Itake, keď Maks sa prebudí. V tom momente si spomenie na túto vetu. Retroaktívny aha-moment.]
+Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril hovorila ako niekto, kto verí, že ochraňuje niečo živé.
 
 ---
 
