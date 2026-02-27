@@ -342,7 +342,7 @@ Yera to zbadala, len čo si sadla. Niečo v tom, ako sedel — rovnako ako vždy
 
 Opatrne. Slová kladené vedľa seba ako kamene cez potok — presne, jeden za druhým, s medzerami pre dych.
 
-*„Vzducholoď. Kapitánka z Kitsune. Hľadá posádku."* [→ books/planning/nyau-arc/02.5-interlude-itaka.md: Itaka v prístave — Tami hľadá posádku. Flint sa pridá prvý, potom zavolá Arkota. → NOTE: Foreshadowing Interludia.]
+*„Vzducholoď. Kapitánka z Kitsune. Hľadá posádku."* [→ drafts/nyau-arc/02.1-interlude-itaka.md: Itaka v prístave — Tami hľadá posádku. Flint sa pridá prvý, potom zavolá Arkota. → NOTE: Foreshadowing Interludia.]
 
 Yera počúvala. Slová boli jednoduché — loď, kapitánka, posádka. Navigátorské slová. Arkotove slová. Ale pod nimi bolo niečo iné, niečo, čo Yera cítila skôr ako počula — seizmický otras, hlboko, pod povrchom, kým je na povrchu ešte ticho.
 
@@ -422,7 +422,7 @@ Posledný riadok.
 
 *Tomorrow the angel comes.*
 
-Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archbés" v Yerinom svete. Pre Yeru Archbésovia = nesmrteľní vládcovia (Grom, Ishtar, Mormiel, Samaell). Elaniin „angel" je niečo staršie, z inej tradície — pozemské slovo, ktoré na Achillese nikto nepoužíva. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
+Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archbés" v Yerinom svete. Pre Yeru Archbésovia = nesmrteľní vládcovia (Grond, Ishtar, Mormiel, Samaell). Elaniin „angel" je niečo staršie, z inej tradície — pozemské slovo, ktoré na Achillese nikto nepoužíva. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
 
 *I don't know what she wants. I don't know if I want to go. But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps.*
 
@@ -490,7 +490,7 @@ Zavrela oči.
 
 ---
 
-[NOTE: Kapitola 3 = jadro Yerinej rozpoltenosti. Sedem scén, sedem nocí (nie chronologicky — kompresované). Kľúčová dynamika: Kniha a Arkot sú obe „správne" voľby, obe „moje." Yera nevyberá — lebo nevie. A nemusí. Kým svet nevyberie za ňu (Arkot odíde, Flint nájde loď → Ch4).]
+[NOTE: Kapitola 4 = jadro Yerinej rozpoltenosti. Sedem scén, sedem nocí (nie chronologicky — kompresované). Kľúčová dynamika: Kniha a Arkot sú obe „správne" voľby, obe „moje." Yera nevyberá — lebo nevie. A nemusí. Kým svet nevyberie za ňu (Arkot odíde, Flint nájde loď → Ch4).]
 
 [NOTE: Kontaminácia ako motív — Yera nikdy nie je celá v jednom svete. V záhrade myslí na Knihu. V podzemí myslí na Arkota. Toto nie je romantický trojuholník — je to identitný. Verzia-Strážkyňa (Kniha, pravda, samota) a Verzia-Slobodná (Arkot, záhrada, teplo) sú obe Yera. Obe sú skutočné. Obe sú nekompatibilné.]
 

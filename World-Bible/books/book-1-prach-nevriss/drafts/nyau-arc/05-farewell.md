@@ -7,7 +7,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — záhrada za starým kanálom, potom prístav
-**Čas**: ~AY 3011-3012, deň pred odplutím Itaky. Ráno po noci s Čiernou knihou.
+**Čas**: ~AY 3011-3012, deň pred odplutím Itaky. Po mesiacoch dvojitého života (Ch4).
 **Nálada**: Zlomená, tichá — nie dramatická. Najhoršie rozlúčky nie sú hlučné.
 
 ---
@@ -68,7 +68,7 @@ Yera hľadela na neho.
 
 Verí tomu. Naozaj. Videla to — nie v slovách, v očiach. Ten druh viery čo nemá dôkaz, len smer. Arkot bol navigátor. Navigátori neveria na šťastie — veria na kurzy. A tento kurz si naplánoval tak isto ako každú trasu cez more.
 
-Chcela mu povedať: *svet nefunguje tak.* Chcela povedať: *Saéli meno ťa nájde aj za obzorom.* Chcela povedať: *do tej doby budem Strážkyňa s kľúčom na krku a celibátom na celý život a zabudnutá noc v záhrade bude jediné čo mi zostane.*
+Chcela mu povedať: *svet nefunguje tak.* Chcela povedať: *Saéli meno ťa nájde aj za obzorom.* Chcela povedať: *do tej doby budem Strážkyňa s glyfom na dlani a celibátom na celý život a zabudnutá noc v záhrade bude jediné čo mi zostane.*
 
 Nepovedala nič z toho. [NOTE: Yera mlčí o najdôležitejšej veci — ako vždy. Táto scéna zrkadlí jej celý charakter. Vie. Nepovie.]
 
@@ -117,5 +117,5 @@ A Yera čakala. Nie na Arkota. Čakala na niečo, čo ešte nevedela pomenovať.
 [→ characters/Arkot.md: navigátor, verí sľubom, Mezra z Beladiss]
 [→ characters/Yera.md: mlčí o najdôležitejšom, definovaná tým čo nepovie]
 [→ characters/Flint.md: vybavil Arkotovi miesto na Itake — zárodok celého reťazca]
-[→ 02.5-interlude-itaka.md: Flint a Arkot vidia Itaku v prístave]
+[→ 02.1-interlude-itaka.md: Flint a Arkot vidia Itaku v prístave]
 [→ 03-black-book.md: noc pred touto scénou — Soril, originálna Kniha, Samaell]

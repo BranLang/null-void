@@ -16,7 +16,7 @@
 
 Soril to povedala bez hnevu. Bez sarkamu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o počasí, o oprave strechy, o niečom administratívnom čo treba vyriešiť.
 
-*„Ľutujem, že som vám ukázala Denník skôr, než ste boli pripravená. Mireth bude pokračovať v príprave. Vy zostanete na základnom tréningu."*
+*„Ľutujem, že som ti ukázala Knihu skôr, než si bola pripravená. Mireth bude pokračovať v príprave. Ty zostaneš na základnom tréningu."*
 
 Yera sedela za stolom a nič nepovedala.
 
@@ -106,7 +106,7 @@ Yera išla k chrámu. [NOTE: Najprv chrám — potom prístav. Poradie je dôle�
 
 Chrámová záhrada bola prázdna.
 
-Tá lavička. Bez zastavenia, bez pohľadu. Prešla popri nej ako popri cudzom kusu dreva — lebo to tak teraz bolo. Len kus dreva na nohách. [→ 03.5-farewell.md: „lavička vyzerala menšia cez deň než v tme. Len kus dreva na nohách." — rovnaký obraz, teraz definitívny]
+Tá lavička. Bez zastavenia, bez pohľadu. Prešla popri nej ako popri cudzom kusu dreva — lebo to tak teraz bolo. Len kus dreva na nohách. [→ 05-farewell.md: „lavička vyzerala menšia cez deň než v tme. Len kus dreva na nohách." — rovnaký obraz, teraz definitívny]
 
 Bočné dvere do chrámu. Kľúč — ten čo mala od prvého dňa tréningu.
 
@@ -142,7 +142,7 @@ Prvé bárky vychádzali z kanálov, prvé gondoly nakladali tovar. Rybári, obc
 
 Nikto sa nepýtal.
 
-Itaka nekotviakotviačila v Nyau — vedela to. Ale vedela tiež kde Tami berie zásoby pred ďalšou rutou na západ. Beladiss. To povedal Arkot ešte v záhrade, v tú noc keď ona nechcela počúvať ale počúvala každé slovo.
+Itaka nekotví v Nyau — vedela to. Ale vedela tiež kde Tami berie zásoby pred ďalšou rutou na západ. Beladiss. To povedal Arkot ešte v záhrade, v tú noc keď ona nechcela počúvať ale počúvala každé slovo.
 
 Na obchodnej bárke smerujúcej na západ kúpila miesto za tri zlaté. Kapitán sa na ňu pozrel — kabát, čižmy, taška — a vzal peniaze bez otázok.
 
@@ -174,11 +174,11 @@ Yera sa pýtala v prvej krčme pri prístave.
 
 Tretie molo.
 
-Itaka bola väčšia než si predstavovala z Arkotovho opisu. Tmavý trup, bez zdobenia, bez nápisov okrem mena na zádi drobným písmom akoby si nebola istá, či sa chce hlásiť. Felix 88mm na prídí — Yera ho poznala z krčmových opisov, z prístavných legiend. Sorilina technika namierila na svet. Spira-pohon bez zvuku. [→ 02.5-interlude-itaka.md: Arkot a Flint vidia Itaku v Nyau — rovnaká loď, teraz z Yerinej perspektívy]
+Itaka bola väčšia než si predstavovala z Arkotovho opisu. Tmavý trup, bez zdobenia, bez nápisov okrem mena na zádi drobným písmom akoby si nebola istá, či sa chce hlásiť. Na prídí kanón — matná sivá zliatina, krátka hlaveň, ošúchaný od soli. Nie mosadz, nie oceľ — niečo iné, niečo čo Yera nepoznala. Yera poznala Itaku z krčmových opisov, z prístavných legiend. Spira-pohon bez zvuku. [NOTE: Kanón z neznámej zliatiny = Maki materiál z Hephaestos. Dieselpunk estetika. Itaka nie je vojenská loď — je obchodná/prieskumná s jedným kanónom na obranu. Felix (unit 734, Mako-mechanik) ho udržiava. → 03-technology.md: Maki technológia, Tichá Technológia] [→ 02.5-interlude-itaka.md: Arkot a Flint vidia Itaku v Nyau — rovnaká loď, teraz z Yerinej perspektívy]
 
 Na rampke stála dievčina.
 
-Sedemnásť, osemnásť — rovnako stará ako Yera. Kožená bunda a kovové pracky, líščie uši a líščí chvost, med-zrzavé vlasy späté. Stála s rukami skríženými a čítala zoznam — nie si pozrela nahor, keď Yera prišla na molo, len ruku zdvihla bez pohľadu.
+Sedemnásť, možno osemnásť — rovnako stará ako Yera. Kožená bunda a kovové pracky, líščie uši a líščí chvost, med-zrzavé vlasy späté. Stála s rukami skríženými a čítala zoznam — nie si pozrela nahor, keď Yera prišla na molo, len ruku zdvihla bez pohľadu.
 
 *„Fronta je za rohom."*
 
@@ -204,11 +204,11 @@ Krátke ticho. Tami s ňou pohľadom — nie nepriateľsky, len meravo. [NOTE: T
 
 *„Teraz máte dobrú."*
 
-Ďalší záblesk. Tie oči. Modré, jasné — rovnaký odtieň ako jej vlastné, čo bola vec, na ktorú nebola zvyknutá, lebo Vulpes z juhu mali väčšinou zelené alebo jantárové a Pursang mali plnšiu modrú, ale toto bolo —
+Ďalší záblesk. Nie farba očí — výraz. Ten spôsob, akým sa Yera pozerala priamo, bez uhýbania, bez úsmevu, bez toho ochranného prázdna, čo nosili ostatní žiadatelia o miesto. Niečo v tom pohľade bolo známe — nie z Nyau, nie z prístavov.
 
-*Otec mal modrú.*
+*Otec sa tak pozeral.*
 
-Renn. Renn, ktorý poznal každý prístav od Nyau po Beladiss, ktorý chodil do Nyau ako domov, ktorý hovoril o Nyau vždy s tým špecifickým tichom, tým Rennovým, ktoré znamenalo že niečo sú jeho. [NOTE: Tami si tu neurobí záver — iba záblesk. Renn chodil do Nyau. Modré oči sú Pursang črta. Nie každý Pursang je Rennov potomok. Ale záblesk je tam — a Tami ho odloží, lebo loď sa nenaloďuje sama. Nikdy ho nerozmotá do konca. Yera tiež nie. Tajomstvo ostane záhradou. → characters/Tami.md, characters/Yera.md: ich podobnosť — fyzická (modré oči, vek, výška) aj povahová (ticho, presnosť). Sú ako sestry. Možno viac. Možno nie. → NOTE: Zámerná ambiguita — autor rozhodne neskôr]
+Renn. Renn, ktorý poznal každý prístav od Nyau po Beladiss, ktorý chodil do Nyau ako domov, ktorý o ňom hovoril vždy s tým špecifickým tichom, tým Rennovým, ktoré znamenalo že niečo je jeho. [NOTE: Tami si tu neurobí záver — iba záblesk. Renn chodil do Nyau. Ten pohľad — priamy, bez úsmevu, bez ochranného prázdna — jej pripomína otca. Nie konkrétne, nie logicky. Len ten záblesk čo príde a odíde. Tami ho odloží, lebo loď sa nenaloďuje sama. Nikdy ho nerozmotá do konca. Yera tiež nie. Tajomstvo ostane záhradou. → characters/Tami.md, characters/Yera.md: ich podobnosť — povahová (ticho, presnosť, priamy pohľad). Sú ako sestry. Možno viac. Možno nie. → NOTE: Zámerná ambiguita — autor rozhodne neskôr]
 
 *„Ako sa voláš?"*
 
