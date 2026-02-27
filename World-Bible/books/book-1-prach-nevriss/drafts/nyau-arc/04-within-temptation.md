@@ -3,22 +3,32 @@
 
 [→ the-book-of-El.md: Fáza 3 — The Search. Elania o rozhodovacom paralýze. V bielej Knihe toto nie je — pri kanonizácii neprevzaté, lebo by to interpretovali ako slabosť El. Originál je kompletný.]
 
-# Kapitola 3: Pokušenie
+# Kapitola 4: Pokušenie
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — podzemná knižnica (noc, prvá polovica) → záhrada za kanálom (noc, druhá polovica) → chrám/vila (deň)
-**Čas**: ~AY 3010, týždne/mesiace po odhalení Knihy (Ch2). [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci.]
+**Čas**: ~AY 3010, týždne/mesiace po odhalení Knihy (Ch3). [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci.]
 **Nálada**: Obsedantná, rozpolená, narastajúce napätie — dva magnety ťahajú Yeru na opačné strany
 
 ---
 
-Kľúč bol ťažší, než si pamätala.
+Glyf na dverách čakal.
 
-Soril jej ho dala ráno. Bez ceremónie — položila ho na stôl vedľa čajovej konvice, medzi zápisník a sušené byliny, akoby to bol príbor alebo hrebeň. Malý, tmavý, kovový. Jednoduchý. Kľúč od dverí, za ktorými ležala celá pravda. [→ characters/Soril.md: Soril odovzdáva Yere kľúč od podzemnej knižnice — akt dôvery, odmena za odhalenie v Ch2. Pedagogický zámer: nech Yera číta sama, nech si vytvorí vlastný vzťah k textu.]
+Soril jej to ukázala ráno. Bez ceremónie — zdvihla ruku, fialové svetlo rozkvitlo medzi prstami, glyf na kovaných dverách odpovedal. Potom ruku spustila a pozrela na Yeru.
 
-*„Choď, keď budeš pripravená,"* povedala Soril. *„Nie skôr."*
+*„Ty."*
 
-Yera bola pripravená od chvíle, keď sa kľúč dotkol jej dlane.
+Jedno slovo. Príkaz. Pozvanie. Test.
+
+Yera zdvihla pravú ruku. Sústredila sa — hľadala to miesto v sebe, kde žila Kvintesencia. Nie Voda — Voda bola prúd, pohyb, niečo, čo tieklo samo. Kvintesencia bola iná. Statická. Presná. Vyžadovala si niečo, čo Voda nepotrebovala — vedomie. Nie cit, nie impulz. Príkaz. [→ 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. Aktivácia vyžaduje jasnú intenciu — nie emóciu, ale vôľu.]
+
+Prsty sa zachveli. Glyf na predlaktí — akvamarínové línie — zablikal. Raz. Dvakrát. A potom sa niečo zmenilo — nie farba, nie tvar. Niečo za tým. Akoby sa glyf na jej ruke rozhodol, že patrí do rovnakého jazyka ako glyf na dverách. Fialové svetlo vyšlo z jej dlane — slabé, neisté, chvejúce sa — a glyf na kovaných dverách odpovedal. Jemne. Ako ozvena.
+
+Dvere sa otvorili.
+
+Soril nič nepovedala. Ale Yera videla ten pohyb — obočie, o milimeter, ten istý, čo bol pochvalou od prvého dňa. A potom, tichšie: *„Choď dolu, keď budeš pripravená. Nie skôr."* [NOTE: Soril učí Yeru otvárať glyf-zámok Kvintesenciou. Kvintesencia je tajomstvo popísané v origináli Čiernej knihy — Elaniin technický zápis piateho elementu, ktorý Cirkev nikdy neprevzala do bielej kópie. V celom Nyau ju ovláda len Soril — a teraz Yera. Nikto iný o nej nevie. Akt dôvery — Soril odovzdáva najväčšie tajomstvo Chrámu svojej nástupkyni. Pedagogický zámer: nech Yera číta sama, nech si vytvorí vlastný vzťah k textu. IRÓNIA: rovnaká Kvintesencia, ktorú jej Soril teraz ukazuje, Yera neskôr použije na krádež Knihy + neviditeľnosť pri úteku. Soril doslova kuje zbraň, ktorá ju zraní. → 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. → the-book-of-El.md: Elaniin glyf-výkres v origináli = technická dokumentácia Kvintescencie.]
+
+Yera bola pripravená od chvíle, keď dvere odpovedali.
 
 ---
 
@@ -26,7 +36,7 @@ Schody dolu boli strmšie v tme. Bez Soril pred ňou, bez jej krokov, bez toho t
 
 Nepohli sa.
 
-Na konci schodov dvere. Kľúč vošiel do zámky s tichým kliknutím — kovový zvuk, ktorý v tichu podzemnej kaplnky zaznel ako výstrel. Yera otočila. Dvere sa otvorili.
+Na konci schodov dvere. Yera zdvihla ruku — a tentokrát to prišlo rýchlejšie. Fialové svetlo, glyf, odpoveď. Dvere sa otvorili bez zvuku. [NOTE: Druhýkrát za jednu noc — už ľahšie. Svalová pamäť. Kvintesencia sa učí ako jazyk — prvé slovo je najťažšie.]
 
 Miestnosť bola rovnaká. Knihy pozdĺž stien, sviečka na polici (zhasnutá), stolička, stôl. A na stole — medzi dvoma čiernymi tabuľkami — pergameny. [→ the-book-of-El.md: originál = čierne tabuľky + pergameny]
 
@@ -76,7 +86,7 @@ Tá myšlienka vletela dovnútra ako prievan. Nie z hlavy — odspodu, z brucha,
 
 Zavrela Knihu.
 
-Nie — nezavrela. Zaklapla tabuľky k sebe, pergameny medzi nimi, a položila ich späť na stôl s opatrnosťou, ktorá bola v rozpore s rýchlosťou, akou vstala. Sfúkla sviečku. Zamkla dvere. Vybehla po schodoch — bosé nohy na studenom kameni, dych príliš rýchly na to, čo robila.
+Nie — nezavrela. Zaklapla tabuľky k sebe, pergameny medzi nimi, a položila ich späť na stôl s opatrnosťou, ktorá bola v rozpore s rýchlosťou, akou vstala. Sfúkla sviečku. Pri dverách zdvihla ruku — fialové svetlo, glyf, zatvorenie. Vybehla po schodoch — bosé nohy na studenom kameni, dych príliš rýchly na to, čo robila.
 
 Nočný vzduch na chrámovom dvore ju zasiahol ako facka. Horúci, vlhký, voňajúci kadidlom a nočnými kvetmi — normálny, živý vzduch sveta, ktorý nebol podzemie a pergamen a fialové svetlo. Cikády sa ozvali hneď — ten vysoký, vibrujúci zvuk, čo napĺňal celú chrámovú záhradu — a cvrčky pod nimi, nižšie, stálejšie. Svetlušky sa vznášali medzi kmeňmi — modré a zelené bodky, živé, hlúpe, bezstarostné. [→ regions/nyau.md: subtropická klíma, horúce aj v noci]
 
@@ -176,7 +186,7 @@ Sviečka zapraskala. Vosk kvapol na stôl. Yera zavrela oči — a za viečkami 
 
 Otvorila oči. Prečítala haiku ešte raz.
 
-Potom vyšla hore. Zamkla dvere. Bežala cez záhradu — a Arkot bol na lavičke, čakal, trpezlivo, s pomalým úsmevom, a Yera si sadla vedľa neho a oprela sa mu o rameno a zavrela oči a nič nepovedala.
+Potom vyšla hore. Zapečatila dvere glyfom — rýchlejšie každým dňom. Bežala cez záhradu — a Arkot bol na lavičke, čakal, trpezlivo, s pomalým úsmevom, a Yera si sadla vedľa neho a oprela sa mu o rameno a zavrela oči a nič nepovedala.
 
 *„Dlhá noc?"* spýtal sa.
 
@@ -274,7 +284,23 @@ Soril si ju zmerala. Tmavé kruhy pod Yerinými očami — jemné, ale tam. Pre 
 
 Sorilina ruka sa zdvihla — pomaly, akoby chcela položiť dlaň na Yerino čelo. Diagnostika. Reflex liečiteľky, staršej než Chrám. Na polceste sa zastavila. Prsty sa zavreli do päste. Ruka klesla späť.
 
-*„Zajtra fáza štyri,"* povedala namiesto toho. [NOTE: Soril vidí zmenu a TAKMER zasahuje — diagnostický reflex liečiteľky. Ale zastaví sa. Prečo? Lebo diagnostika by ukázala nedostatok spánku, a potom by sa musela pýtať prečo. A Soril sa nechce pýtať — lebo odpoveď by mohla byť niečo, čo by musela riešiť. Kým sa nepýta, nemusí vedieť. Kým nevie, nemusí konať. Toto je Sorilina vlastná verzia Yeriného dvojitého mlčania.]
+Namiesto toho vstala a otvorila skrinku na stene. Vytiahla misku — kamennú, plytkú, s hrubými stenami. Položila ju pred Yeru. Naplnila ju vodou zo sklenenej nádoby. Pomaly. Presne po okraj.
+
+*„Zmraz ju,"* povedala. *„Celú. Naraz. Nie od okrajov — od stredu."*
+
+Yera poznala cvičenie. Robila ho predtým — zmraziť misku od okrajov bolo jednoduché. Od stredu bolo iné — vyžadovalo inverzný vektor, sústredenie na bod uprostred hladiny a expanziu smerom von. Čistý Ľad. Žiadne teplo, žiadna emócia. Prázdno.
+
+Natiahla ruku. Sústredila sa.
+
+Voda sa zachvela. Okraje misky zamrzli — tenká vrstva, krehká, presná. Ale stred zostal tekutý. Tmavý krúžok uprostred bieleho prstenca, nehybný, tvrdohlavý. Yera zaťala zuby. Ťahala — vnútri, v tom mieste, kde žil Ľad, v tom prázdne, ktoré Soril volala domov. Ale prázdno nebolo prázdne. Bolo plné — fialových žiliek, Arkotových rúk, haiku o tichu, navigačného nástroja v mesačnom svetle, otáznikov za vetami mŕtvej ženy.
+
+Voda v strede misky zostala tekutá.
+
+Soril nepovedala nič. Vzala misku, vyliala vodu do kanálika v podlahe, utrela ju handrou. Pohyby pomalé, presné, neosobné. Ako keď chirurg odkladá nástroje po operácii, ktorá nedopadla.
+
+Potom sa posadila. Pozrela na Yeru. Dlho — tým pohľadom, ktorý nebol otázka a nebol výčitka. Bol to pohľad ženy, ktorá práve dostala odpoveď na otázku, ktorú sa neodvážila položiť.
+
+*„Zajtra fáza štyri,"* povedala. [NOTE: Soril NETESTUJE Ľad. Testuje Yeru. Zmrazenie od stredu vyžaduje absolútne prázdno — a Soril vie, že Yera ho nemá. Včera ho mala. Pred týždňom ho mala. Dnes nie. Niečo sa zmenilo. Soril teraz VIE, že niečo je zle — nie z diagnostiky, nie z otázky, ale z neúspešného cvičenia. Nemusela sa pýtať. Nechala Ľad hovoriť za seba. A to, čo počula, si zapísala do tej svojej kamennej hlavy.]
 
 ---
 
@@ -396,7 +422,7 @@ Posledný riadok.
 
 *Tomorrow the angel comes.*
 
-Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archanjel" v Yerinom svete. Pre Yeru Archanjeli = nesmrteľní vládcovia (Grom, Sera, Mormiel). Elaniin „angel" je niečo staršie, z inej tradície. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
+Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archbés" v Yerinom svete. Pre Yeru Archbésovia = nesmrteľní vládcovia (Grom, Ishtar, Mormiel, Samaell). Elaniin „angel" je niečo staršie, z inej tradície — pozemské slovo, ktoré na Achillese nikto nepoužíva. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
 
 *I don't know what she wants. I don't know if I want to go. But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps.*
 
@@ -414,7 +440,7 @@ Sfúkla sviečku.
 
 Dlho sedela v tme. Úplná tma — žiadne okno, žiadny Sai, žiadna lampa. Len fialové žilky, pulzujúce pomalým, trpezlivým rytmom. Ako srdce niečoho starého, čo ešte neprestalo biť.
 
-Potom vstala. Zatvorila Knihu. Zamkla dvere.
+Potom vstala. Zatvorila Knihu. Zapečatila dvere — fialové svetlo, krátke, presné, už takmer automatické.
 
 ---
 
@@ -446,21 +472,19 @@ Nie preto, že by nechcela. Preto, že vedela: keby teraz videla jeho tvár — 
 
 A to nesmie.
 
-Soril jej dala kľúč s podmienkou — mlčanie. Tajomstvo. Chrám. Tradícia. A Yera ho drží — ešte.
+Soril ju naučila otvoriť dvere s podmienkou — mlčanie. Tajomstvo. Chrám. Tradícia. A Yera ju drží — ešte.
 
 Vošla do vily bočnou bránou. Strážkyne spali. Celé Nyau spalo. Hodila sa na posteľ — ľanové plachty, biely kameň, okno otvorené do noci.
 
 Za oknom mesto svietilo.
 
-Yera ležala s otvorenými očami. V jednej ruke teplo, ktoré Arkot nechal na jej koži. V druhej kľúč, ktorý Soril položila na stôl vedľa čajovej konvice.
+Yera ležala s otvorenými očami. V jednej ruke teplo, ktoré Arkot nechal na jej koži. V druhej — fialové svetlo, ktoré Soril zapálila v jej dlani.
 
-Teplo a kľúč.
+Teplo a svetlo.
 
 A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Strážkyňa. Budúca utečenkyňa. Budúca zlodejka.
 
 Zavrela oči.
-
-Za viečkami — fialové žilky. Pomalé. Trpezlivé. Čakajúce.
 
 *Maybe that will be enough.*
 

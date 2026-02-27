@@ -3,7 +3,7 @@
 
 [→ the-book-of-El.md: Fáza 4 — Breaking. Soril verí, že Yera pravdu neunesie. Mýli sa v smere.]
 
-# Scéna 4: Krádež
+# Scéna 6: Krádež
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — Sorilina pracovňa → klanový dom Saéli → chrámová podzemná knižnica → prístav → Itaka

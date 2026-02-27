@@ -3,7 +3,7 @@
 
 [NOTE: Epigraf zvolený zámerne — Yera citovala tento verš Arkotovi v záhrade. Teraz je nad scénou kde odchádza. Tí čo prišli = Arkot, Flint, Itaka. Tí čo zostali = Yera. Alebo naopak. → the-book-of-El.md]
 
-# Scéna 3.5: Rozlúčka
+# Scéna 5: Rozlúčka
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — záhrada za starým kanálom, potom prístav
