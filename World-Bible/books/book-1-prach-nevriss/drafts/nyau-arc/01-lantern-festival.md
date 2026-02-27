@@ -118,7 +118,7 @@ Vtedy to uvidela.
 
 Infera.
 
-Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvieta červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť. [→ 05-geography.md: Infera = ARK-13 Prometheus, červená „hviezda" na orbite]
+Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvietia červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť. [→ 05-geography.md: Infera = ARK-13 Prometheus, červená „hviezda" na orbite]
 
 *Diablovo Oko.*
 
@@ -146,7 +146,7 @@ Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bub
 
 ---
 
-Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviacé laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
+Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviace laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
 
 Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo dýchať. Svetlušky poletovali nad hladinou kanálu — modré, tyrkysové bodky, živé hviezdy pri zemi. [→ regions/nyau.md: svetlušky, cvrčky a cikády = stála zvuková a svetelná kulisa Nyau v noci]
 
@@ -236,7 +236,7 @@ Nie preto, že to nikdy nevidela. Videla to každý večer. Z balkóna, z izby, 
 
 „Odkiaľ si?" spýtala sa. Otázka vyšla skôr, než ju stihla zastaviť. [→ characters/Yera.md: Hovorí cez otázky, nie tvrdenia]
 
-Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj- poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
+Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj-poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
 
 „Beladiss," povedal. „Diss." [→ regions/nyau.md: Beladiss — rybárske dediny, biele útesy]
 
@@ -290,7 +290,7 @@ Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým
 
 „Vieš..." povedal pomaly, „...veria tomu ľudia v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
 
-Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi.
+Yera si ich zmerala. Poznala ich. Mená, súhvezdia, navigačné osi.
 
 „Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch2 (Čierna kniha) uvidí originál — kompletný, neporušený, so všetkým čo biela Kniha neprevzala. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
 

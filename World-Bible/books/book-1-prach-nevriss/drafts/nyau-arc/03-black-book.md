@@ -170,7 +170,7 @@ Obal blikol — rýchlejšie na sekundu, dve — a vrátil sa k pôvodnému rytm
 
 Potom prišli deti.
 
-Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostmi, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmárance, nečitateľné, ako keby ich písali samotné deti a Elania len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/glyfom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
+Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostmi, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmáranice, nečitateľné, ako keby ich písali samotné deti a Elania len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/glyfom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
 
 Jedna sa opakovala. Na dvoch stranách, na troch, vždy trochu inak — väčšia, staršia, rastúca. Malá dievčinka s líščím chvostom. Oči veľké, úsmev na celú tvár. Meno napísané pod portrétom — rozmazané od vlhkosti, nečitateľné. [NOTE: jedna dievčinka sa opakuje — identita neznáma. Cirkev toto neprevzala do kópií — nechápala kontext. V origináli je strana kompletná.]
 
@@ -222,7 +222,7 @@ Yera hľadela na tú tvár dlho. Na tie oči. Na to slovo.
 
 *„To je Spáč?"* spýtala sa.
 
-*„Nie."* Sorilín hlas bol rovný. Bez emócií. Ako keď hovoríš niečo, čo si hovorila toľkokrát, že ti to prestalo ublížovať — alebo si tomu uverila. *„To je démon."* [→ 04-prehistory-players.md: Samaell — 2. Archbés, ARK-13 Prometheus. Nie démon v teologickom zmysle — Archbés, parazitický predátor. Cirkev El ho nazvala démonom kvôli jeho vzťahu s Elaniou. → 01-timeline.md: Samaell zomiera AY 3001 — Soril to nevie]
+*„Nie."* Sorilín hlas bol rovný. Bez emócií. Ako keď hovoríš niečo, čo si hovorila toľkokrát, že ti to prestalo ubližovať — alebo si tomu uverila. *„To je démon."* [→ 04-prehistory-players.md: Samaell — 2. Archbés, ARK-13 Prometheus. Nie démon v teologickom zmysle — Archbés, parazitický predátor. Cirkev El ho nazvala démonom kvôli jeho vzťahu s Elaniou. → 01-timeline.md: Samaell zomiera AY 3001 — Soril to nevie]
 
 *„Samaell,"* povedala Yera.
 
@@ -230,7 +230,7 @@ Yera hľadela na tú tvár dlho. Na tie oči. Na to slovo.
 
 Yera sa nemohla odtrhnúť od tých nakreslených očí. Unavená tvár. Tie oči. Nie démon z ilustrácií v bielej Knihe — nie bezsrstá príšera z detských nočných modlitieb. Len muž. [NOTE: Varietas nemajú problém s rohami — rohy sú normálne. „Démon" v ich kultúre = niečo ľudské, hladkokožé, cudzie. Irónia: Samaell JE humanoidný (ARK-13), ale portrét ukazuje len unavenú tvár, nie príšeru.]
 
-*„Soril,"* povedala pomaly, *„je pravda, že sa stále tulá lesmi na severe a hľadá El?"*
+*„Soril,"* povedala pomaly, *„je pravda, že sa stále túla lesmi na severe a hľadá El?"*
 
 Legenda. Každé dieťa v Nyau ju poznalo — Samaell, démon, pokušiteľ. Chcel zviesť El z cesty, ale ona odolala. Odišla s Anjelom, čistá, nedotknutá, a on bol prekliaty blúdiť severnými lesmi naveky. Bezpečná legenda. Jasná morálka: zlo sa pokúsilo a prehralo. [NOTE: Toto je OFICIÁLNA cirkevná verzia. Samaell = čistý antagonista, pokušiteľ, porazený. V legende je „El", nie „Matka" — titul Matka prišiel neskôr, keď sa jej božstvo spojilo s Inetis. Elania nemala vlastné deti — jej „deti" sú Varietas. Bola skôr dcéra, nie matka v doslovnom zmysle.]
 
@@ -246,7 +246,7 @@ Dlhé ticho. Sviečka zapraskala. Vosk stekal po okraji — pomaly, neodvratne. 
 
 *„Áno."*
 
-Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri svieche, ktorá ovláda Kvintescenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
+Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintescenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
 
 Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Strážkyňa, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred päťdesiatimi rokmi. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
 

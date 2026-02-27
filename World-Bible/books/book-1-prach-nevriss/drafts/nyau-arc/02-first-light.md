@@ -92,11 +92,11 @@ Yera prešla okolo neho. Chlapec zdvihol oči — zaregistroval chrámové rúch
 
 Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk.
 
-A pamätná tabuľa na konci aleje.
+A prastará socha na konci aleje.
 
-Zastavila sa. Zastavovala sa tu často — nie zo záujmu, skôr zo zvyku, z gravitácie, z niečoho, čomu nerozumela. Kamenná doska, pokrytá luminiscenčným machom. Vytesané riadky v Staroreči — staré písmená, staré slová, jazyk, ktorý v dobe objaviteľa ešte žil a dnes bol mŕtvy. Yera ich vedela čítať. Pursang vzdelanie. Každé dievča z klanu Saéli vedelo čítať Staroreč od prvej zimy. [→ regions/nyau.md: Staroreč, latinka = bežné písmo, Pursang vzdelanie zahŕňa základy]
+Zastavila sa. Zastavovala sa tu často — nie zo záujmu, skôr zo zvyku, z gravitácie, z niečoho, čomu nerozumela. Kamenná socha, pokrytá machom. Vytesané riadky v Staroreči — staré písmená, staré slová, jazyk, ktorý v dobe objaviteľa ešte žil a dnes bol mŕtvy. Yera ich vedela čítať. Každé dievča z klanu Saéli vedelo čítať Staroreč. [→ regions/nyau.md: Staroreč, latinka = bežné písmo, Pursang vzdelanie zahŕňa základy]
 
-Meno kapitána. Dátum v starom kalendári. A pod tým — dve vety. Zápis muža, ktorý v noci priblížil loď k neznámemu pobrežiu a uvidel les, ktorý svietil. [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, ~AY 1000-1200]
+Meno kapitána - Eon Labkan. Dátum v starom kalendári - 1124. A pod tým — dve vety. Zápis muža, ktorý v noci priblížil loď k neznámemu pobrežiu a uvidel les, ktorý svietil. [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, ~AY 1000-1200]
 
 *Nyau.*
 
@@ -104,9 +104,9 @@ Zvuk, aký urobíš, keď vidíš niečo také krásne, že zabudneš hovoriť. 
 
 Yera stála pred tabuľou a premýšľala nad niečím, nad čím nikdy predtým nepremýšľala.
 
-Kapitán videl Nyau prvýkrát. Preto bol ohromený. Preto zabudol na slová.
+Kapitán videl pobrežie Nyau prvýkrát. Preto bol ohromený. Preto zabudol na slová.
 
-A čo ona? Ona vidí Nyau každý deň. Kanály, stromy, svetlušky, kupolu chrámu, mesiac s prstencom. Každý deň. A nerobí zvuky. Nežasne. Nedíva sa.
+A čo ona? Ona vidí Nyau každý deň. Kanály, stromy, svetlušky, veže chrámov. Každý deň. A nerobí zvuky. Nežasne. Nedíva sa.
 
 *Kedy som prestala vidieť?*
 
