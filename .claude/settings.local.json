@@ -46,7 +46,10 @@
       "Bash(git ls-tree:*)",
       "Bash(python3:*)",
       "Bash(open:*)",
-      "Bash(sips:*)"
+      "Bash(sips:*)",
+      "Bash(pip install pymupdf)",
+      "Bash(python -c \":*)",
+      "Bash(python -u -c \":*)"
     ]
   }
 }

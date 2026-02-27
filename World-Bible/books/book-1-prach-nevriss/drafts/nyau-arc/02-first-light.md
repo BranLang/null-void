@@ -188,6 +188,14 @@ Nedotkol sa jej. Neusmial sa. Len prikývol — rovnako pomaly, rovnako premysle
 
 Keď vychádzala na schody, počula za sebou jemné cinknutie porcelánu o porcelán. V tichu záhrady to zaznelo ako zatvorenie dverí.
 
+Na treťom schode sa zastavila. Nie zámerne — nohy sa zastavili samy.
+
+Otočila sa napoly. Otec sedel pod stromom a držal šálku oboma rukami. Nehýbal sa. Nepil. Pozeral sa na miesto, kde pred chvíľou sedela — na prázdnu stoličku, na odtlačok v kameni, na nič. Svetlo stromu mu padalo na tvár a Yera videla niečo, čo si nikdy predtým nedovolila vidieť. Vrásky okolo očí boli hlbšie, než si myslela. A ruky — tie silné, isté, Saéli ruky — sa zachveli. Len na sekundu. Len o šestnástinu palca. Ale zachveli. [NOTE: Zrkadlový motív — „šestnástina palca" callback na otcov takmer-úsmev z rozhovoru. Rovnaká miera pohybu, opačný smer. Vtedy skoro úsmev. Teraz — skoro niečo iné.]
+
+*Bol v klietke tiež.*
+
+Otočila sa a vyšla hore.
+
 ---
 
 Izba bola jej. Jediné miesto vo vile, kde meno nič neznamenalo.
@@ -232,7 +240,19 @@ Dívala sa na prístav. Na obzor za ním — tmavý, nekonečný, plný vecí, k
 
 Festival prišiel a odišiel. [NOTE: ČASOVÝ SKOK. Festival (Ch1) prebehne tu. Pred = klietka, samota, otázky bez odpovedí. Po = zmena.]
 
-Prešla ním — celou nocou, od balkóna po strechu, od strechy po úsvit — a ráno sa vrátila do izby s rukami, ktoré voňali vínom a soľou a niečím, na čo nemala slovo. Umyla si ich. Trikrát. Vôňa zostala.
+Prešla ním — celou nocou, od balkóna po strechu, od strechy po úsvit.
+
+---
+
+Ráno.
+
+Vrátila sa do izby s rukami, ktoré voňali vínom a soľou a niečím, na čo nemala slovo.
+
+Umyla si ich. Trikrát.
+
+Vôňa zostala.
+
+---
 
 Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Ruky jej voňali čisto — mydlo, byliny, nič — a predsa zakaždým, keď zavrela oči, cítila teplý kameň a cudziu kožu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
 
@@ -313,6 +333,8 @@ Yera stiahla ruky. Zavrela oči. Hľadala prázdno.
 Nenašla ho. [NOTE: Kontrast teploty — ráno Ľad (chlad, prázdno, deštrukcia), noc Arkot (teplo, plnosť, dotyk). Yera nemôže robiť oboje. Ešte to nevie.]
 
 A cez noc — záhrada.
+
+Strážkyne slúžili aj v noci — dve pri hlavnej bráne, jedna na obchôdzke po vnútornom nádvorí. Yera poznala každý kameň toho domu. Vedela, kedy obchôdzka obchádza južné krídlo a kedy severné. Vedela, že bočné schody z jej balkóna vedú dolu za záhradný múr a že tieň pod starým orieškom je najhustejší presne vtedy, keď strážkyňa prechádza koridorom na opačnej strane. Proste sa vyparila. Ako vždy. [NOTE: Strážkyne slúžia aj v noci, ale Yera pozná vilu dokonale a dokáže sa im stratiť. Soril v Ch3 povie „dávajte na ňu lepší pozor" — čím mení level ostražitosti. To Yere sťaží budúce stretnutia.]
 
 ---
 

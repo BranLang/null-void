@@ -10,14 +10,6 @@
 **Čas**: ~AY 3010, niekoľko mesiacov po Lampiónovom festivale [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci. „Zima" = 5-ročná sezóna, nasledujúca ešte nenastala.]
 **Nálada**: Napätá, odhaľujúca — intímna tma pod chrámom, dve ženy a jedna kniha
 
-## Ciele kapitoly:
-- [x] Soril pristihne Yeru s Arkotom — crack v maske Strážkyne
-- [x] Odhalenie Kvintescencie — Yera vidí Sorilinu skutočnú silu
-- [x] Prvý kontakt s originálnou Knihou El — zakázané pasáže, Samaell, temné fialové svetlo
-- [x] Sorilino priznanie — bola ako Yera, dodnes sa bojí
-- [x] Dva opačné závery z jedného textu — zárodok Yerinej zrady
-- [x] Budovanie legendária — otec El, Samaell, rituál Strážkyne
-
 ---
 
 Lampa v záhrade za starým kanálom hádzala žlté kruhy na dlažbu. Cvrčky hrali svoju nočnú litániu a svetlušky — modré, tyrkysové, zelené — krúžili pomedzi kríky pri lavičke, kde Yera sedela s Arkotom. Cikáda na strome nad nimi vibrovala tak hlasno, že takmer prekryla zvuk krokov.
@@ -99,6 +91,10 @@ Potom si stiahla stoličku, druhú posunula k Yere, a sadla si. Ako matka pri la
 *„Sadni."*
 
 Yera sadla.
+
+Kniha ležala medzi nimi na stole — na dosah ruky. Hľadela na ňu a dlane jej svrbeli. Nie od túžby dotknúť sa — od niečoho fyzického, hlbokého, akoby niečo v čiernom obale ťahalo za niečo v nej. Teplé vlny stúpali z brucha do prstov a zase späť — pomalé, rytmické, cudzie. Vzduch nad tabuľkami sa mierne chvel. Nebol to chlad ani teplo. Bolo to niečo medzi — napätie, ktoré nemalo smer, len prítomnosť. Ako keď stojíš príliš blízko ohňa a tvoje telo vie skôr než ty, že máš ustúpiť. [NOTE: Gen 2 nanotech v Yere rezonuje s Gen 1 Prachom v obale. Prach rozpoznáva Spiru. Yera to nevie pomenovať — pre ňu je to len pocit, že niečo sa jej drží za vnútornosti. Prvá rezonancia bola pri dverách (Kvintesencia). Toto je druhá — silnejšia, priamejšia. Kniha je bližšie.]
+
+Odtiahla ruky do lona. Prsty sa nepatrne triasli.
 
 *„To, čomu sa celé kráľovstvo každú zimu klania,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
 
@@ -318,15 +314,23 @@ Soril sa narovnala. Kapitola uzavretá.
 
 Sedeli tam dlho. Soril listovala, rozprávala, ukazovala. Yera počúvala.
 
-O veciach, ktoré Yera už videla inak — a o niektorých, ktoré ešte nie. O mapách ciest, ktoré viedli niekam na západ — k jaskyni, ktorú El hľadala a ktorú podľa textu nikdy nenašla.
+O veciach, ktoré Yera už videla inak — a o niektorých, ktoré ešte nie. O mapách ciest, ktoré viedli niekam na sever — k miestu, ktoré El hľadala a ktoré podľa textu nikdy nenašla.
 
 Alebo nenašla v čase písania. [→ the-book-of-El.md: Jaskyňa Ely — Elania sa vrátila ku kryostáze Maksa ~AY 863, keď Sera prišla po ňu. Cirkev nevie, že jaskyňa existuje. → books/book-1-prach-nevriss/concepts/maks-awakening-concept.md]
 
 A Yera počúvala všetko. Zapamätávala si. Ten druh zapamätávania, ktorý nie je zámerný, ale je absolútny — keď niečo zasiahne miesto, kde si myslíš, že si prázdna, a zistíš, že nie si. [NOTE: Yera si tu nevyberá ukradnúť Knihu. To príde neskôr — z kumulácie ponížení, z jedného konečného momentu s Soril. Toto je len zárodok. Ona teraz počúva. Ukladá. Rastie.]
 
-Keď vyšli hore — bez slov, bez rozlúčky, Soril zapečatila skrinku, zamkla dvere, išla rovno spať — Yera stála chvíľu sama v chrámovej chodbe.
+Keď vyšli hore, Soril zapečatila skrinku, zamkla dvere a vyviedla ju von pred chrám, kde čakali Saéli strážkyne — dve tiché postavy v tieni stĺpov, nehybné, akoby tam stáli celú noc.
 
-Liehové lampy. Kamenná podlaha. Za dverami noc a Nyau a Arkot, niekde tam, čakajúci, nevediac, kde je.
+*„Odprevaďte ju domov,"* povedala Soril. Nepozerala na Yeru. Pozerala na strážkyne. *„A dávajte na ňu lepší pozor."*
+
+Strážkyne sa neopýtali prečo. So Soril sa nikto nikdy nepýtal prečo.
+
+Potom sa otočila a odišla. Bez rozlúčky. Kroky na kamennej podlahe — suché, presné, zmenšujúce sa — a potom nič. [NOTE: Soril prikáže klanové strážkyne, nie chrámové — Yera je Saéli, strážkyne sú klanové. „Lepší pozor" = Soril vie o nočných výletoch. Nepovie to priamo. Nechá strážkyne, nech si to domyslia. Zároveň foreshadowing — strážkyne budú bdelšie, čo Yere sťaží budúce stretnutia s Arkotom.]
+
+Yera kráčala medzi nimi cez nočné ulice Nyau. Nehovorili. Nemuseli. Ulice sa otvárali do teplej noci — nočné kvety, vzdialený šum kanálu. Strážkyne šli tri kroky za ňou. Ako vždy. Ako tiene, ktoré sa nedajú zhodiť. Len teraz — bližšie. O pol kroku bližšie.
+
+Ale Yera ich nepočúvala. V hlave mala lampy a pergamen a unavenú tvár a jedno slovo pod ňou.
 
 Soril hovorila: *anjel ju zachránil.*
 Yera počula: *aj ona si vybrala démona. A Cirkev to skryla.*
