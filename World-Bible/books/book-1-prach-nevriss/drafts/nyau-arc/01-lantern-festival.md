@@ -7,7 +7,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — hlavné námestie, ulice, prístav, strechy
-**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
+**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 4 zimy (~20 rokov).
 **Nálada**: Horúca, voňavá, opojná — a pod tým všetkým dusivá
 
 ---
@@ -156,7 +156,7 @@ Chlapec sedel na schode.
 
 Opretý chrbtom o stenu skladiska, nohy pred sebou, fľaša tmavého skla v ruke. Maska — leopardia, drevená, lacná — mu visela na krku, odsunutá, nepotrebná. Nemusel sa skrývať. Nemal pred kým. [→ characters/Arkot.md: Mezra leopard z Beladiss, navigátor]
 
-Mezra. Leopard. Yera to videla okamžite — tmavá koža, leopardie škvrny na krku a ramenách, kde rozopnutá košeľa obnažovala hruď. Tmavé vlasy, neupravené, spadajúce do čela. A oči — keď sa na ňu pozrel — tmavozelené, hlboké, pokojné. Oči bytosti, ktorá vie, že nikam nepatrí, a zmierila sa s tým. [→ regions/nyau.md: Mezra = nižšia kasta. Pursang + Mezra = absolútne neprípustné]
+Mezra. Leopard. Yera to videla okamžite — tmavá koža, leopardie škvrny na krku a ramenách, kde rozopnutá košeľa obnažovala hruď. Tmavé vlasy, neupravené, spadajúce do čela. A oči — keď sa na ňu pozrel — jantárovzelené, hlboké, pokojné. Oči bytosti, ktorá vie, že nikam nepatrí, a zmierila sa s tým. [→ regions/nyau.md: Mezra = nižšia kasta. Pursang + Mezra = absolútne neprípustné]
 
 Bol trochu opitý. Nie dosť na to, aby nevidel. Dosť na to, aby mu bolo jedno, čo vidí.
 
@@ -166,7 +166,7 @@ Lampión preletel nad ulicou — osamotený, oneskorený, jeden z posledných, �
 
 Hlas bol pokojný. Trochu chrapľavý — od vína, od noci, od samoty. Nebol to podvádzajúci hlas. Nebol to hlas muža, čo sa prihovára dievčatám. Bola to otázka. Skutočná otázka bytosti, ktorá sedela sama na schodoch a videla niekoho, kto vyzerá rovnako stratený.
 
-Yera stuhla. Ruka jej automaticky vystrelila k tvári — *zakryť, schovať, odísť* — no prsty už klopli iba na chladné lakované drevo masky, ktorá bola po celý ten čas s ňou. Prvý raz si vydýchla a ostala sedieť na mieste s ušitými perami.
+Yera stuhla. Ruka jej automaticky vystrelila k tvári — *zakryť, schovať, odísť* — no prsty už klopli iba na chladné lakované drevo masky, ktorá bola po celý ten čas s ňou. Prvý raz si vydýchla a ostala stáť na mieste so zaťatými perami.
 
 „Nie," povedala. [→ books/planning/yera-arc-novela.md: Beat 3 — „Stratila si sa?" / „Nie." (Ale áno.)]
 
@@ -198,6 +198,8 @@ Vtrhol s ňou priamo do pulzujúceho davu.
 Okolo nich sa mihal vír masiek, tiel a lampiónov. Arkot ju viedol isto, drzo a pritom plynulo, akoby bol s tým hlukom a tancom zrastený. Yera spočiatku stuhla, no jeho ruka na jej páse bola pevná a presne rytmizovaná do krokov ostatných okolo. Postupne sa nechala viesť. Hudba ju strhávala, svaly sa jej uvoľňovali, prestala myslieť na Chrám. Okolo nich sa preplietali iné tancujúce páry, nočná vôňa kvetov, korenín a potu zapĺňala námestie.
 
 Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila, dvakrát neisto prešľapla na dlažbe, úplne mimo rytmus ostatných. No on voľnú ruku pevne navinul na jej obruč nad pásom a strhol ju opäť k hudbe, hladko a bez jedinej myšlienky odporu z oboch strán. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, uprostred spoteného, prístavného davu.
+
+![Yera & Arkot](../../../../assets/characters/Yera/yera-arkot-dancing.png)
 
 Keď struny dospeli do búrlivého finále a tanec odznel, odfúkli si, opretí o seba ramenami, dýchajúc zrýchlene. Vymanili sa z hlavného prúdu námestia a opäť zišli do tichšieho tieňa skladísk.
 

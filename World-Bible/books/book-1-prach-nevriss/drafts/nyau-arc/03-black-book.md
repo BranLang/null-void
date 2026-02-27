@@ -100,7 +100,7 @@ Yera si nedýchala.
 
 Pauza. Prst prešiel po okraji skrine.
 
-*„Ale otvor bránu zle —"* pomaly, *„—"*
+*„Ale otvor bránu zle —"* Zastavila sa. *„—"*
 
 Nedopovedala. [NOTE: Soril VIE čo sa stane — glyf zasvieti fialovo → zmení sa na červeno → nekonečná slučka → kryštalizácia. Nepovedala to. Nechala to visieť. Foreshadowing Mayi — Yera si zapamätá ticho, nie slová. Keď neskôr stretne Mayu, doplní si sama.]
 

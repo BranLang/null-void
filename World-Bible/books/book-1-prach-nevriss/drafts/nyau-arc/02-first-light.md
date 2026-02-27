@@ -5,7 +5,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrám El, ulice, vila Saéli
-**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
+**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 4 zimy (~20 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
 **Nálada**: Dusivá, nespokojná — kontrast s festivalovou nocou
 
 ---
@@ -126,7 +126,7 @@ Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú kanvicu vedľ
 
 Celé meno. Nie *Yera*. Yerana. To znamenalo rozhovor. Nie ten dobrovoľný druh.
 
-Sadla si oproti nemu. Svetlo stromu padalo na otcovu tvár a menilo sa — tyrkysové, zelené, znova tyrkysové — a v tom pohyblivom jase videla vrásky, ktoré cez deň nevidela. Otec nebol starý. Pursangovia žili dlhšie než dlhšie a jeho krv bola čistá — desať generácií Saéli. Tak o tom hovoril. *Čistá krv.* Akoby krv mohla byť špinavá. [→ regions/nyau.md: medzikastové tabu, klany sledujú rodokmeň do 10. generácie, čistota krvi = čistota Spiry]
+Sadla si oproti nemu. Svetlo stromu padalo na otcovu tvár a menilo sa — tyrkysové, zelené, znova tyrkysové — a v tom pohyblivom jase videla vrásky, ktoré cez deň nevidela. Otec nebol starý. Pursangovia žili dlhšie než ostatné kasty a jeho krv bola čistá — desať generácií Saéli. Tak o tom hovoril. *Čistá krv.* Akoby krv mohla byť špinavá. [→ regions/nyau.md: medzikastové tabu, klany sledujú rodokmeň do 10. generácie, čistota krvi = čistota Spiry]
 
 Ale oči mal unavené. Oči muža, ktorý niesol meno príliš dlho a zabudol, ako vyzerá bez neho.
 
@@ -208,7 +208,7 @@ V Nyau sa nechcelo. V Nyau sa plnilo. Dcéry klanu boli buď sľúbené mužom, 
 
 Položila ruky na zábradlie. Pazúry — jemné, krátke, tmavé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
 
-Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené.
+Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampiónov sa hojdali vo vánku — prázdne, nerozsvietené.
 
 *Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampiónový festival, tradícia maskovania]
 
@@ -250,7 +250,7 @@ Kývol jej hlavou smerom k mestu a vrhol sa naspäť k lanám. Ostrý tón prís
 
 Vrátila sa aj nasledujúci deň. Stála v tom istom tieni, za tou istou roletou. On ju nezbadal — alebo predstierať, že nie. Nakladal vrecia, smial sa s robotníkmi, existoval bez nej. Odišla skôr, než by musela.
 
-Tretí deň jej hodil jablko. Nepovedal nič — len ho vytiahol z vreca, otočil sa jej smerom a hodil, jedným pohybom, cez pätnásť stôp horúceho prašného vzduchu. Yera ho chytila. Chytila ho oboma rukami, kňažkovými rukami, čistými rukami — a jablko bolo teplé a prašné a voňalo poľom a jeho dlaňou. Zahryzla sa do neho až cestou domov.
+Tretí deň jej hodil jablko. Nepovedal nič — len ho vytiahol z vreca, otočil sa jej smerom a hodil, jedným pohybom, cez pätnásť stôp horúceho prašného vzduchu. Yera ho chytila. Chytila ho oboma rukami, kňažskými rukami, čistými rukami — a jablko bolo teplé a prašné a voňalo poľom a jeho dlaňou. Zahryzla sa do neho až cestou domov.
 
 Piaty deň sa postavila bližšie. Šiesty ešte bližšie. Vymieňali si len pár tichých slov — komentáre o vetre, o počasí, o hlúpom žeriavnikovi, čo zaspal na stoličke — vety, ktoré nič neznamenali a znamenali všetko.
 
@@ -369,7 +369,7 @@ Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na 
 *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.“*
 Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci a zvuku mora z prístavu. 
 
-Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a kľudným tempom plavca.
+Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a pokojným tempom plavca.
 „To je z tej svätej knihy?“
 „Áno.“
 Zacítila letný úsmev odrážajúci sa na svalvine jeho sánky.
