@@ -536,7 +536,7 @@ Zavrela oči.
 
 [NOTE: RESOLVED — otec zostáva cez absenciu. Kapitola je o dvoch magnetoch (Kniha/Arkot). Tretí by rozbíjal binárnu tenziu. Otec existuje implicitne cez „Saéli školenie" zmienky (r.115, r.277) — to stačí.]
 
-[RESOLVED: Arkotov odchod riešený v 03.5-farewell.md + 04-utek-kradez.md]
+[RESOLVED: Arkotov odchod riešený v 04.5-interlude-breakup.md — Arkot dá kopacky ("Kedy ma chceš predstaviť rodičom?"), odíde s Flintom na Kortegovu bárku.]
 
 [→ Celá kapitola vychádza z books/planning/nyau-arc/03-temptation.md — 7-scénový plán]
 [→ Kniha El: the-book-of-El.md — apokryfy, šifry, haiku, posledný zápis]
