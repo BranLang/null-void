@@ -106,7 +106,7 @@ Arkot prikývol. Nemal dôvod pochybovať. Položil ruku na lavičku vedľa nej 
 
 Záhrada svietila.
 
-Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — hádali z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Svetlušky medzi nimi — krúžiace, poletujúce, modré a tyrkysové a žlté — pridávali pohyblivé bodky svetla k nehybným. Cvrčky sa ozvali v tom istom okamihu keď Yera sadla — akoby len čakali na publikum. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
+Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — cedili z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Svetlušky medzi nimi — krúžiace, poletujúce, modré a tyrkysové a žlté — pridávali pohyblivé bodky svetla k nehybným. Cvrčky sa ozvali v tom istom okamihu keď Yera sadla — akoby len čakali na publikum. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
 
 Arkot hovoril.
 
@@ -342,7 +342,7 @@ Yera to zbadala, len čo si sadla. Niečo v tom, ako sedel — rovnako ako vždy
 
 Opatrne. Slová kladené vedľa seba ako kamene cez potok — presne, jeden za druhým, s medzerami pre dych.
 
-*„Vzducholoď. Kapitánka z Kitsune. Hľadá posádku."* [→ drafts/nyau-arc/02.1-interlude-itaka.md: Itaka v prístave — Tami hľadá posádku. Flint sa pridá prvý, potom zavolá Arkota. → NOTE: Foreshadowing Interludia.]
+*„Vzducholoď. Kapitánka. Hľadá posádku."* [→ drafts/nyau-arc/02.1-interlude-itaka.md: Itaka v prístave — Tami hľadá posádku. Flint sa pridá prvý, potom zavolá Arkota. → NOTE: Foreshadowing Interludia.]
 
 Yera počúvala. Slová boli jednoduché — loď, kapitánka, posádka. Navigátorské slová. Arkotove slová. Ale pod nimi bolo niečo iné, niečo, čo Yera cítila skôr ako počula — seizmický otras, hlboko, pod povrchom, kým je na povrchu ešte ticho.
 
@@ -474,7 +474,7 @@ A to nesmie.
 
 Soril ju naučila otvoriť dvere s podmienkou — mlčanie. Tajomstvo. Chrám. Tradícia. A Yera ju drží — ešte.
 
-Vošla do vily bočnou bránou. Strážkyne spali. Celé Nyau spalo. Hodila sa na posteľ — ľanové plachty, biely kameň, okno otvorené do noci.
+Vošla do vily bočnou bránou. Strážkyne spali. Celé Nyau spalo. Hodila sa na posteľ — hodvábne plachty, biely kameň, okno otvorené do noci.
 
 Za oknom mesto svietilo.
 
