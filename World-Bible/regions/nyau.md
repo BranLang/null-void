@@ -11,7 +11,7 @@
 | **Názov** | **Nyau** |
 | **Lokácia** | Východné pobrežie Terry — južne od Jaskyne Ela, pri rovníku |
 | **Veľkosť** | Menšie kráľovstvo — pobrežný pás + úrodné vnútrozemie |
-| **Hlavné mesto** | **Nyau** (rovnaký názov ako kráľovstvo) |
+| **Hlavné mesto** | **Nyau** (rovnaký názov ako kráľovstvo) — **najväčšie mesto v známom svete**, ~5 miliónov obyvateľov |
 | **Vláda** | Klanová aristokracia — Pursang klany delia moc |
 | **Dominantný klan** | **Saéli** (najvplyvnejší, najstaršia línia) |
 | **Náboženstvo** | **Cirkev El** (variant Kultu Matky) |
@@ -211,11 +211,13 @@ Kto nájde Jaskyňu Ela, nájde odpoveď na otázku, **prečo tu všetko rastie*
 - **Otvorené konštrukcie** — horúca klíma = arkády, terasy, vnútorné dvory so stromami. Vzduch musí prúdiť.
 - **Kanálové mesto** — kanály pretekajú celým mestom. Mosty, gondoly, nábrežné promenády. V noci kanály svietia.
 - **Chrám El** — dominanta mesta na kopci. Biely kameň s bioluminescentnou mozaikou. Kupola zo svetielkujúceho skla — v noci vyzerá ako spadnutá hviezda. Chrámová záhrada — precízne tvarované bioluminescentné stromy, kamenné cesty, vodné prvky.
-- **Klanové sídla** — veľké vily s vnútornými nádvoriami, fontánami, záhradami. Klan Saéli má najväčšie — biela vila so svetielkujúcim stromom v strede nádvoria.
+- **Klanové sídla** — veľké vily s vnútornými nádvoriami, fontánami, záhradami. Klan Saéli má najväčšie — biela vila so svetielkujúcim stromom v strede nádvoria, tri poschodia, chodby pre tridsať ľudí (z ktorých väčšina je prázdna — klan Saéli kedysi čítal desiatky, dnes osem plus sluhovia).
 
 ### Námestia a Ulice
 - **Hlavné námestie** — pred Chrámom El. Tu sa konajú festivaly, trhy, verejné obrady.
-- **Prístav** — pod mestom, pri pobreží. Menší než Shoraven, ale dôležitý pre obchod s východom.
+- **Prístav** — pod mestom, pri pobreží. Obrovský — primeraný najväčšiemu mestu v známom svete. Primárne vzducholodný — diaľkový obchod a cestovanie prebieha vzduchom. Obchodné trasy s Beladiss, Nevriss, ostrovmi.
+  - **Prečo vzducholode, nie lode**: Gravitačné zmeny na Achille (1.1g–1.4g počas dňa, podľa pozície Sai) spôsobujú masívne prílivy a odlivy. Otvorené more je pri gravitačných výkyvoch nebezpečné — vlny, prúdy, nepredvídateľná hladina. Vodné lode existujú (gondoly na kanáloch, rybárske bárky, pobrežná plavba), ale diaľková námorná doprava je nespoľahlivá a riskantná. Vzducholoďam je gravitácia jedno — preto dominujú obchodu a transportu.
+  - **Prístavné brány (hrádze)** — obrovské kamenné a kovové brány, ktoré držia hladinu vody v prístavnom bazéne stabilnú. Bez brán by prístav zaplavilo pri ťažkej hodine a vysušilo pri ľahkej. Brány sa otvárajú a zatvárajú manuálne — obrovské mechanické prevody, desiatky robotníkov. Jedna z najväčších inžinierskych stavieb Nyau. Údržba brán je stála práca — korózia, riasy, nápor vody. [→ 05-geography.md: gravitačné cykly Sai]
 - **Bazar** — labyrint úzkych uličiek plných stánkov. Korenie, hodváb, liečivé byliny, bioluminescentné kvety (rezané — svietia ešte niekoľko dní).
 - **Záhrady** — verejné aj súkromné. Bioluminescentné záhrady sú pýchou klanov.
 
@@ -271,6 +273,11 @@ Nyau má prísny kastový systém — prísnejší než Nevriss, porovnateľný 
 - Rovnomernejšie než v Beladiss — ženy v Nyau majú práva, vlastnia majetok, vedú klany
 - Ale: **dcéry klanov sú politické nástroje.** Dohodnuté zväzky. Výber partnera nie je súkromná vec — je to klanová záležitosť.
 - Kňažky Cirkvi El majú nezávislé postavenie — mimo klanovej politiky. Pre dcéru klanu je vstup do Chrámu jediná alternatíva k dohodnutému zväzku.
+
+### Materská Spira väzba (Lore — otvorené)
+- **Matky dokážu cítiť svoje deti cez Spiru** — aj keď by ich nemali vidieť. Spira je dedičná — nanoboty matky a dieťaťa zdieľajú kódovú vetvu. Blockchain princíp: každá generácia nesie reťazec predchádzajúcej. Materská väzba cez Spiru je niečo, čo existuje, ale nie je dobre preskúmané ani pochopené. Pursangovia to berú ako samozrejmosť — matky „vedia". Nikto to vedecky neskúmal.
+- **Relevancia pre príbeh:** Yerina matka dokázala „vidieť" Yeru aj keď bola neviditeľná (ch5 Nyau Arc). Yera si to nevie vysvetliť. Záhada zostáva otvorená.
+- **[TODO: Rozvinúť v neskorších knihách — Spira ako blockchain, dedičné vetvy, materská väzba. Ťažký koncept — nechať dozrieť.]**
 
 ---
 
@@ -487,6 +494,7 @@ Lampionový festival je **callback na Elaniin tanec s tieňmi** — a nikto v Ny
 - **Lampióny** — ručne vyrobené, papierové a hodvábne, maľované. Tisíce lampónov stúpajú k hviezdam — pomaly, ticho, nekonečne. Symbolizujú duše, čo stúpajú k El.
 - **Masky** — tradícia maskovania. Zvieracie tváre, El, Matka, duchovia. Anonymita — počas festivalu sú si všetky kasty „rovné" (aspoň symbolicky). [→ Pôvod: Elaniina mačacia maska]
 - **Sai v splne** — jantárový kotúč s prstencom nad hlavami. Ľahká hodina — teplá letná noc. Bioluminiscencia mesta + lampióny + mesačné svetlo = Nyau svieti zo všetkých strán.
+- **Vzducholode grounded** — jediný deň, keď je obloha nad Nyau prázdna. Všetky vzducholode musia pristáť alebo obísť mesto. Dôvod: horiace lampióny sú riziko pre vodíkové vzducholode. Navyše je to sviatok — nepracuje sa. Obloha patrí lampiónom.
 - **Chrámový obrad** — kňažky spievajú na schodoch Chrámu El. Kadidlo. Bioluminescentné kvety hádžu do kanálov — voda sa zmení na rieky svetla.
 
 ### Kultúrny význam

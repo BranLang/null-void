@@ -455,7 +455,12 @@ Svet nepoužíva uhlie ani elektrinu. Primárnymi zdrojmi energie sú:
 | **Vlaky** | Para (geotermálna) | Len v Nevriss a okolí — koľajnice trpia zemetraseniami |
 
 **Prečo sú vzducholode preferované pred loďami:**
-Jadro planéty Achilles je extrémne aktívne. Zemetrasenia sú pomerne časté a tsunami devastujú pobrežné oblasti niekoľkokrát za dekádu. Námorná doprava je riskantná — lode sa potápajú, prístavy sa ničia, pobrežné mestá sa pravidelne zaplavujú. Nevriss bolo kedysi námorným impériom — jeho flotila šírila civilizáciu pozdĺž južných brehov Terry. Ale **Veľká Potopa** (~AY 1500) zničila väčšinu prístavov a flotily. Po príchode **Makov** (AY 2212) sa vzducholode stali hlavnou formou diaľkovej dopravy — sú nad tým všetkým. Námornícky obchod stále existuje (je lacnejší), ale je považovaný za nebezpečný a nespoľahlivý.
+Gravitačné výkyvy Sai (1.1g–1.4g počas dňa) sú koreňom všetkého:
+- **Prílivy a odlivy** — masívne, oveľa väčšie než na Zemi. Otvorené more je pri gravitačných výkyvoch nebezpečné — nepredvídateľné prúdy, vlny, hladina. Vodné lode sú na diaľkovú plavbu nespoľahlivé.
+- **Seizmická aktivita** — gravitačné sily deformujú jadro planéty. Zemetrasenia sú časté, tsunami devastujú pobrežie niekoľkokrát za dekádu. Nie sú to dva oddelené problémy — je to jeden: Sai.
+- **Urbanizmus** — Varietas sa za 3000 rokov poučili. Mestá nestoja na plážach — stoja na útesoch, na vyvýšeninách, na miestach, kde posledné tisícročia prežili. Shattered Lands a Veľká Potopa (~AY 1500) naučili Varietas, kde sa dá stavať a kde nie. Pobrežné osady existujú, ale sú dočasné, chudobné, obetovateľné.
+
+Nevriss bolo kedysi námorným impériom — jeho flotila šírila civilizáciu pozdĺž južných brehov Terry. Veľká Potopa zničila väčšinu prístavov a flotily — pád ríše. Po príchode **Makov** (AY 2212) sa vzducholode stali hlavnou formou diaľkovej dopravy — sú nad tým všetkým. Vodný obchod stále existuje (gondoly na kanáloch, rybárske bárky, pobrežná plavba), ale diaľková námorná doprava je nebezpečná a nespoľahlivá.
 
 **Dvojplošníky:**
 Existujú aj lietadlá — dvojplošníky poháňané biodieselom alebo etanolovým biobenzínom. Sú rýchlejšie než vzducholode, ale menšie a s obmedzeným doletom. Používajú sa na prieskum, rýchle správy a ako ľahké bojové stroje. Graw ich využíva na prieskumné nálety (malé, rýchle, s dlhým dostrelom).
@@ -496,6 +501,7 @@ Prečo sa v ére karabín a guľometov stále používajú meče?
 
 ### 1. Vzdušný boj: "Pakt Vodíka"
 Vzducholode sú plnené **vodíkom** (hélium je vzácne a uniká). Výstrel z pušky na palube alebo v podpalubí znamená takmer istú explóziu a smrť celej posádky (útočníkov aj obrancov).
+- **Výroba vodíka**: Parná metóda — vodná para cez rozžeravené uhlie. Produkuje vodík aj oxid uhoľnatý (jedovatý). Nebezpečný proces, robí sa v špeciálnych dielňach pri prístavoch. Drahé — preto sú vzducholode luxus, nie masový transport. Bez elektriny, bez Spiry — čistá chémia a oheň.
 - **Tichá dohoda**: Aj tí najhorší piráti dodržiavajú nepísaný zákon — pri boardingu sa strieľa len v krajnej núdzi. Bojuje sa nožmi, mačetami, obuškami a kušami.
 - **Palubné zbrane**: Kanóny (ako *Felix 88*) sa používajú len na diaľku proti trupu inej lode, nikdy nie v interiéri.
 

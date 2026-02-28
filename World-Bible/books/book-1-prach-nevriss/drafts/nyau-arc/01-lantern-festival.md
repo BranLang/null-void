@@ -219,7 +219,7 @@ A potom zdvihla hlavu.
 
 Celé mesto ležalo pod ňou — ale inak než z balkóna. Bližšie. Skutočnejšie. Odtiaľto videla ľudí, nie siluety — pár na moste, čo sa držal za ruky, gondoliera, čo spieval, deti, čo behali s poslednými lampášmi. Kanály svietili — kvety, čo kňažky zhodili zo schodov Chrámu, doplávali až sem a premenili vodu na rieky tyrkysového svetla. [→ regions/nyau.md: Chrámový obrad — kvety hádzané do kanálov, voda sa zmení na rieky svetla]
 
-A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú.
+A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú. [→ regions/nyau.md: vzducholode sú počas Lampionového festivalu grounded — jediný deň, keď obloha patrí lampiónom. Zvyšok roka sú nad mestom stále — osvetlené lampami a modrými bioluminiscenčnými svetlami.]
 
 Sai. Hviezdy. Obzor, kde sa more stretalo s nebom. [→ 05-geography.md: Sai — jantárový mesiac s prstencom, splň]
 

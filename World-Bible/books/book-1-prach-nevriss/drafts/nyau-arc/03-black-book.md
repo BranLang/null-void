@@ -328,7 +328,7 @@ Strážkyne sa neopýtali prečo. So Soril sa nikto nikdy nepýtal prečo.
 
 Potom sa otočila a odišla. Bez rozlúčky. Kroky na kamennej podlahe — suché, presné, zmenšujúce sa — a potom nič. [NOTE: Soril prikáže klanové strážkyne, nie chrámové — Yera je Saéli, strážkyne sú klanové. „Lepší pozor" = Soril vie o nočných výletoch. Nepovie to priamo. Nechá strážkyne, nech si to domyslia. Zároveň foreshadowing — strážkyne budú bdelšie, čo Yere sťaží budúce stretnutia s Arkotom.]
 
-Yera kráčala medzi nimi cez nočné ulice Nyau. Nehovorili. Nemuseli. Ulice sa otvárali do teplej noci — nočné kvety, vzdialený šum kanálu. Strážkyne šli tri kroky za ňou. Ako vždy. Ako tiene, ktoré sa nedajú zhodiť. Len teraz — bližšie. O pol kroku bližšie.
+Yera kráčala medzi nimi cez nočné ulice Nyau. Nehovorili. Nemuseli. Ulice sa otvárali do teplej noci — nočné kvety, vzdialený šum kanálu. Nad strechami duneli vzducholode, osvetlené lampami a modrými svetlami, motory ako vzdialený hrom, ako vždy. Strážkyne šli tri kroky za ňou. Ako vždy. Ako tiene, ktoré sa nedajú zhodiť. Len teraz — bližšie. O pol kroku bližšie.
 
 Ale Yera ich nepočúvala. V hlave mala lampy a pergamen a unavenú tvár a jedno slovo pod ňou.
 
