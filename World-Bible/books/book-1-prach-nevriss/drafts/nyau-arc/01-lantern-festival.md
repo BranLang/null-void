@@ -14,7 +14,7 @@
 
 Prvý lampión vzlietol z námestia pred Chrámom El presne v okamihu, keď Sai prešiel zenit.
 
-Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotal ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampiónový festival, lampióny = duše stúpajúce k El]
+Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, nad miliónmi duší, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. [NOTE: Nyau = 5M obyvateľov. Yera je nad nimi — doslova aj metaforicky. Najvyšší balkón najvyššieho klanu nad najväčším mestom na kontinente.] Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotal ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampiónový festival, lampióny = duše stúpajúce k El]
 
 Tisíce.
 
@@ -74,9 +74,9 @@ Prvých päť krokov bolo najťažších.
 
 Nie fyzicky — fyzicky bolo všetko ľahšie. Sai v zenite, ľahká hodina. Telo plávalo. Každý krok bol plynulý, takmer tanečný — akoby ju vzduch niesol. [→ 05-geography.md: Sai v zenite — gravitácia ~1.0g, ľahká hodina]
 
-Ťažké bolo iné. Prvýkrát v živote stála na uliciach Nyau v noci bez sprievodu. Bez strážkyne. Bez klanového plášťa, bez Saéli mena na tvári. V tyrkysových hodvábnych šatách, áno, ale bez znaku, bez výšivky — zvyšok klanu mal na hrudi klanové emblémy. Yera ich nemala. Soril ich nedovolila — *kňažky nepotrebujú klanové znaky. Kňažky patria El, nie klanu.*
+Ťažké bolo iné. Prvýkrát v živote stála na uliciach Nyau. Päť miliónov obyvateľov žilo v tomto meste a Yera nepoznala ani jedného. Nikdy nešla pešo po ulici — nikdy, ani raz, ani náhodou. Z vily do chrámu a z chrámu domov, celý život, vo voze alebo v nesúcich nosidlách, za záclonami, za múrmi, za strážkyňami. Jej tvár bolo tajomstvo — nie preto, že by bola známa, ale preto, že Saéli svoje dcéry neukazovali. Dcéra najvplyvnejšieho klanu nebola osoba — bola majetok. A majetok sa nenosí na ulicu. [NOTE: Yera nikdy nebola na ulici. 5M mesto a ona pozná len múry villy a chrámu. Strážené tajomstvo — tvár dedičky klanu Saéli nepozná nikto na verejnosti.]
 
-A tak Yera stála v dave a nikto ju nepoznal. Bola len ďalšia mačka s dlhými čiernymi vlasmi a modrými očami v meste plnom mačiek. [→ characters/Yera.md: Felis Varietas, čierne vlasy, modré oči — Pursang črta]
+A teraz stála medzi nimi. Bez sprievodu. Bez strážkyne. Len ďalšia mačka s dlhými čiernymi vlasmi a modrými očami v meste plnom mačiek. [→ characters/Yera.md: Saéli = stealth wealth. Žiadne klanové emblémy, žiadne znaky. Yera je nepoznateľná v dave — to je pointa.] [→ characters/Yera.md: Felis Varietas, čierne vlasy, modré oči — Pursang črta]
 
 *Nič sa nestalo*, povedala si. *Nič sa nestalo. Len stojím na ulici. Na ulici, po ktorej chodia tisíce ľudí.*
 
@@ -175,7 +175,7 @@ Pauza. Vzdialená hudba doľahla až k nim; pomalší, tiahly rytmus strún z n�
 Chlapec zvoľna ukázal na fľašu vo svojich rukách.
 „Víno?“ spýtal sa jednoducho.
 
-Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
+Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Stálo menej než kvetinový aranžmán na balkóne, z ktorého práve ušla. [NOTE: Kontrast sveta — Arkot ponúka to najlepšie čo má (víno za pár mincí). Pre neho je to gesto. Pre Yeru je to prvý kontakt s niečím lacným v celom živote. Arkot netuší, s kým hovorí — pre neho je len dievča s maskou.]
 
 Natiahla ruku a vzala si ju.
 
