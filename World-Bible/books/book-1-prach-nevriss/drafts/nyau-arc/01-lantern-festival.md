@@ -84,7 +84,7 @@ Dav ju pohltil.
 
 Hudba bola hlasnejšia dolu — nie tlmený ozvuk z balkóna, ale živá, surová, pulzujúca vec, ktorá jej vibráciami prechádzala od chodidiel cez kolená do hrude. Bubeníci na rohu námestia hrali synchrónne — štyria Mezra v maskách, bez trička, srsťou pokrytá ramená blýskajúce sa v svetle lampášov, paličky rozmazané od rýchlosti. Flautistka vedľa nich — starena so sivými fúzmi a rukami, na ktorých svietili tetované glyfy — hrala tón tak vysoký a čistý, že sa zdalo, akoby ním rezala vzduch na polovicu. [→ regions/nyau.md: hudba — bubny, flauty, struny. Tetovania na predlaktiach = makro shortcuty pre Spiru]
 
-Yera stála a počúvala. Zvuk vchádzal dovnútra a niečo v nej odpovedalo — nie Spira, nie nanotechnológia, len telo, len srdce, len to hlúpe, jednoduché, zvieracie niečo, čo cítiš, keď ťa hudba zasiahne tak hlboko, že zabudneš dýchať.
+Yera stála a počúvala. Zvuk vchádzal dovnútra a niečo v nej odpovedalo — nie Spira, len telo, len srdce, len to hlúpe, jednoduché, zvieracie niečo, čo cítiš, keď ťa hudba zasiahne tak hlboko, že zabudneš dýchať.
 
 Prúd ľudí ju unášal ďalej.
 
