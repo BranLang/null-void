@@ -7,14 +7,14 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — Sorilina pracovňa → klanový dom Saéli → chrámová podzemná knižnica → prístav
-**Čas**: ~AY 3011-3012, pol roka po odlete Itaky (interlude). Saburo ostal v Kitsune (chorý). Tami hľadá doktora. Posádka minimálna.
+**Čas**: ~AY 3011-3012, pol roka po rozchode s Arkotom (→ 04.5-interlude-breakup.md). Saburo ostal v Kitsune (chorý). Tami hľadá doktora. Posádka minimálna.
 **Nálada**: Studený zlom → týždeň tichej prípravy → presná noc → stretnutie na mole
 
 ---
 
 *„Prvé zlyhanie za dvetisíc rokov."*
 
-Soril to povedala bez hnevu. Bez sarkazmu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o počasí, o oprave strechy, o niečom administratívnom čo treba vyriešiť. [NOTE: Soril nemyslí toto ako trest. Myslí to ako pedagogickú korekciu — Mireth je rezerva, Yera potrebuje čas. Pre Soril je Yerin smútok za Arkotom problém výkonu. Nie zlomyseľnosť — slepota. → characters/Soril.md: Sorilina slepota = nedokáže odlíšiť emocionálny stav od zlyhania.]
+Soril to povedala bez hnevu. Bez sarkazmu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o počasí, o oprave strechy, o niečom administratívnom čo treba vyriešiť. [NOTE: Soril nemyslí toto ako trest. Myslí to ako pedagogickú korekciu — Mireth je rezerva, Yera potrebuje čas. Pre Soril je Yerin smútok za Arkotom problém výkonu. Nie zlomyseľnosť — slepota. → characters/Soril.md: Sorilina slepota = nedokáže odlíšiť emocionálny stav od zlyhania. → 04.5-interlude-breakup.md: rozchod = prvý úder. Toto je druhý úder do rovnakého miesta.]
 
 *„Ľutujem, že som ti ukázala Knihu skôr, než si bola pripravená. Mireth bude pokračovať v príprave. Ty zostaneš na základnom tréningu."*
 
@@ -50,9 +50,9 @@ Začala plánovať.
 
 A potom sa naučila miznúť.
 
-Neviditeľnosť. Sorilina technika — tá, čo Soril trvala päť zím, kým ju zvládla. Yera si ju neosvojila cez Soril. Osvojila si ju cez Knihu. [NOTE: Kľúčový rozdiel: Soril sa učila neviditeľnosť akademicky — kontrolované cvičenia, postupná progresia, päť zím disciplíny. Yera čítala originál Knihy El v noci pod prikrývkou a skúšala haiku, ktoré v bielej kópii nikdy neboli. Iná motivácia = iná rýchlosť. Soril sa učila chrániť Knihu. Yera sa učila utiecť. → characters/Yera.md: talent + motivácia > disciplína + čas. → 03-technology.md: neviditeľnosť = manipulácia indexu lomu cez nanoboty]
+Neviditeľnosť. Technika, ktorú Soril nikdy neučila — len o nej hovorila. Päť zím jej trvalo, kým ju sama zvládla. Akademická precíznosť, štyri fázy, kontrolované cvičenia. Ale Yera nečítala Sorilinu verziu. Čítala originál. [NOTE: Yera prečítala popis neviditeľnosti PRED degradáciou — vypýtala si od Soril povolenie čítať Knihu večer. Legálny prístup, ktorý slúžil aj ako krytie na polnočné stretnutia s Arkotom. Cez deň tréning, večer Kniha, v noci Arkot. Po degradácii Soril zakázala prístup, ale Yera už mala techniku v hlave. → 04-within-temptation.md: večerné čítanie = dual purpose. → characters/Yera.md: talent + motivácia > disciplína + čas. → 03-technology.md: neviditeľnosť = manipulácia indexu lomu cez nanoboty]
 
-V Knihe El to bolo napísané inak než v Sorilinom výklade. Soril učila neviditeľnosť ako štyri fázy — prvá kontrola, druhá projekcia, tretia udržanie, štvrtá rozpustenie. Akademická presnosť. Yeara čítala originál — a v origináli to neboli fázy. Bol to jeden pohyb. Jeden dych. Elania to popísala ako *zabudnutie* — nie skrytie sa pred svetlom, ale presvedčenie svetla, že tam nič nie je. [→ the-book-of-El.md: Elaniin popis neviditeľnosti = „Light forgets you." Technicko-poetický jazyk originálu vs akademický jazyk bielej kópie.]
+V origináli Knihy El to neboli fázy. Bol to jeden pohyb. Jeden dych. Elania to popísala ako *zabudnutie* — nie skrytie sa pred svetlom, ale presvedčenie svetla, že tam nič nie je. Yera si to prečítala pred týždňami, v noci, v podzemí, keď ešte mala Sorilino povolenie. Povolenie stratila. Kvintesencia zostala — tú sa nedalo zabrať. Ale Yera nešla. Hrala dobrú. Slová zostali. [NOTE: Soril vie, že Yera má Kvintesencia. Vie, že zámok sa dá otvoriť. Ale dôveruje systému — Pursang dievča neprekročí zákaz. To je Sorilina slepota: verí v disciplínu viac než v motiváciu. → characters/Soril.md: tragédia pedagóga] [→ the-book-of-El.md: Elaniin popis neviditeľnosti = „Light forgets you." Technicko-poetický jazyk originálu vs akademický jazyk bielej kópie.]
 
 Prvý pokus — v izbe, v noci, sama. Zlomok sekundy. Ruka zmizla po zápästie a vykríkla od prekvapenia. Nič sa nestalo — nikto nepočul. Múry boli hrubé.
 
@@ -180,7 +180,7 @@ Vzala batoh. Vzala tašku. Odišla z izby.
 
 Klanový dom Saéli spal.
 
-Yera prešla chodbou bez lampáša — poznala každý kameň, každý schod, každé miesto kde podlaha škrípala. Vyrástla tu. Za týmito múrmi strávila celý život — kým sa nenaučila miznúť. Tridsať nocí neviditeľná v uliciach ju naučili viac o tomto meste než osemnásť rokov za múrmi. Ale vždy sa vracala pred svitaním. Vždy tými istými dverami, v tme, než sa sluha prebudí. Nikto nevedel. [NOTE: Callback na 30 nocí neviditeľnosti. Yera pozná mesto — ale len ako duch. Nikdy nebola viditeľná na ulici. Jej tvár je strážené tajomstvo — nie preto, že by bola dôležitá pre svet, ale preto, že Saéli nechcú, aby svet vedel o nej. Dcéra klanu nie je verejná osoba — je majetok. Majetok sa nenosí na ulicu.]
+Yera prešla chodbou bez lampáša — poznala každý kameň, každý schod, každé miesto kde podlaha škrípala. Vyrástla tu. Za týmito múrmi strávila celý život — kým sa nenaučila miznúť. Tridsať nocí neviditeľná v uliciach ju naučili viac o tomto meste než tri zimy za múrmi. Ale vždy sa vracala pred svitaním. Vždy tými istými dverami, v tme, než sa sluha prebudí. Nikto nevedel. [NOTE: Callback na 30 nocí neviditeľnosti. Yera pozná mesto — ale len ako duch. Nikdy nebola viditeľná na ulici. Jej tvár je strážené tajomstvo — nie preto, že by bola dôležitá pre svet, ale preto, že Saéli nechcú, aby svet vedel o nej. Dcéra klanu nie je verejná osoba — je majetok. Majetok sa nenosí na ulicu.]
 
 Vonkajšia brána mala dva zámky. Kľúč na krku — ten chrámový, ten čo dostala pri zasvätení, ten čo mala nosiť celý život — otvoril prvý. Druhý mala pri sebe od leta, keď chodila k Soril ráno a vracala sa večer a otec zabudol zmeniť kód a ona si ho zapamätala.
 
@@ -238,9 +238,9 @@ Nikto sa nepýtal.
 
 Prístav poznala. Tridsať nocí neviditeľná — každé kotvisko, každú krčmu, každú strážnu hliadku. Ale cez deň bol iný. Hlučnejší. Väčší. Desiatky vzducholodí v lanových úväzoch — obchodné z Beladiss a Nevrissu, nákladné, poštové, pirátske s falošnými vlajkami. V noci boli tiene. Cez deň boli obrovské. [NOTE: Yera pozná prístav z nočných prieskumov, ale cez deň je iný — väčší, hlučnejší, reálnejší. Čitateľ musí cítiť veľkosť Nyau — 5M mesto, obrovský prístav, stovky plavidiel.]
 
-Itaka bola na treťom mole. Vedela to — videla ju pristáť pred dvoma dňami. A vedľa nej, na susednom mole — Kortegova bárka s vyblednutým nápisom. [NOTE: Yera vie presne kde čo je. 30 dní prieskumu. Nič nie je náhoda.]
+Itaka bola na treťom mole. Vedela to — videla ju pristáť pred dvoma dňami. A vedľa nej, na susednom mole — Kortegova vzducholoď s vyblednutým nápisom. [NOTE: Yera vie presne kde čo je. 30 dní prieskumu. Nič nie je náhoda.]
 
-Arkot stál pri Kortegovej vzducholodi. Nakladal niečo s ďalšími dvomi z posádky. [NOTE: Pol roka od interlude. Arkot a Flint skúsili Itaku — Tami ich zamietla. Našli si prácu na Kortegovej bárke. Arkot sa naučil navigovať, Flint strieľať. Teraz sú späť v Nyau — ich loď aj Itaka kotvia v prístave v rovnakom čase.]
+Arkot stál pri Kortegovej vzducholodi. Nakladal niečo s ďalšími dvomi z posádky. [NOTE: Pol roka od interlude. Arkot a Flint skúsili Itaku — Tami ich zamietla. Našli si prácu na Kortegovej vzducholodi. Arkot sa naučil navigovať, Flint strieľať. Teraz sú späť v Nyau — ich loď aj Itaka kotvia v prístave v rovnakom čase.]
 
 *„Arkot."*
 
@@ -294,7 +294,7 @@ Loď vyzerala inak než pred pol rokom — unavenejšie. Trup stále tmavý, st�
 
 Na rampke stála dievčina.
 
-Sedemnásť, možno osemnásť — rovnako stará ako Yera. Kožená bunda a kovové pracky, líščie uši a líščí chvost, med-zrzavé vlasy späté. Stála s rukami skríženými a nečítala zoznam. Žiadny zoznam. Pozerala na prístav s výrazom niekoho, kto čaká a nechce čakať a vie, že čakanie je všetko čo jej zostalo. [NOTE: Zmena oproti starej verzii — Tami nie je kapitánka čo si vyberá z pozície sily. Je tínedžerka s prázdnou loďou a chorým dedom. Potrebuje ľudí. Ale nikdy to nepovie.]
+Rovnako stará ako Yera — možno o zimu viac. Kožená bunda a kovové pracky, líščie uši a líščí chvost, med-zrzavé vlasy späté. Stála s rukami skríženými a nečítala zoznam. Žiadny zoznam. Pozerala na prístav s výrazom niekoho, kto čaká a nechce čakať a vie, že čakanie je všetko čo jej zostalo. [NOTE: Zmena oproti starej verzii — Tami nie je kapitánka čo si vyberá z pozície sily. Je tínedžerka s prázdnou loďou a chorým dedom. Potrebuje ľudí. Ale nikdy to nepovie.]
 
 Yera prišla na molo. Arkot a Flint za ňou.
 
@@ -306,7 +306,7 @@ Tami ich zbadala a niečo sa v jej tvári zmenilo — spoznala ich. Tí dvaja. M
 
 Tami sa pozrela na Yeru.
 
-Modré oči — jasné, kľudné, merali. Pohľad niekoho, kto sa naučil pozerať na ľudí a rozhodovať rýchlo. Ale pod tým — niečo iné. Únava. Nie telesná — typ, čo príde keď máte osemnásť a loď pre desať a posádku pre troch. [→ characters/Tami.md: Tami ako veliteľ — Rennov štýl rozhodovania. Rýchly, inštinktívny. Ale teraz rozhoduje z núdze, nie z pozície sily.]
+Modré oči — jasné, kľudné, merali. Pohľad niekoho, kto sa naučil pozerať na ľudí a rozhodovať rýchlo. Ale pod tým — niečo iné. Únava. Nie telesná — typ, čo príde keď máte tri zimy a loď pre desať a posádku pre troch. [→ characters/Tami.md: Tami ako veliteľ — Rennov štýl rozhodovania. Rýchly, inštinktívny. Ale teraz rozhoduje z núdze, nie z pozície sily.]
 
 *„Čo vieš robiť?"*
 
@@ -332,7 +332,7 @@ Renn. Renn, ktorý chodil do Nyau ako domov, ktorý o ňom hovoril vždy s tým 
 
 *„A tí dvaja?"*
 
-*„Navigátor,"* ukázala na Arkota. *„Pol roka na Kortegovej bárke. A strelec."* Ukázala na Flinta. [NOTE: Yera vie, čo Tami potrebuje — navigátora a strelca. Vie to z prístavných rečí, z toho čo Arkot povedal o Itake pred pol rokom. Pursang inteligencia — neponúka seba, ponúka riešenie.]
+*„Navigátor,"* ukázala na Arkota. *„Pol roka na Kortegovej vzducholodi. A strelec."* Ukázala na Flinta. [NOTE: Yera vie, čo Tami potrebuje — navigátora a strelca. Vie to z prístavných rečí, z toho čo Arkot povedal o Itake pred pol rokom. Pursang inteligencia — neponúka seba, ponúka riešenie.]
 
 Tami sa pozrela na Arkota dlhšie než na ostatných. Navigátor, pol roka skúseností — to bolo viac než nula. Pozrela na Flinta. Strelec. Posledný raz nemal čo ukázať. Teraz?
 
@@ -392,13 +392,13 @@ Ticho.
 
 Nikto sa nepohol.
 
-*„Navigátor,"* povedala Tami a pozrela na Arkota. *„Pol roka na Kortegovej bárke nestačí. Ale lepší než nič. Skúšobná doba — prvý rejs. Ak zablúdiš, hodím ťa cez palubu."*
+*„Navigátor,"* povedala Tami a pozrela na Arkota. *„Pol roka na Kortegovej vzducholodi nestačí. Ale lepší než nič. Skúšobná doba — prvý rejs. Ak zablúdiš, hodím ťa cez palubu."*
 
 Arkot kývol.
 
 *„Strelec."* Pozrela na Flinta. *„Pri kanóne si bol?"*
 
-*„Malokalibri na Kortegovej bárke. Obrana pred pirátmi v úžine. Štyri zásahy zo šiestich."*
+*„Malokalibri na Kortegovej vzducholodi. Obrana pred pirátmi v úžine. Štyri zásahy zo šiestich."*
 
 *„A pred pol rokom nula zo šiestich."*
 
@@ -476,7 +476,7 @@ Prvýkrát v živote.
 
 [NOTE: Kľúčové zmeny oproti pôvodným ch5+ch6:
 - Arkot a Flint sa nedostanú na Itaku sami — sú Mezra, nikto. Pred pol rokom ich Tami zamietla.
-- Našli si prácu na inej lodi, pol roka skúseností.
+- Našli si prácu na inej vzducholodi, pol roka skúseností.
 - Yera kúpi vstup za peniaze od matky — 1% majetku klanu = celý majetok menšieho klanu.
 - ZMENA: Yera NEKRADNE peniaze. Matka ju pristihne pri sejfe, pochopí, otvorí sejf so slzami šťastia. Dá jej peniaze, kabát, čižmy. Povie jedno slovo: „Leť."
 - ZÁHADA MATKY: Yera bola neviditeľná — a matka ju videla. Ako? Otvorené, nikdy nevysvetlené.
@@ -495,7 +495,7 @@ Prvýkrát v živote.
 [→ characters/Tami.md: prvé stretnutie s Yerou — modré oči, Saburo chorý, potrebuje posádku]
 [→ characters/Soril.md: tragédia pedagóga — každý nástroj čo dala Yere, Yera použila inak]
 [→ characters/Arkot.md: na Itake — Yera ho nájde v prístave, zaplatí za neho]
-[→ characters/Flint.md: pol roka skúseností na Kortegovej bárke, strelecké skills]
+[→ characters/Flint.md: pol roka skúseností na Kortegovej vzducholodi, strelecké skills]
 [→ the-book-of-El.md: Kniha teraz mimo chrámu — tikajúca bomba]
 [→ 01-timeline.md: ~AY 3012 — Yera opúšťa Nyau, pridáva sa k Itake]
 [→ regions/nyau.md: 5M metropola, prístav, klanový dom Saéli]
