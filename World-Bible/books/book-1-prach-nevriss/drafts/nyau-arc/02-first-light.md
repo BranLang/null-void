@@ -262,7 +262,13 @@ Vôňa zostala.
 
 Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Ruky jej voňali čisto — mydlo, byliny, nič — a predsa zakaždým, keď zavrela oči, cítila teplý kameň a cudziu kožu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
 
-Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
+Zišla dolu.
+
+*Arkot z Diss. Mezra. Leopard. Pracuje v prístave.* Povedala to strážkyni bez vysvetlenia. Strážkyňa sa neopýtala prečo. Pozrela sa na Yeru — dlhým, tichým pohľadom ženy, ktorá ju nosila na rukách, keď mala pol zimy — a odišla. [NOTE: Strážkyne sú priradené Yere osobne — strážia ju od detstva, je tam citová väzba. Vedia, že zasvätenie do Chrámu El = doživotný celibát, koniec slobody. Tolerujú jej excesy, lebo jej chcú dopriať posledné mesiace voľnosti. Nepovedia otcovi, nepovedia Soril. Tajomstvo dedičky je ich tajomstvo.]
+
+Keď sa vrátila, podala jej papier. Dok. Smena. A niečo v jej tvári — niečo medzi úsmevom a ľútosťou — čo Yera odmietla pomenovať.
+
+Obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
 ---
 
