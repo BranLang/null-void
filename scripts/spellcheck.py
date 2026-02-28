@@ -14,6 +14,8 @@ Usage:
   python scripts/spellcheck.py --only-types GRAMMAR     # only grammar errors
 """
 
+from __future__ import annotations
+
 import re
 import sys
 import io

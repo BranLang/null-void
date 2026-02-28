@@ -49,7 +49,9 @@
       "Bash(sips:*)",
       "Bash(pip install pymupdf)",
       "Bash(python -c \":*)",
-      "Bash(python -u -c \":*)"
+      "Bash(python -u -c \":*)",
+      "Bash(pip3 install:*)",
+      "Bash(pip3 list:*)"
     ]
   }
 }
