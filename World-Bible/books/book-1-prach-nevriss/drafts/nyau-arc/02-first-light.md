@@ -116,7 +116,9 @@ Strážkyňa za ňou sa potichu odkašľala. Yera sa odtrhla od tabuľe a vykro�
 
 Vila klanu Saéli stála na svahu nad mestom — biely kameň, stĺpy, vnútorné nádvorie so stromom, ktorý bol pýchou rodiny. Nie najstarší v Nyau — ten patril chrámu. Ale najjasnejší. Svietil tak intenzívne, že v noci vrhala jeho žiara tiene na steny vily a Yera si v detstve myslela, že strom je slnko, ktoré sa zmenilo na strom, aby mohlo svietiť aj potme. [→ regions/nyau.md: klanové sídla, Saéli vila — biela vila so svetielkujúcim stromom v strede nádvoria]
 
-Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vily ich nepotrebovala. Tu bola doma. Tu bola v bezpečí.
+Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vily ich nepotrebovala. Tu bola doma. Tu bola v bezpečí. Tu bol svet veľký presne na dvadsaťtri izieb, štyri chodby, jednu záhradu a jedno átrium, v ktorom brat kreslil kriedou na dlažbu.
+
+Malý braček s modrými mačacími očami si kreslil kriedou na dlažbu a sústredil sa a strihal špicatými mačacími uškami a neposlušný chvostík sa akoby snažil nájsť nejakú inú zábavu. Zdvihol hlavu, keď ju počul. Usmiala sa na neho. Usmial sa späť. Bez slova. [NOTE: Brat = mladší, ~5 rokov (~1 zima). Modré oči — po matke, ako Yera. Zmienka 1/2 — nevinný moment, úsmev bez slov. Nie dysfunkcia — len ticho, v ktorom sa dá byť spolu. → characters/Yera.md: brat, TODO — meno]
 
 Otec sedel v záhrade pod stromom.
 
@@ -200,11 +202,11 @@ Otočila sa a vyšla hore.
 
 Izba bola jej. Jediné miesto vo vile, kde meno nič neznamenalo.
 
-Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si vybrala túto izbu, keď mala jednu zimu, a nikdy sa nepresťahovala. Steny z bieleho kameňa, hladké a chladné pod prstami. Na háčiku pri dverách kožený kabát s kožušinovým golierom — dar od starej matky, príliš veľký, ale Yera ho v zime nosila aj tak. Okno. Balkón. [→ characters/Yera.md: kožený kabát s kožušinou — dar od mŕtvej starej matky, „prvá stopa po bohatstve"]
+Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si vybrala túto izbu, keď mala jednu zimu, a nikdy sa nepresťahovala. Steny z bieleho kameňa, hladké a chladné pod prstami. Okno. Balkón. [NOTE: V matkinej skrini visí babičkin kabát — kožený, s kožušinovým golierom. Yera ho vidí zakaždým, keď ide okolo. Príliš veľký. Príliš dospelý. Matka ho nikdy nenosí, nikdy o ňom nehovorí. Len visí. Čaká. → characters/Yera.md: kabát od babičky, matka ho uchováva, dá ho Yere pri úteku (ch5)]
 
 Vyšla na balkón.
 
-Pod ňou ležalo mesto — kanály, mosty, prístav v diaľke. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami. [→ regions/nyau.md: prístav, poštové holuby, obchod s východom]
+Pod ňou ležalo mesto — kanály sa kľukatili mestom ako žily, mosty ich krížili po stovkách, celé štvrte sa strácali v tme medzi bioluminiscenčnými alejami, a prístav v diaľke žiaril tisíckami svetiel na stožiaroch. Päť miliónov obyvateľov. Najväčšie mesto v známom svete. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami — a nikdy v ňom nestála. [→ regions/nyau.md: prístav, 5M metropola. Yera nikdy nebola na ulici — z vily do chrámu a späť, celý život.]
 
 Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
 
@@ -266,7 +268,7 @@ Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
 Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prehľadávala očami každý nakladací dok.
 
-Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak.
+Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak. [NOTE: Priepasť — Arkot zarába za deň menej, než stojí jeden kvet v záhrade vily Saéli. Yerin kabát od babičky, čo visí na háčiku v izbe, stojí viac než všetko čo Arkot v živote zarobil. On to nevie. Ona to nevie — nikdy nepremýšľala o peniazoch, lebo nikdy nemusela.]
 
 Zbadal ju skôr, než by očakávala. Uprostred pohybu otočil hlavu, akoby mu inštinkt povedal, že ho niekto pozoruje. Pustil vrece. Všetci tí tvrdí námorníci stíchli, keď sa usmial tým pomalým, asymetrickým úsmevom, ignorujúc kňažkine rúcho, pre ktoré by iní odvrátili zrak do zeme.
 
