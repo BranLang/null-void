@@ -22,7 +22,7 @@ Papierové, hodvábne, maľované, jednofarebné, strakaté. Niektoré tvarovan�
 
 Pod ňou mesto vybuchlo zvukom. Bubny — desiatky, stovky, basy ako srdce, malé bubienky ako dážď na plechovej streche. Flauty sa zapojili — vysoké, presné tóny, čo sa vinuli pomedzi bubnový rytmus ako dym medzi stromami. A struny. Vždy struny — dlhé, ťahané akordy, ktoré vibrovali v kameni pod nohami a v kostiach pod kožou. Hudba Nyau. Hudba, ktorú Yera poznala od prvej zimy a ktorá nikdy neznela rovnako dvakrát. [→ regions/nyau.md: hudba — bubny, flauty, struny]
 
-Sai visel nad mestom v úplnom splne — jantárový kotúč s žiariacim prstencom, taký blízky a taký obrovský, že Yera mala pocit, akoby sa naňho dalo vyliezť. Jeho svetlo padalo na strechy, na kupolu Chrámu, na hladinu kanálov a menilo všetko na tekuté zlato. A pod tým zlatom — bioluminiscencia. Stromy v záhradách svietili tyrkysovo a zeleno, riasy v kanáloch premenili vodu na tekuté striebro, nočné kvety na fasádach domov sa otvorili a pulzovali mäkkým fialovým svetlom. Tri vrstvy svetla — mesačné, živé, ľudské — sa prelínali a splývali do niečoho, pre čo neexistovalo slovo. [→ 05-geography.md: Sai, mesiac Achilles, splň = ľahká hodina, gravitácia ~1.0-1.1g] [→ regions/nyau.md: bioluminiscencia = Inetisine GMO rastliny]
+Sai visel nad mestom v úplnom splne — jantárový kotúč s žiariacim prstencom, taký blízky a taký obrovský, že Yera mala pocit, akoby sa naňho dalo vyliezť. Jeho svetlo padalo na strechy, na kupolu Chrámu, na hladinu kanálov a menilo všetko na tekuté zlato. Stromy v záhradách svietili tyrkysovo a zeleno, riasy v kanáloch premenili vodu na tekuté striebro, nočné kvety na fasádach domov sa otvorili a pulzovali mäkkým fialovým svetlom. Tri vrstvy svetla — mesačné, živé, ľudské — sa prelínali a splývali do niečoho, pre čo neexistovalo slovo. [→ 05-geography.md: Sai, mesiac Achilles, splň = ľahká hodina, gravitácia ~1.0-1.1g] [→ regions/nyau.md: bioluminiscencia = Inetisine GMO rastliny]
 
 Nyau svietilo zo všetkých strán.
 
@@ -32,7 +32,7 @@ A Yera sedela na balkóne vedľa otca a nedýchala.
 
 Otec hovoril s hlavami vedľajších klanov. Pokojne, vecne, slovami ako šachové ťahy. Vedľa neho sedela Yera — chrbát rovný, ruky v lone, mačacie uši vzpriamené, tvár pokojná. Dokonalá dcéra. Dokonalá Saéli. Dokonalé divadlo.
 
-Hodvábne šaty boli tyrkysové — chrámová farba. Soril ich vybrala. *Pre budúcu strážkyňu,* povedala, keď ich Yere dnes ráno priniesli do izby. *Nech ťa mesto vidí v správnych farbách.* Jemná tkanina, klanový vzor ručne vyšívaný na límci a rukávoch, pod nimi len koža — hladká, ľudská, bez srsti. Pursang. Boli krásne. Boli klietkou z hodvábu. [NOTE: Soril = prísna nadradená v Chráme, vybrala šaty — kontrola cez detaily. Foreshadowing jej roly.]
+Hodvábne šaty boli tyrkysové — chrámová farba. Soril ich vybrala. *Pre budúcu strážkyňu,* povedala, keď ich Yere dnes ráno priniesli do izby. *Nech ťa mesto vidí v správnych farbách.* Jemná tkanina, klanový vzor ručne vyšívaný na límci a rukávoch, pod nimi len koža — hladká, ľudská, bez srsti. Boli krásne. Boli klietkou z hodvábu. [NOTE: Soril = prísna nadradená v Chráme, vybrala šaty — kontrola cez detaily. Foreshadowing jej roly.]
 
 Okolo nich sedela klanová aristokracia. Starí muži v čajových rúchach diskutovali o cenách korenia. Manželky v hodvábnych šatách si vymieňali pohľady, ktoré stáli viac než slová. Deti drobných členov klanu — príliš malé na to, aby sa pretvarovali, príliš veľké na to, aby sa smiali nahlas — sedeli v rade a pozerali na lampióny s očami veľkými ako mesiace. [→ regions/nyau.md: Klanová aristokracia, klan Saéli = najvplyvnejší]
 
@@ -40,7 +40,7 @@ Nikto nesedel nesprávne. Nikto sa nedíval nesprávnym smerom. Nikto sa nehýba
 
 Vôňa kadidla stúpala z Chrámu — ťažká, hustá, sladká — a pod ňou sa valila tá druhá vôňa, tá zdola, zo stánkov a námestia: grilované huby, korenie, morská soľ z prístavu, rozohriate telá stoviek ľudí stlačených na kameňoch. Voňalo to životom. Voňalo to všetkým, čo Yera nemala právo chcieť. [→ regions/nyau.md: Vôňa — kadidlo, korenie, grilované huby, nočné kvety, morská soľ]
 
-Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, El s rukami zdvihnutými k nebu, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, kĺzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
+Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, kĺzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
 
 *Počas festivalu sú si všetky kasty rovné.* [→ regions/nyau.md: Lampiónový festival — tradícia maskovania, symbolická rovnosť]
 
@@ -121,8 +121,6 @@ Infera.
 Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvietia červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť. [→ 05-geography.md: Infera = ARK-13 Prometheus, červená „hviezda" na orbite]
 
 *Diablovo Oko.*
-
-Tak jej hovorili v Chráme. *Infera. Nepozeraj sa na ňu.* Kňažky tvrdili, že je to oko tmy — niečo, čo dohliada na svet, keď El odvrátila zrak. Protipól svetla. Stará poverčivosť. Niečo, čomu Yera nikdy neverila — ale v noci, s maskou na tvári, v dave cudzích ľudí, keď červený bod pomaly prechádzal oblohou ako prst ťahaný po čiernom zamate, cítila niečo. Nie strach. Nie vieru. Niečo staršie. Niečo, čo žilo v kostiach, nie v hlave. [→ regions/nyau.md: Nyau = Cirkev El, Infera = poverčivosť. El = svetlo, Infera = tma] [→ 13-etymology.md: Infera — z lat. Infernus, peklo]
 
 Infera zmizla za horizontom strechy pri prístave. Lampióny stúpali ďalej. Sai sa nehýbal. A Yera stála na moste a pozerala na miesto na oblohe, kde červená bodka bola pred chvíľou — prázdne, čierne, normálne — a cítila, že niečo nie je v poriadku. Nie v oblohe. V nej.
 
@@ -278,23 +276,23 @@ Pieseň stíchla. Posledný tón sa rozplynul v nočnom vzduchu, zmiešal sa s v
 
 „Asi," povedal. „Už si nepamätám. Spieval to otec, keď bol opitý. Čo bolo často."
 
-Zdvihol fľašu. Potiahol. Podal ju Yere.
+Zdvihol fľašu. Napil sa. Podal ju Yere.
 
 Tentokrát ju vzala s oveľa väčšou istotou ako predtým dole na ulici. Napila sa trpkastej chuti morského hrozna a nevrátila mu ju okamžite. Leopardie škvrny na jeho krku sa zachveli, keď s úsmevom sledoval, ako si tentokrát pýta ďalší hlt z jeho sveta bez odkašľania.
 
 Ticho.
 
-Dlhé, mäkké ticho, v ktorom nebolo nič treba povedať. Hudba z mesta dozvibrovala. Posledné lampióny zmizli medzi hviezdami. Mesto pod nimi svietilo ďalej — stromy, kvety, svetlušky — ale tichšie teraz, akoby aj Nyau vedelo, kedy sa treba stíšiť.
+Dlhé, mäkké ticho, v ktorom nebolo nič treba povedať. Hudba z mesta doznela. Posledné lampióny zmizli medzi hviezdami. Mesto pod nimi svietilo ďalej — stromy, kvety, svetlušky — ale tichšie teraz, akoby aj Nyau vedelo, kedy sa treba stíšiť.
 
 Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým navigovať — nie kráse, ale smerom.
 
-„Vieš..." povedal pomaly, „...veria tomu ľudia v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
+„Vieš..." povedal pomaly, „...veria tomu v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
 
 Yera si ich zmerala. Poznala ich. Mená, súhvezdia, navigačné osi.
 
 „Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch2 (Čierna kniha) uvidí originál — kompletný, neporušený, so všetkým čo biela Kniha neprevzala. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
 
-Arkot sa usmial — nie pohrdlivo, len tým pomalým úsmevom muža, čo videl veľa prístavov a málo chrámov. „V Diss hovoria, že prišli z mora. Že svet bol len voda a z tej vody sme vyliezli."
+Arkot sa usmial — nie pohrdavo, len tým pomalým úsmevom muža, čo videl veľa prístavov a málo chrámov. „V Diss hovoria, že prišli z mora. Že svet bol len voda a z tej vody sme vyliezli."
 
 „A ty čomu veríš?"
 
@@ -346,7 +344,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, zhustený vôňou kvetov a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
@@ -354,13 +352,11 @@ Videla leopardie škvrny na jeho krku v mesačnom svetle. Počula jeho hlas — 
 
 Otvorila oči.
 
-Na stole vedľa postele ležali lekárske nástroje — pipety, misky, sušené byliny v sklenených nádobách. Tetovania na jej predlaktí — akvamarínové línie, tenké, mŕtve, čakajúce. Vedľa zápisníka stáli chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
+Vedľa zápisníka boli zložené chrámové rúcha. Zajtra ráno ich oblečie. Zajtra ráno kľakne v chráme a bude sa modliť k El a bude liečiť stromy a bude dokonalá.
 
 Zavrela oči.
 
 Cítila teplo jeho ruky na svojej ruke.
-
-Na koži pod dlaňou. Na prstoch, na kĺboch, na mieste, kde sa jej pazúriky dotýkali kamienka na streche a jeho prsty sa dotkli jej prstov. Teplo, ktoré nešlo zmyť. Teplo, ktoré nepatrilo Saéli mene, ani Chrámu El, ani Soril, ani otcovi, ani nikomu okrem nej.
 
 *Kto si?* pomyslela si. *Odkiaľ si? Prečo ti záleží na hviezdach?*
 
