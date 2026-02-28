@@ -304,6 +304,26 @@ Potom sa posadila. Pozrela na Yeru. Dlho — tým pohľadom, ktorý nebol otázk
 
 ---
 
+Ráno. Yera prišla k Soril o šiestej — ako vždy, presná, vždy presná, Saéli dochvíľnosť.
+
+Mireth už sedela pri stole.
+
+Nie na Yerinom mieste — vedľa neho. Na stoličke, ktorá tam včera nebola. Malá, tmavá, s rovným chrbtom a rukami v lone. Zdvihla oči, keď Yera vošla. Nesmelý úsmev — ten druh, čo sa ospravedlňuje za vlastnú prítomnosť.
+
+Yera sa pozrela na Soril. Soril stála pri okne, chrbát k obom. [→ characters/Soril.md: Soril nekonfrontuje — reštrukturalizuje. Nepovie „máš problém." Privedie Mireth a nechá Yeru si záver vyvodiť sama.]
+
+*„Mireth bude pozorovať,"* povedala Soril. Bez otočenia. *„Od dnes."*
+
+Dve slová navyše. *Od dnes.* Nie „dnes" — *od dnes.* Permanentné. Systémové.
+
+*„Dobre,"* povedala Yera.
+
+Sadla si. Otvorila bielu Knihu. Čítala nahlas — verš po verši, rovnako ako včera, rovnako ako zajttra. Cítila Mirethine oči na sebe — tiché, pozorné, plné niečoho, čo nebolo súperenie. Úcty. Mireth sa pozerala na Yeru ako na niečo, čím chce byť.
+
+A Yera cítila — jemne, na okraji vedomia, ako vzdialený zvuk z inej miestnosti — že Soril práve urobila prvý ťah v hre, ktorej pravidlá Yera ešte nepoznala. [NOTE: Stupeň 2 eskalácie. Ice test = tichá diagnostika (Soril vie). Mireth na tréningu = tichá akcia (Soril koná). Ch5 degradácia = verbalizácia (Soril povie). Tri stupne — rovnaký vzor ako Sorilina pedagogika: najprv pozoruj, potom konaj, potom pomenuj. → characters/Soril.md: Soril nekonfrontuje priamo. Mení štruktúru a čaká, kým žiačka pochopí sama.]
+
+---
+
 Noci boli Yeriny.
 
 Podzemie. Sviečka. Kniha.
