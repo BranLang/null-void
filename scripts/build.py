@@ -69,6 +69,7 @@ ARC_CONFIGS = {
             'nyau-arc/02-first-light.md',
             'nyau-arc/02.1-interlude-itaka.md',
             'nyau-arc/03-black-book.md',
+            'nyau-arc/04-within-temptation.md',
         ],
         'cover': 'books/book-1/covers/book-nyau-arc-cover.png',
         'cover_fit': 'contain',
