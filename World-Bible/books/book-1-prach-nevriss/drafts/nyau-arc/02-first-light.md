@@ -54,7 +54,7 @@ Koreň na severnej strane — zauzlený, stlačený, zaseknutý pod kameňom, kt
 
 Soril mlčala. Čakala.
 
-Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala ju. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
+Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala vodu. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
 
 Trvalo to dlho. Kňažky okolo nej stáli a pozerali. Chrámová záhrada bola tichá — len cvrčky v trávach medzi koreňmi a vzdialený šum gondoly na kanáli pod kopcom. Svetlušky poletovali nízko nad zemou — modré, tyrkysové, zelené bodky — krúžili okolo kmeňa stromu, ktorý Yera liečila, akoby kontrolovali jej prácu. Sai sa posunul o kúsok ďalej. Kadidlo slablo.
 
@@ -264,7 +264,7 @@ Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
 
 ---
 
-Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prepaľovala očami každý nakladací dok.
+Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prehľadávala očami každý nakladací dok.
 
 Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak.
 
@@ -284,7 +284,7 @@ Zahryzla sa do neho až cestou domov. A ohryzok hodila do kanálu — nie preto,
 
 Piaty deň sa postavila bližšie. Šiesty ešte bližšie. Vymieňali si len pár tichých slov — komentáre o vetre, o počasí, o hlúpom žeriavnikovi, čo zaspal na stoličke — vety, ktoré nič neznamenali a znamenali všetko.
 
-Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to neustúpenie, bolo to zastavenie.
+Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to nátlak, bolo to zastavenie.
 „Vieš o záhrade za starým kanálom, hej?“ opýtal sa s pohľadom upretým na nákladnú loď trhavo bijúcu o vlnolam.
 Yera pozaháňala pohľadom dvoch sluhov v protiľahlej uličke. Vedela o záhrade. Rozpadajúce sa lavičky, mach na kameni, tma a cvrčky. V noci tam nechodil nikto.
 „Viem,“ odvetila a zatajila dych.
@@ -436,7 +436,7 @@ Pauza. Cvrčky. Svetlušky.
 
 Yera sa zasmiala. Skutočný smiech — nie ten zdvorilý, nie ten klanový, ten od brucha, ten, čo ju prekvapil viac než jeho. Zahryzla sa do spodnej pery, aby ho zastavila. Nefungovalo to.
 
-Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír z koží Varietas. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
+Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír vpísaný do kože. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
 
 *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.“*
 Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci a zvuku mora z prístavu. 
@@ -444,7 +444,7 @@ Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešan�
 Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a pokojným tempom plavca.
 „To je z tej svätej knihy?“
 „Áno.“
-Zacítila letný úsmev odrážajúci sa na línii jeho sánky.
+Zacítila letný úsmev na línii jeho sánky.
 „Zvláštne slová pre svätú knihu. Znie to skôr ako niekto, kto sa stratil.”
 „Áno,” vydýchla si Yera, upierajúc pohľad do nehybnej machovej škáry oproti nim. „Presne tak to znie.” [NOTE: Foreshadowing — Arkot, ktorý nikdy nečítal Knihu, okamžite počuje to, čo Yera po rokoch v chráme len začína cítiť: že to nie sú slová bohyne, ale strateného človeka. Zárodok pochybnosti. → the-book-of-El.md]
 
