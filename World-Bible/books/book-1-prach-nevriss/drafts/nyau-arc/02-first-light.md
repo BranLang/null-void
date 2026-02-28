@@ -206,7 +206,7 @@ Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si
 
 Vyšla na balkón.
 
-Pod ňou ležalo mesto — kanály sa kľukatili mestom ako žily, mosty ich krížili po stovkách, celé štvrte sa strácali v tme medzi bioluminiscenčnými alejami, a prístav v diaľke žiaril tisíckami svetiel na stožiaroch. Päť miliónov obyvateľov. Najväčšie mesto v známom svete. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami — a nikdy v ňom nestála. [→ regions/nyau.md: prístav, 5M metropola. Yera nikdy nebola na ulici — z vily do chrámu a späť, celý život.]
+Pod ňou ležalo mesto — kanály sa kľukatili mestom ako žily, mosty ich krížili po stovkách, celé štvrte sa strácali v tme medzi bioluminiscenčnými alejami, a prístav v diaľke žiaril tisíckami svetiel na stožiaroch. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami — a nikdy v ňom nestála. [→ regions/nyau.md: prístav, metropola. Yera nikdy nebola na ulici — z vily do chrámu a späť, celý život.]
 
 Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
 
