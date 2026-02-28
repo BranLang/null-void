@@ -130,7 +130,7 @@ Otočila sa a odišla.
 
 Na konci mostu ju niekto chytil za lakeť.
 
-Stuhla. Srdce — dve údery, tri — a potom sa otočila. Stará žena. Pursang mačka s bielymi vlasmi a hodvábnym šálom, oči žmúriace cez masku kvetinového démona. Poznala tie oči. Známa z klanu — manželka niekoho, kto sedával s otcom na poradách.
+Stuhla. Srdce — dva údery, tri — a potom sa otočila. Stará žena. Pursang mačka s bielymi vlasmi a hodvábnym šálom, oči žmúriace cez masku kvetinového démona. Poznala tie oči. Známa z klanu — manželka niekoho, kto sedával s otcom na poradách.
 
 *„Yerana? Si to —"*
 
@@ -142,7 +142,7 @@ Stará žena zaváhala. Pozrela na šaty — chrámovú farbu, bosé nohy, masku
 
 Yera vydýchla. Ruky sa jej triasli — jemne, sotva viditeľne, ale triasli. *Skoro.* Tak blízko. Jedno slovo, jeden zdvihnutý šál, a otec by vedel do hodiny. [NOTE: Mikro-konflikt — Yera sa takmer prezradí. Zvyšuje stakes jej tajného výletu. Nie je to bezpečná hra — je to risk. A Yera to vie a ide ďalej.]
 
-Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a páchla soľ a olej.
+Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a voňala soľ a olej.
 
 ---
 
@@ -346,7 +346,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
