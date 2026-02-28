@@ -14,6 +14,8 @@ Usage:
   python scripts/spellcheck.py --only-types GRAMMAR     # only grammar errors
 """
 
+from __future__ import annotations
+
 import re
 import sys
 import io
@@ -68,10 +70,16 @@ WHITELIST = {
     "sera", "kito", "maya", "borg", "nix", "renn", "dren",
     "yara", "arkot", "flint", "rau", "vlk", "felix",
     "mako", "maki", "inetis", "fuji",
+    "yerana", "saéli", "soril", "saburo",
+    "arkotov", "arkotovej", "arkotova", "arkotovo", "arkotovho",
+    "sorilina", "sorilin", "sorilinu", "soriline", "sorilinú",
+    "samaell", "samaella", "samaellom", "samaellovi", "samaellov", "samaellovým",
+    "vulpes",
     # Places
     "nevriss", "nyau", "karakuri", "airen",
     "šoraven", "atra", "kitsune", "hangraval", "beladiss",
     "šobors", "grond", "ciferník",
+    "diss",
     # Factions / groups / peoples
     "grawská", "grawský", "grawskej", "graw", "grawčania", "grawského",
     "pursang", "ghorki", "mezra", "varietas",
@@ -148,6 +156,32 @@ WHITELIST = {
     "quadrupedálny",
     "kávovára", "kávovára",
     "náprsník", "náprsníkoch",
+    # Nyau-arc specific words
+    "svetlušiek", "svetielkujúcimi", "svetielkujúcich", "svetielkujúci",
+    "rozohriate", "rozohriateho", "rozohriaty",
+    "límci", "límce",
+    "molo", "mola", "moloch",
+    "rampke", "rampka", "rampku",
+    "gondolier", "gondoliera", "gondolierov",
+    "kvintescenciu", "kvintescencia", "kvintescencie",
+    "bioluminescentný", "bioluminescentné", "bioluminescentného", "bioluminescentných",
+    "bioluminiscenčný", "bioluminiscenčné", "bioluminiscenčného", "bioluminiscenčných",
+    "bioluminiscenčnou", "bioluminiscenčným",
+    "lišajníkom", "lišajníku", "lišajník",
+    "fosforeskujúcim", "fosforeskujúcich",
+    "jantárovzelené", "jantárovzelený",
+    "nahustejší",
+    "pracujúcejší",
+    "sardiny", "sardín",
+    "zvyknutá", "zvyknutý",
+    "plnšiu", "plnšia",
+    "zádi",
+    "prídí", "prídi",
+    "kňažkine", "kňažkiným",
+    "med-zrzavé",
+    "otca", "otcovi", "otcov", "otcova", "otcovo", "otcovej",
+    "yere", "yeru", "yerin", "yerina", "yerinej", "yerinú", "yerine",
+    "arkotovej",
     # Slovak words the API flags incorrectly
     "etanolovým", "etanolový", "etanolovom",
     "zahryzú", "nakládači", "kotviacimi",

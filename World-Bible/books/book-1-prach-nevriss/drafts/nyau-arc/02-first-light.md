@@ -5,7 +5,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrám El, ulice, vila Saéli
-**Čas**: ~AY 3010, dni pred a po Lampionovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
+**Čas**: ~AY 3010, dni pred a po Lampiónovom festivale. Yera má 3 zimy (~17 rokov). [NOTE: Kapitola je rám okolo festivalu — 1. polovica = PRED (klietka, zasvätenie), 2. polovica = PO (aftermath, zmena). Festival sám = Ch1.]
 **Nálada**: Dusivá, nespokojná — kontrast s festivalovou nocou
 
 ---
@@ -14,7 +14,7 @@ Strom v chrámovej záhrade prestal svietiť.
 
 Yera to zbadala ešte počas večernej modlitby — z miesta, kde kľačala v druhom rade za kňažkami, videla na okraj záhrady. Štvrtá vetva zdola, severná strana. Kôra, ktorá ešte ráno žiarila tyrkysovo, bola tmavá. Mŕtva. Akoby niekto v strome zhasol lampu. [→ regions/nyau.md: bioluminiscencia = vedľajší efekt Inetisiných GMO rastlín]
 
-Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlato-zelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
+Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlatozelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
 
 Yera kľačala, ruky zopnuté, oči zatvorené — tak ako sa patrilo — a myslela na strom.
 
@@ -54,7 +54,7 @@ Koreň na severnej strane — zauzlený, stlačený, zaseknutý pod kameňom, kt
 
 Soril mlčala. Čakala.
 
-Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala ju. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
+Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala vodu. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
 
 Trvalo to dlho. Kňažky okolo nej stáli a pozerali. Chrámová záhrada bola tichá — len cvrčky v trávach medzi koreňmi a vzdialený šum gondoly na kanáli pod kopcom. Svetlušky poletovali nízko nad zemou — modré, tyrkysové, zelené bodky — krúžili okolo kmeňa stromu, ktorý Yera liečila, akoby kontrolovali jej prácu. Sai sa posunul o kúsok ďalej. Kadidlo slablo.
 
@@ -86,17 +86,17 @@ Cesta z chrámu dolu kopcom trvala štvrťhodinu. Yera ju poznala naspamäť —
 
 Strážkyne kráčali tri kroky za ňou. Dve. Tiché, neviditeľné, ako tiene, ktoré sa nedajú zhodiť. Yera ich nepočítala. Boli tam, odkedy si pamätala. Súčasť sveta, ako svetlo a horúčava. Nie pre ochranu — kto by ublížil Saéli? — ale pre *poriadok*. Dcéra klanu nechodila sama. To sa nerobilo. To sa nikdy nerobilo.
 
-Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. Ale Nyau nikdy celkom nespalo. Na terase kaviarne pri kanáli sedeli traja starí muži a hrali hru s kamennými kockami, odháňajúc veľké zelené muchy, čo im krúžili okolo pohára. Gondolier pod mostom spieval potichu — pieseň, ktorú Yera poznala, ale nikdy nepočúvala. Mačkovitý chlapec, sedel na zábradlí mostu a kýval nohami nad vodou, jedol pečený hmyz zo zamasteného papiera. Voňal korením. [→ regions/nyau.md: pečený hmyz, bežné streetfood]
+Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. Ale Nyau nikdy celkom nespalo. Na terase kaviarne pri kanáli sedeli traja starí muži a hrali hru s kamennými kockami, odháňajúc veľké zelené muchy, čo im krúžili okolo pohára. Gondolier pod mostom spieval potichu — pieseň, ktorú Yera poznala, ale nikdy nepočúvala. Mačkovitý chlapec sedel na zábradlí mostu a kýval nohami nad vodou, jedol pečený hmyz zo zamasteného papiera. Voňal korením. [→ regions/nyau.md: pečený hmyz, bežné streetfood]
 
 Yera prešla okolo neho. Chlapec zdvihol oči — zaregistroval chrámové rúcho, Pursang držanie tela, strážkyne — a rýchlo sklopil zrak. Tak fungovalo Nyau. Kasty sa nestretávali. Kasty sa míňali. [→ regions/nyau.md: kastový systém, Pursang + Mezra = absolútne neprípustné]
 
 Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk.
 
-A pamätná tabuľa na konci aleje.
+A prastará socha na konci aleje.
 
-Zastavila sa. Zastavovala sa tu často — nie zo záujmu, skôr zo zvyku, z gravitácie, z niečoho, čomu nerozumela. Kamenná doska, pokrytá luminiscenčným machom. Vytesané riadky v Staroreči — staré písmená, staré slová, jazyk, ktorý v dobe objaviteľa ešte žil a dnes bol mŕtvy. Yera ich vedela čítať. Pursang vzdelanie. Každé dievča z klanu Saéli vedelo čítať Staroreč od prvej zimy. [→ regions/nyau.md: Staroreč, latinka = bežné písmo, Pursang vzdelanie zahŕňa základy]
+Zastavila sa. Zastavovala sa tu často — nie zo záujmu, skôr zo zvyku, z gravitácie, z niečoho, čomu nerozumela. Kamenná socha, pokrytá machom. Vytesané riadky v Staroreči — staré písmená, staré slová, jazyk, ktorý v dobe objaviteľa ešte žil a dnes bol mŕtvy. Yera ich vedela čítať. Každé dievča z klanu Saéli vedelo čítať Staroreč. [→ regions/nyau.md: Staroreč, latinka = bežné písmo, Pursang vzdelanie zahŕňa základy]
 
-Meno kapitána. Dátum v starom kalendári. A pod tým — dve vety. Zápis muža, ktorý v noci priblížil loď k neznámemu pobrežiu a uvidel les, ktorý svietil. [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, ~AY 1000-1200]
+Meno kapitána - Eon Labkan. Dátum v starom kalendári - 1124. A pod tým — dve vety. Zápis muža, ktorý v noci priblížil loď k neznámemu pobrežiu a uvidel les, ktorý svietil. [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, ~AY 1000-1200]
 
 *Nyau.*
 
@@ -104,9 +104,9 @@ Zvuk, aký urobíš, keď vidíš niečo také krásne, že zabudneš hovoriť. 
 
 Yera stála pred tabuľou a premýšľala nad niečím, nad čím nikdy predtým nepremýšľala.
 
-Kapitán videl Nyau prvýkrát. Preto bol ohromený. Preto zabudol na slová.
+Kapitán videl pobrežie Nyau prvýkrát. Preto bol ohromený. Preto zabudol na slová.
 
-A čo ona? Ona vidí Nyau každý deň. Kanály, stromy, svetlušky, kupolu chrámu, mesiac s prstencom. Každý deň. A nerobí zvuky. Nežasne. Nedíva sa.
+A čo ona? Ona vidí Nyau každý deň. Kanály, stromy, svetlušky, veže chrámov. Každý deň. A nerobí zvuky. Nežasne. Nedíva sa.
 
 *Kedy som prestala vidieť?*
 
@@ -116,17 +116,19 @@ Strážkyňa za ňou sa potichu odkašľala. Yera sa odtrhla od tabuľe a vykro�
 
 Vila klanu Saéli stála na svahu nad mestom — biely kameň, stĺpy, vnútorné nádvorie so stromom, ktorý bol pýchou rodiny. Nie najstarší v Nyau — ten patril chrámu. Ale najjasnejší. Svietil tak intenzívne, že v noci vrhala jeho žiara tiene na steny vily a Yera si v detstve myslela, že strom je slnko, ktoré sa zmenilo na strom, aby mohlo svietiť aj potme. [→ regions/nyau.md: klanové sídla, Saéli vila — biela vila so svetielkujúcim stromom v strede nádvoria]
 
-Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vily ich nepotrebovala. Tu bola doma. Tu bola v bezpečí.
+Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vily ich nepotrebovala. Tu bola doma. Tu bola v bezpečí. Tu bol svet veľký presne na dvadsaťtri izieb, štyri chodby, jednu záhradu a jedno átrium, v ktorom brat kreslil kriedou na dlažbu.
+
+Malý braček s modrými mačacími očami si kreslil kriedou na dlažbu a sústredil sa a strihal špicatými mačacími uškami a neposlušný chvostík sa akoby snažil nájsť nejakú inú zábavu. Zdvihol hlavu, keď ju počul. Usmiala sa na neho. Usmial sa späť. Bez slova. [NOTE: Brat = mladší, ~5 rokov (~1 zima). Modré oči — po matke, ako Yera. Zmienka 1/2 — nevinný moment, úsmev bez slov. Nie dysfunkcia — len ticho, v ktorom sa dá byť spolu. → characters/Yera.md: brat, TODO — meno]
 
 Otec sedel v záhrade pod stromom.
 
-Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú konvicu vedľa neho, tieň jeho ramien v zeleno-tyrkysovom svetle. Chcela prejsť rovno. Hore po schodoch, do izby, do tmy, pod prikrývku, kde bol svet jednoduchší.
+Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú kanvicu vedľa neho, tieň jeho ramien v zeleno-tyrkysovom svetle. Chcela prejsť rovno. Hore po schodoch, do izby, do tmy, pod prikrývku, kde bol svet jednoduchší.
 
 „Yerana."
 
 Celé meno. Nie *Yera*. Yerana. To znamenalo rozhovor. Nie ten dobrovoľný druh.
 
-Sadla si oproti nemu. Svetlo stromu padalo na otcovu tvár a menilo sa — tyrkysové, zelené, znova tyrkysové — a v tom pohyblivom jase videla vrásky, ktoré cez deň nevidela. Otec nebol starý. Pursangovia žili dlhšie než dlhšie a jeho krv bola čistá — desať generácií Saéli. Tak o tom hovoril. *Čistá krv.* Akoby krv mohla byť špinavá. [→ regions/nyau.md: medzikastové tabu, klany sledujú rodokmeň do 10. generácie, čistota krvi = čistota Spiry]
+Sadla si oproti nemu. Svetlo stromu padalo na otcovu tvár a menilo sa — tyrkysové, zelené, znova tyrkysové — a v tom pohyblivom jase videla vrásky, ktoré cez deň nevidela. Otec nebol starý. Pursangovia žili dlhšie než ostatné kasty a jeho krv bola čistá — desať generácií Saéli. Tak o tom hovoril. *Čistá krv.* Akoby krv mohla byť špinavá. [→ regions/nyau.md: medzikastové tabu, klany sledujú rodokmeň do 10. generácie, čistota krvi = čistota Spiry]
 
 Ale oči mal unavené. Oči muža, ktorý niesol meno príliš dlho a zabudol, ako vyzerá bez neho.
 
@@ -136,11 +138,11 @@ Ale oči mal unavené. Oči muža, ktorý niesol meno príliš dlho a zabudol, a
 
 „Strom?"
 
-Vyliečený."
+„Vyliečený."
 
 Otec nalial čaj. Dve šálky — vedel, že príde. Vždy vedel. Čaj voňal miestnym korením — niečím sladkastým a korenitým zároveň, vôňa, ktorú nikto mimo Nyau nepoznal. [→ regions/nyau.md: korenený čaj, každý klan má vlastnú receptúru]
 
-„Lampionový festival je o dva dni," povedal. Akoby hovoril o počasí. Akoby to nebola udalosť, pre ktorú žilo celé mesto.
+„Lampiónový festival je o dva dni," povedal. Akoby hovoril o počasí. Akoby to nebola udalosť, pre ktorú žilo celé mesto.
 
 Yera čakala. Vedela, že veta nekončí.
 
@@ -188,15 +190,23 @@ Nedotkol sa jej. Neusmial sa. Len prikývol — rovnako pomaly, rovnako premysle
 
 Keď vychádzala na schody, počula za sebou jemné cinknutie porcelánu o porcelán. V tichu záhrady to zaznelo ako zatvorenie dverí.
 
+Na treťom schode sa zastavila. Nie zámerne — nohy sa zastavili samy.
+
+Otočila sa napoly. Otec sedel pod stromom a držal šálku oboma rukami. Nehýbal sa. Nepil. Pozeral sa na miesto, kde pred chvíľou sedela — na prázdnu stoličku, na odtlačok v kameni, na nič. Svetlo stromu mu padalo na tvár a Yera videla niečo, čo si nikdy predtým nedovolila vidieť. Vrásky okolo očí boli hlbšie, než si myslela. A ruky — tie silné, isté, Saéli ruky — sa zachveli. Len na sekundu. Len o šestnástinu palca. Ale zachveli. [NOTE: Zrkadlový motív — „šestnástina palca" callback na otcov takmer-úsmev z rozhovoru. Rovnaká miera pohybu, opačný smer. Vtedy skoro úsmev. Teraz — skoro niečo iné.]
+
+*Bol v klietke tiež.*
+
+Otočila sa a vyšla hore.
+
 ---
 
 Izba bola jej. Jediné miesto vo vile, kde meno nič neznamenalo.
 
-Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si vybrala túto izbu, keď mala jednu zimu, a nikdy sa nepresťahovala. Steny z bieleho kameňa, hladké a chladné pod prstami. Na háčiku pri dverách kožený kabát s kožušinovým golierom — dar od starej matky, príliš veľký, ale Yera ho v zime nosila aj tak. Okno. Balkón. [→ characters/Yera.md: kožený kabát s kožušinou — dar od mŕtvej starej matky, „prvá stopa po bohatstve"]
+Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si vybrala túto izbu, keď mala jednu zimu, a nikdy sa nepresťahovala. Steny z bieleho kameňa, hladké a chladné pod prstami. Okno. Balkón. [NOTE: V matkinej skrini visí babičkin kabát — kožený, s kožušinovým golierom. Yera ho vidí zakaždým, keď ide okolo. Príliš veľký. Príliš dospelý. Matka ho nikdy nenosí, nikdy o ňom nehovorí. Len visí. Čaká. → characters/Yera.md: kabát od babičky, matka ho uchováva, dá ho Yere pri úteku (ch5)]
 
 Vyšla na balkón.
 
-Pod ňou ležalo mesto — kanály, mosty, prístav v diaľke. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami. [→ regions/nyau.md: prístav, poštové holuby, obchod s východom]
+Pod ňou ležalo mesto — kanály sa kľukatili mestom ako žily, mosty ich krížili po stovkách, celé štvrte sa strácali v tme medzi bioluminiscenčnými alejami. Vzducholode rachotili nad strechami — osvetlené lampami a modrými svetlami, motory duneli, každá iným smerom. Prístav v diaľke žiaril tisíckami svetiel na stožiaroch. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami — a nikdy v ňom nestála. [→ regions/nyau.md: prístav, metropola. Yera nikdy nebola na ulici — z vily do chrámu a späť, celý život.]
 
 Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
 
@@ -208,9 +218,9 @@ V Nyau sa nechcelo. V Nyau sa plnilo. Dcéry klanu boli buď sľúbené mužom, 
 
 Položila ruky na zábradlie. Pazúry — jemné, krátke, tmavé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
 
-Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampónov sa hojdali vo vánku — prázdne, nerozsvietené.
+Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampiónov sa hojdali vo vánku — prázdne, nerozsvietené.
 
-*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampionový festival, tradícia maskovania]
+*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampiónový festival, tradícia maskovania]
 
 Stisla ruky na zábradlí. Pazúry zaškrípali hlasnejšie. Nikto to nepočul. Nikto nikdy nepočul.
 
@@ -232,17 +242,39 @@ Dívala sa na prístav. Na obzor za ním — tmavý, nekonečný, plný vecí, k
 
 Festival prišiel a odišiel. [NOTE: ČASOVÝ SKOK. Festival (Ch1) prebehne tu. Pred = klietka, samota, otázky bez odpovedí. Po = zmena.]
 
-Prešla ním — celou nocou, od balkóna po strechu, od strechy po úsvit — a ráno sa vrátila do izby s rukami, ktoré voňali vínom a soľou a niečím, na čo nemala slovo. Umyla si ich. Trikrát. Vôňa zostala.
+Prešla ním — celou nocou, od balkóna po strechu, od strechy po úsvit.
 
-Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Ruky jej voňali čisto — mydlo, byliny, nič — a predsa zakaždým, keď zavrela oči, cítila teplý kameň a cudziu kožu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
+Pamätala si vietor na streche. Teplo kameňa pod bosými nohami. Hlas, ktorý spieval v jazyku, ktorému nerozumela a nemusela. A ruku — teplú, drsnú, položenú vedľa jej ruky na kameni.
 
-Zišla dolu, obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
+Nie na ňu. Vedľa.
 
 ---
 
-Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prepaľovala očami každý nakladací dok.
+Ráno.
 
-Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak.
+Vrátila sa do izby s rukami, ktoré voňali vínom a soľou a niečím, na čo nemala slovo.
+
+Umyla si ich. Trikrát.
+
+Vôňa zostala.
+
+---
+
+Päť dní pozerala z balkóna, ako ustatí mestskí čističi vyťahujú zoschnuté konfety z kanálov. Päť dní dýchala vôňu odumierajúcich festivalových kvetov, ktoré prístavný vietor pomaly hnal k zemi. Päť dní sedela zatvorená v chlade svojej izby s knihou o bylinách a nedokázala prečítať ani jednu celú stranu. Ruky jej voňali čisto — mydlo, byliny, nič — a predsa zakaždým, keď zavrela oči, cítila teplý kameň a cudziu kožu. Tá zotrvačnosť prázdna ju obrastala zvnútra, pomaly ako brečtan, až kým sa na šiesty deň neroztrhla.
+
+Zišla dolu.
+
+*Arkot z Diss. Mezra. Leopard. Pracuje v prístave.* Povedala to strážkyni bez vysvetlenia. Strážkyňa sa neopýtala prečo. Pozrela sa na Yeru — dlhým, tichým pohľadom ženy, ktorá ju nosila na rukách, keď mala pol zimy — a odišla. [NOTE: Strážkyne sú priradené Yere osobne — strážia ju od detstva, je tam citová väzba. Vedia, že zasvätenie do Chrámu El = doživotný celibát, koniec slobody. Tolerujú jej excesy, lebo jej chcú dopriať posledné mesiace voľnosti. Nepovedia otcovi, nepovedia Soril. Tajomstvo dedičky je ich tajomstvo.]
+
+Keď sa vrátila, podala jej papier. Dok. Smena. A niečo v jej tvári — niečo medzi úsmevom a ľútosťou — čo Yera odmietla pomenovať.
+
+Obišla strážkyne a vykročila priamo k hluku a pachu rybaciny.
+
+---
+
+Prístav ožil skorým poobedím. Voňal — nie krásne. Rozohriate dosky, loje, rybí tuk z ranného úlovku, pot a decht a niečo sladko-hnilé, čo stúpalo z kanálu, keď slnko dopadalo na stojatú vodu. Muchy boli všade — veľké, zelené, otravné, bzučali okolo hláv nakladačov, sadali na odrezky lán a na okraje debien s korením. Vzduch sa chvel od horúčavy a od pachu, ktorý bol Nyau cez deň — nie krásne svietiace nočné Nyau z pohľadníc, ale skutočné, potené, zapáchajúce Nyau, kde všetko smrdelo a všetko žilo. Yera stála v tieni plátennej rolety skladu, vtlačená do úzkej uličky tak, aby ju v tej rieke hrubého oblečenia a nadávok nebolo vidno, a prehľadávala očami každý nakladací dok.
+
+Arkot tam stál. Nemal na sebe košeľu. Ruky, šiju a časť chrbta mal pokryté leopardími škvrnami, ktoré sa pri každom zdvihnutí ťažkého vreca s obilím prelievali vo svaloch. Na slnku vyzerali inak než v mesačnom svetle — nie ostrovy na mape neznámeho sveta, ale niečo tvrdšie, reálnejšie, niečo čo patrilo dechtom nasiaknutým doskám a soľou leptanému kovu. Vôbec nevyzeral ako uvoľnený floutok s vínom na streche. Drel ako kôň a prehadzoval slová s ostatnými prístavnými robotníkmi drsne, bez príkras. Pot mu stekal po chrbte a Yera nevedela odtrhnúť zrak. [NOTE: Priepasť — Arkot zarába za deň menej, než stojí jeden kvet v záhrade vily Saéli. Yerin kabát od babičky, čo visí na háčiku v izbe, stojí viac než všetko čo Arkot v živote zarobil. On to nevie. Ona to nevie — nikdy nepremýšľala o peniazoch, lebo nikdy nemusela.]
 
 Zbadal ju skôr, než by očakávala. Uprostred pohybu otočil hlavu, akoby mu inštinkt povedal, že ho niekto pozoruje. Pustil vrece. Všetci tí tvrdí námorníci stíchli, keď sa usmial tým pomalým, asymetrickým úsmevom, ignorujúc kňažkine rúcho, pre ktoré by iní odvrátili zrak do zeme.
 
@@ -250,11 +282,17 @@ Kývol jej hlavou smerom k mestu a vrhol sa naspäť k lanám. Ostrý tón prís
 
 Vrátila sa aj nasledujúci deň. Stála v tom istom tieni, za tou istou roletou. On ju nezbadal — alebo predstierať, že nie. Nakladal vrecia, smial sa s robotníkmi, existoval bez nej. Odišla skôr, než by musela.
 
-Tretí deň jej hodil jablko. Nepovedal nič — len ho vytiahol z vreca, otočil sa jej smerom a hodil, jedným pohybom, cez pätnásť stôp horúceho prašného vzduchu. Yera ho chytila. Chytila ho oboma rukami, kňažkovými rukami, čistými rukami — a jablko bolo teplé a prašné a voňalo poľom a jeho dlaňou. Zahryzla sa do neho až cestou domov.
+Tretí deň jej hodil jablko.
+
+Nepovedal nič — len ho vytiahol z vreca, otočil sa jej smerom a hodil, jedným pohybom, cez pätnásť stôp horúceho prašného vzduchu. Yera ho chytila. Chytila ho oboma rukami, kňažskými rukami, čistými rukami — a jablko bolo teplé a prašné a voňalo poľom a jeho dlaňou.
+
+Stála s ním v tom horúcom tieni a pozerala na svoju ruku. Kňažskú ruku. Na jablku bol otlačok jeho palca — prach, pot, decht — a Yera si ho prezerala, akoby to bol text, ktorému nerozumie a nechce prestať čítať. [NOTE: Jablko = prvý fyzický dar. Prvá vec, ktorú Yera dostane od muža, ktorý nie je klan. Paralelka s maskou v Ch1 — obe sú dary od cudzincov, obe menia to, kým je.]
+
+Zahryzla sa do neho až cestou domov. A ohryzok hodila do kanálu — nie preto, že chcela zahodiť dôkaz. Ale preto, že sa bála, čo by urobila, keby si ho nechala.
 
 Piaty deň sa postavila bližšie. Šiesty ešte bližšie. Vymieňali si len pár tichých slov — komentáre o vetre, o počasí, o hlúpom žeriavnikovi, čo zaspal na stoličke — vety, ktoré nič neznamenali a znamenali všetko.
 
-Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to neustúpenie, bolo to zastavenie.
+Na desiaty deň jej cestou späť položil prepotenú ruku na stenu tesne vedľa hlavy. Nebolo to nátlak, bolo to zastavenie.
 „Vieš o záhrade za starým kanálom, hej?“ opýtal sa s pohľadom upretým na nákladnú loď trhavo bijúcu o vlnolam.
 Yera pozaháňala pohľadom dvoch sluhov v protiľahlej uličke. Vedela o záhrade. Rozpadajúce sa lavičky, mach na kameni, tma a cvrčky. V noci tam nechodil nikto.
 „Viem,“ odvetila a zatajila dych.
@@ -287,37 +325,9 @@ Soril len nepatrne a pochvalne prikývla. Ako keby nepochopenie bola presná a o
 „Zajtra o takomto čase.“ Odmietla akýkoľvek hlbší komentár.
 
 Opakovalo sa to. Deň za dňom. Nové verše, nové pasáže. Yera prichádzala s rečou o viere a nádeji, no Soril všetky posvätné mantry presekávala tichými, pragmatickými otázkami.
-*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh" — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa jej tu trasie ruka — vidíš? — tu, uprostred vety, naraz prestane byť pokojná?*
+*Prečo El píše o svetle ako o niečom, čo sa dá zmerať, a nie ako o dare? Čo je ten „iný breh" — lebo ona nespomína žiadneho boha, len látky a vzdialenosti? A prečo sa tu veta zastaví — vidíš? — uprostred myšlienky, naraz prestane byť pokojná?*
 
-Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež.
-
-Jedného dňa Soril listovala rýchlejšie. Preskakovala pasáže — niektoré stránky otočila bez zastavenia, bez otázky, bez pohľadu. Yera to sledovala. Tri stránky. Štyri. Piata.
-
-„Počkaj."
-
-Soril zdvihla oči.
-
-Yera natiahla ruku a otočila stranu späť. Bez dovolenia. Prsty na bielom dreve väzby — tam, kam sa žiačky nedotýkali, kam sa dotýkala len Soril. Stránka, ktorú Soril preskočila.
-
-Text bol hustejší. Iný. Nie verše — zoznam. Čísla, miery, pomery. Niečo, čo vyzeralo ako recept, ale s výrazmi, ktoré Yera nepoznala. A na okraji — kresba. Malá, presná, technická. Päťcípa hviezda vpísaná do kruhu. Pod ňou symboly v Staroreči — nie modlitba, nie poézia. Niečo iné. [→ 03-technology.md: Glyf — 5 elementov Spiry. Kniha El obsahuje aj technické pasáže, maskované medzi veršami.]
-
-„Čo je toto?" spýtala sa Yera.
-
-Soril mlčala. Dlho. Tak dlho, že Yera zdvihla pohľad od strany a pozrela sa na ňu. Kňažka mala zvláštny výraz — nie hnev, nie prekvapenie. Niečo bližšie k ostražitosti. Akoby Yera otvorila dvere, o ktorých ešte nemala vedieť.
-
-„Niečo, na čo nie si pripravená."
-
-„Preskočila si to."
-
-„Áno."
-
-„Prečo?"
-
-Soril pozrela na stranu. Na kresbu. Na čísla. Potom späť na Yeru — a v jej pohľade bolo niečo nové. Nie pochvala. Horšie. Prehodnocovanie.
-
-„Lebo väčšina sa nikdy nespýta," povedala Soril. Zavrela Knihu. Pomaly, rozhodne, bielymi doskami, ktoré jemne klapli. „Zajtra."
-
-Yera zostala sedieť. Pozerala na zatvorenú Knihu na stole a vedela — presne, jasne, bez pochybností — že Soril preskakuje strany zámerne. Nie preto, že nie sú dôležité. Preto, že sú. [NOTE: Prvý aktívny moment — Yera siahne po Knihe bez dovolenia a nájde Glyf (glyf). Soril to neočakávala a prehodnocuje Yeru. Yera tu prestáva byť študentka — začína byť hráčka. Foreshadowing: Yera bude Knihu čítať sama v podzemnej knižnici (Ch3) a nakoniec ju ukradne. Tu je zárodok — nie rebélia, ale zvedavosť, ktorú Soril nemôže zastaviť.]
+Nikto predtým nehovoril o Knihe tak. V chráme sa verše recitovali — opakovali, nie spochybňovali. Soril ich čítala ako mapu s chýbajúcimi kusmi. A pomaly, deň za dňom, Yera začínala tie prázdne miesta vidieť tiež. [NOTE: Soril tu pracuje len s Bielou Knihou — sanitizovanou kópiou. Žiadne technické kresby, žiadne glyfy, žiadne preskakované strany. To všetko príde až v Ch3, keď Soril ukáže originál (Čiernu knihu). Tu Soril len učí Yeru čítať text kriticky — klásť otázky, nie opakovať.]
 
 Po čítaní prichádzala na rad Spira. Žiadne klasické liečiteľské rituály. Žiadne tabuľky s modlitbami za uzdravenie. Soril ju viedla priamo k Ľadu.
 
@@ -326,7 +336,17 @@ Po čítaní prichádzala na rad Spira. Žiadne klasické liečiteľské rituál
 Soril to učila bez emócií, ako keby ukazovala techniku šitia. Roztiahla ruku nad miskou s vodou a hladina stuhla v okamihu — ticho, bez gesta, bez modlitby. Len vôľa.
 „Toto nie je dar. Toto je nôž," povedala. „A strážkyňa bez noža je mŕtva strážkyňa."
 
-Yera to vstrebávala dychtivo, omámená zakázanosťou toho všetkého. Učila sa neprípustne rýchlo. Soril jej to videla v očiach, aj keď navonok mlčala a len rozdávala príkazy.
+Yera to vstrebávala dychtivo, omámená zakázanosťou toho všetkého.
+
+Prvýkrát, keď natiahla ruku nad misku, nestalo sa nič. Voda ležala pokojne — tmavá, nehybná, ľahostajná. Yera hľadala v sebe niečo, čomu nemala meno — nie liečenie, nie ten teplý, pomalý prúd, ktorým opravovala stromy. Niečo opačné. Niečo, čo nemalo byť.
+
+Druhýkrát — niečo. Hrana misky sa pokryla jemnou vrstvou námrazy. Tenká. Krehká. Zmizla za sekundu.
+
+Soril zdvihla obočie. Jedno. O milimeter.
+
+Pre Soril to bola pochvala.
+
+Učila sa neprípustne rýchlo. Soril jej to videla v očiach, aj keď navonok mlčala a len rozdávala príkazy.
 
 Jedno ráno, po noci v záhrade, Yera kľačala v Sorilin pracovni a trénovala Ľad. Miska s vodou pred ňou. Sústredila sa — prsty nad hladinou, vôľa, chlad. Voda stuhla. Ale Soril pokrútila hlavou.
 
@@ -342,13 +362,73 @@ Nenašla ho. [NOTE: Kontrast teploty — ráno Ľad (chlad, prázdno, deštrukci
 
 A cez noc — záhrada.
 
+Strážkyne slúžili aj v noci — dve pri hlavnej bráne, jedna na obchôdzke po vnútornom nádvorí. Yera poznala každý kameň toho domu. Vedela, kedy obchôdzka obchádza južné krídlo a kedy severné. Vedela, že bočné schody z jej balkóna vedú dolu za záhradný múr a že tieň pod starým orieškom je najhustejší presne vtedy, keď strážkyňa prechádza koridorom na opačnej strane. Proste sa vyparila. Ako vždy. [NOTE: Strážkyne slúžia aj v noci, ale Yera pozná vilu dokonale a dokáže sa im stratiť. Soril v Ch3 povie „dávajte na ňu lepší pozor" — čím mení level ostražitosti. To Yere sťaží budúce stretnutia.]
+
 ---
 
-Záhrada za starým kanálom fungovala večer ako portál. Pustá a melancholická cez deň — horúca, smradľavá od stojatej vody v kanáli, s muchami krúžiacimi nad rozpadajúcimi sa lavičkami. Ale za šera sa menila. Stromy horeli hustou tyrkysovou šťavou v lyku a pohlcovali celú architektúru záhrady. Chladný kameň i hlinená cesta podliehali slabo fosforeskujúcim modrozeleným lišajníkom, akoby chodili po chrbte niečoho živého. Všadeprítomné fialové a ružové kvety otvárali hluché ústa do noci. A svetlušky — stovky — sa zdvíhali z trávy a z kríkov a z machu na kameňoch, modré a tyrkysové a zelené, niektoré žlté, sem-tam fialová väčšia než ostatné, a poletovali v pomalých oblúkoch medzi kmeňmi, akoby záhrada dýchala svetlom. Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo hovoriť potichu a nikto ťa nepočul. [→ regions/nyau.md: svetlušky = bioluminiscenčný hmyz, farby: modrá, tyrkisová, zelená, žltá, fialová. Cvrčky a cikády = stála zvuková kulisa Nyau v noci] [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
+Záhrada za starým kanálom cez deň smrdela stojatou vodou a muchy tam krúžili nad rozpadajúcimi sa lavičkami. Mach na kameni, hlinená cesta, zabudnutý kút mesta, kam nechodili ani gondolieri. [→ regions/nyau.md: bioluminiscenčná záhrada — vedľajší efekt Inetisiných GMO rastlín, v noci intenzívnejšia]
+
+Ale za šera sa menila. Stromy sa rozsvietili, lišajník pod nohami zažiaril a svetlušky stúpali z machu ako malé modré duše. Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo hovoriť potichu a nikto ťa nepočul. [→ regions/nyau.md: svetlušky, cvrčky a cikády = stála zvuková a svetelná kulisa Nyau v noci]
+
+Iné Nyau. To krásne Nyau. To, ktoré videla zo strechy. [NOTE: Callback na Ch1 — strecha s Arkotom. Čitateľ si spojí záhradu so strechou — rovnaký pocit, nové miesto.]
 
 Lavička s prasknutou mosadznou opierkou bola vždy obsadená ešte pred padnutím prvej rosy. Arkot vždy došiel prvý.
 
-Prvá noc: jedna stopa medzi nimi. Rozprávali sa o ničom — kto varí lepšie ryby, pobrežie Nyau alebo stánky v Beladiss. Ako Arkot raz zaspal na hliadke a prebudil ho racek, ktorý mu sadol na hlavu. Yera sa smiala príliš nahlas a potom sa za to hanbila, a Arkot sa tváril, že si to nevšimol, aj keď sa mu pri tom zdvihol kútik. A medzi tým — dlhé, ťaživé ticho, v ktorom za nich hovorili cvrčky a občasné kvapkanie vlhkosti z listov. Nevedeli, kam s rukami.
+---
+
+Prvá noc.
+
+Yera prišla o polnoci, ako povedal. Stála na konci cestičky medzi kríkmi a dívala sa na lavičku, kde sedel — chrbtom k nej, fľaša pri nohe, prsty na kolene bubnujúce rytmus, ktorý počul len on. Cikády. Kvapkanie vlhkosti z listov. Nič iné.
+
+Na streche boli cudzinci. Tu — tu sa stretávali zámerne. A to bolo iné. Ťažšie. Na streche mohol byť náhoda. Prístavná ulica, víno, festival, masky. Tu nebola maska. Tu bola len ona, v chrámovom rúchu, s bosými nohami na vlhkej hline, a on, v tej istej košeli, čo voňala soľou a dechtom.
+
+Sadla si. Jedna stopa medzi nimi. Yera ju cítila — odmerala ju pohľadom, vzdialenosť svojich kolien od jeho, päsť, možno dve, kameň lavičky medzi nimi, studený a vlhký od rosy. Stopa, ktorú nikto neprikázal, ale obe telá vedeli, že tam má byť.
+
+„Tak," povedal Arkot. Nič viac. *Tak.* Jedno slovo, ktoré znamenalo: *si tu, som tu, a ani jeden z nás nevie, čo teraz.*
+
+„Tak," povedala Yera.
+
+Cvrčky za nich vyplnili ticho. Dlhé ticho — nie nepríjemné, len ťažké. Plné vecí, ktoré sa nedali povedať, lebo ešte nemali tvar.
+
+Arkot sa oprel o operadlo — mosadz zaškrípala — a začal rozprávať. Nie o sebe, nie o nej. O rybách. O tom, ako v Beladiss griľujú ryby na otvorenom ohni na pláži a soľ z mora im padá priamo na mäso, a ako žiadna krčma v Nyau to nedokáže napodobniť, pretože tu soľ filtrujú a čistia a zbavujú ju všetkého, čo robí soľ *soľou*. Rozprával s tou pomalou istotou muža, ktorý vie, čo vie, a nepotrebuje viac. Bez stratégie, bez slov-ako-šachových-ťahov. Len príbeh. Jednoduchý, obyčajný, ľudský.
+
+Yera počúvala a uvedomovala si, že nikdy v živote nepočúvala muža hovoriť takto.
+
+„A ty?" spýtal sa. „Aké sú ryby v Chráme El?"
+
+„Dusené," povedala Yera. „V bylinkovom vývare. Bez soli. Bez ohňa."
+
+„Bez *ohňa*?" Úprimné zdesenie. „To nie sú ryby. To je trest."
+
+„Je to tradícia."
+
+„To som povedal."
+
+Arkot pokrútil hlavou. Pomaly, smutne, akoby sa práve dozvedel, že svet je horšie miesto, než si myslel.
+
+Yera sa takmer zasmiala. *Takmer.* Hrdlo sa jej stiahlo a kútiky úst sa zdvihli, ale potlačila to — zvyk, reflex, niečo naučené z balkónov a klanových večerí. *Nesmiať sa nahlas. Nesmieš.*
+
+Potom povedal to o rackovi.
+
+Ako raz zaspal na hliadke pri starých dokoch v Diss a prebudil ho racek, ktorý mu sadol na hlavu. Nie na rameno — na hlavu. „Celou váhou," povedal a roztvoril ruky, akoby ukazoval veľkosť monštra. „A pazúre — *tu* —" ukázal na temeno. „Dodnes mám jazvu."
+
+Yera sa zasmiala.
+
+Nie chcela. Zahryzla sa do pery, stisla pery, zadržala dych — a smiech prešiel cez všetky zábrany ako voda cez prasklinu v hrádzi. Krátky, ostrý, prekvapený. Zakryla si ústa rukou a počula sa — *počula sa smiať* — a hanbila sa tak veľmi, že jej horeli uši.
+
+Arkot sa tváril, že si to nevšimol. Ale kútik sa mu zdvihol. Ten istý kútik — ten pomalý, asymetrický, ten zo strechy.
+
+A medzi nimi — tam, kde bola stopa — niečo sa posunulo. Nie fyzicky. Vzduch bol ten istý, lavička bola tá istá, cvrčky hrali tú istú litániu. Ale niečo sa zmenilo. Akoby sa stopa zúžila o šírku dychu.
+
+Sedeli dlho. Nevedeli, kam s rukami. Nevedeli, kedy odísť. Nevedeli, čo hovoriť — a tak nehovorili, a to bolo lepšie než čokoľvek, čo by mohli povedať.
+
+Yera vstala prvá. Vždy vstávala prvá.
+
+„Zajtra?" spýtal sa. Nie prosba — otázka. Skutočná otázka, bez očakávania, bez nároku.
+
+„Zajtra," povedala Yera. A odišla, a necítila zem pod nohami, celú cestu domov.
+
+---
 
 Druhá noc tú stopu prepolila. Tretia ju zmazala. Rozprávali sa o čoraz menej a sedeli čoraz bližšie — a Yera si uvedomila, že na záhradné stretnutia nemyslí cez deň, ale čaká na ne celým telom, od úsvitu po súmrak, ako zver čaká na noc, kedy je bezpečné vyjsť z úkrytu.
 
@@ -364,15 +444,15 @@ Pauza. Cvrčky. Svetlušky.
 
 Yera sa zasmiala. Skutočný smiech — nie ten zdvorilý, nie ten klanový, ten od brucha, ten, čo ju prekvapil viac než jeho. Zahryzla sa do spodnej pery, aby ho zastavila. Nefungovalo to.
 
-Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír z koží Varietas. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
+Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír vpísaný do kože. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
 
 *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.“*
 Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci a zvuku mora z prístavu. 
 
-Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a kľudným tempom plavca.
+Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a pokojným tempom plavca.
 „To je z tej svätej knihy?“
 „Áno.“
-Zacítila letný úsmev odrážajúci sa na svalvine jeho sánky.
+Zacítila letný úsmev na línii jeho sánky.
 „Zvláštne slová pre svätú knihu. Znie to skôr ako niekto, kto sa stratil.”
 „Áno,” vydýchla si Yera, upierajúc pohľad do nehybnej machovej škáry oproti nim. „Presne tak to znie.” [NOTE: Foreshadowing — Arkot, ktorý nikdy nečítal Knihu, okamžite počuje to, čo Yera po rokoch v chráme len začína cítiť: že to nie sú slová bohyne, ale strateného človeka. Zárodok pochybnosti. → the-book-of-El.md]
 
@@ -386,7 +466,7 @@ A čakala na noc.
 
 Jedného rána — bolo to po siedmej, možno ôsmej noci v záhrade — Soril nečakane zatvorila Knihu skôr, než zvyčajne. Pozrela na Yeru. Dlho. Tým pohľadom, ktorý nebol otázka a nebol odpoveď. Bol to pohľad ženy, ktorá vidí niečo, čo ešte nechce pomenovať.
 
-*„Dobre spíš?"* spýtala sa.
+*„Spávaš dobre?"* spýtala sa.
 
 *„Áno,"* klamala Yera.
 

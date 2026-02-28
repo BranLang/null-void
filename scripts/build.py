@@ -13,9 +13,9 @@ Requirements:
   pip install PyPDF2
 
 Usage:
-  python scripts/build-book-pdf.py
-  python scripts/build-book-pdf.py --book book-1-prach-nevriss
-  python scripts/build-book-pdf.py --book book-1-prach-nevriss --no-pdf  (markdown only)
+  python scripts/build.py heist-arc
+  python scripts/build.py nyau-arc
+  python scripts/build.py nyau-arc --no-pdf  (markdown only)
 """
 
 import subprocess
@@ -34,26 +34,65 @@ from importlib import import_module
 clean_module = import_module('export-clean-drafts')
 strip_comments = clean_module.strip_comments
 
-# Chapter order for each book
-BOOK_CHAPTERS = {
-    'book-1-prach-nevriss': [
-        'heist-arc/00-prologue.md',
-        'heist-arc/01-karakuri.md',
-        'heist-arc/02-dead-bells.md',
-        'heist-arc/03-tunnels.md',
-        'heist-arc/04-elanias-blade.md',
-        'heist-arc/04.1-interlude-glass-city.md',
-        # 'links-arc/01-golden-cage.md',
-        # 'links-arc/02-frozen-bridge.md',
-        # 'links-arc/03-antiquarian.md',
-        # 'links-arc/03-desolation.md',
-        # 'maks-arc/05-blood-ritual.md',
-        # 'maks-arc/06-sky-hammer.md',
-        # 'maks-arc/07-dust-of-achilles.md',
-    ],
+# ──────────────────────────────────────────────────────────
+# Arc configurations
+# ──────────────────────────────────────────────────────────
+
+ARC_CONFIGS = {
+    'heist-arc': {
+        'book': 'book-1-prach-nevriss',
+        'chapters': [
+            'heist-arc/00-prologue.md',
+            'heist-arc/01-karakuri.md',
+            'heist-arc/02-dead-bells.md',
+            'heist-arc/03-tunnels.md',
+            'heist-arc/04-elanias-blade.md',
+            'heist-arc/04.1-interlude-glass-city.md',
+            # 'links-arc/01-golden-cage.md',
+            # 'links-arc/02-frozen-bridge.md',
+            # 'links-arc/03-antiquarian.md',
+            # 'links-arc/03-desolation.md',
+            # 'maks-arc/05-blood-ritual.md',
+            # 'maks-arc/06-sky-hammer.md',
+            # 'maks-arc/07-dust-of-achilles.md',
+        ],
+        'cover': 'books/book-1-cover-prach.jpeg',
+        'cover_fit': 'cover',           # object-fit for cover image
+        'cover_position': 'center 15%',
+        'epigraph': None,               # extract from content
+        'output': 'heist-arc.pdf',
+    },
+    'nyau-arc': {
+        'book': 'book-1-prach-nevriss',
+        'chapters': [
+            'nyau-arc/01-lantern-festival.md',
+            'nyau-arc/02-first-light.md',
+            'nyau-arc/02.1-interlude-itaka.md',
+            'nyau-arc/02.5-interlude-temple.md',
+            'nyau-arc/03-black-book.md',
+            'nyau-arc/04-within-temptation.md',
+            'nyau-arc/04.5-interlude-breakup.md',
+            'nyau-arc/05-farewell.md',
+        ],
+        'cover': 'books/book-1/covers/book-nyau-arc-cover.png',
+        'cover_fit': 'contain',
+        'cover_position': 'center center',
+        'epigraph': {
+            'html': """<div class="epigraph">
+<p>„A El povedala: Pusť svetlo. Nech stúpa. Nech sa dotkne hviezd a nech sa vráti ako dážď — lebo každé svetlo, čo vypustíš, sa k tebe vráti stonásobne."</p>
+<p class="epigraph-author">Kniha El, 1:7</p>
+</div>
+""",
+            'strip_first_chapter': True,  # remove blockquote epigraph from ch1
+        },
+        'output': 'nyau-arc.pdf',
+    },
 }
 
-# CSS for content pages (normal margins handled by @page)
+# ──────────────────────────────────────────────────────────
+# CSS
+# ──────────────────────────────────────────────────────────
+
 CONTENT_CSS = """
 @page {
   size: A5;
@@ -86,6 +125,40 @@ h1:first-of-type {
   page-break-before: avoid;
   margin-top: 0;
   font-size: 24pt;
+}
+
+/* Chapter epigraph: own page, vertically centered */
+.chapter-epigraph {
+  page-break-before: always;
+  page-break-after: always;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chapter-epigraph blockquote {
+  font-style: italic;
+  text-align: center;
+  border-left: none;
+  text-indent: 0;
+  margin: 0 2em;
+  max-width: 80%;
+}
+
+.chapter-epigraph blockquote p {
+  text-indent: 0;
+  font-size: 9pt;
+  line-height: 1.6;
+}
+
+.chapter-epigraph .epigraph-source {
+  display: block;
+  margin-top: 0.8em;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 7.5pt;
 }
 
 h2 {
@@ -174,7 +247,6 @@ img {
 
 """
 
-# CSS for epigraph page (A5, centered, no page numbers)
 EPIGRAPH_CSS = """
 @page {
   size: A5;
@@ -216,7 +288,6 @@ html, body {
 }
 """
 
-# CSS for Terra map page (A5 landscape, full bleed)
 TERRA_MAP_CSS = """
 @page {
   size: A5 landscape;
@@ -250,41 +321,43 @@ html, body {
 }
 """
 
-# CSS for cover page (full bleed, zero margins)
-COVER_CSS = """
-@page {
+def make_cover_css(arc_config):
+    """Generate cover CSS based on arc config."""
+    return f"""
+@page {{
   size: A5;
   margin: 0;
-}
+}}
 
-html, body {
+html, body {{
   margin: 0;
   padding: 0;
   width: 100%;
   height: 100%;
   overflow: hidden;
-}
+}}
 
-.cover-page {
+.cover-page {{
   margin: 0;
   padding: 0;
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-}
+  background: #000;
+}}
 
-.cover-page img {
+.cover-page img {{
   width: 100vw;
   height: 100vh;
-  object-fit: cover;
-  object-position: center 15%;
+  object-fit: {arc_config['cover_fit']};
+  object-position: {arc_config['cover_position']};
   display: block;
   margin: 0;
   padding: 0;
-}
+}}
 """
 
-# md-to-pdf front-matter for content (normal margins + page numbers)
+# md-to-pdf front-matter configs
 CONTENT_MD_CONFIG = """---
 pdf_options:
   format: A5
@@ -300,7 +373,6 @@ pdf_options:
 
 """
 
-# md-to-pdf front-matter for epigraph page (margins, no header/footer)
 EPIGRAPH_MD_CONFIG = """---
 pdf_options:
   format: A5
@@ -314,7 +386,6 @@ pdf_options:
 
 """
 
-# md-to-pdf front-matter for cover (zero margins, no header/footer)
 COVER_MD_CONFIG = """---
 pdf_options:
   format: A5
@@ -329,6 +400,10 @@ pdf_options:
 """
 
 
+# ──────────────────────────────────────────────────────────
+# Helpers
+# ──────────────────────────────────────────────────────────
+
 def img_to_base64_uri(img_path: Path) -> str:
     """Convert an image file to a base64 data URI string."""
     mime, _ = mimetypes.guess_type(str(img_path))
@@ -339,31 +414,22 @@ def img_to_base64_uri(img_path: Path) -> str:
     return f'data:{mime};base64,{b64}'
 
 
-def build_cover_markdown(books_dir: Path) -> str:
+def build_cover_markdown(assets_dir: Path, arc_config: dict) -> str:
     """Build markdown for the cover page only."""
-    cover_path = (books_dir / '..' / 'assets' / 'books' / 'book-1-cover-prach.jpeg').resolve()
+    cover_path = (assets_dir / arc_config['cover']).resolve()
     if not cover_path.exists():
+        print(f"  Warning: cover not found: {cover_path}")
         return ''
     cover_b64 = img_to_base64_uri(cover_path)
     print(f"  Cover: {cover_path.name}")
     return f'<div class="cover-page">\n<img src="{cover_b64}" />\n</div>\n'
 
 
-def build_map_markdown(books_dir: Path) -> str:
-    """Build markdown for the map page only (full bleed)."""
-    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-achilles.jpeg').resolve()
+def build_map_markdown(assets_dir: Path, map_file: str) -> str:
+    """Build markdown for a map page (full bleed)."""
+    map_path = (assets_dir / 'maps' / map_file).resolve()
     if not map_path.exists():
-        return ''
-    map_b64 = img_to_base64_uri(map_path)
-    print(f"  Map: {map_path.name}")
-    return f'<div class="cover-page">\n<img src="{map_b64}" />\n</div>\n'
-
-
-def build_terra_map_markdown(books_dir: Path) -> str:
-    """Build markdown for the Terra continent map page (full bleed)."""
-    map_path = (books_dir / '..' / 'assets' / 'maps' / 'map-terra.png').resolve()
-    if not map_path.exists():
-        print("  Warning: map-terra.png not found, skipping Terra map")
+        print(f"  Warning: {map_file} not found, skipping")
         return ''
     map_b64 = img_to_base64_uri(map_path)
     print(f"  Map: {map_path.name}")
@@ -380,13 +446,10 @@ def extract_epigraph_markdown(content: str) -> tuple[str, str]:
     return '', content
 
 
-def build_content_markdown(book_name: str, books_dir: Path) -> str:
+def build_content_markdown(arc_config: dict, books_dir: Path) -> str:
     """Merge all chapter files into a single markdown string (no cover, no map)."""
-    chapters = BOOK_CHAPTERS.get(book_name)
-    if not chapters:
-        print(f"Error: Unknown book '{book_name}'", file=sys.stderr)
-        print(f"Available: {', '.join(BOOK_CHAPTERS.keys())}", file=sys.stderr)
-        sys.exit(1)
+    book_name = arc_config['book']
+    chapters = arc_config['chapters']
 
     drafts_dir = books_dir / book_name / 'drafts'
     if not drafts_dir.exists():
@@ -409,8 +472,10 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
         # Remove map image (rendered as separate full-bleed page)
         clean = re.sub(r'!\[.*?\]\([^)]*map-achilles[^)]*\)\n*', '', clean)
 
-        # Convert image paths to relative HTTP links by copying them to export/_assets
-        # Using HTML img tag wrapped in div
+        # Remove metadata lines (POV, Lokácia, Čas, Nálada, etc.)
+        clean = re.sub(r'\*\*(?:POV|Lokácia|Čas|Nálada|Postavy|Cieľ)\*\*:[^\n]*\n*', '', clean)
+
+        # Convert image paths to base64 or copy to export/_assets
         def fix_img_path(match):
             import shutil
             alt = match.group(1)
@@ -424,13 +489,19 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
                 shutil.copy2(abs_path, dest_path)
                 return f'\n<div class="image-wrapper"><img src="_assets/{dest_name}" alt="{alt}" /></div>\n\n'
             print(f"    Warning: image not found: {rel_path}")
-            return ''  # Remove if image not found
+            return ''
         clean = re.sub(r'!\[(.*?)\]\((.*?)\)\n*', fix_img_path, clean)
 
         # Remove trailing "— koniec interlúdia —" markers (we use page breaks)
         clean = re.sub(r'\n*\*— koniec interlúdia —\*\n*', '\n', clean)
 
-        # Add a few newlines between chapters. CSS handles page and headings.
+        # First chapter: remove its blockquote epigraph if arc uses hardcoded epigraph
+        epigraph_cfg = arc_config.get('epigraph')
+        if i == 0 and epigraph_cfg and epigraph_cfg.get('strip_first_chapter'):
+            clean = clean.lstrip('\n')
+            clean = re.sub(r'^(>.*\n)+\s*\n*', '', clean)
+
+        # Add a few newlines between chapters
         if i > 0:
             parts.append('\n\n')
 
@@ -441,26 +512,56 @@ def build_content_markdown(book_name: str, books_dir: Path) -> str:
             if len(content.strip()) < 4000:
                 return content.lstrip()
             return heading + content
-            
+
         clean = re.sub(r'(## Časť[^\n]*\n+)(.*?(?=\n## |\n# |\Z))', remove_short_parts, clean, flags=re.DOTALL)
 
         parts.append(clean.strip())
         parts.append('\n\n')
         print(f"  + {chapter_file}")
 
-    return ''.join(parts)
+    merged = ''.join(parts)
+
+    # Put chapter epigraphs on their own centered page, heading on next page
+    def wrap_chapter_epigraph(match):
+        blockquote = match.group(1)
+        heading = match.group(2)
+        quote_lines = []
+        source_line = None
+        for line in blockquote.strip().split('\n'):
+            line = line.lstrip('> ').strip()
+            if not line:
+                continue
+            line = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', line)
+            if line.startswith('—') or line.startswith('–'):
+                source_line = f'<span class="epigraph-source">{line}</span>'
+            else:
+                quote_lines.append(line)
+        quote_html = '<br>\n'.join(quote_lines)
+        if source_line:
+            bq_html = f'<blockquote>\n<p>{quote_html}</p>\n<p>{source_line}</p>\n</blockquote>'
+        else:
+            bq_html = f'<blockquote>\n<p>{quote_html}</p>\n</blockquote>'
+        return f'\n<div class="chapter-epigraph">\n{bq_html}\n</div>\n\n{heading}\n'
+
+    merged = re.sub(
+        r'((?:^>.*\n)+)\s*\n*(# [^\n]+)',
+        wrap_chapter_epigraph,
+        merged,
+        flags=re.MULTILINE
+    )
+
+    # Remove --- that immediately follow </div> (chapter-epigraph)
+    merged = re.sub(r'(</div>)\s*\n+---\n*', r'\1\n\n', merged)
+
+    return merged
 
 
 def run_md_to_pdf(md_path: Path, css_path: Path) -> Path:
     """Run md-to-pdf and return the generated PDF path."""
-    # On Windows, need shell=True to execute .cmd scripts from npm
     use_shell = (sys.platform == 'win32')
-    
-    # md-to-pdf (Puppeteer) works better with forward slashes on Windows for CSS paths
-    # Convert to string and force forward slashes
     md_path_str = str(md_path.resolve()).replace('\\', '/')
     css_path_str = str(css_path.resolve()).replace('\\', '/')
-    
+
     print(f"Running md-to-pdf on {md_path_str} with css {css_path_str}...")
     try:
         result = subprocess.run(
@@ -476,45 +577,58 @@ def run_md_to_pdf(md_path: Path, css_path: Path) -> Path:
     return md_path.with_suffix('.pdf')
 
 
+# ──────────────────────────────────────────────────────────
+# Main
+# ──────────────────────────────────────────────────────────
+
 def main():
     parser = argparse.ArgumentParser(description='Build book PDF from markdown chapters')
-    parser.add_argument('--book', default='book-1-prach-nevriss',
-                        help='Book directory name (default: book-1-prach-nevriss)')
+    parser.add_argument('arc', choices=list(ARC_CONFIGS.keys()),
+                        help='Which arc to build')
     parser.add_argument('--no-pdf', action='store_true',
                         help='Only generate merged markdown, skip PDF conversion')
     parser.add_argument('--output', default=None,
-                        help='Output filename (default: export/<book-name>.pdf)')
+                        help='Output filename (default: export/<arc>.pdf)')
     args = parser.parse_args()
 
+    arc_config = ARC_CONFIGS[args.arc]
     repo_root = Path(__file__).parent.parent
     books_dir = repo_root / 'World-Bible' / 'books'
+    assets_dir = repo_root / 'World-Bible' / 'assets'
     export_dir = repo_root / 'export'
     export_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"Building book: {args.book}\n")
+    print(f"Building: {args.arc}\n")
 
-    # Build cover, maps, and content markdown separately
-    cover_md = build_cover_markdown(books_dir)
-    map_md = build_map_markdown(books_dir)
-    terra_map_md = build_terra_map_markdown(books_dir)
-    content_md = build_content_markdown(args.book, books_dir)
+    # Build cover, maps, and content markdown
+    cover_md = build_cover_markdown(assets_dir, arc_config)
+    map_md = build_map_markdown(assets_dir, 'map-achilles.jpeg')
+    terra_map_md = build_map_markdown(assets_dir, 'map-terra.png')
+    content_md = build_content_markdown(arc_config, books_dir)
 
-    # Extract epigraph from content (built as separate page without page numbers)
-    epigraph_md, content_md = extract_epigraph_markdown(content_md)
-    if epigraph_md:
-        print("  Epigraph extracted (separate page)")
+    # Epigraph: use hardcoded or extract from content
+    epigraph_cfg = arc_config.get('epigraph')
+    if epigraph_cfg:
+        epigraph_md = epigraph_cfg['html']
+        _, content_md = extract_epigraph_markdown(content_md)
+        print("  Epigraph: hardcoded")
+    else:
+        epigraph_md, content_md = extract_epigraph_markdown(content_md)
+        if epigraph_md:
+            print("  Epigraph: extracted from content")
 
-    # Write merged content markdown (for reference/--no-pdf)
+    # Write merged content markdown
     content_with_config = CONTENT_MD_CONFIG + content_md
-    md_output = export_dir / f"{args.book}.md"
+    md_output = export_dir / f"{args.arc}.md"
     md_output.write_text(content_with_config, encoding='utf-8')
     print(f"\nMerged markdown: {md_output}")
 
     # Write CSS files
     content_css_path = export_dir / 'book-style.css'
     content_css_path.write_text(CONTENT_CSS, encoding='utf-8')
+    cover_css = make_cover_css(arc_config)
     cover_css_path = export_dir / 'cover-style.css'
-    cover_css_path.write_text(COVER_CSS, encoding='utf-8')
+    cover_css_path.write_text(cover_css, encoding='utf-8')
     terra_map_css_path = export_dir / 'terra-map-style.css'
     terra_map_css_path.write_text(TERRA_MAP_CSS, encoding='utf-8')
     epigraph_css_path = export_dir / 'epigraph-style.css'
@@ -524,28 +638,28 @@ def main():
         print("Skipping PDF generation (--no-pdf)")
         return
 
-    pdf_output = Path(args.output) if args.output else export_dir / f"{args.book}.pdf"
+    pdf_output = Path(args.output) if args.output else export_dir / arc_config['output']
 
     try:
-        # Generate cover PDF (zero margins, full bleed)
+        # Generate cover PDF
         print("Generating cover PDF...")
         cover_md_path = export_dir / '_cover.md'
         cover_md_path.write_text(COVER_MD_CONFIG + cover_md, encoding='utf-8')
         cover_pdf = run_md_to_pdf(cover_md_path, cover_css_path)
 
-        # Generate map PDF (zero margins, full bleed)
+        # Generate Achilles map PDF
         print("Generating Achilles map PDF...")
         map_md_path = export_dir / '_map.md'
         map_md_path.write_text(COVER_MD_CONFIG + map_md, encoding='utf-8')
         map_pdf = run_md_to_pdf(map_md_path, cover_css_path)
 
-        # Generate Terra map PDF (landscape A5, full bleed)
+        # Generate Terra map PDF (landscape)
         print("Generating Terra map PDF (landscape)...")
         terra_map_md_path = export_dir / '_terra-map.md'
         terra_map_md_path.write_text(COVER_MD_CONFIG + terra_map_md, encoding='utf-8')
         terra_map_pdf = run_md_to_pdf(terra_map_md_path, terra_map_css_path)
 
-        # Generate epigraph PDF (no page numbers)
+        # Generate epigraph PDF
         epigraph_pdf = None
         if epigraph_md:
             print("Generating epigraph PDF...")
@@ -553,7 +667,7 @@ def main():
             epigraph_md_path.write_text(EPIGRAPH_MD_CONFIG + epigraph_md, encoding='utf-8')
             epigraph_pdf = run_md_to_pdf(epigraph_md_path, epigraph_css_path)
 
-        # Generate content PDF (normal margins + page numbers)
+        # Generate content PDF
         print("Generating content PDF...")
         content_md_path = export_dir / '_content.md'
         content_md_path.write_text(content_with_config, encoding='utf-8')

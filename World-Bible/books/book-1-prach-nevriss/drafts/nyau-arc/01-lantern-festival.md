@@ -3,22 +3,22 @@
 > *„A El povedala: Pusť svetlo. Nech stúpa. Nech sa dotkne hviezd a nech sa vráti ako dážď — lebo každé svetlo, čo vypustíš, sa k tebe vráti stonásobne."*
 > — Kniha El, 1:7
 
-# Kapitola 1: Lampionový Festival
+# Kapitola 1: Lampiónový Festival
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — hlavné námestie, ulice, prístav, strechy
-**Čas**: ~AY 3010, noc Lampionového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
+**Čas**: ~AY 3010, noc Lampiónového festivalu. Splň Sai. Yera má 3 zimy (~17 rokov).
 **Nálada**: Horúca, voňavá, opojná — a pod tým všetkým dusivá
 
 ---
 
-Prvý lampión vzlietol z námestia pred Chrámom El presne v okamihu, keď Sai prešiel zenith.
+Prvý lampión vzlietol z námestia pred Chrámom El presne v okamihu, keď Sai prešiel zenit.
 
-Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotel ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampionový festival, lampióny = duše stúpajúce k El]
+Yera ho sledovala z balkóna klanu Saéli — tri poschodia nad ulicami, nad miliónmi duší, za kamenným zábradlím, v hodvábnych šatách, ktoré si nevybrala. [NOTE: Nyau = 5M obyvateľov. Yera je nad nimi — doslova aj metaforicky. Najvyšší balkón najvyššieho klanu nad najväčším mestom na kontinente.] Lampión bol malý, papierový, maľovaný modrou a zlatou, a stúpal pomaly, tak pomaly, akoby váhal, či naozaj chce opustiť zem. Horúci vzduch vo vnútri ho niesol vyššie a vyššie, plamienok vnútri sa mihotal ako vzdialený podpis — *som tu, som tu, som tu* — a potom sa rozmazal medzi stovkami ďalších, ktoré sa zdvíhali zo všetkých strán mesta. [→ regions/nyau.md: Lampiónový festival, lampióny = duše stúpajúce k El]
 
 Tisíce.
 
-Papierové, hodvábne, maľované, jednofarebné, strakaté. Niektoré tvarované do kvetov, iné do vtákov, jedno — odletelo z Chrámových schodov — malo tvar El s rozprestretými rukami. Stúpali všetky naraz, v tom istom tichom okamihu, a z balkóna vyzerali ako roj svetlušiek, ktoré sa rozhodli odísť z tohto sveta a nájsť si lepší. [→ regions/nyau.md: Lampionový festival — symbolizujú duše stúpajúce k El]
+Papierové, hodvábne, maľované, jednofarebné, strakaté. Niektoré tvarované do kvetov, iné do vtákov, jedno — odletelo z Chrámových schodov — malo tvar El s rozprestretými rukami. Stúpali všetky naraz, v tom istom tichom okamihu, a z balkóna vyzerali ako roj svetlušiek, ktoré sa rozhodli odísť z tohto sveta a nájsť si lepší. [→ regions/nyau.md: Lampiónový festival — symbolizujú duše stúpajúce k El]
 
 Pod ňou mesto vybuchlo zvukom. Bubny — desiatky, stovky, basy ako srdce, malé bubienky ako dážď na plechovej streche. Flauty sa zapojili — vysoké, presné tóny, čo sa vinuli pomedzi bubnový rytmus ako dym medzi stromami. A struny. Vždy struny — dlhé, ťahané akordy, ktoré vibrovali v kameni pod nohami a v kostiach pod kožou. Hudba Nyau. Hudba, ktorú Yera poznala od prvej zimy a ktorá nikdy neznela rovnako dvakrát. [→ regions/nyau.md: hudba — bubny, flauty, struny]
 
@@ -40,9 +40,9 @@ Nikto nesedel nesprávne. Nikto sa nedíval nesprávnym smerom. Nikto sa nehýba
 
 Vôňa kadidla stúpala z Chrámu — ťažká, hustá, sladká — a pod ňou sa valila tá druhá vôňa, tá zdola, zo stánkov a námestia: grilované huby, korenie, morská soľ z prístavu, rozohriate telá stoviek ľudí stlačených na kameňoch. Voňalo to životom. Voňalo to všetkým, čo Yera nemala právo chcieť. [→ regions/nyau.md: Vôňa — kadidlo, korenie, grilované huby, nočné kvety, morská soľ]
 
-Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, El s rukami zdvihnutými k nebu, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, klzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
+Dolu na námestí sa to hemžilo. Masky — stovky masiek, zvieracie tváre, El s rukami zdvihnutými k nebu, démoni s červenými očami, duchovia v bielom. Tancujúci ľudia. Hudba na každom rohu. Deti s lampášikmi, čo sa naháňali medzi dospelými, piskot a smiech stúpajúce k balkónu. Gondoly na kanáloch, vyzdobené svetielkujúcimi kvetmi, kĺzali sa pod mostami. Stánky, stánky, stánky — jedlo, masky, farebné šatky, drobné figúrky El z hliny.
 
-*Počas festivalu sú si všetky kasty rovné.* [→ regions/nyau.md: Lampionový festival — tradícia maskovania, symbolická rovnosť]
+*Počas festivalu sú si všetky kasty rovné.* [→ regions/nyau.md: Lampiónový festival — tradícia maskovania, symbolická rovnosť]
 
 Pod maskami. Na jednu noc. Symbolicky.
 
@@ -74,9 +74,9 @@ Prvých päť krokov bolo najťažších.
 
 Nie fyzicky — fyzicky bolo všetko ľahšie. Sai v zenite, ľahká hodina. Telo plávalo. Každý krok bol plynulý, takmer tanečný — akoby ju vzduch niesol. [→ 05-geography.md: Sai v zenite — gravitácia ~1.0g, ľahká hodina]
 
-Ťažké bolo iné. Prvýkrát v živote stála na uliciach Nyau v noci bez sprievodu. Bez strážkyne. Bez klanového plášťa, bez Saéli mena na tvári. V tyrkysových hodvábnych šatách, áno, ale bez znaku, bez výšivky — zvyšok klanu mal na hrudi klanové emblémy. Yera ich nemala. Soril ich nedovolila — *kňažky nepotrebujú klanové znaky. Kňažky patria El, nie klanu.*
+Ťažké bolo iné. Prvýkrát v živote stála na uliciach Nyau a nepoznala nikoho. Nikdy nešla pešo po ulici — nikdy, ani raz, ani náhodou. Z vily do chrámu a z chrámu domov, celý život, vo voze alebo v nesúcich nosidlách, za záclonami, za múrmi, za strážkyňami. Jej tvár bolo tajomstvo — nie preto, že by bola známa, ale preto, že Saéli svoje dcéry neukazovali. Dcéra najvplyvnejšieho klanu nebola osoba — bola majetok. A majetok sa nenosí na ulicu. [NOTE: Yera nikdy nebola na ulici. 5M mesto a ona pozná len múry villy a chrámu. Strážené tajomstvo — tvár dedičky klanu Saéli nepozná nikto na verejnosti.]
 
-A tak Yera stála v dave a nikto ju nepoznal. Bola len ďalšia mačka s dlhými čiernymi vlasmi a modrými očami v meste plnom mačiek. [→ characters/Yera.md: Felis Varietas, čierne vlasy, modré oči — Pursang črta]
+A teraz stála medzi nimi. Bez sprievodu. Bez strážkyne. Len ďalšia mačka s dlhými čiernymi vlasmi a modrými očami v meste plnom mačiek. [→ characters/Yera.md: Saéli = stealth wealth. Žiadne klanové emblémy, žiadne znaky. Yera je nepoznateľná v dave — to je pointa.] [→ characters/Yera.md: Felis Varietas, čierne vlasy, modré oči — Pursang črta]
 
 *Nič sa nestalo*, povedala si. *Nič sa nestalo. Len stojím na ulici. Na ulici, po ktorej chodia tisíce ľudí.*
 
@@ -84,7 +84,7 @@ Dav ju pohltil.
 
 Hudba bola hlasnejšia dolu — nie tlmený ozvuk z balkóna, ale živá, surová, pulzujúca vec, ktorá jej vibráciami prechádzala od chodidiel cez kolená do hrude. Bubeníci na rohu námestia hrali synchrónne — štyria Mezra v maskách, bez trička, srsťou pokrytá ramená blýskajúce sa v svetle lampášov, paličky rozmazané od rýchlosti. Flautistka vedľa nich — starena so sivými fúzmi a rukami, na ktorých svietili tetované glyfy — hrala tón tak vysoký a čistý, že sa zdalo, akoby ním rezala vzduch na polovicu. [→ regions/nyau.md: hudba — bubny, flauty, struny. Tetovania na predlaktiach = makro shortcuty pre Spiru]
 
-Yera stála a počúvala. Zvuk vchádzal dovnútra a niečo v nej odpovedalo — nie Spira, nie nanotechnológia, len telo, len srdce, len to hlúpe, jednoduché, zvieracie niečo, čo cítiš, keď ťa hudba zasiahne tak hlboko, že zabudneš dýchať.
+Yera stála a počúvala. Zvuk vchádzal dovnútra a niečo v nej odpovedalo — nie Spira, len telo, len srdce, len to hlúpe, jednoduché, zvieracie niečo, čo cítiš, keď ťa hudba zasiahne tak hlboko, že zabudneš dýchať.
 
 Prúd ľudí ju unášal ďalej.
 
@@ -118,7 +118,7 @@ Vtedy to uvidela.
 
 Infera.
 
-Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvieta červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť. [→ 05-geography.md: Infera = ARK-13 Prometheus, červená „hviezda" na orbite]
+Vysoko nad hlavou, vyššie než lampióny, vyššie než Sai, sa po oblohe sťahovala červená bodka. Nie hviezda — hviezdy sa nehýbu. Nie lampión — lampióny nesvietia červeno. Pomaly, neúprosne, s neľudskou presnosťou sa pohybovala po oblúku od východu na západ. Červená, studená, neprirodzeným svetlom žiariaca vec na oblohe, ktorá nemala čo tam robiť. [→ 05-geography.md: Infera = ARK-13 Prometheus, červená „hviezda" na orbite]
 
 *Diablovo Oko.*
 
@@ -130,7 +130,7 @@ Otočila sa a odišla.
 
 Na konci mostu ju niekto chytil za lakeť.
 
-Stuhla. Srdce — dve údery, tri — a potom sa otočila. Stará žena. Pursang mačka s bielymi vlasmi a hodvábnym šálom, oči žmúriace cez masku kvetinového démona. Poznala tie oči. Známa z klanu — manželka niekoho, kto sedával s otcom na poradách.
+Stuhla. Srdce — dva údery, tri — a potom sa otočila. Stará žena. Pursang mačka s bielymi vlasmi a hodvábnym šálom, oči žmúriace cez masku kvetinového démona. Poznala tie oči. Známa z klanu — manželka niekoho, kto sedával s otcom na poradách.
 
 *„Yerana? Si to —"*
 
@@ -142,11 +142,11 @@ Stará žena zaváhala. Pozrela na šaty — chrámovú farbu, bosé nohy, masku
 
 Yera vydýchla. Ruky sa jej triasli — jemne, sotva viditeľne, ale triasli. *Skoro.* Tak blízko. Jedno slovo, jeden zdvihnutý šál, a otec by vedel do hodiny. [NOTE: Mikro-konflikt — Yera sa takmer prezradí. Zvyšuje stakes jej tajného výletu. Nie je to bezpečná hra — je to risk. A Yera to vie a ide ďalej.]
 
-Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a páchla soľ a olej.
+Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bubnov, smerom dnu do chladnejších prístavných uličiek, kde hudba slabla a voňala soľ a olej.
 
 ---
 
-Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviacé laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
+Bočná ulica pri prístave bola iná. Tu nedosahoval festival — alebo dosahoval, ale len okrajmi. Vzdialená hudba. Pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviace laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
 
 Cvrčky a cikády splývali do jedného stáleho tónu — zvukovej tapety, cez ktorú sa dalo dýchať. Svetlušky poletovali nad hladinou kanálu — modré, tyrkysové bodky, živé hviezdy pri zemi. [→ regions/nyau.md: svetlušky, cvrčky a cikády = stála zvuková a svetelná kulisa Nyau v noci]
 
@@ -156,7 +156,7 @@ Chlapec sedel na schode.
 
 Opretý chrbtom o stenu skladiska, nohy pred sebou, fľaša tmavého skla v ruke. Maska — leopardia, drevená, lacná — mu visela na krku, odsunutá, nepotrebná. Nemusel sa skrývať. Nemal pred kým. [→ characters/Arkot.md: Mezra leopard z Beladiss, navigátor]
 
-Mezra. Leopard. Yera to videla okamžite — tmavá koža, leopardie škvrny na krku a ramenách, kde rozopnutá košeľa obnažovala hruď. Tmavé vlasy, neupravené, spadajúce do čela. A oči — keď sa na ňu pozrel — tmavozelené, hlboké, pokojné. Oči bytosti, ktorá vie, že nikam nepatrí, a zmierila sa s tým. [→ regions/nyau.md: Mezra = nižšia kasta. Pursang + Mezra = absolútne neprípustné]
+Mezra. Leopard. Yera to videla okamžite — tmavá koža, leopardie škvrny na krku a ramenách, kde rozopnutá košeľa obnažovala hruď. Tmavé vlasy, neupravené, spadajúce do čela. A oči — keď sa na ňu pozrel — jantárovzelené, hlboké, pokojné. Oči bytosti, ktorá vie, že nikam nepatrí, a zmierila sa s tým. [→ regions/nyau.md: Mezra = nižšia kasta. Pursang + Mezra = absolútne neprípustné]
 
 Bol trochu opitý. Nie dosť na to, aby nevidel. Dosť na to, aby mu bolo jedno, čo vidí.
 
@@ -166,7 +166,7 @@ Lampión preletel nad ulicou — osamotený, oneskorený, jeden z posledných, �
 
 Hlas bol pokojný. Trochu chrapľavý — od vína, od noci, od samoty. Nebol to podvádzajúci hlas. Nebol to hlas muža, čo sa prihovára dievčatám. Bola to otázka. Skutočná otázka bytosti, ktorá sedela sama na schodoch a videla niekoho, kto vyzerá rovnako stratený.
 
-Yera stuhla. Ruka jej automaticky vystrelila k tvári — *zakryť, schovať, odísť* — no prsty už klopli iba na chladné lakované drevo masky, ktorá bola po celý ten čas s ňou. Prvý raz si vydýchla a ostala sedieť na mieste s ušitými perami.
+Yera stuhla. Ruka jej automaticky vystrelila k tvári — *zakryť, schovať, odísť* — no prsty už klopli iba na chladné lakované drevo masky, ktorá bola po celý ten čas s ňou. Prvý raz si vydýchla a ostala stáť na mieste so zaťatými perami.
 
 „Nie," povedala. [→ books/planning/yera-arc-novela.md: Beat 3 — „Stratila si sa?" / „Nie." (Ale áno.)]
 
@@ -175,7 +175,7 @@ Pauza. Vzdialená hudba doľahla až k nim; pomalší, tiahly rytmus strún z n�
 Chlapec zvoľna ukázal na fľašu vo svojich rukách.
 „Víno?“ spýtal sa jednoducho.
 
-Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Príliš surové pre dcéru Saéli.
+Yera pozrela na tmavé sklo, mastnotu na hrdle. Lacné víno námorníkov z prístavných krčiem. Stálo menej než kvetinový aranžmán na balkóne, z ktorého práve ušla. [NOTE: Kontrast sveta — Arkot ponúka to najlepšie čo má (víno za pár mincí). Pre neho je to gesto. Pre Yeru je to prvý kontakt s niečím lacným v celom živote. Arkot netuší, s kým hovorí — pre neho je len dievča s maskou.]
 
 Natiahla ruku a vzala si ju.
 
@@ -199,6 +199,8 @@ Okolo nich sa mihal vír masiek, tiel a lampiónov. Arkot ju viedol isto, drzo a
 
 Zatočil ňou, a vtedy sa to stalo — hlava sa jej z tej rýchlosti, vína a davu zatočila, dvakrát neisto prešľapla na dlažbe, úplne mimo rytmus ostatných. No on voľnú ruku pevne navinul na jej obruč nad pásom a strhol ju opäť k hudbe, hladko a bez jedinej myšlienky odporu z oboch strán. Svet okolo stratil ostré hrany. Ulice, masky, svietiace kanály, poskakujúce plamienky — všetko sa zlialo do jednej krásnej, rozmazanej šmuhy tepla a zvuku. V tom víre farieb a pohybu, s dlaňou pevne zovretou v ruke cudzieho chlapca, mala zrazu pocit stopercentnej, nezvratnej jasnosti. Všetko dávalo zmysel. Tu, uprostred spoteného, prístavného davu.
 
+![Yera & Arkot](../../../../assets/characters/Yera/yera-arkot-dancing.png)
+
 Keď struny dospeli do búrlivého finále a tanec odznel, odfúkli si, opretí o seba ramenami, dýchajúc zrýchlene. Vymanili sa z hlavného prúdu námestia a opäť zišli do tichšieho tieňa skladísk.
 
 Arkot stál blízko nej a potom pomaly kývol bradou hore k oblohe.
@@ -217,7 +219,7 @@ A potom zdvihla hlavu.
 
 Celé mesto ležalo pod ňou — ale inak než z balkóna. Bližšie. Skutočnejšie. Odtiaľto videla ľudí, nie siluety — pár na moste, čo sa držal za ruky, gondoliera, čo spieval, deti, čo behali s poslednými lampášmi. Kanály svietili — kvety, čo kňažky zhodili zo schodov Chrámu, doplávali až sem a premenili vodu na rieky tyrkysového svetla. [→ regions/nyau.md: Chrámový obrad — kvety hádzané do kanálov, voda sa zmení na rieky svetla]
 
-A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú.
+A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú. [→ regions/nyau.md: vzducholode sú počas Lampionového festivalu grounded — jediný deň, keď obloha patrí lampiónom. Zvyšok roka sú nad mestom stále — osvetlené lampami a modrými bioluminiscenčnými svetlami.]
 
 Sai. Hviezdy. Obzor, kde sa more stretalo s nebom. [→ 05-geography.md: Sai — jantárový mesiac s prstencom, splň]
 
@@ -234,7 +236,7 @@ Nie preto, že to nikdy nevidela. Videla to každý večer. Z balkóna, z izby, 
 
 „Odkiaľ si?" spýtala sa. Otázka vyšla skôr, než ju stihla zastaviť. [→ characters/Yera.md: Hovorí cez otázky, nie tvrdenia]
 
-Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj- poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
+Chlapec sedel vedľa nej na okraji strechy, nohy visiace nad troj-poschodovou priepasťou, fľaša medzi kolenami. Neotočil sa. Pozeral na mesto.
 
 „Beladiss," povedal. „Diss." [→ regions/nyau.md: Beladiss — rybárske dediny, biele útesy]
 
@@ -288,7 +290,7 @@ Arkot pozeral na hviezdy. Dlho. Tým pohľadom, ktorý patrí ľuďom zvyknutým
 
 „Vieš..." povedal pomaly, „...veria tomu ľudia v Nyau? Že predkovia prišli odtiaľ?" Kývol bradou k oblohe. Nie k Sai — ďalej. K hviezdam za ním.
 
-Yera si ich zmerala. Poznala ich. Mená, súhvezdzia, navigačné osi.
+Yera si ich zmerala. Poznala ich. Mená, súhvezdia, navigačné osi.
 
 „Áno," povedala. „Píše sa to v Knihe El." [NOTE: Foreshadowing — Yera cituje Knihu El ako autoritu. V tomto momente je to pre ňu svätý text. Neskôr v Ch2 (Čierna kniha) uvidí originál — kompletný, neporušený, so všetkým čo biela Kniha neprevzala. A ešte neskôr — Maks sa prebudí a bude živý dôkaz, že ľudia naozaj prišli z hviezd. Yerin citát tu je nevinný. Retroaktívne dostane váhu. → the-book-of-El.md: Kniha El obsahuje Elaniine spomienky na Zem — Cirkev ich číta ako mýtus o „pred-stvorení". Sú to skutočné spomienky skutočnej ženy na skutočnú planétu.]
 
@@ -344,7 +346,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Ľanové plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, vhŕknutý vôňou kvetov a kadidla a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
@@ -378,7 +380,7 @@ Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými
 
 ---
 
-[NOTE: NOVÁ ŠTRUKTÚRA — Kapitola 1 = Lampionový festival. Otvorenie celého arcu. Čitateľ vstupuje priamo do exotického sveta Nyau v najkrajší moment. Romantika, exotika, teplo, mágia. Klietka je cítiť, ale ešte ju nedominuje — festival je sloboda, aj keď len na jednu noc.]
+[NOTE: NOVÁ ŠTRUKTÚRA — Kapitola 1 = Lampiónový festival. Otvorenie celého arcu. Čitateľ vstupuje priamo do exotického sveta Nyau v najkrajší moment. Romantika, exotika, teplo, mágia. Klietka je cítiť, ale ešte ju nedominuje — festival je sloboda, aj keď len na jednu noc.]
 
 [NOTE: Kapitola 2 (pôvodná „Prvé Svetlo") = Prebudenie do reality. Chrám, strom, Soril, otec, zasvätenie. Kontrast s festivalom — zo slobody do klietky. „Kedy som prestala vidieť?" dostáva iný význam.]
 
@@ -391,7 +393,7 @@ Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými
 [NOTE: MASKA ZADARMO — predavač masiek dá Yere masku zadarmo. Nie z charity — z komunity. Festival ruší hierarchie. Yera si zvykla platiť menom, nie peniazmi. Tu je prvýkrát nikým — a dostáva viac. Jedlo nekupuje — nemá peniaze. Stojí, vonia, ide ďalej. Jeden dar zadarmo stačí — a maska je silnejší symbol.]
 
 [→ Celá kapitola vychádza z Beat 2 + Beat 3 z books/planning/yera-arc-novela.md]
-[→ Festival: regions/nyau.md — Lampionový festival, jedlo, masky, chrámový obrad]
+[→ Festival: regions/nyau.md — Lampiónový festival, jedlo, masky, chrámový obrad]
 [→ Arkot: characters/Arkot.md — Mezra leopard, Beladiss, navigátor]
 [→ Yera voice: characters/Yera.md — tichá, premyslená, pýta sa otázky, nie tvrdenia]
 [→ Infera: 05-geography.md — ARK-13, Diablovo Oko, červená „hviezda"]

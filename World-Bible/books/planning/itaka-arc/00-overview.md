@@ -27,8 +27,8 @@
 | **Flint** | Strelec, Arkotov najlepší priateľ | Mŕtvy (zastrelený pri zatýkaní) |
 | **Tami** | Kapitánka Itaky | Prežije — nie je prítomná pri zatýkaní |
 | **Felix** | Mako (Unit 734, Einstein v4.2), strážca Kitsune | Vedľajšia postava |
-| **Borg** | Ghorki medveď, strelec pri kanóne | Vedľajšia postava |
-| **Nix** | Mezra králik, mechanik | Vedľajšia postava |
+| **Borg** | Ghorki medveď, strelec pri kanóne (pridá sa v Raiju) | Vedľajšia postava |
+| **Nix** | Mezra králik, mechanik (pridá sa v Raiju) | Vedľajšia postava |
 
 ---
 

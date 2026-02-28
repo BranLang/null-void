@@ -102,23 +102,89 @@ Elania odišla so Serou (~AY 863) a zápisník **nechala za sebou** — v jaskyn
 
 ### Čo napísal
 
-Samaell pridal vlastné kapitoly — jeho POV, v čistej Staroreči (vojenská angličtina, jazyk ARK-13). Obsah:
+Samaell pridal vlastné kapitoly — jeho POV, v **nemčine** (jeho rodný jazyk — rakúsky pôvod). Obsah:
+[NOTE: Samaellova nemčina ≠ Staroreč. Staroreč = angličtina (vojenský štandard Zeme, Maksov jazyk). Samaell písal po nemecky — osobný jazyk, nie vojenský kód. Pre Cirkev El je to rovnako nečitateľné ako angličtina. Pre Maksa — iný problém: rozpozná, že to je jazyk zo Zeme, ale nie JEH jazyk. Fragmenty Samaellovej esencie v ňom však text „cítia."]
+[→ characters/Samaell.md: rakúsky pôvod, ARK-13 Prometheus]
 - **ARK-13** — čo sa skutočne stalo na lodi. 700 rokov. Alpha Centauri prázdna. Kanibalizmus nanobotov na prežitie. **Mená všetkých štyroch preživších: Ishtar, Grond, Mormiel, Samaell.** Toto je pre Maksa spravodajský briefing — prvýkrát sa dozvie mená svojich nepriateľov.
 - [ ] Jeho pohľad na Elaniu — nie teologický, nie romantický, surový
 - [ ] Možno aj o Inetis — čo pre neho znamenala (nie Elania — Inetis bola tá, ktorú chcel)
 - [ ] Hľadanie po tom, čo Elania odišla — samota, rozpad, Glitch Rot
 
-### Zmiešané strany
+### Desivé strany — Samaellova degradácia (posledné mesiace pred Serou)
 
-Posledné strany Knihy sú **zmiešané** — Elaniin a Samaellov rukopis na tých istých stranách. Dva hlasy, jedna kniha. Nie dialóg — skôr palimpsest:
-- Elania písala posledné zápisky pred odchodom (fáza rozpadu, drogy, spirálové čmáranice)
-- Samaell našiel tieto strany a **písal medzi riadky, na okraje, cez jej text** — reagoval na jej slová, odpovedal na otázky, ktoré mu nikdy nepoložila
+Elaniine zápisky z posledných mesiacov so Samaellom sú **najtemnejšia časť Knihy**. Rukopis sa rozpadá — trasúca sa ruka, spirálové čmáranice na okrajoch, niektoré slová škrtané trikrát. Psychotropné huby robili svoje.
 
-Podpis pod Samaellovým portrétom — *He* — mohol napísať **Samaell sám** pod kresbu, ktorú nakreslila **Elania**. Jedno slovo. Potvrdenie: *áno, to som ja. Toto je to, čo zo mňa zostalo.*
+Obsah:
+- **Samaell chodil po štyroch okolo ohňa.** Rozprával v nezrozumiteľnom jazyku — fragmenty Staroreči zmiešané s niečím starším, niečím čo Elania nepoznala. Nie reč — skôr zvuk. Mručanie, opakovanie, rytmické kvílenie do plameňov.
+- **„Boh nechodí po štyroch."** Elaniina veta — možno najdôležitejšia v celej Knihe. Realizácia, že bytosť, s ktorou strávila roky, nie je to, za čo sa vydávala. Nie boh, nie vládca — niečo rozpadajúce sa. Niečo, čo stratilo schopnosť stáť vzpriamene a nevedelo o tom.
+- **Nočné rituály** — Samaell sedel pri ohni celé noci. Elania písala, že plamene sa pohybovali *s ním* — nie náhoda, nie vietor. Nanoboty v jeho tele reagovali na oheň. Ale Elania to nevedela pomenovať. Pre ňu to bolo *zlé kúzlo*.
+- **Huby** — Elania ich konzumovala tiež. Niektoré zápisky sú evidentne písané pod vplyvom — text sa krúti, opakuje, stráca zmysel. Ale aj v tých najzmätenejších pasážach sa vracia jedno slovo: *Matka*.
+- Posledné strany tejto fázy sú **takmer nečitateľné** — spirálové čmáranice, opakujúce sa glyfy, fragmenty viet. Ruka, ktorá sa trasie tak, že pero robí diery do pergamenu.
+
+[→ characters/Samaell.md: „Pridal sa k rituálu — chodil po štyroch okolo ohňa, rozprával príbehy z ciest v nezrozumiteľnom jazyku." 2000+ rokov Glitch Rot.]
+[→ characters/Elania.md: „roky psychotropných húb, roky na zemi, roky so Samaellom ju zničili"]
+[NOTE: „Boh nechodí po štyroch" — toto je veta, ktorá sa stala teologickým axiómom Cirkvi El. Osadníci ju prevzali ako dôkaz, že Samaell = démon. V bielej Knihe je citovaná. V origináli je to Elaniin zúfalý zápis — nie teológia, ale diagnóza.]
+
+### Posledné strany — Anjel
+
+A potom — **zlom**. Rukopis sa zrazu zmení.
+
+Ruka sa menej trasie. Písmená sú čistejšie, rovnejšie — prvýkrát za desiatky strán. Akoby niekto chytil tú ruku a povedal *dosť*. Akoby sa niečo vrátilo.
+
+Elania opisuje bytosť:
+- **Krásna.** Čistá. Múdra. Vznešená. Slová, ktoré Elania nepoužívala stáročia — zrazu sú tu, akoby jazyk, ktorý stratila v tmavých rokoch, sa vrátil spolu s touto bytosťou.
+- **Poslala ju Matka.** Elania to napíše s istotou, ktorá sa nevyskytuje nikde inde v Knihe. Nie „myslím", nie „snáď." *Matka ju poslala.* Tento anjel prišiel, lebo Matka to chcela.
+- **Neviditeľná.** V jednom zápisku Elania zmieňuje, že anjel prišiel *z ničoho* — z prázdneho miesta, z ticha. Objavila sa tam, kde pred chvíľou nikto nebol. Pre Elaniu zázrak. Pre Seru — nanobotová neviditeľnosť, štandardná taktika.
+- **Bez strachu.** Anjel sa nebála Samaella. Nebála sa ohňa, noci, húb, ničoho. Bola *nad* tým všetkým. A Samaell to vedel — Elania píše, že *démon sa prvýkrát nehýbal*.
+
+Zápisky sú plné **nádeje**. Prvýkrát za desiatky strán — nádej. Nie šialená, nie drogová. Tichá, jasná nádej. Elania píše o domove. O ceste. O tom, že anjel pozná cestu.
+
+Posledný Elaniin zápis:
+
+***„Zajtra ideme domov."***
+
+Tri slová. Čistý rukopis. Žiadne spirály, žiadne čmáranice. Len toto.
+
+[→ characters/Sera.md: Sera našla Elaniu, bodla Samaella neviditeľná, zobrala ju do Ludus. „anjel vyhnal démona" — mýtus, ktorý z toho vznikol.]
+[→ characters/Elania.md: „Sera prišla po ňu. Elania bola v zúboženom stave — roky psychotropných húb ju zničili. Sera ju zobrala do Ludus."]
+[NOTE: Sera bodla Samaella do srdca kým bola neviditeľná — Samaell mal schopnosť zabiť pohľadom. Elania tento moment neopisuje priamo — bola príliš rozbitá na to, aby vnímala detaily. Videla len výsledok: démon na zemi, anjel stojí nad ním. → Samaell PREŽIL (regenerácia), ale Sera to nevedela. → characters/Samaell.md: „Srdce mu regenerovalo. Sera o tom nevedela."]
+[NOTE: „Poslala ju Matka" — Elania verí, že Inetis poslala Seru. V istom zmysle to je pravda — Inetis dala Sere pokyn „Dávaj pozor na moju dcéru" pred svojou smrťou. Sera ten sľub plnila 850 rokov. → characters/Sera.md]
+[NOTE: CIRKEVNÝ DOPAD — Elániin opis anjela sa stal základom cirkevnej teológie. „Neviditeľný anjel" = duchovná moc čistoty a viery. Strážkyne sa pokúsili túto schopnosť replikovať cez Kvintescenciu — a podarilo sa im to. Soril naučila Yeru neviditeľnosť, ktorú sa sama naučila z tohto opisu. A Yera tú neviditeľnosť použije na krádež Knihy. Irónia cyklu: Serino bojové umenie → Elaniin zápis → cirkevná mystika → Kvintesencia training → krádež svätej relikvie.]
+
+### Posledná strana — Samaell
+
+Po Elaniiných troch slovách — *„Zajtra ideme domov"* — nasleduje prázdne miesto. Pol strany čistého pergamenu. A potom — **iný rukopis**.
+
+Nemčina. Tvrdé, ostré písmená — nie trasúce sa ako Elaniine, ale tvrdé inak. Ruka, ktorá píše príliš hlboko, pero sa zarezáva do pergamenu.
+
+Samaell našiel Knihu po ich odchode. Našiel posledné slová — *„Zajtra ideme domov"* — a písal pod ne. Na okraje. Medzi riadky predošlých strán. Cez Elaniin text.
+
+Nie dialóg. Palimpsest — **dva hlasy, jedna kniha, žiaden z nich nepočúva toho druhého.**
+
+Samaell reagoval na jej slová, odpovedal na otázky, ktoré mu nikdy nepoložila. Písal pre niekoho, kto tam už nebol.
+
+Jedna veta je čitateľná celá — nemčina, pero zarezané hlboko do pergamenu:
+
+***„Ich habe sie alle getötet und ihre Eingeweide gefressen, während sie weinten."***
+
+*(Zabil som ich všetkých a žral som ich vnútornosti, kým plakali.)*
+
+Konfesia. Alebo provokácia. Alebo oboje — Samaell vidí Elaniin *„Zajtra ideme domov"* a odpovedá pravdou o sebe. Nie ospravedlnenie, nie vysvetlenie. Len fakt. ARK-13 — 700 rokov na lodi, stovky mŕtvych, štyria prežili. Nanobotový kanibalizmus preložený do ľudského jazyka. Bez metafory. Bez útechy. *Toto som ja. Toto je to, čo zo mňa zostalo.*
+
+[NOTE: Nikto na Achille nerozumie nemčine. Staroreč = angličtina (Maksov jazyk). Nemčina = Samaellov osobný jazyk (rakúsky pôvod). Pre Cirkev El, pre Yeru, pre Soril — rovnako nečitateľné „démonove kliatby." Jediný, kto to dokáže dešifrovať, je **Felix** — Mako s prístupom k jazykovým databázam Zeme. Toto je plot key: Samaellova konfesia čaká 2000 rokov na čitateľa, ktorý ešte neprišiel.]
+
+Podpis pod Samaellovým portrétom — *He* — mohol napísať **Samaell sám** pod kresbu, ktorú nakreslila **Elania**. Jedno slovo. Potvrdenie identity. Alebo obžaloba.
+
+[NOTE: Chronológia — Elania a Sera odišli. Samaell prišiel neskôr. Našiel ohňisko, ktoré ešte dymilo. Našiel Knihu. Nie Elaniu. Toto je posledný kontakt medzi nimi — jednosmerný, cez pergamen, cez stáročia.]
+[NOTE: Samaellove strany sú v nemčine — nikto na Achille ju nevie prečítať. Pre Cirkev = „démonove kliatby." Pre Maksa = rozpozná písmo zo Zeme, ale nie JEH jazyk (Maks = ukrajinčina/angličtina). Fragmenty Samaellovej esencie v ňom však reagujú na text — viscerálne, nie intelektuálne. Maks *cíti* význam skôr než ho rozumie. Pre úplný preklad potrebuje **Felixa** — Mako s jazykovými databázami Zeme.]
+[NOTE: Kontrast — Elaniina posledná veta: „Zajtra ideme domov." Samaellova posledná veta: „I killed them all, and ate their guts, while they cried." Nádej vs. tma. Odchod vs. ostatie. Tri slová svetla, jedna veta krvi. Rovnaká kniha.]
 
 ### Čo z toho vidí Cirkev El
 
-- Strany v Staroreči = **„démonove kliatby"** — Cirkev ich nevie prečítať, ale NIKDY ich nevystrihla. Originál je svätý — nedotknuteľný. Samaellove strany sú v Knihe dodnes, kompletné, neporušené.
+- **„Boh nechodí po štyroch"** — prevzaté do bielej Knihy ako axióm. Dôkaz, že Samaell = démon. V origináli = Elaniin zúfalý zápis, nie teológia.
+- **Opis anjela** — základ cirkevnej teológie. Krásny, čistý, neviditeľný, poslaný Matkou. Strážkyne sa pokúsili neviditeľnosť replikovať cez Kvintescenciu — a **podarilo sa im to**. Každá Strážkyňa sa učí neviditeľnosť.
+- **„Zajtra ideme domov"** — Cirkev číta ako prorocký prísľub Nanebovstúpenia. El odchádza s anjelom do „domova" = na druhú stranu. V skutočnosti: Sera ju zobala do Ludus.
+- Strany v nemčine = **„démonove kliatby"** — Cirkev ich nevie prečítať (nepoznajú žiaden jazyk Zeme), ale NIKDY ich nevystrihla. Originál je svätý — nedotknuteľný. Samaellove strany sú v Knihe dodnes, kompletné, neporušené.
 - Cirkev tieto strany neprevzala do bielych kópií — označila ich ako „démonovu kontamináciu" a ignorovala. Ale v origináli sú všetky.
 - Zmiešané strany na konci = „démon sa pokúšal znesvätiť Knihu" — v skutočnosti: dvaja zlomení ľudia písali do tej istej knihy, každý sám, každý o tom druhom
 - **PRAVIDLO: Originál Knihy El je KOMPLETNÝ. Žiadna strana nikdy nebola vystrihnutá. Preto existuje Strážkyňa — jedna žena, ktorá pozná celú pravdu a chráni Knihu neporušenú. Keby Cirkev strany strihala, nepotrebovala by Strážkyňu.**
@@ -128,9 +194,9 @@ Podpis pod Samaellovým portrétom — *He* — mohol napísať **Samaell sám**
 **Kontext**: Maks zabil Samaella v AY 3001 — ale **nevedel koho zabíja**. Samaell bol len tieň, ktorý ho prenasledoval. 2000+ rokov Glitch Rot degradácie ho zmenili natoľko, že Maks ho nepoznal — už to nebol ten človek, ktorého kedysi poznal na Zemi/v ARK ére. Maks absorboval jeho Wraitha a 13 rokov nosil v sebe cudzie inštinkty, paranoju, fragmenty spomienok — bez toho, aby vedel, komu patria.
 
 Keď sa Maks dostane ku Knihe (~AY 3014):
-- Rozpozná **Staroreč** — vojenský štandard Zeme, jeho vlastný jazyk
-- Číta Samaellove kapitoly a spozná **hlas** — nie z Knihy. **Zvnútra.** Fragmenty Samaellovej esencie, ktoré nosí 13 rokov, sa zrazu spoja s textom na pergamene. Docvakne.
-- **Spravodajský briefing**: Z Samaellových kapitol sa dozvie, čo sa stalo na ARK-13, a prvýkrát zistí **mená všetkých Archbésov — Ishtar, Grond, Mormiel, Samaell.** Doteraz boli bezmenné hrozby. Teraz majú mená, históriu, motivácie.
+- Rozpozná **nemčinu** — jazyk zo Zeme, ale nie jeho. Maks hovorí anglicky/ukrajinsky. Nemčinu pozná len pasívne — z vojenskej éry, fragmenty.
+- **Viscerálna reakcia**: Samaellove fragmenty v ňom reagujú na text. Nie rozumom — telom. Maks *cíti*, že tie slová sú pravdivé, skôr než im rozumie. Nevoľnosť, spomienky, ktoré nie sú jeho.
+- **Felix ako prekladateľ**: Maks potrebuje Felixa (Mako s jazykovými databázami Zeme), aby text preložil. Felix prečíta *„Ich habe sie alle getötet..."* a pochopí. **Toto je spravodajský briefing**: Z Samaellových kapitol sa dozvedia, čo sa stalo na ARK-13, a prvýkrát zistia **mená všetkých Archbésov — Ishtar, Grond, Mormiel, Samaell.**
 - **Realizácia**: Zabil som ho. Absorboval som ho. Je súčasťou mňa 13 rokov. A nevedel som ani jeho meno.
 - Elaniine strany sú pre Maksa niečo iné — hlas jeho dcéry, ktorú nikdy nepoznal, citujúcej ženu, ktorú miloval
 
@@ -138,7 +204,7 @@ Keď sa Maks dostane ku Knihe (~AY 3014):
 
 [NOTE: Wordplay — Sama-EL / Book of EL. „El" ich spája. V hebrejčine El = Boh, Sama-El = „Jed Boha." Na Achille El = Elania. Samaell nesie v mene tú, kvôli ktorej sa stratil — ale v skutočnosti chcel Inetis, nie Elaniu. Elania bola náhrada. A predsa — napísal do jej knihy.]
 [→ characters/Samaell.md: ARK-13, vzťah s Elaniou, smrť AY 3001]
-[→ 03-technology.md: Staroreč = anglické CLI príkazy, vojenský štandard Zeme]
+[→ 03-technology.md: Staroreč = anglické CLI príkazy, vojenský štandard Zeme. Samaellova nemčina ≠ Staroreč.]
 [→ characters/Maks.md: absorpcia Samaellovho Wraitha, fragmenty spomienok]
 
 ---
@@ -182,6 +248,20 @@ Fyzicky je kniha v relikviári z bielo-modrého kameňa (bioluminiscenčný mram
 - [→ 01-timeline.md: AY 850-900, Eláníne putovanie]
 - [→ 05-geography.md: Jaskyňa Ela, bioluminiscenčné lesy]
 - [→ concepts/antenna-essence-transfer.md: Anténa v jaskyni]
+
+## Osud Knihy El po krádeži
+
+### Kitsune — Felix dešifruje Samaellovu konfesiu (~AY 3010)
+- Yera trávi dlhé večery s Felixom. Ukáže mu nemecký text. Felix ho prečíta okamžite.
+- Felix jej povie: Samaell je mŕtvy (AY 3001, zabitý Exorcistom). Samaell bol čisté zlo — predátor, kanibál.
+- **Yera pochopí, že romantizovala kanibala.** Celú Knihu čítala zle — videla milostníka, kde bol predátor.
+- **Dôsledky:** Yera Knihu **schová** a už o nej nikdy nehovorí. Výčitky, spochybňovanie seba. Všetko, čomu verila (že vidí pravdu lepšie než Soril, že vzdor mal zmysel), sa zrúti. Vzťah s Arkotom **začne škrípať** — nie kvôli filozofii, ale kvôli prázdnej izbe. Yera trávi večery s Felixom namiesto Arkota. Dlhé rozhovory, otázky, objavovanie — fascinovaná živou encyklopédiou. Arkot vidí, že ju stráca, a nedokáže s tým súťažiť. Prvá trhlina.
+
+[→ books/planning/itaka-arc/02-kitsune.md: BEAT 2.5 — Večery s Felixom]
+[→ characters/Yera.md: definičná chyba — číta, myslí si že chápe, mlčí, nemá pravdu]
+[NOTE: Kniha El zostáva u Yery — schovaná, neotvorená. Nikto nevie, že ju má. Toto vytvára ticking bomb pre neskorší arc — Maks Knihu potrebuje, ale Yera ju drží a mlčí.]
+
+---
 
 ## Otvorené otázky
 
