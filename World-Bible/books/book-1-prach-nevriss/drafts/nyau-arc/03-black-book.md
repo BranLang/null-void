@@ -38,13 +38,13 @@ Prvý raz od záhrady pohľad mimo Yeru — dole, na kované dvere, akoby sa roz
 
 Zdvihla pravú ruku.
 
-Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
+Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintesenciu — jediná v Nyau]
 
 Yera stuhla.
 
-Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby niečo v jej tele odpovedalo na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintescenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
+Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby niečo v jej tele odpovedalo na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintesenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
 
-Vedela o Kvintescencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
+Vedela o Kvintesencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
 
 Dvere sa otvorili bez zvuku.
 
@@ -52,7 +52,7 @@ Dvere sa otvorili bez zvuku.
 
 Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
 
-Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
+Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintesencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
 
 Yera nedýchala.
 
@@ -230,7 +230,7 @@ Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril h
 
 *„Áno."*
 
-Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintescenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
+Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintesenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
 
 Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Strážkyňa, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred desiatimi zimami. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
 

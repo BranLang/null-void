@@ -26,7 +26,7 @@ Prsty sa zachveli. Glyf na predlaktí — akvamarínové línie — zablikal. Ra
 
 Dvere sa otvorili.
 
-Soril nič nepovedala. Ale Yera videla ten pohyb — obočie, o milimeter, ten istý, čo bol pochvalou od prvého dňa. A potom, tichšie: *„Choď dolu, keď budeš pripravená. Nie skôr."* [NOTE: Soril učí Yeru otvárať glyf-zámok Kvintesenciou. Kvintesencia je tajomstvo popísané v origináli Čiernej knihy — Elaniin technický zápis piateho elementu, ktorý Cirkev nikdy neprevzala do bielej kópie. V celom Nyau ju ovláda len Soril — a teraz Yera. Nikto iný o nej nevie. Akt dôvery — Soril odovzdáva najväčšie tajomstvo Chrámu svojej nástupkyni. Pedagogický zámer: nech Yera číta sama, nech si vytvorí vlastný vzťah k textu. IRÓNIA: rovnaká Kvintesencia, ktorú jej Soril teraz ukazuje, Yera neskôr použije na krádež Knihy + neviditeľnosť pri úteku. Soril doslova kuje zbraň, ktorá ju zraní. → 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. → the-book-of-El.md: Elaniin glyf-výkres v origináli = technická dokumentácia Kvintescencie.]
+Soril nič nepovedala. Ale Yera videla ten pohyb — obočie, o milimeter, ten istý, čo bol pochvalou od prvého dňa. A potom, tichšie: *„Choď dolu, keď budeš pripravená. Nie skôr."* [NOTE: Soril učí Yeru otvárať glyf-zámok Kvintesenciou. Kvintesencia je tajomstvo popísané v origináli Čiernej knihy — Elaniin technický zápis piateho elementu, ktorý Cirkev nikdy neprevzala do bielej kópie. V celom Nyau ju ovláda len Soril — a teraz Yera. Nikto iný o nej nevie. Akt dôvery — Soril odovzdáva najväčšie tajomstvo Chrámu svojej nástupkyni. Pedagogický zámer: nech Yera číta sama, nech si vytvorí vlastný vzťah k textu. IRÓNIA: rovnaká Kvintesencia, ktorú jej Soril teraz ukazuje, Yera neskôr použije na krádež Knihy + neviditeľnosť pri úteku. Soril doslova kuje zbraň, ktorá ju zraní. → 03-technology.md: Kvintesencia = piaty element, vedomie, príkazový kód. → the-book-of-El.md: Elaniin glyf-výkres v origináli = technická dokumentácia Kvintesencie.]
 
 Yera bola pripravená od chvíle, keď dvere odpovedali.
 
@@ -240,7 +240,7 @@ Yera zopakovala: *„Kurzy."*
 
 *„Kurzy. Ak vieš kde si a vieš kam chceš ísť — stačí uhol. Jeden uhol. Jeden správny uhol a more ťa tam dovezie."*
 
-Usmial sa. Ten jeho pomalý, lenivý úsmev — ten, ktorý videla prvýkrát na streche skladiska pri Lampionovom festivale. Úsmev muža, čo nie je nikdy v zhone, lebo vie, že svet sa nikam nehýbe.
+Usmial sa. Ten jeho pomalý, lenivý úsmev — ten, ktorý videla prvýkrát na streche skladiska pri Lampiónovom festivale. Úsmev muža, čo nie je nikdy v zhone, lebo vie, že svet sa nikam nehýbe.
 
 Yera sa naň dívala a myslela na to, aké by to bolo, keby v živote existoval len jeden uhol. Jeden smer. Jedno rozhodnutie.
 

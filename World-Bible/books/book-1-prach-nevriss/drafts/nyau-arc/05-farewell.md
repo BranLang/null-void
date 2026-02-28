@@ -74,11 +74,11 @@ Tridsať nocí neviditeľná v meste, ktoré bolo celý jej život domovom a nik
 
 Počúvala, kedy sa Itaka vráti.
 
-Našla Arkota v treťom týždni — v prístavnej krčme, s Flintom, unavený, opálený, iný. Stála dva stoly od neho a pozerala sa na neho a on ju nevidel. Bol chudší. Plecia širšie. Ruky zmenené — pol roka vo vzduchu z neho urobilo námornníka. Ešte nie navigátora. Ale chlapca, čo nosil vrecia na inej lodi, lebo tá, ktorú chcel, ho nechcela. [NOTE: Yera vidí Arkota prvýkrát po mesiacoch — neviditeľná, v krčme. Pozerá sa na neho a on netuší. Toto je Yerin spôsob — pozorovanie pred akciou. Nikdy impulz. Vždy kontrola.]
+Našla Arkota po niekoľkých dňoch — v prístavnej krčme, s Flintom, unavený, opálený, iný. Stála dva stoly od neho a pozerala sa na neho a on ju nevidel. Bol chudší. Plecia širšie. Ruky zmenené — pol roka vo vzduchu z neho urobilo námorníka. Ešte nie navigátora. Ale chlapca, čo nosil vrecia na inej lodi, lebo tá, ktorú chcel, ho nechcela. [NOTE: Yera vidí Arkota prvýkrát po mesiacoch — neviditeľná, v krčme. Pozerá sa na neho a on netuší. Toto je Yerin spôsob — pozorovanie pred akciou. Nikdy impulz. Vždy kontrola.]
 
 Neukázala sa mu. Ešte nie. Ešte nemala všetko na mieste.
 
-Chodila k prístavu každú noc posledných desať dní. Mapovala mola — ktoré lode kedy kotvia, kedy sa menia stráže, odkiaľ je najkratšia cesta z chrámu k vode. A čakala. Na jedno molo. Na jeden tmavý trup.
+Chodila k prístavu každú noc posledných desať dní. Mapovala móla — ktoré lode kedy kotvia, kedy sa menia stráže, odkiaľ je najkratšia cesta z chrámu k vode. A čakala. Na jedno molo. Na jeden tmavý trup.
 
 Itaka prišla dvadsiaty ôsmy deň.
 
@@ -100,7 +100,7 @@ Za ňou — dýchanie. Tiché. Známe.
 
 Matka stála v dverách knižnice. Bosá, v nočnej košeli, vlasy rozpustené. Pozerala sa priamo na ňu. [NOTE: Matka Yeru pristihne pri sejfe — ale Yera je neviditeľná. A matka sa díva priamo na ňu. Priamo na miesto, kde stojí. Nie vedľa, nie okolo — na ňu. Záhada matky — otvorená, nikdy nevysvetlená. Ako je možné, že matka vidí cez neviditeľnosť? Krv? Materský inštinkt? Niečo v Saéli línii? Yera sa to nikdy nedozvie.]
 
-Yera stuhla. Neviditeľná — a predsa videná. Matka sa na ňu dívala a Yera cítila ten pohľad na koži, cez všetky vrstvy Spiry, cez nanoboty a svetlo a fyziku, ktorá hovorila, že ju nikto nemôže vidieť. A matka sa dívala.
+Yera stuhla. Neviditeľná — a predsa videná. Matka sa na ňu dívala a Yera cítila ten pohľad na koži, cez všetky vrstvy Spiry, ktorá hovorila, že ju nikto nemôže vidieť. A matka sa dívala.
 
 Neviditeľnosť sa rozpadla. Yera ju pustila — nie vedome, nie rozhodnutím. Telo to urobilo samo. Pred matkou sa nedalo skrývať. [NOTE: Yera je schopná oklamať Soril, stráž, celé mesto — ale nie matku. Neviditeľnosť zlyhá pred jedinou osobou, pred ktorou by nemala. Toto zostáva otvorené — záhada bez odpovede.]
 
@@ -120,27 +120,25 @@ Prišla k polici. Pomaly, bosými nohami na kamennej podlahe, žiadny zvuk. Polo
 
 Slzy jej stekali po tvári a Yera ich nevedela čítať — nevedela, prečo matka plače, keď otvára sejf vlastnej dcére, nevedela čo sú to za slzy, tie tiché, bez vzlykov, len voda na tvári ženy, ktorá sa celé roky bála pozrieť sa jej do očí. [NOTE: Slzy šťastia. Matka je šťastná, že Yera robí to, čo ona nikdy nedokázala — utiecť. Ale Yera to nechápe. Vidí plačúcu matku a myslí si, že jej rozbitá srdce. Toto je tragédia ich vzťahu — ani v momente najväčšej blízkosti sa nepochopia. → characters/Yera.md: matka, komplikovaný vzťah]
 
-Matka vybrala mešec. Ťažký. Kožený. Previazaný dvakrát. Podala ho Yere.
+Matka vytiahla tri mešce. Ťažké. Kožené. Previazané dvakrát. Podala ich Yere.
 
 Pre klan Saéli to bolo menej než nič — otec to zistí na konci mesiaca pri účtoch, ak vôbec. Pre menší klan to bol celý majetok. Pre Yeru to bolo niekoľko mesiacov slobody. [NOTE: 1% majetku Saéli = celý majetok menšieho klanu. Škála bohatstva.]
 
-Yera vzala mešec. Mechanicky. Stále nerozumela. Stále čakala krik, stráž, otca.
+Yera vzala mešce. Mechanicky. Stále nerozumela. Stále čakala krik, stráž, otca.
 
 Matka zdvihla prst. *Čakaj.* Odišla z knižnice.
 
 Yera stála pri otvorenom sejfe v tme a počúvala tiché kroky na chodbe a nerozumela ničomu.
 
-Matka sa vrátila. V rukách — kabát. Kožený, dlhý, s kožušinovým golierom z niekoľkých druhov kožušiny, každá iná farba, tmavohnedá, čierna, sivá. Starý strih — z čias, keď klan Saéli bol na vrchole a babička chodila na audiencie k mestskej rade. Yera ho videla v matkinej skrini odkedy pamätala. Nikdy ho nenosila — bol príliš veľký, príliš ťažký, príliš dospelý. [→ characters/Yera.md: babičkin kabát — matka ho celý čas uchovávala. Teraz ho dáva ďalej. Nie dar — povolenie.]
+Matka sa vrátila. V rukách — kabát. Kožený, dlhý, s kožušinovým golierom. Starý strih — z čias, keď klan Saéli bol na vrchole a babička lietala vzducholoďou do Beladiss. Yera ho videla v matkinej skrini odkedy pamätala. Nikdy ho nenosila — bol príliš veľký, príliš ťažký, príliš dospelý. [→ characters/Yera.md: babičkin kabát — matka ho celý čas uchovávala. Teraz ho dáva ďalej. Nie dar — povolenie.]
 
 Pod kabátom — čižmy. Tie drahé, z mäkkej kože, na opätkoch, s prackami po stranách. Tiež babičkine.
-
-Položila to na stôl. Kabát, čižmy, vedľa mešca.
 
 Výbava. Nie na cestu do chrámu. Na cestu preč. [NOTE: Matka mala výbavu pripravenú — alebo ju zobrala v tú sekundu, ale vedela kde čo je. Celý život vedela, že ten kabát nie je len spomienka na babičku. Je to úniková cesta, ktorú sama nikdy nepoužila.]
 
 Yera sa na ňu pozrela. Matka sa na ňu pozrela.
 
-Prvýkrát — prvýkrát, odkedy si Yera pamätala — sa jej matka pozrela priamo do očí. Modré do modrých. Tie isté oči. [NOTE: Yera má modré oči po matke. Brat tiež. Matka sa vyhýbala tomuto pohľadu celý život — lebo v tých očiach videla vlastný odraz. Vlastný nedokončený útek.]
+Prvýkrát — prvýkrát, odkedy si Yeru vybrali za kňažku — sa jej matka pozrela priamo do očí. Modré do modrých. Tie isté oči. [NOTE: Yera má modré oči po matke. Brat tiež. Matka sa vyhýbala tomuto pohľadu celý život — lebo v tých očiach videla vlastný odraz. Vlastný nedokončený útek.]
 
 Matka zdvihla ruku. Dotkla sa Yeriných vlasov — ľahko, letmo, prstami, ktoré sa chveli. Prešla cez ne raz. Potom stiahla ruku. [NOTE: Jediný fyzický kontakt matka-dcéra v celom arcu. Dotyk vlasov — lebo zajtra budú ostrihané. Matka to vie.]
 
@@ -152,13 +150,9 @@ Jedno slovo. Celý život ticha a jedno slovo. [NOTE: Matkin jediný dialóg v c
 
 Matka sa otočila. Kroky na chodbe. Ticho.
 
-Yera stála v knižnici pri otvorenom sejfe s kabátom a mešcom zlata a čižmami a slzami na tvári, ktoré neboli jej.
+Yera stála v knižnici pri otvorenom sejfe a slzami na tvári, ktoré neboli jej.
 
 ---
-
-Vstala pred svitaním. Nespala.
-
-Obliekla sa pomaly. Nie chrámové rúcho — vlastné šaty, to čo nosila pred chrámom, pred tréningom, pred Soril. Pod ne — obväzy, nástroje, balíčky liečivých zmesí. Vrstva na vrstvu.
 
 Na vrch išiel kabát.
 
@@ -354,7 +348,7 @@ Yera vošla po rampke. Arkot a Flint za ňou.
 
 Kajuta kapitána bola malá. Drevené steny, mosadzné klinky, mapa na stole. Svietila len jedna liehová lampa — žlté svetlo na mapách a na Tamiinom klobúku, čo visela na klinci pri dverách. Saburov klobúk. [NOTE: Saburov klobúk na klinci — nie na Taminej hlave. Ešte nie. Saburo je chorý ale nie mŕtvy. → characters/Tami.md: Saburo]
 
-Tami si sadla za stôl. Rúky skrížené.
+Tami si sadla za stôl. Ruky skrížené.
 
 *„Hovor."*
 

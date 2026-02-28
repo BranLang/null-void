@@ -390,7 +390,7 @@ Sadla si. Jedna stopa medzi nimi. Yera ju cítila — odmerala ju pohľadom, vzd
 
 Cvrčky za nich vyplnili ticho. Dlhé ticho — nie nepríjemné, len ťažké. Plné vecí, ktoré sa nedali povedať, lebo ešte nemali tvar.
 
-Arkot sa oprel o operadlo — mosadz zaškrípala — a začal rozprávať. Nie o sebe, nie o nej. O rybách. O tom, ako v Beladiss griľujú ryby na otvorenom ohni na pláži a soľ z mora im padá priamo na mäso, a ako žiadna krčma v Nyau to nedokáže napodobniť, pretože tu soľ filtrujú a čistia a zbavujú ju všetkého, čo robí soľ *soľou*. Rozprával s tou pomalou istotou muža, ktorý vie, čo vie, a nepotrebuje viac. Bez stratégie, bez slov-ako-šachových-ťahov. Len príbeh. Jednoduchý, obyčajný, ľudský.
+Arkot sa oprel o operadlo — mosadz zaškrípala — a začal rozprávať. Nie o sebe, nie o nej. O rybách. O tom, ako v Beladiss grilujú ryby na otvorenom ohni na pláži a soľ z mora im padá priamo na mäso, a ako žiadna krčma v Nyau to nedokáže napodobniť, pretože tu soľ filtrujú a čistia a zbavujú ju všetkého, čo robí soľ *soľou*. Rozprával s tou pomalou istotou muža, ktorý vie, čo vie, a nepotrebuje viac. Bez stratégie, bez slov-ako-šachových-ťahov. Len príbeh. Jednoduchý, obyčajný, ľudský.
 
 Yera počúvala a uvedomovala si, že nikdy v živote nepočúvala muža hovoriť takto.
 
