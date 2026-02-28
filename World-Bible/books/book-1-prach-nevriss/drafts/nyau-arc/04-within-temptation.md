@@ -338,6 +338,24 @@ Záhrada. Neskorá noc. Arkot bol iný.
 
 Yera to zbadala, len čo si sadla. Niečo v tom, ako sedel — rovnako ako vždy, nohy pred sebou, ramená opreté o lavičku, ale svalstvo tuhšie. Prsty na kolene bubnovali nerytmicky, čo u Arkota nebývalo. Arkot mal vždy rytmus. Teraz ho nemal. [→ characters/Arkot.md: Strohý, priamočiary. Keď je nervózny, bubnuje prstami — jediný fyzický signál. Yera ho pozná dosť dobre na to, aby to videla.]
 
+*„Sledujú nás,"* povedal.
+
+Nie otázka. Konštatovanie. Arkot sa nepozeral na ňu — pozeral do koruny stromu nad nimi, do spleti bioluminiscenčných vetiev, ako keby tam hľadal niečo konkrétne. [→ 06-society.md: Kastový systém — Mezra s Pursang = spoločenské tabu. Nie zakázané, ale *videné*.]
+
+*„Dve. Niekedy tri."* Prsty prestali bubnovat. *„Striedajú sa. Myslia si, že som hlúpy."*
+
+Yera stuhla. Vedela o strážkyniach — vedela o nich od tej noci, keď Soril povedala *dávajte na ňu lepší pozor*. Vedela, kto sú a prečo tam sú. Ale Arkot nevedel. Arkot videl leopardie škvrny na vlastnom krku a Pursang dievča vedľa seba a spojil si to tak, ako by si to spojil každý Mezra v Nyau. [→ drafts/nyau-arc/03-black-book.md: Soril na konci kapitoly prikáže strážkyniam sledovať Yeru bližšie. → characters/Arkot.md: Arkot nie je paranoidný — je navigátor. Číta vzorce. Ľudské aj hviezdne.]
+
+*„Kvôli mne,"* dodal. Ticho. Potom, tvrdšie: *„Kvôli tebe. Že si so mnou."*
+
+Yera otvorila ústa. Zavri ich. Otvor. *Povedz mu pravdu — že to nie je kvôli nemu, že strážkyne sú tam kvôli Knihe, kvôli Soril, kvôli niečomu, čo nemôže pomenovať.* Ale pravda by znamenala ďalšie otázky. A ďalšie otázky by znamenali Podzemie. A Podzemie patrilo jej. [NOTE: Yera volí klamstvo mlčaním — nie aktívne klame, ale nechá jeho interpretáciu stáť. Toto je prvá trhlina medzi nimi — nie kvôli tomu, čo povedal, ale kvôli tomu, čo ona nepovedala. → characters/Yera.md: Kontaminácia — Kniha mení nielen jej schopnosti, ale aj vzťahy.]
+
+*„Budem opatrnejšia,"* povedala nakoniec.
+
+Nesprávna odpoveď. Správna odpoveď pre nesprávnu otázku. Arkot to prijal — prikývol, raz, ako navigátor, ktorý zaznamenal údaj a uložil ho. Nie spokojne. Ale dosť. [NOTE: Arkot tu ukazuje vlastnú agentúru — pozoruje, vyhodnocuje, konfrontuje. Nie je pasívny. Ale jeho záver je nesprávny — a Yerina ne-odpoveď to nezopravuje. Foreshadowing rozchodu.]
+
+Ticho. Dlhšie než obvykle. Potom:
+
 *„Flint hovoril o lodi,"* povedal.
 
 Opatrne. Slová kladené vedľa seba ako kamene cez potok — presne, jeden za druhým, s medzerami pre dych.

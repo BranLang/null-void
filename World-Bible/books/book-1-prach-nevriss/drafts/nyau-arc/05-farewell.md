@@ -324,7 +324,11 @@ Krátke ticho.
 
 *„Teraz máte dobrú."*
 
-Niečo v Tamiinom pohľade sa posunulo. Nie úsmev — skôr pauza medzi dvomi slovami, kde sa rozhoduje či pokračovať.
+Niečo v Tamiinom pohľade sa posunulo. Nie úsmev — skôr pauza medzi dvomi slovami, kde sa rozhoduje či pokračovať. Nie farba očí — výraz. Ten spôsob, akým sa Yera pozerala priamo, bez uhýbania, bez úsmevu, bez toho ochranného prázdna, čo nosili ostatní žiadatelia o miesto. Niečo v tom pohľade bolo známe — nie z Nyau, nie z prístavov.
+
+*Otec sa tak pozeral.*
+
+Renn. Renn, ktorý chodil do Nyau ako domov, ktorý o ňom hovoril vždy s tým špecifickým tichom, tým Rennovým, ktoré znamenalo že niečo je jeho. [NOTE: Tami si tu neurobí záver — iba záblesk. Renn chodil do Nyau. Ten pohľad — priamy, bez úsmevu, bez ochranného prázdna — jej pripomína otca. Nie konkrétne, nie logicky. Len ten záblesk čo príde a odíde. Tami ho odloží, lebo loď sa nenaloďuje sama. Nikdy ho nerozmotá do konca. → characters/Tami.md, characters/Yera.md: ich podobnosť — povahová. Zámerná ambiguita.]
 
 *„A tí dvaja?"*
 
@@ -416,7 +420,15 @@ Tami vzala mešec zo stola. Zvážila ho v ruke — ťažký, tichý, neokázal�
 
 *„Štvrtá kajuta, ľavá strana. Vy dvaja — hamaky na spodnej palube."*
 
-Vstala. Otvorila dvere.
+Vstala. Pri dverách sa zastavila.
+
+*„Ako sa voláš?"*
+
+Zlomok sekundy.
+
+*„Yera."* [NOTE: Nie Yerana. Nie Saéli. Len Yera. Prvýkrát v živote — predstavenie bez klanového mena. → characters/Yera.md: nová identita začína tu]
+
+Tami kývla. Otvorila dvere.
 
 *„Odplávame za dve hodiny."*
 
