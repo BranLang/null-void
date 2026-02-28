@@ -16,11 +16,11 @@ Lampa v záhrade za starým kanálom hádzala žlté kruhy na dlažbu. Cvrčky h
 
 Yera ani nezačula kroky. [NOTE: zámerné — Soril je Strážkyňa, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
 
-Prsty sa jej zavreli okolo ucha — suché, silné, neomylné — a svet sa otočil. Lavička. Mesačné svetlo. Arkotova teplá ruka, ktorá sa náhle stratila. Všetko ostalo za ňou. [→ characters/Yera.md: Arkot — Mezra, leopardie škvrny, zakázaná láska. Dvojité tabu: kastové + porušenie celibátneho sľubu]
+Prsty sa jej zavreli okolo ucha — suché, silné, neváhavé — a svet sa otočil. Lavička. Mesačné svetlo. Arkotova teplá ruka, ktorá sa náhle stratila. Všetko ostalo za ňou. [→ characters/Yera.md: Arkot — Mezra, leopardie škvrny, zakázaná láska. Dvojité tabu: kastové + porušenie celibátneho sľubu]
 
 Soril nič nepovedala.
 
-Vliekla ju cez chrámovú záhradu, cez bočné dvere, cez chodbu kde svietili liehové lampy v rovnakých rozostupoch ako vždy. Yerin topánky šúchali po kamennej podlahe. Chcela niečo povedať — ospravedlnenie, vysvetlenie, čokoľvek — ale pohľad na Sorilinu chrbát ju zastavil. [→ regions/nyau.md: chrámová chodba, liehové lampy = dieselpunk estetika, žiadna elektrina]
+Vliekla ju cez chrámovú záhradu, cez bočné dvere, cez chodbu kde svietili liehové lampy v rovnakých rozostupoch ako vždy. Yerine bosé nohy šúchali po kamennej podlahe. Chcela niečo povedať — ospravedlnenie, vysvetlenie, čokoľvek — ale pohľad na Sorilinu chrbát ju zastavil. [→ regions/nyau.md: chrámová chodba, liehové lampy = dieselpunk estetika, žiadna elektrina]
 
 Tá žena nebola nahnevaná.
 
@@ -248,7 +248,7 @@ Plameň sa zachvel. Fialové svetlo v obale.
 
 Potom prišla tá strana.
 
-Soril ju otočila pomaly — akoby to robila po tisíckrát, akoby vedela, že toto je moment, pre ktorý sem prišli, hoci to neplánovala, hoci park a ucho a schody dole neboli plán. Boli. Boli plán, len iný ako si myslela.
+Soril ju otočila pomaly — akoby to robila po tisíckrát, akoby vedela, že toto je moment, pre ktorý sem prišli, hoci to neplánovala, hoci záhrada a ucho a schody dole neboli plán. Boli. Boli plán, len iný ako si myslela.
 
 Yera čítala.
 
