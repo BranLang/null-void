@@ -7,7 +7,7 @@
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — podzemná knižnica (noc, prvá polovica) → záhrada za kanálom (noc, druhá polovica) → chrám/vila (deň)
-**Čas**: ~AY 3010, týždne/mesiace po odhalení Knihy (Ch3). [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci.]
+**Čas**: ~AY 3010–3011, týždne/mesiace po odhalení Knihy (Ch3). [NOTE: Stále leto. Nyau je subtropické — horúce aj v noci.]
 **Nálada**: Obsedantná, rozpolená, narastajúce napätie — dva magnety ťahajú Yeru na opačné strany
 
 ---
@@ -48,25 +48,25 @@ Yera si zapálila sviečku. Posadila sa. Otvorila stranu, ktorú Soril preskoči
 
 ---
 
-Elaniin rukopis sa tu menil.
+Jej rukopis sa tu menil.
 
 Na stránkach, ktoré Soril komentovala — mapách, rastlinách, glyfoch — bolo písmo presné. Vedkyňa pri práci. Každé písmeno na svojom mieste, s presnosťou chirurga, s istotou niekoho, kto vie, čo robí a prečo. [→ the-book-of-El.md: Fáza 1-3 — presný, vedecký rukopis]
 
-Tu, v medzipriestore — na stránkach, ktoré Soril preskočila — bol iný rukopis. Menší. Rýchlejší. Šikmejší, akoby Elaniin zápästie na chvíľu zabudlo byť rukou vedkyne a stalo sa zápästím ženy, ktorá píše, lebo nemôže spať, lebo niečo v nej nedá pokoj. Písmo niekoho, kto nepíše pre čitateľa. Písmo pre seba. [NOTE: Soril preskočila tieto strany zámerne — apokryfy. Osobné zápisky, ktoré nezapadajú do pedagogického rámca „El bola žena, ale Anjel ju zachránil." Soril ich pozná, ale nekomentuje. Yera ich teraz číta prvýkrát — sama.]
+Tu, v medzipriestore — na stránkach, ktoré Soril preskočila — bol iný rukopis. Menší. Rýchlejší. Šikmejší, akoby jej zápästie na chvíľu zabudlo byť rukou vedkyne a stalo sa zápästím ženy, ktorá píše, lebo nemôže spať, lebo niečo v nej nedá pokoj. Písmo niekoho, kto nepíše pre čitateľa. Písmo pre seba. [NOTE: Soril preskočila tieto strany zámerne — apokryfy. Osobné zápisky, ktoré nezapadajú do pedagogického rámca „El bola žena, ale Anjel ju zachránil." Soril ich pozná, ale nekomentuje. Yera ich teraz číta prvýkrát — sama.]
 
-Yera sa sklonila bližšie. Fialové žilky pod jej tvárou sa rozžiarili — jemne, takmer šepotom. Ponúkali svetlo.
+Yera sa sklonila bližšie. Prach v tabuľkách pod jej tvárou sa rozžiaril — jemne, takmer šepotom. Ponúkal svetlo.
 
 *Matka.*
 
 Slovo sa opakovalo. Na jednej strane trikrát, na ďalšej dvakrát. V rôznych kontextoch — raz s hnevom, raz s láskou, raz s niečím medzi tým, pre čo Yera nepoznala slovo. Elania písala o Matke tak, ako sa píše o niekom, kto je aj záchranca aj žalárnik — dvesto rokov raja a potom nič. Žiadne vysvetlenie. Žiadna rozlúčka. Len tma. [→ the-book-of-El.md: Inetis opustila Elaniu po vynáleze Spiry — nikdy sa jej nedotkla, nikdy ju neupgradovala na Gen 2. Pre Elaniu = opustenie. Pre Inetis = ochrana. Ani jedna o tom nevie celú pravdu.]
 
-*„Neopustila ma,"* písala Elania na jednom mieste. Pod tým — prečiarknuté — *„Neopustila ma?"* Otáznik bol tenší, rýchlejší, pridaný neskôr. Akoby sa Elania vrátila k vlastnej vete a prestala jej veriť. [NOTE: Yera nerozumie kontextu — nevie kto je Matka (Inetis), nevie prečo odišla, nevie nič o Gen 2 alebo o Elysiu. Ale cíti emóciu. Dvetisíc rokov starú emóciu, ktorá je stále živá v atramente.]
+*„Neopustila ma,"* písala El na jednom mieste. Pod tým — prečiarknuté — *„Neopustila ma?"* Otáznik bol tenší, rýchlejší, pridaný neskôr. Akoby sa El vrátila k vlastnej vete a prestala jej veriť. [NOTE: Yera nerozumie kontextu — nevie kto je Matka (Inetis), nevie prečo odišla, nevie nič o Gen 2 alebo o Elysiu. Ale cíti emóciu. Dvetisíc rokov starú emóciu, ktorá je stále živá v atramente.]
 
 Yera čítala ďalej.
 
 Na ďalšej strane pasáž v kóde. Nie Staroreč — Yera poznala Staroreč, vedela ju čítať od prvej zimy. Nie hiragana — tú tiež poznala, aspoň základy, dosť na orientáciu. Toto bolo niečo iné. Čísla. Symboly. Hranaté zátvorky, šípky, kombinácie, ktoré vyzerali ako vzorce — ale vzorce čoho? [→ the-book-of-El.md: Elaniin kód = vedecká notácia. Molekulárna biológia, genetika, nanotech špecifikácie. Yerin svet nemá pre to slová — pre ňu sú to „šifry."]
 
-Elania mala dôvod skrývať. Aj pred budúcimi čitateľkami.
+El mala dôvod skrývať. Aj pred budúcimi čitateľkami.
 
 Yera siahla po zápisníku. Pero na pergamen — pomaly, opatrne, akoby sa bála, že sa atrament dotkne papiera príliš hlasno. Prekreslila prvý symbol. Potom druhý. Porovnávala ich s textom vedľa — hľadala vzor, opakovanie, niečo, čo by jej dalo kľúč k zámku.
 
@@ -114,7 +114,7 @@ O práci v prístave — vrecia, laná, žeriavy, kapitán, čo sa hádal s coln
 
 A Yera počúvala napoly.
 
-Nie úmyselne — nerozhodla sa nepočúvať. Len — medzi jeho slovami sa objavovali medzery, a do tých medzier vchádzalo niečo iné. Symbol v marži, ten tretí zľava, čo vyzeral ako kvet alebo hviezda alebo niečo tretie, čo nemalo meno. Elaniin rukopis, ktorý sa menil — na prvých stranách presný, na stredných rýchly, na posledných roztrasený. A ten verš, ten jeden, čo nedočítala — *Neopustila ma?* — s otáznikom, ktorý bol pridaný neskôr, tenším perom, neistejšou rukou. [NOTE: Kontaminácia. Yera je v záhrade, s Arkotom, ale myslí na Knihu. Myšlienky z podzemného sveta prúdia do záhradného. Nemôže ich zastaviť — a neskúša.]
+Nie úmyselne — nerozhodla sa nepočúvať. Len — medzi jeho slovami sa objavovali medzery, a do tých medzier vchádzalo niečo iné. Symbol v marži, ten tretí zľava, čo vyzeral ako kvet alebo hviezda alebo niečo tretie, čo nemalo meno. Jej rukopis, ktorý sa menil — na prvých stranách presný, na stredných rýchly, na posledných roztrasený. A ten verš, ten jeden, čo nedočítala — *Neopustila ma?* — s otáznikom, ktorý bol pridaný neskôr, tenším perom, neistejšou rukou. [NOTE: Kontaminácia. Yera je v záhrade, s Arkotom, ale myslí na Knihu. Myšlienky z podzemného sveta prúdia do záhradného. Nemôže ich zastaviť — a neskúša.]
 
 *„...a ten colník povedal, že keby mal ešte jednu debnu, tak ho hodí za brod..."*
 
@@ -148,7 +148,7 @@ Yera sedela pri svieči a čítala stranu, na ktorú Soril preskočila s tým zv
 
 Haiku.
 
-Séria — štyri, päť, šesť na jednej strane. Hiragana. Atrament vyblednutý do jemného šeda, ako keby slová samy od seba odchádzali. Písmo tenkšie než na predchádzajúcich stranách — rýchlejšie, intímnejšie. Akoby ich Elania zapisovala v tme, medzi dvoma inými vecami, jednou rukou, s druhou stále priloženou ku kôre stromu alebo k vlastnému srdcu. [→ the-book-of-El.md: Haiku = Fáza 3-4. Osobné zápisky o samote. Cirkev ich zaradila medzi modlitby — „dostatočne krásne a dostatočne nejasné." V origináli = úplne iný kontext.]
+Séria — štyri, päť, šesť na jednej strane. Hiragana. Atrament vyblednutý do jemného šeda, ako keby slová samy od seba odchádzali. Písmo tenkšie než na predchádzajúcich stranách — rýchlejšie, intímnejšie. Akoby ich El zapisovala v tme, medzi dvoma inými vecami, jednou rukou, s druhou stále priloženou ku kôre stromu alebo k vlastnému srdcu. [→ the-book-of-El.md: Haiku = Fáza 3-4. Osobné zápisky o samote. Cirkev ich zaradila medzi modlitby — „dostatočne krásne a dostatočne nejasné." V origináli = úplne iný kontext.]
 
 Yera vedela dosť hiragany na to, aby čítala pomaly. Slová si skladala po slabikách — brodila cez ne ako cez rieku, hľadajúc kamene pod vodou.
 
@@ -180,9 +180,7 @@ A myšlienka — tichá, nepozvaná, presná ako šíp:
 
 Nie s Arkotom. Pri Arkotovi Yera nebola sama — bola niekde inde, v podzemí, v hlave, v šifrách. A tu, v podzemí, so šiframi a haiku — bola niekde inde, v záhrade, na lavičke, s teplom, ktoré nešlo zmyť.
 
-Osamotenosť nie je absencia ľudí. Je to prítomnosť niečoho, o čom nemôžeš hovoriť.
-
-Sviečka zapraskala. Vosk kvapol na stôl. Yera zavrela oči — a za viečkami videla Arkotove leopardie škvrny v mesačnom svetle a Elaniin roztrasený rukopis naraz, prelínajúce sa, ako dve mapy toho istého územia kreslené rôznymi ľuďmi.
+Knôt zaprašťal. Vosk na stole tuhnul v malých kráteroch. Yera zavrela oči — a za viečkami videla Arkotove leopardie škvrny v mesačnom svetle a jej roztrasený rukopis naraz, prelínajúce sa, ako dve mapy toho istého územia kreslené rôznymi ľuďmi.
 
 Otvorila oči. Prečítala haiku ešte raz.
 
@@ -246,7 +244,7 @@ Usmial sa. Ten jeho pomalý, lenivý úsmev — ten, ktorý videla prvýkrát na
 
 Yera sa naň dívala a myslela na to, aké by to bolo, keby v živote existoval len jeden uhol. Jeden smer. Jedno rozhodnutie.
 
-A potom — v tichu, keď Arkot ukazoval na hviezdu nad obzorom a vysvetľoval, prečo sa koncom zimy posunie o tri prsty doľava — Yera myslela na mapu v Knihe El. Elania kreslila cestu k jaskyni. Hviezdy na tej mape nemali mená — mali symboly. Malé, presné, geometrické. Rovnaké symboly, aké videla v šifrách. [→ the-book-of-El.md: Fáza 1 — mapy. Symboly namiesto mien hviezd. Elania nepoužívala chrámovú nomenklatúru — používala vlastnú. Vedeckú.]
+A potom — v tichu, keď Arkot ukazoval na hviezdu nad obzorom a vysvetľoval, prečo sa koncom zimy posunie o tri prsty doľava — Yera myslela na mapu v Knihe El. El kreslila cestu k jaskyni. Hviezdy na tej mape nemali mená — mali symboly. Malé, presné, geometrické. Rovnaké symboly, aké videla v šifrách. [→ the-book-of-El.md: Fáza 1 — mapy. Symboly namiesto mien hviezd. Elania nepoužívala chrámovú nomenklatúru — používala vlastnú. Vedeckú.]
 
 *Rovnaké symboly ako v šifrách.*
 
@@ -318,7 +316,7 @@ Dve slová navyše. *Od dnes.* Nie „dnes" — *od dnes.* Permanentné. Systém
 
 *„Dobre,"* povedala Yera.
 
-Sadla si. Otvorila bielu Knihu. Čítala nahlas — verš po verši, rovnako ako včera, rovnako ako zajttra. Cítila Mirethine oči na sebe — tiché, pozorné, plné niečoho, čo nebolo súperenie. Úcty. Mireth sa pozerala na Yeru ako na niečo, čím chce byť.
+Sadla si. Otvorila bielu Knihu. Čítala nahlas — verš po verši, rovnako ako včera, rovnako ako zajtra. Cítila Mirethine oči na sebe — tiché, pozorné, plné niečoho, čo nebolo súperenie. Úcty. Mireth sa pozerala na Yeru ako na niečo, čím chce byť.
 
 A Yera cítila — jemne, na okraji vedomia, ako vzdialený zvuk z inej miestnosti — že Soril práve urobila prvý ťah v hre, ktorej pravidlá Yera ešte nepoznala. [NOTE: Stupeň 2 eskalácie. Ice test = tichá diagnostika (Soril vie). Mireth na tréningu = tichá akcia (Soril koná). Ch5 degradácia = verbalizácia (Soril povie). Tri stupne — rovnaký vzor ako Sorilina pedagogika: najprv pozoruj, potom konaj, potom pomenuj. → characters/Soril.md: Soril nekonfrontuje priamo. Mení štruktúru a čaká, kým žiačka pochopí sama.]
 
@@ -332,19 +330,11 @@ Zápisník sa plnil. Yera si kreslila symboly z Elaninich šifier — prekreslov
 
 Niektoré symboly sa začali otvárať. Nie ako slová — nie preklady, nie definície. Ako vzorce. Niečo opakujúce sa, niečo systémové, niečo, čo malo logiku, aj keď Yera nevedela akú.
 
-*Tri symboly sa vrátili na každej tretej strane.* Vždy v rovnakom poradí — trojuholník, kruh, čiarka. Vedľa nich čísla v desiatkovej sústave. A pod nimi — vždy — jeden z glyfových elementov v Elaniinej notácii. [→ the-book-of-El.md: Elaniin kód = vedecká notácia pre nanotechnológiu. Yera vidí vzory, ale nechápe obsah. Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie.]
+*Tri symboly sa vrátili na každej tretej strane.* Vždy v rovnakom poradí — trojuholník, kruh, čiarka. Vedľa nich čísla v desiatkovej sústave. A pod nimi — vždy — jeden z glyfových elementov v jej notácii. [→ the-book-of-El.md: Elaniin kód = vedecká notácia pre nanotechnológiu. Yera vidí vzory, ale nechápe obsah. Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie.]
 
 *Toto nie je jazyk,* pomyslela si Yera. *Toto je notácia. Zápis niečoho, pre čo neexistujú slová v žiadnej reči, ktorú poznám.*
 
-Nemala pravdu. Slová existovali — len nie v jej svete. Existovali v Elaniinej hlave, v Inetisinom laboratóriu, v jazyku vedcov zo Zeme, ktorý bol mŕtvy 3000 rokov. Existovali na mieste, kam sa Yera nemala ako dostať — lebo medzi ňou a odpoveďou ležala priepasť tisícročí. [NOTE: Yera sa blíži — ale nikdy nedôjde. Nie v tejto kapitole. Nie možno nikdy. Šifry sú návykové práve preto, že nemajú koniec. Vždy ešte jeden symbol. Vždy ešte jeden vzor.]
-
 A predsa — ten pocit. Návykový, horúci, živý. Pocit, že je blízko niečomu. Rovnako návykový ako Arkotovo teplo.
-
-Dve závislosti.
-
-Arkot — emocionálna droga. Teplo na ramene, hlas, úsmev, smer. Prítomnosť, ktorá nemusela mať zmysel. Stačilo, že bola.
-
-Kniha — intelektuálna droga. Pravda, vzorce, záhady. Neprítomnosť odpovede, ktorá mala väčšiu gravitáciu než akákoľvek odpoveď.
 
 Obe produkovali rovnaký pocit: *toto je moje.*
 
@@ -418,7 +408,7 @@ Otvorila oči.
 
 Nie áno. Nie nie. Čakanie. Vždy čakanie.
 
-Arkot prikývol. Vedel, že viac nedostane. Nie teraz. Pritiahol si ju bližšie — ramenom, nie rukou, tým spôsobom, ktorý bol jeho vlastný — a Yera zavrela oči a počúvala jeho dych a šum kanálu a vzdialenú hudbu z námestia a niekde v hlave, na mieste, kde sa nedalo zhasnúť, blikali symboly, vzorce a fialové žilky. [NOTE: Yera nevie, čo chce. Alebo vie — chce oboje. A oboje nie je možné. Toto je jadro kapitoly — nie rozhodnutie, ale nemožnosť rozhodnutia.]
+Arkot prikývol. Vedel, že viac nedostane. Nie teraz. Pritiahol si ju bližšie — ramenom, nie rukou, tým spôsobom, ktorý bol jeho vlastný — a Yera zavrela oči a počúvala jeho dych a šum kanálu a vzdialenú hudbu z námestia a niekde v hlave, na mieste, kde sa nedalo zhasnúť, blikali symboly, vzorce a tlejúce fialové svetlo. [NOTE: Yera nevie, čo chce. Alebo vie — chce oboje. A oboje nie je možné. Toto je jadro kapitoly — nie rozhodnutie, ale nemožnosť rozhodnutia.]
 
 ---
 
@@ -430,7 +420,7 @@ Bola to posledná popísaná strana.
 
 Nie šifra. Nie vzorec. Nie haiku. Nie portrét.
 
-Obyčajné slová. Elaniina Staroreč — nie tá presná z máp a vzorcov, nie tá chladná z vedeckých zápiskov. Iná. Mäkšia. Pomalšia. Slová ženy, ktorá si sadla k ohňu a vedela, že zajtra odíde.
+Obyčajné slová. Jej Staroreč — nie tá presná z máp a vzorcov, nie tá chladná z vedeckých zápiskov. Iná. Mäkšia. Pomalšia. Slová ženy, ktorá si sadla k ohňu a vedela, že zajtra odíde.
 
 Yera čítala pomaly. Vedela dosť Staroreči — dosť na to, aby sa brodila cez vety, nie dosť na to, aby plávala. Niektoré slová musela hádať z okolia. Niektoré nechávala prázdne a šla ďalej.
 
@@ -442,7 +432,7 @@ Yera čítala pomaly. Vedela dosť Staroreči — dosť na to, aby sa brodila ce
 
 *I found silence. The kind that answers, if you wait long enough.*
 
-Yera cítila, ako sa jej hruď sťahuje. Nie od slov — od toho, čo bolo medzi nimi. Od medzier. Od miest, kde Elania nevpísala nič, lebo slová nestačili.
+Yera cítila, ako sa jej hruď sťahuje. Nie od slov — od toho, čo bolo medzi nimi. Od medzier. Od miest, kde El nevpísala nič, lebo slová nestačili.
 
 *And I found him.*
 
@@ -460,11 +450,15 @@ Posledný riadok.
 
 *Tomorrow the angel comes.*
 
-Yera sa zastavila. *Angel.* Nepoznala to slovo. Nie presne — vedela *el*, vedela *arch*, vedela *anjel* z chrámových textov. Ale toto bolo niečo iné. Staroreč mala pre to iný tvar, iný koreň. Slovo, ktoré existovalo pred Achillesom, pred Chrámom, pred všetkým čo Yera poznala. Skúsila ho prečítať nahlas — potichu, pre seba — a neznel ako nič z jej sveta. [NOTE: „Angel" v Staroreči ≠ „Anjel/Archbés" v Yerinom svete. Pre Yeru Archbésovia = nesmrteľní vládcovia (Grond, Ishtar, Mormiel, Samaell). Elaniin „angel" je niečo staršie, z inej tradície — pozemské slovo, ktoré na Achillese nikto nepoužíva. Yera nevie, že myslí Seru — a aj keby vedela, nevedela by čo to znamená. Zámerná medzera.]
+Yera sa zastavila. *Angel.* Poznala to slovo — Cirkev ho učila od prvého dňa. Anjel zachránil El. Anjel ju vyviedol z tmy. A tu to bolo — v jej vlastnom rukopise. Potvrdenie. Anjel bol skutočný. [→ 06-society.md: Cirkev El — Anjel (Sera) = ústredná postava cirkevnej teológie. Zachránila El, priviedla ju k osvieteniu. → the-book-of-El.md: Elaniin posledný zápis — rukopis sa vyčistí, nádej. „Zajtra ideme domov."]
 
-*I don't know what she wants. I don't know if I want to go. But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps.*
+*She is invisible. Black dust moves where she walks. The demon never saw her. She struck once. He fell.*
 
-*Father.* Toto slovo Yera poznala. *Otec.* Elaniin otec. Niekto, kto spal niekde v tme — a El to vedela, a nechala ho spať. Yera si pomyslela na vlastného otca, na muža, čo jedného dňa povedal *zasvätenie* a tým jej spečatil budúcnosť. Ale Elaniin otec bol iný — nie meno, nie autorita. Niečo stratené. Niečo čakajúce. [NOTE: Yera interpretuje „father" doslovne — Elaniin otec. Čitateľ vie: Maks. Dramatická irónia — Yera drží v rukách príbeh muža, ktorý spí v jaskyni pod Nyau, a nemá tušenie. „Otec" pre Yeru evokuje jej vlastného otca (Saéli klan) = autoritársky, vzdialený. Pre Elaniu = stratený, milovaný.]
+Čistý rukopis — prvýkrát za desiatky strán. Žiadne chvenie, žiadne škrabance, žiadne prečiarknuté slová. Ruka ženy, ktorá sa prestala báť. [NOTE: Yera vidí zmenu rukopisu — Elaniin tón sa po príchode Anjela úplne mení. Čistý, istý, nádejný. „Black dust" = Sera používa čiernu Spiru (Kvintesencia/neviditeľnosť). „The demon never saw her" = Samaell mal schopnosť zabiť pohľadom, Sera ho obišla neviditeľnosťou. Pre Yeru: nový údaj — Anjel je neviditeľná, používa čierny Prach. Toto nie je v bielej Knihe. → the-book-of-El.md: Sera bodla Samaella neviditeľná. → characters/Sera.md: čierna Spira.]
+
+*But the trees are still shining. The children are still drawing. And somewhere — I know this now — somewhere, my father sleeps.*
+
+*Father.* Yera sa zastavila pri tom slove. *Otec.* Jej vlastný otec — muž, čo jedného dňa povedal *zasvätenie* a tým jej spečatil budúcnosť. Slovo, ktoré pre ňu znamenalo autoritu a vzdialenosť. Pre El znamenalo niečo iné. Niečo, čo Yera nedokázala prečítať medzi riadkami. [NOTE: Yera netuší, kto je Elaniin otec — Elania sama to nevedela. Inetis jej nikdy nepovedala o Maksovi. Pre Yeru „father" evokuje len jej vlastného otca (Saéli klan) = autoritársky, vzdialený. Čitateľ vie: Maks spí v jaskyni pod Nyau. Dramatická irónia — Yera drží v rukách príbeh muža, o ktorom nikto na Achille nevie, a nemá tušenie. → characters/Elania.md: Elania nepozná otca. → 10-inetis-chronicles.md: Inetis tajomstvo.]
 
 *And maybe one day, someone will find him. And maybe one day, someone will read this. And maybe that will be enough.* [NOTE: Elaniin hlas — nie vedkyňa, nie bohyňa, nie matka. Žena. Žena, ktorá sa lúči so svetom, o ktorom nevie, či ho ešte uvidí. „Niekto" = Yera. Toto je moment, keď text hovorí priamo k čitateľke — cez 2000 rokov, cez pergamen, cez fialové žilky.]
 
@@ -476,7 +470,7 @@ Ticho. Bez zvuku, bez vzlykania — len voda na tvári, stekajúca po lícach na
 
 Sfúkla sviečku.
 
-Dlho sedela v tme. Úplná tma — žiadne okno, žiadny Sai, žiadna lampa. Len fialové žilky, pulzujúce pomalým, trpezlivým rytmom. Ako srdce niečoho starého, čo ešte neprestalo biť.
+Dlho sedela v tme. Úplná tma — žiadne okno, žiadny Sai, žiadna lampa. Len Prach, pulzujúci pomalým, trpezlivým rytmom. Ako srdce niečoho starého, čo ešte neprestalo biť.
 
 Potom vstala. Zatvorila Knihu. Zapečatila dvere — fialové svetlo, krátke, presné, už takmer automatické.
 
@@ -542,7 +536,7 @@ Zavrela oči.
 
 [NOTE: RESOLVED — otec zostáva cez absenciu. Kapitola je o dvoch magnetoch (Kniha/Arkot). Tretí by rozbíjal binárnu tenziu. Otec existuje implicitne cez „Saéli školenie" zmienky (r.115, r.277) — to stačí.]
 
-[TODO: V Ch4 (alebo 03.5-farewell) — Arkot odíde. Yera sa rozhodne. Nie aktívne — reaktívne. Svet vyberie za ňu.]
+[RESOLVED: Arkotov odchod riešený v 03.5-farewell.md + 04-utek-kradez.md]
 
 [→ Celá kapitola vychádza z books/planning/nyau-arc/03-temptation.md — 7-scénový plán]
 [→ Kniha El: the-book-of-El.md — apokryfy, šifry, haiku, posledný zápis]
