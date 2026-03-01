@@ -26,7 +26,7 @@ Tá žena nebola nahnevaná.
 
 Bola niečo iné.
 
-Zastavila sa pred kovanými dverami na konci dlhej chodby, ktoré sa nikdy neotvorili. Ruky poklesli k bokoch. Vydýchla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
+Zastavila sa pred kovanými dverami na konci dlhej chodby, ktoré sa nikdy neotvorili. Ruky poklesli k bokom. Vydýchla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
 
 *„Nech to Samaell vezme,"* povedala Soril.
 
@@ -126,7 +126,7 @@ Rastliny. Kresby koreňových systémov s poznámkami o hĺbke, o farbe kvetu, o
 
 Potom haiku.
 
-Séria haiku v hiragane, atrament vyblednutý do šeda, písmo tenkšie, rýchlejšie, akoby ich El zapisovala v chvate medzi dvoma inými vecami. Yera ich poznala — Cirkev ich zaradila medzi modlitby. *Svetlo prichádza / keď zavrieš oči a dýchaš / v tichu pod zemou.* Krásne. Eterické. Posvätné. [→ the-book-of-El.md: Fáza 4 — Words of the Mother. Haiku v kanonickej Knihe = modlitby k Matke. V origináli = úplne iný kontext.]
+Séria haiku v hiragane, atrament vyblednutý do šeda, písmo tenšie, rýchlejšie, akoby ich El zapisovala v chvate medzi dvoma inými vecami. Yera ich poznala — Cirkev ich zaradila medzi modlitby. *Svetlo prichádza / keď zavrieš oči a dýchaš / v tichu pod zemou.* Krásne. Eterické. Posvätné. [→ the-book-of-El.md: Fáza 4 — Words of the Mother. Haiku v kanonickej Knihe = modlitby k Matke. V origináli = úplne iný kontext.]
 
 V origináli nad každým haiku poznámka. Drobná, technická, vecná.
 
@@ -150,7 +150,7 @@ Poznala ju. Tá istá hviezda, tie isté pomery — kresba, ktorú Soril presko�
 
 Potom prišli deti.
 
-Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostmi, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmáranice, nečitateľné, ako keby ich písali samotné deti a El len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/glyfom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
+Iná strana. Iný rukopis — ľahší, teplejší, čiary mäkšie. Malé postavičky s chvostami, s ušami, s rôznofarebnými vlasmi. Detské tváre kreslené s láskavosťou, akú Yera v predchádzajúcich stránkach nevidela. Niektoré mali mená — čmáranice, nečitateľné, ako keby ich písali samotné deti a El len uschovala. [→ the-book-of-El.md: Fáza 2 — Settlement. Elania pomáhala prvým osadníkom — budúcemu Nyau. Kreslila ich deti. → NOTE: Chronologicky Fáza 2 (pred haiku/glyfom), ale Soril ukazuje knihu tematicky, nie chronologicky — najprv vedu, potom srdce, potom tmu. → NOTE: Toto je iná El. Nie vedkyňa, nie cestovateľka. Žena, ktorá kreslila deti pri vatre.]
 
 Jedna sa opakovala. Na dvoch stranách, na troch, vždy trochu inak — väčšia, staršia, rastúca. Malá dievčinka s líščím chvostom. Oči veľké, úsmev na celú tvár. Meno napísané pod portrétom — rozmazané od vlhkosti, nečitateľné. [NOTE: jedna dievčinka sa opakuje — identita neznáma. Cirkev toto neprevzala do kópií — nechápala kontext. V origináli je strana kompletná.]
 
@@ -192,7 +192,7 @@ Portrét zaoberal celú plochu pergamenu. Nie abstraktný — konkrétny, detail
 
 Pod portrétom jediné slovo.
 
-*He.* [NOTE: Kto to napísal? Elania kreslila portrét. Ale *He* — jedno slovo — mohol napísať Samaell sám. Pod kresbu, ktorú nakreslila ona. Potvrdenie: áno, to som ja. Jazyk je ambivalentný — Samaell píše po nemecky (rakúsky pôvod), ale „He" je anglické. Mohol poznať oboje. Alebo je to fragment — nie jazyk, len zvuk. → the-book-of-El.md: Samaellove kapitoly sú po nemecky. Nikto na Achille nevie prečítať nemčinu okrem Felixa (Mako).]
+*On.* [NOTE: Kto to napísal? Elania kreslila portrét. Ale *On* — jedno slovo — mohol napísať Samaell sám. Pod kresbu, ktorú nakreslila ona. Potvrdenie: áno, to som ja. Jazyk je ambivalentný — Samaell píše po nemecky (rakúsky pôvod), ale „On" je anglické. Mohol poznať oboje. Alebo je to fragment — nie jazyk, len zvuk. → the-book-of-El.md: Samaellove kapitoly sú po nemecky. Nikto na Achille nevie prečítať nemčinu okrem Felixa (Mako).]
 
 Yera hľadela na tú tvár dlho. Na tie oči. Na to slovo.
 

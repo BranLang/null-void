@@ -338,7 +338,7 @@ Dve slová navyše. *Od dnes.* Nie „dnes" — *od dnes.* Permanentné. Systém
 
 Sadla si. Otvorila bielu Knihu. Čítala nahlas — verš po verši, rovnako ako včera, rovnako ako zajtra. Cítila Miretine oči na sebe — tiché, pozorné, plné niečoho, čo nebolo súperenie. Úcty. Miret sa pozerala na Yeru ako na niečo, čím chce byť.
 
-A Yera cítila — jemne, na okraji vedomia, ako vzdialený zvuk z inej miestnosti — že Soril práve urobila prvý ťah v hre, ktorej pravidlá Yera ešte nepoznala. [NOTE: Stupeň 2 eskalácie. Ice test = tichá diagnostika (Soril vie). Mireth na tréningu = tichá akcia (Soril koná). Ch5 degradácia = verbalizácia (Soril povie). Tri stupne — rovnaký vzor ako Sorilina pedagogika: najprv pozoruj, potom konaj, potom pomenuj. → characters/Soril.md: Soril nekonfrontuje priamo. Mení štruktúru a čaká, kým žiačka pochopí sama.]
+A Yera cítila — jemne, na okraji vedomia, ako vzdialený zvuk z inej miestnosti — že Soril práve urobila prvý ťah v hre, ktorej pravidlá Yera ešte nepoznala. [NOTE: Stupeň 2 eskalácie. Ice test = tichá diagnostika (Soril vie). Miret na tréningu = tichá akcia (Soril koná). Ch5 degradácia = verbalizácia (Soril povie). Tri stupne — rovnaký vzor ako Sorilina pedagogika: najprv pozoruj, potom konaj, potom pomenuj. → characters/Soril.md: Soril nekonfrontuje priamo. Mení štruktúru a čaká, kým žiačka pochopí sama.]
 
 ---
 

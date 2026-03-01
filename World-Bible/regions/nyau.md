@@ -105,7 +105,7 @@ Keď **Hephaestus** (loď Makov) pristála na východe Terry (~AY 2212), pristá
 
 Keď **Veľká Potopa** zničila nevrisské prístavy a flotilu, impérium sa rozpadlo. Kolónie stratili spojenie s centrom. Nyau — ďaleko na východe, chránené vzdialenosťou — sa stalo **de facto nezávislým**. Žiadna formálna deklarácia. Jednoducho prestal chodiť správca a nikto nový neprišiel.
 
-- Klany vyplnili mocenské vákuum — Saéli, Mireth, Tohra a ďalšie rodiny si rozdelili moc.
+- Klany vyplnili mocenské vákuum — Saéli, Miret, Tohra a ďalšie rodiny si rozdelili moc.
 - Cirkev El posilnila — bez nevrisského dohľadu sa stala dominantným náboženstvom.
 - Nyau prosperovalo — teplá klíma, úrodná pôda, obchod s Beladiss na východe.
 - **Nevriss si dodnes nárokuje Nyau ako svoju provinciu** — v diplomatickej rétorike. V praxi nemá silu to vynútiť.
@@ -251,7 +251,7 @@ Nyau má prísny kastový systém — prísnejší než Nevriss, porovnateľný 
 
 | Kasta | Rola v Nyau |
 |-------|-------------|
-| **Pursang** | Vládnuca aristokracia. Klany delia moc — Saéli, Mireth, Tohra, ďalšie. Silná Spira, dlhovekosť. |
+| **Pursang** | Vládnuca aristokracia. Klany delia moc — Saéli, Miret, Tohra, ďalšie. Silná Spira, dlhovekosť. |
 | **Mezra** | Remeselníci, obchodníci, vojaci, námorníci. Práca v prístave, na farmách, v dielňach. |
 | **Ghorki** | Robotníci, nosiči, sluhovia. Formálne slobodní, prakticky najchudobnejší. |
 
@@ -265,7 +265,7 @@ Nyau má prísny kastový systém — prísnejší než Nevriss, porovnateľný 
 - Moc v Nyau nie je centralizovaná — žiadny kráľ, žiadna Rada Veľkňažiek ako v Nevriss
 - **Klany** delia moc na základe tradície, majetku a sily Spiry
 - **Klan Saéli** — najvplyvnejší. Najstaršia línia, najsilnejšia Spira, najväčšie pozemky. Saéli = "Prvé svetlo" v starom nárečí.
-- **Klan Mireth** — druhý najvplyvnejší. Obchod a prístav.
+- **Klan Miret** — druhý najvplyvnejší. Obchod a prístav.
 - **Klan Tohra** — vojenskí. Strážia hranice.
 - Aliancia medzi klanmi = dohodnuté zväzky. Politické svadby. Deti sú šachové figúrky.
 
@@ -560,7 +560,7 @@ Lampionový festival je **callback na Elaniin tanec s tieňmi** — a nikto v Ny
 - [ ] Presný názov Lampionového festivalu v miestnom nárečí?
 - [ ] Aké zvieracie druhy dominujú v Nyau? (Mačkovité ako v Nevriss, alebo iné?)
 - [ ] Vzťah Nyau k Inkvizícii — majú vlastnú, alebo spadajú pod Nevriss?
-- [ ] Podrobnosti o klane Mireth (potenciálny ženích pre Yeru)
+- [ ] Podrobnosti o klane Miret (potenciálny ženích pre Yeru)
 
 ---
 

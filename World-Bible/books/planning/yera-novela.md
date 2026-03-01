@@ -439,26 +439,13 @@
 ### BEAT 7: ÚTEK Z NYAU *(Crossing Threshold)*
 
 **Príprava:**
-- Flint zorganizuje útek — pozná prístav, pozná lodné rozvrhy. Má kontakty medzi pašerákmi.
-- Yera si vezme len to, čo sa zmestí do jednej tašky — kožený kabát s kožušinou (dar od mŕtvej starej matky), peniaze, lekárske nástroje. **A Knihu El** — schovanú v príručnej taške. Nikdy nikomu nepovie.
-- Nechá list otcovi. Žiadne vysvetľovanie. Len: *„Odpusť."*
-- **DVOJITÉ MLČANIE začína**: Yera uteká pred dôsledkami krádeže. Arkot si myslí, že uteká kvôli nemu. Flint si myslí, že uteká kvôli Arkotovi. Nikto netuší pravdu.
 
-**Útek v noci:**
-- Cez bioluminescentné ulice — posledný pohľad na svietiace mesto.
-- Yera sa obzrie z lode — Nyau zmizne v diaľke. Lampióny na brehoch. Svietiace stromy.
-- Bod bez návratu.
-- Flint vedľa nej: *„Neboj sa. Mám plán."* (Flintove plány nikdy nefungujú.)
-- Arkot jej drží ruku. Nič nehovorí. Netreba.
+- Yera sa obzrie z lode — Nyau zmizne v diaľke. L 
 
 ---
 
 ### BEAT 8: ITAKA A ROZBÚŠKA *(Stredná časť novely)*
 
-**Variant B — Na Itaku:**
-- Flint odišiel prvý — potuloval sa po prístavoch, narazil na Tami. Mladá Vulpini s vzducholoďou a veľkým snom. Potrebovala strelca.
-- Zavolal Arkota: *„Poď. Kapitánka je fajn."* Arkot prišiel — a priviedol Yeru.
-- Tami: *„Navigátora beriem. Ale kto je ona?"* Arkot: *„Liečiteľka. Najlepšia, akú poznám."* Tami sa pozrie na Yeru — modré oči, podobný vek, podobná výška. *„Fajn."*
 
 **Posádka ako rodina:**
 - Tami a Yera sa stanú sestrami — oheň a voda, protipóly, nerozlučné.

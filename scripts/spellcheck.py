@@ -74,7 +74,7 @@ WHITELIST = {
     "arkotov", "arkotovej", "arkotova", "arkotovo", "arkotovho",
     "sorilina", "sorilin", "sorilinu", "soriline", "sorilinú",
     "samaell", "samaella", "samaellom", "samaellovi", "samaellov", "samaellovým",
-    "vulpes", "mireth", "doker", "dokera", "dokerom", "dokerovi",
+    "vulpes", "Miret", "doker", "dokera", "dokerom", "dokerovi",
     "kortegova", "kortegovej", "kortegov", "kortega",
     # Places
     "nevriss", "nyau", "karakuri", "airen",

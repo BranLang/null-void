@@ -16,13 +16,13 @@
 
 Soril to povedala bez hnevu. Bez sarkamu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o počasí, o oprave strechy, o niečom administratívnom čo treba vyriešiť.
 
-*„Ľutujem, že som ti ukázala Knihu skôr, než si bola pripravená. Mireth bude pokračovať v príprave. Ty zostaneš na základnom tréningu."*
+*„Ľutujem, že som ti ukázala Knihu skôr, než si bola pripravená. Miret bude pokračovať v príprave. Ty zostaneš na základnom tréningu."*
 
 Yera sedela za stolom a nič nepovedala.
 
 *„Dobre,"* povedala nakoniec.
 
-Rovnako rovný hlas ako Soril. Bez tónu. Soril to počula ako prijatie — kývla, otočila sa a pokračovala v práci. [NOTE: Soril nemyslí toto ako trest. Myslí to ako pedagogickú korekciu — Mireth je rezerva, Yera potrebuje čas. Pre Soril je Yerin smútok za Arkotom problém výkonu. Nie zlomyseľnosť — slepota. → characters/Soril.md: Sorilina slepota = nedokáže odlíšiť emocionálny stav od zlyhania.]
+Rovnako rovný hlas ako Soril. Bez tónu. Soril to počula ako prijatie — kývla, otočila sa a pokračovala v práci. [NOTE: Soril nemyslí toto ako trest. Myslí to ako pedagogickú korekciu — Miret je rezerva, Yera potrebuje čas. Pre Soril je Yerin smútok za Arkotom problém výkonu. Nie zlomyseľnosť — slepota. → characters/Soril.md: Sorilina slepota = nedokáže odlíšiť emocionálny stav od zlyhania.]
 
 Yera odišla z pracovne. Chodba, kamenná podlaha, liehové lampy. Počítala kroky.
 
@@ -34,7 +34,7 @@ Nie *idem hneď.* Len: *idem.* [NOTE: Kľúčový rozdiel oproti impulzu. Yera s
 
 Týždeň.
 
-Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Mireth sedávala teraz bližšie k Soril, pri stole kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera neodhalí nič. Celý týždeň je normálna. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
+Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Miret sedávala teraz bližšie k Soril, pri stole kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera neodhalí nič. Celý týždeň je normálna. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
 
 Večer chodila domov. Do klanového domu Saéli — kamenné chodby, portréty predkov, vôňa kadidla ktoré matka pálila každý večer pri malej svätyni El v rohovej izbe. Sadávala v knižnici a čítala a otec ju ignoroval a ona jeho.
 
