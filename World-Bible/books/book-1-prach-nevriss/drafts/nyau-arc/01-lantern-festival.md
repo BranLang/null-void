@@ -142,7 +142,7 @@ Nohy ju odniesli preč od Chrámu, preč od námestia, preč od pulzujúcich bub
 
 ---
 
-Bočná ulica pri prístave bola iná. Vzdialená hudba. Len pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviace laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde posledné kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
+Bočná ulica pri prístave bola iná. Vzdialená hudba. Len pár osamotených lampášov na rohoch. Vôňa soli a lán. Skladiská, doky, kotviace laná, zamotané siete. Svetlo sem prúdilo len zhora — Sai a hviezdy. A z kanálu, kde kvety, čo sem doplávali z námestia, ešte slabo pulzovali.
 
 Cvrčky a cikády splývali do jedného stáleho monotónneho tónu — zvukovej tapety, cez ktorú sa dalo dýchať. Svetlušky poletovali nad hladinou kanálu — modré, tyrkysové bodky, živé hviezdy pri zemi. [→ regions/nyau.md: svetlušky, cvrčky a cikády = stála zvuková a svetelná kulisa Nyau v noci]
 
@@ -156,7 +156,7 @@ Mezra. Leopard. Yera to videla okamžite — tmavá koža, leopardie škvrny na 
 
 Bol trochu opitý. Nie dosť na to, aby nevidel. Dosť na to, aby mu bolo jedno, čo vidí.
 
-Lampión preletel nad ulicou — osamotený, oneskorený, jeden z posledných, čo stúpali k hviezdam. Jeho svetlo sa dotklo Arkotovej tváre na zlomok sekundy — jantárový záblesk, tiene v preliačinách pod lícnymi kosťami, iskra vo fľaši.
+Lampión preletel nad ulicou — osamotený. Jeho svetlo sa dotklo Arkotovej tváre na zlomok sekundy — jantárový záblesk, tiene v preliačinách pod lícnymi kosťami, iskra vo fľaši.
 
 „Stratila si sa?"
 
@@ -213,9 +213,9 @@ A potom zdvihla hlavu.
 
 *Nyau.*
 
-Celé mesto ležalo pod ňou — ale inak než z balkóna. Bližšie. Skutočnejšie. Odtiaľto videla ľudí, nie siluety — pár na moste, čo sa držal za ruky, gondoliera, čo spieval, deti, čo behali s poslednými lampášmi. Kanály svietili — kvety, čo kňažky zhodili zo schodov Chrámu, doplávali až sem a premenili vodu na rieky tyrkysového svetla. [→ regions/nyau.md: Chrámový obrad — kvety hádzané do kanálov, voda sa zmení na rieky svetla]
+Celé mesto ležalo pod ňou — ale inak než z balkóna. Bližšie. Skutočnejšie. Odtiaľto videla ľudí, nie siluety — pár na moste, čo sa držal za ruky, gondoliera, čo spieval, deti, čo behali s lampášmi. Kanály svietili — kvety, čo kňažky zhodili zo schodov Chrámu, doplávali až sem a premenili vodu na rieky tyrkysového svetla. [→ regions/nyau.md: Chrámový obrad — kvety hádzané do kanálov, voda sa zmení na rieky svetla]
 
-A nad tým všetkým — posledné lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú. [→ regions/nyau.md: vzducholode sú počas Lampionového festivalu grounded — jediný deň, keď obloha patrí lampiónom. Zvyšok roka sú nad mestom stále — osvetlené lampami a modrými bioluminiscenčnými svetlami.]
+A nad tým všetkým — lampióny. Zostávali vo vzduchu ako váhavé duše — niektoré vysoko, takmer medzi hviezdami, nerozlíšiteľné od nich. Iné nižšie, ešte teplé, ešte blízke, pomaličky sa vznášajúce k oblohe, ku ktorej sa nikdy nedostanú. [→ regions/nyau.md: vzducholode sú počas Lampionového festivalu grounded — jediný deň, keď obloha patrí lampiónom. Zvyšok roka sú nad mestom stále — osvetlené lampami a modrými bioluminiscenčnými svetlami.]
 
 Sai. Hviezdy. Obzor, kde sa more stretalo s nebom. [→ 05-geography.md: Sai — jantárový mesiac s prstencom, splň]
 
@@ -258,11 +258,11 @@ Arkot začal spievať.
 
 Nie naschvál — nie „teraz ti zaspievam". Skôr akoby melódia v ňom žila a čakala na chvíľu, keď je dosť tma a dosť ticho a dosť vína na to, aby sa odvážila von. Potichu. Hlasom, ktorý nebol trénovaný, nebol pekný, ale bol *skutočný* — chrapľavý, teplý, nepresný, ľudský.
 
-Pieseň z Beladiss. Slová, ktorým Yera nerozumela — iný dialekt, staré obraty, prístavný slang zmiešaný s rybárskymi frázami, ktoré nemali preklad. Ale melódia nepotrebovala preklad. Melódia bola morská voda a biele útesy a dom, do ktorého sa nedá vrátiť. [→ books/planning/yera-arc-novela.md: Beat 3 — piesne z Diss. Melanchólia. Domov. Morské vlny. Niečo stratené.]
+Pieseň z Beladiss. Slová, ktorým Yera nerozumela — iný dialekt, staré obraty, prístavný slang zmiešaný s rybárskymi frázami, ktoré nemali preklad. Ale melódia nepotrebovala preklad. Melódia bola morská voda a biele útesy a domov, do ktorého sa nedá vrátiť. [→ books/planning/yera-arc-novela.md: Beat 3 — piesne z Diss. Melanchólia. Domov. Morské vlny. Niečo stratené.]
 
 Sedela vedľa neho a počúvala. Kolená si objala rukami. Bosé chodidlá na teplom kameni. Vietor zdvihol jej dlhé čierne vlasy a hodil ich cez rameno — nechala ich. Hodvábne šaty — chrámová farba, chrámový výber, chrámová klietka — sa v nočnom vánku vlnili okolo členkov. Maska ležala medzi nimi na kameni, biela mačacia tvár s modrými namaľovanými očami, hľadiaca do hviezd.
 
-Arkot spieval a Yera pozerala na mesto. Na kanály. Na svetlá. Na lampióny, ktoré sa ešte stále vznášali — menej teraz, posledné, zblúdilé — a na hviezdy za nimi, a na Sai, ktorý pomaly klesol bližšie k horizontu, a na obzor, kde sa more stretalo s oblohou a oba boli čierne.
+Arkot spieval a Yera pozerala na mesto. Na kanály. Na svetlá. Na lampióny, ktoré sa ešte stále vznášali — a na hviezdy za nimi, a na Sai, ktorý pomaly klesol bližšie k horizontu, a na obzor, kde sa more stretalo s oblohou a oba boli čierne.
 
 *Kto si?* pomyslela si. *Odkiaľ si? Prečo spievaš tak, akoby si sa s niekým lúčil?*
 
@@ -334,7 +334,7 @@ Arkot sa nepohol. Nepovedal nič. Nesnažil sa ju zastaviť. Len sedel na okraji
 
 Bola na schodoch, keď počula — alebo si myslela, že počula — ako sa znova nadýchol. Ako keby chcel niečo povedať. Nezastavila sa.
 
-Bežala dolu schodmi, cez ulice, cez prístav, cez most nad kanálom, kde posledné kvety ešte svietili vo vode, cez námestie, kde bubeníci ešte hrali a posledné masky sa ešte krútili v tanci. Bežala, až kým nepocítila pod nohami schody vily klanu Saéli — mramor, biely, hladký, dokonale vyrezaný, dokonale chladný.
+Bežala dolu schodmi, cez ulice, cez prístav, cez most nad kanálom, kde kvety ešte svietili vo vode, cez námestie, kde bubeníci ešte hrali a masky sa ešte krútili v tanci. Bežala, až kým nepocítila pod nohami schody vily klanu Saéli — mramor, biely, hladký, dokonale vyrezaný, dokonale chladný.
 
 Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera prešla dnu bez zvuku.
 
