@@ -6,33 +6,37 @@
 # Kapitola 5: Rozlúčka
 
 **POV**: Yerana Saéli (3. osoba, limited)
-**Lokácia**: Nyau — Sorilina pracovňa → klanový dom Saéli → chrámová podzemná knižnica → prístav
+**Lokácia**: Nyau — Sorilina pracovňa → klanový dom Saéli → chrám (hard cut) → prístav
 **Čas**: ~AY 3012, mesiac po rozchode s Arkotom (→ 04.5-interlude-breakup.md). Arkot a Flint odišli na Kortegovej vzducholodi — loď zmizla, nevrátila sa. Saburo ostal v Nyau (chorý). Tami hľadá doktora. Posádka minimálna.
 **Nálada**: Studený zlom → mesiac tichej prípravy → správa o stratenej lodi → presná noc → Itaka
 
 ---
 
-*„Prvé zlyhanie za dvetisíc rokov."*
+*„Prvé zlyhanie v celej histórii línie."*
 
-Soril to povedala bez hnevu. Bez sarkazmu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o počasí, o oprave strechy, o niečom administratívnom čo treba vyriešiť. [NOTE: Soril nemyslí toto ako trest. Myslí to ako pedagogickú korekciu — Mireth je rezerva, Yera potrebuje čas. Pre Soril je Yerin smútok za Arkotom problém výkonu. Nie zlomyseľnosť — slepota. → characters/Soril.md: Sorilina slepota = nedokáže odlíšiť emocionálny stav od zlyhania. → 04.5-interlude-breakup.md: rozchod = prvý úder. Toto je druhý úder do rovnakého miesta.]
+Soril to povedala bez hnevu. Bez sarkazmu. Stála pri okne a pozerala na chrámový dvor a hovorila tónom, akým by hovorila o výsledkoch auditu — nie o katastrofe. [NOTE: "Zlyhanie" = leak. Niekto hovorí o existencii Originálu Knihy El. Klebety dosiahli Soriliny uši. Pre ňu je to existenčná kríza — tajomstvo strážené celú históriu línie, prvýkrát kompromitované. Soril podozrieva Yeru — bola posledná s prístupom, ice test v Ch4 ukázal, že niečo je iné. Ale vinná je Miret (neopatrná, prekecala sa). Soril tresce nevinnú a odmeňuje vinnú = tragická irónia. → characters/Soril.md: Sorilina slepota. → planning/anjel-v-nyau.md: reťaz dôsledkov.]
 
-*„Ľutujem, že som ti ukázala Knihu skôr, než si bola pripravená. Mireth bude pokračovať v príprave. Ty zostaneš na základnom tréningu."*
+*„Niekto hovorí o veciach, o ktorých by nemal hovoriť."*
+
+Pauza. Soril sa neotočila od okna.
+
+*„Ľutujem, že som ti ukázala Knihu. Miret bude pokračovať v príprave. Ty zostaneš na základnom tréningu."* [NOTE: Soril nepovie priamo "ty si to prezradila." Ale "Ľutujem, že som TI ukázala Knihu" = obvinenie zabalené do sebareflexie. Yera počuje obe vrstvy.]
 
 Yera sedela za stolom a nič nepovedala.
 
 *„Dobre,"* povedala nakoniec.
 
-Rovnako rovný hlas ako Soril. Bez tónu. Soril to počula ako prijatie — kývla, otočila sa a pokračovala v práci.
+Rovnako rovný hlas ako Soril. Bez tónu. Soril to počula ako prijatie — kývla, otočila sa a pokračovala v práci. [NOTE: Soril počuje "Dobre" = submisiu. Yera myslí "Dobre" = definitívne. Ale nie prijatie trestu — prijatie toho, že v tomto systéme nemá ako dokázať nevinu.]
 
 Yera odišla z pracovne. Chodba, kamenná podlaha, liehové lampy. Počítala kroky.
 
 V tej chodbe — nie dramaticky, nie so slzami — sa rozhodla.
 
-Nie *idem hneď.* Len: *idem.* [NOTE: Kľúčový rozdiel oproti impulzu. Yera si nevie dovoliť impulz. Je Pursang — vyškolená na kontrolu. Rozhodnutie príde studeno, presne, ako Sorilina veta. Ona si to od nej zobrala. → characters/Yera.md: reakcia na emóciu — nie výbuch, ale precízia]
+Nie *idem hneď.* Len: *idem.* [NOTE: Yera VIE, že je nevinná. Vie, že to nebola ona kto hovoril. A vie, že nemá ako to dokázať — lebo systém je postavený tak, že najnovšia osoba s prístupom = najväčší podozrivý. Toto robí rozhodnutie definitívnejšie než keby bola naozaj vinná. Nie impulz — Pursang precízia. → characters/Yera.md]
 
 ---
 
-Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Mireth sedávala teraz bližšie k Soril, pri stole kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera neodhalí nič. Celý mesiac je normálna. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
+Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Miret sedávala teraz bližšie k Soril, pri stole kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera vie, že je nevinná — leak nebol od nej. Napriek tomu hrá hru. Chodí k Soril, trénuje, mlčí. Miret sedí bližšie = viditeľný dôkaz povýšenia — vinná odmenená, nevinná degradovaná. Yera to vidí a mlčí. Vulkán pod povrchom. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
 
 Večer chodila domov. Do klanového domu Saéli.
 
@@ -48,19 +52,9 @@ Začala plánovať.
 
 ---
 
-A potom sa naučila miznúť.
+Neviditeľnosť. V chrámovej knižnici to prišlo samo — jeden dych, jedna veta, a svetlo na ňu zabudlo. [→ 04-within-temptation.md: haiku aktivácia Kvintesenciou. Yera to zvládla ešte PRED degradáciou.]
 
-Neviditeľnosť. Technika, ktorú Soril nikdy neučila — len o nej hovorila. Päť zím jej trvalo, kým ju sama zvládla. Akademická precíznosť, štyri fázy, kontrolované cvičenia. Ale Yera nečítala Sorilinu verziu. Čítala originál. [NOTE: Yera prečítala popis neviditeľnosti PRED degradáciou — vypýtala si od Soril povolenie čítať Knihu večer. Legálny prístup, ktorý slúžil aj ako krytie na polnočné stretnutia s Arkotom. Cez deň tréning, večer Kniha, v noci Arkot. Po degradácii Soril zakázala prístup, ale Yera už mala techniku v hlave. → 04-within-temptation.md: večerné čítanie = dual purpose. → characters/Yera.md: talent + motivácia > disciplína + čas. → 03-technology.md: neviditeľnosť = manipulácia indexu lomu cez nanoboty]
-
-V origináli Knihy El to neboli fázy. Bol to jeden pohyb. Jeden dych. Elania to popísala ako *zabudnutie* — nie skrytie sa pred svetlom, ale presvedčenie svetla, že tam nič nie je. Yera si to prečítala pred týždňami, v noci, v podzemí, keď ešte mala Sorilino povolenie. Povolenie stratila. Kvintesencia zostala — tú sa nedalo zabrať. Ale Yera nešla. Hrala dobrú. Slová zostali. [NOTE: Soril vie, že Yera má Kvintesencia. Vie, že zámok sa dá otvoriť. Ale dôveruje systému — Pursang dievča neprekročí zákaz. To je Sorilina slepota: verí v disciplínu viac než v motiváciu. → characters/Soril.md: tragédia pedagóga] [→ the-book-of-El.md: Elaniin popis neviditeľnosti = „Light forgets you." Technicko-poetický jazyk originálu vs akademický jazyk bielej kópie.]
-
-Prvý pokus — v izbe, v noci, sama. Zlomok sekundy. Ruka zmizla po zápästie a vykríkla od prekvapenia. Nič sa nestalo — nikto nepočul. Múry boli hrubé.
-
-Druhý pokus. Tretí. Desiaty.
-
-Po dvoch týždňoch zvládla minútu.
-
-Po troch týždňoch vyšla z domu. [NOTE: Soril sa to učila 5 zím. Yere stačili 3 týždne na to, aby vyšla von. Nie lebo je geniálna — lebo Soril nemala dôvod utekať. Yera áno. Motivácia nie je bonus k talentu — je to palivo, bez ktorého talent stojí. → characters/Yera.md: Pursang talent + zúfalstvo = exponenciálny rast]
+Odvtedy cvičila každú noc. Kontrola prišla rýchlejšie než čakala — nie Sorilina geometria, nie päť zím, ale niečo surové a rýchle, niečo čo jej patrilo. [NOTE: Posun oproti Ch4: tam bola neviditeľnosť náhodná, nekontrolovaná. Tu je cielená. Yera si ju za mesiac prípravy zdokonalila — motivácia > disciplína, ako vždy. → characters/Yera.md: Pursang talent + zúfalstvo = exponenciálny rast. → 03-technology.md: neviditeľnosť = manipulácia indexu lomu cez nanoboty]
 
 ---
 
