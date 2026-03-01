@@ -528,8 +528,7 @@ Yera ležala s otvorenými očami. V jednej ruke teplo, ktoré Arkot nechal na j
 
 Teplo a svetlo.
 
-A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Eltária. Budúca utečenkyňa. Budúca zlodejka.
-
+A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Eltária.
 Zavrela oči.
 
 *Maybe that will be enough.*
