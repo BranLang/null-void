@@ -49,26 +49,21 @@ def _replace_comment(match: re.Match) -> str:
 
 def strip_comments(text: str) -> str:
     """Remove all inline comments from text and clean up empty lines."""
+    # First pass: strip comments from full text (handles multi-line notes
+    # where [NOTE: ... ] spans multiple lines — line-by-line would miss these)
+    text = COMMENT_PATTERN.sub(_replace_comment, text)
+
+    # Second pass: clean up empty lines left behind
     lines = text.split('\n')
     cleaned = []
     prev_empty = False
 
     for line in lines:
-        # Strip comments from line, preserving spacing between surrounding text
-        stripped = COMMENT_PATTERN.sub(_replace_comment, line)
-
-        # If the line is now empty (was comment-only), skip it
-        # but preserve intentional empty lines (markdown formatting)
-        if stripped.strip() == '' and line.strip() != '':
-            # Line had content but it was all comments — skip
-            continue
-
-        # Collapse multiple empty lines into max 2
-        is_empty = stripped.strip() == ''
+        is_empty = line.strip() == ''
         if is_empty and prev_empty:
             continue
 
-        cleaned.append(stripped.rstrip())
+        cleaned.append(line.rstrip())
         prev_empty = is_empty
 
     return '\n'.join(cleaned)
