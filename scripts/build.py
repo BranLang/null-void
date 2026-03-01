@@ -73,7 +73,7 @@ ARC_CONFIGS = {
             'nyau-arc/03-black-book.md',
             'nyau-arc/04-within-temptation.md',
             'nyau-arc/04.5-interlude-breakup.md',
-            # 'nyau-arc/05-farewell.md',
+            'nyau-arc/05-farewell.md',
         ],
         'cover': 'books/book-1/covers/book-nyau-arc-cover.png',
         'cover_fit': 'contain',
