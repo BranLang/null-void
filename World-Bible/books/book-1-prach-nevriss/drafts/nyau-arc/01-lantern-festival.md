@@ -342,7 +342,7 @@ Strážkyňa pri bráne spala. Festival. Aj strážkyne boli len ľudia. Yera pr
 
 Izba bola tmavá a tichá.
 
-Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, zhustený vôňou kvetov a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, ten nikdy-nekončiaci, ten čo počula odkedy sa pamätala a nikdy nepočúvala. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
+Ľahla si na posteľ. Vlasy sa jej rozliali po vankúši — dlhé, čierne, voňajúce kadidlom a soľou. Hodvábne plachty. Steny z bieleho kameňa. Okno otvorené — nočný vzduch, horúci a ťažký, zhustený vôňou kvetov a čohosi, čo ešte cítila na koži. Cez okno vchádzal cvrčkový šum celého Nyau — ten stály, nikdy-nekončiaci, čo počula odkedy sa pamätala a predsa sa jej nikdy nevryl pod kožu. Sem-tam cikáda — ostrejšia, hlasnejšia, samotárska nota nad orchestrom. [→ characters/Yera.md: malá izba, biele steny, posteľ so hodvábnými plachtami]
 
 Zavrela oči.
 
@@ -364,13 +364,13 @@ Cítila teplo jeho ruky na svojej ruke.
 
 Otvorila oči. Za oknom mesto svietilo — tyrkysové, zelené, fialové, jantárové. Lampióny boli preč. Masky boli preč. Festival skončil. Ostalo len Nyau — krásne, svietiace, dokonalé, nehybné.
 
-A Yera ležala v posteli so srdcom, ktoré bilo príliš rýchlo a príliš hlasno a odmietalo sa zastaviť.
+A Yera ležala v posteli so srdcom, ktoré bilo príliš rýchlo a hlasno a odmietalo sa zastaviť.
 
 Niekde v dome sa ozvali kroky. Otcove. Pomalé, premyslené, smerujúce ku schodom. Zastavili sa — na chodbe pred jej dverami. Dlho. Príliš dlho na náhodu.
 
 Potom odišli.
 
-Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými bola tma, a ticho, a otec, ktorý vedel viac, než hovoril. [NOTE: Hook — otec sa zastaví pred dverami. Čitateľ netuší prečo. Yera tiež nie — ale cíti, že niečo sa začalo. Aj pre otca platí: Saéli vedia viac, než hovoria.]
+Yera zovretými prstami stiahla plachtu k brade a pozerala na dvere, za ktorými bola tma, ticho, a otec, ktorý vedel viac, než hovoril. [NOTE: Hook — otec sa zastaví pred dverami. Čitateľ netuší prečo. Yera tiež nie — ale cíti, že niečo sa začalo. Aj pre otca platí: Saéli vedia viac, než hovoria.]
 
 ---
 

@@ -416,6 +416,8 @@ Vzduch bol studený a čistý a nekonečný. Pod ňou svet, nad ňou nič. Prvý
 
 Prvýkrát v živote.
 
+Taška pri boku bola ťažšia než by mala byť. [NOTE: Jemný hook — Kniha El v taške (kamenné tabuľky = váha). Žiadna farba, žiadne meno. Len váha kde by nemala byť. Čitateľ čo dáva pozor si spojí s kryptou (hard cut). Čitateľ čo nie — „zbalila si veci na cestu." „Nie prázdna" = triple meaning: lampión, duša, taška. → planning/anjel-v-nyau.md]
+
 Nie prázdna.
 
 Kurz na východ.
