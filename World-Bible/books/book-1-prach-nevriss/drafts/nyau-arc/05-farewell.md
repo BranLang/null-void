@@ -38,9 +38,9 @@ Nie *idem hneď.* Len: *idem.* [NOTE: Yera VIE, že je nevinná. Vie, že to neb
 
 Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Miret sedávala teraz bližšie k Soril, pri stole, kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera vie, že je nevinná — leak nebol od nej. Napriek tomu hrá hru. Chodí k Soril, trénuje, mlčí. Miret sedí bližšie = viditeľný dôkaz povýšenia — vinná odmenená, nevinná degradovaná. Yera to vidí a mlčí. Vulkán pod povrchom. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
 
-Večer chodila domov. 
+Večer chodila domov.
 
-Braček kreslil kriedou na kameň. Dnes to bola loď. Alebo ryba. Alebo niečo, čo ešte nemalo meno. Zdvihol hlavu a usmial sa na ňu a ona sa musela otočiť, lebo keby sa neovládla, zostala by. [NOTE: Brat = mladší, ~7 rokov (~1.5 zimy). Zmienka 2/2 — iná než v ch2. Tam bol úsmev nevinný. Tu je bolestivý — Yera vie, že ho vidí naposledy. Kresba lode = nevedomý foreshadowing (Yera odchádza na lodi). „Keby sa neurobila, zostala by" = jediný moment, kde Yera takmer zmení rozhodnutie. → characters/Yera.md: brat, TODO — meno]
+Braček kreslil kriedou na kameň. Dnes to bola loď. Alebo ryba. Alebo niečo, čo ešte nemalo meno. Zdvihol hlavu a usmial sa na ňu a ona sa musela otočiť, lebo keby sa neovládla, zostala by. [NOTE: Brat = mladší, ~7 rokov (~1.5 zimy). Zmienka 2/2 — iná než v ch2. Tam bol úsmev nevinný. Tu je bolestivý — Yera vie, že ho vidí naposledy. Kresba lode = nevedomý foreshadowing (Yera odchádza na lodi). „Keby sa neovládla, zostala by" = jediný moment, kde Yera takmer zmení rozhodnutie. → characters/Yera.md: brat, TODO — meno]
 
 Sadávala v knižnici a čítala a otec ju ignoroval a ona jeho. Matka pálila kadidlo pri malej svätyni El v rohovej izbe — každý večer, rovnaká modlitba, rovnaký dym. Yerina rodina nežila spolu — koexistovala. Pod jednou strechou, v oddelených miestnostiach, za zatvorenými dverami. [NOTE: Matka sa Yere vyhýba odkedy sa dohodlo zasvätenie — nevyhľadáva kontakt, vyhýba sa očnému kontaktu. Nie nenávisť — strach. Strach zo dcéry, ktorú posiela do klietky. Matka vie, čo klietka robí. Videla to na sebe.]
 
