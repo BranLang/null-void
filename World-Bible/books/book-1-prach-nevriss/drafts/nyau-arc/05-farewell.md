@@ -38,9 +38,7 @@ Nie *idem hneď.* Len: *idem.* [NOTE: Yera VIE, že je nevinná. Vie, že to neb
 
 Prišla k Soril ráno. Čítala. Trénovala Vodu, Zem, základy. Odpovedala na otázky. Miret sedávala teraz bližšie k Soril, pri stole kde predtým sedávala Yera, a Yera to videla a nič nepovedala. [NOTE: Yera vie, že je nevinná — leak nebol od nej. Napriek tomu hrá hru. Chodí k Soril, trénuje, mlčí. Miret sedí bližšie = viditeľný dôkaz povýšenia — vinná odmenená, nevinná degradovaná. Yera to vidí a mlčí. Vulkán pod povrchom. Soril si nevšimne nič — lebo Yera sa správa presne tak ako predtým. Tréning, čítanie, disciplína. Len vnútri niečo sa skončilo.]
 
-Večer chodila domov. Do klanového domu Saéli.
-
-Prešla vonkajším múrom — biely kameň, tri poschodia, bez okien smerom k ulici. Z vonku len brána a stráž. Z vnútra — rajský dvor, fontány, bioluminiscenčný strom v strede atria, služobníctvo, chodby pre tridsať ľudí, z ktorých štyri pätiny boli prázdne, lebo klan Saéli už nemal tridsať ľudí. Mal osem. Plus sluhov. Plus stráž. Plus brata. [→ characters/Yera.md: klanový dom Saéli — najväčšia vila v Nyau. Kedysi plný život, teraz echá prázdnych chodieb. Bohatstvo bez ľudí.]
+Večer chodila domov. 
 
 Braček kreslil kriedou na kameň. Dnes to bola loď. Alebo ryba. Alebo niečo, čo ešte nemalo meno. Zdvihol hlavu a usmial sa na ňu a ona sa musela otočiť, lebo keby sa neurobila, zostala by. [NOTE: Brat = mladší, ~7 rokov (~1.5 zimy). Zmienka 2/2 — iná než v ch2. Tam bol úsmev nevinný. Tu je bolestivý — Yera vie, že ho vidí naposledy. Kresba lode = nevedomý foreshadowing (Yera odchádza na lodi). „Keby sa neurobila, zostala by" = jediný moment, kde Yera takmer zmení rozhodnutie. → characters/Yera.md: brat, TODO — meno]
 
@@ -66,23 +64,23 @@ Chodila každú noc. Tridsať nocí.
 
 Tridsať nocí neviditeľná v meste, ktoré bolo celý jej život domovom a nikdy predtým ho nevidela. Chodila po bazároch a pristavovala sa pri stánkoch a počúvala, ako ľudia hovoria — nie chrámovým jazykom, nie klanovým jazykom. Jazykom ulice. Počúvala prístavných robotníkov, krčmárov, rybárov, námorníkov. Počúvala, čo hovoria o lodi s tmavým trupom čo kotvila v Nyau pred dvoma zimami a odišla a možno sa vráti. Počúvala o líškinej dcére s modrými očami. O chorobe jej starého kapitána. O posádke, čo odchádza. [NOTE: Yera plánuje útek mesiac vopred — nie impulz, ale operácia. 30 dní neviditeľná v prístave, zbiera informácie. Vie že Itaka príde, vie že Saburo je chorý, vie že posádka je minimálna.]
 
-Počúvala, kedy sa Itaka vráti.
+Prepočula, že vzducholoď Itaka sa vráti - tá ktorá lieta do neznáma.
 
 A dvadsiaty prvý deň počula niečo iné.
 
-Krčma pri treťom mole. Námorníci z poštovej vzducholode, čo práve prišla z Nevriss. Hovorili o Kortegovej lodi — tej ťažkej nákladnej, čo lietala medzi Nyau a východnými prístavmi. Meškala dva týždne. Potom tri. Potom sa prestali pýtať. [NOTE: Kortegova vzducholoď = loď, na ktorej pracoval Arkot a Flint po tom, čo ich Tami odmietla. Pol roka na nej → zmizla. → 04.5-interlude-breakup.md: Arkot odchádza na Kortegovu loď.]
+Krčma pri treťom móle. Aeronauti z poštovej vzducholode, čo práve prišla z Nevriss. Hovorili o Kortegovej lodi — tej ťažkej nákladnej, čo lietala medzi Nyau a západnými prístavmi. Meškala dva týždne. Potom tri. Potom sa prestali pýtať. [NOTE: Kortegova vzducholoď = loď, na ktorej pracoval Arkot a Flint po tom, čo ich Tami odmietla. Pol roka na nej → zmizla. → 04.5-interlude-breakup.md: Arkot odchádza na Kortegovu loď.]
 
 *„Havarovala?"*
 
-*„Nikto nevie. Zmizla nad úžinou. Nikto sa nevrátil."*
+*„Nikto nevie. Zmizla. Nikto sa nevrátil."*
 
-Yera stála neviditeľná dva stoly od nich a nepočítala nádychy. Dve Mezra mená. Nikto v Nyau sa nezastavil. Pre prístav to boli štatistiky — ďalšia stratená loď, ďalší mŕtvi chlapci, čo nemali ani na poriadne pohreb. [NOTE: Arkot a Flint sú pre Nyau štatistika. Pre Yeru sú všetko. Ale to nepovie. Nie tu, nie teraz, nie nahlas. Yera nikdy nedá svetu vidieť, čo cíti. → characters/Yera.md: vulkán]
+Yera stála neviditeľná dva stoly od nich a nepočítala nádychy. Nikto v Nyau sa nezastavil. Pre prístav to boli štatistiky — ďalšia stratená loď, ďalší mŕtvi chlapci, čo nemali ani na poriadne pohreb. [NOTE: Arkot a Flint sú pre Nyau štatistika. Pre Yeru sú všetko. Ale to nepovie. Nie tu, nie teraz, nie nahlas. Yera nikdy nedá svetu vidieť, čo cíti. → characters/Yera.md: vulkán]
 
 Nič nepovedala. Nič neurobila. Stála a čakala, kým dohovoria, kým odídu, kým krčma stíchne.
 
 A potom — v tme, neviditeľná, sama — sa rozhodnutie zmenilo.
 
-Nie *idem*. Teraz: *idem ho nájsť.*
+*idem*. Teraz: *pôjdem ho hladať.*
 
 Chodila k prístavu každú noc posledných desať dní. Mapovala móla — ktoré lode kedy kotvia, kedy sa menia stráže, odkiaľ je najkratšia cesta z chrámu k vode. A čakala. Na jedno molo. Na jeden tmavý trup.
 
@@ -94,9 +92,9 @@ Posledný večer.
 
 Yera čakala do polnoci. Batoh bol zbalený tri dni — príručná taška, lieky, nástroje, zápisník. Vrstva na vrstvu, nič nesmelo vyčnievať, nič nesmelo štrngotať.
 
-Neviditeľnosť — vrstvu za vrstvou, nanoboty v krvi meniace index lomu. Prešla chodbou ako tieň.
+Neviditeľnosť — vrstvu za vrstvou. Prešla chodbou ako tieň.
 
-Otcova knižnica. Zámok na polici.
+Otcova knižnica. Trezor v stene.
 
 Yera poznala kód ešte od útleho veku, keď ju otec zavolal a ukázal jej: *tu sú peniaze klanu. Ak by niečo. Ak by ja niečo.* Vtedy ho to naučila rodová povinnosť. Teraz —
 
@@ -122,11 +120,11 @@ Yera urobila krok vzad. Ruka preč od zámku. *Vie. Zavolá otca. Zavolá strá�
 
 Ale matka nezavolala nikoho.
 
-Prišla k polici. Pomaly, bosými nohami na kamennej podlahe, žiadny zvuk. Položila ruku na zámok — na miesto, kde pred sekundou bola Yerina ruka. Prsty sa jej chveli. Otvorila ho.
+Prišla k trezoru. Pomaly, bosými nohami na kamennej podlahe, žiadny zvuk. Položila ruku na zámok — na miesto, kde pred sekundou bola Yerina ruka. Prsty sa jej chveli. Otvorila ho.
 
 Slzy jej stekali po tvári a Yera ich nevedela čítať — nevedela, prečo matka plače, keď otvára sejf vlastnej dcére, nevedela čo sú to za slzy, tie tiché, bez vzlykov, len voda na tvári ženy, ktorá sa celé roky bála pozrieť sa jej do očí. [NOTE: Slzy šťastia. Matka je šťastná, že Yera robí to, čo ona nikdy nedokázala — utiecť. Ale Yera to nechápe. Vidí plačúcu matku a myslí si, že jej rozbitá srdce. Toto je tragédia ich vzťahu — ani v momente najväčšej blízkosti sa nepochopia. → characters/Yera.md: matka, komplikovaný vzťah]
 
-Matka vytiahla tri mešce. Ťažké. Kožené. Previazané dvakrát. Podala ich Yere.
+Matka vytiahla dva mešce. Ťažké. Kožené. Previazané dvakrát. Podala ich Yere.
 
 Pre klan Saéli to bolo menej než nič — otec to zistí na konci mesiaca pri účtoch, ak vôbec. Pre menší klan to bol celý majetok. Pre Yeru to bolo niekoľko mesiacov slobody. [NOTE: 1% majetku Saéli = celý majetok menšieho klanu. Škála bohatstva.]
 
@@ -136,7 +134,7 @@ Matka zdvihla prst. *Čakaj.* Odišla z knižnice.
 
 Yera stála pri otvorenom sejfe v tme a počúvala tiché kroky na chodbe a nerozumela ničomu.
 
-Matka sa vrátila. V rukách — kabát. Kožený, dlhý, s kožušinovým golierom. Starý strih — z čias, keď klan Saéli bol na vrchole a babička lietala vzducholoďou do Beladiss. Yera ho videla v matkinej skrini odkedy pamätala. Nikdy ho nenosila — bol príliš veľký, príliš ťažký, príliš dospelý. [→ characters/Yera.md: babičkin kabát — matka ho celý čas uchovávala. Teraz ho dáva ďalej. Nie dar — povolenie.]
+Matka sa vrátila. V rukách — kabát. Kožený, dlhý, s kožušinovým golierom. Starý strih — z čias, keď klan Saéli bol na vrchole a babička lietala vzducholoďou do Beladiss. Yera ho videla v matkinej skrini odkedy si pamätala. Nikdy ho nenosila — bol príliš veľký, príliš ťažký, príliš dospelý. [→ characters/Yera.md: babičkin kabát — matka ho celý čas uchovávala. Teraz ho dáva ďalej. Nie dar — povolenie.]
 
 Pod kabátom — čižmy. Tie drahé, z mäkkej kože, na opätkoch, s prackami po stranách. Tiež babičkine.
 
@@ -202,21 +200,15 @@ Chrámová záhrada bola prázdna.
 
 Tá lavička. Bez zastavenia, bez pohľadu. Prešla popri nej ako popri cudzom kusu dreva — lebo to tak teraz bolo. Len kus dreva na nohách. [→ 04-within-temptation.md: lavička — rovnaký obraz, teraz definitívny]
 
-Bočné dvere do chrámu. Kľúč — ten čo mala od prvého dňa tréningu.
+Bočné dvere do chrámu.
 
 Chodba. Liehové lampy, v noci na minimum, tie fliačiky žltého svetla.
 
-Zastavila sa. Neviditeľnosť — Sorilina technika. Aktivovala ju pomaly, vrstvu za vrstvou. Nie dokonalá, nie trvalá, ale dosť. [NOTE: Čitateľ číta: nechce byť pristihnutá v chráme nad ránom. V retrospektíve: kradne Knihu. Každý nástroj čo Soril dala Yere, Yera použila na opak. → characters/Soril.md: Sorilina tragédia]
-
-Fialová Kvintesencia — nestabilná, nie Sorilina geometria, ale dosť. Zámok sa otvoril.
+Zastavila sa. Neviditeľnosť - Aktivovala ju pomaly, vrstvu za vrstvou. [NOTE: Čitateľ číta: nechce byť pristihnutá v chráme nad ránom. V retrospektíve: kradne Knihu. Každý nástroj čo Soril dala Yere, Yera použila na opak. → characters/Soril.md: Sorilina tragédia]
 
 Podzemná knižnica. Tá vôňa — pergamen a vosk, tá istá ako pri prvej noci, keď ju Soril vliekla za ucho.
 
 Skrinka.
-
-Čierne tabuľky. Pergameny medzi nimi — fialové žilky, pomalé, takmer neviditeľné v tme bez sviečky, ale tam. Pulz niečoho čo prežilo dvetisíc rokov.
-
-Yera stála nad nimi dlho. [NOTE: Hard cut. Posledné čo čitateľ vidí = Yera nad otvorenou skrinkou. Potom prístav. Čo sa stalo medzi tým — záhada. Payoff v Book 2+ keď Soril otvorí prázdnu skrinku. → planning/anjel-v-nyau.md]
 
 ---
 
@@ -228,31 +220,31 @@ Nikto sa nepýtal.
 
 Prístav poznala. Tridsať nocí neviditeľná — každé kotvisko, každú krčmu, každú strážnu hliadku. Ale cez deň bol iný. Hlučnejší. Väčší. Desiatky vzducholodí v lanových úväzoch — obchodné z Beladiss a Nevrissu, nákladné, poštové, pirátske s falošnými vlajkami. V noci boli tiene. Cez deň boli obrovské. [NOTE: Yera pozná prístav z nočných prieskumov, ale cez deň je iný — väčší, hlučnejší, reálnejší. Čitateľ musí cítiť veľkosť Nyau — 5M mesto, obrovský prístav, stovky plavidiel.]
 
-Itaka bola na treťom mole. Vedela to — videla ju pristáť pred dvoma dňami. Vedľa, na susednom mole — prázdne kotvisko. Tam kotvieval Korteg. [NOTE: Yera vie presne kde čo je. 30 dní prieskumu. Prázdne kotvisko = pripomienka toho, čo stratila.]
+Itaka bola na treťom móle. Vedela to — videla ju pristáť pred dvoma dňami. Vedľa, na susednom móle — prázdne kotvisko. Tam kotvieval Korteg. [NOTE: Yera vie presne kde čo je. 30 dní prieskumu. Prázdne kotvisko = pripomienka toho, čo stratila.]
 
 ---
 
 Rampa Itaky bola spustená.
 
-Loď vyzerala unavenejšie než pred pol rokom. Trup stále tmavý, stále tichý, stále pekný tým nebezpečným spôsobom. Ale lana ošúchané. Paluba prázdnejšia. Kanón na prove — matná sivá zliatina — bol zaprášený. Nikto ho neudržiaval. [NOTE: Itaka po pol roku bez plnej posádky. Saburo chorý, starí lišiaci odchádzajú — nemajú dôvod slúžiť pod chorým kapitánom a tínedžerkou. Loď hnije v doku. Tami to vie. → characters/Tami.md: Saburova choroba = rozpad posádky]
+Loď vyzerala unavenejšie než pred pol rokom. Trup stále tmavý, stále tichý, stále pekný tým nebezpečným spôsobom. Ale laná ošúchané. Paluba prázdnejšia. Kanón na prove — matná sivá zliatina — bol zaprášený. Nikto ho neudržiaval. [NOTE: Itaka po pol roku bez plnej posádky. Saburo chorý, starí lišiaci odchádzajú — nemajú dôvod slúžiť pod chorým kapitánom a tínedžerkou. Loď hnije v doku. Tami to vie. → characters/Tami.md: Saburova choroba = rozpad posádky]
 
-Na rampke stála dievčina.
+Na rampe stála dievčina.
 
-Rovnako stará ako Yera — možno o zimu viac. Kožená bunda a kovové pracky, líščie uši a líščí chvost, med-zrzavé vlasy späté. Stála s rukami skríženými a nečítala zoznam. Žiadny zoznam. Pozerala na prístav s výrazom niekoho, kto čaká a nechce čakať a vie, že čakanie je všetko čo jej zostalo. [NOTE: Tami nie je kapitánka čo si vyberá z pozície sily. Je tínedžerka s prázdnou loďou a chorým dedom. Potrebuje ľudí. Ale nikdy to nepovie.]
+Rovnako stará ako Yera Kožená bunda a kovové pracky, líščie uši a líščí chvost, medené vlasy. Stála so skríženými rukami. Pozerala na prístav s výrazom niekoho, kto čaká a nechce čakať a vie, že čakanie je všetko čo jej zostalo. [NOTE: Tami nie je kapitánka čo si vyberá z pozície sily. Je tínedžerka s prázdnou loďou a chorým dedom. Potrebuje ľudí. Ale nikdy to nepovie.]
 
-Yera prišla na molo. Sama. [NOTE: Kľúčový rozdiel oproti predchádzajúcej verzii — žiadny Arkot, žiadny Flint. Yera je úplne sama. Prvýkrát v živote stojí pred cudzím človekom bez akejkoľvek opory.]
+Yera prišla na mólo. Sama. [NOTE: Kľúčový rozdiel oproti predchádzajúcej verzii — žiadny Arkot, žiadny Flint. Yera je úplne sama. Prvýkrát v živote stojí pred cudzím človekom bez akejkoľvek opory.]
 
-Tami ju zbadala. Oči — modré, ostré — prečítali kabát, čižmy, batoh, ostrihané vlasy. Prečítali predsvitanie a samotu a rozhodnutie v postoji tela.
+Tami ju zbadala. Oči — modré, ostré — prečítali kabát, čižmy, batoh, ostrihané vlasy. Prečítala odhodlanie v postoji tela.
 
 *„Čo vieš robiť?"*
 
-*„Liečiť. Diagnostika tkanív, manipulácia teploty, hojenie."* Pauza. *„Základná Spira, Voda aj Zem. Výbušniny nie."*
+*„Liečiť."* Pauza. *„Základná Spira, Voda aj Zem. Výbušniny nie."*
 
-Tami zmerala kabát. Čižmy. Príručnú tašku.
+Tami prešla pohľadom po kabáte, čižmách a príručnej taške.
 
-*„Vyzeráš ako niekto, čo nikdy v živote nezdvihla vrece."*
+*„Vyzeráš ako niekto, kto nikdy v živote nezdvihol vrece."*
 
-*„Hojím ľudí čo vrecia zdvíhajú,"* povedala Yera. *„To je rozdelenie práce."*
+*„Hojím ľudí, čo vrecia dvíhajú,"* povedala Yera.
 
 Krátke ticho.
 
@@ -268,7 +260,7 @@ Renn. Renn, ktorý chodil do Nyau ako domov, ktorý o ňom hovoril vždy s tým 
 
 Tami stíchla. Poznala Kortega — každý v prístave poznal Kortega. Ťažká nákladná, čo lietala medzi Nyau a východnými prístavmi. Mesiac oneskorená. Dva mesiace. Nikto sa už nepýtal.
 
-*„Tá sa nevrátila."*
+*„ Tá vzducholoď sa už nevráti."*
 
 *„Viem."*
 
@@ -284,7 +276,7 @@ Tami sa poobzerala v prístave. Pomaly. Každý smer, každý tieň. Kotvisko bo
 
 *„Poď dnu,"* povedala Tami.
 
-Yera vošla po rampke.
+Yera vošla po rampe.
 
 ---
 
