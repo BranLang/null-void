@@ -34,10 +34,6 @@ Yera bola pripravená od chvíle, keď dvere odpovedali.
 
 Schody dolu boli strmšie v tme. Bez Soril pred ňou, bez jej krokov, bez toho tichého rytmu, ktorý napĺňal priestor a robil ho menším — schody sa zdali dlhšie. Hlbšie. Liehová lampa v ruke hádzala tiene na steny a Yera ich sledovala kútikom oka, akoby sa mohli pohnúť. [→ regions/nyau.md: podzemná časť chrámu El — tajná knižnica, existencia nie je verejná. Liehové lampy = dieselpunk estetika.]
 
-Nepohli sa.
-
-Na konci schodov dvere. Yera zdvihla ruku — a tentokrát to prišlo rýchlejšie. Fialové svetlo, glyf, odpoveď. Dvere sa otvorili bez zvuku. [NOTE: Druhýkrát za jednu noc — už ľahšie. Svalová pamäť. Kvintesencia sa učí ako jazyk — prvé slovo je najťažšie.]
-
 Miestnosť bola rovnaká. Knihy pozdĺž stien, sviečka na polici (zhasnutá), stolička, stôl. A na stole — medzi dvoma čiernymi tabuľkami — pergameny. [→ the-book-of-El.md: originál = čierne tabuľky + pergameny]
 
 Fialové žilky pulzovali.
@@ -58,13 +54,13 @@ Yera sa sklonila bližšie. Prach v tabuľkách pod jej tvárou sa rozžiaril �
 
 *Matka.*
 
-Slovo sa opakovalo. Na jednej strane trikrát, na ďalšej dvakrát. V rôznych kontextoch — raz s hnevom, raz s láskou, raz s niečím medzi tým, pre čo Yera nepoznala slovo. Elania písala o Matke tak, ako sa píše o niekom, kto je aj záchranca aj žalárnik — dvesto rokov raja a potom nič. Žiadne vysvetlenie. Žiadna rozlúčka. Len tma. [→ the-book-of-El.md: Inetis opustila Elaniu po vynáleze Spiry — nikdy sa jej nedotkla, nikdy ju neupgradovala na Gen 2. Pre Elaniu = opustenie. Pre Inetis = ochrana. Ani jedna o tom nevie celú pravdu.]
+Slovo sa opakovalo. Na jednej strane trikrát, na ďalšej dvakrát. V rôznych kontextoch — raz s hnevom, raz s láskou, raz s niečím medzi tým, pre čo Yera nepoznala slovo. El písala o Matke tak, ako sa píše o niekom, kto je aj záchranca aj zloduch. Žiadna rozlúčka. Len tma. [→ the-book-of-El.md: Inetis opustila Elania po vynáleze Spiry — nikdy sa jej nedotkla, nikdy ju neupgradovala na Gen 2. Pre Elaniu = opustenie. Pre Inetis = ochrana. Ani jedna o tom nevie celú pravdu.]
 
 *„Neopustila ma,"* písala El na jednom mieste. Pod tým — prečiarknuté — *„Neopustila ma?"* Otáznik bol tenší, rýchlejší, pridaný neskôr. Akoby sa El vrátila k vlastnej vete a prestala jej veriť. [NOTE: Yera nerozumie kontextu — nevie kto je Matka (Inetis), nevie prečo odišla, nevie nič o Gen 2 alebo o Elysiu. Ale cíti emóciu. Dvetisíc rokov starú emóciu, ktorá je stále živá v atramente.]
 
 Yera čítala ďalej.
 
-Na ďalšej strane pasáž v kóde. Nie Staroreč — Yera poznala Staroreč, vedela ju čítať od prvej zimy. Nie hiragana — tú tiež poznala, aspoň základy, dosť na orientáciu. Toto bolo niečo iné. Čísla. Symboly. Hranaté zátvorky, šípky, kombinácie, ktoré vyzerali ako vzorce — ale vzorce čoho? [→ the-book-of-El.md: Elaniin kód = vedecká notácia. Molekulárna biológia, genetika, nanotech špecifikácie. Yerin svet nemá pre to slová — pre ňu sú to „šifry."]
+Na ďalšej strane pasáž v kóde. Nie Staroreč — Yera poznala Staroreč, vedela ju čítať od útleho detstva. Nie hiragana — tú tiež poznala, aspoň základy, dosť na orientáciu. Toto bolo niečo iné. Čísla. Symboly. Hranaté zátvorky, šípky, kombinácie, ktoré vyzerali ako vzorce — ale vzorce čoho? [→ the-book-of-El.md: Elaniin kód = vedecká notácia. Molekulárna biológia, genetika, nanotech špecifikácie. Yerin svet nemá pre to slová — pre ňu sú to „šifry."]
 
 El mala dôvod skrývať. Aj pred budúcimi čitateľkami.
 
@@ -80,7 +76,7 @@ Keď zdvihla hlavu, sviečka dohorela do polovice. Vosk stekajúci po stojane, t
 
 Nevedela. V podzemí neexistoval čas — žiadne okno, žiadny Sai, žiadna zmena svetla. Len sviečka a Kniha a fialové žilky, ktoré pulzovali rovnomerne, trpezlivo, akoby hovorili: *som tu. Nikam nejdem.*
 
-Arkot čaká.
+**Arkot čaká.**
 
 Tá myšlienka vletela dovnútra ako prievan. Nie z hlavy — odspodu, z brucha, z toho miesta, kde žilo teplo a ruky na ramenách a vôňa soli. *Arkot čaká v záhrade. Na lavičke. Pod svietiacimi stromami. Sám.* [NOTE: Prvý moment kontaminácie — Kniha ťahá jedným smerom, Arkot druhým. Yera medzi nimi. Toto sa stane vzorcom celej kapitoly.]
 
@@ -90,13 +86,13 @@ Nie — nezavrela. Zaklapla tabuľky k sebe, pergameny medzi nimi, a položila i
 
 Nočný vzduch na chrámovom dvore ju zasiahol ako facka. Horúci, vlhký, voňajúci kadidlom a nočnými kvetmi — normálny, živý vzduch sveta, ktorý nebol podzemie a pergamen a fialové svetlo. Cikády sa ozvali hneď — ten vysoký, vibrujúci zvuk, čo napĺňal celú chrámovú záhradu — a cvrčky pod nimi, nižšie, stálejšie. Svetlušky sa vznášali medzi kmeňmi — modré a zelené bodky, živé, hlúpe, bezstarostné. [→ regions/nyau.md: subtropická klíma, horúce aj v noci]
 
-Yera bežala cez záhradu.
+Yera bežala cez záhradu ako o život.
 
 ---
 
-Arkot na lavičke. Pomalý úsmev. Mesačné svetlo na leopardích škvrnách.
+Arkot sedel na lavičke. Pomalý úsmev. Mesačné svetlo na leopardích škvrnách.
 
-*„Neskorá dnes."*
+*„Bál som sa, že neprídeš."*
 
 Yera si sadla vedľa neho. Dýchala. Snažila sa spomaliť srdce — búšilo od behu, od schodov, od niečoho, čo nebolo fyzické. [→ characters/Arkot.md: Mezra leopard z Beladiss. Tajné stretnutia v záhrade za kanálom — rituál, ktorý trvá týždne.]
 
@@ -124,11 +120,11 @@ Arkot stíchol uprostred vety.
 
 Yera zdvihla pohľad. Jeho oči — tmavozelené, hlboké, pozorné. Oči bytosti, ktorá vie čítať more aj ľudí.
 
-*„Si niekde inde dnes."*
+*„Nad čím premýšľaš?"*
 
 Nebola to výčitka. Konštatovanie — rovnaký tón, akým hovoril o počasí alebo o prúdoch. Fakt, nie príbeh. [→ characters/Arkot.md: Strohý, priamočiary. Nehovorí zbytočné slová.]
 
-*„Nie,"* povedala Yera. *„Som tu."*
+*„Nad ničím,"* povedala Yera. *„Som tu."*
 
 Nie je.
 
@@ -138,13 +134,13 @@ Yera počúvala. Tentoraz viac. Nie celá — ale viac.
 
 A medzi slovami, v tých malých medzerách, kde dych nahradzoval hlas, stále blikali fialové žilky na čiernom obale, o ktorom Arkot nevedel a nikdy sa nedozvie.
 
-*Prvá trhlina,* pomyslela si neskôr, v posteli, s otvorenými očami a stropom, na ktorom bioluminiscenčný mach svietil príliš jasne na spánok. *Nie od klanu. Nie od Soril. Od Knihy. Kniha El kradne Yeru zevnútra.* [NOTE: Yera to vie. Reflektuje to. Ale neprestane. Toto je definícia závislosti — vedomie problému bez schopnosti prestať.]
+*Prvá trhlina,* pomyslela si neskôr, v posteli, s otvorenými očami a stropom, na ktorom mach svietil príliš jasne na spánok. *Nie od klanu. Nie od Soril. Od Knihy. Kniha El kradne Yeru z vnútra.* [NOTE: Yera to vie. Reflektuje to. Ale neprestane. Toto je definícia závislosti — vedomie problému bez schopnosti prestať.]
 
 ---
 
 Iná noc. Podzemie.
 
-Yera sedela pri svieči a čítala stranu, na ktorú Soril preskočila s tým zvláštnym pohybom prstu — rýchly, presný, ako keď odstrihneš niť. Nepovedala prečo. Nemusela. Soril nikdy nehovorila prečo. [NOTE: Soril preskakuje stránky, ktoré sú príliš osobné. Nie zakázané — len príliš blízke. Haiku o samote nie sú nebezpečné. Sú bolestné.]
+Yera sedela pri sviečke a čítala stranu, ktorú Soril preskočila s tým zvláštnym pohybom prstu — rýchly, presný, ako keď odstrihneš niť. Nepovedala prečo. Nemusela. Soril nikdy nehovorila prečo. [NOTE: Soril preskakuje stránky, ktoré sú príliš osobné. Nie zakázané — len príliš blízke. Haiku o samote nie sú nebezpečné. Sú bolestné.]
 
 Haiku.
 
@@ -152,7 +148,7 @@ Séria — štyri, päť, šesť na jednej strane. Hiragana. Atrament vyblednut�
 
 Yera vedela dosť hiragany na to, aby čítala pomaly. Slová si skladala po slabikách — brodila cez ne ako cez rieku, hľadajúc kamene pod vodou.
 
-Prvé haiku — svetlo čaká pod kameňom, zem je tichá. Yera si ho prečítala dvakrát a stačilo. Druhé bolo o mlčaní — *shizukesa* sa v ňom objavilo dvakrát, na začiatku a na konci, akoby ticho obklopovalo všetko medzi. Tretie o niekom, kto nie je tu a nikdy nebude — *haha no te wa / haruka na hoshi no / hikari dake* — matkine ruky sú len svetlo ďalekej hviezdy. Yera si myslela, že rozumie, koho myslí. *Matka.* Inetis. Ten vzdialený stred, okolo ktorého sa všetko točilo a ku ktorému sa nič nedostalo. [→ the-book-of-El.md: Elania o Inetis — ambivalentný vzťah. „Matka" v haiku môže byť Inetis, môže byť Zem, môže byť niečo abstraktnejšie.]
+Prvé haiku — svetlo čaká pod kameňom, zem je tichá. Yera si ho prečítala dvakrát a stačilo. Druhé bolo o mlčaní — *shizukesa* sa v ňom objavilo dvakrát, na začiatku a na konci, akoby ticho obklopovalo všetko medzi. Tretie o niekom, kto nie je tu a nikdy nebude — *haha no te wa / haruka na hoshi no / hikari dake* — matkine ruky sú len svetlo ďalekej hviezdy. Yera si myslela, že rozumie, koho myslí. *Matka.* Ten vzdialený stred, okolo ktorého sa všetko točilo a ku ktorému sa nič nedostalo. [→ the-book-of-El.md: Elania o Inetis — ambivalentný vzťah. „Matka" v haiku môže byť Inetis, môže byť Zem, môže byť niečo abstraktnejšie.]
 
 Štvrté haiku bolo iné.
 
@@ -168,7 +164,7 @@ Keď dočítala, niečo sa v nej zastavilo. Nie o Matke. Nie o svetle. O tme v m
 
 Yera ho prečítala trikrát.
 
-Piatokrát. Desaťkrát.
+Päťkrát. Desaťkrát.
 
 Fialové žilky pod haiku pulzovali pomaly — tempo, ktoré sa zhodovalo s niečím v Yere, s niečím, o čom nevedela, že existuje, kým ho nepočula zvonku. Ako keď prvýkrát počuješ melódiu, ktorú si celý život brúsila pod nosom, a zistíš, že existuje aj pre niekoho iného. [→ 04-elanias-blade.md: Prach reaguje na kognitívny stav Spira-nositeľa v blízkosti.]
 

@@ -2,6 +2,13 @@
 
 > *Backstory arc. Udalosti vedúce k smrti Renna a prebudeniu Maksa. Status: Brainstorm.*
 
+## Epigraf arcu
+
+> *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam."*
+> — Kniha El, 3:7
+
+[NOTE: Tento verš otvára Rennov arc. Tí čo prišli = Renn, Kael — prišli za pokladom, zabudli odkiaľ (zabudli na ľudí, čo za sebou nechali). Tí čo zostali = Tami, Felix — nikdy nevedeli kam otec/priateľ odišiel, ani prečo. Rovnaký verš je aj epigrafom Ch5 Farewell v nyau-arc — zámerná symetria. → concepts/kniha-el-verses.md]
+
 ---
 
 ## Základné údaje

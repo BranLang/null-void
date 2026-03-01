@@ -213,7 +213,7 @@ Yera sa zasmiala. Skutočný smiech — nie ten zdvorilý, nie ten klanový, ten
 Na piatu noc Yera konečne bez myšlienok, voľne a slobodne položila líce na jeho odhalené rameno. Sledovala, ako sa pretekajúce fialové žilky svetla rastlín odrážajú od profilu jeho čeľuste. Tie leopardie fľaky mu na krku pripomínali malý zabudnutý rastrovaný vesmír vpísaný do kože. Hlavou jej prúdil tichý, no nekompromisný vzdor nad chrámovými stenami, a vybavil sa jej verš, s ktorým Soril cez deň strčila tvrdý prst do papiera bez akéhokoľvek dopovedania významu:
 
 *„A tí, čo prišli, zabudli odkiaľ. A tí, čo zostali, nikdy nevedeli kam.“*
-Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci a zvuku mora z prístavu. 
+Povedala tú vetu nahlas. Len tak prepadla z jej pier von, medzi nich, zmiešaná do lepkavej vlhkosti noci.
 
 Arkot sa ani nepohol. Jeho hrudník stúpal a klesal hlbokým a pokojným tempom plavca.
 „To je z tej svätej knihy?“
