@@ -53,11 +53,11 @@
 - **KLIETKA**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. Soril (prísna nadradená kňažka) ju „pripravuje." Pre dcéru klanu je vstup do Chrámu = buď sľúbená mužovi, alebo sľúbená bohovi. Iná klietka, rovnaký zámok.
 
 **Soril a OG Black Book of El:**
-- **Soril** — prísna, zatrpknutá hlavná kňažka Chrámu El. Nie je len Yerina nadradená — je **Strážkyňa Denníka El**. Tajná funkcia, staršia než Cirkev. Jedna kňažka v generácii stráži originál pod oltárom. [→ characters/Soril.md]
+- **Soril** — prísna, zatrpknutá hlavná kňažka Chrámu El. Nie je len Yerina nadradená — je to **Eltária**. Tajná funkcia, staršia než Cirkev. Jedna kňažka v generácii stráži originál pod oltárom. [→ characters/Soril.md]
 - **Soril si vybrala Yeru ako nasledovníčku.** Pozoruje ju od prvej zimy. Prísnosť, kontrola, „smrť tisíckou rezov" — všetko je testovanie. Ak Yera vydrží Soril, vydrží aj pravdu o El.
 - **Noc Odhalenia:** Soril videla Yeru s Arkotom v záhradách. Namiesto trestu — odvedie ju pod oltár. Ukáže originál. Povie: *„El bola žena. Ako my dve. Keď som bola mladá, cítila som rovnaké pokušenie."* Prvýkrát v živote je ľudská.
 - **Tajomstvo a odmena:** *„Teraz poznáš tajomstvo, ktoré musíš chrániť. Tvojou odmenou je, že môžeš študovať knihu. Hľadať odpovede."* Pre Yeru, ktorá cítila medzery v kanonických textoch celý život, je toto **silnejšie než hrozba**. Odpovede.
-- **Tréning — neviditeľnosť:** Strážkyňa musí bojovať. V origináli je popis ako Anjel (Sera) Démona porazila — **neviditeľnosť + bodnutie do srdca zblízka**. Tajomstvo kňažiek = tajná Spira technika neviditeľnosti (presmerovanie svetla cez nanoboty). El sa Samaellovi podvolila (Gen 1.7 vs 1.0 — ale on vedel čarovať s prachom). Jedine Sera to zvládla. Strážkyňa trénuje Serinu techniku. [→ characters/Samaell.md: V skutočnosti mŕtvy od AY 3001 — nikto v Nyau to nevie]
+- **Tréning — neviditeľnosť:** Eltária musí bojovať. V origináli je popis ako Anjel (Sera) Démona porazila — **neviditeľnosť + bodnutie do srdca zblízka**. Tajomstvo kňažiek = tajná Spira technika neviditeľnosti (presmerovanie svetla cez nanoboty). El sa Samaellovi podvolila (Gen 1.7 vs 1.0 — ale on vedel čarovať s prachom). Jedine Sera to zvládla. Eltária trénuje Serinu techniku. [→ characters/Samaell.md: V skutočnosti mŕtvy od AY 3001 — nikto v Nyau to nevie]
 - **Nástupníctvo:** Soril zomrie za ~10 zím. Potom si Yera nájde svoju nástupkyňu. Kniha napovie koho hľadať — čím dlhšie ju študuješ, tým viac v nej vidíš.
 
 **OG Black Book of El — Čo Yera uvidí:**

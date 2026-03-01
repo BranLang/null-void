@@ -14,7 +14,7 @@
 
 Lampa v záhrade za starým kanálom hádzala žlté kruhy na dlažbu. Cvrčky hrali svoju nočnú litániu a svetlušky — modré, tyrkysové, zelené — krúžili pomedzi kríky pri lavičke, kde Yera sedela s Arkotom. Cikáda na strome nad nimi vibrovala tak hlasno, že takmer prekryla zvuk krokov.
 
-Yera ani nezačula kroky. [NOTE: zámerné — Soril je Strážkyňa, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
+Yera ani nezačula kroky. [NOTE: zámerné — Soril je Eltária, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
 
 Prsty sa jej zavreli okolo ucha — suché, silné, neváhavé — a svet sa otočil. Lavička. Mesačné svetlo. Arkotova teplá ruka, ktorá sa náhle stratila. Všetko ostalo za ňou. [→ characters/Yera.md: Arkot — Mezra, leopardie škvrny, zakázaná láska. Dvojité tabu: kastové + porušenie celibátneho sľubu]
 
@@ -26,7 +26,7 @@ Tá žena nebola nahnevaná.
 
 Bola niečo iné.
 
-Zastavila sa pred kovanými dverami do vnútra chrámu. Ruky poklesli k bokoch. Vydýchla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
+Zastavila sa pred kovanými dverami na konci dlhej chodby, ktoré sa nikdy neotvorili. Ruky poklesli k bokoch. Vydýchla — pomaly, kontrolovane — a Yera počula, ako sa v tej pauze niečo láme. Nie hlasno. Len prasknutie. Ako konárik pod snehom.
 
 *„Nech to Samaell vezme,"* povedala Soril.
 
@@ -38,21 +38,21 @@ Prvý raz od záhrady pohľad mimo Yeru — dole, na kované dvere, akoby sa roz
 
 Zdvihla pravú ruku.
 
-Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintescenciu — jediná v Nyau]
+Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintesenciu — jediná v Nyau]
 
 Yera stuhla.
 
-Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby niečo v jej tele odpovedalo na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintescenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
+Tetovanie na jej predlaktí — akvamarínové línie, mŕtve, neaktívne — zapulzovalo. Nie viditeľne. Zvnútra. Vibrácia pod kožou, v kostiach predlaktia, v zuboch — akoby niečo v jej tele odpovedalo na to fialové svetlo niečím, čo nebolo jej. Vlna tepla prešla od brucha nahor, do hrdla, až sa jej na sekundu zatemnil zrak. [NOTE: Gen 2 nanotech v Yere reaguje na Kvintesenciu — rezonancia. Nie bolesť, nie mágia — hardvér rozpoznáva softvér.]
 
-Vedela o Kvintescencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
+Vedela o Kvintesencii tak, ako vedela o vzdialených ostrovoch — abstraktne, kdesi, nie tu, nie v suchých prstoch tej ženy, ktorá ju vliekla za ucho cez záhradu. Nevedela čakať takú silu. Nikdy si nemyslela, že Soril je —
 
 Dvere sa otvorili bez zvuku.
 
-*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
+*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Eltáriu v plnom zmysle slova.]
 
-Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
+Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
 
-Zdvihla ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintescencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
+Potom Soril demonštratívne vystrela ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintesencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
 
 Yera nedýchala.
 
@@ -62,17 +62,19 @@ Yera nedýchala.
 
 Nedopovedala. [NOTE: Soril VIE čo sa stane — glyf zasvieti fialovo → zmení sa na červeno → nekonečná slučka → kryštalizácia. Nepovedala to. Nechala to visieť. Foreshadowing Mayi — Yera si zapamätá ticho, nie slová. Keď neskôr stretne Mayu, doplní si sama.]
 
-Schody viedli dole. [→ regions/nyau.md: podzemná časť chrámu El — tajná knižnica, existencia nie je verejná]
+Schody viedli do tmy. [→ regions/nyau.md: podzemná časť chrámu El — tajná knižnica, existencia nie je verejná]
 
 ---
 
-Miestnosť za poslednými schodmi voňala starým pergamenom a voskom. Vzduch bol chladnejší tu dole — vlhký, tichý, odrezaný od sveta.
+Miestnosť v podzemí voňala starým pergamenom a voskom. Vzduch bol chladnejší tu dole — vlhký, tichý, odrezaný od sveta.
+
+Soril zapálila sviečky pomocou spiry. [NOTE: Soril má v sebe oheň — ale v podzemí ho musí zapáliť. → characters/Soril.md: Soril má v sebe oheň — nie je to len metafora.]
 
 Jedna sviečka na stole, ďalšia na polici. Knihy pozdĺž stien — nie ozdobné, nie liturgické, staré a ošúchané ako veci, ktoré sa skutočne čítajú. Väzby z rôznych materiálov — koža, drevo, niečo, čo vyzeralo ako kôra bioluminiscenčného stromu. Yera ich chcela čítať všetky. [→ regions/nyau.md: zakázaná knižnica — texty, ktoré Cirkev El vyradila z obehu. Kňažky o nej nevedia.]
 
 Soril sa na ňu pozrela.
 
-Ten pohľad nemal slová. Mal desať zím. [NOTE: Soril má ~14 zím (~70 rokov). „Päťdesiat rokov" (= 10 zím) = odkedy si vybrala Chrám nad svojím Arkotom. Bola ~4 zimy (~20 rokov) keď sa rozhodla. → characters/Soril.md]
+Ten pohľad nemal slová. [NOTE: Soril má ~14 zím (~70 rokov). „Päťdesiat rokov" (= 10 zím) = odkedy si vybrala Chrám nad svojím Arkotom. Bola ~4 zimy (~20 rokov) keď sa rozhodla. → characters/Soril.md]
 
 Zdvihla ruku. Glyf na kamennej skrini v stene sa rozžiaril — rovnaká fialová, rovnaká geometria. Kameň sa otvoril bez zvuku. [NOTE: Skriňa je zapustená v stene. Kamenná, masívna, s glyfom — rovnaký princíp ako dvere hore.]
 
@@ -96,7 +98,7 @@ Kniha ležala medzi nimi na stole — na dosah ruky. Hľadela na ňu a dlane jej
 
 Odtiahla ruky do lona. Prsty sa nepatrne triasli.
 
-*„To, čomu sa celé kráľovstvo každú zimu klania,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
+*„To, čomu sa celá krajina každú zimu klania,"* povedala Soril, *„biely hodváb, pozlátené písmo — to je kópia."* [NOTE: Biela Kniha El = sanitizovaná kópia, verejne vystavovaná každú zimu (1 zima = 5 rokov). Originál nikdy neopustil podzemie. → the-book-of-El.md: Originál je KOMPLETNÝ a TAJNÝ.]
 
 Prst prešiel po okraji čiernej tabuľky. Pomaly.
 
@@ -144,12 +146,6 @@ Yera naň hľadela dlho.
 
 Poznala ju. Tá istá hviezda, tie isté pomery — kresba, ktorú Soril preskočila v bielej Knihe pred mesiacmi, keď sa Yera opýtala a dostala len *„Niečo, na čo nie si pripravená."* Tu bola celá. Väčšia, detailnejšia, s koncentrickými kruhmi a alchemickými symbolmi, ale tá istá päťcípa konštrukcia. Nie modlitba. Nie symbol viery. Technický výkres. [NOTE: Prepojenie s Ch2 — Yera tu SPOZNÁVA glyf z bielej Knihy. Nie nový objav, ale potvrdenie toho, čo tušila — Soril jej ukazuje originál toho, čo predtým skrývala. Posun od „čo je to?" k „takže toto je to, čo si skrývala."]
 
-V rohu strany, drobne, v Staroreči: *architecture.*
-
-Jedno slovo. Jej rukopis. A Yera pochopila — nie náhle, nie dramaticky, len pomalé prepadnutie podlahy pod niečím, čo stálo celý život. Soril nepreskakovala strany z opatrnosti. Preskakovala ich, lebo v bielej Knihe bola modlitba. V origináli bol výkres.
-
-Fialové svetlo v obale na sekundu zosilnelo — a vrátilo sa späť. [→ 04-elanias-blade.md: Prach reaguje na kognitívne podnety v blízkosti aktívneho Spira-nositeľa. Gen 1 materiál rozpoznáva Gen 2 signál.]
-
 ---
 
 Potom prišli deti.
@@ -178,7 +174,7 @@ O tri riadky nižšie ten istý rukopis degeneroval do spirálovitých čmáran�
 
 Yera sa dotkla okraja čiernej tabuľky. Fialové svetlo pod jej prstom zbledlo — rýchlo, ostro — a vrátilo sa, keď odtiahla ruku. [→ 04-elanias-blade.md: Prach reaguje na fyzický kontakt — rovnako ako steny svätyni pod Šoravenom reagovali na Maksa. Gen 1 materiál cíti Gen 2 nositeľa. → NOTE: Tento dotyk je dôležitý — prvý fyzický kontakt s Prachom. Intímny moment. Yera sa Knihy dotkne znova — keď ju ukradne.]
 
-*„Prečo to nevedia ľudia?"* spýtala sa. Tichšie, než predtým.
+*„Prečo o tom nikto nevie?"* spýtala sa. Tichšie, než predtým.
 
 Soril sa pozrela na ňu dlho. Nie prísne — inak. Meravejšie. Akoby merala, koľko Yera unesie.
 
@@ -210,7 +206,7 @@ Yera hľadela na tú tvár dlho. Na tie oči. Na to slovo.
 
 Yera sa nemohla odtrhnúť od tých nakreslených očí. Unavená tvár. Tie oči. Nie démon z ilustrácií v bielej Knihe — nie bezsrstá príšera z detských nočných modlitieb. Len muž. [NOTE: Varietas nemajú problém s rohami — rohy sú normálne. „Démon" v ich kultúre = niečo ľudské, hladkokožé, cudzie. Irónia: Samaell JE humanoidný (ARK-13), ale portrét ukazuje len unavenú tvár, nie príšeru.]
 
-*„Soril,"* povedala pomaly, *„je pravda, že sa stále túla lesmi na severe a hľadá El?"*
+*„Soril,"* povedala pomaly, *„je pravda, že Samaell sa stále túla lesmi na severe a hľadá El?"*
 
 Legenda. Každé dieťa v Nyau ju poznalo — Samaell, démon, pokušiteľ. Chcel zviesť El z cesty, ale ona odolala. Odišla s Anjelom, čistá, nedotknutá, a on bol prekliaty blúdiť severnými lesmi naveky. Bezpečná legenda. Jasná morálka: zlo sa pokúsilo a prehralo. [NOTE: Toto je OFICIÁLNA cirkevná verzia. Samaell = čistý antagonista, pokušiteľ, porazený. V legende je „El", nie „Matka" — titul Matka prišiel neskôr, keď sa jej božstvo spojilo s Inetis. Elania nemala vlastné deti — jej „deti" sú Varietas. Bola skôr dcéra, nie matka v doslovnom zmysle.]
 
@@ -224,15 +220,15 @@ Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril h
 
 ---
 
-*„Každá Strážkyňa musí ísť sama,"* povedala Soril nakoniec. *„Do severných lesov. Nájsť ho. Pozorovať. Prežiť. A vrátiť sa a opísať, ako vyzerá — lebo tento portrét,"* prst sa dotkol pergamenu, *„bol kreslený vo víziách. Nie je presný. Každá Strážkyňa ho nakreslí znova. Zo skutočnej pamäti."* [→ characters/Soril.md: Ritual Strážkyne — ísť sama do severných lesov, nájsť Samaella, pozorovať, prežiť. Soril to absolvovala. → NOTE: Čo Soril skutočne videla v lese: nie démon, nie smútiaci milostník — rozpadajúci sa muž. 2000 rokov bez Inetis, bez účelu, s degradujúcim Gen 1 a Glitch Rotom. Šialenstvo, ktoré nie je dramatické — je tiché a nepredvídateľné. Horšie než monster. Soril to nikdy Yere nepovie celé. Yera si doplní romantický obraz. → NOTE: Samaell chcel Inetis, nie Elaniu — Elania bola pre neho náhrada. Soril to nevie. Nikto v Nyau to nevie. → NOTE: Samaell je mŕtvy od AY 3001 — ďalšia Strážkyňa nájde len lesy. Ani Yera, ani Soril to nevedia.]
+*„Každá Eltária musí ísť sama,"* povedala Soril nakoniec. *„Do severných lesov. Nájsť ho. Pozorovať. Prežiť. A vrátiť sa a opísať, ako vyzerá — lebo tento portrét,"* prst sa dotkol pergamenu, *„bol kreslený vo víziách. Nie je presný. Každá Eltária ho nakreslí znova. Zo skutočnej pamäti."* [→ characters/Soril.md: Ritual Eltárie — ísť sama do severných lesov, nájsť Samaella, pozorovať, prežiť. Soril to absolvovala. → NOTE: Čo Soril skutočne videla v lese: nie démon, nie smútiaci milostník — rozpadajúci sa muž. 2000 rokov bez Inetis, bez účelu, s degradujúcim Gen 1 a Glitch Rotom. Šialenstvo, ktoré nie je dramatické — je tiché a nepredvídateľné. Horšie než monster. Soril to nikdy Yere nepovie celé. Yera si doplní romantický obraz. → NOTE: Samaell chcel Inetis, nie Elaniu — Elania bola pre neho náhrada. Soril to nevie. Nikto v Nyau to nevie. → NOTE: Samaell je mŕtvy od AY 3001 — ďalšia Eltária nájde len lesy. Ani Yera, ani Soril to nevedia.]
 
 *„Teda — ty si ho videla."* Nie otázka. Konštatovanie — Yerin hlas, ten tichý, ten čo spracúva.
 
 *„Áno."*
 
-Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintescenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
+Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintesenciu a chodila sama do lesov za démonom a vrátila sa živá. *„Bála si sa?"*
 
-Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Strážkyňa, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred desiatimi zimami. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
+Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Eltária, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred desiatimi zimami. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
 
 *„Najviac v živote, dieťa."*
 
@@ -302,7 +298,7 @@ Len si to neuvedomila.
 
 Ruky jej ležali na čiernych tabuľkách — suché ruky, silné, s prstami, ktoré vedeli robiť fialové Glyfy a vliecť dievčatá za ucho z parku. Ruky, ktoré nikdy neobjali toho krásneho chlapca druhýkrát po tom, čo si vybrala.
 
-*„Ešte nenadišiel tvoj čas,"* povedala. Vrátil sa tvrdší tón. Strážkyňa. *„Ale príde. A keď príde — budeš vedieť, čo si vybrať."*
+*„Ešte nenadišiel tvoj čas,"* povedala. Vrátil sa tvrdší tón. Eltária. *„Ale príde. A keď príde — budeš vedieť, čo si vybrať."*
 
 *„A čo si vybrala ty?"* spýtala sa Yera.
 
@@ -318,13 +314,13 @@ O veciach, ktoré Yera už videla inak — a o niektorých, ktoré ešte nie. O 
 
 Alebo nenašla v čase písania. [→ the-book-of-El.md: Jaskyňa Ely — Elania sa vrátila ku kryostáze Maksa ~AY 863, keď Sera prišla po ňu. Cirkev nevie, že jaskyňa existuje. → books/book-1-prach-nevriss/concepts/maks-awakening-concept.md]
 
-A Yera počúvala všetko. Zapamätávala si. Ten druh zapamätávania, ktorý nie je zámerný, ale je absolútny — keď niečo zasiahne miesto, kde si myslíš, že si prázdna, a zistíš, že nie si. [NOTE: Yera si tu nevyberá ukradnúť Knihu. To príde neskôr — z kumulácie ponížení, z jedného konečného momentu s Soril. Toto je len zárodok. Ona teraz počúva. Ukladá. Rastie.]
+A Yera počúvala všetko. 
 
 Keď vyšli hore, Soril zapečatila skrinku, zamkla dvere a vyviedla ju von pred chrám, kde čakali Saéli strážkyne — dve tiché postavy v tieni stĺpov, nehybné, akoby tam stáli celú noc.
 
 *„Odprevaďte ju domov,"* povedala Soril. Nepozerala na Yeru. Pozerala na strážkyne. *„A dávajte na ňu lepší pozor."*
 
-Strážkyne sa neopýtali prečo. So Soril sa nikto nikdy nepýtal prečo.
+Strážkyne sa neopýtali prečo. So Soril sa nikto nikdy nepýtal prečo. Ale Nira — tá sa na Yeru pozrela. Krátko. Jeden pohľad, v ktorom bolo všetko naraz — sklamanie, starosť, hnev, a pod tým niečo horšie, niečo, čo Yere zovrel žalúdok: *vedela som to.* Nirin chvost pod plášťom stuhol. Potom sklopila oči a pohľad zmizol, akoby nikdy nebol.
 
 Potom sa otočila a odišla. Bez rozlúčky. Kroky na kamennej podlahe — suché, presné, zmenšujúce sa — a potom nič. [NOTE: Soril prikáže klanové strážkyne, nie chrámové — Yera je Saéli, strážkyne sú klanové. „Lepší pozor" = Soril vie o nočných výletoch. Nepovie to priamo. Nechá strážkyne, nech si to domyslia. Zároveň foreshadowing — strážkyne budú bdelšie, čo Yere sťaží budúce stretnutia s Arkotom.]
 

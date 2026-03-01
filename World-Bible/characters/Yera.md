@@ -1,4 +1,4 @@
-# Yera — Skladovaná Panna
+# Yera — Skladovaná Panna (Yerana Saeli z Nyau, The Eltaria Disciple)
 
 | | |
 |---|---|
@@ -57,7 +57,7 @@
 - **Strážkyne** — priradené Yere osobne, nie otcovi, nie klanu. **Jej.** Lojálne jej. Strážili ju od detstva — je tam citová väzba. Vedia, že zasvätenie do Chrámu El = doživotný celibát, koniec slobody. Za pár mesiacov ich práca skončí a Yera bude navždy zavretá v chráme. Preto tolerujú jej vrtochy a excesy — chcú jej dopriať záblesk slobody pred väzením. Keď im povedala *„Nájdite mi Mezra leoparda z Diss v prístave"*, neopýtali sa prečo. Našli ho. Tajomstvo dedičky je ich tajomstvo.
 - **Mladší brat** — ~1 zima (5 rokov) v čase Lampionového festivalu. Modré mačacie oči (po matke, ako Yera). Zdedí majetok klanu. Nie je dôležitý pre plot, len pre kontext: Yera nie je jediné dieťa, ale je jediná dcéra. [TODO: meno brata]
 - Mala ~3 zimy (17 rokov) a tri zimy od prvej služby v Chráme El, keď stretla Arkota.
-- **Klietka**: Nie zásnuby — **zasvätenie do Chrámu El**. Celibát na celý život. Obrovská prestíž pre klan. **Soril** (Strážkyňa Denníka El) si ju vybrala ako nasledovníčku — nie len pre Chrám, ale pre tajnú funkciu stráženia originálu Knihy El. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu. [→ characters/Soril.md]
+- **Klietka**: Nie zásnuby — **zasvätenie za Eltáriu v Chráme El**. Celibát na celý život. Obrovská prestíž pre klan. **Soril** (súčasná Eltária) si ju vybrala ako nasledovníčku — nie len pre Chrám, ale pre tajnú funkciu stráženia originálu Knihy El. Dvojitý zákaz pri Arkotovi: kastové tabu + porušenie sľubu celibátu. [→ characters/Soril.md]
 - **Prvé stretnutie** — počas **Lampionového festivalu** v Nyau. Yera unikla z klanového balkóna (posledný festival pred zasvätením), túlala sa ulicami sama — prvýkrát v živote bez sprievodu. Arkot — trochu opitý Mezra leopard z Diss — sedel na schodoch pri prístave. *„Stratila si sa?"* Vzal ju na strechu skladiska. Pozerali hviezdy, lampióny stúpali k oblohe, on spieval piesne z Beladiss. Ponúkol ju alkoholom, chytil ju za ruku — nič sa nestalo, Yera sa zľakla a utiekla domov. Ale nasledujúce dni nemohla spať — myslela na jeho oči, na jeho hlas. Na šiesty deň ho išla hľadať do prístavu.
 - **Zakázaná láska** — Pursang + Mezra = medzikastové tabu + porušenie sľubu celibátu. Tajné stretnutia v bioluminescentných záhradách. Flint kryl. Klan Saéli sa dozvedel → škandál → ultimátum.
 - **Noc Odhalenia** — Soril jej ukázala OG Black Book of El — originál pod oltárom. Povedala: *„El bola žena. Ako my dve."* Odmena za službu: študovať knihu, hľadať odpovede. Naučila ju tajnú techniku kňažiek — **neviditeľnosť** (Spira presmerovanie svetla). Yera mala chrániť knihu pred Démonom. Namiesto toho —
@@ -72,7 +72,7 @@
 - **„Štvrtá kajuta, ľavá strana. Odplávame za dve hodiny."** — Tami ju prijala. Yera mala nový domov.
 - **Pravý dôvod úteku**: Nie Arkot. Útek pred dôsledkami krádeže Knihy El. Arkot si myslí, že je hlavný dôvod. Nie je.
 - Najsilnejšia Spiristka v posádke — **ale nie bojovníčka**. Kľúčové schopnosti:
-  - **Stealth** — neviditeľnosť (tajná technika Strážkyne Denníka El, naučila ju Soril). Presmerovanie svetla okolo tela cez nanoboty. Nikto v posádke o tom nevie. Pomohla jej ukradnúť knihu a opakovane ju zachránila.
+  - **Stealth** — neviditeľnosť (tajná technika Eltárie, naučila ju Soril). Presmerovanie svetla okolo tela cez nanoboty. Nikto v posádke o tom nevie. Pomohla jej ukradnúť knihu a opakovane ju zachránila.
   - **Heal** — vodná Spira, hojenie rán, diagnostika. Jej primárna identita v posádke — „liečiteľka".
   - **Water/Ice magic** — ofenzívna vodná Spira. Manipulácia vody a ľadu. Vrátane **tajného haiku na ice glacier** — ľadový kryštál, ktorý prebodne srdce. Technika určená na zabitie Démona — naučená od Soril, z opisu Seriného útoku v origináli Knihy El (Sera bodla Samaella do srdca; Yera by urobila to isté, ale ľadovou kopijou cez Spiru). [→ characters/Soril.md: Tréning]
   - **Limit**: Pacifistka. Nikdy nikomu neublížila. Nedokončila tréning (utiekla skôr) — ale ani keby zostala, nebola by bojovníčka. Ice glacier haiku pozná z teórie (Sorilina výuka zo Seriného opisu v Knihe El), ale nikdy ho nepoužila na živú bytosť. Nemá Taminu bojovú rutinu (7 rokov s Maksom: rapier, pištole, reflexy, terénny boj). V priamom boji je zraniteľná. Silná Spira, čisté ruky.

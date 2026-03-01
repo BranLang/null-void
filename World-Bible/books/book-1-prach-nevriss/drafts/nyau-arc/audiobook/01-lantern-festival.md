@@ -23,7 +23,7 @@ A Yera sedela na balkóne vedľa otca a nedýchala.
 
 Otec hovoril s hlavami vedľajších klanov. Pokojne, vecne, slovami ako šachové ťahy. Vedľa neho sedela Yera — chrbát rovný, ruky v lone, mačacie uši vzpriamené, tvár pokojná. Dokonalá dcéra. Dokonalá Saéli. Dokonalé divadlo.
 
-Hodvábne šaty boli tyrkysové — chrámová farba. Soril ich vybrala. *Pre budúcu strážkyňu,* povedala, keď ich Yere dnes ráno priniesli do izby. *Nech ťa mesto vidí v správnych farbách.* Jemná tkanina, klanový vzor ručne vyšívaný na límci a rukávoch, pod nimi len koža — hladká, ľudská, bez srsti. Pursang. Boli krásne. Boli klietkou z hodvábu.
+Hodvábne šaty boli tyrkysové — chrámová farba. Soril ich vybrala. *Pre budúcu Eltáriu,* povedala, keď ich Yere dnes ráno priniesli do izby. *Nech ťa mesto vidí v správnych farbách.* Jemná tkanina, klanový vzor ručne vyšívaný na límci a rukávoch, pod nimi len koža — hladká, ľudská, bez srsti. Pursang. Boli krásne. Boli klietkou z hodvábu.
 
 Okolo nich sedela klanová aristokracia. Starí muži v čajových rúchach diskutovali o cenách korenia. Manželky v hodvábnych šatách si vymieňali pohľady, ktoré stáli viac než slová. Deti drobných členov klanu — príliš malé na to, aby sa pretvarovali, príliš veľké na to, aby sa smiali nahlas — sedeli v rade a pozerali na lampióny s očami veľkými ako mesiace.
 
