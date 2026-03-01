@@ -20,7 +20,7 @@ Prsty sa jej zavreli okolo ucha — suché, silné, neváhavé — a svet sa oto
 
 Soril nič nepovedala.
 
-Vliekla ju cez chrámovú záhradu, cez bočné dvere, cez chodbu kde svietili liehové lampy v rovnakých rozostupoch ako vždy. Yerine bosé nohy šúchali po kamennej podlahe. Chcela niečo povedať — ospravedlnenie, vysvetlenie, čokoľvek — ale pohľad na Sorilinu chrbát ju zastavil. [→ regions/nyau.md: chrámová chodba, liehové lampy = dieselpunk estetika, žiadna elektrina]
+Vliekla ju cez chrámovú záhradu, cez bočné dvere, cez chodbu, kde svietili liehové lampy v rovnakých rozostupoch ako vždy. Yerine bosé nohy šúchali po kamennej podlahe. Chcela niečo povedať — ospravedlnenie, vysvetlenie, čokoľvek — ale pohľad na Sorilinu chrbát ju zastavil. [→ regions/nyau.md: chrámová chodba, liehové lampy = dieselpunk estetika, žiadna elektrina]
 
 Tá žena nebola nahnevaná.
 
@@ -38,7 +38,7 @@ Prvý raz od záhrady pohľad mimo Yeru — dole, na kované dvere, akoby sa roz
 
 Zdvihla pravú ruku.
 
-Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom záchvate. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintesenciu — jediná v Nyau]
+Fialové svetlo rozkvitlo medzi jej prstami — nie ako plameň, nie ako blesk, pomaly, ako keď sa otvára kvet v časozbernom zábere. Glyf na kovaných dverách sa rozžiaril v tej istej farbe. Čistý. Symetrický. Päť línií, päť vrcholov, bezchybná geometria. [→ 03-technology.md: Glyf (glyf) — päť elementov. Fialová = Kvintesencia, piaty element. Najvyšší level Spiry — vedomie, príkazový kód, programovanie samotnej reality nanotech svrstvy. → characters/Soril.md: Soril ovláda Kvintesenciu — jediná v Nyau]
 
 Yera stuhla.
 
@@ -52,7 +52,7 @@ Dvere sa otvorili bez zvuku.
 
 Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
 
-Potom Soril demonštratívne vystrela ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintesencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
+Potom Soril demonštratívne vystrela ruku. Vzduch okolo jej prstov sa zachvel — niečo medzi horúcim vzduchom a vodou, niečo, čo nebolo celkom tu. Na zlomok sekundy Sorilina ruka zmizla. Len prsty, len obrys — ale zmizla. [NOTE: Neviditeľnosť = čiastočný prechod cez bránu Kvintesencie. Nanoboty čiastočne presunú nositeľa do subspace vrstvy → svetlo sa ohne okolo tela. Soril to UKÁŽE, nevysvetľuje. → characters/Yera.md: Stealth — neviditeľnosť, tajná technika Strážkyne. → 03-technology.md: subspace, The Core.]
 
 Yera nedýchala.
 
@@ -68,7 +68,7 @@ Schody viedli do tmy. [→ regions/nyau.md: podzemná časť chrámu El — tajn
 
 Miestnosť v podzemí voňala starým pergamenom a voskom. Vzduch bol chladnejší tu dole — vlhký, tichý, odrezaný od sveta.
 
-Soril zapálila sviečky pomocou spiry. [NOTE: Soril má v sebe oheň — ale v podzemí ho musí zapáliť. → characters/Soril.md: Soril má v sebe oheň — nie je to len metafora.]
+Soril zapálila sviečky pomocou Spiry. [NOTE: Soril má v sebe oheň — ale v podzemí ho musí zapáliť. → characters/Soril.md: Soril má v sebe oheň — nie je to len metafora.]
 
 Jedna sviečka na stole, ďalšia na polici. Knihy pozdĺž stien — nie ozdobné, nie liturgické, staré a ošúchané ako veci, ktoré sa skutočne čítajú. Väzby z rôznych materiálov — koža, drevo, niečo, čo vyzeralo ako kôra bioluminiscenčného stromu. Yera ich chcela čítať všetky. [→ regions/nyau.md: zakázaná knižnica — texty, ktoré Cirkev El vyradila z obehu. Kňažky o nej nevedia.]
 
@@ -238,13 +238,13 @@ Pauza. Dlhá.
 
 Plameň sa zachvel. Fialové svetlo v obale.
 
-*„Ale viera mi dáva silu."* [NOTE: Soril nepovie čoho sa bojí. Čitateľ vidí — bojí sa, že Samaell príde po Knihe. Nevie, že je mŕtvy. Päťdesiat rokov strážila pred hrozbou, ktorá zanikla pred dvanástimi rokmi. → 01-timeline.md: Samaell AY 3001. → characters/Soril.md: jej celý život je postavený na tejto hrozbe.]
+*„Ale viera mi dáva silu."* [NOTE: Soril nepovie čoho sa bojí. Čitateľ vidí — bojí sa, že Samaell príde po Knihe. Nevie, že je mŕtvy. Päťdesiat rokov strážila pred hrozbou, ktorá zanikla pred deviatimi rokmi. → 01-timeline.md: Samaell AY 3001. → characters/Soril.md: jej celý život je postavený na tejto hrozbe.]
 
 ---
 
 Potom prišla tá strana.
 
-Soril ju otočila pomaly — akoby to robila po tisíckrát, akoby vedela, že toto je moment, pre ktorý sem prišli, hoci to neplánovala, hoci záhrada a ucho a schody dole neboli plán. Boli. Boli plán, len iný ako si myslela.
+Soril ju otočila pomaly — akoby to robila po tisíckrát, akoby vedela, že toto je moment, pre ktorý sem prišli, hoci to neplánovala, hoci záhrada a ucho a schody dole neboli plán. Boli. Boli plán, len iný, ako si myslela.
 
 Yera čítala.
 
