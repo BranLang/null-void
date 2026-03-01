@@ -314,13 +314,13 @@ O veciach, ktoré Yera už videla inak — a o niektorých, ktoré ešte nie. O 
 
 Alebo nenašla v čase písania. [→ the-book-of-El.md: Jaskyňa Ely — Elania sa vrátila ku kryostáze Maksa ~AY 863, keď Sera prišla po ňu. Cirkev nevie, že jaskyňa existuje. → books/book-1-prach-nevriss/concepts/maks-awakening-concept.md]
 
-A Yera počúvala všetko. 
+A Yera počúvala všetko.
 
 Keď vyšli hore, Soril zapečatila skrinku, zamkla dvere a vyviedla ju von pred chrám, kde čakali Saéli strážkyne — dve tiché postavy v tieni stĺpov, nehybné, akoby tam stáli celú noc.
 
 *„Odprevaďte ju domov,"* povedala Soril. Nepozerala na Yeru. Pozerala na strážkyne. *„A dávajte na ňu lepší pozor."*
 
-Strážkyne sa neopýtali prečo. So Soril sa nikto nikdy nepýtal prečo. Ale Nira — tá sa na Yeru pozrela. Krátko. Jeden pohľad, v ktorom bolo všetko naraz — sklamanie, starosť, hnev, a pod tým niečo horšie, niečo, čo Yere zovrel žalúdok: *vedela som to.* Nirin chvost pod plášťom stuhol. Potom sklopila oči a pohľad zmizol, akoby nikdy nebol.
+Strážkyne sa neopýtali, prečo. So Soril sa nikto nikdy nepýtal, prečo. Ale Nira — tá sa na Yeru pozrela. Krátko. Jeden pohľad, v ktorom bolo všetko naraz — sklamanie, starosť, hnev, a pod tým niečo horšie, niečo, čo Yere zovrel žalúdok: *vedela som to.* Nirin chvost pod plášťom stuhol. Potom sklopila oči a pohľad zmizol, akoby nikdy nebol.
 
 Potom sa otočila a odišla. Bez rozlúčky. Kroky na kamennej podlahe — suché, presné, zmenšujúce sa — a potom nič. [NOTE: Soril prikáže klanové strážkyne, nie chrámové — Yera je Saéli, strážkyne sú klanové. „Lepší pozor" = Soril vie o nočných výletoch. Nepovie to priamo. Nechá strážkyne, nech si to domyslia. Zároveň foreshadowing — strážkyne budú bdelšie, čo Yere sťaží budúce stretnutia s Arkotom.]
 
@@ -345,9 +345,9 @@ Yera rozumela. Len nie to, čo Soril chcela.
 
 [NOTE: „Jej otec" — Yera pozná legendu o otcovi El (Spáč/Maks). Prvá zmienka v jej POV. Zapamätá si to, keď sa Maks prebudí v hlavnom deji.]
 
-[TODO: V ďalšej kapitole — mesiace stretnutí s Arkotom v záhrade. Paralelný čas: deň = tréning u Soril (Kvintesencia, neviditeľnosť), noc = Arkot. Dvoj-život. Narastajúce napätie.]
+[RESOLVED: Implementované v 04-within-temptation.md — mesiace stretnutí s Arkotom v záhrade. Paralelný čas: deň = tréning u Soril (Kvintesencia, neviditeľnosť), noc = Arkot. Dvoj-život. Narastajúce napätie.]
 
-[TODO: Finálna scéna Nyau arcu — jeden konkrétny incident s Soril (poníženie pred ostatnými kňažkami?) ktorý zlomí trpezlivosť. Impulzívna krádež, nie plánovaná. Yera siahne po Knihe z hnevu, nie zo stratégie.]
+[RESOLVED: Implementované v 05-farewell.md — Sorilina degradácia pred Miret zlomí trpezlivosť. Impulzívna krádež z hnevu, nie zo stratégie.]
 
 [→ Kapitola vychádza z characters/Soril.md, characters/Yera.md, the-book-of-El.md, regions/nyau.md]
 [→ Samaell: 04-prehistory-players.md, 01-timeline.md AY 3001]
