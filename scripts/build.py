@@ -66,6 +66,7 @@ ARC_CONFIGS = {
         'book': 'book-1-prach-nevriss',
         'chapters': [
             'nyau-arc/01-lantern-festival.md',
+            'nyau-arc/01.5-interlude-first-light.md',
             'nyau-arc/02-first-light.md',
             'nyau-arc/02.1-interlude-itaka.md',
             'nyau-arc/02.5-interlude-temple.md',
