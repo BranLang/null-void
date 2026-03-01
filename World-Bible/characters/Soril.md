@@ -1,4 +1,4 @@
-# Soril — Strážkyňa Čiernej Knihy
+# Soril — Eltária
 
 | | |
 |---|---|
@@ -7,7 +7,7 @@
 | **Rasa** | Felis Varietas (mačka) |
 | **Kasta** | Pursang (pôvodne klan neznámy — odrezaný pri zasvätení) |
 | **Vek** | ~14 zím (~70 rokov) — vyzerá na ~50 vďaka Spire |
-| **Povolanie** | Hlavná kňažka Chrámu El, Strážkyňa Denníka El |
+| **Povolanie** | Hlavná kňažka Chrámu El, Eltária |
 | **Pôvod** | Nyau |
 | **Rola** | Mentorka / antagonistka v Yera Arc |
 
@@ -39,37 +39,37 @@
 - **Bola ako Yera.** Kedysi. Pred 50 rokmi. Mladá, krásna, silná Spiristka z vplyvného klanu. Cítila rovnaké pokušenie — videla svet za múrmi chrámu a chcela tam ísť. **Mala svojho „Arkota"** — niekto, na koho myslieva v noci, keď je chrám prázdny a ticho príliš hlasné.
 - **Vybrala si Chrám.** Nie dobrovoľne — ale aj nie celkom nedobrovoľne. Bolo to komplikovanejšie než „zlomili ju". Pochopila, že útek znamená stratiť všetko — klan, meno, Spiru, identitu. A zostala. A ten „Arkot" odišiel bez nej. A ona s tým žije 50 rokov.
 - **Zatrpknutá — ale nie zlá.** Soril nie je sadistka. Je žena, ktorá urobila ťažké rozhodnutie a musí veriť, že to bolo správne. Keby pripustila, že sa mýlila — čo potom bolo tých 50 rokov? Preto je prísna. Preto kontroluje. Preto vyžaduje od Yery to, čo vyžadovala od seba. **„Ak som to zvládla ja, zvládneš to aj ty."**
-- **Vie pravdu o Knihe El.** Ako Strážkyňa Denníka má prístup k **originálu pod oltárom**. Prečítala zakázané pasáže. Vie, že El bola žena — zdrogovaná, zlomená, v mačacej maske, tancujúca s mŕtvymi. Vie o Démonovi. Vie o preklínaní Matky. A stále verí. **Nie napriek tomu — vďaka tomu.** Pre Soril je El svätejšia práve preto, že bola ľudská — bola pokúšaná, padla, a Anjel ju zachránil. Mýtus nie je lož. Mýtus je **očistená pravda**.
+- **Vie pravdu o Knihe El.** Ako Eltária má prístup k **originálu pod oltárom**. Prečítala zakázané pasáže. Vie, že El bola žena — zdrogovaná, zlomená, v mačacej maske, tancujúca s mŕtvymi. Vie o Démonovi. Vie o preklínaní Matky. A stále verí. **Nie napriek tomu — vďaka tomu.** Pre Soril je El svätejšia práve preto, že bola ľudská — bola pokúšaná, padla, a Anjel ju zachránil. Mýtus nie je lož. Mýtus je **očistená pravda**.
 
 ---
 
-## Rola v príbehu — Strážkyňa a Mentorka
+## Rola v príbehu — Eltária a Mentorka
 
 ### Tradícia výberu
 
-Soril si **vybrala Yeru ako svoju nasledovníčku**. Nie len pre Chrám — pre **Strážkyňu Knihy**. Toto je tajná tradícia, staršia než Cirkev El samotná:
+Soril si **vybrala Yeru ako svoju nasledovníčku**. Nie len pre Chrám — pre **Eltáriu**. Toto je tajná tradícia, staršia než Cirkev El samotná:
 
-- **Každá Strážkyňa si vyberie ďalšiu.** Vždy tú najsilnejšiu, najinteligentnejšiu, najcitlivejšiu. Kňažku, ktorá dokáže uniesť váhu originálu — pravdu o El, ktorá by zlomila bežnú veriacu.
-- **Strážkyňa pozná celý originál** — vrátane zakázaných pasáží. Je to bremeno. Nie každá ho unesie. Niektoré predchodkyne to nezvládli — jedna sa zbláznila, jedna utiekla, jedna skočila z chrámovej veže. Soril prežila. A teraz hľadá niekoho rovnako silného.
+- **Každá Eltária si vyberie ďalšiu.** Vždy tú najsilnejšiu, najinteligentnejšiu, najcitlivejšiu. Kňažku, ktorá dokáže uniesť váhu originálu — pravdu o El, ktorá by zlomila bežnú veriacu.
+- **Eltária pozná celý originál** — vrátane zakázaných pasáží. Je to bremeno. Nie každá ho unesie. Niektoré predchodkyne to nezvládli — jedna sa zbláznila, jedna utiekla, jedna skočila z chrámovej veže. Soril prežila. A teraz hľadá niekoho rovnako silného.
 - **Yera je ideálna.** Saéli krv. Najsilnejšia Spira v generácii. Inteligentná, zvedavá, trochu rebelská — ale nie nezvládnuteľne. Soril ju pozoruje od prvej zimy. Všetko, čo robí — prísnosť, kontrola, „smrť tisíckou rezov" — je **testovanie**. Ak Yera vydrží toto, vydrží aj pravdu.
 
-### Tréning — Strážkyňa musí bojovať
+### Tréning — Eltária musí bojovať
 
-Strážkyňa nie je len knihovníčka. Je **bojovníčka**. Dôvod je v samotnej knihe — a v zakladajúcom mýte Cirkvi El:
+Eltária nie je len knihovníčka. Je **bojovníčka**. Dôvod je v samotnej knihe — a v zakladajúcom mýte Cirkvi El:
 
-- **Démon si príde po knihu.** Cirkev El verí, že Samaell (Démon, čo pokúšal El) sa stále túla v lesoch na severe od Nyau — tak, ako to robil posledných 2000 rokov. Jedného dňa si príde po knihu. Po slová El. Po dôkaz svojho pádu. A Strážkyňa musí byť pripravená ho zastaviť. [→ characters/Samaell.md: V skutočnosti je Samaell mŕtvy od AY 3001 — ale nikto v Nyau to nevie.]
-- **V Knihe El je popis toho, ako Samaell útočí.** Elania ho pozorovala — chodil po štyroch, vrčal, jeho tieňové vlákna sa šírili po zemi, jeho nanoboty hľadali slabiny. Elania to opísala s vedeckou presnosťou génia — aj keď bola zdrogovaná, stále bola dcéra Inetis. **El sa mu podvolila** — aj keď mala technicky lepšiu verziu nanotechnológie (Gen 1.7 vs Samaellova 1.0), Samaell vedel doslova **čarovať s prachom**. Nikto sa mu nerovnal v ovládaní Gen 1 nanotechu — 2000+ rokov praxe, inštinktívne ovládanie, tieňová manipulácia na úrovni umenia. El mu nevedela odolať. Tieto pasáže sú v zakázanej sekcii — ale Strážkyňa ich pozná. **Strážkyňa študuje Démona, aby ho mohla zastaviť — alebo aspoň zdržať.** [→ 03a-nanotechnology.md: Gen 1 verzie]
-- **Tajomstvo kňažiek — neviditeľnosť.** Jadro tréningu Strážkyne je tajná Spira technika: **neviditeľnosť**. V Knihe El je popis toho, ako Anjel (Sera) porazila Démona — urobila sa neviditeľnou a bodla ho do srdca zblízka. Jediný spôsob, ako obísť Samaellovo ovládanie prachu. Kňažky sa to naučili — nie priamo od Sery, ale z Elaniiných zápiskov v origináli (Elania pozorovala Serin útok a opísala ho). Neviditeľnosť nie je bežná Spira technika — vyžaduje extrémnu kontrolu, presmerovanie svetla okolo tela cez nanoboty. Len najsilnejšie Spiristky ju dokážu ovládnuť. Preto musí byť Strážkyňa vždy **najsilnejšia Spiristka v generácii**. [→ 03-technology.md: Spira — pokročilé techniky]
-- **Soril trénovala celý život.** Neviditeľnosť. Vodné bariéry. Detekčné glyfy. A **tajné haiku** — Spira skripty zakódované v haiku formáte (echo Elaniiných haiku v denníku). Najsmrteľnejšie z nich: **ice glacier** — haiku, ktoré vytvorí ľadový kryštál schopný prebodnúť srdce. Serinu techniku preloženú do Yeriného elementu: Sera bodla fyzicky; Strážkyňa bodne **ľadovou kopijou cez Spiru**. Neviditeľnosť + ice glacier = stealth kill Démona.
+- **Démon si príde po knihu.** Cirkev El verí, že Samaell (Démon, čo pokúšal El) sa stále túla v lesoch na severe od Nyau — tak, ako to robil posledných 2000 rokov. Jedného dňa si príde po knihu. Po slová El. Po dôkaz svojho pádu. A Eltária musí byť pripravená ho zastaviť. [→ characters/Samaell.md: V skutočnosti je Samaell mŕtvy od AY 3001 — ale nikto v Nyau to nevie.]
+- **V Knihe El je popis toho, ako Samaell útočí.** Elania ho pozorovala — chodil po štyroch, vrčal, jeho tieňové vlákna sa šírili po zemi, jeho nanoboty hľadali slabiny. Elania to opísala s vedeckou presnosťou génia — aj keď bola zdrogovaná, stále bola dcéra Inetis. **El sa mu podvolila** — aj keď mala technicky lepšiu verziu nanotechnológie (Gen 1.7 vs Samaellova 1.0), Samaell vedel doslova **čarovať s prachom**. Nikto sa mu nerovnal v ovládaní Gen 1 nanotechu — 2000+ rokov praxe, inštinktívne ovládanie, tieňová manipulácia na úrovni umenia. El mu nevedela odolať. Tieto pasáže sú v zakázanej sekcii — ale Eltária ich pozná. **Eltária študuje Démona, aby ho mohla zastaviť — alebo aspoň zdržať.** [→ 03a-nanotechnology.md: Gen 1 verzie]
+- **Tajomstvo kňažiek — neviditeľnosť.** Jadro tréningu Eltárie je tajná Spira technika: **neviditeľnosť**. V Knihe El je popis toho, ako Anjel (Sera) porazila Démona — urobila sa neviditeľnou a bodla ho do srdca zblízka. Jediný spôsob, ako obísť Samaellovo ovládanie prachu. Kňažky sa to naučili — nie priamo od Sery, ale z Elaniiných zápiskov v origináli (Elania pozorovala Serin útok a opísala ho). Neviditeľnosť nie je bežná Spira technika — vyžaduje extrémnu kontrolu, presmerovanie svetla okolo tela cez nanoboty. Len najsilnejšie Spiristky ju dokážu ovládnuť. Preto musí byť Eltária vždy **najsilnejšia Spiristka v generácii**. [→ 03-technology.md: Spira — pokročilé techniky]
+- **Soril trénovala celý život.** Neviditeľnosť. Vodné bariéry. Detekčné glyfy. A **tajné haiku** — Spira skripty zakódované v haiku formáte (echo Elaniiných haiku v denníku). Najsmrteľnejšie z nich: **ice glacier** — haiku, ktoré vytvorí ľadový kryštál schopný prebodnúť srdce. Serinu techniku preloženú do Yeriného elementu: Sera bodla fyzicky; Eltária bodne **ľadovou kopijou cez Spiru**. Neviditeľnosť + ice glacier = stealth kill Démona.
 - **Yerine kľúčové schopnosti z tréningu:**
   - **Stealth** (neviditeľnosť) — tajomstvo kňažiek
   - **Heal** (vodná Spira) — hojenie rán, diagnostika — Yerin prirodzený talent
   - **Water/Ice magic** — ofenzívna vodná Spira, vrátane ice glacier haiku
 - **Yera musí podstúpiť rovnaký tréning.** Soril jej to povie priamo: *„Tvoja úloha nie je len čítať. Tvoja úloha je chrániť. A jedného dňa sa budeš musieť postaviť niečomu, čo chodí po štyroch a vrčí do tmy. Anjel to dokázala. Ty to dokážeš tiež."*
 
-**Hrôza z Démona je opodstatnená:** Elania mala Gen 1.7 — lepšiu verziu než Samaellova 1.0. A podvolila sa mu. Ak dcéra Inetis nevedela odolať Samaellovmu ovládaniu prachu, aká šanca má smrteľná kňažka? Strážkyňa to vie. Preto je tréning tak intenzívny — nie preto, že by veril vo víťazstvo, ale preto, že **čas je všetko**. Zdržať Démona o hodinu. O minútu. O dosť dlho na to, aby kniha bola v bezpečí.
+**Hrôza z Démona je opodstatnená:** Elania mala Gen 1.7 — lepšiu verziu než Samaellova 1.0. A podvolila sa mu. Ak dcéra Inetis nevedela odolať Samaellovmu ovládaniu prachu, aká šanca má smrteľná kňažka? Eltária to vie. Preto je tréning tak intenzívny — nie preto, že by veril vo víťazstvo, ale preto, že **čas je všetko**. Zdržať Démona o hodinu. O minútu. O dosť dlho na to, aby kniha bola v bezpečí.
 
-**Irónia:** Samaell je mŕtvy. Maks ho zabil v AY 3001. Celý tréningový systém Strážkyne je založený na hrozbe, ktorá už neexistuje. Ale v Nyau nikto nevie — a strach z Démona drží tradíciu nažive. [→ characters/Samaell.md: Duel so Samaellom (AY 3001)]
+**Irónia:** Samaell je mŕtvy. Maks ho zabil v AY 3001. Celý tréningový systém Eltárie je založený na hrozbe, ktorá už neexistuje. Ale v Nyau nikto nevie — a strach z Démona drží tradíciu nažive. [→ characters/Samaell.md: Duel so Samaellom (AY 3001)]
 
 ### Noc Odhalenia
 
@@ -93,9 +93,9 @@ Ale namiesto trestu — **hovorí:**
 
 **Nástupníctvo — keď Soril zomrie:**
 - Soril je v strednom veku pre Pursang (~14 zím z ~40) — za ~10 zím plánuje odovzdať úlohu. Povedala to Yere priamo, vecne, bez emócií. *„Za desať zím odídem. A ty si nájdeš svoju nástupkyňu."*
-- **Kniha napovie, koho hľadať.** Toto je najzáhadnejšia časť tradície — Strážkyňa nečíta knihu len raz. Študuje ju celý život. A čím dlhšie ju študuje, tým viac rozumie. A niekde v tých stránkach — v kresbách, v haiku, v prúde vedomia nesmrteľnej ženy — **sú odpovede na otázky, ktoré Strážkyňa ešte ani nepoložila**. Vrátane toho, kto má byť ďalšia.
+- **Kniha napovie, koho hľadať.** Toto je najzáhadnejšia časť tradície — Eltária nečíta knihu len raz. Študuje ju celý život. A čím dlhšie ju študuje, tým viac rozumie. A niekde v tých stránkach — v kresbách, v haiku, v prúde vedomia nesmrteľnej ženy — **sú odpovede na otázky, ktoré Eltária ešte ani nepoložila**. Vrátane toho, kto má byť ďalšia.
 - Soril to vysvetlí jednoducho: *„Kniha ti napovie, koho máš hľadať. Nehovorí to priamo. Ale keď budeš pripravená — budeš vedieť."*
-- **Implikácia:** Originál nie je len historický dokument. Pre Strážkyňu je to **živý text** — čím viac sa mení čitateľka, tým viac v ňom vidí. Elania nepísala pre osadníkov. Písala pre seba. Ale jej myšlienky sú tak hlboké a viacvrstvové, že každá generácia Strážkyní v nich nachádza niečo iné. Niečo, čo potrebuje práve ona.
+- **Implikácia:** Originál nie je len historický dokument. Pre Eltáriu je to **živý text** — čím viac sa mení čitateľka, tým viac v ňom vidí. Elania nepísala pre osadníkov. Písala pre seba. Ale jej myšlienky sú tak hlboké a viacvrstvové, že každá generácia Eltárií v nich nachádza niečo iné. Niečo, čo potrebuje práve ona.
 
 ### Čo Soril nečaká
 
@@ -148,7 +148,7 @@ Keď Soril otvorí knihu, Yera uvidí niečo, čo žiadna kanonická kópia neob
 ### Fáza 5 — Rozpad (~rok 10–13)
 
 - **PTSD kresby.** Chaotické, temné, desivé. Elania kreslí veci, ktoré vidí pod vplyvom húb — alebo veci, ktoré si pamätá z 500 rokov hrôzy. **Glyfy** — nie elegantné IDE diagramy, ale zúrivé, škrabané, zdeformované. **Wraithy** — tieňové bytosti s prázdnymi tvárami. **Tiene z prachu** — zhmotnení mŕtvi priatelia, tancujúci okolo ohňa. **Kozmický horror** — tvary, ktoré nemajú meno, pocity, ktoré nemajú slová. Niektoré stránky sú pokryté čiernym prachom — akoby Elania stratila kontrolu a nanoboty jej zaplavili stránku.
-- **Preklínanie Matky.** Nie modlitby. Výkriky. *„Prečo si ma nechala?"* *„Nenávidím ťa."* *„Kde si? Kde si? Kde si?"* Opakovane, cez celé stránky, niekedy čitateľné, niekedy len škrabance. **V bielej Knihe toto nie je.** El nemôže nenávidieť Matku. Ale v origináli je každá strana zachovaná — nedotknutá. Preto existuje Strážkyňa.
+- **Preklínanie Matky.** Nie modlitby. Výkriky. *„Prečo si ma nechala?"* *„Nenávidím ťa."* *„Kde si? Kde si? Kde si?"* Opakovane, cez celé stránky, niekedy čitateľné, niekedy len škrabance. **V bielej Knihe toto nie je.** El nemôže nenávidieť Matku. Ale v origináli je každá strana zachovaná — nedotknutá. Preto existuje Eltária.
 - **Portrét Samaella.** Niekde v poslednej tretine knihy — **portrét muža**. Nie démona. Muža. Ľudská tvár — unavená, stará, ale nie škaredá. Oči, v ktorých je niečo rozpoznateľné — rovnaká únava ako v Elaniných očiach. Pod portrétom žiadne meno. Len: *„on"*. A potom niekoľko stránok o ňom — o nociach s ním, o tom, že rozumie jej bolesti, o tom, že je rovnako stratený. **V bielej Knihe toto nie je.** El nemôže mať milenca. Ale originál je svätý — slovo El sa nemaže. [→ characters/Samaell.md: Ohne na východnom pobreží]
 - **A potom kniha končí.** Posledné stránky sú takmer prázdne — pár slov, pár čiar. Rukopis sa rozpadá. Posledná čitateľná veta je niečo o svetle. Alebo o konci. Alebo o oboch. A potom — nič. Sera prišla. Anjel vzal El ku hviezdam. Denník zostal.
 
@@ -158,10 +158,10 @@ Keď Soril otvorí knihu, Yera uvidí niečo, čo žiadna kanonická kópia neob
 
 ### Čo Soril chce
 
-- Chce Yeru ako **nasledovníčku**. Nie len kňažku — **Strážkyňu**. Tú, ktorá bude strážiť originál po nej.
-- Chce, aby Yera **pochopila**, že pokušenie je normálne — každá Strážkyňa ho cítila. Aj El ho cítila. A cesta je prijať ho, nie mu podľahnúť.
+- Chce Yeru ako **nasledovníčku**. Nie len kňažku — **Eltáriu**. Tú, ktorá bude strážiť originál po nej.
+- Chce, aby Yera **pochopila**, že pokušenie je normálne — každá Eltária ho cítila. Aj El ho cítila. A cesta je prijať ho, nie mu podľahnúť.
 - Chce, aby Yera videla, že **El bola žena** — a práve preto je svätá. Nie napriek ľudskosti, ale vďaka nej. Mýtus nie je lož — je očistená pravda.
-- V istom zmysle chce, aby Yera bola to, **čím ona nemohla byť** — Strážkyňa, ktorá nesie bremeno dobrovoľne, nie z rezignácie.
+- V istom zmysle chce, aby Yera bola to, **čím ona nemohla byť** — Eltária, ktorá nesie bremeno dobrovoľne, nie z rezignácie.
 
 ### Čo Soril dostane
 
@@ -173,7 +173,7 @@ Keď Soril otvorí knihu, Yera uvidí niečo, čo žiadna kanonická kópia neob
 
 ## Čo Soril neurobí
 
-- **Neprezradí Yeru.** Nie okamžite. Keď zistí, že kniha chýba — bude vedieť, kto ju vzala. Ale prezradiť Yeru znamená prezradiť, že **Strážkyňa zlyhala**. Že ukázala originál dievčaťu, ktoré utieklo. Že systém, ktorý funguje 2000 rokov, sa rozpadol za nej.
+- **Neprezradí Yeru.** Nie okamžite. Keď zistí, že kniha chýba — bude vedieť, kto ju vzala. Ale prezradiť Yeru znamená prezradiť, že **Eltária zlyhala**. Že ukázala originál dievčaťu, ktoré utieklo. Že systém, ktorý funguje 2000 rokov, sa rozpadol za nej.
 - **Bude mlčať.** Dočasne. Bude hľadať spôsob, ako knihu získať späť bez toho, aby sa svet dozvedel, že je preč. Ale čas beží — a verejné odhalenie každú zimu sa blíži.
 - **Toto je Soril tikajúca bomba** — paralelná k Yerinej. Obe mlčia. Obe vedia. Obe sa boja.
 

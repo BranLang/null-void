@@ -14,7 +14,7 @@
 
 Lampa v záhrade za starým kanálom hádzala žlté kruhy na dlažbu. Cvrčky hrali svoju nočnú litániu a svetlušky — modré, tyrkysové, zelené — krúžili pomedzi kríky pri lavičke, kde Yera sedela s Arkotom. Cikáda na strome nad nimi vibrovala tak hlasno, že takmer prekryla zvuk krokov.
 
-Yera ani nezačula kroky. [NOTE: zámerné — Soril je Strážkyňa, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
+Yera ani nezačula kroky. [NOTE: zámerné — Soril je Eltária, pohybuje sa ako tieň. Kontrastuje s tým, ako Yera neskôr použije neviditeľnosť.]
 
 Prsty sa jej zavreli okolo ucha — suché, silné, neváhavé — a svet sa otočil. Lavička. Mesačné svetlo. Arkotova teplá ruka, ktorá sa náhle stratila. Všetko ostalo za ňou. [→ characters/Yera.md: Arkot — Mezra, leopardie škvrny, zakázaná láska. Dvojité tabu: kastové + porušenie celibátneho sľubu]
 
@@ -48,7 +48,7 @@ Vedela o Kvintesencii tak, ako vedela o vzdialených ostrovoch — abstraktne, k
 
 Dvere sa otvorili bez zvuku.
 
-*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Strážkyňu v plnom zmysle slova.]
+*Tak takáto si, Soril.* [NOTE: Yerein vnútorný hlas — nie obdiv, skôr šok + prehodnotenie. Celý čas videla Soril ako prísnu kňažku. Teraz vidí Eltáriu v plnom zmysle slova.]
 
 Soril zatvorila ruku. Fialové svetlo zhaslo — pomaly, akoby ho ukladala späť do tela. [→ 03-technology.md: Kvintesencia = piaty element, najvyšší level Spiry — vedomie, príkazový kód.]
 
@@ -224,7 +224,7 @@ Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril h
 
 ---
 
-*„Každá Strážkyňa musí ísť sama,"* povedala Soril nakoniec. *„Do severných lesov. Nájsť ho. Pozorovať. Prežiť. A vrátiť sa a opísať, ako vyzerá — lebo tento portrét,"* prst sa dotkol pergamenu, *„bol kreslený vo víziách. Nie je presný. Každá Strážkyňa ho nakreslí znova. Zo skutočnej pamäti."* [→ characters/Soril.md: Ritual Strážkyne — ísť sama do severných lesov, nájsť Samaella, pozorovať, prežiť. Soril to absolvovala. → NOTE: Čo Soril skutočne videla v lese: nie démon, nie smútiaci milostník — rozpadajúci sa muž. 2000 rokov bez Inetis, bez účelu, s degradujúcim Gen 1 a Glitch Rotom. Šialenstvo, ktoré nie je dramatické — je tiché a nepredvídateľné. Horšie než monster. Soril to nikdy Yere nepovie celé. Yera si doplní romantický obraz. → NOTE: Samaell chcel Inetis, nie Elaniu — Elania bola pre neho náhrada. Soril to nevie. Nikto v Nyau to nevie. → NOTE: Samaell je mŕtvy od AY 3001 — ďalšia Strážkyňa nájde len lesy. Ani Yera, ani Soril to nevedia.]
+*„Každá Eltária musí ísť sama,"* povedala Soril nakoniec. *„Do severných lesov. Nájsť ho. Pozorovať. Prežiť. A vrátiť sa a opísať, ako vyzerá — lebo tento portrét,"* prst sa dotkol pergamenu, *„bol kreslený vo víziách. Nie je presný. Každá Eltária ho nakreslí znova. Zo skutočnej pamäti."* [→ characters/Soril.md: Ritual Eltárie — ísť sama do severných lesov, nájsť Samaella, pozorovať, prežiť. Soril to absolvovala. → NOTE: Čo Soril skutočne videla v lese: nie démon, nie smútiaci milostník — rozpadajúci sa muž. 2000 rokov bez Inetis, bez účelu, s degradujúcim Gen 1 a Glitch Rotom. Šialenstvo, ktoré nie je dramatické — je tiché a nepredvídateľné. Horšie než monster. Soril to nikdy Yere nepovie celé. Yera si doplní romantický obraz. → NOTE: Samaell chcel Inetis, nie Elaniu — Elania bola pre neho náhrada. Soril to nevie. Nikto v Nyau to nevie. → NOTE: Samaell je mŕtvy od AY 3001 — ďalšia Eltária nájde len lesy. Ani Yera, ani Soril to nevedia.]
 
 *„Teda — ty si ho videla."* Nie otázka. Konštatovanie — Yerin hlas, ten tichý, ten čo spracúva.
 
@@ -232,7 +232,7 @@ Yera si zapamätala tú vetu. Nie preto, že rozumela — ale preto, že Soril h
 
 Yera sa na ňu pozrela. Celú. Na tú malú vychudnutú ženu pri sviečke, ktorá ovláda Kvintesenciu a chodila sama do lesov za démonom a vrátila sa. *„Bála si sa?"*
 
-Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Strážkyňa, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred desiatimi zimami. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
+Soril zatvorila ruky na čiernych tabuľkách. Chvíľu nič nehovorila. Pozrela sa na Yeru — a na sekundu, možno kratšie, jej tvár nemala tú obvyklú masku. Nie Eltária, nie učiteľka. Žena, ktorá sa pozerá na niekoho mladého a vidí samu seba pred desiatimi zimami. [NOTE: Soril neodpovedá hneď — toto je otázka, ktorú dostávala raz za päťdesiat rokov. A zakaždým ju bolela. Setup pre „dieťa" — prvýkrát Soril pozrie na Yeru nie ako na žiačku, ale ako na dievča, ktoré jej pripomína ju samú.]
 
 *„Najviac v živote, dieťa."*
 
@@ -302,7 +302,7 @@ Len si to neuvedomila.
 
 Ruky jej ležali na čiernych tabuľkách — suché ruky, silné, s prstami, ktoré vedeli robiť fialové Glyfy a vliecť dievčatá za ucho z parku. Ruky, ktoré nikdy neobjali toho krásneho chlapca druhýkrát po tom, čo si vybrala.
 
-*„Ešte nenadišiel tvoj čas,"* povedala. Vrátil sa tvrdší tón. Strážkyňa. *„Ale príde. A keď príde — budeš vedieť, čo si vybrať."*
+*„Ešte nenadišiel tvoj čas,"* povedala. Vrátil sa tvrdší tón. Eltária. *„Ale príde. A keď príde — budeš vedieť, čo si vybrať."*
 
 *„A čo si vybrala ty?"* spýtala sa Yera.
 

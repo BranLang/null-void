@@ -182,12 +182,12 @@ Podpis pod Samaellovým portrétom — *He* — mohol napísať **Samaell sám**
 ### Čo z toho vidí Cirkev El
 
 - **„Boh nechodí po štyroch"** — prevzaté do bielej Knihy ako axióm. Dôkaz, že Samaell = démon. V origináli = Elaniin zúfalý zápis, nie teológia.
-- **Opis anjela** — základ cirkevnej teológie. Krásny, čistý, neviditeľný, poslaný Matkou. Strážkyne sa pokúsili neviditeľnosť replikovať cez Kvintescenciu — a **podarilo sa im to**. Každá Strážkyňa sa učí neviditeľnosť.
+- **Opis anjela** — základ cirkevnej teológie. Krásny, čistý, neviditeľný, poslaný Matkou. Eltárie sa pokúsili neviditeľnosť replikovať cez Kvintescenciu — a **podarilo sa im to**. Každá Eltária sa učí neviditeľnosť.
 - **„Zajtra ideme domov"** — Cirkev číta ako prorocký prísľub Nanebovstúpenia. El odchádza s anjelom do „domova" = na druhú stranu. V skutočnosti: Sera ju zobala do Ludus.
 - Strany v nemčine = **„démonove kliatby"** — Cirkev ich nevie prečítať (nepoznajú žiaden jazyk Zeme), ale NIKDY ich nevystrihla. Originál je svätý — nedotknuteľný. Samaellove strany sú v Knihe dodnes, kompletné, neporušené.
 - Cirkev tieto strany neprevzala do bielych kópií — označila ich ako „démonovu kontamináciu" a ignorovala. Ale v origináli sú všetky.
 - Zmiešané strany na konci = „démon sa pokúšal znesvätiť Knihu" — v skutočnosti: dvaja zlomení ľudia písali do tej istej knihy, každý sám, každý o tom druhom
-- **PRAVIDLO: Originál Knihy El je KOMPLETNÝ. Žiadna strana nikdy nebola vystrihnutá. Preto existuje Strážkyňa — jedna žena, ktorá pozná celú pravdu a chráni Knihu neporušenú. Keby Cirkev strany strihala, nepotrebovala by Strážkyňu.**
+- **PRAVIDLO: Originál Knihy El je KOMPLETNÝ. Žiadna strana nikdy nebola vystrihnutá. Preto existuje Eltária — jedna žena, ktorá pozná celú pravdu a chráni Knihu neporušenú. Keby Cirkev strany strihala, nepotrebovala by Eltáriu.**
 
 ### Čo z toho vidí Maks
 

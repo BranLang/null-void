@@ -514,7 +514,7 @@ Yera ležala s otvorenými očami. V jednej ruke teplo, ktoré Arkot nechal na j
 
 Teplo a svetlo.
 
-A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Strážkyňa. Budúca utečenkyňa. Budúca zlodejka.
+A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Eltária. Budúca utečenkyňa. Budúca zlodejka.
 
 Zavrela oči.
 
@@ -524,7 +524,7 @@ Zavrela oči.
 
 [NOTE: Kapitola 4 = jadro Yerinej rozpoltenosti. Sedem scén, sedem nocí (nie chronologicky — kompresované). Kľúčová dynamika: Kniha a Arkot sú obe „správne" voľby, obe „moje." Yera nevyberá — lebo nevie. A nemusí. Kým svet nevyberie za ňu (Arkot odíde, Flint nájde loď → Ch4).]
 
-[NOTE: Kontaminácia ako motív — Yera nikdy nie je celá v jednom svete. V záhrade myslí na Knihu. V podzemí myslí na Arkota. Toto nie je romantický trojuholník — je to identitný. Verzia-Strážkyňa (Kniha, pravda, samota) a Verzia-Slobodná (Arkot, záhrada, teplo) sú obe Yera. Obe sú skutočné. Obe sú nekompatibilné.]
+[NOTE: Kontaminácia ako motív — Yera nikdy nie je celá v jednom svete. V záhrade myslí na Knihu. V podzemí myslí na Arkota. Toto nie je romantický trojuholník — je to identitný. Verzia-Eltária (Kniha, pravda, samota) a Verzia-Slobodná (Arkot, záhrada, teplo) sú obe Yera. Obe sú skutočné. Obe sú nekompatibilné.]
 
 [NOTE: Elaniin posledný zápis — „Maybe that will be enough." Toto je klíčová veta celého arcu. Elania sa s ňou zmierila — s nedokončením, s neodpovedaním, s tým, že nechať niečo za sebou je dosť. Yera to neskôr pochopí inak — nie smierenie, ale povolenie. Ak El mohla odísť a nechať Knihu za sebou, môže aj ona.]
 
@@ -542,7 +542,7 @@ Zavrela oči.
 [→ Kniha El: the-book-of-El.md — apokryfy, šifry, haiku, posledný zápis]
 [→ Yera voice: characters/Yera.md — tichá, premyslená, otázky nie tvrdenia, dvojité mlčanie]
 [→ Arkot: characters/Arkot.md — navigátor, kurzy, smer, pragmatik]
-[→ Soril: characters/Soril.md — prísna mentorka, Strážkyňa, kontrola cez detaily]
+[→ Soril: characters/Soril.md — prísna mentorka, Eltária, kontrola cez detaily]
 [→ Podzemná knižnica: regions/nyau.md — tajná knižnica pod chrámom El]
 [→ Kvintesencia tréning: 03-technology.md — piaty element, vedomie, kľúč ku Core]
 [→ Kontaminácia: books/planning/nyau-arc/03-temptation.md — kľúčový motív kapitoly]
