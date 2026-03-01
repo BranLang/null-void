@@ -472,6 +472,8 @@ Yera sa zastavila. *Angel.* Poznala to slovo — Cirkev ho učila od prvého dň
 
 *Angel was sent by my mother. **He** never saw her. The angel struck once. **He** fell.*
 
+&nbsp;
+
 *And maybe one day, someone will find him. And maybe one day, someone will read this. And maybe that will be enough.*
 
 *Maybe that will be enough.*
