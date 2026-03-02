@@ -3,7 +3,7 @@
 
 [→ the-book-of-El.md: Fáza 3 — The Search. Elania o rozhodovacom paralýze. V bielej Knihe toto nie je — pri kanonizácii neprevzaté, lebo by to interpretovali ako slabosť El. Originál je kompletný.]
 
-# Kapitola 4: Pokušenie
+# Kapitola 6: Pokušenie
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — podzemná knižnica (noc, prvá polovica) → záhrada za kanálom (noc, druhá polovica) → chrám/vila (deň)

@@ -1,4 +1,4 @@
-# Kapitola 2: Prvé Svetlo
+# Kapitola 3: Prvé Svetlo (Časť 2)
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — vila Saéli, prístav, chrám El, záhrada za starým kanálom

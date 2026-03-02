@@ -1,4 +1,4 @@
-# Interludium: Itaka
+# Kapitola 4: Itaka
 
 **POV**: Arkot + Flint (3. osoba, limited — striedanie, ale krátke)
 **Lokácia**: Nyau — prístav, prístavná krčma

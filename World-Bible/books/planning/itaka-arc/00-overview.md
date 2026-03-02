@@ -1,110 +1,112 @@
-# Itaka Arc — Dobrodružstvá na oblohe
+# Yera Novela — Master Overview (3 arcy)
 
-> *Druhý Yera arc. POV: Yerana Saéli. Tón: adventure → zrada → tragédia.*
+> *Tri arcy. Tri tóny. Jeden pád.*
 
 ---
 
-## Základné údaje
+## Štruktúra
 
-| | |
+| Arc | Názov | Tón | Kapitoly | POV | Timeline |
+|-----|-------|-----|----------|-----|----------|
+| **1** | **Nyau Arc** | Mystérium, chrám, útek | 7 kapitol (hotové) | Yera | ~AY 3009–3010 |
+| **2** | **Itaka Arc** | Dobrodružstvo, humor, bonding | 6 kapitol | Rotujúci | ~AY 3010–3011 |
+| **3** | **Jaskyňa Ela Arc** | Discovery, zrada, pád | 7 kapitol | Rotujúci | ~AY 3012 |
+
+**Celkovo**: ~20 kapitol, 3 roky, 4 hlavné postavy, 1 devastujúci pád.
+
+---
+
+## Tónový oblúk
+
+```
+Nyau Arc:     ████████░░  Mystérium / Tma / Chrám
+Itaka Arc:    ░░░░░░░░░░  Humor / Svetlo / Sloboda  ← NAJĽAHŠÍ
+Jaskyňa Ela:  ░░░░████████  Wonder → Zrada → Grimdark  ← NAJTEMNEJŠÍ
+```
+
+**Kľúč**: Itaka Arc je zámerne najľahší arc v celom NULL VOID. Čitateľ sa musí zaľúbiť do štvorky. Musí zabudnúť na grimdark. A potom — Jaskyňa Ela Arc to všetko zničí.
+
+---
+
+## Damoklov meč
+
+**Pravidlo**: NIKDY explicitný. Žiaden "toto boli posledné dobré časy."
+
+Seeds v Itaka Arc, ktoré dozrievajú v Jaskyňa Ela Arc:
+
+| Seed (Itaka) | Payoff (Jaskyňa Ela) |
 |---|---|
-| **Formát** | Novela / viacdielny arc (5 kapitol) |
-| **POV** | Yerana Saéli (3. osoba, limited) |
-| **Časové obdobie** | ~AY 3010–3012 (~2 zimy) |
-| **Lokácie** | Itaka → Kitsune → Raiju → Jaskyňa Ela → (Šoraven off-screen) |
-| **Tón** | Dobrodružstvo, exploration, bonding → heartbreak → zrada → pád |
-| **Predchádzajúci arc** | Nyau Arc (končí útekom z Nyau) |
-| **Nasleduje** | Book 1 — Heist Arc (Tami + Maks idú zachrániť Arkota a Yeru) |
+| Flint tasí zbrane (vtipné) | Tasí zbraň na Inkvizíciu → smrť |
+| Arkot mlčí (roztomilé) | Mlčí o zrade → mučenie |
+| Yera má tajomstvá (mysteriózne) | Trojité mlčanie → morálne zlyhanie |
+| Tami "žiadne otázky" | Keby sa pýtali, možno by zrada nefungovala |
+| Crew = rodina | "Sú moja rodina" (aj po zrade) |
 
 ---
 
-## Hlavné postavy
+## Hlavné postavy — Arc cez 3 roky
 
-| Postava | Rola | Status na konci |
-|---|---|---|
-| **Yerana Saéli** | POV, liečiteľka, čítačka Staroreči | Uväznená v čistej cele |
-| **Arkot** | Navigátor, Yerin milovaný | Uväznený v kobkách |
-| **Flint** | Strelec, Arkotov najlepší priateľ | Mŕtvy (zastrelený pri zatýkaní) |
-| **Tami** | Kapitánka Itaky | Prežije — nie je prítomná pri zatýkaní |
-| **Felix** | Mako (Unit 734, Einstein v4.2), strážca Kitsune | Vedľajšia postava |
-| **Borg** | Ghorki medveď, strelec pri kanóne (pridá sa v Raiju) | Vedľajšia postava |
-| **Nix** | Mezra králik, mechanik (pridá sa v Raiju) | Vedľajšia postava |
+### Tami
+- **Nyau**: Nepriamo — loď v prístave, čaká na posádku
+- **Itaka**: Od "nedôverujem nikomu" → "toto je moja rodina"
+- **Jaskyňa Ela**: Echo mení ju. Rodina ju zradí. → "Potrebujem ťa." (Maks)
 
----
+### Flint
+- **Nyau**: Nepriamo — v Diss s Arkotom
+- **Itaka**: Charming idiot → zaľúbi sa → odmietnutý → maska
+- **Jaskyňa Ela**: Plán krádeže → tasí zbraň → smrť
 
-## Yerina trojitá funkcia v posádke
+### Arkot
+- **Nyau**: Nepriamo — rozchod s Yerou na lavičke
+- **Itaka**: Tichý navigátor → nachádza hlas cez Yeru → pasivita = charming
+- **Jaskyňa Ela**: Vie o zrade → mlčí → mučenie → (smrť v Book 1)
 
-1. **Heal** — vodná Spira, bojový medik, liečenie zranení
-2. **Stealth** — neviditeľnosť (tajná technika od Soril), prieskum, infiltrácia
-3. **Read** — Staroreč, archaické texty, mapy, nápisy v ruinách. Nenahraditeľná pre treasure hunting.
-
----
-
-## Tematický oblúk arcu
-
-- **Sloboda → zodpovednosť → vina**
-- Yera unikla z klietky (Nyau Arc) a našla slobodu na oblohe
-- Sloboda prináša zodpovednosť — rozhodnutia majú dôsledky
-- Tri body viny: (1) prečítala mapu → Anténa, (2) mlčala o Flintovom pláne, (3) stále nosí ukradnutú Knihu El
-- **Kaskáda irónií**: Vzdelanie, ktoré ju väznilo, teraz odomyká objavy. Objavy vedú ku katastrofe.
+### Yera
+- **Nyau**: POV — útek, krádež Knihy El, Soril
+- **Itaka**: Culture shock → nenahraditeľná (Staroreč) → tajomstvá
+- **Jaskyňa Ela**: Trojité mlčanie → cela → vina
 
 ---
 
-## Maks — tieň na okraji
+## Planning docs
 
-Maks nie je postava v tomto arcu. Je **echo** — pocestný Exorcista, zaklínač, ktorého za peniaze volajú a potom vyháňajú. Hľadá Inetis. Nikto to meno nepozná. Odpovede, ktoré hľadá, nosí Yera v batohu (Black Book of El).
+| Arc | Detailný planning |
+|-----|-------------------|
+| Nyau Arc | `planning/yera-novela.md` (Nyau sekcia) |
+| Itaka Arc | `planning/itaka-adventures/00-overview.md` |
+| Jaskyňa Ela Arc | `planning/jaskyna-ela-arc/00-overview.md` |
+| Pôvodný unified planning | `planning/yera-novela.md` (master reference) |
 
-Prítomný ako:
-- Zmienky v rozhovoroch (*"Pred mesiacom tu bol Exorcista..."*)
-- Felix ho pozná (*"Pýtal sa na Inetis. Nevedel som mu pomôcť."*)
-- Stopy Gen 1 na skalách — fialové záblesky, prach, niečo staršie než Spira
+## Draft directories
 
----
-
-## Šoraven — off-screen
-
-Zatýkanie v Šoravene sa **nikdy nepopisuje v detaile**. Arc končí fade-to-black pred alebo pri vstupe do Šoravenu. Flintova smrť, zatýkanie, kobky — čitateľ si domyslí. Epilóg "Tri cely" ukáže len dôsledky.
-
-**Dôvody:**
-- Flintova smrť zasiahne tvrdšie ako absencia
-- Šoraven zostáva "čerstvý" pre Book 1
-- Imaginovanie hrôzy > popis hrôzy
+| Arc | Drafty |
+|-----|--------|
+| Nyau Arc | `drafts/nyau-arc/` |
+| Itaka Arc | `drafts/itaka-adventures/` |
+| Jaskyňa Ela Arc | `drafts/jaskyna-ela-arc/` |
+| Archív | `drafts/archive/01-nikam-v1.md` (pôvodná rescue chapter) |
 
 ---
 
-## Kapitoly
-
-1. **Krídla** — Nástup na Itaku, nová posádka, prvý let, sloboda
-2. **Kitsune** — Tami doma, Felix, Rennova mapa, Yera rozlúšti cestu
-3. **Raiju** — Východný prístav, piráti, dobrodružstvá, Flint/Tami rozbúška
-4. **Jaskyňa Ela** — Expedícia, objav, Anténa, Echo na Tami
-5. **Ticho** — Flintov plán, Yerina mlčanie, pád
-
----
-
-## Spojenie s ďalšími arcmi
+## Spojenie s Book 1
 
 | Čo | Kam vedie |
 |---|---|
-| Anténa v Mormielin krypte | → Book 1: Heist Arc |
+| Anténa v Mormieline krypte | → Book 1: Heist Arc |
 | Arkot v kobkách | → Book 1: Záchrana + smrť v bitke (Ch5) |
 | Yera v čistej cele | → Book 1: Rituál Nástupníctva |
 | Echo na Tami (Fáza 1) | → Book 1+: Postupné prejavy |
 | Tami kontaktuje Maksa | → Book 1: Znovustretnutie po 5 rokoch |
-| Rennova mapa | → Jaskyňa Ela = miesto, kde Maks spal 3000 rokov |
+| Flintova smrť | → Book 1: Tami spomienka ("samozrejme, že tasil zbraň, ten idiot") |
 
 ---
 
 ## Referencie
 
-- **Nyau Arc**: → `books/planning/yera-arc-novela.md`
-- **Yerana**: → `characters/Yera.md`
-- **Arkot**: → `characters/Arkot.md`
-- **Flint**: → `characters/Flint.md`
-- **Tami**: → `characters/Tami.md`
-- **Felix**: → `characters/Felix.md`
-- **Renn**: → `characters/Renn.md` (mapa, Kitsune, dedičstvo)
-- **Maks**: → `characters/Maks.md` (Exorcista, hľadanie Inetis)
-- **Raiju**: → `regions/terra-society.md`
-- **Kitsune**: → `regions/kitsune.md`
-- **Jaskyňa Ela**: → `05-geography.md`
+- `planning/yera-novela.md` — master planning document
+- `planning/itaka-adventures/00-overview.md` — Itaka Arc detail
+- `planning/jaskyna-ela-arc/00-overview.md` — Jaskyňa Ela Arc detail
+- `characters/Tami.md`, `Yera.md`, `Arkot.md`, `Flint.md`, `Felix.md`
+- `03-technology.md` — Spira, Gen 1, Echo
+- `05-geography.md` — Kitsune, Raiju, Jaskyňa Ela, Šoraven
+- `12-genre-positioning.md` — tónový kompas
