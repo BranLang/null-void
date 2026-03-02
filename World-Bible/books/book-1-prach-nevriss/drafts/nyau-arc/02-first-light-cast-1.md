@@ -1,7 +1,7 @@
 > *„Blahoslavená je dcéra, ktorá svieti pre svoj ľud. Beda dcére, ktorá svieti len pre seba."*
 > — Kniha El, 2:16
 
-# Interlúdium: Prvé Svetlo
+# Kapitola 2: Prvé Svetlo (Časť 1)
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrám El, ulice, vila Saéli

@@ -3,7 +3,7 @@
 
 [→ the-book-of-El.md: Fáza 4 — Breaking, zakázané pasáže. Tento citát v bielej Knihe neexistuje.]
 
-# Kapitola 3: Čierna kniha
+# Kapitola 5: Čierna kniha
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — chrámová záhrada, podzemná knižnica pod chrámom El

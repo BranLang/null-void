@@ -3,7 +3,7 @@
 
 [NOTE: Epigraf zvolený zámerne — Yera citovala tento verš Arkotovi v záhrade. Teraz je nad scénou kde odchádza. Tí čo prišli = Arkot, Flint (a nevrátili sa). Tí čo zostali = Yera (a odchádza ich hľadať). Symetria s Renn arc opening. → the-book-of-El.md, → planning/renn-arc.md]
 
-# Kapitola 5: Rozlúčka
+# Kapitola 7: Rozlúčka
 
 **POV**: Yerana Saéli (3. osoba, limited)
 **Lokácia**: Nyau — Sorilina pracovňa → klanový dom Saéli → chrám (hard cut) → prístav
