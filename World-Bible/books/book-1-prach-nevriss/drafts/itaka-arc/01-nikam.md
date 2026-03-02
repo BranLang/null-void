@@ -36,11 +36,11 @@ Pirátsky tábor zarezaný do hory ako jazva — stromy vyrúbané v nepravideln
 
 Flint ležal vedľa neho. Na boku, kolená pritiahnuté k hrudi, ľavé ucho nahor — to s trhlinkou. Spal ako šelma. Alebo predstieral — spôsobom, akým predstierali chlapi z Diss. Ruka pod hlavou, prsty zvinuté, blízko noža, ktorý nemali. Zvyk. Aj cez deň — kedykoľvek prešla stráž dosť blízko, Flintove oči skočili na pažbu revolvera. Na opasku, v puzdre, za chrbtom. Vždy presne vedel, kde je najbližšia zbraň. Nepotreboval ju. Nemal šancu ju zobrať. Ale vedel. [NOTE: Flint — weapon reflex. Prvá zmienka vzorca, ktorý ho definuje a nakoniec zabije. Vždy vie, kde je najbližšia zbraň. Vždy po nej siahne. V Šoravene tasí zbraň na Inkvizíciu → dve guľky → smrť. Tami v Heist Arc: „*samozrejme, že tasil zbraň, ten idiot*." → characters/Flint.md: impulzivita = zbraň aj sudba.]
 
-Vedľa nich — piati. Zvyšok Kortegovej posádky. Starý mechanik, čo kašľal v noci. Dvaja nakládači z prístavu. Chlapec — šestnásť, možno — čo pomáhal v kuchyni a teraz sa chvel v spánku. A Dara. Kortegova druhá dôstojníčka, Vulpini, líška s jedným uchom. Druhé stratila pri útoku — keď sa snažila vystrieliť na pirátsku stíhačku. Nezranila nikoho. Prišla o ucho a o kapitána. [NOTE: Piati preživší — konkrétni, nie generickí. Dara (Vulpini, jedno ucho) = malý detail, čo žije. Paralela: Dara je Vulpini ako Tami. Arkot to neskôr spracuje.]
+Vedľa nich — piati. Zvyšok Kortegovej posádky. Starý mechanik, čo kašľal v noci. Dvaja nakládači z prístavu. Chlapec —  čo pomáhal v kuchyni a teraz sa chvel v spánku. A Dara. Kortegova druhá dôstojníčka, Vulpini, líška s jedným uchom. Druhé stratila pri útoku — keď sa snažila vystrieliť na pirátsku stíhačku. Nezranila nikoho. Prišla o ucho a o kapitána. [NOTE: Piati preživší — konkrétni, nie generickí. Dara (Vulpini, jedno ucho) = malý detail, čo žije. Paralela: Dara je Vulpini ako Tami. Arkot to neskôr spracuje.]
 
 Korteg bol mŕtvy.
 
-Búrka ich hodila na juh. Matkin Vlas zmizla za mrakmi a s ňou aj kurz — bez hviezdy bol Arkot slepý, a keď sa mraky konečne roztrhli, boli nízko, príliš nízko, nad lesom namiesto nad prielivom. [NOTE: Búrka → strata kurzu → vychýlenie na juh. Arkot ako navigátor — strata hviezdy = strata všetkého. → characters/Arkot.md: navigátor. Búrka je prvá z troch vecí, čo navigátora zabijú (epigraf).]
+Búrka ich hodila na sever. Matkin Vlas zmizla za mrakmi a s ňou aj kurz — bez hviezdy bol Arkot slepý, a keď sa mraky konečne roztrhli, boli nízko, príliš nízko, nad lesom namiesto nad prielivom. [NOTE: Búrka → strata kurzu → vychýlenie na juh. Arkot ako navigátor — strata hviezdy = strata všetkého. → characters/Arkot.md: navigátor. Búrka je prvá z troch vecí, čo navigátora zabijú (epigraf).]
 
 Tri pirátske stíhačky sa vynorili z doliny ako hladné vtáky. Rýchle, ľahké, manévrovateľné — Kortegova ťažká nákladná loď proti nim bola vôl proti vlkom.
 
@@ -246,9 +246,7 @@ A potom — zvonku. Z druhej strany tábora. Iný zvuk.
 
 Nie revolver. Nie karabína. Rýchly, mechanický, rytmický — *ta-ta-ta-ta-ta.* Automatické pištole. Dve. [NOTE: Tami — Plan B. Yerin stealth plán zlyhal (Flint ho zabil), Tami prepína na paľbu. Automatické pištole = dual wield, Tamiho signature zbrane. → characters/Tami.md: zbrane.]
 
-Tami.
-
-Arkot ju nevidel — ale počul. Dva rôzne automatické rytmy striedavo, krátke dávky, presné, kontrolované. A medzi nimi — hlbšie rany. Ťažšie. Karabíny. Nie pirátske — iné, staré, dobre udržiavané. Rennovi veteráni. [NOTE: Tami nebola sama. Dvaja z Rennovej starej posádky — veteráni, čo zostali lojálni. Tami mala Plan A (Yerina neviditeľnosť) aj Plan B (paľba). Keď Flint zabil Plan A, Tami prepla. → characters/Tami.md: taktička, nie improvizátorka.]
+Arkot nevedel, kto striela. Ale počul — dva rôzne automatické rytmy striedavo, krátke dávky, presné, kontrolované. Ktokoľvek to bol, vedel, čo robí. A medzi nimi — hlbšie rany. Ťažšie. Karabíny. Nie pirátske — iné, staré, dobre udržiavané. Ďalší strelci. [NOTE: Arkot NEpozná Tami ani Rennových veteránov — nikdy ich nestretol. Z jeho POV sú to neznámi spojenci. Mená sa dozvie až na palube. → characters/Tami.md: taktička. Dvaja z Rennovej starej posádky — veteráni, čo zostali lojálni.]
 
 *„Bežte!"* Yera. Krik, nie šepot. Na ticho bolo dávno neskoro. *„Na sever! Bežte!"*
 
@@ -282,7 +280,7 @@ Nie všetci naraz — ale dosť rýchlo. Tí čo boli najbližšie k dopadu bež
 
 Bolo po všetkom.
 
-Tami vyšla z lesa s pištoľou v každej ruke — automatické, krátke, opotrebované. Rudé vlasy za ňou, dvaja veteráni po bokoch — starí muži, profesionálni, karabíny na ramenách, bez slova. Pozrela na tábor, na horiace stíhačky, na prázdne prístrešky. Kývla. [NOTE: Tami — prvýkrát z Arkotovho POV. Dve automatické pištole, rudé vlasy, dvaja Rennovi veteráni. Líška po boji. Kývnutie = situácia pod kontrolou. → characters/Tami.md: líška, líderka.]
+Z lesa vyšlo dievča s pištoľou v každej ruke — automatické, krátke, opotrebované. Rudé vlasy za ňou, dvaja muži po bokoch — starí, profesionálni, karabíny na ramenách, bez slova. Pozrela na tábor, na horiace stíhačky, na prázdne prístrešky. Kývla. [NOTE: Tami — prvýkrát z Arkotovho POV. Nepozná ju. Vidí len: dievča, dve pištole, rudé vlasy, dvaja veteráni. Meno sa dozvie neskôr. → characters/Tami.md: líška, líderka.]
 
 *„HORE! Na loď! Všetci!"*
 
@@ -326,11 +324,9 @@ Guľka zasiahla Flinta do ľavého ramena. Krv — rýchla, tmavá, cez košeľu
 
 Ale Tami nestála za Flintom bezbranná.
 
-Tami stála za Flintom s rukou napriahnutou dopredu a vzduch pred ňou *žiaril.* Polopriehľadná bariéra — oranžová, vlniaca sa, Spira. Štít. Aktivoval sa v momente výstrelu — inštinkt, nie rozhodnutie. Rovnaký inštinkt, akým Flint skočil. Len iný. Lepší. Funkčnejší. [NOTE: Tami má Spira štít — aktivovaný reflexom. Guľka by ju NEZASIAHLA. Štít by ju chránil. Flint to nevedel — nikdy nevidel Tami používať Spiru v boji. A tak sa hodil pred niečo, čo by ho nemuselo zabiť. → characters/Tami.md: Spira schopnosti. → characters/Flint.md: zbytočné hrdinstvo = tragédia.]
+Tami stála za Flintom s rukou napriahnutou dopredu a vzduch pred ňou *žiaril.* Polopriehľadná bariéra — oranžová, vlniaca sa, Spira. Štít. Flint to nevedel. [NOTE: Tami má Spira štít — aktivovaný reflexom. Guľka by ju NEZASIAHLA. Flint to nevedel — nikdy nevidel Tami používať Spiru v boji. Hodil sa pred niečo, čo neexistovalo. → characters/Tami.md: Spira schopnosti. → characters/Flint.md: zbytočné hrdinstvo = tragédia.]
 
-Guľka by ju netrafila. Štít by ju zastavil. Flint to nevedel.
-
-Flint ležal na zemi s guľkou v ramene a krvou na rukách a usmial sa — *„...kurva,"* — a nemal tušenie, že jeho telo medzi Tami a guľkou bolo zbytočné. Že sa hodil pred niečo, čo neexistovalo. Že skoro zomrel za nič. [NOTE: Flintov úsmev — tretí v tejto kapitole. Ale tentoraz = najhorší. Myslí si, že zachránil Tami. Nezachránil. Tami mala štít. Keby Flint počkal sekundu — JEDNU sekundu — videl by štít a nemusel skočiť. Ale Flint nečaká. Nikdy nečaká. To ho raz zabije. → characters/Flint.md: impulzivita. V Šoravene tasí zbraň na Inkvizíciu — keby počkal, možno by žil. Ale Flint nikdy nepočká.]
+Flint ležal na zemi s guľkou v ramene a krvou na rukách a usmial sa — *„...kurva,"* — a nemal tušenie. [NOTE: Flintov úsmev — tretí v tejto kapitole. Ale tentoraz = najhorší. Myslí si, že zachránil dievča. Nezachránil. Keby počkal sekundu — JEDNU sekundu — videl by štít a nemusel skočiť. Ale Flint nečaká. Nikdy nečaká. To ho raz zabije. → characters/Flint.md: impulzivita. V Šoravene tasí zbraň na Inkvizíciu — keby počkal, možno by žil. Ale Flint nikdy nepočká.]
 
 Tami na neho pozerala. Štít dozniel — oranžové svetlo zmizlo. A na jej tvári — nie hnev, nie vďaka. Niečo komplikovanejšie. Niečo, čo sa nedá pomenovať jedným slovom. [NOTE: Tami VIE, že Flint to nemusel urobiť. Vie, že mala štít. A vie, že ON to nevedel — že pre NEHO to bola reálna obeta. Hodil sa pred smrť za ňu. Zbytočne. A to je horšie než keby ju zachránil — lebo teraz mu dlží niečo, čo nepotrebovala. → characters/Tami.md: komplikovaný dlh.]
 
