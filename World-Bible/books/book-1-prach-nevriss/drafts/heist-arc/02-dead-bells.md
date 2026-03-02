@@ -364,7 +364,7 @@ Pomaly zdvihol ruku a zložil si tmavé okuliare.
 
 V šere miestnosti sa jeho prázdne očnice naplnili tmou. Nie prázdnotou — *tmou*. Čierny Prach, hustý a živý, sa pohol v jeho očných jamkách ako tekutina, ktorá dýcha. Oči z čiernej krvi mŕtveho Archbésa sa usadili do tvaru dvoch dokonalých čiernych gúľ, v ktorých sa tu a tam mihol odlesk — nie svetlo, ale jeho *absencia*. Oči temnoty. Oči niečoho, čo nemalo žiť.
 
-![The Sleeper Revealed](../../../../assets/books/book-1/chapter-2-sleeper.png)
+![The Sleeper Revealed](../../../../assets/books/book-1/00-heist-arc/chapter-2-sleeper.png)
 
 Kito cúvol. Narazil do stola. Knihy popadali na zem.
 

@@ -9,7 +9,7 @@
 | **Titul** | Gatekeeper |
 | **Boss** | **Kniha 5** — finálna konfrontácia + I_NET_IS |
 
-![Elania](../assets/Elania.png)
+![Elania](../assets/characters/Elania/elania.png)
 
 ### Zhrnutie
 Dcéra, ktorá vyrástla bez otca, sledujúc matku budovať a strácať utópiu. Po tisícročiach dospela k záveru, že biológia je kliatba.

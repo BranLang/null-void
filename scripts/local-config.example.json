@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy this file to local-config.json (gitignored). Set gdrive_assets to wherever Google Drive for Desktop mounts on YOUR machine.",
+
+  "_mac_example":     "/Users/YOUR_NAME/Library/CloudStorage/GoogleDrive-YOUR_EMAIL/My Drive/null-void/World-Bible/assets",
+  "_mac_old_example": "/Users/YOUR_NAME/Google Drive/My Drive/null-void/World-Bible/assets",
+  "_windows_example": "G:/My Drive/null-void/World-Bible/assets",
+
+  "gdrive_assets": "/Users/YOUR_NAME/Library/CloudStorage/GoogleDrive-YOUR_EMAIL/My Drive/null-void/World-Bible/assets"
+}

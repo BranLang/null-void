@@ -76,7 +76,7 @@ Maks stál pri zábradlí. Stoicky. Pokojne. Ruky za chrbtom, akoby pozoroval kr
 Oproti nemu stál oficier. Stredne vysoký muž v červenom kabáte s mosadznými gombíkmi. Na prvý pohľad vyzeral ako človek, až na mierne pretiahnuté špicaté uši, ktoré mu nervózne strihali pod trojrohým klobúkom. Vyzeral vyčerpaný — kruhy pod hnedými psími očami, neoholená ľudská tvár. Osoba, čo nespala niekoľko nocí. Za ním sa tiesnil tucet vojakov — s hustou srsťou a zvieracími hlavami. Jeden z nich, obrovský hnedý medveď, mal na ramene bubienok. Vyzerali, akoby ich niekto vygumoval z učebnice dejepisu, ktorú Tami nikdy nečítala. A hlavne vyzerali nervózne. Každých pár sekúnd sa niekto z nich obzrel smerom k oblohe a chvosty sa im nepokojne vlnili.
 
 
-![Confrontation](../../../../assets/characters/Maks/max-tami-lore-accurate.png)
+![Confrontation](../../../../assets/characters/Maks/maks-tami-lore.png)
 
 
 „Dobré ráno, vitajte v Šo,“ prihovoril sa oficier a Tami stuhla.
@@ -208,7 +208,7 @@ Zahnala spomienku a vyšla na palubu. Maks tam už nebol. Vojaci áno. Dvaja pri
 
 Tami prešla cez rampu na mólo. Pod nohami jej zachrastila námraza na kove a potom zamrznuté drevo. Vzduch na zemi bol ešte ostrejší než na palube — tu sa etanolový smog a sírna para z geotermálnych ventov miešali s mrazom, prachom z uhlia a dychom tisícov ľudí, z ktorého stúpali biele obláčky do mrazivého vzduchu.
 
-![Confrontation](../../../../assets/characters/Tami/tami_shoraven_holstered.png)
+![Confrontation](../../../../assets/characters/Tami/tami-shoraven-pistol.png)
 
 Dok sedemnásť bol na samom konci prístavu, čo znamenalo, že musela prejsť cez celú dokovú zónu, aby sa dostala do mesta. Šla rýchlo, s hlavou sklopenou, rukami vo vreckách. Prístav sa za posledných pár dní musel zmeniť na nepoznanie. Okolo nej sa hemžili robotníci — mohutné postavy s hrubou srsťou a výraznými zvieracími črtami. [→ 06-society.md: Ghorki, Varietas, zvieracie črty] Nosili náklad na chrbtoch, kopali zákopy holými rukami, stavali barikády z vriec s pieskom. Nikto im neplatil veľa. Nikto im neďakoval. Ale boli slobodní. V Nevriss, na rozdiel od Graw, na tom Cirkev trvala. *„Všetky deti Matky sú si rovné,“* hlásali kňažky. [→ 06-society.md: Nevriss vs Graw — sloboda vs otroctvo]
 
@@ -238,7 +238,7 @@ Tami stála na okraji námestíčka a pozerala sa. Nohy jej odmietli ísť ďale
 
 *Spira.*
 
-![Spira](../../../../assets/world/blacksmith_kid.png)
+![Spira](../../../../assets/world/blacksmith-kid.png)
 
 
 To slovo jej prišlo na myseľ samo, tiché a ťažké ako prvá kvapka dažďa na vyprahnutú zem. Posvätná sila. Dych Matky. Dar, ktorý pretekal žilami tohto sveta — a rozhodoval, kto bude žiť a kto bude slúžiť. [→ 03-technology.md: Spira = nanotech ekosystém]
@@ -285,7 +285,7 @@ Za vyhňou stála postava pripomínajúca muža stredného veku. Čierne vlasy, 
 Tami zostala stáť. Ruky vystrela pozdĺž tela, prsty spojené, presne ako ju to učil Felix. *„Ako bojovník, Tami. Nie ako služobná,“* prízvukoval jej vždy. *„Ruky pri tele. Ukáž, že sa nebojíš, ale že preukazuješ úctu.“*
 
 Čakala. Prerušiť majstra pri práci bolo nemysliteľné.
-![Mako](../../../../assets/characters/Tami/mako_workshop_epic.png)
+![Mako](../../../../assets/characters/Tami/mako-workshop.png)
 
 Až keď postava odložila kladivo s plynulosťou hydraulického piestu presne na miesto, kde ležalo predtým, Tami sa pohla. Zohla sa v páse, chrbát držala rovný ako pravítko, pohľad zabodla do zeme. Ruky držala pevne pri bokoch — mužský postoj. Vydržala v úklone sekundu a pomaly sa narovnala.
 

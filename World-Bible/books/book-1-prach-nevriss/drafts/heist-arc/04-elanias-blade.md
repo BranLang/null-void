@@ -97,7 +97,7 @@ A potom z tej tmy vykročila žena.
 
 Vysoká. *Príliš* vysoká — akosi neprirodzene symetrická, ako socha, nie osoba. Čierne vlasy zviazané dozadu. Tvár — krásna, ale nesprávne. Dokonalá. Žiadna vráska, žiadna asymetria, žiadna známka toho, že ten tvar bol niekedy *živý*. A oči — čierne. Hlboké. Oči, čo vyzerali ako studne, do ktorých sa hodili stáročia a nikdy sa neozval dopad.
 
-![Sera](../../../../assets/characters/sera/Sera-lore-accurate2.png)
+![Sera](../../../../assets/characters/sera/sera-lore-v2.png)
 
 Tma na jej koži — nie šaty, nie pancier — sa stiahla. Rozplynula. Ako keby sa tieň rozhodol pustiť, čo držal. [NOTE: Čierny Prach kamufláž — Sera ho používa na optický stealth. Tami vidí len „tmu, čo sa stiahla“ — nechápe mechanizmus. Pre Tami je to mágia.]
 
@@ -224,7 +224,7 @@ A medzi hubami — pohyb. Nie zvieratá. Nie Paladíni. Niečo, pre čo nemal me
 
 ---
 
-![Kamenná brána](../../../../assets/books/book-1/chapter-4-gate.jpeg)
+![Kamenná brána](../../../../assets/books/book-1/00-heist-arc/chapter-4-gate.jpeg)
 
 Záblesk.
 
@@ -441,7 +441,7 @@ Tami sa zhlboka nadýchla.
 
 Nadel sa zachvela. Jemne — takmer neviditeľne. Hrot sa rozžiaril — zlatý záblesk, kratší než mrknutie. Čepeľ počula poéziu a *spevnila sa*. [NOTE: Sera spevňuje Tamin rapier haiku. Rovnaký princíp ako Yari — spira v kove reaguje na frekvenciu hlasu. Tami má teraz spevnený Nadel = prenikne cez Svetelný Štít AJ pancier. Sera tým mení pravidlá boja — Tami už nie je len návnada, je skutočná hrozba. Haiku je dar: „Pamätaj navždy“ = Sera učí Tami spevňovať zbrane. Toto je Serin štýl — nedáva rybu, učí loviť.]
 
-![Tami — prvé spevnenie Nadelu](../../../../assets/characters/Tami/tami_enchantment.png)
+![Tami — prvé spevnenie Nadelu](../../../../assets/characters/Tami/tami-enchantment.png)
 
 Tami pozrela na žiariaci rapier. Potom na Seru.
 
@@ -564,7 +564,7 @@ Kira sa na zlomok sekundy otočila k Tami. Sekera zmenila smer.
 
 A v tom momente Sera bodla. Zozadu. Znova.
 
-![Sera — Elaniina Čepeľ](../../../../assets/books/book-1/chapter-4-sera-2.jpeg)
+![Sera — Elaniina Čepeľ](../../../../assets/books/book-1/00-heist-arc/chapter-4-sera-2.jpeg)
 
 Yari — stále spevnená, stále žiariaca — prenikla cez svetelný štít, cez pancier, priamo do chrbtovej miechy. Ako do masla. Kira stuhla. Vibro-sekera vypadla z rúk. Telo sa zrútilo.
 

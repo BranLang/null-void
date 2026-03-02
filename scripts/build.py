@@ -24,6 +24,7 @@ import argparse
 import re
 import base64
 import mimetypes
+import json
 from pathlib import Path
 
 import PyPDF2
@@ -402,6 +403,82 @@ pdf_options:
 
 
 # ──────────────────────────────────────────────────────────
+# Google Drive asset resolution
+# ──────────────────────────────────────────────────────────
+
+_gdrive_assets_path = None
+
+def _get_gdrive_assets_path(repo_root: Path) -> Path | None:
+    """
+    Return the Google Drive assets path from local-config.json or GDRIVE_ASSETS env var.
+    This is machine-specific and never committed to git.
+    """
+    global _gdrive_assets_path
+    if _gdrive_assets_path is not None:
+        return _gdrive_assets_path
+
+    # 1. Environment variable (highest priority)
+    import os
+    env_path = os.environ.get('GDRIVE_ASSETS')
+    if env_path:
+        p = Path(env_path)
+        if p.exists():
+            _gdrive_assets_path = p
+            return _gdrive_assets_path
+
+    # 2. local-config.json (gitignored, machine-specific)
+    config_path = repo_root / 'scripts' / 'local-config.json'
+    if config_path.exists():
+        try:
+            cfg = json.loads(config_path.read_text())
+            drive_path = cfg.get('gdrive_assets')
+            if drive_path:
+                p = Path(drive_path)
+                if p.exists():
+                    _gdrive_assets_path = p
+                    return _gdrive_assets_path
+                else:
+                    print(f"  Warning: gdrive_assets path not found: {drive_path}")
+        except Exception as e:
+            print(f"  Warning: could not read local-config.json: {e}")
+
+    _gdrive_assets_path = False  # cache miss
+    return None
+
+
+def resolve_asset(abs_path: Path, repo_root: Path) -> Path | None:
+    """
+    Return a usable local path for an asset.
+    1. If the file exists locally → return as-is.
+    2. Look up the same relative path under the Google Drive assets folder.
+    3. Return None if not found anywhere.
+
+    Configure Google Drive path via scripts/local-config.json:
+      { "gdrive_assets": "G:/My Drive/null-void/World-Bible/assets" }
+    Or set the GDRIVE_ASSETS environment variable.
+    """
+    if abs_path.exists():
+        return abs_path
+
+    gdrive_assets = _get_gdrive_assets_path(repo_root)
+    if not gdrive_assets:
+        return None
+
+    local_assets = repo_root / 'World-Bible' / 'assets'
+    try:
+        rel = abs_path.relative_to(local_assets)
+    except ValueError:
+        return None
+
+    drive_path = gdrive_assets / rel
+    if drive_path.exists():
+        print(f"    Reading from GDrive: {rel}")
+        return drive_path
+
+    return None
+
+
+# ──────────────────────────────────────────────────────────
 # Helpers
 # ──────────────────────────────────────────────────────────
 
@@ -415,25 +492,27 @@ def img_to_base64_uri(img_path: Path) -> str:
     return f'data:{mime};base64,{b64}'
 
 
-def build_cover_markdown(assets_dir: Path, arc_config: dict) -> str:
+def build_cover_markdown(assets_dir: Path, arc_config: dict, repo_root: Path) -> str:
     """Build markdown for the cover page only."""
     cover_path = (assets_dir / arc_config['cover']).resolve()
-    if not cover_path.exists():
-        print(f"  Warning: cover not found: {cover_path}")
+    cover_path = resolve_asset(cover_path, repo_root)
+    if not cover_path:
+        print(f"  Warning: cover not found: {arc_config['cover']}")
         return ''
     cover_b64 = img_to_base64_uri(cover_path)
     print(f"  Cover: {cover_path.name}")
     return f'<div class="cover-page">\n<img src="{cover_b64}" />\n</div>\n'
 
 
-def build_map_markdown(assets_dir: Path, map_file: str) -> str:
+def build_map_markdown(assets_dir: Path, map_file: str, repo_root: Path) -> str:
     """Build markdown for a map page (full bleed)."""
     map_path = (assets_dir / 'maps' / map_file).resolve()
-    if not map_path.exists():
+    map_path = resolve_asset(map_path, repo_root)
+    if not map_path:
         print(f"  Warning: {map_file} not found, skipping")
         return ''
     map_b64 = img_to_base64_uri(map_path)
-    print(f"  Map: {map_path.name}")
+    print(f"  Map: {Path(map_file).name}")
     return f'<div class="cover-page">\n<img src="{map_b64}" />\n</div>\n'
 
 
@@ -477,17 +556,20 @@ def build_content_markdown(arc_config: dict, books_dir: Path) -> str:
         clean = re.sub(r'\*\*(?:POV|Lokácia|Čas|Nálada|Postavy|Cieľ)\*\*:[^\n]*\n*', '', clean)
 
         # Convert image paths to base64 or copy to export/_assets
+        # Falls back to Google Drive via gdrive-manifest.json if file is missing locally
+        repo_root_ref = books_dir.parent.parent
         def fix_img_path(match):
             import shutil
             alt = match.group(1)
             rel_path = match.group(2)
             abs_path = (src.parent / rel_path).resolve()
-            if abs_path.exists():
+            usable = resolve_asset(abs_path, repo_root_ref)
+            if usable:
                 export_assets_dir = books_dir.parent.parent / 'export' / '_assets'
                 export_assets_dir.mkdir(parents=True, exist_ok=True)
                 dest_name = f"{src.stem}_{abs_path.name}"
                 dest_path = export_assets_dir / dest_name
-                shutil.copy2(abs_path, dest_path)
+                shutil.copy2(usable, dest_path)
                 return f'\n<div class="image-wrapper"><img src="_assets/{dest_name}" alt="{alt}" /></div>\n\n'
             print(f"    Warning: image not found: {rel_path}")
             return ''
@@ -602,9 +684,9 @@ def main():
     print(f"Building: {args.arc}\n")
 
     # Build cover, maps, and content markdown
-    cover_md = build_cover_markdown(assets_dir, arc_config)
-    map_md = build_map_markdown(assets_dir, 'map-achilles.jpeg')
-    terra_map_md = build_map_markdown(assets_dir, 'map-terra.png')
+    cover_md = build_cover_markdown(assets_dir, arc_config, repo_root)
+    map_md = build_map_markdown(assets_dir, 'map-achilles.jpeg', repo_root)
+    terra_map_md = build_map_markdown(assets_dir, 'map-terra.png', repo_root)
     content_md = build_content_markdown(arc_config, books_dir)
 
     # Epigraph: use hardcoded or extract from content

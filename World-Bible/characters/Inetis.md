@@ -9,7 +9,7 @@
 | **Glyf** | **Stred** — OG Ex Inferis, nie hrana, ale zdroj. Navrhla Gen 2 aj jeho 5 elementov. Z nej vychádza celý glyf Ex Inferis. |
 | **Rola** | Zakladateľka, tragická bohyňa, architektka, stvoriteľka nanobotov |
 
-![Inetis](../assets/Inetis.png)
+![Inetis](../assets/characters/Inetis/inetis.png)
 
 ### Skutočný pôvod (Tajomstvo)
 Inetis nebola vždy človek. Jej príbeh začal ako **tragédia otca a dcéry**:
