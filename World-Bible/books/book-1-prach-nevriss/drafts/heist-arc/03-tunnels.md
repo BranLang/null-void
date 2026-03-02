@@ -155,7 +155,7 @@ Maks sa uhol za pilier. Oheň preletel okolo neho, zasiahol turbínu. Kov zavrč
 
 Kompresná para — natlakovaná storočia hlboko v útrobách potrubí — prerazila von s revom, ktorý prehlušil aj delostrelectvo na povrchu. Oblak vriaceho bieleho plynu zalial polovicu komory. Kito zatiahol ruky nad tvár a odvrátil sa od horúčavy.
 
-<!-- ![Spira Experiments](../../../../assets/books/book-1/chapter-3-experiments.png) -->
+<!-- ![Spira Experiments](../../../../assets/books/book-1/00-heist-arc/chapter-3-experiments.png) -->
 
 Medveďovi s piatimi očami to zasiahlo pravú stranu. Mäkké stonky očí zasyčali, kryštály popraskali tepelným šokom. Monštrum zaryčalo a začalo bezcieľne udierať labami do pary.
 
@@ -660,7 +660,7 @@ Modré svetlo zhaslo. Yera zdvihla ruky — pomaly, ako keby ju to stálo všetk
 
 Chlapcova hruď stúpala a klesala. Stabilne. Oči zatvorené — bezvedomie, nie smrť. Rana pod kľúčnou kosťou bola stále tam — nezacelená, nie úplne — ale krv prestala tiecť. Pľúca dýchali. Srdce bilo. Žil. [NOTE: nedokončená práca — Yera musela odísť skôr, než dokončila. Bude ju to hryžť.]
 
-![Yera's Healing Grace](../../../../assets/books/book-1/chapter-3-yera-healing.png)
+![Yera's Healing Grace](../../../../assets/books/book-1/00-heist-arc/chapter-3-yera-healing.png)
 
 Tami sa na ňu pozerala. Yera sa pozerala na svoje ruky — od krvi, od svetla, od niečoho, čo bolo medzi tým.
 

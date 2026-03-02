@@ -107,7 +107,7 @@ Inetis ostala sedieť v blate, zatiaľ čo sa jej svet rozpadol. Nie vojenskou p
 
 ### Zlomené Srdce (The Breakdown)
 
-![Inetis Breakdown](assets/books/Inetis/Inetis_breakdown.png)
+![Inetis Breakdown](assets/characters/Inetis/inetis-breakdown.png)
 
 Toto je moment, ktorý definoval jej koniec. Kým Varietas oslavovali víťazstvo a stavali jej sochy, ona plakala. 
 - **Pravá Tvár (Human Mother)**: Najstaršie sochy v Shoraven ju zobrazujú takto — ako ľudskú ženu, kľačiacu v blate, s očami fialovými od sĺz (symbol vesmíru, ktorý stratila). Bez uší, bez chvosta. Len človek.

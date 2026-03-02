@@ -504,7 +504,7 @@ A ten úsmev. Drzý, sebavedomý, nebezpečný. Úsmev bytosti, ktorá vie, že 
 
 Pod kresbou, elegantným písmom: **„TAMI — PIRATE PRINCESS"**
 
-![Tami — Pirate Princess](../../../../assets/characters/Tami/tami-ecchi.png)
+![Tami — Pirate Princess](../../../../assets/characters/Tami/concepts/tami-ecchi.png)
 
 Links cítil, ako sa mu do líc hrnie horúčava. V Neurope bolo umenie funkčné, sterilné, abstraktné. Geometrické vzory na stenách. Harmonické frekvencie v hudobných izbách. Nič takéto. Nič, čo by vyzeralo ako... *toto*.
 

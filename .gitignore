@@ -1,2 +1,11 @@
 .tmp.driveupload
 export/
+
+# Assets live on Google Drive — configure path in scripts/local-config.json
+World-Bible/assets/**
+!World-Bible/assets/.gitkeep
+
+# Machine-specific config (never commit)
+scripts/local-config.json
+scripts/gdrive-token.json
+scripts/credentials.json

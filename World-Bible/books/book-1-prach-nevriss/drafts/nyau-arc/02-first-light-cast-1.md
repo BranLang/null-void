@@ -1,0 +1,235 @@
+> *„Blahoslavená je dcéra, ktorá svieti pre svoj ľud. Beda dcére, ktorá svieti len pre seba."*
+> — Kniha El, 2:16
+
+# Kapitola 2: Prvé Svetlo (Časť 1)
+
+**POV**: Yerana Saéli (3. osoba, limited)
+**Lokácia**: Nyau — chrám El, ulice, vila Saéli
+**Čas**: ~AY 3010, dni pred Lampiónovým festivalom. Yera má 3 zimy (~17 rokov). [NOTE: Interlúdium = PRED festivalom — klietka, zasvätenie, zlatá klietka. Festival sám = Ch1. Po festivale = Ch2.]
+**Nálada**: Dusivá, nespokojná — kontrast s festivalovou nocou
+
+---
+
+Strom v chrámovej záhrade prestal svietiť.
+
+Yera si to všimla ešte počas večernej modlitby — z miesta, kde kľačala v druhom rade za kňažkami, videla na okraj záhrady. Štvrtá vetva zdola, severná strana. Kôra, ktorá ešte ráno žiarila tyrkysovo, bola tmavá. Mŕtva. Akoby niekto v strome zhasol lampu. [→ regions/nyau.md: bioluminiscencia = vedľajší efekt Inetisiných GMO rastlín]
+
+Nikto iný si to nevšimol. Kňažky spievali ku El s tvárami zdvihnutými k oblohe, kadidlo viselo vo vzduchu, ťažké a sladké, a Sai — jantárový mesiac — sa opieral o chrámovú kupolu tak nízko, že jeho svetlo kládlo na dlaždice dvora zlatozelené tiene. Strunová hudba z vnútra chrámu vibrovala v kameni pod kolenami. [→ 05-geography.md: Sai, mesiac Achilles, ľahká hodina]
+
+Yera kľačala, ruky zopnuté, oči zatvorené — tak ako sa patrilo — a myslela na strom.
+
+*Koreň? Parazit? Sucho?*
+
+Hudba stíchla. Kňažky zdvihli ruky k nebu. Moment ticha — ten moment, keď celé mesto zadrží dych a veriaci má cítiť spojenie s El. Spojenie. Presah. Niečo väčšie.
+
+Yera cítila kameň pod kolenami a horúci vzduch na tvári.
+
+---
+
+Po modlitbe ju zastavila Soril. Malá, vychudnutá, s tvárou z brúseného kamenia a očami, ktoré videli viac, než hovorili. [NOTE: Soril ~14 zím (~70 rokov) = stredný vek pre Pursang. Nie stará — tvrdá.] Prísna. Tak prísna, že aj ostatné kňažky predo dverami jej komnaty stíchli a zrovnali chrbát. Soril nevládla mečom, tichom — druh ticha, v ktorom sa každé zlyhanie ozývalo hlasnejšie než výkrik. [NOTE: Soril = hlavná antagonistka v chrámovej línii. Prísna nadradená, ktorej Yera impulzívne ukradne Knihu El — nie z plánu, ale z hnevu a nerozvážnosti.]
+
+„Videla si to."
+
+Nebola to otázka. So Soril to nikdy neboli otázky.
+
+Soril prikývla. Pozrela sa na strom — starý, mohutný, s koreňmi zapustenými hlboko pod chrámovým dvorom. Najstarší strom v Nyau. Podľa legendy ho zasadila El, keď prechádzala krajinou. Podľa Yery ho zasadil niekto, kto presne vedel, čo robí — koreňový systém bol príliš symetrický, príliš efektívny na náhodu. [→ regions/nyau.md: Elaniina stopa ~AY 850-900, GMO rastliny Inetis]
+
+„Oprav ho," povedala Soril. Rovnaký tón, akým sa hovorí psovi: *Sadni. Podaj. Oprav.*
+
+Žiadne *prosím*. Žiadne *mohla by si*. Kňažky nežiadali — prikazovali. A Yera bola Saéli. Saéli nepotrebovali prosiť. Saéli plnili.
+
+Yera kľakla medzi korene.
+
+Zem bola vlhká a teplá. Cítila ju cez tenké nohavice chrámového rúcha — hlinu, vlahu, teplo, ktoré v Nyau nikdy neodchádzalo, ani v noci, ani v tieni, nikdy. Priložila dlane ku kôre. Tetovania na predlaktí sa rozsvietili — akvamarínové línie, tenké ako vlasy, pulzujúce v rytme, ktorý nevychádzal z jej srdca, ale niečo pomalšie. Hlbšie. Rytmus stromu. [→ 03-technology.md: Gen 2 glyf, tetovania na predlaktiach = makro shortcuty pre Spiru]
+
+Voda. Cítila ju všade — v koreňoch, v kambiu, v lyku, v tisíckach vlákien, ktorými strom dýchal. Sledovala ju od zdola nahor, pomaly, kvapku po kvapke. Hľadala.
+
+*Tam.*
+
+Koreň na severnej strane — zauzlený, stlačený, zaseknutý pod kameňom, ktorý tam roky tlačilo korenisko susedného stromu. Cieva v tom mieste praskla. Voda neprúdila. Strom nedostával živiny z celej štvrtiny koreňového systému a pomaly umieral zhora nadol.
+
+„Kameň," povedala Yera. „Tlačí koreň. Prasknutá cieva."
+
+Soril mlčala. Čakala.
+
+Yera sa sústredila. Prsty na kôre ochladli — vždy chladli, keď ťahala vodu príliš dlho, fyzika odvádzaného tepla, nič viac. Voda v pôde pod ňou reagovala — nie násilne, nie prudko, ale mäkko, akoby ju Yera prosila. Presmerovala vodu. Okolo kameňa. Cez mikroskopické praskliny v jeho povrchu. Kvapka po kvapke. Trpezlivo. [→ 03-technology.md: Spira = nanotechnológia, element vody = čas/procesy. Gen 2 nemá systémovú daň — chlad je fyzikálny efekt manipulácie s vodou, nie penalta]
+
+Trvalo to dlho. Kňažky okolo nej stáli a pozerali. Chrámová záhrada bola tichá — len cvrčky v trávach medzi koreňmi. Svetlušky poletovali nízko nad zemou — modré, tyrkysové, zelené bodky — krúžili okolo kmeňa stromu, ktorý Yera liečila, akoby kontrolovali jej prácu. Sai sa posunul o kúsok ďalej. Kadidlo slablo.
+
+Keď Yera zdvihla ruky, prsty mala studené ako ľad. Ale strom sa pomaly rozsvietil — tyrkysová žiara sa vliala od koreňov nahor, vetvu po vetve, list po liste, akoby sa prebúdzal zo sna. Chrámová záhrada sa o niečo rozjasnila.
+
+Soril si ju zmerala. Tvár z kameňa, oči ako zima.
+
+„Saéli krv," povedala. Konštatovanie. Nie pochvala — pochvala predpokladala prekvapenie, a Soril nebola prekvapená. Saéli mali najsilnejšiu Spiru v Nyau. Yera bola najlepšia z mladej generácie. To nebolo chválenie. To bolo očakávanie. [→ regions/nyau.md: Klan Saéli — najvplyvnejší, najstaršia línia, najsilnejšia Spira]
+
+Soril sa k nej naklonila. „Tvoj otec a ja sme sa rozprávali," povedala tichšie. Hlas, ktorý nebol pre ostatné kňažky. „Po festivale sa porozprávame aj my."
+
+*My.* Yera, otec, Soril. To nikdy neznamenalo nič dobré.
+
+*A čo keby sa rozhodnem nesvietiť?* pomyslela si. *Čo keby jedného dňa kľaknem k stromu a neopravím ho? Čo potom?*
+
+Vstala, oprášila si kolená. Cez otvorené dvere chrámu videla dovnútra — svietiace mozaiky, kadidlo, a v strede oltára na stojane *Knihu El*. Stará, ručne šitá, s doskami z bieleho dreva a stránkami, ktoré v tme jemne žiarili — bioluminescentný atrament, staré písmo, staré slová. Najsvätejší predmet v Nyau. Yera ju čítala stokrát. Poznala každý verš. [NOTE: Foreshadowing — Kniha El ako fyzický objekt. Na konci arcu ju Yera ukradne a uteká s ňou.]
+
+A predsa — zakaždým, keď ju videla, mala pocit, že niečo v tých slovách nechápe. Niečo, čo je medzi riadkami, nie v nich.
+
+Poďakovala sa kňažke úklonom hlavy a otočila sa k odchodu.
+
+Na schodoch chrámu sa zastavila. Pod ňou ležalo mesto — kanály, mosty, bazár, klanové vily, prístav v diaľke. Všetko na svojom mieste.
+
+Vrátane nej.
+
+---
+
+Cesta z chrámu dolu kopcom trvala štvrťhodinu. Yera ju poznala naspamäť — každý schod, každý kameň, každý ohyb. Chodila tadiaľ od prvej zimy, keď ako dieťa šliapala po tých istých schodoch príliš malými nohami a kňažky ju museli chytať za ruku, aby nespadla.
+
+Strážkyne kráčali tri kroky za ňou. Nira a ešte jedna, mladšia. Tiché, neviditeľné, ako tiene, ktorých sa nedá zbaviť. Boli tam, odkedy si pamätala. Súčasť sveta, ako svetlo a horúčava. Nie pre ochranu — kto by ublížil Saéli? — ale pre *poriadok*. Dcéra klanu nechodila sama. To sa nerobilo. To sa nikdy nerobilo. Ale Yera vedela, že Nira nie je len tieň. Bola to Mezra — vysoká žena s hybridným mačacím nosom, ostrými pazúrmi na inak ľudských rukách a jemnou vrstvou srsti na predlaktiach. Narozdiel od Yery a iných Pursangov, ktorí mali tváre celkom ľudské, Nira niesla vo svojich črtách divokejšiu krv. Žena s nevýslovnou empatiou, ktorá ju vychovala a presne vedela, kedy sa pýtať a kedy odvrátiť zrak.
+
+Ulice boli poloprázdne. Neskoro — väčšina ľudí spala alebo sa chystala. Ale Nyau nikdy celkom nespalo. Na terase kaviarne pri kanáli sedeli traja starí muži a hrali hru s kamennými kockami, odháňajúc veľké zelené muchy, čo im krúžili okolo pohára. Gondolier pod mostom spieval potichu — pieseň, ktorú Yera poznala, ale nikdy nepočúvala. Mačkovitý chlapec sedel na zábradlí mostu a kýval nohami nad vodou, jedol pečený hmyz zo zamasteného papiera. Voňal korením. [→ regions/nyau.md: pečený hmyz, bežné streetfood]
+
+Yera prešla okolo neho. Chlapec zdvihol oči — zaregistroval chrámové rúcho, Pursang držanie tela, strážkyne — a rýchlo sklopil zrak. Tak fungovalo Nyau. Kasty sa nestretávali. Kasty sa míňali. [→ regions/nyau.md: kastový systém, Pursang + Mezra = absolútne neprípustné]
+
+Yera nikdy celkom nerozumela prečo — a zároveň rozumela úplne.
+
+El bola **človek**.
+
+A Pursangovia sa na ňu podobali najviac. Ľudské tváre, ľudské nosy, ľudská koža — len uši a chvost prezrádzali mačaciu krv. *Stvorení na obraz El.* [NOTE: Kastový systém = teologický základ. El (Elania) bola človek → Pursangovia (Neko, najľudskejší) = božská autorita, najsilnejšia Spira. Mezra (hybridnejší, silnejšie mačacie črty) = nižšia kasta, slabšia Spira. Čím viac sa Varietas podobá na človeka, tým vyššie v hierarchii. Irónia: El nebola bohyňa — bola zdrogovaná, zlomená žena. Ale to nikto na ulici nevie.]
+
+Skrátila si cestu cez Záhrady. Staré stromy, prepletené koruny, menej svetla, viac tieňov. Mach na kameňoch. Cvrčky tu zneli inak než v meste — hlbšie, pomalšie, akoby stromy filtrovali zvuk.
+
+A prastará socha na konci aleje.
+
+Zastavila sa. Zastavovala sa tu často — nie zo záujmu, skôr zo zvyku, z gravitácie, z niečoho, čomu nerozumela. Kamenná socha, pokrytá machom. Vytesané riadky v Staroreči — staré písmená, staré slová, jazyk, ktorý v dobe objaviteľa ešte žil a dnes bol mŕtvy. Yera ich vedela čítať. Každé dievča z klanu Saéli vedelo čítať Staroreč. [→ regions/nyau.md: Staroreč, latinka = bežné písmo, Pursang vzdelanie zahŕňa základy]
+
+Meno kapitána - Eon Labkan. Dátum v starom kalendári prvej éry - 1124. A pod tým — dve vety. Zápis muža, ktorý v noci priblížil loď k neznámemu pobrežiu a uvidel les, ktorý svietil. [→ regions/nyau.md: Objavenie a meno — nevrisský kapitán, ~AY 1000-1200]
+
+*Nyau.*
+
+Zvuk, aký urobíš, keď vidíš niečo také krásne, že zabudneš hovoriť. Nie slovo. Inštinkt. Výkrik úžasu tak veľký, že obíde rozum a ide rovno z brucha.
+
+Yera stála pred tabuľou a premýšľala nad niečím, nad čím nikdy predtým nepremýšľala.
+
+Kapitán videl pobrežie Nyau prvýkrát. Preto bol ohromený. Preto zabudol na slová.
+
+A čo ona? Ona vidí Nyau každý deň. Kanály, stromy, svetlušky, veže chrámov. Každý deň. A nerobí zvuky. Nežasne. Nedíva sa.
+
+*Kedy som prestala vidieť?*
+
+Nira za ňou si potichu odkašľala. Yera sa odtrhla od tabuľe a vykročila ďalej.
+
+---
+
+Vila klanu Saéli stála na svahu nad mestom — biely kameň, stĺpy, vnútorné nádvorie so stromom, ktorý bol pýchou rodiny. Nie najstarší v Nyau — ten patril chrámu. Ale najjasnejší. Svietil tak intenzívne, že v noci vrhala jeho žiara tiene na steny vily a Yera si v detstve myslela, že strom je slnko, ktoré sa zmenilo na strom, aby mohlo svietiť aj po tme. [→ regions/nyau.md: klanové sídla, Saéli vila — biela vila so svetielkujúcim stromom v strede nádvoria]
+
+Vošla cez bočnú bránu. Strážkyne sa zastavili pri dverách — v rámci vily ich nepotrebovala. Tu bola doma, v bezpečí. To bol svet veľký presne na dvadsaťtri izieb, štyri chodby, jednu záhradu a jedno átrium, v ktorom brat kreslil kriedou na dlažbu.
+
+Malý braček s modrými mačacími očami si kreslil kriedou na dlažbu. Sústredil sa, strihal špicatými mačacími uškami a neposlušný chvostík sa akoby snažil nájsť nejakú inú zábavu. Zdvihol hlavu, keď ju počul. Usmiala sa na neho. Usmial sa späť. Bez slova. [NOTE: Brat = mladší, ~5 rokov (~1 zima). Modré oči — po matke, ako Yera. Zmienka 1/2 — nevinný moment, úsmev bez slov. Nie dysfunkcia — len ticho, v ktorom sa dá byť spolu. → characters/Yera.md: brat, TODO — meno]
+
+Otec sedel v záhrade pod stromom.
+
+Zbadala ho okamžite — jeho siluetu na kamennej lavici, čajovú kanvicu vedľa neho, tieň jeho ramien v zeleno-tyrkysovom svetle. Chcela prejsť rovno. Hore po schodoch, do izby, do tmy, pod prikrývku, kde bol svet jednoduchší.
+
+„Yerana."
+
+Celé meno. Nie *Yera*. Yerana. To znamenalo rozhovor. Nie ten dobrovoľný typ rozhovoru.
+
+Sadla si oproti nemu. Svetlo stromu padalo na otcovu tvár a menilo sa — tyrkysové, zelené, znova tyrkysové — a v tom pohyblivom jase videla vrásky, ktoré cez deň nevidela. Otec nebol starý. Pursangovia žili dlhšie než ostatné kasty a jeho krv bola čistá — desať generácií Saéli. Tak o tom hovoril. *Čistá krv.* Akoby krv mohla byť špinavá. [→ regions/nyau.md: medzikastové tabu, klany sledujú rodokmeň do 10. generácie, čistota krvi = čistota Spiry]
+
+Ale oči mal unavené. Oči muža, ktorý niesol meno príliš dlho a zabudol, ako vyzerá bez neho.
+
+„Bola si v chráme."
+
+„Áno."
+
+Otec nalial čaj. Dve šálky — vedel, že príde. Vždy vedel. Čaj voňal miestnym korením — niečím sladkastým a korenitým zároveň, vôňa, ktorú nikto mimo Nyau nepoznal. [→ regions/nyau.md: korenený čaj, každý klan má vlastnú receptúru]
+
+„Lampiónový festival je o dva dni," povedal. Akoby hovoril o počasí. Akoby to nebola udalosť, pre ktorú žilo celé mesto.
+
+Yera čakala. Vedela, že veta nekončí.
+
+„Soril hovorila s Najvyššou Radou." Otec hovoril pokojne. Bez emócií. Vecne. Slová ako šachové ťahy — premyslené tri kroky dopredu. „Chcú ťa. Pre Chrám. Ako novú Eltáriu." [→ regions/nyau.md: Kňažky Cirkvi El majú nezávislé postavenie — mimo klanovej politiky. Pre dcéru klanu je vstup do Chrámu = obrovská prestíž pre celú rodinu]
+
+Pauza. Svetlo stromu sa zachvelo — vánok cez korunu, tiene na otcovej tvári, tiene na Yerinej. Vzduch bol horúci a ťažký, napustený vôňou kvetov zo záhrady, vôňou čaju, vôňou kadidla, ktoré sa sem nieslo z chrámu cez celé mesto. Cikády v korune stromu vibrovali — ten vysoký, ostrie-brúsiaci zvuk, čo patril k nyauským nociam tak isto ako kadidlo a svetlo. Strunová hudba dohrala. Posledná modlitba dňa.
+
+„Po festivale začne zasvätenie."
+
+Slová padli do ticha záhrady. Yera ich čakala — nie tieto, nie presne tieto — a predsa ju zasiahli. *Zasvätenie. Chrám. Celý život.*
+
+„Na celý život v službe niečomu väčšiemu, než si ty. Než som ja. Než je klan." Otec hovoril pokojne, ale v jeho hlase bolo niečo, čo Yera počula zriedka — presvedčenie. Nie klanová povinnosť, nie politická kalkulácia. *Viera.* „Najvyššia pocta, akú môže Saéli dosiahnuť. Dcéra Prvého Svetla v službe El."
+
+*Pocta.* Yera to slovo obrátila v hlave. Pocta pre koho? Pre ňu — alebo pre klan, ktorý sa bude môcť chváliť, že dal El jej Eltáriu?
+
+„A ak nechcem?" povedala.
+
+Nie hnevom. Nie rebelsky. Tichým, pokojným hlasom, akým sa pýtajú otázky, na ktoré neexistujú odpovede.
+
+Otec sa na ňu pozrel. Nie nahnevane — pozorne. Spôsobom, akým skúmal aj klanové zmluvy — hľadal skryté klauzuly, hľadal slabiny, hľadal to, čo nebolo napísané.
+
+„Si Saéli." Povedal to rovnako, ako to hovoril vždy. Rovnaký tón. Rovnaká váha. Meno ako múr. Meno ako gravitácia — niečo, proti čomu sa nedalo bojovať, len padať. „Máš povinnosti. Voči klanu. Voči mne. Voči svetlu, ktoré nesieme." [→ regions/nyau.md: Saéli = „Prvé Svetlo"]
+
+*Svetlo, ktoré nesieme.* Prvé Svetlo. Saéli. Najstaršia línia. Najsilnejšia Spira. Najjasnejší strom v nádvorí. Najčistejšia krv. Najviac povinností.
+
+„A voči sebe?" spýtala sa Yera. Tichšie. Takmer pre seba.
+
+Otec odložil šálku. Pomaly, premyslene, gesto muža, ktorý nikdy nič nerobil narýchlo. Svet patril jemu. Čas patril jemu. A dcéra patrila klanu.
+
+„Voči sebe máš povinnosť byť tou, kým si."
+
+„A kým som?"
+
+Otec sa takmer usmial. Takmer. Kútiky úst sa jemne zdvihli — a vrátili sa. „Saéli," povedal. Akoby to bola odpoveď na všetky otázky naraz.
+
+Yera vstala. „Dobrú noc, otec."
+
+Nedotkol sa jej. Neusmial sa. Len prikývol — rovnako pomaly, rovnako premyslene — a vrátil sa k čaju.
+
+Keď vychádzala na schody, počula za sebou jemné cinknutie porcelánu o porcelán. V tichu záhrady to zaznelo ako zatvorenie dverí.
+
+Na treťom schode sa zastavila. Nie zámerne — nohy sa zastavili samy.
+
+Otočila sa napoly. Otec sedel pod stromom a držal šálku oboma rukami. Nehýbal sa. Nepil. Pozeral sa na miesto, kde pred chvíľou sedela — na prázdnu stoličku, na odtlačok v kameni, na nič. Svetlo stromu mu padalo na tvár a Yera videla niečo, čo si nikdy predtým nedovolila vidieť. Vrásky okolo očí boli hlbšie, než si myslela. A ruky — tie silné, isté, ruky — sa zachveli. Len na sekundu. Len o jemne. Ale zachveli. [NOTE: Zrkadlový motív — „šestnástina palca" callback na otcov takmer-úsmev z rozhovoru. Rovnaká miera pohybu, opačný smer. Vtedy skoro úsmev. Teraz — skoro niečo iné.]
+
+*Bol v klietke tiež.*
+
+Otočila sa a vyšla hore.
+
+---
+
+Izba bola jej. Jediné miesto vo vile, kde meno nič neznamenalo.
+
+Malá — príliš malá pre dcéru klanu Saéli, hovorili ostatní, ale Yera si vybrala túto izbu, keď mala jednu zimu, a nikdy sa nepresťahovala. Steny z bieleho kameňa, hladké a chladné pod prstami. Okno. Balkón. [NOTE: V matkinej skrini visí babičkin kabát — kožený, s kožušinovým golierom. Yera ho vidí zakaždým, keď ide okolo. Príliš veľký. Príliš dospelý. Matka ho nikdy nenosí, nikdy o ňom nehovorí. Len visí. Čaká. → characters/Yera.md: kabát od babičky, matka ho uchováva, dá ho Yere pri úteku (ch5)]
+
+Vyšla na balkón.
+
+Pod ňou ležalo mesto — kanály sa kľukatili mestom ako žily, mosty ich krížili po stovkách, celé štvrte sa strácali v tme medzi bioluminiscenčnými alejami. Vzducholode rachotili nad strechami — osvetlené lampami a modrými svetlami, motory duneli, každá iným smerom. Prístav v diaľke žiaril tisíckami svetiel. Cez prístav prichádzal svet. Cez prístav odchádzal svet. A ona ho pozorovala z balkóna, tri poschodia nad zemou, za kameňom a svetlom a strážkyňami — a nikdy v ňom nestála. [→ regions/nyau.md: prístav, metropola. Yera nikdy nebola na ulici — z vily do chrámu a späť, celý život.]
+
+Otcove slová viseli vo vzduchu ako kadidlo — ťažké, voňavé, dusiace.
+
+*Eltária.*
+
+Vedela, čo to znamenalo. Celý život za chrámovými múrmi. Žiadny muž. Žiadne deti. Žiadna loď v prístave, žiadny obzor za horizontom. Len kadidlo, modlitby, spev a strom, ktorý treba liečiť. [→ regions/nyau.md: Kňažky Cirkvi El — nezávislé postavenie, ale celoživotný záväzok]
+
+V Nyau neexistovala slobodná volba. V Nyau sa plnilo. Dcéry klanu boli buď sľúbené mužom, alebo sľúbené bohom. Iná klietka, rovnaký zámok.
+
+Položila ruky na zábradlie. Pazúriky — jemné, krátke, svetlé — zaškrípali o hranu. Nevedome. Zvuk, ktorý nikto nepočul.
+
+Na hlavnom námestí pred Chrámom sa niečo pohlo. Robotníci v lampášovom svetle vešali šnúry medzi stĺpy. Papierové kostry lampiónov sa hojdali vo vánku — prázdne, nerozsvietené.
+
+*Festival.* O dva dni. Posledný festival pred zasvätením — posledná noc, keď je ešte len dcéra, nie kňažka. Bude pozerať na lampióny zhora, z balkóna, vedľa otca. Ako vždy. [→ regions/nyau.md: Lampiónový festival, tradícia maskovania]
+
+Stisla ruky na zábradlí. Pazúriky zaškrípali hlasnejšie. Nikto to nepočul. Nikto nikdy nepočul.
+
+Z chrámu sa niesla posledná melódia — kňažky dokonávali nočnú modlitbu. *El je svetlo. El je cesta. El sa vráti.* [→ regions/nyau.md: Cirkev El, základná modlitba. IRÓNIA: Elania skutočne plánuje „návrat" cez Upload]
+
+Yera cítila len horúci vzduch a ťažké kadidlo.
+
+Poriv vetra zdvihol z prístavu vôňu, ktorá nepatrila balkónom — soľ, decht, surové drevo. Hodvábna šatka, zabudnutá na zábradlí vedľajšieho balkóna, sa strhla a odletela do tmy. Yera ju sledovala — biely vtáčik, menší a menší — kým nezmizla nad kanálom.
+
+*Tak ľahko.*
+
+Mesto svietilo. Hviezdy svietili. A medzi tým všetkým — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Liečiteľka. Zasvätená. Klietková.
+
+*Kedy som prestala svietiť?*
+
+Hľadela na prístav. Na obzor za ním — tmavý, nekonečný, plný vecí, ktoré nevidela a možno nikdy neuvidí.
+
+*— koniec interlúdia —*
