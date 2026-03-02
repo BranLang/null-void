@@ -25,23 +25,36 @@ import argparse
 from pathlib import Path
 
 # Pattern matches: [→ anything], [NOTE: anything], [TODO: anything], [FIXME: anything]
+# Captures surrounding whitespace separately so we can preserve newlines.
 COMMENT_PATTERN = re.compile(
-    r'\s*\['
+    r'(?P<ws_before>\s*)'
+    r'\['
     r'(?:'
     r'→[^\]]*'           # [→ ...]
     r'|NOTE:\s*[^\]]*'   # [NOTE: ...]
     r'|TODO:\s*[^\]]*'   # [TODO: ...]
     r'|FIXME:\s*[^\]]*'  # [FIXME: ...]
     r')'
-    r'\]\s*'
+    r'\]'
+    r'(?P<ws_after>\s*)'
 )
 
 
 def _replace_comment(match: re.Match) -> str:
-    """Replace comment with a single space if it's between text, otherwise empty."""
+    """Replace comment, preserving newlines when the comment spans line boundaries."""
+    ws_before = match.group('ws_before')
+    ws_after = match.group('ws_after')
+    nl_before = ws_before.count('\n')
+    nl_after = ws_after.count('\n')
+    total_nl = nl_before + nl_after
+    # If the comment had newlines around it, preserve at least one blank line
+    if total_nl >= 2:
+        return '\n\n'
+    elif total_nl == 1:
+        return '\n'
+    # Inline comment between text — keep a space
     s = match.string
     start, end = match.start(), match.end()
-    # If there's text before AND after the comment, keep a space
     if start > 0 and end < len(s) and s[start - 1] not in ' \t\n' and s[end] not in ' \t\n':
         return ' '
     return ''

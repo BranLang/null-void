@@ -102,11 +102,11 @@ Arkot prikývol. Nemal dôvod pochybovať. Položil ruku na lavičku vedľa nej 
 
 Záhrada svietila.
 
-Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — cedili z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Svetlušky medzi nimi — krúžiace, poletujúce, modré a tyrkysové a žlté — pridávali pohyblivé bodky svetla k nehybným. Cvrčky sa ozvali v tom istom okamihu keď Yera sadla — akoby len čakali na publikum. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
+Stromy okolo nich — staré, prepletené, bioluminiscenčné koruny vysoko nad hlavou — cedili z tmy tyrkysové svetlo, ktoré menilo Arkotovu tvár na masku z farebného skla. Mach na kameňoch pod lavičkou fosforeskoval modrozeleno. Nočné kvety na múre za nimi — fialové, biele, ružové — sa otvorili pred hodinou a pulzovali v pomalom rytme, každý vo vlastnom tempe. Svetlušky medzi nimi — krúžiace, poletujúce, modré a tyrkysové a žlté — pridávali pohyblivé bodky svetla k nehybným. Cvrčky sa ozvali v tom istom okamihu, keď Yera sadla — akoby len čakali na publikum. [→ regions/nyau.md: bioluminescentná záhrada — vedľajší efekt Inetisiných GMO rastlín]
 
 Arkot hovoril.
 
-O práci v prístave — vrecia, laná, žeriavy, kapitán, čo sa hádal s colníkom pre tri debny korenia. O Flintovi, ktorý dnes spadol do kanálu a musel sa sušiť na slnku ako ryba. O poštovom holubovi, čo sa vrátil z Beladiss s prázdnym puzdrom — niekto zabudol vložiť správu, celý prístav sa smial. O lodi, čo priplávala z Beladiss — malá bárka s opravenými plachtami, plná sušených rýb a správ z domova, ktoré už neboli jeho domov. Normálne veci. Zemské veci. [→ characters/Arkot.md: Beladiss, prístav. Flint = najlepší priateľ od detstva.]
+O práci v prístave — vrecia, laná, žeriavy, kapitán, čo sa hádal s colníkom pre tri debny korenia. O Flintovi, ktorý dnes spadol do kanálu a musel sa sušiť na slnku ako ryba. O poštovom holubovi, čo sa vrátil z Beladiss s prázdnym puzdrom — niekto zabudol vložiť správu, celý prístav sa smial. O lodi, čo priplávala z Beladiss — malá bárka s opravenými plachtami, plná sušených rýb a správ z domova, ktorý už nebol jeho domov. Normálne veci. Zemské veci. [→ characters/Arkot.md: Beladiss, prístav. Flint = najlepší priateľ od detstva.]
 
 A Yera počúvala napoly.
 
@@ -192,7 +192,7 @@ Vstala. Nohy ju počúvali — to bolo prekvapujúce. Prsty sa dotkli steny a Ye
 
 Nočný vzduch. Záhrada. Cvrčky a bioluminiscenčný mach na kmeňoch.
 
-Pri chrámovej bráne stáli dve postavy. Nira — rovná, nehybná, s plášťom prehodenom cez plece a rukou na opasku. Vedľa nej druhá strážkyňa, mladšia, s kopijou. Čakali. Soril im povedala, aby čakali. [→ characters/Yera.md: Nira — strážkyňa klanu Saéli, pridelená Soril na dohľad po podozrení z Ch3. Strážia Yeru pri nočných návštevách chrámu.]
+Pri chrámovej bráne stáli dve postavy. Nira — rovná, nehybná, s plášťom prehodeným cez plece a rukou na opasku. Vedľa nej druhá strážkyňa, mladšia, s kopijou. Čakali. Soril im povedala, aby čakali. [→ characters/Yera.md: Nira — strážkyňa klanu Saéli, pridelená Soril na dohľad po podozrení z Ch3. Strážia Yeru pri nočných návštevách chrámu.]
 
 Yera prešla medzi nimi.
 
@@ -270,7 +270,7 @@ A potom — v tichu, keď Arkot ukazoval na hviezdu nad obzorom a vysvetľoval, 
 
 *Rovnaké symboly ako v šifrách.*
 
-Myšlienka blikla a zhasla. Yera ju zachytila — ale nedokončila. Arkot hovoril o prúdoch a vetrom a uhle 20 stupňov z Nyau do Beladiss a ona sa nechala viesť jeho hlasom preč od šifier, preč od podzemnej kaplnky, preč od fialových žiliek.
+Myšlienka blikla a zhasla. Yera ju zachytila — ale nedokončila. Arkot hovoril o prúdoch a vetre a uhle 20 stupňov z Nyau do Beladiss a ona sa nechala viesť jeho hlasom preč od šifier, preč od podzemnej kaplnky, preč od fialových žiliek.
 
 Ale myšlienka sa vrátila. Ešte tam, na lavičke, s jeho ramenom na svojom. Ešte s hviezdami nad sebou a mosadzným nástrojom v lone.
 
@@ -348,7 +348,7 @@ Podzemie. Sviečka. Kniha.
 
 Zápisník sa plnil. Yera si kreslila symboly z šifier — prekreslovala ich, porovnávala, hľadala vzory. Niekedy vedľa glyfového systému z chrámových príručiek. Niekedy vedľa hiragany. Niekedy vedľa Staroreči.
 
-Niektoré symboly sa začali otvárať. Nie ako slová — nie preklady, nie definície. Ako vzorce. Niečo opakujúce sa, niečo systémové, niečo, čo malo logiku, aj keď Yera nevedela akú.
+Niektoré symboly sa začali otvárať. Nie ako slová — nie preklady, nie definície. Ako vzorce. Niečo opakujúce sa, niečo systémové, niečo, čo malo logiku, aj keď Yera nevedela, akú.
 
 *Tri symboly sa vrátili na každej tretej strane.* Vždy v rovnakom poradí — trojuholník, kruh, čiarka. Vedľa nich čísla v desiatkovej sústave. A pod nimi — vždy — jeden z glyfových elementov v jej notácii. [→ the-book-of-El.md: Elaniin kód = vedecká notácia pre nanotechnológiu. Yera vidí vzory, ale nechápe obsah. Pre čitateľa: molekulárna biológia, genetika, nanotech špecifikácie.]
 
@@ -372,13 +372,13 @@ Yera to zbadala, len čo si sadla. Niečo v tom, ako sedel — rovnako ako vždy
 
 Nie otázka. Konštatovanie. Arkot sa nepozeral na ňu — pozeral do koruny stromu nad nimi, do spleti bioluminiscenčných vetiev, ako keby tam hľadal niečo konkrétne. [→ 06-society.md: Kastový systém — Mezra s Pursang = spoločenské tabu. Nie zakázané, ale *videné*.]
 
-*„Dve. Niekedy tri."* Prsty prestali bubnovat. *„Striedajú sa. Myslia si, že som hlúpy."*
+*„Dve. Niekedy tri."* Prsty prestali bubnovať. *„Striedajú sa. Myslia si, že som hlúpy."*
 
 Yera stuhla. Vedela o strážkyniach — vedela o nich od tej noci, keď Soril povedala *dávajte na ňu lepší pozor*. Vedela, kto sú a prečo tam sú. Ale Arkot nevedel. Arkot videl Pursang dievča vedľa seba a spojil si to tak, ako by si to spojil každý Mezra v Nyau. [→ drafts/nyau-arc/03-black-book.md: Soril na konci kapitoly prikáže strážkyniam sledovať Yeru bližšie. → characters/Arkot.md: Arkot nie je paranoidný — je navigátor. Číta vzorce. Ľudské aj hviezdne.]
 
 *„Kvôli mne,"* dodal. Ticho. Potom, tvrdšie: *„Kvôli tebe. Že si so mnou."*
 
-Yera otvorila ústa. Zavri ich. Otvor. *Povedz mu pravdu*
+Yera otvorila ústa. Zavri ich. Otvor. *Povedz mu pravdu.*
 
 *„Budem opatrnejšia,"* povedala nakoniec.
 
@@ -392,7 +392,7 @@ Opatrne. Slová kladené vedľa seba ako kamene cez potok — presne, jeden za d
 
 *„Vzducholoď. Hľadá posádku."* [→ drafts/nyau-arc/02.1-interlude-itaka.md: Itaka v prístave — Tami hľadá posádku. Flint sa pridá prvý, potom zavolá Arkota. → NOTE: Foreshadowing Interludia.]
 
-Yera počúvala. Slová boli jednoduché — vzducholoď, posádka. Navigátorské slová. Arkotove slová. Ale pod nimi bolo niečo iné, niečo, čo Yera cítila skôr ako cítila — otras, hlboko, pod povrchom, kým je na povrchu ešte ticho.
+Yera počúvala. Slová boli jednoduché — vzducholoď, posádka. Navigátorské slová. Arkotove slová. Ale pod nimi bolo niečo iné, niečo, čo Yera tušila skôr, ako cítila — otras, hlboko, pod povrchom, kým je na povrchu ešte ticho.
 
 *„Pôjdeš?"* spýtala sa. Hlas pokojný. Saéli. Vnútri — priepasť.
 
@@ -478,7 +478,7 @@ Yera sa zastavila. *Angel.* Poznala to slovo — Cirkev ho učila od prvého dň
 
 *Maybe that will be enough.*
 
-Čistý rukopis — prvýkrát za desiatky strán. Žiadne chvenie, žiadne škrabance, žiadne prečiarknuté slová. Ruka ženy, ktorá sa prestala báť. [NOTE: Yera vidí zmenu rukopisu — Elaniin tón sa po príchode Anjela úplne mení. Čistý, istý, nádejný. „Black dust" = Sera používa čiernu Spiru (Kvintesencia/neviditeľnosť). „The demon never saw her" = Samaell mal schopnosť zabiť pohľadom, Sera ho obišla neviditeľnosťou. Pre Yeru: nový údaj — Anjel je neviditeľná, používa čierny Prach. Toto nie je v bielej Knihe. → the-book-of-El.md: Sera bodla Samaella neviditeľná. → characters/Sera.md: čierna Spira.]
+Čistý rukopis — prvýkrát za desiatky strán. Žiadne chvenie, žiadne škrabance, žiadne prečiarknuté slová. Ruka ženy, ktorá sa prestala báť. [NOTE: Yera vidí zmenu rukopisu — Elaniin tón sa po príchode Anjela úplne mení. Čistý, istý, nádejný. „He never saw her" = Samaell mal schopnosť zabiť pohľadom, Sera ho obišla neviditeľnosťou (čierna Spira = Kvintesencia/neviditeľnosť). Pre Yeru: nový údaj — Anjel je neviditeľná, používa čierny Prach. Toto nie je v bielej Knihe. → the-book-of-El.md: Sera bodla Samaella neviditeľná. → characters/Sera.md: čierna Spira.]
 
 Yera plakala.
 
@@ -531,6 +531,7 @@ Yera ležala s otvorenými očami. V jednej ruke teplo, ktoré Arkot nechal na j
 Teplo a svetlo.
 
 A medzi nimi — ona. Yerana Saéli. Dcéra klanu Prvého Svetla. Budúca Eltária.
+
 Zavrela oči.
 
 *Maybe that will be enough.*
@@ -551,7 +552,7 @@ Zavrela oči.
 
 [NOTE: RESOLVED — otec zostáva cez absenciu. Kapitola je o dvoch magnetoch (Kniha/Arkot). Tretí by rozbíjal binárnu tenziu. Otec existuje implicitne cez „Saéli školenie" zmienky (r.115, r.277) — to stačí.]
 
-[RESOLVED: Arkotov odchod riešený v 04.5-interlude-breakup.md — Arkot dá kopacky ("Kedy ma chceš predstaviť rodičom?"), odíde s Flintom na Kortegovu bárku.]
+[RESOLVED: Arkotov odchod riešený v 04.5-interlude-breakup.md — Arkot dá kopacky ("Kedy ma chceš predstaviť rodičom?"), odíde s Flintom na Kortegovu vzducholoď.]
 
 [→ Celá kapitola vychádza z books/planning/nyau-arc/03-temptation.md — 7-scénový plán]
 [→ Kniha El: the-book-of-El.md — apokryfy, šifry, haiku, posledný zápis]
